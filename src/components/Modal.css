@@ -1,0 +1,125 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 30, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  color: #333;
+}
+
+.guessing-modal {
+  max-width: 600px;
+}
+
+.modal-content h2 {
+  margin-top: 0;
+  text-align: center;
+  color: #0000AF;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.btn-primary {
+  background-color: #0000AF;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: #00008b;
+}
+
+/* Guessing modal specific styles */
+.players-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.correct-guessers,
+.incorrect-guessers {
+  flex: 1;
+  min-width: 200px;
+}
+
+.players-container h4 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.correct-guessers h4 {
+  color: #198754;
+}
+
+.incorrect-guessers h4 {
+  color: #dc3545;
+}
+
+.player-choice {
+  margin-bottom: 0.5rem;
+}
+
+.player-choice label {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.player-choice label:hover {
+  background-color: #f0f0f0;
+}
+
+.player-choice label.selected {
+  background-color: #e0e0e0;
+  font-weight: bold;
+}
+
+.player-choice input {
+  margin-right: 0.5rem;
+}

@@ -2,6 +2,26 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+  position: relative;
+}
+
+.reset-users-btn {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: #0000AF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  z-index: 100;
+  transition: background-color 0.2s;
+}
+
+.reset-users-btn:hover {
+  background-color: #00008b;
 }
 
 .jeopardy-controls {

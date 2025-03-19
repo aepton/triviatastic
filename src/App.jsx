@@ -145,7 +145,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="title">Jeopardy!</h1>
+      <h1 className="title">¡Jeopardy!</h1>
       
       <div className="archive-tools">
       {false &&

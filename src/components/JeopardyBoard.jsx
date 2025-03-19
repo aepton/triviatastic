@@ -1,6 +1,8 @@
 import React, { useState, useEffect, forwardRef, useImperativeHandle } from 'react';
 import './JeopardyBoard.css';
 import Category from './Category';
+import UserSetupModal from './UserSetupModal';
+import Scoreboard from './Scoreboard';
 
 // Default data in case the fetch fails
 const DEFAULT_CATEGORIES = [
@@ -91,6 +93,8 @@ const JeopardyBoard = forwardRef((props, ref) => {
   const [categories, setCategories] = useState(DEFAULT_CATEGORIES);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
+  const [showUserSetupModal, setShowUserSetupModal] = useState(true);
+  const [users, setUsers] = useState([]);
 
   // Expose the setCategories method to parent components via ref
   useImperativeHandle(ref, () => ({
@@ -120,16 +124,55 @@ const JeopardyBoard = forwardRef((props, ref) => {
     }
   };
 
+  const handleSaveUsers = (newUsers) => {
+    setUsers(newUsers);
+    setShowUserSetupModal(false);
+  };
+
+  const handleScoreUpdate = (updatedUsers) => {
+    setUsers(updatedUsers);
+  };
+
+  const handleResetUsers = () => {
+    setShowUserSetupModal(true);
+  };
+
   return (
     <div className="jeopardy-container">
       {isLoading && <div className="loading">Loading...</div>}
       {error && <div className="error">Error: {error}</div>}
       
+      {/* User Setup Modal */}
+      {showUserSetupModal && (
+        <UserSetupModal 
+          onClose={() => setShowUserSetupModal(false)} 
+          onSaveUsers={handleSaveUsers} 
+        />
+      )}
+      
       <div className="jeopardy-board">
         {categories.map((category, index) => (
-          <Category key={index} category={category} />
+          <Category 
+            key={index} 
+            category={category} 
+            users={users}
+            onScoreUpdate={handleScoreUpdate}
+          />
         ))}
       </div>
+      
+      {/* Reset Users Button */}
+      {users.length > 0 && (
+        <button 
+          className="reset-users-btn" 
+          onClick={handleResetUsers}
+        >
+          Reset Players
+        </button>
+      )}
+      
+      {/* Scoreboard */}
+      {users.length > 0 && <Scoreboard users={users} />}
     </div>
   );
 });
