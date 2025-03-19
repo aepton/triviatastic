@@ -1,0 +1,130 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  color: #FFCC00;
+  text-shadow: 3px 3px 0 #000;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.archive-tools {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.button-group {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.parse-button, .load-button {
+  background-color: #0066CC;
+  color: white;
+  border: 2px solid #003366;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.parse-button:hover, .load-button:hover {
+  background-color: #004C99;
+}
+
+.parse-button:active, .load-button:active {
+  transform: translateY(2px);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.parse-button:disabled, .load-button:disabled {
+  background-color: #999;
+  cursor: not-allowed;
+  border-color: #666;
+}
+
+.load-button {
+  background-color: #28a745;
+  border-color: #1e7e34;
+}
+
+.load-button:hover {
+  background-color: #218838;
+}
+
+.fetch-button {
+  background-color: #17a2b8;
+  border-color: #138496;
+}
+
+.fetch-button:hover {
+  background-color: #138496;
+}
+
+.game-info {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 4px 10px;
+  background-color: #f1f1f1;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.message {
+  margin-top: 1rem;
+  padding: 8px 16px;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  border-left: 4px solid #0066CC;
+  max-width: 600px;
+  text-align: center;
+}
+
+.round-selector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.round-button {
+  background-color: #9B59B6;
+  color: white;
+  border: 2px solid #8E44AD;
+  padding: 8px 16px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.2s, transform 0.1s;
+  margin-bottom: 0.5rem;
+}
+
+.round-button:hover {
+  background-color: #8E44AD;
+}
+
+.round-button:active {
+  transform: translateY(2px);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.round-button.active {
+  background-color: #8E44AD;
+}
+
+.round-indicator {
+  font-size: 0.9rem;
+  color: #444;
+}

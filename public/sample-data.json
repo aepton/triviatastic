@@ -1,0 +1,62 @@
+[
+  {
+    "title": "PROGRAMMING",
+    "questions": [
+      { "value": 200, "question": "This language is known for its curly braces and semicolons", "answer": "JavaScript" },
+      { "value": 400, "question": "This build tool uses a webpack.config.js file", "answer": "Webpack" },
+      { "value": 600, "question": "This JavaScript framework was created by Facebook", "answer": "React" },
+      { "value": 800, "question": "This paradigm treats computation as the evaluation of mathematical functions", "answer": "Functional Programming" },
+      { "value": 1000, "question": "This sorting algorithm has an average time complexity of O(n log n)", "answer": "Quick Sort" }
+    ]
+  },
+  {
+    "title": "VIDEO GAMES",
+    "questions": [
+      { "value": 200, "question": "This plumber is Nintendo's mascot", "answer": "Mario" },
+      { "value": 400, "question": "This game features a character named Master Chief", "answer": "Halo" },
+      { "value": 600, "question": "This battle royale game was created by Epic Games", "answer": "Fortnite" },
+      { "value": 800, "question": "This game series features the Umbrella Corporation", "answer": "Resident Evil" },
+      { "value": 1000, "question": "This MMORPG by Blizzard was released in 2004", "answer": "World of Warcraft" }
+    ]
+  },
+  {
+    "title": "ASTRONOMY",
+    "questions": [
+      { "value": 200, "question": "This planet is known as the Red Planet", "answer": "Mars" },
+      { "value": 400, "question": "This is the largest moon of Jupiter", "answer": "Ganymede" },
+      { "value": 600, "question": "This scientist formulated the laws of planetary motion", "answer": "Johannes Kepler" },
+      { "value": 800, "question": "This phenomenon occurs when a star explodes", "answer": "Supernova" },
+      { "value": 1000, "question": "This structure is theorized to be at the center of most galaxies", "answer": "Supermassive Black Hole" }
+    ]
+  },
+  {
+    "title": "MYTHOLOGY",
+    "questions": [
+      { "value": 200, "question": "This Norse god wields the hammer Mjölnir", "answer": "Thor" },
+      { "value": 400, "question": "This Greek hero slayed the Minotaur", "answer": "Theseus" },
+      { "value": 600, "question": "This Egyptian god has the head of a jackal", "answer": "Anubis" },
+      { "value": 800, "question": "These creatures in Greek mythology were half-man and half-horse", "answer": "Centaurs" },
+      { "value": 1000, "question": "This titan was condemned to hold up the sky for eternity", "answer": "Atlas" }
+    ]
+  },
+  {
+    "title": "LITERATURE",
+    "questions": [
+      { "value": 200, "question": "This author wrote 'To Kill a Mockingbird'", "answer": "Harper Lee" },
+      { "value": 400, "question": "This Shakespeare play features the character Puck", "answer": "A Midsummer Night's Dream" },
+      { "value": 600, "question": "This novel by George Orwell features a character named Winston Smith", "answer": "1984" },
+      { "value": 800, "question": "This Russian author wrote 'Crime and Punishment'", "answer": "Fyodor Dostoevsky" },
+      { "value": 1000, "question": "This epic poem by Homer tells the story of a journey home after the Trojan War", "answer": "The Odyssey" }
+    ]
+  },
+  {
+    "title": "FOOD & DRINK",
+    "questions": [
+      { "value": 200, "question": "This Italian rice dish is cooked slowly in broth", "answer": "Risotto" },
+      { "value": 400, "question": "This spirit is the main ingredient in a Mojito", "answer": "Rum" },
+      { "value": 600, "question": "This Japanese dish consists of raw fish on vinegared rice", "answer": "Sushi" },
+      { "value": 800, "question": "This French sauce is made with egg yolks, butter, and lemon juice", "answer": "Hollandaise" },
+      { "value": 1000, "question": "This expensive fungus is hunted by trained pigs or dogs", "answer": "Truffle" }
+    ]
+  }
+]

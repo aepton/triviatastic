@@ -1,0 +1,26 @@
+.category {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.category-title {
+  background-color: #0000AF;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 15px 10px;
+  font-size: 1rem;
+  border: 3px solid black;
+  border-radius: 5px;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.category-questions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
