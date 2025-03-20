@@ -1,0 +1,574 @@
+{
+  "title": "Show #1881 - Monday, November 9, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "THE 1890s",
+      "FRENCH CUISINE",
+      "ACTRESSES",
+      "LAMP PEOPLE",
+      "CHILDREN'S LITERATURE",
+      "\"T\" ON THE MAP"
+    ],
+    "clues": [
+      {
+        "category": "THE 1890s",
+        "value": 100,
+        "question": "In February 1898, this battleship sent to protect U.S. citizens & property in Cuba mysteriously blew up",
+        "answer": "the Maine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CUISINE",
+        "value": 100,
+        "question": "Popeye might like epinards au beurre, which is this vegetable with butter",
+        "answer": "spinach",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 100,
+        "question": "Annette Bening's pregnancy kept her from playing this \"feline\" role in \"Batman Returns\"",
+        "answer": "the Catwoman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LAMP PEOPLE",
+        "value": 100,
+        "question": "He didn't dream of Genie, but of Badrul-Bodor, the Sultan of China's daughter",
+        "answer": "Aladdin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 100,
+        "question": "\"Jim Smiley and His Frog\" was the original title of \"The Celebrated Jumping Frog of\" this place",
+        "answer": "Calaveras County",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"T\" ON THE MAP",
+        "value": 100,
+        "question": "This is the largest & most important French island in the south Pacific",
+        "answer": "Tahiti",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 200,
+        "question": "It was in the late 1890s that he first described the Oedipus Complex",
+        "answer": "Sigmund Freud",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CUISINE",
+        "value": 200,
+        "question": "You can use the instant type of this beverage to make a souffle au cafe",
+        "answer": "coffee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 200,
+        "question": "In 1991 Bruce Willis rented Six Flags Magic Mountain for this actress's 29th birthday party",
+        "answer": "Demi Moore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LAMP PEOPLE",
+        "value": 200,
+        "question": "Legend has it Diogenes carried a lighted lamp in daylight searching for one of these",
+        "answer": "an honest man",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 200,
+        "question": "The adventures of Rat, Mole, Toad & Badger are told in this 1908 British book",
+        "answer": "The Wind in the Willows",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"T\" ON THE MAP",
+        "value": 200,
+        "question": "Bay Street is the heart of this Canadian city's financial district",
+        "answer": "Toronto",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 300,
+        "question": "As an indoor alternative to other sports, James Naismith invented this game in 1891",
+        "answer": "basketball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CUISINE",
+        "value": 300,
+        "question": "Adventurous chefs can use these fungi to make an ice cream called glace au truffe",
+        "answer": "truffles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 300,
+        "question": "At age 82, she reunited with Sid Caesar for a 1991 stage show called \"Together Again\"",
+        "answer": "Imogene Coca",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LAMP PEOPLE",
+        "value": 300,
+        "question": "Sir Humphrey Davy won the Rumford gold & silver medals for the safety lamp he made for these workers",
+        "answer": "coal miners",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 300,
+        "question": "In this work, James M. Barrie based Nana partly upon his wife's St. Bernard, Porthos",
+        "answer": "Peter Pan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"T\" ON THE MAP",
+        "value": 300,
+        "question": "This lake on the California-Nevada border drains into Pyramid Lake via the Truckee River",
+        "answer": "Lake Tahoe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 400,
+        "question": "The world's first Ferris wheel began cranking in 1893 at the Columbian Exposition in this city",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CUISINE",
+        "value": 400,
+        "question": "If you want to order this ever-popular dessert in France, ask for gateau au chocolat",
+        "answer": "chocolate cake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 400,
+        "question": "Timothy Bottoms fell in love with her while making \"The Last Picture Show\"; so did Peter Bogdanovich",
+        "answer": "Cybill Shepherd",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LAMP PEOPLE",
+        "value": 400,
+        "question": "She wrote the 1883 poem that ends \"I lift my lamp beside the golden door\"",
+        "answer": "Emma Lazarus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 400,
+        "question": "In \"Rumplestiltskin\", it's the trade of the man whose daughter must spin straw into gold",
+        "answer": "Miller",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"T\" ON THE MAP",
+        "value": 400,
+        "question": "This city became the seat of the Nationalist Chinese government in 1949",
+        "answer": "Taipei (Taiwan)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 1000,
+        "question": "In an effort to curb monopolies, Congress passed this act in 1890",
+        "answer": "the Sherman Anti-Trust Act",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CUISINE",
+        "value": 500,
+        "question": "After you stuff this vegetable, you can call it chou-farsi",
+        "answer": "cabbage",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 500,
+        "question": "One of this late actress's last films, \"Dying Young\", starred her son, Campbell Scott",
+        "answer": "Colleen Dewhurst",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LAMP PEOPLE",
+        "value": 500,
+        "question": "During the Crimean War, she used a lamp to light her way on rounds in the Scutari Hospital wards",
+        "answer": "Florence Nightingale",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 500,
+        "question": "In an interview, Dr. Seuss said he modeled this domineering reptile on Adolf Hitler",
+        "answer": "Yertle the Turtle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"T\" ON THE MAP",
+        "value": 500,
+        "question": "This North African city was officially international until integrated into Morocco in 1956",
+        "answer": "Tangier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GENERAL SCIENCE",
+      "HISTORIC NAMES",
+      "COLLEGES & UNIVERSITIES",
+      "CLASSICAL MUSIC",
+      "INDIANS",
+      "HAIL TO THE CHIEF"
+    ],
+    "clues": [
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 200,
+        "question": "Using this form of electromagnetic radiation, you can cook an entire chicken in 15 minutes",
+        "answer": "Microwave",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "18-year-old Manuel II became king of this country after his father was assassinated in Lisbon in 1908",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 200,
+        "question": "As you might expect, you'll find Golden Gate University in this city",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "While living in Paris in 1829, he wrote his last opera, \"William Tell\"",
+        "answer": "Gioachino Rossini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "INDIANS",
+        "value": 200,
+        "question": "Around 1898 Frederic Remington asked Kicking Bear, a veteran of this battle, to create a painting of it",
+        "answer": "Little Big Horn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 200,
+        "question": "He died on July 23, 1885 just 4 days after completing his Civil War memoirs",
+        "answer": "Ulysses S. Grant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 400,
+        "question": "The mineral argentite is an important ore of this metal",
+        "answer": "Silver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "Maximillian & Carlotta landed in this country on May 28, 1864",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 400,
+        "question": "This university's origins go back to 1794 when it was founded in Knoxville as Blount College",
+        "answer": "University of Tennessee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "Beethoven originally dedicated his 1804 \"Eroica\" symphony to this world leader",
+        "answer": "Napoleon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "INDIANS",
+        "value": 400,
+        "question": "Southwestern Indian children learned about their mythical ancestors from these dolls that represented them",
+        "answer": "Kachina Dolls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 400,
+        "question": "In his 2nd inaugural address, he called for peace \"with malice toward none; with charity for all\"",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 600,
+        "question": "Marble, which is formed from limestone, is an example of this type of changing rock",
+        "answer": "Metamorphic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 600,
+        "question": "Atahualpa, the last emperor of these Indians, tried to buy his freedom with a roomful of gold",
+        "answer": "Incas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 600,
+        "question": "Paul Tulane gave a substantial endowment to a school in this city, and it was renamed in his honor",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 600,
+        "question": "He was born in 1756; the son of the assistant concertmaster to the Prince of Salzburg",
+        "answer": "W.A. Mozart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "INDIANS",
+        "value": 600,
+        "question": "According to William Brandon, this Chiricahua leader's name was spelled & pronounced with an \"H\"",
+        "answer": "Geronimo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 600,
+        "question": "In 1791 he wrote that \"Science is my passion, and politics, my duty\"",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 1600,
+        "question": "Callisto is the outermost of this planet's four Galilean moons",
+        "answer": "Jupiter",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 800,
+        "question": "One of the last things he said was \"Take care of my dear Lady Hamilton, Hardy\"",
+        "answer": "Lord Nelson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 800,
+        "question": "It used to be Tempe State Teachers' College",
+        "answer": "Arizona State University",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "This French composer's 1894 work, \"Prelude to the Afternoon of a Faun\", illustrated a Mallarme poem",
+        "answer": "Claude Debussy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "INDIANS",
+        "value": 800,
+        "question": "Though the Chickasaw & Choctaw were enemies, they were part of this group of tribes",
+        "answer": "Civilized Nations/Tribes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 800,
+        "question": "They're the 2 presidents who were awarded Nobel Peace Prizes",
+        "answer": "Theodore Roosevelt & Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 1000,
+        "question": "With 2 neutrons & 2 protons, an alpha particle is identical to the nucleus of an atom of this gas",
+        "answer": "Helium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 1000,
+        "question": "His nickname was \"Bertie\", but he used this name & number when he became king of England in 1901",
+        "answer": "Edward VII",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 1000,
+        "question": "Appropriately, Australia's oldest university is located here in Australia's oldest city",
+        "answer": "Sydney",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1000,
+        "question": "This Russian's popular Polovitzian dances are from his 1890 opera \"Prince Igor\"",
+        "answer": "Alexander Borodin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "INDIANS",
+        "value": 1000,
+        "question": "Lt. Charles Wood recorded this leader's \"I Will Fight No More Forever\" speech",
+        "answer": "Chief Joseph (of the Nez Perce)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 2000,
+        "question": "His autobiography is \"A Time to Heal\"",
+        "answer": "Gerald Ford",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GEOGRAPHY",
+    "clue": "Since the breakup of the Soviet Union, this is the largest country in area in the world",
+    "answer": "Russia"
+  },
+  "gameId": "1881",
+  "gameDate": "Monday, November 9, 1992"
+}

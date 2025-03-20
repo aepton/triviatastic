@@ -1,0 +1,574 @@
+{
+  "title": "Show #3201 - Monday, June 29, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "ENGLISH LIT",
+      "FIRST LADIES",
+      "MOVIE CHARACTERS",
+      "RETAILERS' HOME STATES",
+      "THE \"LONG\" & THE \"SHORT\" OF IT",
+      "LET'S SPLIT"
+    ],
+    "clues": [
+      {
+        "category": "ENGLISH LIT",
+        "value": 100,
+        "question": "The \"Book of the Duchesse\" is an elegy for the Duchess of Lancaster by this author of \"The Canterbury Tales\"",
+        "answer": "Geoffrey Chaucer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 100,
+        "question": "First Lady for most of the 1950s, she was a big fan of \"As The World Turns\"",
+        "answer": "Mamie Eisenhower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MOVIE CHARACTERS",
+        "value": 100,
+        "question": "He's foiled Dr. No's plan to deflect American rockets & SPECTRE's plan to start WWIII",
+        "answer": "James Bond",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RETAILERS' HOME STATES",
+        "value": 100,
+        "question": "Walgreen,Spiegel,Sears",
+        "answer": "Illinois",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE \"LONG\" & THE \"SHORT\" OF IT",
+        "value": 100,
+        "question": "In electricity, having a \"short\" is short for this kind of problem",
+        "answer": "short circuit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPLIT",
+        "value": 100,
+        "question": "\"Numeric\" term for the split seen here:(in bowling)",
+        "answer": "7-10 split",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 200,
+        "question": "\"Virginibus Puerisque\" is a whimsical collection of essays by this author of \"Kidnapped\"",
+        "answer": "Robert Louis Stevenson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 200,
+        "question": "A little bird told us some folks call her \"Bird\" for short",
+        "answer": "Lady Bird Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MOVIE CHARACTERS",
+        "value": 200,
+        "question": "Helen Hunt & Bill Paxton are almost-divorced storm chasers Jo & Bill in this 1996 film",
+        "answer": "Twister",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RETAILERS' HOME STATES",
+        "value": 200,
+        "question": "Woolworth,Barnes & Noble,Saks",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE \"LONG\" & THE \"SHORT\" OF IT",
+        "value": 200,
+        "question": "Take note: a secretary takes notes using this system that uses symbols for words & phrases",
+        "answer": "shorthand",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPLIT",
+        "value": 200,
+        "question": "It's the video effect seen here:",
+        "answer": "split screen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 300,
+        "question": "This Bronte sister died 1 year after the publication of her second novel, \"The Tenant of Wildfell Hall\"",
+        "answer": "Anne Bronte",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 300,
+        "question": "In 1972 this First Lady reportedly said, \"Being the First Lady is the hardest unpaid job in the world\"",
+        "answer": "Pat Nixon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MOVIE CHARACTERS",
+        "value": 300,
+        "question": "John Travolta played paint salesman & disco king Tony Manero in this 1977 film",
+        "answer": "Saturday Night Fever",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RETAILERS' HOME STATES",
+        "value": 300,
+        "question": "Safeway,Ralphs,Vons",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE \"LONG\" & THE \"SHORT\" OF IT",
+        "value": 300,
+        "question": "She reprised her \"Cheers\" role as Diane Chambers on \"Frasier\"",
+        "answer": "Shelley Long",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPLIT",
+        "value": 300,
+        "question": "If you're doing this you're making superfine distinctions, so don't wig out",
+        "answer": "splitting hairs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 400,
+        "question": "Of all Kipling's novels, this one, his last, has the shortest title",
+        "answer": "\"Kim\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 400,
+        "question": "Originally named Elizabeth Ann, she said, \"I always wanted to be called Elizabeth, but it didn't happen\"",
+        "answer": "Betty Ford",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MOVIE CHARACTERS",
+        "value": 400,
+        "question": "Jimmy Stewart character speaking in the clip seen here:",
+        "answer": "Elwood P. Dowd",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RETAILERS' HOME STATES",
+        "value": 800,
+        "question": "CompUSA,Tandy,Southland",
+        "answer": "Texas",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE \"LONG\" & THE \"SHORT\" OF IT",
+        "value": 400,
+        "question": "It won't be long, because this kind of cook prepares food quickly, like at a diner",
+        "answer": "short order cook",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPLIT",
+        "value": 400,
+        "question": "If you have a pair of 6s in this game, split them if the dealer has a 2 through 6 up",
+        "answer": "Blackjack",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 500,
+        "question": "This author of \"The Forsyte Saga\" published his first novel, \"Jocelyn\", under the pen name John Sinjohn",
+        "answer": "John Galsworthy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 500,
+        "question": "Mary Todd Lincoln was born in this state, as was her husband",
+        "answer": "Kentucky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MOVIE CHARACTERS",
+        "value": 500,
+        "question": "\"A Song to Remember\" portrayed this frail consumptive as a crusader for Polish independence",
+        "answer": "Frederic Chopin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RETAILERS' HOME STATES",
+        "value": 500,
+        "question": "A&P,Toys \"R\" Us,Pathmark",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE \"LONG\" & THE \"SHORT\" OF IT",
+        "value": 500,
+        "question": "Someone with a quick temper is said to have one of these less than lengthy ignition devices",
+        "answer": "short fuse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPLIT",
+        "value": 500,
+        "question": "From Greek for \"split\", it's a split or breach in the unity of the church & it may be \"Great\"",
+        "answer": "schism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE OLD WEST",
+      "BOOKS BY PRESIDENTS",
+      "12-LETTER WORDS",
+      "HONORARY OSCARS",
+      "IF IT'S TUESDAY...",
+      "THIS MUST BE POLAND"
+    ],
+    "clues": [
+      {
+        "category": "THE OLD WEST",
+        "value": 200,
+        "question": "In 1879 the town of Leadville in this state had 350 bartenders, about 1 for every 15 residents",
+        "answer": "Colorado",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BOOKS BY PRESIDENTS",
+        "value": 200,
+        "question": "He authored \"Notes on the State of Virginia\"",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 200,
+        "question": "This state led the U.S. in the production of iron & steel for more than a century",
+        "answer": "Pennsylvania",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HONORARY OSCARS",
+        "value": 200,
+        "question": "He didn't get nominated for Best Actor for \"Gigi\" but did get an honorary Oscar for that year",
+        "answer": "Maurice Chevalier",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IF IT'S TUESDAY...",
+        "value": 200,
+        "question": "If it's Martedi in Milan, you're speaking this language",
+        "answer": "Italian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THIS MUST BE POLAND",
+        "value": 200,
+        "question": "Polish universities are named for poet Adam Mickiewicz & for this 16th century astronomer",
+        "answer": "Nicolaus Copernicus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 400,
+        "question": "These last names of Springfield, Mass. gunmakers Horace & Daniel were very familiar to people in the Old West",
+        "answer": "Smith & Wesson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BOOKS BY PRESIDENTS",
+        "value": 400,
+        "question": "\"A Time to Heal\"",
+        "answer": "Gerald Ford",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 400,
+        "question": "An individual between the ages of 60 & 70...not one who studies human reproduction",
+        "answer": "Sexagenarian",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HONORARY OSCARS",
+        "value": 400,
+        "question": "Chuck Jones received one for his over 50 years of work in this field",
+        "answer": "animation",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IF IT'S TUESDAY...",
+        "value": 400,
+        "question": "If it's Kayobi in Kyoto, you're speaking this language",
+        "answer": "Japanese",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THIS MUST BE POLAND",
+        "value": 400,
+        "question": "Gdynia's neighbor, this city of about 500,000 is one of Europe's shipbuilding centers",
+        "answer": "Gdansk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 600,
+        "question": "In 1901 a Pinkerton agent trailed this outlaw pair & Etta Place all the way to South America",
+        "answer": "Butch Cassidy & the Sundance Kid",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BOOKS BY PRESIDENTS",
+        "value": 600,
+        "question": "\"Strenuous Life\"",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 1200,
+        "question": "It's the only 12-letter word in the preamble to the U.S. Constitution",
+        "answer": "Constitution",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HONORARY OSCARS",
+        "value": 600,
+        "question": "This 1973 honoree joined the Oscar club even though it would have him as a member",
+        "answer": "Groucho Marx",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IF IT'S TUESDAY...",
+        "value": 600,
+        "question": "If it's Triti in Thessaloniki, you're speaking this language",
+        "answer": "Greek",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THIS MUST BE POLAND",
+        "value": 600,
+        "question": "The Democratic Union party evolved from this labor union to win national elections in 1991",
+        "answer": "Solidarity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 800,
+        "question": "A common sight in the Old West, it's the common name for the Russian thistle (if you get our drift)",
+        "answer": "Tumbleweed",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BOOKS BY PRESIDENTS",
+        "value": 800,
+        "question": "\"Looking Forward: An Autobiography\"",
+        "answer": "George H.W. Bush",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 800,
+        "question": "12-letter word for a person who makes the type of item seen here:(map)",
+        "answer": "cartographer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HONORARY OSCARS",
+        "value": 800,
+        "question": "They should have made this director's 1992 honorary Oscar \"8 1/2\" inches tall",
+        "answer": "Federico Fellini",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IF IT'S TUESDAY...",
+        "value": 800,
+        "question": "If it's Youm Al-Tsoulatsa in Yemen, you're speaking this language",
+        "answer": "Arabic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THIS MUST BE POLAND",
+        "value": 800,
+        "question": "Karol Wojtyla, made archbishop of Krakow in 1964, is better known by this name he took in 1978",
+        "answer": "Pope John Paul II",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 1000,
+        "question": "Mark Twain & Julia Bulette both worked the streets of this Nevada town; Mark was a journalist",
+        "answer": "Virginia City",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BOOKS BY PRESIDENTS",
+        "value": 2000,
+        "question": "\"The Anti-Trust Act and the Supreme Court\"",
+        "answer": "William Howard Taft",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 1000,
+        "question": "Meadowlark Lemon was one for 24 years; Phileas Fogg for only 80 days",
+        "answer": "Globetrotter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HONORARY OSCARS",
+        "value": 1000,
+        "question": "Our gang on the board of governors voted this little rascal of a producer a 1983 honorary award",
+        "answer": "Hal Roach",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IF IT'S TUESDAY...",
+        "value": 1000,
+        "question": "If it's Hari Selasa on Sumatra, you're speaking this official language",
+        "answer": "Indonesian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THIS MUST BE POLAND",
+        "value": 1000,
+        "question": "This \"black\" woman is a nationally famous icon in a monastery in Czestochowa",
+        "answer": "The Black Madonna",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "TAXES",
+    "clue": "The tax on this was the subject of a 1794 \"Rebellion\" & an 1875 \"Ring\" scandal",
+    "answer": "Whiskey"
+  },
+  "gameId": "3201",
+  "gameDate": "Monday, June 29, 1998"
+}

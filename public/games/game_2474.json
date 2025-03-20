@@ -1,0 +1,574 @@
+{
+  "title": "Show #3488 - Wednesday, November 3, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "ANCIENT HISTORY: THE 1970s",
+      "COMPUTERAMA",
+      "THE CIRCUS",
+      "POP QUIZ",
+      "FAMOUS NAMES",
+      "ANAGRAMMED COUNTRIES"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT HISTORY: THE 1970s",
+        "value": 100,
+        "question": "The movie \"Saturday Night Fever\" & John Travolta helped feed this dance craze in 1977",
+        "answer": "Disco",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERAMA",
+        "value": 100,
+        "question": "It's what the abbreviation FAQ stands for",
+        "answer": "Frequently Asked Questions",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 100,
+        "question": "\"The Human Volcano\" may be the most dangerous stunt performed by these \"eaters\"",
+        "answer": "Fire eaters",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 100,
+        "question": "They've peppered the charts with hot hits like \"Say You'll Be There\" & \"2 Become 1\"",
+        "answer": "Spice Girls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 100,
+        "question": "A little \"bird\" told us this English nurse was named for the Italian city of her birth",
+        "answer": "Florence Nightingale",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED COUNTRIES",
+        "value": 100,
+        "question": "MOAN",
+        "answer": "Oman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY: THE 1970s",
+        "value": 200,
+        "question": "During the 1970s, Russia was part of this larger nation",
+        "answer": "Soviet Union/USSR",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERAMA",
+        "value": 200,
+        "question": "The computer visual seen here is known by this \"restaurant\" term",
+        "answer": "menu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 200,
+        "question": "A thick white type of theatrical makeup is named for these circus performers",
+        "answer": "Clowns",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 200,
+        "question": "In 1998 his \"La Copa de la Vida\" was the official song of the World Cup soccer games",
+        "answer": "Ricky Martin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 200,
+        "question": "Before becoming attorney general of the U.S., she was state attorney for Dade County, Florida",
+        "answer": "Janet Reno",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED COUNTRIES",
+        "value": 200,
+        "question": "YON WAR",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY: THE 1970s",
+        "value": 300,
+        "question": "The No. 1 TV program in 1979 was this CBS News program that's still on the air",
+        "answer": "60 Minutes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERAMA",
+        "value": 600,
+        "question": "This programming language shares its name with an Indonesian island & a strong word for coffee",
+        "answer": "Java",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 300,
+        "question": "Jonathan Lee Iverson is the youngest ringmaster ever for this circus, \"The Greatest Show on Earth\"",
+        "answer": "Ringling Brothers and Barnum & Bailey Circus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 300,
+        "question": "Take a bow if you know that Babyface co-wrote & sang on her 1994 hit \"Take a Bow\"",
+        "answer": "Madonna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 300,
+        "question": "He's the American hero seen here",
+        "answer": "Charles Lindbergh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED COUNTRIES",
+        "value": 300,
+        "question": "NICE LAD",
+        "answer": "Iceland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY: THE 1970s",
+        "value": 400,
+        "question": "For her work in Calcutta, this tireless Catholic nun won the 1979 Nobel Peace Prize",
+        "answer": "Mother Teresa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERAMA",
+        "value": 400,
+        "question": "The last name of Charles, who built a precursor to the computer, the analytical engine, in the early 1800s",
+        "answer": "Babbage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 400,
+        "question": "Funambulism is a fancy word for the art of \"walking\" this",
+        "answer": "Tightrope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 400,
+        "question": "Nirvana didn't sweat over the title of this 1991 song, they named it for a deodorant",
+        "answer": "\"Smells Like Teen Spirit\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 400,
+        "question": "His repertoire of about 140 military marches earned him the nickname the \"March King\"",
+        "answer": "John Philip Sousa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED COUNTRIES",
+        "value": 400,
+        "question": "HUG YARN",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY: THE 1970s",
+        "value": 500,
+        "question": "The 3 men who served as U.S. presidents in the 1970s",
+        "answer": "Richard Nixon, Gerald Ford & Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERAMA",
+        "value": 500,
+        "question": "Examples of these research helpers include Hotbot & Altavista",
+        "answer": "Search engines",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 500,
+        "question": "Circus Oz, which turned 21 in 1999, is a zany, satirical circus from this country that's nicknamed \"Oz\"",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 500,
+        "question": "(Hi, I'm Edwin McCain.)  My song \"I'll Be\" got a lot of play after it was featured on the May 1998 season finale of this WB TV series",
+        "answer": "Dawson's Creek",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 500,
+        "question": "In 1889 this great orator & former slave became the U.S. minister to Haiti",
+        "answer": "Frederick Douglass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED COUNTRIES",
+        "value": 500,
+        "question": "ROAD CUE",
+        "answer": "Ecuador",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE CLASSICS",
+      "SCOUTING BADGES",
+      "RAGING HORMONES",
+      "THE 10 COMMANDMENTS",
+      "NEXT IN LINE, PLEASE",
+      "BAD NEWS"
+    ],
+    "clues": [
+      {
+        "category": "THE CLASSICS",
+        "value": 200,
+        "question": "Author who sent Alice down the rabbit hole into Wonderland",
+        "answer": "Lewis Carroll",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCOUTING BADGES",
+        "value": 200,
+        "question": "A Boy Scout wearing this badge knows when a bee sting is life-threatening",
+        "answer": "First aid",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RAGING HORMONES",
+        "value": 200,
+        "question": "Hypoglycemia can be caused by excess production of this hormone in the pancreas",
+        "answer": "Insulin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE 10 COMMANDMENTS",
+        "value": 200,
+        "question": "Don't make a graven one of these of anything in heaven, in the earth or in the water",
+        "answer": "Idol/image",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NEXT IN LINE, PLEASE",
+        "value": 200,
+        "question": "Mondale,Bush,Quayle...",
+        "answer": "Al Gore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BAD NEWS",
+        "value": 200,
+        "question": "For the last few years N. Korea has been suffering from one of the worst of these natural disasters in the 20th century",
+        "answer": "Famine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE CLASSICS",
+        "value": 400,
+        "question": "Title piece of furniture C.S. Lewis had the kids go through to reach Narnia",
+        "answer": "Wardrobe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCOUTING BADGES",
+        "value": 400,
+        "question": "A boy must describe 4 kinds of tents to earn the merit badge named for this activity",
+        "answer": "Camping",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RAGING HORMONES",
+        "value": 400,
+        "question": "Also called epinephrine, this hormone that's released in emergencies has been used to treat asthma",
+        "answer": "Adrenaline",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE 10 COMMANDMENTS",
+        "value": 400,
+        "question": "Don't take this in vain",
+        "answer": "The Lord's name",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NEXT IN LINE, PLEASE",
+        "value": 400,
+        "question": "Aries,Taurus,Gemini...",
+        "answer": "Cancer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BAD NEWS",
+        "value": 400,
+        "question": "A new program installed to improve this internet auction site shut it down June 10-11, 1999",
+        "answer": "eBay",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE CLASSICS",
+        "value": 600,
+        "question": "You should tumble to the fact she wrote \"Rumble Fish\" & \"Tex\"",
+        "answer": "S.E. Hinton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCOUTING BADGES",
+        "value": 600,
+        "question": "The Brownie patch seen here is called \"Me and My\" this",
+        "answer": "Shadow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RAGING HORMONES",
+        "value": 600,
+        "question": "Parathormone keeps up the level of this mineral in blood by stimulating its release from bone",
+        "answer": "Calcium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE 10 COMMANDMENTS",
+        "value": 600,
+        "question": "It's the number of days thou shalt labor",
+        "answer": "6",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NEXT IN LINE, PLEASE",
+        "value": 600,
+        "question": "The book of Mark, the book of Luke,the book of John...",
+        "answer": "Acts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BAD NEWS",
+        "value": 1200,
+        "question": "On July 17, 1998 3 of these, one of which was estimated at over 30 feet high, hit Papua New Guinea",
+        "answer": "Tidal waves/tsunami",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE CLASSICS",
+        "value": 800,
+        "question": "He's the evil captain in Jules Verne's \"Twenty Thousand Leagues Under the Sea\"",
+        "answer": "Captain Nemo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCOUTING BADGES",
+        "value": 800,
+        "question": "Girls with the badge seen here have thought of better methods to sell these",
+        "answer": "cookies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RAGING HORMONES",
+        "value": 1600,
+        "question": "It's the organ that produces gastrin",
+        "answer": "the stomach",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE 10 COMMANDMENTS",
+        "value": 800,
+        "question": "Grand larceny breaks the commandment against doing this big-time",
+        "answer": "Stealing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NEXT IN LINE, PLEASE",
+        "value": 800,
+        "question": "Deux, trois,quatre...",
+        "answer": "Cinq",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BAD NEWS",
+        "value": 800,
+        "question": "In July 1999 Royal Caribbean Cruise Lines was fined $18 million for doing this at sea",
+        "answer": "Dumping hazardous waste at sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE CLASSICS",
+        "value": 1000,
+        "question": "In a Walter Farley tale, Alec Ramsay is stranded on an island with this title animal",
+        "answer": "\"The Black Stallion\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCOUTING BADGES",
+        "value": 1000,
+        "question": "A boy must have the badge named for this vehicle before he earns the Whitewater badge",
+        "answer": "a canoe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RAGING HORMONES",
+        "value": 1000,
+        "question": "Some athletes have taken androstenedione to boost levels of this male hormone",
+        "answer": "Testosterone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE 10 COMMANDMENTS",
+        "value": 1000,
+        "question": "From the Latin for \"to desire\", it's what you're not supposed to do to your neighbor's things",
+        "answer": "Covet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NEXT IN LINE, PLEASE",
+        "value": 1000,
+        "question": "9 ladies dancing,10 lords a-leaping,11 pipers piping...",
+        "answer": "12 drummers drumming",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BAD NEWS",
+        "value": 1000,
+        "question": "A strain of this virus, named for a river in the Democratic Republic of the Congo, killed over 240 people in 1995",
+        "answer": "Ebola virus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ADVERTISING",
+    "clue": "In Scandinavian countries these characters are known as Pif, Paf & Pof",
+    "answer": "Snap, Crackle & Pop (from Rice Krispies)"
+  },
+  "gameId": "3488",
+  "gameDate": "Wednesday, November 3, 1999"
+}

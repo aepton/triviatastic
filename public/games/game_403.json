@@ -1,0 +1,574 @@
+{
+  "title": "Show #3912 - Tuesday, September 11, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "ART & ARTISTS",
+      "U.S. CITY SONGS",
+      "WEAPONS OF WAR",
+      "LET'S NOT SPREAD 'EM AROUND",
+      "GIVE PEAS A CHANCE",
+      "GOODWILL TOWARD \"MEN\""
+    ],
+    "clues": [
+      {
+        "category": "ART & ARTISTS",
+        "value": 100,
+        "question": "Gauguin's mom was Peruvian, & from 1851 to 1855 he lived with her in this capital city",
+        "answer": "Lima",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "U.S. CITY SONGS",
+        "value": 100,
+        "question": "It's \"my kind of town\"",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS OF WAR",
+        "value": 100,
+        "question": "This projectile's name comes from the Late Latin for \"pomegranate\"",
+        "answer": "a grenade",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LET'S NOT SPREAD 'EM AROUND",
+        "value": 100,
+        "question": "Isolated in 1983, the virus that causes AIDS is known today by this acronym",
+        "answer": "HIV",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GIVE PEAS A CHANCE",
+        "value": 100,
+        "question": "In his heredity experiments this 19th century monk cross-pollinated garden pea plants",
+        "answer": "Mendel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GOODWILL TOWARD \"MEN\"",
+        "value": 100,
+        "question": "A mint-tasting compound from peppermint oil",
+        "answer": "menthol",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 200,
+        "question": "In 1766 George Stubbs, a noted painter of these animals, published a book on their anatomy",
+        "answer": "horses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "U.S. CITY SONGS",
+        "value": 200,
+        "question": "In 1976 Billy Joel was in this city's \"state of mind\"",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS OF WAR",
+        "value": 200,
+        "question": "These rifle additions gained their first prominence in the 17th century",
+        "answer": "bayonets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LET'S NOT SPREAD 'EM AROUND",
+        "value": 200,
+        "question": "Seeing Koplik's spots on the inside of your cheeks is a sign you've \"spotted\" this viral infection",
+        "answer": "measles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GIVE PEAS A CHANCE",
+        "value": 200,
+        "question": "It's the husk that peas come in & may be edible",
+        "answer": "the pod",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GOODWILL TOWARD \"MEN\"",
+        "value": 200,
+        "question": "An experienced advisor & teacher",
+        "answer": "a mentor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 300,
+        "question": "Masterpieces in this Manhattan museum include \"Starry Night\" & \"Les Demoiselles d'Avignon\"",
+        "answer": "Museum of Modern Art",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "U.S. CITY SONGS",
+        "value": 300,
+        "question": "In a 1932 standard, it's the city you \"shuffle off to\"",
+        "answer": "Buffalo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS OF WAR",
+        "value": 300,
+        "question": "A 15th-century drawing of the medieval variety of this siege weapon is seen here",
+        "answer": "a catapult",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LET'S NOT SPREAD 'EM AROUND",
+        "value": 300,
+        "question": "It's the B form of this inflammation of the liver that's spread by some kinds of personal contact",
+        "answer": "hepatitis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GIVE PEAS A CHANCE",
+        "value": 300,
+        "question": "This sea-faring fashion seen here is popular with sailors & fishermen",
+        "answer": "a pea coat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GOODWILL TOWARD \"MEN\"",
+        "value": 300,
+        "question": "A high-IQ organization",
+        "answer": "Mensa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 400,
+        "question": "This abstract artist's method of applying paint, as in \"Autumn Rhythm\", earned him the nickname \"Jack the Dripper\"",
+        "answer": "Jackson Pollock",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "U.S. CITY SONGS",
+        "value": 400,
+        "question": "The song \"Way Down Yonder In\" this city goes way back to 1922",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS OF WAR",
+        "value": 400,
+        "question": "Alphanumeric designation of the American standard used in Vietnam, seen here",
+        "answer": "an M-16",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LET'S NOT SPREAD 'EM AROUND",
+        "value": 800,
+        "question": "A fatal form of blood poisoning in cattle, or the group that recorded the 1985 album \"Spreading the Disease\"",
+        "answer": "anthrax",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GIVE PEAS A CHANCE",
+        "value": 400,
+        "question": "In an Edward Lear nonsense poem, this title duo goes to sea in a pea-green boat",
+        "answer": "the Owl and the Pussycat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GOODWILL TOWARD \"MEN\"",
+        "value": 400,
+        "question": "A wild animal exhibit",
+        "answer": "a menagerie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 500,
+        "question": "This American woman scoffed at charges that her close-up paintings of flowers had sexual imagery",
+        "answer": "Georgia O'Keeffe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. CITY SONGS",
+        "value": 500,
+        "question": "Glen Campbell had hits all over the map: Phoenix, Wichita & this Texas city",
+        "answer": "Galveston",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS OF WAR",
+        "value": 500,
+        "question": "It's the impressive weapon seen here that can take off & land vertically",
+        "answer": "the Harrier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LET'S NOT SPREAD 'EM AROUND",
+        "value": 500,
+        "question": "This lung disease, isolated in 1882, has been found in an ancient mummy, so there should be hieroglyphic Christmas Seals",
+        "answer": "tuberculosis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GIVE PEAS A CHANCE",
+        "value": 500,
+        "question": "Widely cultivated for their edible seeds, these peas are also called garbanzos",
+        "answer": "chickpeas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GOODWILL TOWARD \"MEN\"",
+        "value": 500,
+        "question": "Chemical element 101",
+        "answer": "mendelevium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AMERICAN FOLKLORE",
+      "MOVIE ROLES",
+      "COUNTRIES IN SPANISH",
+      "SINGING STYLES",
+      "B.C. PEOPLE",
+      "REDUNDANCY & REPETITION"
+    ],
+    "clues": [
+      {
+        "category": "AMERICAN FOLKLORE",
+        "value": 200,
+        "question": "Traveling on foot, he planted apple orchards all over the Middle West",
+        "answer": "Johnny Appleseed",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE ROLES",
+        "value": 200,
+        "question": "(Hi, I'm Seth Green.)  He played my dad in both of the \"Austin Powers\" movies",
+        "answer": "Mike Myers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES IN SPANISH",
+        "value": 200,
+        "question": "Sudafrica",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SINGING STYLES",
+        "value": 200,
+        "question": "The type of establishment represented here, or a style of four-part harmony singing",
+        "answer": "a barbershop",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "B.C. PEOPLE",
+        "value": 200,
+        "question": "At the Academy, Plato nicknamed this student \"The Reader\" because of his love of books",
+        "answer": "Aristotle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "REDUNDANCY & REPETITION",
+        "value": 200,
+        "question": "Technically, it's superfluous to use this word after \"chili\"",
+        "answer": "pepper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN FOLKLORE",
+        "value": 400,
+        "question": "Febold Feboldson was a giant who performed amazing feats on the plains of Nebraska & this \"Sunflower State\"",
+        "answer": "Kansas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE ROLES",
+        "value": 400,
+        "question": "Anne Archer received an Oscar nomination for playing Michael Douglas' wife in this thriller",
+        "answer": "Fatal Attraction",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES IN SPANISH",
+        "value": 400,
+        "question": "Argelia",
+        "answer": "Algeria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SINGING STYLES",
+        "value": 400,
+        "question": "A singing style practiced in Tuva in Central Asia is named for this body part, which must get \"sore\"",
+        "answer": "the throat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "B.C. PEOPLE",
+        "value": 400,
+        "question": "Known for his theory of right triangles, he believed that the planets create their own sounds in their orbits",
+        "answer": "Pythagoras",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "REDUNDANCY & REPETITION",
+        "value": 400,
+        "question": "This word found on signs before \"pit\" & \"trench\" is superfluous; it's an inherent quality of pits & trenches",
+        "answer": "open",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN FOLKLORE",
+        "value": 600,
+        "question": "This lumberjack's tales appeared in a 1914 booklet published by the Red River Lumber Company of Minneapolis",
+        "answer": "Paul Bunyan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE ROLES",
+        "value": 600,
+        "question": "Elvis made his feature film debut as Clint Reno in this 1956 western",
+        "answer": "Love Me Tender",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES IN SPANISH",
+        "value": 600,
+        "question": "Libano",
+        "answer": "Lebanon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SINGING STYLES",
+        "value": 1200,
+        "question": "Tremolo is sometimes used synonymously with this other Italian term for a \"quavering\" effect",
+        "answer": "vibrato",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "B.C. PEOPLE",
+        "value": 600,
+        "question": "Of the 23 Ptolemys who ruled Egypt, she was the only one who bothered to learn the Egyptian language",
+        "answer": "Cleopatra",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "REDUNDANCY & REPETITION",
+        "value": 600,
+        "question": "A Toronto institution is somewhat redundantly named this \"for Sick Children\"",
+        "answer": "Hospital",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN FOLKLORE",
+        "value": 800,
+        "question": "Folk tales of this legendary keelboatman began appearing shortly after his 1823 death",
+        "answer": "Mike Fink",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE ROLES",
+        "value": 800,
+        "question": "Private dick Steve Martin interacts with clips from '40s noir films in this 1982 crime comedy",
+        "answer": "Dead Men Don't Wear Plaid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES IN SPANISH",
+        "value": 800,
+        "question": "Suecia",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SINGING STYLES",
+        "value": 800,
+        "question": "In 1933 it had to be Bing Crosby who introduced the song \"Learn To\" do this",
+        "answer": "Croon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "B.C. PEOPLE",
+        "value": 800,
+        "question": "In 221 B.C. he took command of the Carthaginian Army in Spain from his brother-in-law",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "REDUNDANCY & REPETITION",
+        "value": 800,
+        "question": "It's redundant to refer to this \"system of measurement\", since the word means \"relating to measurement\"",
+        "answer": "metric",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN FOLKLORE",
+        "value": 1000,
+        "question": "This Texas cowboy who used a Bowie knife as a teething ring was created by journalist Edward O'Reilly in 1923",
+        "answer": "Pecos Bill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE ROLES",
+        "value": 1000,
+        "question": "In a 1982 movie, Jessica Lange played this actress of the '30s & '40s who was institutionalized & lobotomized",
+        "answer": "Frances Farmer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES IN SPANISH",
+        "value": 1000,
+        "question": "Paises Bajos",
+        "answer": "Low Countries (or the Netherlands or Holland)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SINGING STYLES",
+        "value": 1000,
+        "question": "Appropriate nickname of singer Jay Hawkins, heard here",
+        "answer": "\"Screamin'\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "B.C. PEOPLE",
+        "value": 1000,
+        "question": "The \"Histories\" of this \"Father of History\" told of the Persian Empire's invasions of Greece in 490 & 480 B.C.",
+        "answer": "Herodotus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "REDUNDANCY & REPETITION",
+        "value": 2000,
+        "question": "This common legal order to terminate an activity includes 2 synonyms for \"stop\"",
+        "answer": "cease & desist",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "VOLCANOS",
+    "clue": "Of the U.S. states with active volcanos, this state is farthest south",
+    "answer": "Hawaii"
+  },
+  "gameId": "3912",
+  "gameDate": "Tuesday, September 11, 2001"
+}

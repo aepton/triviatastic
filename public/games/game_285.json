@@ -1,0 +1,574 @@
+{
+  "title": "Show #1887 - Tuesday, November 17, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "HISTORY",
+      "MYSTERIES",
+      "CHAMPIONS",
+      "POLITICAL TERMS",
+      "SAMS & SAMUELS",
+      "EPONYMS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORY",
+        "value": 100,
+        "question": "On Sept. 9, 1087, this English king died at Rouen in Normandy after falling from his horse",
+        "answer": "William the Conqueror",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MYSTERIES",
+        "value": 100,
+        "question": "Mary Higgins Clark called her 1980 bestseller \"The Cradle Will\" do this",
+        "answer": "Fall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS",
+        "value": 100,
+        "question": "Their 1991 NBA championship was the first in the club's 25-year history",
+        "answer": "Chicago Bulls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 100,
+        "question": "On January 8, 1918, he outlined his \"Fourteen Points\" to the U.S. Congress",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SAMS & SAMUELS",
+        "value": 100,
+        "question": "In 1871 U.S. telegraphers honored him with a bronze statue in NYC's Central Park",
+        "answer": "Samuel Morse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "EPONYMS",
+        "value": 100,
+        "question": "From the name of its U.S. developer, it's a screwdriver with a cross-shaped tip",
+        "answer": "Phillips Screwdriver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "The first 18 years of this French king's reign were managed by Cardinal Mazarin",
+        "answer": "Louis XIV",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MYSTERIES",
+        "value": 200,
+        "question": "It's the last name of Tom, the psychopath Patricia Highsmith created in 1955: believe it or not!",
+        "answer": "Ripley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS",
+        "value": 200,
+        "question": "In 1992 he became the first American to win the men's title at Wimbledon since McEnroe in 1984",
+        "answer": "Andre Agassi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 200,
+        "question": "Jacobites supported the cause of this royal house after the abdication of James II",
+        "answer": "The Stuarts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SAMS & SAMUELS",
+        "value": 200,
+        "question": "This playwright starred with girlfriend Jessica Lange in the movies \"Country\" & \"Frances\"",
+        "answer": "Sam Shepard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "EPONYMS",
+        "value": 200,
+        "question": "An inflatable lifejacket introduced during World War II was named for this shapely actress",
+        "answer": "Mae West",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 300,
+        "question": "As a child, Roman emperor Gaius Julius Caesar Germanicus was nicknamed this, meaning \"little boot\"",
+        "answer": "Caligula",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MYSTERIES",
+        "value": 300,
+        "question": "Her book, \"The Murder of Roger Ackroyd\", was inspired partly by a suggestion from Lord Mountbatten",
+        "answer": "Agatha Christie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS",
+        "value": 300,
+        "question": "This Triple Crown-winning steed holds the record times for the Kentucky Derby & the Belmont Stakes",
+        "answer": "Secretariat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 300,
+        "question": "France calls its capability to use this type of weapon its \"Force de Frappe\"",
+        "answer": "nuclear weapons",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SAMS & SAMUELS",
+        "value": 300,
+        "question": "He wrote \"The Rime of the Ancient Mariner\" for a book of poetry co-written with William Wordsworth",
+        "answer": "Samuel Taylor Coleridge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "EPONYMS",
+        "value": 300,
+        "question": "Named & fit for a Babylonian king, it's a wine bottle that holds about 20 quarts",
+        "answer": "Nebuchadnezzar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "In 1524 this Florentine navigator became the first European to visit the New York area",
+        "answer": "Giovanni da Verrazzano",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MYSTERIES",
+        "value": 800,
+        "question": "This Dickens title character disappears after breaking off his engagement with Rosa Budd",
+        "answer": "Edwin Drood",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS",
+        "value": 400,
+        "question": "This current world chess champion is scheduled to defend his crown again in 1993",
+        "answer": "Garry Kasparov",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 400,
+        "question": "This term for a member of the British Conservative party comes from Irish for \"pursuer\"",
+        "answer": "Tory",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SAMS & SAMUELS",
+        "value": 400,
+        "question": "The main goal of Paul Revere's ride was to warn John Hancock & this patriot that the British were out to capture them",
+        "answer": "Samuel Adams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "EPONYMS",
+        "value": 400,
+        "question": "George Joseph Camel, a Moravian Jesuit missionary, gave his name to this flowery shrub",
+        "answer": "Camellia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 500,
+        "question": "This territory, known for its coal mines, voted to become part of Germany in 1935",
+        "answer": "The Saar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MYSTERIES",
+        "value": 500,
+        "question": "\"Your Royal Hostage\" is a mystery novel by this noted biographer who's married to Harold Pinter",
+        "answer": "Lady Antonia Fraser",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS",
+        "value": 500,
+        "question": "Yokozuna, or Grand Champion, is the highest rank in this sport",
+        "answer": "Sumo Wrestling",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 500,
+        "question": "This numerical term for secret enemy sympathizers comes from the Spanish Civil War",
+        "answer": "Fifth Column",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SAMS & SAMUELS",
+        "value": 500,
+        "question": "He's Georgia's senior senator",
+        "answer": "Sam Nunn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "EPONYMS",
+        "value": 500,
+        "question": "The term \"bobby\", for a British policeman, is from the name of this Bobby who reorganized London's force",
+        "answer": "Robert Peel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "COLONIAL AMERICA",
+      "HEALTH & MEDICINE",
+      "WORLD CAPITALS",
+      "EDUCATION",
+      "DRAMA",
+      "RUSSIAN RULERS"
+    ],
+    "clues": [
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 200,
+        "question": "Bought by the Dutch in 1626, this island is named for the Indian tribe who lived there",
+        "answer": "Manhattan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 200,
+        "question": "Crawford W. Long is credited with being the first to use this for surgical anesthesia",
+        "answer": "Ether",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 200,
+        "question": "Although in a predominantly Flemish region, most of this city's inhabitants speak French",
+        "answer": "Brussels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EDUCATION",
+        "value": 200,
+        "question": "America's first public high school was opened in 1821 in this New England capital",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DRAMA",
+        "value": 200,
+        "question": "This 1973 Peter Schaeffer play became a ballet in 1980; a horse opera would have made more sense",
+        "answer": "\"Equus\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RUSSIAN RULERS",
+        "value": 200,
+        "question": "Alexander II was called \"Czar Liberator\" for freeing these Russian peasants in 1861",
+        "answer": "Serfs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 400,
+        "question": "New Haven Colony merged with this colony in 1664",
+        "answer": "Connecticut",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 400,
+        "question": "The EPA has called for a 94% reduction of this mineral fiber, a cause of lung disease, by 1997",
+        "answer": "Asbestos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 400,
+        "question": "This South American capital lies only 7 miles inland from the Caribbean Sea",
+        "answer": "Caracas, Venezuela",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EDUCATION",
+        "value": 400,
+        "question": "The oldest of these 2-year colleges opened in 1901 in Joliet, Illinois",
+        "answer": "Junior/Community Colleges",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DRAMA",
+        "value": 400,
+        "question": "The Antrobuses of Excelsior, New Jersey are an \"ice age\" family in his \"The Skin of Our Teeth\"",
+        "answer": "Thornton Wilder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RUSSIAN RULERS",
+        "value": 400,
+        "question": "The empress Elizabeth founded Russia's first university in this city in the 18th century",
+        "answer": "Moscow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 600,
+        "question": "The 1649 Toleration Act gave religious freedom to Catholics as well as to Protestants in this colony",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 1200,
+        "question": "Due to successful vaccines, this viral disease was finally declared extinct in 1980",
+        "answer": "Smallpox",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 600,
+        "question": "In ancient times this Libyan capital was known as Oea",
+        "answer": "Tripoli",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EDUCATION",
+        "value": 600,
+        "question": "In 5th century B.C. India, only the people of this caste were able to get a complete education",
+        "answer": "Brahmins",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DRAMA",
+        "value": 600,
+        "question": "The Crown Guide to Plays says this Lawrence & Lee play was known in Norway as \"Min Fantastika Tante\"",
+        "answer": "Mame (Auntie Mame accepted)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RUSSIAN RULERS",
+        "value": 600,
+        "question": "Czar from 1613-1645, Michael founded this dynasty that ruled until 1917",
+        "answer": "Romanov",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 800,
+        "question": "As Pennsylvania had no coast, William Penn was given land in 1682 that later became this small state",
+        "answer": "Delaware",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 800,
+        "question": "In 1851 Hermann von Helmholtz invented this instrument for examining the eye's interior",
+        "answer": "ophthalmoscope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 800,
+        "question": "It controls the main approaches thru the Khyber Pass to Pakistan & India",
+        "answer": "Kabul",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EDUCATION",
+        "value": 800,
+        "question": "In 1922 she became a government inspector of schools in Italy",
+        "answer": "Maria Montessori",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DRAMA",
+        "value": 800,
+        "question": "The name of this 1933 Eugene O'Neill comedy ends in an exclamation point, & it isn't a musical",
+        "answer": "Ah, Wilderness!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RUSSIAN RULERS",
+        "value": 800,
+        "question": "In Russian she is called \"Ekaterina Velikaya\"",
+        "answer": "Catherine the Great",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 1000,
+        "question": "Between 1631 & 1648, he was chosen governor of Massachusetts Bay Colony twelve times",
+        "answer": "John Winthrop",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 1000,
+        "question": "Used especially in diagnosing brain disorders, CAT, as in CAT scan, stands for \"computerized\" this",
+        "answer": "axial tomography",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 1000,
+        "question": "The name of this capital is probably from Sinhalese for \"port\" or \"ferry\"",
+        "answer": "Colombo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EDUCATION",
+        "value": 1000,
+        "question": "Kids are taught to play musical instruments at an early age in this method named for a Japanese violinist",
+        "answer": "Suzuki Method",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DRAMA",
+        "value": 2000,
+        "question": "To end a war, this Aristophanes title character gets the women to stop sleeping with the men",
+        "answer": "\"Lysistrata\"",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RUSSIAN RULERS",
+        "value": 1000,
+        "question": "Alexander I entered this foreign capital city in triumph in March, 1814",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "NEWSPAPERS",
+    "clue": "It was first published between 1861 and 1865; it was revived in 1918; stopped in 1919, and revived again in 1942",
+    "answer": "Stars and Stripes"
+  },
+  "gameId": "1887",
+  "gameDate": "Tuesday, November 17, 1992"
+}

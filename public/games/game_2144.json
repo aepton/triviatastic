@@ -1,0 +1,529 @@
+{
+  "title": "Show #3446 - Monday, September 6, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "BIBLE HEROES",
+      "MONOPOLY",
+      "HISTORIC NAMES",
+      "MOVIE PEOPLE",
+      "CEREALS",
+      "SPELL IT OUT FOR ME!"
+    ],
+    "clues": [
+      {
+        "category": "BIBLE HEROES",
+        "value": 100,
+        "question": "He had 3 sons:Seth, Abel & Cain",
+        "answer": "Adam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MONOPOLY",
+        "value": 100,
+        "question": "It's where you go when you throw doubles 3 times in a row",
+        "answer": "jail",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 100,
+        "question": "When you turn on a light bulb, you can thank him; he invented it",
+        "answer": "Edison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 100,
+        "question": "It's the name of Jim Carrey's \"Pet Detective\"",
+        "answer": "Ace Ventura",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CEREALS",
+        "value": 100,
+        "question": "Hooray!  This toasted oat cereal is made from the grain highest in protein",
+        "answer": "Cheerios",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME!",
+        "value": 100,
+        "question": "We'll all sing your praises when you spell...",
+        "answer": "C-H-O-I-R",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BIBLE HEROES",
+        "value": 200,
+        "question": "This prophet was actually swallowed by a \"great fish\", not a whale",
+        "answer": "Jonah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MONOPOLY",
+        "value": 200,
+        "question": "Basic rent is just $2 on this street that shares its name with a sea",
+        "answer": "Mediterranean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "He was reelected vice president of the U.S. in 1996",
+        "answer": "Al Gore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 200,
+        "question": "He's just groovy as the actor who plays Austin Powers, baby",
+        "answer": "Mike Myers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CEREALS",
+        "value": 200,
+        "question": "Pollinators might enjoy this cereal seen here",
+        "answer": "Honeycomb",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME!",
+        "value": 200,
+        "question": "Things will be sour if you can't spell...",
+        "answer": "V-I-N-E-G-A-R",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIBLE HEROES",
+        "value": 300,
+        "question": "This man asked Pharaoh to let his people go",
+        "answer": "Moses",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MONOPOLY",
+        "value": 300,
+        "question": "The player who is known as this pays you $200 whenever you pass Go",
+        "answer": "the bank",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 300,
+        "question": "She lost her vision & hearing before she was 2; Anne Sullivan came to help 5 years later",
+        "answer": "Helen Keller",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 300,
+        "question": "This \"Pretty Woman\" movie star recently played a movie star in \"Notting Hill\"",
+        "answer": "Julia Roberts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CEREALS",
+        "value": 300,
+        "question": "This variety of cereal seen here also comes in a spoon-size version",
+        "answer": "Shredded Wheat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME!",
+        "value": 300,
+        "question": "I hungrily await you to spell...",
+        "answer": "N-E-C-T-A-R-I-N-E",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIBLE HEROES",
+        "value": 800,
+        "question": "The 14th chapter of Judges reports that he killed a lion with his bare hands",
+        "answer": "Samson",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MONOPOLY",
+        "value": 400,
+        "question": "In an official 1998 election, this vehicle was named favorite token",
+        "answer": "the car (the race car)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 400,
+        "question": "Cool it!  This muscleman played Mr. Freeze in the movie \"Batman and Robin\"",
+        "answer": "Arnold Schwarzenegger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CEREALS",
+        "value": 400,
+        "question": "It's the \"magical\" cereal seen here, lad",
+        "answer": "Lucky Charms",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME!",
+        "value": 400,
+        "question": "Don't spell it 3 times, but do spell...",
+        "answer": "T-R-I-P-L-I-C-A-T-E",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIBLE HEROES",
+        "value": 500,
+        "question": "King David's wise son, he built the temple",
+        "answer": "Solomon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MONOPOLY",
+        "value": 500,
+        "question": "Landing on this square will set you back $200 or 10% of your total worth",
+        "answer": "Income Tax",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 500,
+        "question": "As Jim West & Artemus Gordon, these 2 actors rode into the \"Wild Wild West\" in 1999",
+        "answer": "Will Smith & Kevin Kline",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CEREALS",
+        "value": 500,
+        "question": "This \"nautical\" favorite should fill your sails in the morning",
+        "answer": "Cap'n Crunch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME!",
+        "value": 500,
+        "question": "You won't be exasperated if you can spell...",
+        "answer": "A-G-G-R-A-V-A-T-I-O-N",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE '80s",
+      "REALLY GRIMM FAIRY TALES",
+      "WHERE IS IT?",
+      "FILL IN THE ____",
+      "ARTS & CRAFTS",
+      "DINOSAURS"
+    ],
+    "clues": [
+      {
+        "category": "THE '80s",
+        "value": 200,
+        "question": "In 1985 this singer had a hit with \"Material Girl\"",
+        "answer": "Madonna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "REALLY GRIMM FAIRY TALES",
+        "value": 200,
+        "question": "Mirror, mirror on the wall, she's the fairest of them all (so the Queen tries to poison her)",
+        "answer": "Snow White",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHERE IS IT?",
+        "value": 200,
+        "question": "The Eiffel Tower is one of the dramatic landmarks in this European capital city",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FILL IN THE ____",
+        "value": 200,
+        "question": "Something hard to find resembles \"a needle in ____\"",
+        "answer": "a haystack",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ARTS & CRAFTS",
+        "value": 200,
+        "question": "This paint which bears the name of a part of the hand is sometimes made with tempera paint & liquid starch",
+        "answer": "fingerpaint",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 200,
+        "question": "Nicknamed Sue, the largest of these, the \"King of the Dinosaurs\", was uncovered in South Dakota in 1990",
+        "answer": "Tyrannosaurus rex",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE '80s",
+        "value": 400,
+        "question": "On Jan. 20, 1985 this man was sworn in for his second term as U.S. president",
+        "answer": "Reagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "REALLY GRIMM FAIRY TALES",
+        "value": 400,
+        "question": "A wicked witch in an edible house tries to fatten up this boy so she can eat him",
+        "answer": "Hansel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHERE IS IT?",
+        "value": 400,
+        "question": "The countries of Uruguay & Paraguay are found on this continent",
+        "answer": "South America",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FILL IN THE ____",
+        "value": 400,
+        "question": "Hamlet sighed, \"To be or not to be: that is ____\"",
+        "answer": "the question",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ARTS & CRAFTS",
+        "value": 400,
+        "question": "This material can be shaped by hand & fired in a kiln to make pottery",
+        "answer": "clay",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 400,
+        "question": "This plant-eater named for the 3 horns on its face was at least 25 feet long",
+        "answer": "Triceratops",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "REALLY GRIMM FAIRY TALES",
+        "value": 600,
+        "question": "The Grimms said her stepsisters cut off parts of their feet so they could squeeze into her slipper",
+        "answer": "Cinderella",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHERE IS IT?",
+        "value": 600,
+        "question": "Honshu, Hokkaido, Shikoku & Kyushu are the 4 main islands making up this Asian country",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FILL IN THE ____",
+        "value": 600,
+        "question": "In the book of Matthew, \"Many are called, but few are ____\"",
+        "answer": "chosen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ARTS & CRAFTS",
+        "value": 1200,
+        "question": "Its name is French, but it's just ordinary newspaper mixed with paste",
+        "answer": "papier-mâché",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 600,
+        "question": "The 75-foot-long Apatosaurus has also been known by this name which means \"thunder lizard\"",
+        "answer": "Brontosaurus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "REALLY GRIMM FAIRY TALES",
+        "value": 800,
+        "question": "Rapunzel's was really long until a mean old witch cut it off so the prince couldn't climb up it",
+        "answer": "hair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHERE IS IT?",
+        "value": 800,
+        "question": "The cold, mineral-rich region of Siberia is found in this country",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FILL IN THE ____",
+        "value": 800,
+        "question": "The Latin \"ceteris paribus\" means \"other things being ____\"",
+        "answer": "equal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ARTS & CRAFTS",
+        "value": 800,
+        "question": "Summer campers weave plastic threads to make these items, often used as keychains",
+        "answer": "lanyard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 1600,
+        "question": "The Mamenchisaurus could really stick this out--it had the longest of any dinosaur, about 36 feet",
+        "answer": "its neck",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "REALLY GRIMM FAIRY TALES",
+        "value": 1000,
+        "question": "The wolf swallows this girl the Grimms called Little Red-Cap; most of us call her this",
+        "answer": "Little Red Riding Hood",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHERE IS IT?",
+        "value": 1000,
+        "question": "Found at the tip of a continent, it's the country where Nelson Mandela was born",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FILL IN THE ____",
+        "value": 1000,
+        "question": "Lincoln resolved, \"government of the people, by the people, for the people, shall not ____\"",
+        "answer": "perish from the Earth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ARTS & CRAFTS",
+        "value": 1000,
+        "question": "Nylon fishing line & a wooden yard stick can be used to make the strings & control for this type of puppet",
+        "answer": "a marionette",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 1000,
+        "question": "This predator seen here was noted for its razor-sharp claws & for its speed",
+        "answer": "Velociraptor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS AMERICANS",
+    "clue": "On July 20, 1999 it was 30 years since this man said, \"Houston... the Eagle has landed\"",
+    "answer": "Neil Armstrong"
+  },
+  "gameId": "3446",
+  "gameDate": "Monday, September 6, 1999"
+}

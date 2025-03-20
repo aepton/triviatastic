@@ -1,0 +1,574 @@
+{
+  "title": "Show #3565 - Friday, February 18, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "GEOMETRY",
+      "MEN ON FILM",
+      "SNAKES ALIVE!",
+      "WORLD CAPITALS",
+      "TOY STORY",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "GEOMETRY",
+        "value": 100,
+        "question": "This type of triangle has sides that are all the same length",
+        "answer": "Equilateral",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MEN ON FILM",
+        "value": 100,
+        "question": "\"The Man in the Iron Mask\"(1998)",
+        "answer": "Leonardo DiCaprio",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SNAKES ALIVE!",
+        "value": 100,
+        "question": "This \"monarch\" of Southeast Asia is the longest venomous snake",
+        "answer": "King cobra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 100,
+        "question": "This capital is linked to the North Sea via the Thames River",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TOY STORY",
+        "value": 100,
+        "question": "In 1999 this Hasbro action figure celebrated his 35th year in the service",
+        "answer": "G.I. Joe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 100,
+        "question": "Cotton gin inventor who needed a big screen \"Bodyguard\"",
+        "answer": "Eli Whitney Houston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEOMETRY",
+        "value": 200,
+        "question": "A dodecahedron is a solid figure that has this many faces",
+        "answer": "12",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MEN ON FILM",
+        "value": 200,
+        "question": "\"Deuce Bigalow: Male Gigolo\"(1999)",
+        "answer": "Rob Schneider",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SNAKES ALIVE!",
+        "value": 200,
+        "question": "Capable of speeds of 12 MPH, this aggressive \"black\" snake of tropical Africa is the world's fastest",
+        "answer": "Black mamba",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 200,
+        "question": "Indira Gandhi International Airport lies just outside this capital",
+        "answer": "New Delhi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TOY STORY",
+        "value": 200,
+        "question": "They're the conversation pieces seen here",
+        "answer": "Furbys",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 200,
+        "question": "Female \"Party of Five\" star who's \"Mm! Mm! Good\"",
+        "answer": "Neve Campbell Soup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEOMETRY",
+        "value": 300,
+        "question": "An X-axis & Y-axis divide a plane into 4 of these aptly-named areas",
+        "answer": "Quadrants",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MEN ON FILM",
+        "value": 300,
+        "question": "\"Johnny Mnemonic\"(1995)",
+        "answer": "Keanu Reeves",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SNAKES ALIVE!",
+        "value": 300,
+        "question": "It's the \"metallic\" name for the American pit viper seen here:",
+        "answer": "Copperhead",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 300,
+        "question": "As its name implies, this Middle Eastern capital was once known for its damascened steel sword blades",
+        "answer": "Damascus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TOY STORY",
+        "value": 300,
+        "question": "The snacktime version of these \"Kids\" went up for adoption in 1996, until they began snacking on kids' hair",
+        "answer": "Cabbage Patch Kids",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 300,
+        "question": "\"The Bone Collector\" star who penned \"Rip Van Winkle\"",
+        "answer": "Denzel Washington Irving",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEOMETRY",
+        "value": 400,
+        "question": "It has no height, weight or depth & can be located by an ordered pair",
+        "answer": "Point",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MEN ON FILM",
+        "value": 400,
+        "question": "\"Stuart Little\"(1999)(Voice)",
+        "answer": "Michael J. Fox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SNAKES ALIVE!",
+        "value": 400,
+        "question": "Eunectes notaeus, the \"yellow\" variety of this South American snake, is much smaller than its \"giant\" cousin",
+        "answer": "Anaconda",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 800,
+        "question": "1 of 2 capitals on South America's Rio de la Plata",
+        "answer": "Buenos Aires/Montevideo",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TOY STORY",
+        "value": 400,
+        "question": "In the late '60s Mattel took on Matchbox with this line of toy cars; today it owns both",
+        "answer": "Hot Wheels",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "\"Gilligan\" actor's football team that won back-to-back Super Bowls in '98 & '99",
+        "answer": "Bob Denver Broncos",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEOMETRY",
+        "value": 500,
+        "question": "To find the volume of one of these solids, multiply the area of its circular base by its height",
+        "answer": "Cylinder",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MEN ON FILM",
+        "value": 500,
+        "question": "\"Titus\"(1999)",
+        "answer": "Anthony Hopkins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SNAKES ALIVE!",
+        "value": 500,
+        "question": "One of these reticulated snakes shot in Indonesia in 1912 measured 32 feet 9 1/2 inches",
+        "answer": "Python",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 500,
+        "question": "In this capital on the Danube you can stroll the Nagy Korut (Great Boulevard) or the Kis Korut (Small Boulevard)",
+        "answer": "Budapest",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TOY STORY",
+        "value": 500,
+        "question": "This classic seen here first \"drew in\" kids in the mid-'60s:",
+        "answer": "Spirograph",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 500,
+        "question": "A Watchtower distributor's relocation service provided by U.S. marshals",
+        "answer": "Jehovah's Witness Protection Program",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GEE, I'M A TREE",
+      "PEN NAMES",
+      "POP GOES THE MUSIC",
+      "\"Q\" TIPS",
+      "BAD FOREIGN STUDY CHOICES",
+      "REALLY OLD NEWS"
+    ],
+    "clues": [
+      {
+        "category": "GEE, I'M A TREE",
+        "value": 200,
+        "question": "Species of this evergreen include the aleppo, limber & loblolly",
+        "answer": "Pine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PEN NAMES",
+        "value": 200,
+        "question": "This author of \"Jurassic Park\" put himself through Harvard medical school writing under the name John Lange",
+        "answer": "Michael Crichton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE MUSIC",
+        "value": 200,
+        "question": "On this band's first album, Dave Grohl played all of the instruments",
+        "answer": "Foo Fighters",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"Q\" TIPS",
+        "value": 200,
+        "question": "It's a spread for a bed",
+        "answer": "Quilt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BAD FOREIGN STUDY CHOICES",
+        "value": 200,
+        "question": "Largely because of high crime, no one will call you chicken if you avoid this Ukranian capital",
+        "answer": "Kiev",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "REALLY OLD NEWS",
+        "value": 200,
+        "question": "The second of these military campaigns was proclaimed by Pope Eugene III in 1147",
+        "answer": "Crusades",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEE, I'M A TREE",
+        "value": 400,
+        "question": "The name of this type of tree sounds like the name of a large Mediterranean island:",
+        "answer": "Cypress",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PEN NAMES",
+        "value": 400,
+        "question": "Under the name Richard Bachman, he wrote \"Thinner\", about a man with a wasting disease",
+        "answer": "Stephen King",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE MUSIC",
+        "value": 400,
+        "question": "Her CD \"Mirrorball\" includes live versions of her songs \"Adia\" & \"I Will Remember You\"",
+        "answer": "Sarah McLachlan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"Q\" TIPS",
+        "value": 400,
+        "question": "According to its name, a 10-gallon hat would hold 40 of these",
+        "answer": "Quarts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BAD FOREIGN STUDY CHOICES",
+        "value": 400,
+        "question": "Things are still unstable in this country that received over 440,000 Kosovar refugees in 1999",
+        "answer": "Albania",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "REALLY OLD NEWS",
+        "value": 400,
+        "question": "Spanish navigator Vincente Yanez Pinzon captained this vessel on a famous 1492 voyage",
+        "answer": "Nina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEE, I'M A TREE",
+        "value": 600,
+        "question": "The Chinese & Siberian elms are resistant to this fungal disease, but the American elm isn't",
+        "answer": "Dutch elm disease",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PEN NAMES",
+        "value": 600,
+        "question": "Edith Van Dyne, who wrote a series of books about \"Aunt Jane's Nieces\", was actually this Oz author",
+        "answer": "L. Frank Baum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE MUSIC",
+        "value": 600,
+        "question": "With help from Matchbox 20's Rob Thomas, he topped the charts with the song \"Smooth\"",
+        "answer": "Carlos Santana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"Q\" TIPS",
+        "value": 600,
+        "question": "This archaic word for \"said\" is associated forevermore with a raven",
+        "answer": "Quoth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BAD FOREIGN STUDY CHOICES",
+        "value": 600,
+        "question": "This area, an Indonesian province since the 1975 invasion, got really scary in 1999",
+        "answer": "East Timor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "REALLY OLD NEWS",
+        "value": 600,
+        "question": "As a boy in 238 B.C, this general accompanied his father Hamilcar on an expedition to conquer Spain",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEE, I'M A TREE",
+        "value": 800,
+        "question": "Long, droopy branches give this tree, Salix babylonica, its weepiness",
+        "answer": "Weeping willow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PEN NAMES",
+        "value": 800,
+        "question": "Newsweek columnist Joe Klein was \"Anonymous\", the author of this 1996 political novel",
+        "answer": "\"Primary Colors\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE MUSIC",
+        "value": 800,
+        "question": "(Hey, how ya doing, I'm Mark McGrath of Sugar Ray)  It's the title of my band's song that says, \"Once again as predicted left my broken heart open and you ripped it out\"",
+        "answer": "\"Every Morning\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"Q\" TIPS",
+        "value": 800,
+        "question": "It can be the object of a hunt or a place to excavate stone",
+        "answer": "Quarry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BAD FOREIGN STUDY CHOICES",
+        "value": 800,
+        "question": "In border areas of Eritrea, avoid wandering into this country from which Eritrea broke away in 1993",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "REALLY OLD NEWS",
+        "value": 800,
+        "question": "This British general surrendered at Saratoga October 17, 1777, 4 years before Cornwallis did",
+        "answer": "John Burgoyne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEE, I'M A TREE",
+        "value": 2000,
+        "question": "The name of this tree comes from a Native American word for a dish made from its nuts, pocohiquara",
+        "answer": "Hickory",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PEN NAMES",
+        "value": 1000,
+        "question": "Originally, his 1893 novel \"Maggie: A Girl of the Streets\" appeared under the pseudonym Johnston Smith",
+        "answer": "Stephen Crane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE MUSIC",
+        "value": 1000,
+        "question": "The group Len rides motor scooters in the video for this song that samples from \"More, More, More\"",
+        "answer": "\"Steal My Sunshine\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"Q\" TIPS",
+        "value": 1000,
+        "question": "In 1981 the U.S. placed one on Japanese car imports",
+        "answer": "Quota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BAD FOREIGN STUDY CHOICES",
+        "value": 2000,
+        "question": "To learn this European language, you'll be safer in Europe than in Angola or Mozambique, where it's official",
+        "answer": "Portuguese",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "REALLY OLD NEWS",
+        "value": 1000,
+        "question": "The name of these ancient invaders of India comes from a Sanskrit word meaning \"aristocrat\"",
+        "answer": "Aryans",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GEOGRAPHIC EXTREMES",
+    "clue": "The city of Tromso in this country is home to the world's northernmost university & brewery",
+    "answer": "Norway"
+  },
+  "gameId": "3565",
+  "gameDate": "Friday, February 18, 2000"
+}

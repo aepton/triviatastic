@@ -1,0 +1,574 @@
+{
+  "title": "Show #6091 - Monday, February 21, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "STATES' FIRST NEWSPAPERS",
+      "MOVIE TITLE FILL-IN",
+      "MUSICAL INSTRUMENTS",
+      "COMMON BONDS",
+      "EXTREME ANIMALS",
+      "IT BEGINS WITH \"ME\""
+    ],
+    "clues": [
+      {
+        "category": "STATES' FIRST NEWSPAPERS",
+        "value": 200,
+        "question": "Knoxville Gazette(1791)",
+        "answer": "Tennessee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE FILL-IN",
+        "value": 200,
+        "question": "\"How to Eat Fried ____\"",
+        "answer": "Worms",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 200,
+        "question": "Flea of the Red Hot Chili Peppers is best known as a player of this stringed rhythm instrument",
+        "answer": "the bass guitar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 200,
+        "question": "The hustle,the funky chicken,the rhumba",
+        "answer": "dance moves",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EXTREME ANIMALS",
+        "value": 200,
+        "question": "The Antarctic fur variety of this animal has the longest whiskers of any animal, up to about 20 inches long",
+        "answer": "a seal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT BEGINS WITH \"ME\"",
+        "value": 200,
+        "question": "The material with which an artist works; not large, not small, but this",
+        "answer": "a medium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATES' FIRST NEWSPAPERS",
+        "value": 400,
+        "question": "Du Buque Visitor(1836)",
+        "answer": "Iowa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE FILL-IN",
+        "value": 400,
+        "question": "\"The Chronicles of Narnia: The Voyage of the ____ ____\"",
+        "answer": "Dawn Treader",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 400,
+        "question": "The Japanese hichiriki is a type of this Western double-reed woodwind instrument",
+        "answer": "the oboe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 400,
+        "question": "ZIP,Morse,secret",
+        "answer": "codes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EXTREME ANIMALS",
+        "value": 400,
+        "question": "Able to speak & learn human language, the most talkative bird is the African gray this",
+        "answer": "the parrot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT BEGINS WITH \"ME\"",
+        "value": 400,
+        "question": "These usually glow at 50 to 75 miles above the Earth's surface",
+        "answer": "meteors",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATES' FIRST NEWSPAPERS",
+        "value": 600,
+        "question": "Rocky Mountain News(1859)",
+        "answer": "Colorado",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE FILL-IN",
+        "value": 600,
+        "question": "\"Legend of the Guardians: The ____ of Ga'Hoole\"",
+        "answer": "Owls",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 600,
+        "question": "This Hawaiian instrument comes in 4 sizes: soprano, concert, tenor & baritone",
+        "answer": "the ukulele",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 600,
+        "question": "Cuckoo,grandfather,alarm",
+        "answer": "clocks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EXTREME ANIMALS",
+        "value": 600,
+        "question": "Humans each have one of these, also called the backbone; hedgehogs are covered with them",
+        "answer": "a spine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT BEGINS WITH \"ME\"",
+        "value": 600,
+        "question": "It's the unit of measurement, in terms of number of beats, for a piece of music",
+        "answer": "meter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATES' FIRST NEWSPAPERS",
+        "value": 800,
+        "question": "Sitka Times(1868)",
+        "answer": "Alaska",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE FILL-IN",
+        "value": 800,
+        "question": "\"Cats & Dogs: The Revenge of ____ ____\"",
+        "answer": "Kitty Galore",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 800,
+        "question": "Even though it's made of metal, this instrument invented around 1840 is considered a woodwind",
+        "answer": "the saxophone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 800,
+        "question": "Bunk,twin,flower",
+        "answer": "beds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EXTREME ANIMALS",
+        "value": 800,
+        "question": "One of the slowest & sleepiest animals is the 3-toed species of this mammal that can sleep 16 hours a day",
+        "answer": "the sloth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT BEGINS WITH \"ME\"",
+        "value": 800,
+        "question": "It's the largest artificial lake in the United States",
+        "answer": "Lake Mead",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATES' FIRST NEWSPAPERS",
+        "value": 1000,
+        "question": "Deseret News(1850)",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE FILL-IN",
+        "value": 1000,
+        "question": "\"John Tucker Must ____\"",
+        "answer": "Die",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 1000,
+        "question": "The name of this oldest stringed keyboard instrument is from the Latin for \"key string\"",
+        "answer": "the clavichord",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 1000,
+        "question": "Rocking,Arabian,Trojan",
+        "answer": "horses",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EXTREME ANIMALS",
+        "value": 1000,
+        "question": "In the greatest mass egg laying, 500,000 of these sea creatures come ashore in Northeast India to nest",
+        "answer": "sea turtles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT BEGINS WITH \"ME\"",
+        "value": 1000,
+        "question": "An assembly for the purpose of racing",
+        "answer": "a meet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "OLD BOOKS",
+      "TV CARTOON BY CHARACTERS",
+      "THINGS TO DO IN THE USA",
+      "SPANISH VERBS",
+      "THE TOTAL NUMBER",
+      "THE ABRAHAM LINCOLN PRESIDENTIAL LIBRARY"
+    ],
+    "clues": [
+      {
+        "category": "OLD BOOKS",
+        "value": 400,
+        "question": "Virgil's \"Aeneid\" tells the story of the founder of this city",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV CARTOON BY CHARACTERS",
+        "value": 400,
+        "question": "Butters,Mr. Hankey,Scott Tenorman",
+        "answer": "South Park",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THINGS TO DO IN THE USA",
+        "value": 400,
+        "question": "This Missouri town invites visitors to explore the caves from Mark Twain's books",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPANISH VERBS",
+        "value": 400,
+        "question": "Around siesta time, dormir, meaning this, is the operative verb",
+        "answer": "to sleep",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE TOTAL NUMBER",
+        "value": 400,
+        "question": "Cellos in a string quartet",
+        "answer": "1",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE ABRAHAM LINCOLN PRESIDENTIAL LIBRARY",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew reports from the Abraham Lincoln Presidential Library in Springfield, IL.)  Though it wasn't in original drafts of the Gettysburg Address, Lincoln ad-libbed this 2-word phrase--later added to the Pledge of Allegiance--& added it to copies like this one, which he wrote out later",
+        "answer": "under God",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 800,
+        "question": "This compilation of ancient Jewish teachings contains the Mishnah & the Gemara",
+        "answer": "the Talmud",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV CARTOON BY CHARACTERS",
+        "value": 800,
+        "question": "Count Dooku,Mace Windu,Chancellor Palpatine",
+        "answer": "Star Wars: The Clone Wars",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THINGS TO DO IN THE USA",
+        "value": 800,
+        "question": "Head to the Willamette Valley to see the Belknap Covered Bridge in this state",
+        "answer": "Oregon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPANISH VERBS",
+        "value": 800,
+        "question": "Escribir means to do this; you'll have to do it during Final Jeopardy!",
+        "answer": "to write",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE TOTAL NUMBER",
+        "value": 800,
+        "question": "Maximum individual score in a single game of tenpin bowling",
+        "answer": "300",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE ABRAHAM LINCOLN PRESIDENTIAL LIBRARY",
+        "value": 800,
+        "question": "(Jimmy of the Clue Crew reports from the Abraham Lincoln Presidential Library in Springfield, IL.)  On September 15th, 1858, in Jonesboro, Illinois, Abraham Lincoln used these notes to organize his thoughts in the third of his seven debates with this sitting U.S. senator",
+        "answer": "(Stephen) Douglas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 1200,
+        "question": "Composed in Old English between 700 & 750, this epic was originally untitled, then later named for its Scandinavian hero",
+        "answer": "Beowulf",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV CARTOON BY CHARACTERS",
+        "value": 1200,
+        "question": "Starfire,Beast Boy,Cyborg",
+        "answer": "Teen Titans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THINGS TO DO IN THE USA",
+        "value": 1200,
+        "question": "Going up! in this NYC skyscraper whose designer, William Lamb, was inspired by a pencil standing point-up",
+        "answer": "the Empire State Building",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPANISH VERBS",
+        "value": 1200,
+        "question": "Cambiar means this, something you might have to do to a tire, a diaper or to money",
+        "answer": "to change",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE TOTAL NUMBER",
+        "value": 1200,
+        "question": "Events in a heptathlon",
+        "answer": "7",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE ABRAHAM LINCOLN PRESIDENTIAL LIBRARY",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew reports from the Abraham Lincoln Presidential Library in Springfield, IL.)  Lincoln signed many important documents in his executive office, including this, which he called \"the central act of my administration and the great event of the 19th century\"",
+        "answer": "the Emancipation Proclamation",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 1600,
+        "question": "\"The Epic of Gilgamesh\" is an old heroic text from this region whose name means \"between rivers\"",
+        "answer": "Mesopotamia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV CARTOON BY CHARACTERS",
+        "value": 1600,
+        "question": "Hayley Smith,Klaus the goldfish,Roger the alien",
+        "answer": "American Dad!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THINGS TO DO IN THE USA",
+        "value": 1600,
+        "question": "At the mouth of Cape Fear is Old Baldy Lighthouse, this state's oldest standing lighthouse, built in 1817",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPANISH VERBS",
+        "value": 1600,
+        "question": "Most people just want to vivir, this",
+        "answer": "to live",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE TOTAL NUMBER",
+        "value": 1600,
+        "question": "Lines in a Shakespearean sonnet",
+        "answer": "14",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE ABRAHAM LINCOLN PRESIDENTIAL LIBRARY",
+        "value": 1600,
+        "question": "(Kelly of the Clue Crew reports from the Abraham Lincoln Presidential Library in Springfield, IL.)  On February 5, 1862, the President & Mrs. Lincoln continually left a party to be by the bedside of this 11-year-old son, who died two weeks later--the only child of a president to actually die in the White House",
+        "answer": "Willie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 2000,
+        "question": "A collection of 11th & 12th century epigrammatic quatrains is \"The Rubaiyat\" of this Persian poet & astronomer",
+        "answer": "Omar Khayyam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV CARTOON BY CHARACTERS",
+        "value": 2000,
+        "question": "Killface,Awesome X,Grace Ryan",
+        "answer": "Frisky Dingo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THINGS TO DO IN THE USA",
+        "value": 2000,
+        "question": "In Wyoming you can camp in the shadow of this tower, the USA's first national monument",
+        "answer": "Devils Tower",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPANISH VERBS",
+        "value": 2000,
+        "question": "Pensar means to do this; people who do it well enough may go into a \"tank\"",
+        "answer": "to think",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE TOTAL NUMBER",
+        "value": 2000,
+        "question": "Hours in a standard week",
+        "answer": "168",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE ABRAHAM LINCOLN PRESIDENTIAL LIBRARY",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew reports from the Abraham Lincoln Presidential Library in Springfield, IL.)  The story goes that the dying Lincoln was cradled by Laura Keene, the star of this play that Lincoln fatally attended, leaving his blood on a piece of her dress",
+        "answer": "Our American Cousin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GREEK MYTHOLOGY",
+    "clue": "Though Rhea was his mother, in one tradition this god was brought up by Capheira, the daughter of Oceanus",
+    "answer": "Poseidon"
+  },
+  "gameId": "6091",
+  "gameDate": "Monday, February 21, 2011"
+}

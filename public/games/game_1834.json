@@ -1,0 +1,574 @@
+{
+  "title": "Show #3692 - Tuesday, September 26, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "ROYALTY",
+      "BOY SCOUT MERIT BADGES",
+      "POP GOES THE BALLET",
+      "AUTUMN-ATIC",
+      "FAMOUS BUILDINGS",
+      "SOUNDS \"ISH\"Y TO ME"
+    ],
+    "clues": [
+      {
+        "category": "ROYALTY",
+        "value": 100,
+        "question": "All of this country's Capetian kings descended from Robert the Strong, Count of Anjou & Blois",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BOY SCOUT MERIT BADGES",
+        "value": 100,
+        "question": "A boy doesn't have to shoot a bullseye to earn the badge seen here for this sport",
+        "answer": "Archery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE BALLET",
+        "value": 100,
+        "question": "The rock & roll ballet \"Blue Suede Shoes\" celebrates the music & the spirit of this legendary star",
+        "answer": "Elvis Presley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AUTUMN-ATIC",
+        "value": 100,
+        "question": "Around Thanksgiving you start to see store ads reminding you that there are only about 28 of these \"before Christmas\"",
+        "answer": "Shopping days",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS BUILDINGS",
+        "value": 100,
+        "question": "U.S. Army engineers built it in the early 1940s to house all of what was then the offices of the Department of War",
+        "answer": "Pentagon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SOUNDS \"ISH\"Y TO ME",
+        "value": 100,
+        "question": "From Flanders",
+        "answer": "Flemish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 200,
+        "question": "This \"Great\" czar got rid of his powerful half-sister Sophia by sending her off to a convent",
+        "answer": "Peter the Great",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BOY SCOUT MERIT BADGES",
+        "value": 200,
+        "question": "You must earn the hiking, swimming or cycling badge to become this type of scout",
+        "answer": "Eagle Scout",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE BALLET",
+        "value": 200,
+        "question": "\"Deuce Coupe\" is danced to \"Little Deuce Coupe\", \"Catch A Wave\" & other songs made famous by this group",
+        "answer": "The Beach Boys",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AUTUMN-ATIC",
+        "value": 400,
+        "question": "Each November this sporting event starts in Staten Island & ends hours later in Central Park",
+        "answer": "New York City Marathon",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS BUILDINGS",
+        "value": 200,
+        "question": "This Italian campanile has an inclination of about 6 degrees, or about 13 feet from the vertical",
+        "answer": "Leaning Tower of Pisa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SOUNDS \"ISH\"Y TO ME",
+        "value": 200,
+        "question": "The opposite of penny wise",
+        "answer": "Pound foolish",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 300,
+        "question": "This 18th dynasty queen's painted limestone bust is in a museum, but her real body has never been found",
+        "answer": "Nefertiti",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BOY SCOUT MERIT BADGES",
+        "value": 300,
+        "question": "The name of this badge seen here comes from a group of Greek sister goddesses[badge with a harp]",
+        "answer": "Music badge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE BALLET",
+        "value": 300,
+        "question": "The 1988 ballet \"A Fool For You\" is performed to this star's hits, including \"I Got A Woman\" & \"Hit The Road Jack\"",
+        "answer": "Ray Charles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AUTUMN-ATIC",
+        "value": 300,
+        "question": "In-ciders know October is the national month for this fruit",
+        "answer": "Apples",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS BUILDINGS",
+        "value": 300,
+        "question": "The name of this Indian mausoleum means \"crown of the palace\"",
+        "answer": "Taj Mahal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SOUNDS \"ISH\"Y TO ME",
+        "value": 300,
+        "question": "It's also known as a crawdad",
+        "answer": "Crayfish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 400,
+        "question": "After seizing the English throne, Canute of Denmark married Emma, widow of this \"Unready\" king",
+        "answer": "Ethelred",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BOY SCOUT MERIT BADGES",
+        "value": 400,
+        "question": "If you can describe a float, trap & drainpipe, you're on your way to a badge in this field",
+        "answer": "Plumbing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE BALLET",
+        "value": 400,
+        "question": "\"Sex\" & \"Horror\" are compositions this member of the Marsalis family wrote for the ballet \"Them Twos\"",
+        "answer": "Wynton Marsalis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AUTUMN-ATIC",
+        "value": 400,
+        "question": "Every October 19 this Virginia town remembers the last major battle of the American Revolution",
+        "answer": "Yorktown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS BUILDINGS",
+        "value": 400,
+        "question": "This 77-story Manhattan building with a stainless steel spire was inspired by art deco & machine forms",
+        "answer": "Chrysler Building",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SOUNDS \"ISH\"Y TO ME",
+        "value": 400,
+        "question": "A fixation, or a magical object of worship",
+        "answer": "Fetish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 500,
+        "question": "Sadly, Juana La Loca was insane by the time she inherited the Castilian throne from this woman, her mother",
+        "answer": "Isabella",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BOY SCOUT MERIT BADGES",
+        "value": 500,
+        "question": "The name of the badge seen here, or an unfortunate investment for the Clintons",
+        "answer": "Whitewater",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POP GOES THE BALLET",
+        "value": 500,
+        "question": "\"Laura's Women\" was inspired by the music of this singer-songwriter who wrote for Streisand & Three Dog Night",
+        "answer": "Laura Nyro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AUTUMN-ATIC",
+        "value": 500,
+        "question": "On October 12 many Latinos celebrate El Dia de la Raza, meaning \"The Day of\" this",
+        "answer": "The Race/Community/People",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS BUILDINGS",
+        "value": 500,
+        "question": "The Palace of Nations lies near the shore of this Swiss lake",
+        "answer": "Lake Geneva",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SOUNDS \"ISH\"Y TO ME",
+        "value": 500,
+        "question": "To restock depleted supplies",
+        "answer": "Replenish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PACIFIC ISLANDS",
+      "HARRISON FORD",
+      "FAMOUS NICKNAMES",
+      "BIBLICAL ANIMALS",
+      "ONE MAN'S \"MEAT\"",
+      "ANOTHER MAN'S POISON"
+    ],
+    "clues": [
+      {
+        "category": "PACIFIC ISLANDS",
+        "value": 200,
+        "question": "If you travel to French Polynesia, your plane will land at Faaa Int'l Airport near Papeete on this island",
+        "answer": "Tahiti",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HARRISON FORD",
+        "value": 200,
+        "question": "1 of the 4 characters Ford has played more than once on film",
+        "answer": "Han Solo, Jack Ryan, Indiana Jones or Bob (from \"American Graffiti\")",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS NICKNAMES",
+        "value": 200,
+        "question": "\"The Lord of San Simeon\"",
+        "answer": "William Randolph Hearst",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL ANIMALS",
+        "value": 200,
+        "question": "For his last trip to Jerusalem, Jesus sent 2 disciples to Bethphage to get him one of these",
+        "answer": "Donkey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ONE MAN'S \"MEAT\"",
+        "value": 200,
+        "question": "This term for anything essential or basic could also refer to steak & home fries",
+        "answer": "Meat & potatoes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ANOTHER MAN'S POISON",
+        "value": 200,
+        "question": "King & spitting are types of this snake whose venom attacks the nervous system",
+        "answer": "Cobra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PACIFIC ISLANDS",
+        "value": 400,
+        "question": "This largest Japanese island covers about 60% of the country's total area",
+        "answer": "Honshu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HARRISON FORD",
+        "value": 400,
+        "question": "In 1969 Ford appeared on this comedy anthology series in the segment \"Love and the Former Marriage\"",
+        "answer": "Love, American Style",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS NICKNAMES",
+        "value": 400,
+        "question": "In movies, Hope & Crosby's \"Sarong Girl\"",
+        "answer": "Dorothy Lamour",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL ANIMALS",
+        "value": 400,
+        "question": "Proverbs compares \"A fair woman...without discretion\" to a jewel in this animal's snout",
+        "answer": "Pig",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ONE MAN'S \"MEAT\"",
+        "value": 400,
+        "question": "Bill Murray summer camped it up in this 1979 comedy",
+        "answer": "Meatballs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ANOTHER MAN'S POISON",
+        "value": 400,
+        "question": "The EPA names deteriorating paint & contaminated dust & soil as leading sources of poison from this metal",
+        "answer": "Lead",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PACIFIC ISLANDS",
+        "value": 1200,
+        "question": "Adamstown, this island's only village, is located on its northern coast near Bounty Bay",
+        "answer": "Pitcairn Island",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HARRISON FORD",
+        "value": 600,
+        "question": "Ford began his film career as a contract player in this studio's \"pictures\"",
+        "answer": "Columbia Pictures",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS NICKNAMES",
+        "value": 600,
+        "question": "The Wild West's \"Little Sure Shot\"",
+        "answer": "Annie Oakley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL ANIMALS",
+        "value": 600,
+        "question": "An angry King David is compared to one of these animals robbed of her cubs",
+        "answer": "Bear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ONE MAN'S \"MEAT\"",
+        "value": 600,
+        "question": "(Hi, I'm Earl Brown.)  In 1978 two out of three wasn't bad for this singer who I played on VH1 in 2000",
+        "answer": "Meat Loaf",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANOTHER MAN'S POISON",
+        "value": 600,
+        "question": "Its name comes from the Greek strychnos, a type of nightshade",
+        "answer": "Strychnine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PACIFIC ISLANDS",
+        "value": 800,
+        "question": "In 1878 the U.S. acquired Pago Pago as a coaling station in this Pacific island group",
+        "answer": "Samoa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HARRISON FORD",
+        "value": 800,
+        "question": "Ford's cameo in this 1982 Spielberg film, written by his now-wife Melissa Mathison, got cut",
+        "answer": "E.T.",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS NICKNAMES",
+        "value": 1600,
+        "question": "In the 1960s he became \"The Assassin's Assassin\"",
+        "answer": "Jack Ruby",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL ANIMALS",
+        "value": 800,
+        "question": "In the Song of Solomon, \"The little\" ones of these \"spoil the vines\"",
+        "answer": "Foxes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ONE MAN'S \"MEAT\"",
+        "value": 800,
+        "question": "Slang term for a singles bar, or any place with a similar atmosphere",
+        "answer": "Meat market",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ANOTHER MAN'S POISON",
+        "value": 800,
+        "question": "As Heinrich Himmler found out, this poison smells like bitter almonds",
+        "answer": "Cyanide",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PACIFIC ISLANDS",
+        "value": 1000,
+        "question": "Spanish & Rapanui are principal languages spoken on this island 2,300 miles west of Chile",
+        "answer": "Easter Island",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HARRISON FORD",
+        "value": 1000,
+        "question": "In the 1979 film \"The Frisco Kid\" cowboy Ford ran into a rabbi played by this comic actor",
+        "answer": "Gene Wilder",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS NICKNAMES",
+        "value": 1000,
+        "question": "The \"One-Legged Governor\" of New Netherland",
+        "answer": "Peter Stuyvesant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL ANIMALS",
+        "value": 1000,
+        "question": "Jesus called the Pharisees \"Blind guides, which strain at a gnat, and swallow\" this",
+        "answer": "A camel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ONE MAN'S \"MEAT\"",
+        "value": 1000,
+        "question": "For example: bonbons, chocolate, toffee...anyone hungry yet?",
+        "answer": "Sweet meats",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ANOTHER MAN'S POISON",
+        "value": 1000,
+        "question": "The element with atomic number 33, or the poisonous compound made from it",
+        "answer": "Arsenic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORD ORIGINS",
+    "clue": "This term for those not Roman or Greek derives from the fact their languages sounded unintelligible",
+    "answer": "Barbarians"
+  },
+  "gameId": "3692",
+  "gameDate": "Tuesday, September 26, 2000"
+}

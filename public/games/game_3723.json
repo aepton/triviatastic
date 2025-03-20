@@ -1,0 +1,547 @@
+{
+  "title": "Show #6215 - Friday, September 30, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "BLU-RAYS",
+      "WHO MAKES IT?",
+      "ADD A LETTER",
+      "LANDMARKS",
+      "SURPRISE PARTY",
+      "PROHIBITION"
+    ],
+    "clues": [
+      {
+        "category": "ADD A LETTER",
+        "value": 200,
+        "question": "Add a letter to \"hotel\" & you end up with this less-expensive lodging place",
+        "answer": "a hostel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 200,
+        "question": "This name properly refers to only the great hour bell at the northern end of London's Houses of Parliament",
+        "answer": "Big Ben",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SURPRISE PARTY",
+        "value": 200,
+        "question": "Little girls love to have this kind of party, though lemonade usually replaces the oolong or orange pekoe",
+        "answer": "a tea party",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PROHIBITION",
+        "value": 200,
+        "question": "The scene for prohibition is set with the 1829 inauguration party for this president; it moved outside due to drunken revelry",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BLU-RAYS",
+        "value": 400,
+        "question": "The 2008 Blu-ray release of this all-time classic comes with a passport holder, for your flight to Lisbon",
+        "answer": "Casablanca",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ADD A LETTER",
+        "value": 400,
+        "question": "One extra letter makes a \"uniformed\" person this, meaning very much out of the loop",
+        "answer": "uninformed",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 400,
+        "question": "It served as the gateway entrance to the International Exhibition of 1889, held in Paris",
+        "answer": "the Eiffel Tower",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SURPRISE PARTY",
+        "value": 400,
+        "question": "Hugh Hefner originally planned to call Playboy magazine this, another term for a bachelor party",
+        "answer": "Stag",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PROHIBITION",
+        "value": 400,
+        "question": "After alcohol was made illegal in Maine, vendors offered swigs from concealed pints in their pants & got this nickname",
+        "answer": "bootleggers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BLU-RAYS",
+        "value": 600,
+        "question": "Time travel info is on the Blu-ray of this Jake Gyllenhaal film, & you don't have to access the title \"Code\" to get it",
+        "answer": "Source Code",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WHO MAKES IT?",
+        "value": 600,
+        "question": "Nutri-Grain Bars & Rice Krispies Treats",
+        "answer": "Kellogg's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ADD A LETTER",
+        "value": 600,
+        "question": "Here's a \"riddle\"; now add a letter & it's this hot, flat cooking surface",
+        "answer": "a griddle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 600,
+        "question": "A 5,500-mile-long section of it runs from Mount Hu near Dandong to a spot in Gansu Province",
+        "answer": "the Great Wall of China",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SURPRISE PARTY",
+        "value": 600,
+        "question": "Traditionally, you throw this type of party to show off your new home",
+        "answer": "a housewarming",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PROHIBITION",
+        "value": 600,
+        "question": "It was not illegal to make wine for home use; beer was a no-no, though, under this act that accompanied prohibition",
+        "answer": "the Volstead Act",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BLU-RAYS",
+        "value": 800,
+        "question": "An interactive guide to class action is a helpful part of the season 1 Blu-ray of this Glenn Close series",
+        "answer": "Damages",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WHO MAKES IT?",
+        "value": 800,
+        "question": "Ivory Soap",
+        "answer": "Proctor & Gamble",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ADD A LETTER",
+        "value": 800,
+        "question": "Add a letter to \"reel\" & you'll be able to do this, take much pleasure",
+        "answer": "revel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 800,
+        "question": "This national memorial includes a 16-inch mole & a mustache that is 20 feet wide",
+        "answer": "Mount Rushmore",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SURPRISE PARTY",
+        "value": 800,
+        "question": "The first party to sell these containers was held in 1948; today, you can also host online parties",
+        "answer": "Tupperware",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PROHIBITION",
+        "value": 800,
+        "question": "The St. Louis brewery--er, former brewery--headed by this man did just fine as a maker of malt extract",
+        "answer": "(August) Busch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BLU-RAYS",
+        "value": 1000,
+        "question": "\"Sibling Rivalry\" is a special feature on the Blu-ray of this fraternal Ferrell-Reilly comedy",
+        "answer": "Step Brothers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WHO MAKES IT?",
+        "value": 1000,
+        "question": "Inspiron laptops",
+        "answer": "Dell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ADD A LETTER",
+        "value": 1000,
+        "question": "Add a letter to \"glen\" & you can take it in this way, bit by bit",
+        "answer": "glean",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 1000,
+        "question": "This, the only remaining town gate of Berlin, is at the western end of the avenue Unter den Linden",
+        "answer": "the Brandenburg Gate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SURPRISE PARTY",
+        "value": 1000,
+        "question": "Cheers & glasses raised for this T.S. Eliot comedy that won the 1950 Tony for Best Play",
+        "answer": "The Cocktail Party",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PROHIBITION",
+        "value": 1000,
+        "question": "This \"Little Flower\" N.Y. rep. (& later mayor) believed that God would disapprove of prohibition\"And I don't think that he intended the use of grapes to be made into jelly.\"",
+        "answer": "Fiorello LaGuardia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BLUE RAYS",
+      "\"G\" WHAT A COUNTRY",
+      "LITERATURE",
+      "EXPLOSIVE MUSIC",
+      "RHETORICALLY SPEAKING",
+      "THE U.S. COAST GUARD"
+    ],
+    "clues": [
+      {
+        "category": "BLUE RAYS",
+        "value": 400,
+        "question": "The sky is blue because blue light is most readily scattered from sunlight, being down at the short end of this",
+        "answer": "the spectrum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "\"G\" WHAT A COUNTRY",
+        "value": 400,
+        "question": "It was unified in the 19th century & reunified in the 20th",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "A line from this 1894 Kipling book says, \"Rikki-Tikki had a right to be proud of himself; but he did not grow too proud\"",
+        "answer": "The Jungle Book",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EXPLOSIVE MUSIC",
+        "value": 400,
+        "question": "In 2011 Bruno Mars blew up the charts with a song that says, \"I'd catch a\" this \"for ya, throw my hand on a blade for ya\"",
+        "answer": "grenade",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "RHETORICALLY SPEAKING",
+        "value": 400,
+        "question": "The substitution of an inoffensive word for an offensive word is this type of \"-ism\"",
+        "answer": "a euphemism",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE U.S. COAST GUARD",
+        "value": 400,
+        "question": "The Jayhawk  helicopter can reach 205 miles per hour as one of the Coast Guard's main assets in SAR, \"search and\" this",
+        "answer": "rescue",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BLUE RAYS",
+        "value": 800,
+        "question": "The blue light in the pools of water in these power facilities is called Cerenkov radiation",
+        "answer": "nuclear power plants",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "\"G\" WHAT A COUNTRY",
+        "value": 800,
+        "question": "In 2011 citizens protesting financial austerity measures rioted in this Mediterranean country",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "Chapters in this James Bond novel include \"Gem Quality\" & \"Hot Ice\"",
+        "answer": "Diamonds Are Forever",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EXPLOSIVE MUSIC",
+        "value": 800,
+        "question": "This group topped the charts & won an Album of the Year Grammy for 2004's \"How to Dismantle an Atomic Bomb\"",
+        "answer": "U2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "RHETORICALLY SPEAKING",
+        "value": 800,
+        "question": "\"I'd give my right arm for a drink\" is an example of this, from the Greek for \"exaggeration\"",
+        "answer": "hyperbole",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE U.S. COAST GUARD",
+        "value": 800,
+        "question": "The USCG has reach--a PSU went to protect Navy ships after the 2000 attack on the USS Cole in this Mideast country",
+        "answer": "Yemen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BLUE RAYS",
+        "value": 1200,
+        "question": "In electronics, a blue gun isn't a weapon but part of this in TV sets, also called the picture tube",
+        "answer": "a cathode ray tube",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "\"G\" WHAT A COUNTRY",
+        "value": 1200,
+        "question": "This New World country gained its independence from Spain in 1821",
+        "answer": "Guatemala",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1200,
+        "question": "One reviewer called this recent Sara Gruen bestseller \"so much more than a tale about a circus\"",
+        "answer": "Water for Elephants",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EXPLOSIVE MUSIC",
+        "value": 1200,
+        "question": "In 2011 she appeared with a children's choir on \"Oprah\" to sing her hit \"Firework\"",
+        "answer": "Katy Perry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "RHETORICALLY SPEAKING",
+        "value": 1200,
+        "question": "Archaism in rhetoric is a use of this type of term",
+        "answer": "obsolete (or old or antiquated)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE U.S. COAST GUARD",
+        "value": 1200,
+        "question": "One job of a USCG tender is inspecting & replacing buoys, fog signals, lights & other indicators, collectively called aids to this",
+        "answer": "navigation",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BLUE RAYS",
+        "value": 1600,
+        "question": "A type of bioluminescence, the blue glow of sea creatures like plankton is called this, also ending in -escence",
+        "answer": "phosphorescence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "\"G\" WHAT A COUNTRY",
+        "value": 1600,
+        "question": "The West Indies nation we invaded in 1983",
+        "answer": "Grenada",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1600,
+        "question": "He wrote \"Bech: A Book\", \"Bech Is Back\" & \"Bech At Bay\" in addition to his \"Rabbit\" novels",
+        "answer": "(John) Updike",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EXPLOSIVE MUSIC",
+        "value": 1600,
+        "question": "In his song \"Russians,\" he wondered \"How can I save my little boy from Oppenheimer's deadly toy?\"",
+        "answer": "Sting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "RHETORICALLY SPEAKING",
+        "value": 1600,
+        "question": "An example of antithesis is the line \"Not that I loved Caesar less, but that I loved\" this \"more\"",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE U.S. COAST GUARD",
+        "value": 1600,
+        "question": "In WWII a major Coast Guard task was hunting these vessels, Hitler's main weapon in the Battle of the Atlantic",
+        "answer": "U-boats",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BLUE RAYS",
+        "value": 2000,
+        "question": "Blue light can worsen this type of degeneration, the leading cause of blindness in Americans over 55",
+        "answer": "macular degeneration",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "\"G\" WHAT A COUNTRY",
+        "value": 2000,
+        "question": "Between Cameroon & Congo you'll find this country, independent from France since 1960",
+        "answer": "Gabon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 2000,
+        "question": "This 1930 William Faulkner novel deals with the death & burial of Addie Bundren",
+        "answer": "As I Lay Dying",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EXPLOSIVE MUSIC",
+        "value": 2000,
+        "question": "It's the \"explosive\" name of the Taio Cruz hit heard here\"I throw my hands up in the air sometimes /Saying ay-o /Gotta let go /I wanna celebrate...\"",
+        "answer": "\"Dynamite\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "RHETORICALLY SPEAKING",
+        "value": 2000,
+        "question": "Rhetorically, \"Hello darkness, my old friend\" is termed this, just like a punctuation mark",
+        "answer": "apostrophe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE U.S. COAST GUARD",
+        "value": 2000,
+        "question": "The Coast Guard looks out for the smuggling of drugs & people in this practice, from the old French for \"to forbid\"",
+        "answer": "interdiction",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE OLYMPICS",
+    "clue": "Aside from racquet sports, one of the 2 other Summer Olympic sports in which men may currently compete against women",
+    "answer": "equestrian events or sailing"
+  },
+  "gameId": "6215",
+  "gameDate": "Friday, September 30, 2011"
+}

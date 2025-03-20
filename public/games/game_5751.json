@@ -1,0 +1,574 @@
+{
+  "title": "Show #7582 - Tuesday, July 25, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "YOU BUG ME",
+      "____ & ____",
+      "WHO WROTE THE LINE?",
+      "ADULT BEVERAGES",
+      "BAWLERS",
+      "ALL THE DAYS OF ITALY"
+    ],
+    "clues": [
+      {
+        "category": "YOU BUG ME",
+        "value": 200,
+        "question": "This common pet parasite can jump 200 times the length of its own body",
+        "answer": "a flea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "____ & ____",
+        "value": 200,
+        "question": "BKS is the stock symbol for this seller of books & Nook tablets",
+        "answer": "Barnes & Noble",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHO WROTE THE LINE?",
+        "value": 200,
+        "question": "\"I'm dreaming of a white Christmas just like the ones I used to know\"",
+        "answer": "Irving Berlin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ADULT BEVERAGES",
+        "value": 200,
+        "question": "In names of cocktails, this liquor precedes mockingbird & sunrise",
+        "answer": "tequila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BAWLERS",
+        "value": 200,
+        "question": "This nursery rhyme guy kissed the girls & made them cry",
+        "answer": "Georgie Porgie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ALL THE DAYS OF ITALY",
+        "value": 200,
+        "question": "It's domenica, this day, so put on your best",
+        "answer": "Sunday",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "YOU BUG ME",
+        "value": 400,
+        "question": "This word for the young of insects is from the Latin for \"ghost\"",
+        "answer": "larva",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "____ & ____",
+        "value": 400,
+        "question": "It's the rhyming name for the type of meal seen here",
+        "answer": "surf & turf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHO WROTE THE LINE?",
+        "value": 400,
+        "question": "\"The prince must be a fox... to recognize the traps and a lion to frighten the wolves\"",
+        "answer": "Machiavelli",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ADULT BEVERAGES",
+        "value": 400,
+        "question": "The main ingredients in a mint julep are mint leaves, sugar syrup & this liquor",
+        "answer": "bourbon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BAWLERS",
+        "value": 400,
+        "question": "A bawling player in \"A League of Their Own\" causes Tom Hanks to say these 5 oft-quoted words about America's pastime",
+        "answer": "there's no crying in baseball",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ALL THE DAYS OF ITALY",
+        "value": 400,
+        "question": "To get things done there's no day like oggi, this day",
+        "answer": "today",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "YOU BUG ME",
+        "value": 600,
+        "question": "Gene science has led to thoughts of eradicating this insect, or maybe just the Culex genus that spreads encephalitis",
+        "answer": "a mosquito",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "____ & ____",
+        "value": 600,
+        "question": "Between 1992 & 2006 this male duo won the CMA's Vocal Duo of the Year award an unprecedented 14 times",
+        "answer": "Brooks & Dunn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHO WROTE THE LINE?",
+        "value": 600,
+        "question": "\"I woke up and heard the lambs screaming. I woke up in the dark and the lambs were screaming\"",
+        "answer": "(Thomas) Harris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ADULT BEVERAGES",
+        "value": 600,
+        "question": "For brunch you might opt for this drink made with champagne or sparkling wine & peach puree",
+        "answer": "a bellini",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BAWLERS",
+        "value": 600,
+        "question": "\"Here, take my\" this, Rhett tells a weeping Scarlett, \"Never in any crisis of your life have I known you to have\" one",
+        "answer": "a handkerchief",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ALL THE DAYS OF ITALY",
+        "value": 600,
+        "question": "On this day, ieri, all my troubles seemed so far away",
+        "answer": "yesterday",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "YOU BUG ME",
+        "value": 800,
+        "question": "This paternal name usually refers to a type of arachnid, but the crane fly also gets the moniker",
+        "answer": "daddy long-legs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "____ & ____",
+        "value": 800,
+        "question": "A mismatched couple, especially the pair seen here",
+        "answer": "Mutt & Jeff",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHO WROTE THE LINE?",
+        "value": 800,
+        "question": "Tragedy is \"the imitation of an action... arousing pity and fear... to accomplish its catharsis\" (c. 330 B.C.)",
+        "answer": "Aristotle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ADULT BEVERAGES",
+        "value": 800,
+        "question": "Combine orange juice, club soda & this almond-flavored liqueur & you've got yourself a bocce ball",
+        "answer": "amaretto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BAWLERS",
+        "value": 800,
+        "question": "Ricky's & Fred's wives think their hubbies have enlisted & cry like babies on an episode of this classic sitcom",
+        "answer": "I Love Lucy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ALL THE DAYS OF ITALY",
+        "value": 800,
+        "question": "Let's forget about domani, this day",
+        "answer": "tomorrow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "YOU BUG ME",
+        "value": 1000,
+        "question": "The bulldog type of this bug regularly preys on the carpenter type & its bite can kill humans",
+        "answer": "an ant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "____ & ____",
+        "value": 1000,
+        "question": "In mythology this pair of doomed lovers lived on opposite sides of the Hellespont",
+        "answer": "Hero & Leander",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHO WROTE THE LINE?",
+        "value": 1000,
+        "question": "\"She lives in a world of her own--a world of--little glass ornaments\"",
+        "answer": "Tennessee Williams",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ADULT BEVERAGES",
+        "value": 1000,
+        "question": "They're the 2 main ingredients in a Cape Codder, one for adults & one for all ages",
+        "answer": "vodka and cranberry juice",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BAWLERS",
+        "value": 1000,
+        "question": "Will Ferrell & John C. Reilly dissolve into tears when their folks announce they're getting a divorce in this comedy",
+        "answer": "Step Brothers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ALL THE DAYS OF ITALY",
+        "value": 1000,
+        "question": "Mercoledi is this day",
+        "answer": "Wednesday",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE EMPIRE STRIKES OUT",
+      "THE MUSICAL '70s",
+      "PHILOSOPHERS",
+      "\"J\"EOPARDY!",
+      "STATUARY HALL: THE STATE REPRESENTED",
+      "DIPLOMATIC DICTIONARY"
+    ],
+    "clues": [
+      {
+        "category": "THE EMPIRE STRIKES OUT",
+        "value": 400,
+        "question": "The sun was said to truly set on the British empire on July 1, 1997 when this region was ceded back to China",
+        "answer": "Hong Kong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL '70s",
+        "value": 400,
+        "question": "References to Buddy Holly abound in this Don McLean hit about \"the day the music died\"",
+        "answer": "\"American Pie\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 400,
+        "question": "When this philosopher died around 347 B.C., his nephew Speusippus took over the Academy",
+        "answer": "Plato",
+        "isDailyDouble": true,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"J\"EOPARDY!",
+        "value": 400,
+        "question": "Fatigue from travel across several time zones",
+        "answer": "jet lag",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "STATUARY HALL: THE STATE REPRESENTED",
+        "value": 400,
+        "question": "Brigham Young",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DIPLOMATIC DICTIONARY",
+        "value": 400,
+        "question": "Go tell it on the mountain--it's a formally arranged meeting of heads of government",
+        "answer": "a summit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE EMPIRE STRIKES OUT",
+        "value": 800,
+        "question": "Based in Patna in what's now this country, the Mauryan empire declined after Emperor Ashoka died c. 232 B.C.",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL '70s",
+        "value": 800,
+        "question": "Fleetwood Mac's only No. 1 hit, \"Dreams\", was written by her, a member of the group",
+        "answer": "Stevie Nicks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 800,
+        "question": "Best known as an economist, this Scot wrote a philosophical treatise in 1759 called \"Theory of Moral Sentiments\"",
+        "answer": "Adam Smith",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"J\"EOPARDY!",
+        "value": 800,
+        "question": "One of these crimes that's \"inside\" has the help of someone who works at the place being robbed",
+        "answer": "a job",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "STATUARY HALL: THE STATE REPRESENTED",
+        "value": 800,
+        "question": "William Jennings Bryan",
+        "answer": "Nebraska",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DIPLOMATIC DICTIONARY",
+        "value": 800,
+        "question": "From the Greek for \"first page\", it's the ceremonial side of diplomacy, including matters of courtesy & precedence",
+        "answer": "protocol",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE EMPIRE STRIKES OUT",
+        "value": 1200,
+        "question": "\"We'll rule for a thousand years!\", said this \"sacred\" empire in 800 A.D., \"then 6 years more, & shuffle off in 1806\"",
+        "answer": "the Holy Roman empire",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL '70s",
+        "value": 1200,
+        "question": "He received a Grammy for Best Male Pop Vocal in 1978 for \"Copacabana (At The Copa)\"",
+        "answer": "Barry Manilow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 1200,
+        "question": "The porch where Zeno taught led to this name for his students, who pursued tranquility of mind",
+        "answer": "Stoic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"J\"EOPARDY!",
+        "value": 1200,
+        "question": "A type of shot glass, it's equal to 1 1/2 ounces of booze",
+        "answer": "a jigger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "STATUARY HALL: THE STATE REPRESENTED",
+        "value": 1200,
+        "question": "Helen Keller",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DIPLOMATIC DICTIONARY",
+        "value": 1200,
+        "question": "In negotiating trade deals, President Trump likes ones that are bi-this more than the multi-this ones",
+        "answer": "lateral",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE EMPIRE STRIKES OUT",
+        "value": 1600,
+        "question": "(Sarah of the Clue Crew shows a map on the monitor.) Seen at its height around 500 B.C., this empire once led by Darius I ended in 330 B.C. at the hands of Alexander the Great",
+        "answer": "Persia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL '70s",
+        "value": 1600,
+        "question": "The perfect song for rainy days (half of the title), this adult contemporary tune is heard here",
+        "answer": "\"Rainy Days And Mondays\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 1600,
+        "question": "He spent 11 years as a University of Copenhagen student & asked in his journal, \"What is truth but to live for an idea?\"",
+        "answer": "Soren Kierkegaard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"J\"EOPARDY!",
+        "value": 1600,
+        "question": "Remains of this million-year-old type of Homo erectus were discovered in Indonesia in the 1890s",
+        "answer": "Java Man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "STATUARY HALL: THE STATE REPRESENTED",
+        "value": 1600,
+        "question": "Father Damien",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DIPLOMATIC DICTIONARY",
+        "value": 1600,
+        "question": "NGO is an abbreviation for one of these private institutions like Care International",
+        "answer": "a non-government organization",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE EMPIRE STRIKES OUT",
+        "value": 2000,
+        "question": "I decree the Mongol empire got broken into many parts after the death of this man in 1294",
+        "answer": "Kubla Khan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL '70s",
+        "value": 2000,
+        "question": "This disco hit about a workplace says, \"Keep those rags and machines humming\"",
+        "answer": "\"Car Wash\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 2000,
+        "question": "This Englishman's \"Second Treatise\" laid the groundwork for future democracies & the U.S. constitution",
+        "answer": "John Locke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"J\"EOPARDY!",
+        "value": 2000,
+        "question": "English physicist who discovered the First Law of Thermodynamics & gave his name to a unit of energy",
+        "answer": "Joule",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "STATUARY HALL: THE STATE REPRESENTED",
+        "value": 2000,
+        "question": "Patrick McCarran",
+        "answer": "Nevada",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DIPLOMATIC DICTIONARY",
+        "value": 2000,
+        "question": "A diplomat who's not welcome in another country is described by this 3-word Latin phrase",
+        "answer": "persona non grata",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EUROPE",
+    "clue": "Once a feudal state, it has the highest capital city in Europe at an elevation of about 3,300 feet",
+    "answer": "Andorra"
+  },
+  "gameId": "7582",
+  "gameDate": "Tuesday, July 25, 2017"
+}

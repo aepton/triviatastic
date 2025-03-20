@@ -1,0 +1,547 @@
+{
+  "title": "Show #4267 - Tuesday, March 4, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "IN OLD DETROIT",
+      "YALE DRAMA SCHOOL ALUMNI",
+      "CAPITAL CITY HOTELS",
+      "PARROTS",
+      "WOOD-POURRI",
+      "THIS MEANS \"WAR\""
+    ],
+    "clues": [
+      {
+        "category": "IN OLD DETROIT",
+        "value": 200,
+        "question": "In 1701 Cadillac founded Detroit as a good spot to trade in these",
+        "answer": "furs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "YALE DRAMA SCHOOL ALUMNI",
+        "value": 200,
+        "question": "Going to school at Yale got her into films like \"Sophie's Choice\"",
+        "answer": "Meryl Streep",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CAPITAL CITY HOTELS",
+        "value": 200,
+        "question": "The Hotel Zarya,the Hotel Sputnik",
+        "answer": "Moscow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PARROTS",
+        "value": 200,
+        "question": "It's the predominant body color of most parrots",
+        "answer": "green",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WOOD-POURRI",
+        "value": 200,
+        "question": "In March 2002 he became the first PGA player to win 3 different events 3 consecutive times",
+        "answer": "Tiger Woods",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THIS MEANS \"WAR\"",
+        "value": 200,
+        "question": "Principal prison official",
+        "answer": "warden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "IN OLD DETROIT",
+        "value": 400,
+        "question": "(Cheryl of the Clue Crew at the Detroit Historical Museum)  The five-&-dime opened by this man in 1899 evolved into the K-Mart Corporation",
+        "answer": "S.S. Kresge",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "YALE DRAMA SCHOOL ALUMNI",
+        "value": 400,
+        "question": "He had some \"Happy Days\" at Yale long before starring in \"The Dinner Party\" on Broadway in 2000",
+        "answer": "Henry Winkler",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CAPITAL CITY HOTELS",
+        "value": 400,
+        "question": "The Keio Plaza Inter-Continental & the Hotel Seiyo Ginza",
+        "answer": "Tokyo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PARROTS",
+        "value": 400,
+        "question": "The nocturnal owl parrot, or kakapo, of New Zealand, is terrestrial, meaning unable to do this",
+        "answer": "fly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WOOD-POURRI",
+        "value": 400,
+        "question": "In 1994 & 1999 this rock festival celebrated its 25th & 30th anniversaries with new concerts",
+        "answer": "Woodstock",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THIS MEANS \"WAR\"",
+        "value": 400,
+        "question": "Clothes collection",
+        "answer": "wardrobe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "IN OLD DETROIT",
+        "value": 600,
+        "question": "It hosted Major League Baseball from 1912, when it was Navin Field, through 1999",
+        "answer": "Tiger Stadium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "YALE DRAMA SCHOOL ALUMNI",
+        "value": 600,
+        "question": "That her acceptance to Yale was addressed to a \"Mr.\" was a bit \"Alien\"",
+        "answer": "Sigourney Weaver",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CAPITAL CITY HOTELS",
+        "value": 600,
+        "question": "The El Gezirah Sheraton,the Ramses Hilton",
+        "answer": "Cairo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PARROTS",
+        "value": 600,
+        "question": "In parrots these are zygodactyl -- the first & fourth are turned backwards",
+        "answer": "toes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WOOD-POURRI",
+        "value": 600,
+        "question": "\"Knock Knock\" Guess Who?  It's this bird that made his cartoon debut in \"Knock Knock\" in 1940",
+        "answer": "Woody Woodpecker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THIS MEANS \"WAR\"",
+        "value": 600,
+        "question": "Wild African seen here",
+        "answer": "warthog",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "IN OLD DETROIT",
+        "value": 800,
+        "question": "In the early 1800s Judge Augustus Woodward planned Detroit on a hub-&-spokes plan modeled on this city",
+        "answer": "Paris (or Washington, D.C.)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "YALE DRAMA SCHOOL ALUMNI",
+        "value": 800,
+        "question": "This \"How Stella Got Her Groove Back\" star attended Yale on a scholarship",
+        "answer": "Angela Bassett",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CAPITAL CITY HOTELS",
+        "value": 800,
+        "question": "The Hotel Amiga,the Hotel Hyundai",
+        "answer": "Seoul",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PARROTS",
+        "value": 800,
+        "question": "The Carolina species of this small parrot was once native to North America but died out around 1920",
+        "answer": "parakeet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WOOD-POURRI",
+        "value": 800,
+        "question": "You certainly will go down to da-feet knowing sabots are these",
+        "answer": "wooden shoes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THIS MEANS \"WAR\"",
+        "value": 800,
+        "question": "A guarantee on purchased goods",
+        "answer": "warranty",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "YALE DRAMA SCHOOL ALUMNI",
+        "value": 1000,
+        "question": "In 2000 this Yale grad was TV's \"DAG\"",
+        "answer": "David Alan Grier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CAPITAL CITY HOTELS",
+        "value": 1000,
+        "question": "The Scandic Jarva Krog,the Kung Carl",
+        "answer": "Stockholm",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PARROTS",
+        "value": 1000,
+        "question": "At almost 40 inches in length, the hyacinth species of this South American bird is the largest parrot",
+        "answer": "macaw",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WOOD-POURRI",
+        "value": 1000,
+        "question": "In 1855 one of this notorious hall's leaders, Fernando Wood, became mayor of New York City",
+        "answer": "Tammany Hall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THIS MEANS \"WAR\"",
+        "value": 1000,
+        "question": "A town at the mouth of the Providence River",
+        "answer": "Warwick",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ROYALTY",
+      "THURSDAY NIGHT TV",
+      "GET OUT YOUR LIBRARY TABLETS",
+      "LUMBERJACK TALK",
+      "WE CAN'T GET ENOUGH OPERA!",
+      "2 \"P\"s"
+    ],
+    "clues": [
+      {
+        "category": "ROYALTY",
+        "value": 400,
+        "question": "Franz Joseph's 68-year reign over Austria-Hungary was the longest of any ruler of this royal family",
+        "answer": "the Hapsburgs",
+        "isDailyDouble": true,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THURSDAY NIGHT TV",
+        "value": 400,
+        "question": "In 1982 \"Fame\" was followed by this bar-set sitcom",
+        "answer": "Cheers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GET OUT YOUR LIBRARY TABLETS",
+        "value": 400,
+        "question": "A library in a villa in Herculaneum buried by this volcano's eruption in 79 A.D. was found in the mid-1700s",
+        "answer": "Mount Vesuvius",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LUMBERJACK TALK",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew reports from Minnesota.)  In 1884 lumberjacks on the Mississippi cleared a 7-mile one of these, which can also mean \"a deadlock\"",
+        "answer": "a logjam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WE CAN'T GET ENOUGH OPERA!",
+        "value": 400,
+        "question": "In 1989 the English National Opera presented \"The Love for Three Oranges\" with scratch-&-do this cards",
+        "answer": "sniff",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "2 \"P\"s",
+        "value": 400,
+        "question": "To affordably ship up to 70 pounds of... whatever, try this from the U.S. Postal Service",
+        "answer": "parcel post",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 800,
+        "question": "Marie Antoinette presumably let them eat cake at her wedding to this future king in 1770",
+        "answer": "Louis XVI",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THURSDAY NIGHT TV",
+        "value": 800,
+        "question": "This actor faced a lifetime's worth of emergencies on Thursday nights as \"ER\" doc Mark Greene",
+        "answer": "Anthony Edwards",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GET OUT YOUR LIBRARY TABLETS",
+        "value": 800,
+        "question": "Aristotle's personal library was probably the inspiration for this world-famous library in Egypt",
+        "answer": "Library at Alexandria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LUMBERJACK TALK",
+        "value": 800,
+        "question": "They're poles on which logs are rolled; if you've \"hit\" them, you're in bad shape",
+        "answer": "skids",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WE CAN'T GET ENOUGH OPERA!",
+        "value": 800,
+        "question": "Of adapting this Southern play, Andre Previn said it's \"always been an opera.  It's just that the music was missing\"",
+        "answer": "A Streetcar Named Desire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "2 \"P\"s",
+        "value": 800,
+        "question": "Here's Sitting Bull holding one on his lap",
+        "answer": "peace pipe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 1200,
+        "question": "After declining the Greek throne, Leopold I became king of this country in 1831",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THURSDAY NIGHT TV",
+        "value": 1200,
+        "question": "This Robert Stack show diversified its hoodlums after protests from Italian-American groups",
+        "answer": "The Untouchables",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GET OUT YOUR LIBRARY TABLETS",
+        "value": 1200,
+        "question": "It's said that the Pergamenes invented this material when Ptolemy denied them papyrus for their library",
+        "answer": "parchment",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LUMBERJACK TALK",
+        "value": 1200,
+        "question": "(Sofia of the Clue Crew in Minnesota)  The name of this type of saw means that the lumberjack is not going with the grain",
+        "answer": "crosscut saw",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WE CAN'T GET ENOUGH OPERA!",
+        "value": 1200,
+        "question": "In this German composer's \"The Royal Children\", a goose-girl gets poisoned by -- you guessed it! -- a witch!",
+        "answer": "Engelbert Humperdinck",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "2 \"P\"s",
+        "value": 1200,
+        "question": "A particular personal annoyance commonly listed in high school yearbooks",
+        "answer": "pet peeve",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 1600,
+        "question": "She's princess of Orange-Nassau as well as queen of the Netherlands",
+        "answer": "Queen Beatrix",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THURSDAY NIGHT TV",
+        "value": 1600,
+        "question": "This cop show seen on Thursdays in the early '70s was named for its main character (played by Raymond Burr) seen here",
+        "answer": "Ironside",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GET OUT YOUR LIBRARY TABLETS",
+        "value": 1600,
+        "question": "Among the amenities of these built by Trajan & Caracalla were libraries",
+        "answer": "baths",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LUMBERJACK TALK",
+        "value": 1600,
+        "question": "A type of shady payment in business, or a very, very, very dangerous event with a chainsaw",
+        "answer": "kickback",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "2 \"P\"s",
+        "value": 1600,
+        "question": "This Microsoft presentation graphics program has been ubiquitous in the business world",
+        "answer": "PowerPoint",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ROYALTY",
+        "value": 2000,
+        "question": "England's last Lancastrian king, he was imprisoned & murdered in the Tower of London in 1471",
+        "answer": "Henry VI",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THURSDAY NIGHT TV",
+        "value": 2000,
+        "question": "In the '90s show \"My So-Called Life\", Claire Danes' Angela pined for this boy played by Jared Leto",
+        "answer": "Jordan Catalano",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GET OUT YOUR LIBRARY TABLETS",
+        "value": 2000,
+        "question": "Ashurbanipal's library in Nineveh included a copy of the famous epic of this Sumerian king",
+        "answer": "Gilgamesh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LUMBERJACK TALK",
+        "value": 2000,
+        "question": "(Sofia of the Clue Crew in Minnesota)  \"Don't look at your feet\" is rule No. 1 from the American Association for this, a synonym of \"logrolling\"",
+        "answer": "birling",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "2 \"P\"s",
+        "value": 2000,
+        "question": "The Indiana World War Memorial has a bronze statue called this, Latin for  \"for one's country\"",
+        "answer": "Pro Patria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MILITARY AVIATION",
+    "clue": "In 1911 this nation was the 1st to use powered aircraft for military purposes when it spied on Turkish activities in Libya",
+    "answer": "Italy"
+  },
+  "gameId": "4267",
+  "gameDate": "Tuesday, March 4, 2003"
+}

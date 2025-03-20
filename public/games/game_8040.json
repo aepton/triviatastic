@@ -1,0 +1,574 @@
+{
+  "title": "Show #2321 - Monday, October 10, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "1946",
+      "AUSTRALIAN CINEMA",
+      "CARS",
+      "VENEZUELA",
+      "FOOD & DRINK",
+      "BRITISH POTPOURRI"
+    ],
+    "clues": [
+      {
+        "category": "1946",
+        "value": 100,
+        "question": "This \"lucky\" racketeer was deported to Italy in February",
+        "answer": "\"Lucky\" Luciano",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AUSTRALIAN CINEMA",
+        "value": 100,
+        "question": "For its U.S. release, quotation marks were added to the word \"crocodile\"",
+        "answer": "\"Crocodile\" Dundee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 100,
+        "question": "In 1993 this Chevy sports car celebrated its 40th birthday",
+        "answer": "the Corvette",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "VENEZUELA",
+        "value": 100,
+        "question": "Date of Venezuela's Independence Day celebration; it's a day after ours",
+        "answer": "July 5",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "Reggiano is a type of this delicious cheese that's usually grated",
+        "answer": "parmesan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BRITISH POTPOURRI",
+        "value": 100,
+        "question": "This London river has been called \"liquid history\"",
+        "answer": "the Thames",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "1946",
+        "value": 200,
+        "question": "This university announced it would continue allowing Radcliffe coeds in some classes",
+        "answer": "Harvard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AUSTRALIAN CINEMA",
+        "value": 200,
+        "question": "In this 1979 film set in the near future Mel Gibson's voice was dubbed for U.S. release",
+        "answer": "Mad Max",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 200,
+        "question": "The expression \"a real doozy\" became popular after the introduction of this car in the 1920s",
+        "answer": "the Duesenberg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "VENEZUELA",
+        "value": 200,
+        "question": "The basic unit of currency is named for this liberator & native son",
+        "answer": "(Simon) Bolivar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Tetley makes tea bags in this atypical shape",
+        "answer": "round",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BRITISH POTPOURRI",
+        "value": 200,
+        "question": "On Mothering Sunday, the 4th Sunday in this pre-Easter season, children give gifts to their mothers",
+        "answer": "Lent",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "1946",
+        "value": 300,
+        "question": "In April this international organization expired, turning over its property to the U.N.",
+        "answer": "the League of Nations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AUSTRALIAN CINEMA",
+        "value": 300,
+        "question": "We're serious; Yahoo Serious played this \"Young\" inventor",
+        "answer": "(Albert) Einstein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 300,
+        "question": "In 1989 Nissan unveiled its Infiniti & Toyota launched this luxury line",
+        "answer": "the Lexus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "VENEZUELA",
+        "value": 300,
+        "question": "The capitol, dedicated in this city in 1877, houses the National Congress",
+        "answer": "Caracas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "Before it's sliced, this New Zealand fruit resembles a big brown egg covered with fuzz",
+        "answer": "a kiwi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BRITISH POTPOURRI",
+        "value": 300,
+        "question": "Because its Latin name is Cantabrigia, a student at this school is a Cantabrigian",
+        "answer": "Cambridge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "1946",
+        "value": 400,
+        "question": "In March France recognized the Republic of Vietnam with this man as president",
+        "answer": "Ho Chi Minh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AUSTRALIAN CINEMA",
+        "value": 400,
+        "question": "This supermodel gained 20 lbs. for \"Sirens\" & then returned to the weight SI readers are familiar with",
+        "answer": "Elle MacPherson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 400,
+        "question": "Some of this Swedish co.'s 1995 models, including the 850 Turbo, feature side-impact air bags",
+        "answer": "Volvo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "VENEZUELA",
+        "value": 400,
+        "question": "The llaneros of Venezuela are equivalent to the vaqueros of Mexico or these in the U.S.",
+        "answer": "cowboys",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "Whole milk that's had about 60% of its water removed but no sugar added is called this",
+        "answer": "evaporated milk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BRITISH POTPOURRI",
+        "value": 400,
+        "question": "This lovely old town in the Cotswolds shares its name with America's \"Great White Way\"",
+        "answer": "Broadway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "1946",
+        "value": 500,
+        "question": "This generalissimo completed editing a new Chinese translation of the New Testament",
+        "answer": "Chiang Kai-shek",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AUSTRALIAN CINEMA",
+        "value": 500,
+        "question": "Director who gave us \"The Year of Living Dangerously\", \"Picnic At Hanging Rock\" & \"The Last Wave\"",
+        "answer": "Peter Weir",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 500,
+        "question": "Mazda's MX-5 2-seater convertible is also known by this name",
+        "answer": "the Miata",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "VENEZUELA",
+        "value": 500,
+        "question": "This industry's boom in the 1920s made Venezuela a cash-rich country",
+        "answer": "oil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "Aquavit is a Scandinavian liquor made from grains or these vegetables",
+        "answer": "potatoes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BRITISH POTPOURRI",
+        "value": 1000,
+        "question": "The royal pavilion in this seaside resort city boasts a magnificent collection of gold plate",
+        "answer": "Brighton",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GEOGRAPHY",
+      "AMERICAN LITERATURE",
+      "MUSIC & DANCE",
+      "MEDICINE",
+      "THE CIVIL WAR",
+      "THE \"BLUE\"s & THE \"GRAY\"s"
+    ],
+    "clues": [
+      {
+        "category": "GEOGRAPHY",
+        "value": 200,
+        "question": "The large amounts of soil carried by China's Hwang Ho River give it this colorful English name",
+        "answer": "the Yellow River",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 200,
+        "question": "His 1938 collection \"The Long Valley\" includes one of his most famous stories, \"The Red Pony\"",
+        "answer": "(John) Steinbeck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & DANCE",
+        "value": 200,
+        "question": "This dance is often performed to the song \"Aloha Oe\"",
+        "answer": "the hula",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 200,
+        "question": "This pediatrician began writing his \"Baby and Child Care\" book while serving in the Navy during World War II",
+        "answer": "(Dr.) Spock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 200,
+        "question": "Battles in this state included those at Fort Henry, Franklin & Murfreesboro",
+        "answer": "Tennessee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"BLUE\"s & THE \"GRAY\"s",
+        "value": 200,
+        "question": "This character, not Horatio, is the famous horn blower of nursery rhymes",
+        "answer": "Little Boy Blue",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 400,
+        "question": "Islay is sometimes called \"The Queen of\" this Scottish island group, both \"Inner\" & \"Outer\"",
+        "answer": "the Hebrides",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 400,
+        "question": "Edgar Lee Masters' most famous book, it's a series of epitaphs written in free verse",
+        "answer": "Spoon River Anthology",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & DANCE",
+        "value": 400,
+        "question": "Some of these clickers that accompany the bolero are made of ivory",
+        "answer": "castanets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 400,
+        "question": "The first successful treatment of this disease used insulin obtained from beef pancreases",
+        "answer": "diabetes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 400,
+        "question": "On March 8, 1862 this Confederate ship destroyed 2 Union ships at Hampton Roads",
+        "answer": "the Merrimack (the Virginia)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"BLUE\"s & THE \"GRAY\"s",
+        "value": 400,
+        "question": "Joliet Jake & Elwood, collectively",
+        "answer": "the Blues Brothers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 600,
+        "question": "This Winter Olympics site was named after the Roman emperor Gratian, who was killed at Lyon not far away",
+        "answer": "Grenoble",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 600,
+        "question": "This 1st Theodore Dreiser novel shocked the publisher's wife, who kept it from wide distribution",
+        "answer": "Sister Carrie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & DANCE",
+        "value": 600,
+        "question": "Morris dancers can make their own music because they adorn themselves with these jingling items",
+        "answer": "bells",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 600,
+        "question": "In the past this disease of the lungs was called consumption",
+        "answer": "tuberculosis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 600,
+        "question": "Braxton Bragg, one of the Confederacy's 8 full generals, has a fort named for him in this state",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"BLUE\"s & THE \"GRAY\"s",
+        "value": 600,
+        "question": "Founded in 1970, this organization was set up to fight age discrimination",
+        "answer": "the Gray Panthers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 1600,
+        "question": "The Gulf of Aden is a natural sea link between the Arabian Sea & this sea",
+        "answer": "The Red Sea",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 800,
+        "question": "In 1957 he published \"The Town\", the second novel in his Snopes trilogy",
+        "answer": "Faulkner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & DANCE",
+        "value": 800,
+        "question": "Chopin wrote music for this frenzied dance connected with the mania known as tarantism",
+        "answer": "the tarantella",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 800,
+        "question": "In this procedure a balloon-tipped catheter is inserted into a blocked artery & the balloon is inflated",
+        "answer": "angioplasty",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 800,
+        "question": "Union troops were sent to Texas in 1863 to hold the Rio Grande line against this Fr. emperor's troops",
+        "answer": "Napoleon III",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"BLUE\"s & THE \"GRAY\"s",
+        "value": 800,
+        "question": "Poet who wrote, \"Where ignorance is bliss, 'tis folly to be wise\"",
+        "answer": "Thomas Gray",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 1000,
+        "question": "This river that begins in Canada & ends in Alaska is one of North America's 5 longest",
+        "answer": "the Yukon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 1000,
+        "question": "Tennessee Williams considered her novella \"The Ballad of the Sad Cafe\" a masterpiece",
+        "answer": "Carson McCullers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & DANCE",
+        "value": 1000,
+        "question": "\"An Evening's Waltzes\" is a ballet danced to 5 waltzes by this \"Peter and the Wolf\" composer",
+        "answer": "Sergei Prokofiev",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 2000,
+        "question": "In 1893 this Army bacteriologist was named Curator of the Army Medical Museum in Washington, D.C.",
+        "answer": "Walter Reed",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 1000,
+        "question": "Some of the heaviest fighting of the 1862 battle near this Maryland creek took place at Dunker Church",
+        "answer": "Antietam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"BLUE\"s & THE \"GRAY\"s",
+        "value": 1000,
+        "question": "He's famous for his monologues \"Swimming To Cambodia\" & \"Monster in a Box\"",
+        "answer": "Spalding Gray",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMILIAR PHRASES",
+    "clue": "Jefferson said it \"is no excuse in any country... because it can always be pretended\"",
+    "answer": "ignorance of the law"
+  },
+  "gameId": "2321",
+  "gameDate": "Monday, October 10, 1994"
+}

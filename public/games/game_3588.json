@@ -1,0 +1,574 @@
+{
+  "title": "Show #6098 - Wednesday, March 2, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "WHO WROTE IT?",
+      "FOLK STORIES",
+      "4-SYLLABLE WORDS",
+      "SCOTT, PILGRIM",
+      "VS.",
+      "THE WORLD"
+    ],
+    "clues": [
+      {
+        "category": "WHO WROTE IT?",
+        "value": 200,
+        "question": "An author:\"Big Brother is watching you\"",
+        "answer": "Orwell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOLK STORIES",
+        "value": 200,
+        "question": "His real name was John Chapman & his claim to fame was planting a series of nurseries from the Alleghenies to the Midwest",
+        "answer": "Johnny Appleseed",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "4-SYLLABLE WORDS",
+        "value": 200,
+        "question": "A member of the Grand Old Party",
+        "answer": "Republican",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SCOTT, PILGRIM",
+        "value": 200,
+        "question": "Scott, can you tell me of this English city whence the Mayflower set sail to reach the New World?",
+        "answer": "Plymouth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "VS.",
+        "value": 200,
+        "question": "In 2010 it was Saints vs. Colts for the championship of this league",
+        "answer": "the National Football League",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE WORLD",
+        "value": 200,
+        "question": "Honolulu County is on this island",
+        "answer": "Oahu",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WHO WROTE IT?",
+        "value": 400,
+        "question": "An ancient fabulist:\"Don't count your chickens before they hatch\"",
+        "answer": "Aesop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOLK STORIES",
+        "value": 400,
+        "question": "Febold Feboldson, in an attempt to end one of these in Nebraska, built huge bonfires around lakes to make clouds",
+        "answer": "a drought",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "4-SYLLABLE WORDS",
+        "value": 400,
+        "question": "This type of \"theory\" explains how an event results from a plot by a covert group",
+        "answer": "conspiracy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SCOTT, PILGRIM",
+        "value": 400,
+        "question": "Scott, wasn't it nice of the Wampanoag tribe to teach us how to make this dish of beans & corn?",
+        "answer": "succotash",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "VS.",
+        "value": 400,
+        "question": "You might see Magic vs. Wizards or Grizzlies vs. Timberwolves at one of this league's games",
+        "answer": "the NBA",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE WORLD",
+        "value": 400,
+        "question": "This mountain, a symbol of Japan, is known for its 5 lakes & 8 mini-peaks",
+        "answer": "Mt. Fuji",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WHO WROTE IT?",
+        "value": 600,
+        "question": "A female poet:\"How do I love thee?  Let me count the ways\"",
+        "answer": "Elizabeth Barrett Browning",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOLK STORIES",
+        "value": 600,
+        "question": "It took 5 giant storks to deliver this folk hero to his parents in Maine; later he moved to Minnesota",
+        "answer": "Paul Bunyan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "4-SYLLABLE WORDS",
+        "value": 600,
+        "question": "When speaking about matters of faith, \"ex cathedra\", the Pope is said to be this, meaning he can't be wrong",
+        "answer": "infallible",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SCOTT, PILGRIM",
+        "value": 600,
+        "question": "Hey Scott, it's Nov. 11, 1620; it's time to sign the document called \"the Mayflower\" this",
+        "answer": "Compact",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "VS.",
+        "value": 600,
+        "question": "From 2003 to 2009 the men's final in this British tournament was somebody vs. Roger Federer",
+        "answer": "Wimbledon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE WORLD",
+        "value": 600,
+        "question": "The trail named for these people led from Cuzco to Intipunku, \"the gateway of the sun\", & on to Machu Picchu",
+        "answer": "the Incans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WHO WROTE IT?",
+        "value": 800,
+        "question": "A Revolutionary pamphleteer:\"These are the times that try men's souls\"",
+        "answer": "Thomas Paine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOLK STORIES",
+        "value": 800,
+        "question": "Legend says he died trying to clear Big Bend tunnel in West Virginia; no word on that big hammer",
+        "answer": "John Henry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "4-SYLLABLE WORDS",
+        "value": 800,
+        "question": "\"Wise fool\" is an example of this 8-letter figure of speech",
+        "answer": "oxymoron",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SCOTT, PILGRIM",
+        "value": 800,
+        "question": "Scott, as a Pilgrim, you must adhere to this stern Protestant movement, an offshoot of Calvinism",
+        "answer": "Puritanism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "VS.",
+        "value": 800,
+        "question": "If you're watching Harvard vs. Yale, you're watching a competition in this 8-school group",
+        "answer": "the Ivy League",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE WORLD",
+        "value": 800,
+        "question": "I see this city, the capital of Uruguay",
+        "answer": "Montevideo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WHO WROTE IT?",
+        "value": 1000,
+        "question": "A 19th century German philosopher:\"God is dead\"",
+        "answer": "Nietzsche",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOLK STORIES",
+        "value": 1000,
+        "question": "Don't tell Sasquatch, but Texas folk hero William Wallace had this nickname",
+        "answer": "Bigfoot",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "4-SYLLABLE WORDS",
+        "value": 1000,
+        "question": "Essential or basic; a literacy organization says \"Reading Is\" it",
+        "answer": "fundamental",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SCOTT, PILGRIM",
+        "value": 1000,
+        "question": "Scott, did you hear Gov. Bradford made this Indian, aka Tisquantum, an emissary; his English is remarkable!",
+        "answer": "Squanto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "VS.",
+        "value": 1000,
+        "question": "It was Topalov vs. Anand for the 2010 world title in this board game",
+        "answer": "chess",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE WORLD",
+        "value": 1000,
+        "question": "These nomadic people of southern Kenya build huts in a circle to create a boma, or village",
+        "answer": "the Maasai",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FIRST THINGS FIRST",
+      "COPPING OUT AT THE MOVIES",
+      "ART -ISMS",
+      "BOTANY",
+      "DISCOVERIES",
+      "ENDS WITH THE SAME 2 LETTERS"
+    ],
+    "clues": [
+      {
+        "category": "FIRST THINGS FIRST",
+        "value": 400,
+        "question": "Issued in New Haven, Connecticut in 1878, the first one of these listed about 50 names & businesses",
+        "answer": "a phone book",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COPPING OUT AT THE MOVIES",
+        "value": 400,
+        "question": "Reach for the sky!  In 2010 Tom Hanks returned for a third time to provide the voice of this sheriff",
+        "answer": "Woody",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ART -ISMS",
+        "value": 400,
+        "question": "U.S. Regionalism produced the work seen here; this title object in the center was also a subject for Monet",
+        "answer": "a haystack",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 400,
+        "question": "This smooth-skinned variety of peach can sometimes be found on the same tree as its fuzzy brethren",
+        "answer": "a nectarine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DISCOVERIES",
+        "value": 400,
+        "question": "These sacred scrolls found at Qumran in 1947 have yielded many insights into early Christianity & Rabbinic Judaism",
+        "answer": "the Dead Sea scrolls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ENDS WITH THE SAME 2 LETTERS",
+        "value": 400,
+        "question": "This word describing the numbers 3 & 15 can also mean \"eccentric\"",
+        "answer": "odd",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FIRST THINGS FIRST",
+        "value": 800,
+        "question": "Opened in Houston in 1965, it was the first fully enclosed sports stadium; today, it bears the Reliant name as well",
+        "answer": "the Astrodome",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COPPING OUT AT THE MOVIES",
+        "value": 800,
+        "question": "No jokering around!  Gary Oldman's James Gordon got a promotion to commissioner in this 2008 film",
+        "answer": "The Dark Knight",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ART -ISMS",
+        "value": 800,
+        "question": "Abstract expressionism has been called the first movement to develop independently in this country",
+        "answer": "the United States",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 800,
+        "question": "They are the individual parts of a flower's corolla",
+        "answer": "petals",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DISCOVERIES",
+        "value": 800,
+        "question": "In 1882 Robert Koch discovered the microbe that causes this lung disease, TB for short",
+        "answer": "tuberculosis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ENDS WITH THE SAME 2 LETTERS",
+        "value": 800,
+        "question": "Someone from Helsinki",
+        "answer": "a Finn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FIRST THINGS FIRST",
+        "value": 1200,
+        "question": "Seen here, 16-year-old Margaret Gorman was the first person to be given this beauty title",
+        "answer": "Miss America",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COPPING OUT AT THE MOVIES",
+        "value": 1200,
+        "question": "Let's Segway to this Kevin James title guy, a New Jersey \"Mall Cop\"",
+        "answer": "Paul Blart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ART -ISMS",
+        "value": 1200,
+        "question": "The French movement Fauvism relied on bold use of these, such as jaune & pourpre",
+        "answer": "colors",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 1200,
+        "question": "Bracken, a species of this green nonflowering plant, has large triangular fronds & is found worldwide",
+        "answer": "a fern",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DISCOVERIES",
+        "value": 1200,
+        "question": "James Marshall, whose discovery began this 1849 frenzy, died poor in Kelsey, California",
+        "answer": "the California Gold Rush",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ENDS WITH THE SAME 2 LETTERS",
+        "value": 1200,
+        "question": "This sudden indulgence in an activity may follow \"spending\"",
+        "answer": "spree",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FIRST THINGS FIRST",
+        "value": 1600,
+        "question": "In 1731 the USA's first circulating library was founded in this city",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COPPING OUT AT THE MOVIES",
+        "value": 1600,
+        "question": "Mais oui!  In 2006 Monsieur Steve Martin played zis--I mean, this--bumbling detective",
+        "answer": "Inspector Clouseau",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ART -ISMS",
+        "value": 1600,
+        "question": "In the 19th century Aestheticism said art exists to provide this, with no relation to society or morality",
+        "answer": "beauty",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 1600,
+        "question": "Varieties of this flower  include Leen Van Der Mark, Orange Emperor & Apeldoorn",
+        "answer": "the tulip",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DISCOVERIES",
+        "value": 1600,
+        "question": "A 35,000-year-old flute discovered in a cave is made from the ivory of this animal, extinct for thousands of years",
+        "answer": "a woolly mammoth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ENDS WITH THE SAME 2 LETTERS",
+        "value": 1600,
+        "question": "Goodbye!",
+        "answer": "toodle-oo (or farewell)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FIRST THINGS FIRST",
+        "value": 2000,
+        "question": "Not surprisingly, the first architecture dept. at a college was established at this Boston-area school in 1865",
+        "answer": "MIT (Massachusetts Institute of Technology)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COPPING OUT AT THE MOVIES",
+        "value": 2000,
+        "question": "He did a \"Hitch\" as Del Spooner, a robot-hating Chicago cop investigating a murder in 2004's \"I, Robot\"",
+        "answer": "(Will) Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ART -ISMS",
+        "value": 2000,
+        "question": "(Kelly of the Clue Crew shows a painting on the monitor.) Seurat's painting of the \"Circus Sideshow\" uses this new Impressionist technique, featuring small dots & brush strokes that, from a distance, create blended color",
+        "answer": "pointillism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 2000,
+        "question": "This orange pigment first isolated in carrots in 1881 is also found in pumpkins & sweet potatoes",
+        "answer": "carotene",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DISCOVERIES",
+        "value": 2000,
+        "question": "Only weeks after this planet was discovered in 1846, William Lassell discovered its largest moon, Triton",
+        "answer": "Neptune",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ENDS WITH THE SAME 2 LETTERS",
+        "value": 2000,
+        "question": "A marsh or bog, or any muddled situation",
+        "answer": "a morass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LANDMARKS",
+    "clue": "Completed in 1869, it has also been known by its nickname \"the Highway to India\"",
+    "answer": "the Suez Canal"
+  },
+  "gameId": "6098",
+  "gameDate": "Wednesday, March 2, 2011"
+}

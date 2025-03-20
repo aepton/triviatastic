@@ -1,0 +1,574 @@
+{
+  "title": "Show #4190 - Friday, November 15, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "STATE FACTS",
+      "FOOD & DRINK",
+      "NEW VIDEO GAMES",
+      "\"M\" WORDS",
+      "THE PREZ SAYS",
+      "GET A JOB!"
+    ],
+    "clues": [
+      {
+        "category": "STATE FACTS",
+        "value": 200,
+        "question": "It's the only state that isn't on the North American continent",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Porcini & portobellos are types of these",
+        "answer": "mushrooms",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NEW VIDEO GAMES",
+        "value": 200,
+        "question": "In Microids' \"Ben Hur\" you race these vehicles",
+        "answer": "chariots",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"M\" WORDS",
+        "value": 200,
+        "question": "(Cheryl of the Clue Crew reports from Amsterdam)  That's the official residence of Amsterdam's burgermeister, the Dutch equivalent of this U.S. official",
+        "answer": "mayor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE PREZ SAYS",
+        "value": 200,
+        "question": "In a 1951 speech he said, \"What we are doing in Korea...is...trying to prevent a third world war\"",
+        "answer": "Harry S. Truman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 200,
+        "question": "A cobbler is someone who fixes or makes these",
+        "answer": "shoes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE FACTS",
+        "value": 400,
+        "question": "Not surprisingly, Mormons make up about 70% of this state's population",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "These 2 snacks are mentioned by name in \"Take Me Out to the Ball Game\"",
+        "answer": "peanuts & Cracker Jack",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NEW VIDEO GAMES",
+        "value": 400,
+        "question": "Rolling Stone magazine's choice for Console Game of the Year 2002 is the third installment of this carjack game",
+        "answer": "Grand Theft Auto",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"M\" WORDS",
+        "value": 400,
+        "question": "Before e-mail, offices used these, memos for short",
+        "answer": "memorandums",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE PREZ SAYS",
+        "value": 400,
+        "question": "On January 8, 1918 he told Congress, \"A general association of nations must be formed\"",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 400,
+        "question": "It's the 10-letter name for the job heard here in action",
+        "answer": "auctioneer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE FACTS",
+        "value": 600,
+        "question": "Of the 4 states called commonwealths, the 2 that are farthest south",
+        "answer": "Kentucky & Virginia",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 600,
+        "question": "Just squeeze the sweet navel or Valencia varieties & you've got this drink",
+        "answer": "orange juice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NEW VIDEO GAMES",
+        "value": 600,
+        "question": "In the game based on this TV series you take on the roles of detective & prosecutor",
+        "answer": "Law & Order",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"M\" WORDS",
+        "value": 600,
+        "question": "In \"She's a hyperactive child therapist\", it's not clear whether the adjective is doing this to \"child\" or to \"therapist\"",
+        "answer": "modifying",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE PREZ SAYS",
+        "value": 600,
+        "question": "In 1868 he yelled, \"Let them impeach and be damned!\"",
+        "answer": "Andrew Johnson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 600,
+        "question": "It's the occupation of the vast majority of the 2.7 million members of the NEA",
+        "answer": "teachers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE FACTS",
+        "value": 800,
+        "question": "The magnolia is both the state tree & state flower of this, the \"Magnolia State\"",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 800,
+        "question": "Native to the Pacific coast, the Olympia type of this is often eaten on the half shell",
+        "answer": "oysters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NEW VIDEO GAMES",
+        "value": 800,
+        "question": "\"The Angel of Darkness\" takes this Eidos heroine in a new, darker direction & ups her polygons from 500 to 5,000!",
+        "answer": "Lara Croft",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"M\" WORDS",
+        "value": 800,
+        "question": "Soft & rich, not harsh; when followed by \"out\", it means \"to relax\"",
+        "answer": "mellow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE PREZ SAYS",
+        "value": 800,
+        "question": "In 2002 Pres. Bush told Ohio State grads that each of them should do 4000 hours of this during their lifetimes",
+        "answer": "community service",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 800,
+        "question": "Ironically, it was the occupation of the father & both grandfathers of Friedrich \"God is dead\" Nietzsche",
+        "answer": "ministers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE FACTS",
+        "value": 1000,
+        "question": "Bordering on 4 of the 5 Great Lakes, it has the largest shoreline of any inland state",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 1000,
+        "question": "Sassafras & sarsaparilla originally went into & helped name this soft drink",
+        "answer": "root beer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NEW VIDEO GAMES",
+        "value": 1000,
+        "question": "In battles in the game based on this Oscar-winning film, you probably have to use the \"Far East\" button on your control",
+        "answer": "Crouching Tiger, Hidden Dragon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"M\" WORDS",
+        "value": 1000,
+        "question": "Its meanings include an area of open land & to tie a ship to a dock",
+        "answer": "moor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE PREZ SAYS",
+        "value": 1000,
+        "question": "Teddy Roosevelt:\"Let Congress debate, and while the debate goes on\" this building project \"does also\"",
+        "answer": "Panama Canal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 1000,
+        "question": "A wainwright is someone who builds or fixes these transports",
+        "answer": "wagons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LITERATURE IN SPANISH",
+      "A TREK TO NEPAL",
+      "EVERYBODY LOVES RAIMENT",
+      "STUDYING ABROAD",
+      "EARLY AMERICAN HISTORY",
+      "ANIMAL WORDS & PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "LITERATURE IN SPANISH",
+        "value": 400,
+        "question": "It took him 10 years to come out with \"Don Quixote Part II\"",
+        "answer": "Cervantes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A TREK TO NEPAL",
+        "value": 400,
+        "question": "Nepal's most prominent institution of higher learning is Tribhuvan University, found in this capital",
+        "answer": "Kathmandu",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY LOVES RAIMENT",
+        "value": 400,
+        "question": "A traditional Scotsman wears a purse called a sporran at the front of this garment",
+        "answer": "kilt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 400,
+        "question": "This pass lets you travel by train for one price through 17 European countries",
+        "answer": "Eurailpass",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EARLY AMERICAN HISTORY",
+        "value": 400,
+        "question": "The last of the 13 colonies to be founded, its \"Mother City\", Savannah, was settled in 1733",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL WORDS & PHRASES",
+        "value": 400,
+        "question": "It's the subject in an experiment, whether or not he's this South American rodent",
+        "answer": "guinea pig",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE IN SPANISH",
+        "value": 800,
+        "question": "\"Barrabas came to us by sea\" is how this female author began \"The House of the Spirits\"",
+        "answer": "Isabel Allende",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A TREK TO NEPAL",
+        "value": 800,
+        "question": "The first of the \"Noble Truths\" of this man born in Nepal is that existence is suffering",
+        "answer": "Buddha",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY LOVES RAIMENT",
+        "value": 800,
+        "question": "Don't be afraid to wear this long, fluffy scarf; it's probably made of feathers, not reptiles",
+        "answer": "boa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 800,
+        "question": "To visit some countries, it's recommended you be vaccinated for the \"A\" variety of this liver disease",
+        "answer": "hepatitis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EARLY AMERICAN HISTORY",
+        "value": 800,
+        "question": "In the 1690s pirate captain Kidd was a big macher in this NYC church named for Father, Son & Holy Spirit",
+        "answer": "Trinity Church",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL WORDS & PHRASES",
+        "value": 800,
+        "question": "To pretend to be dead or unaware of something is to \"play\" this animal, seen here",
+        "answer": "possum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE IN SPANISH",
+        "value": 1200,
+        "question": "Pablo Neruda's website is on the server of the university of this country of his birth",
+        "answer": "Chile",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A TREK TO NEPAL",
+        "value": 1200,
+        "question": "Nepal, Pakistan & India all use this as their basic monetary unit",
+        "answer": "rupee",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY LOVES RAIMENT",
+        "value": 1200,
+        "question": "This fur of a weasel that turns white in winter has been seen on royal raiment for centuries",
+        "answer": "ermine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 1200,
+        "question": "The IYHF lists hundreds of these places of lodging that travelers to Europe use to save money",
+        "answer": "hostels",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EARLY AMERICAN HISTORY",
+        "value": 1200,
+        "question": "Margaret Brent, America's first woman barrister, was executor of the will of this colony's governor Leonard Calvert",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL WORDS & PHRASES",
+        "value": 1200,
+        "question": "They're the 2 mammals used to describe a declining or rising stock market",
+        "answer": "bear & bull",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE IN SPANISH",
+        "value": 1600,
+        "question": "This \"Blood Wedding\" poet & playwright was executed in Spain in 1936",
+        "answer": "Federico Garcia Lorca",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A TREK TO NEPAL",
+        "value": 1600,
+        "question": "The world's only national flag that is not a rectangle, Nepal's flag depicts these 2 heavenly bodies",
+        "answer": "sun and moon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY LOVES RAIMENT",
+        "value": 1600,
+        "question": "Sometimes it's a narrow, close-fitting dress & sometimes it's a holder for a sword",
+        "answer": "sheath",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 1600,
+        "question": "Keep track of how much your dollar is worth by checking this \"rate\" at which currency is converted",
+        "answer": "exchange rate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EARLY AMERICAN HISTORY",
+        "value": 1600,
+        "question": "In 1612 John Rolfe introduced a new type of Trinidad tobacco to this settlement",
+        "answer": "Jamestown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL WORDS & PHRASES",
+        "value": 1600,
+        "question": "Northerners who sympathized with the South during the Civil War were referred to as these poisonous snakes",
+        "answer": "Copperheads",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE IN SPANISH",
+        "value": 2000,
+        "question": "In 1990 he became the first Mexican poet to win the Nobel Prize for Literature, not the eighth for Peace",
+        "answer": "Octavio Paz",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A TREK TO NEPAL",
+        "value": 2000,
+        "question": "The majority of Nepal's people practice this official state religion",
+        "answer": "Hinduism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY LOVES RAIMENT",
+        "value": 2000,
+        "question": "Attention, -Wan Kenobi: heko & kaku are types of this sash worn with a kimono",
+        "answer": "obi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 2000,
+        "question": "If you bring along electrical devices, bear in mind that much of the U.S. uses 110 volts but Europe uses this many",
+        "answer": "220",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EARLY AMERICAN HISTORY",
+        "value": 2000,
+        "question": "Although it was a separate colony, New Hampshire shared a governor with this colony from 1669 to 1741",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL WORDS & PHRASES",
+        "value": 2000,
+        "question": "This term for a cheap, dirty hotel sounds like a pouch for a parasitic insect",
+        "answer": "fleabag",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BIOGRAPHIES",
+    "clue": "A 2001 biography of this man is subtitled \"Pioneer of the Mind\"",
+    "answer": "Sigmund Freud"
+  },
+  "gameId": "4190",
+  "gameDate": "Friday, November 15, 2002"
+}

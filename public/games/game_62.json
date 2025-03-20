@@ -1,0 +1,547 @@
+{
+  "title": "Show #4657 - Tuesday, November 30, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "NO SOUP FOR YOU!",
+      "FESTIVUS",
+      "THE CONTEST",
+      "YADA YADA YADA",
+      "A CATEGORY ABOUT NOTHING",
+      "SOME BRAINTEASERS ABOUT SEINFELD"
+    ],
+    "clues": [
+      {
+        "category": "NO SOUP FOR YOU!",
+        "value": 200,
+        "question": "Mungo,mulligatawny, menudo",
+        "answer": "mungo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FESTIVUS",
+        "value": 200,
+        "question": "Days celebrating people going to heaven include Jesus' Ascension day & her Assumption day",
+        "answer": "the Virgin Mary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE CONTEST",
+        "value": 200,
+        "question": "In 1998 Rabbit Hash, Ky. elected Goofy, one of these, as mayor; sadly, the mayor had to be \"put down\" in 2001",
+        "answer": "a dog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "A CATEGORY ABOUT NOTHING",
+        "value": 200,
+        "question": "Nothing, as a tennis score",
+        "answer": "love",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SOME BRAINTEASERS ABOUT SEINFELD",
+        "value": 200,
+        "question": "(Jerry Seinfeld reads the clue.)  This Season 7 episode revealed that this store owner was based on a real person\"Very good.  You know something?\"\"Hm?\"\"No soup for you!\"",
+        "answer": "the Soup Nazi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NO SOUP FOR YOU!",
+        "value": 400,
+        "question": "Billi bi,billet-doux,bouillabaisse",
+        "answer": "billet-doux",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FESTIVUS",
+        "value": 400,
+        "question": "Bitter herbs are featured on this holiday's Seder plate",
+        "answer": "Passover",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE CONTEST",
+        "value": 400,
+        "question": "Peter Ueberroth finished sixth in a 2003 race for this state's highest office, just ahead of Larry Flynt",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "YADA YADA YADA",
+        "value": 400,
+        "question": "In a 1775 speech he declared, \"I know not what course others may take...\" yada yada yada",
+        "answer": "(Patrick) Henry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "A CATEGORY ABOUT NOTHING",
+        "value": 400,
+        "question": "En espanol",
+        "answer": "nada",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SOME BRAINTEASERS ABOUT SEINFELD",
+        "value": 400,
+        "question": "\"A Christmas present?\"\"That's right.\"\"For who?\"\"For you!\"\"Oh!  Get out of here!\"(Julia Louis-Dreyfus [Elaine Benes] reads the clue.)  In that scene from Season 3, George's gift to Elaine was this article of clothing, a bargain because of a flaw: a small red dot",
+        "answer": "a (cashmere) sweater",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NO SOUP FOR YOU!",
+        "value": 600,
+        "question": "Poudrette,stracciatella,Philadelphia Pepper Pot",
+        "answer": "poudrette",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FESTIVUS",
+        "value": 600,
+        "question": "In 1939 FDR moved this holiday one week earlier in an attempt to please the retail industry",
+        "answer": "Thanksgiving",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE CONTEST",
+        "value": 600,
+        "question": "This George W. Bush Cabinet member lost his 2000 Senate race to a man who died a month before the election",
+        "answer": "John Ashcroft",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "YADA YADA YADA",
+        "value": 600,
+        "question": "In a 1974 national TV address he conveyed, \"Our long national nightmare is over...\" yada yada yada",
+        "answer": "Ford",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "A CATEGORY ABOUT NOTHING",
+        "value": 600,
+        "question": "The \"hour\" for a military action to start",
+        "answer": "zero hour",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SOME BRAINTEASERS ABOUT SEINFELD",
+        "value": 600,
+        "question": "\"She tells me that her ex-boyfriend was over late last night and 'yada yada yada', I'm really tired today.'\"\"What do you think she was tired from?\"\"Well obviously the 'yada yada.'\"(Jason Alexander [George Costanza] reads the clue.) That was a classic scene from Season 8; \"yada yada yada\" recently made it into one edition of this venerable British dictionary",
+        "answer": "the Oxford English Dictionary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NO SOUP FOR YOU!",
+        "value": 800,
+        "question": "Chlodnik,cock-a-leekie,kuttar",
+        "answer": "kuttar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FESTIVUS",
+        "value": 800,
+        "question": "In 1876 Montreal's Mount Royal Park was officially inaugurated on May 24, a Canadian holiday because it's her birthday",
+        "answer": "Queen Victoria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE CONTEST",
+        "value": 800,
+        "question": "In 1984 Walter Mondale got his 13 electoral votes by winning D.C. & this state",
+        "answer": "Minnesota",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "YADA YADA YADA",
+        "value": 800,
+        "question": "Before Congress in 1951, he announced, \"I now close my military career...\" yada yada yada",
+        "answer": "MacArthur",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "A CATEGORY ABOUT NOTHING",
+        "value": 800,
+        "question": "William Cowper: \"What peaceful hours I once enjoyed... but they have left an aching\" this",
+        "answer": "void",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SOME BRAINTEASERS ABOUT SEINFELD",
+        "value": 800,
+        "question": "\"I'm out.\"(Michael Richards [Cosmo Kramer] reads the clue.)  When he wrote that classic episode from Season 4, this Seinfeld co-creator turned curbing his enthusiasm into an Emmy",
+        "answer": "Larry David",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NO SOUP FOR YOU!",
+        "value": 1000,
+        "question": "Bourride,rond de jambe,asopao de pollo",
+        "answer": "rond de jambe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FESTIVUS",
+        "value": 1000,
+        "question": "In 1955 the Pope moved the service for this observance, including St. John's Passion, to the afternoon",
+        "answer": "Good Friday",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE CONTEST",
+        "value": 1000,
+        "question": "In 1884 a booster's attack on democratic \"Rum, Romanism & Rebellion\" backfired on this Down Easter",
+        "answer": "James Blaine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "YADA YADA YADA",
+        "value": 1000,
+        "question": "He humbly shared with the British in 1936, \"A few hours ago I discharged my last duty as king...\" yada yada yada",
+        "answer": "Edward VIII",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "A CATEGORY ABOUT NOTHING",
+        "value": 1000,
+        "question": "9-letter word for lack of existence, or a person of no importance",
+        "answer": "a nonentity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SOME BRAINTEASERS ABOUT SEINFELD",
+        "value": 1000,
+        "question": "(Jerry Seinfeld reads the clue.)  Kramer dated a \"low-talker\" who designed this, also the title of the episode from Season 5\"I... I can't wear this!\"\"Hey, this looks better than anything you own.\"",
+        "answer": "the puffy shirt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ZOOLOGY",
+      "PRO SPORTS VENUES",
+      "FUNNY HATS",
+      "PATTON PENDING",
+      "GRAB BAG",
+      "SLANG"
+    ],
+    "clues": [
+      {
+        "category": "ZOOLOGY",
+        "value": 400,
+        "question": "Giraffes are divided by sex into cows & these",
+        "answer": "bulls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FUNNY HATS",
+        "value": 400,
+        "question": "This \"Grand Ole Opry\" comedy star used to wear a straw hat with the $1.98 price tag still attached",
+        "answer": "Minnie Pearl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PATTON PENDING",
+        "value": 400,
+        "question": "In 1909 George S. Patton graduated 46th out of 103 at this institution",
+        "answer": "West Point",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GRAB BAG",
+        "value": 400,
+        "question": "Tom Kelly took the 1949 nude photographs of this actress that later appeared on the calendar \"Golden Dreams\"",
+        "answer": "Marilyn Monroe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 400,
+        "question": "Wifebeater is a controversial slang term for this ribbed white item of apparel",
+        "answer": "tank top (sleeveless undershirt accepted)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 800,
+        "question": "While swimming, the anaconda can close off a valve inside these to keep water out",
+        "answer": "its nostrils",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FUNNY HATS",
+        "value": 800,
+        "question": "Featured in the \"Harry Potter\" movies, this hat takes its name from its function at Hogwarts School",
+        "answer": "the Sorting Hat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PATTON PENDING",
+        "value": 800,
+        "question": "Patton placed 5th at the 1912 Olympics in this event that includes swimming, fencing & the pistol",
+        "answer": "the modern pentathlon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GRAB BAG",
+        "value": 800,
+        "question": "A wavy fabric made by twisting & then relaxing yarn, it's also found before \"de Chine\"",
+        "answer": "crêpe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 800,
+        "question": "This kind of fruit is a Bronx cheer",
+        "answer": "a raspberry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 1200,
+        "question": "It's the common litter size of llamas, hippos & kangaroos",
+        "answer": "one",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PRO SPORTS VENUES",
+        "value": 1200,
+        "question": "The Detroit Red Wings' rink",
+        "answer": "Joe Louis Arena",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FUNNY HATS",
+        "value": 1200,
+        "question": "Goya liked to paint at night, so he wore a hat rimmed with these",
+        "answer": "candles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PATTON PENDING",
+        "value": 1200,
+        "question": "In 1916 Patton was an acting aide to this man, commander of WWI's American Expeditionary Forces",
+        "answer": "Pershing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GRAB BAG",
+        "value": 1200,
+        "question": "In 1956 the first transatlantic telephone cable was laid between Oban, Scotland & Clarenville in this Canadian province",
+        "answer": "Newfoundland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 1200,
+        "question": "This slang term for a fool or dolt is also the name of one of Archie's Riverdale friends",
+        "answer": "Jughead",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 1600,
+        "question": "One type of terrier was specially bred in England to hunt this other member of the dog family",
+        "answer": "a fox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PRO SPORTS VENUES",
+        "value": 1600,
+        "question": "The New York Islanders' home ice",
+        "answer": "Nassau Coliseum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FUNNY HATS",
+        "value": 1600,
+        "question": "The name of this often brimless hat, popular in the 1920s, is French for \"bell\", after the shape of the hat",
+        "answer": "a cloche",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PATTON PENDING",
+        "value": 1600,
+        "question": "On December 26, 1944 Patton's forces relieved this town in Belgium's Ardennes; the Germans were driven out in January",
+        "answer": "Bastogne",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GRAB BAG",
+        "value": 1600,
+        "question": "The most popular color for this November birthstone is a rich orange-yellow, like the color of sherry",
+        "answer": "topaz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 1600,
+        "question": "A university seminar on slang revealed that an unwelcome follower is known as a hanging this",
+        "answer": "chad",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 2000,
+        "question": "As it's a fave of caribou, the lichen they eat is called this moss",
+        "answer": "reindeer moss",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PRO SPORTS VENUES",
+        "value": 2000,
+        "question": "...and the home of the (Atlanta) Braves",
+        "answer": "Turner Field",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FUNNY HATS",
+        "value": 2000,
+        "question": "In Wagner's operas, this eldest Valkyrie is stereotypically dressed in a horned helmet & breastplate",
+        "answer": "Brunhilde",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PATTON PENDING",
+        "value": 2000,
+        "question": "A few feet of the 998 square miles of this European country are Patton's grave in the American cemetery",
+        "answer": "Luxembourg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GRAB BAG",
+        "value": 2000,
+        "question": "This Ballets Russes founder had tried to be a composer, but Rimsky-Korsakov told him to stop",
+        "answer": "Diaghilev",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 2000,
+        "question": "From the Latin for \"duchy\", it's slang for money or for a show ticket",
+        "answer": "ducat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "Most of this firm's 70,000 seasonal white-collar employees work only 4 months a year",
+    "answer": "H&R Block"
+  },
+  "gameId": "4657",
+  "gameDate": "Tuesday, November 30, 2004"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #7978 - Wednesday, April 24, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "WHERE AM I?",
+      "SNAKE, BIRD OR MONKEY",
+      "CAR TALK",
+      "WOMEN ON TV",
+      "TIME CAPSULE TIME",
+      "GIVE ME A \"MINUTE\""
+    ],
+    "clues": [
+      {
+        "category": "WHERE AM I?",
+        "value": 200,
+        "question": "(Jimmy of the Clue Crew presents.) I'm at the Shuvalov Palace, now home to the Fabergé Museum in this city that was called Leningrad from 1924 to 1991",
+        "answer": "St. Petersburg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SNAKE, BIRD OR MONKEY",
+        "value": 200,
+        "question": "The adder",
+        "answer": "a snake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CAR TALK",
+        "value": 200,
+        "question": "Ferdinand Porsche & his son designed the first model of this \"people's car\"",
+        "answer": "the Volkswagen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WOMEN ON TV",
+        "value": 200,
+        "question": "She turned the world on with her smile as Laura Petrie & later, on her own eponymous shows",
+        "answer": "Mary Tyler Moore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TIME CAPSULE TIME",
+        "value": 200,
+        "question": "One of these \"as fresh as the day it was rolled\" gave the smell of tobacco to a 1900 capsule opened in Pennsylvania in 2013",
+        "answer": "a cigar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME A \"MINUTE\"",
+        "value": 200,
+        "question": "It tells you when it's quarter till or half past",
+        "answer": "the minute hand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew presents.) I'm outside South Africa's oldest building, the Castle of Good Hope in this city, named for its location on a peninsula",
+        "answer": "Cape Town",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SNAKE, BIRD OR MONKEY",
+        "value": 400,
+        "question": "The stilt",
+        "answer": "a bird",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CAR TALK",
+        "value": 400,
+        "question": "The song \"Baby Got Back\" mentions a Benz & a turbo Vette & rhymes this car make with \"anaconda\"",
+        "answer": "Honda",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WOMEN ON TV",
+        "value": 400,
+        "question": "In 1992 Dan Quayle criticized this reporter played by Candice Bergen for having a baby out of wedlock",
+        "answer": "Murphy Brown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TIME CAPSULE TIME",
+        "value": 400,
+        "question": "A 1993 capsule opened in Virginia in 2018 included a music recital recorded on this format, but no Walkman to play it",
+        "answer": "cassette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME A \"MINUTE\"",
+        "value": 400,
+        "question": "A piece of thin, quickly cooked beef",
+        "answer": "a minute steak",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 600,
+        "question": "(Sarah of the Clue Crew presents.) I'm in the Nyhavn area of this capital--it looks like a fairy tale setting, & fairy tales like \"The Princess and the Pea\" were written here",
+        "answer": "Copenhagen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SNAKE, BIRD OR MONKEY",
+        "value": 600,
+        "question": "The hognose",
+        "answer": "a snake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CAR TALK",
+        "value": 600,
+        "question": "I'd like to ride coast to coast in this classic Lincoln model",
+        "answer": "Continental",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WOMEN ON TV",
+        "value": 600,
+        "question": "In 2018 she became the new permanent co-anchor of the \"Today\" show",
+        "answer": "(Hoda) Kotb",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TIME CAPSULE TIME",
+        "value": 600,
+        "question": "A 1913 \"century chest\" opened in 2013 included a pen used by this president to sign the 1900 Oklahoma Free Homes bill",
+        "answer": "McKinley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME A \"MINUTE\"",
+        "value": 600,
+        "question": "Near the end of the second & fourth quarters of an NFL game, a timeout for both teams accompanies this",
+        "answer": "the two-minute warning",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 800,
+        "question": "(Sarah of the Clue Crew presents.) I'm here on this spectacular island, the largest in all of French Polynesia",
+        "answer": "Tahiti",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SNAKE, BIRD OR MONKEY",
+        "value": 800,
+        "question": "The tamarin",
+        "answer": "a monkey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CAR TALK",
+        "value": 800,
+        "question": "The 2015 50th anniversary edition of this pony car was limited to a production run of 1,964",
+        "answer": "the Mustang",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WOMEN ON TV",
+        "value": 800,
+        "question": "This Oscar-nominated actress plays a dedicated mom on \"Speechless\"",
+        "answer": "Minnie Driver",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TIME CAPSULE TIME",
+        "value": 800,
+        "question": "In 2015 Boston opened a 1795 capsule from Sam Adams & this guy, including a silver plate he's thought to have made",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME A \"MINUTE\"",
+        "value": 800,
+        "question": "In 1774 the Pennsylvania Gazette reported these \"each...should be immediately equipped with an effective fire-arm\"",
+        "answer": "minutemen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 1000,
+        "question": "(Jimmy of the Clue Crew presents.) I'm at the Estonian Open Air Museum in this capital city",
+        "answer": "Tallinn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SNAKE, BIRD OR MONKEY",
+        "value": 1000,
+        "question": "The killdeer",
+        "answer": "a bird",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CAR TALK",
+        "value": 1000,
+        "question": "Introduced in the 1980s, this Ferrari model has a name that means \"red head\"",
+        "answer": "the Testarossa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WOMEN ON TV",
+        "value": 1000,
+        "question": "She played Dr. Izzie Stevens on \"Grey's Anatomy\", & beginning in 2018, she's set the bar high as Samantha Wheeler on \"Suits\"",
+        "answer": "Katherine Heigl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TIME CAPSULE TIME",
+        "value": 1000,
+        "question": "A capsule created for this event in Queens, N.Y. is scheduled to be opened in 6939, 5,000 years after it closed",
+        "answer": "the World's Fair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME A \"MINUTE\"",
+        "value": 1000,
+        "question": "A 1914 book on parliamentary practice says after roll call \"the secretary will\" do this",
+        "answer": "read the minutes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POSSESSIVE BOOK TITLES",
+      "ROMAN NAMES",
+      "SCIENCE CENTRAL",
+      "SMORGAS-WORD",
+      "WHAT DAY IS THAT SONG?",
+      "GROSS CONFESSIONS"
+    ],
+    "clues": [
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 400,
+        "question": "Brobdingnagian, meaning \"of huge size\", comes from this satire by Jonathan Swift",
+        "answer": "Gulliver's Travels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ROMAN NAMES",
+        "value": 400,
+        "question": "In 27 B.C. Octavian was awarded this title meaning \"revered one\", & it became part of his name",
+        "answer": "Augustus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE CENTRAL",
+        "value": 400,
+        "question": "Seismically speaking, put these 3 letters before \"center\" to get the spot on the surface above the rupture in the crust",
+        "answer": "epi-",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SMORGAS-WORD",
+        "value": 400,
+        "question": "Starts with 3 consonants: Ask Atlas--this type of motion conveys indifference",
+        "answer": "shrug",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHAT DAY IS THAT SONG?",
+        "value": 400,
+        "question": "\"Goodbye\" this title of a No. 1 hit by the Rolling Stones",
+        "answer": "\"Ruby Tuesday\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GROSS CONFESSIONS",
+        "value": 400,
+        "question": "This actress said, \"I hated wearing that outfit & sitting there rigid straight, & I couldn't wait to kill\" Jabba the Hutt",
+        "answer": "Carrie Fisher",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 800,
+        "question": "Meryl Streep played the title woman when this William Styron novel became a movie",
+        "answer": "Sophie's Choice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ROMAN NAMES",
+        "value": 800,
+        "question": "If Libertus were part of your name, you were previously one of these",
+        "answer": "a slave",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE CENTRAL",
+        "value": 800,
+        "question": "A 2017 study by astronomers shows that this part of our sun rotates 4 times as fast as the surface",
+        "answer": "the core",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SMORGAS-WORD",
+        "value": 800,
+        "question": "Retronyms: Before the electric guitar, we had what's now known as this 8-letter kind",
+        "answer": "acoustic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT DAY IS THAT SONG?",
+        "value": 800,
+        "question": "\"There's many lost, but tell me who has won?\" asks this U2 song",
+        "answer": "\"Sunday Bloody Sunday\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GROSS CONFESSIONS",
+        "value": 800,
+        "question": "After an accident, this author learned his nurses had been told by their boss \"in no uncertain terms, don't make any 'Misery' jokes\"",
+        "answer": "Stephen King",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 1200,
+        "question": "Wragby Hall is a setting in this controversial novel by D.H. Lawrence",
+        "answer": "Lady Chatterley's Lover",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ROMAN NAMES",
+        "value": 1200,
+        "question": "The name of this rebel who died in 71 B.C honors a Greek city",
+        "answer": "Spartacus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE CENTRAL",
+        "value": 1200,
+        "question": "The nucleolus is really central as the most prominent structure in the nucleus of this",
+        "answer": "a cell",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SMORGAS-WORD",
+        "value": 1200,
+        "question": "Portmanteaus: To air a program at the same time on TV & radio led to this portmanteau",
+        "answer": "simulcast",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT DAY IS THAT SONG?",
+        "value": 1200,
+        "question": "Sam Cooke faced \"Another\" one",
+        "answer": "\"Saturday Night\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GROSS CONFESSIONS",
+        "value": 1200,
+        "question": "Learning archery \"changed (her) body\"; by \"Catching Fire\", \"my shoulders were 2\" broader, my right arm is 1\" longer than my left\"",
+        "answer": "(Jennifer) Lawrence",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 1600,
+        "question": "Somerset Maugham made himself a character in this novel with a sharp title",
+        "answer": "The Razor's Edge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ROMAN NAMES",
+        "value": 1600,
+        "question": "Publius Cornelius Scipio got the honorific Africanus due to his success in the second of these wars",
+        "answer": "the Punic Wars",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE CENTRAL",
+        "value": 1600,
+        "question": "In 1916 the great chemist Gilbert Lewis called the central part of an atom this, a word we use for the seed in an apricot pit",
+        "answer": "the kernel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SMORGAS-WORD",
+        "value": 1600,
+        "question": "Same first & last letter: This type of \"arrest\" means your body's main pump isn't working",
+        "answer": "cardiac",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT DAY IS THAT SONG?",
+        "value": 1600,
+        "question": "Boomtown Rats song in which \"I want to shoot the whole day down\"",
+        "answer": "\"I Don't Like Mondays\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GROSS CONFESSIONS",
+        "value": 1600,
+        "question": "He said an ad on his Swift boat service \"was skillfully done as an attack ad... if I heard that ad, I wouldn't vote for me\"",
+        "answer": "(John) Kerry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 2000,
+        "question": "This work by Norman Mailer tells of convicted killer Gary Gilmore, who chose death by firing squad",
+        "answer": "The Executioner's Song",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ROMAN NAMES",
+        "value": 2000,
+        "question": "His surname meaning \"chickpea\", this orator had the image of one inscribed on a ceremonial plate in place of his name",
+        "answer": "Cicero",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE CENTRAL",
+        "value": 2000,
+        "question": "The 1880s observation that tall parents have shorter kids than you'd expect is an example of RTM, \"regression to\" this",
+        "answer": "the mean",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SMORGAS-WORD",
+        "value": 2000,
+        "question": "Almost BEFORE & AFTER:\"Ne m'oubliez pas\" flowers bloom as a \"Dallas\" TV spinoff",
+        "answer": "forget-me-Knots Landing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHAT DAY IS THAT SONG?",
+        "value": 2000,
+        "question": "Rebecca Black went viral with this song",
+        "answer": "\"Friday\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GROSS CONFESSIONS",
+        "value": 2000,
+        "question": "This \"In the Night Kitchen\" author was childless, but would've preferred a daughter; \"if I had a son, I'd leave him at the A & P\"",
+        "answer": "Maurice Sendak",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GEOGRAPHIC NICKNAMES",
+    "clue": "This term for an area of the Atlantic originated in 1964 in Argosy, a pulp magazine",
+    "answer": "the Bermuda Triangle"
+  },
+  "gameId": "7978",
+  "gameDate": "Wednesday, April 24, 2019"
+}

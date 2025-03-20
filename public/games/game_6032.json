@@ -1,0 +1,574 @@
+{
+  "title": "Show #2634 - Thursday, February 1, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD CITIES",
+      "SPORTS",
+      "MAGAZINES",
+      "RED",
+      "LETTER",
+      "DAYS"
+    ],
+    "clues": [
+      {
+        "category": "WORLD CITIES",
+        "value": 100,
+        "question": "The name of this Scottish city may come from a Celtic word meaning \"Edin's Fort\"",
+        "answer": "Edinburgh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "These 2 teams made it to the 1995 World Series",
+        "answer": "Atlanta Braves & Cleveland Indians",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 100,
+        "question": "A 1927 issue of this magazine featured the first undersea photographs in natural color",
+        "answer": "National Geographic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RED",
+        "value": 100,
+        "question": "It's the \"Red Planet\"",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LETTER",
+        "value": 100,
+        "question": "In October 1860 Little Grace Bedell wrote him a letter, saying she thought he should grow whiskers",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DAYS",
+        "value": 100,
+        "question": "Stephen Day was the first of these in the 13 Colonies; the Bay Psalm Book came from his shop",
+        "answer": "printer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 200,
+        "question": "The unification of Italy is commemorated by a monument to Victor Emmanuel II in this capital city",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "In April 1995 25,000 fans turned out to honor this former 49er QB who announced his retirement",
+        "answer": "Joe Montana",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "In 1994 Dell Magazines launched a \"Western Magazine\" named for this author",
+        "answer": "Louis L'Amour",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RED",
+        "value": 200,
+        "question": "When blood goes through these organs, it turns red",
+        "answer": "lung",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LETTER",
+        "value": 200,
+        "question": "\"Hospital Sketches\" of 1863 is a collection of letters by this \"Little Women\" author when she was a nurse",
+        "answer": "Louisa May Alcott",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DAYS",
+        "value": 200,
+        "question": "Her stage name came from the song \"Day by Day\" & Oscar Levant said he knew her before she was a virgin",
+        "answer": "Doris Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 300,
+        "question": "The well of ZamZam is one of the holy sites in this Saudi Arabian city",
+        "answer": "Mecca",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "Sponsored by this brewery, the Silver Bullets, a women's pro baseball team, made its debut in 1994",
+        "answer": "Coors",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 300,
+        "question": "Regular features of this magazine include Star Tracks, Chatter & Picks & Pans",
+        "answer": "People",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RED",
+        "value": 300,
+        "question": "The people who hold this office are addressed as \"Your Eminence\" & wear red hats",
+        "answer": "cardinals",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LETTER",
+        "value": 300,
+        "question": "A letter criticizing Truman administration policy caused him to be relieved of command in 1951",
+        "answer": "(Douglas) MacArthur",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DAYS",
+        "value": 300,
+        "question": "In 1883 Benjamin Day founded the New York Sun, the first successful U.S. daily sold at this price",
+        "answer": "penny",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 400,
+        "question": "Saigon, once capital of Indochina, is now known by this name",
+        "answer": "Ho Chi Minh City",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "It's the sport played by Gary Player",
+        "answer": "golf",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "The first Polish edition of this pocket-sized monthly magazine went on sale in May 1995",
+        "answer": "Reader's Digest",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RED",
+        "value": 400,
+        "question": "They make borscht red",
+        "answer": "beets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LETTER",
+        "value": 400,
+        "question": "This novelist was sentenced to a year in jail for the letter he wrote supporting Alfred Dreyfus",
+        "answer": "Émile Zola",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DAYS",
+        "value": 400,
+        "question": "In 1903 Teddy Roosevelt appointed William Rufus Day to this body, where he served almost 20 years",
+        "answer": "Supreme Court",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 500,
+        "question": "This German port is home to the world-famous Hagenbeck Zoo",
+        "answer": "Hamburg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "In March 1995 Doug Swingley became the first non-Alaskan to win this sled dog race",
+        "answer": "Iditarod",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 500,
+        "question": "Before Conde Nast revived it in 1983, this arts & culture magazine was defunct for nearly 50 years",
+        "answer": "Vanity Fair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RED",
+        "value": 500,
+        "question": "In \"Grimm's Fairy Tales\", she's Snow White's sister",
+        "answer": "Rose Red",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LETTER",
+        "value": 1000,
+        "question": "Popes just don't write letters, they write bulls & these letters to all bishops",
+        "answer": "encyclicals",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DAYS",
+        "value": 500,
+        "question": "In 1939 Jack Benny hired him as a replacement for tenor Kenny Baker",
+        "answer": "Dennis Day",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MYTHOLOGY",
+      "PRESIDENTIAL NEWS",
+      "FICTIONAL CHARACTERS",
+      "HISTORY",
+      "NUTRITION & HEALTH",
+      "TAKE THE \"EL\""
+    ],
+    "clues": [
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "Augeas refused to play this hero the agreed reward for cleaning out his stables",
+        "answer": "Hercules",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL NEWS",
+        "value": 200,
+        "question": "Japan donated $1.5 million to the building of his presidential library at Texas A&M",
+        "answer": "George Bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 200,
+        "question": "This Ken Kesey novel is told by an enormous schizophrenic Indian named Bromden",
+        "answer": "One Flew Over the Cuckoo's Nest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "The fertile farmland of the Sumerians was found between these 2 rivers",
+        "answer": "Tigris & Euphrates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NUTRITION & HEALTH",
+        "value": 200,
+        "question": "Since they're made mainly from this part of an egg, egg substitutes don't contain cholesterol",
+        "answer": "whites",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TAKE THE \"EL\"",
+        "value": 200,
+        "question": "It's the West Texas town Marty Robbins made famous in song",
+        "answer": "El Paso",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "This Greek god of the sea also had dominion over springs & lakes",
+        "answer": "Poseidon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL NEWS",
+        "value": 400,
+        "question": "His 32¢ stamp was issued April 26, 1995",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 400,
+        "question": "Pierre Aronnax is the narrator of this 1870 Jules Verne tale about a submarine",
+        "answer": "Twenty Thousand Leagues Under the Sea",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "In 1862 he became Prussia's prime minister under King William I",
+        "answer": "Bismarck",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NUTRITION & HEALTH",
+        "value": 400,
+        "question": "One of the best natural sources of iodine is kelp, a type of this",
+        "answer": "seaweed",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TAKE THE \"EL\"",
+        "value": 400,
+        "question": "This famous knight served Spanish kings Sancho II & Alfonso VI & several Muslim kings",
+        "answer": "El Cid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 600,
+        "question": "According to Hesiod, this river of the underworld was the oldest child of Tethys & Oceanus",
+        "answer": "Style",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL NEWS",
+        "value": 600,
+        "question": "Gerald Ford was among the mourners at this former House Speaker's funeral January 10, 1994",
+        "answer": "Tip O'Neill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 600,
+        "question": "In this James Dickey novel, Ed Gentry, Drew Ballinger, Bobby Trippe & Lewis Medlock take a canoe trip",
+        "answer": "Deliverance",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "In 1602 the Netherlands established this company; the West version was set up in 1621",
+        "answer": "Dutch East India Company",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NUTRITION & HEALTH",
+        "value": 600,
+        "question": "During pregnancy or when there's a loss of blood the need for this mineral greatly increases",
+        "answer": "iron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TAKE THE \"EL\"",
+        "value": 600,
+        "question": "This country's currency is the colon",
+        "answer": "El Salvador",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 800,
+        "question": "The name of these female winged monsters means \"the snatchers\"",
+        "answer": "Harpies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL NEWS",
+        "value": 800,
+        "question": "This former president is a real traveling man; in 1995 he visited Haiti... Sudan... Nigeria...",
+        "answer": "(Jimmy) Carter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 800,
+        "question": "Early in the novel, Jonathan Harker is sent to help this count purchase property in England",
+        "answer": "Dracula",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "In the 480 B.C. battle of Salamis, the Greeks beat this empire's fleet led by Xerxes",
+        "answer": "Persia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NUTRITION & HEALTH",
+        "value": 800,
+        "question": "While excess sodium raises blood pressure, this mineral in bananas may lower it",
+        "answer": "potassium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TAKE THE \"EL\"",
+        "value": 800,
+        "question": "Legendary South American Indian chief who periodically covered himself in gold dust",
+        "answer": "El Dorado",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1000,
+        "question": "This daughter of Zeus & goddess of wisdom assumed various disguises to aid Odysseus on his trip home",
+        "answer": "Athena",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL NEWS",
+        "value": 1000,
+        "question": "An 800'-long memorial to this 20th c. president in Washington is scheduled for completion in Spring 1997",
+        "answer": "Franklin Roosevelt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 2000,
+        "question": "In this novel the nearsighted Piggy & sensitive Simon are killed before the boys are rescued",
+        "answer": "Lord of the Flies",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 1000,
+        "question": "Henry IV's Edict of Nantes concerned this religious group",
+        "answer": "Huguenots",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NUTRITION & HEALTH",
+        "value": 2000,
+        "question": "Most of the fat in our diet is composed of these molecules that include \"3\" fatty acids",
+        "answer": "triglycerides",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TAKE THE \"EL\"",
+        "value": 1000,
+        "question": "\"Current\" event off the coast of Peru",
+        "answer": "El Nino",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "POETS",
+    "clue": "In 1968 Gwendolyn Brooks succeeded this man as Poet Laureate of Illinois",
+    "answer": "Carl Sandburg"
+  },
+  "gameId": "2634",
+  "gameDate": "Thursday, February 1, 1996"
+}

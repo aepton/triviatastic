@@ -1,0 +1,574 @@
+{
+  "title": "Show #7742 - Tuesday, April 17, 2018",
+  "jeopardyRound": {
+    "categories": [
+      "OFFICIAL STATE STUFF",
+      "ACTING UP ON TV",
+      "ELEMENTARY",
+      "SEEING RED",
+      "HIT THE BOOKS",
+      "THE \"GRE\"s ARE COMING"
+    ],
+    "clues": [
+      {
+        "category": "OFFICIAL STATE STUFF",
+        "value": 200,
+        "question": "This state's quarter is seen here",
+        "answer": "South Dakota",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ACTING UP ON TV",
+        "value": 200,
+        "question": "Tea Leoni runs the State department on this drama",
+        "answer": "Madam Secretary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ELEMENTARY",
+        "value": 200,
+        "question": "Lavoisier expounded on this element's function in both combustion & respiration",
+        "answer": "oxygen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SEEING RED",
+        "value": 200,
+        "question": "A cheerful view without a valid basis is seeing life through these glasses",
+        "answer": "rose-colored glasses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HIT THE BOOKS",
+        "value": 200,
+        "question": "Freud peers into the unconscious: \"The Interpretation of ____\"",
+        "answer": "dreams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"GRE\"s ARE COMING",
+        "value": 200,
+        "question": "It's a deadly sin",
+        "answer": "greed",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OFFICIAL STATE STUFF",
+        "value": 400,
+        "question": "Naturally, Florida chose this, made from a big crop grown there, as its state beverage",
+        "answer": "orange juice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ACTING UP ON TV",
+        "value": 400,
+        "question": "In 2018 this show revealed the circumstances of the death of Jack, played by Milo Ventimiglia",
+        "answer": "This Is Us",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ELEMENTARY",
+        "value": 400,
+        "question": "This precious metal boasts the highest thermal & electrical conductivity",
+        "answer": "silver",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SEEING RED",
+        "value": 400,
+        "question": "It's the celebrity arrival part of a televised awards show",
+        "answer": "the red carpet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HIT THE BOOKS",
+        "value": 400,
+        "question": "Self-published in 1861 by Harriet Jacobs: \"Incidents in the Life of a ____ Girl\"",
+        "answer": "slave",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"GRE\"s ARE COMING",
+        "value": 400,
+        "question": "This slang term for a dollar bill dates to the Civil War",
+        "answer": "a greenback",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OFFICIAL STATE STUFF",
+        "value": 600,
+        "question": "You'll shout with joy the name of this pie, Maine's state treat",
+        "answer": "a whoopie pie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ACTING UP ON TV",
+        "value": 600,
+        "question": "Just before becoming a Rey of light on the big screen in \"The Force Awakens\", she Roxy & rolled on \"Mr. Selfridge\"",
+        "answer": "Daisy Ridley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ELEMENTARY",
+        "value": 600,
+        "question": "From sources like the Skouriotissa mine, Cyprus was fittingly a large source of this element in ancient times",
+        "answer": "copper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SEEING RED",
+        "value": 600,
+        "question": "After dad Thorvald was exiled from Norway, this Viking explorer was exiled from Iceland around 980",
+        "answer": "Erik the Red",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HIT THE BOOKS",
+        "value": 600,
+        "question": "A Hardy literary perennial: \"Jude the ____\"",
+        "answer": "obscure",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"GRE\"s ARE COMING",
+        "value": 600,
+        "question": "Adjective for a sociable, outgoing person",
+        "answer": "gregarious",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OFFICIAL STATE STUFF",
+        "value": 800,
+        "question": "Tennessee's gem, the Tennessee river this, is the product of a mussel, not an oyster",
+        "answer": "a pearl",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ACTING UP ON TV",
+        "value": 800,
+        "question": "As CEO for 11 days, Kumail Nanjiani's Dinesh dug a $21 billion hole for his tech company on this sitcom",
+        "answer": "Silicon Valley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ELEMENTARY",
+        "value": 800,
+        "question": "235 is an isotope of this element whose nucleus can be made to undergo fission",
+        "answer": "uranium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SEEING RED",
+        "value": 800,
+        "question": "With origins going back to 1869, this Ohio sports team was named for its players' stockings",
+        "answer": "the Cincinnati Reds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HIT THE BOOKS",
+        "value": 800,
+        "question": "Samuel P. Huntington on the struggle between East & West: \"The Clash of ____ and the Remaking of World Order\"",
+        "answer": "civilizations",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"GRE\"s ARE COMING",
+        "value": 800,
+        "question": "It's a reddish-orange color, or a syrup made from pomegranates",
+        "answer": "grenadine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OFFICIAL STATE STUFF",
+        "value": 1000,
+        "question": "This state horse of Idaho was popular with the Nez Perce",
+        "answer": "an appaloosa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ACTING UP ON TV",
+        "value": 1000,
+        "question": "Played by Ricky Whittle, Shadow Moon deals with the powers that be on this drama",
+        "answer": "American Gods",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ELEMENTARY",
+        "value": 1000,
+        "question": "Now seemingly everywhere, this lightweight metal was introduced to us at the 1855 Paris Exposition",
+        "answer": "aluminum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SEEING RED",
+        "value": 1000,
+        "question": "The red type of this is less bearlike than the giant one, looking more like a raccoon",
+        "answer": "a panda",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HIT THE BOOKS",
+        "value": 1000,
+        "question": "Max Weber: \"The Protestant Ethic and the Spirit of\" this economic system",
+        "answer": "capitalism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"GRE\"s ARE COMING",
+        "value": 1000,
+        "question": "This type of chant is also known as plainsong",
+        "answer": "Gregorian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC GEOGRAPHY",
+      "WORDS OF COMMUNICATION",
+      "ART",
+      "DEEP LYRICS",
+      "DEBATE TOPICS",
+      "COMBINATIONS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC GEOGRAPHY",
+        "value": 400,
+        "question": "Until 1939 this nation was known as Siam",
+        "answer": "Thailand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF COMMUNICATION",
+        "value": 400,
+        "question": "A preacher's Scripture-based oration, or a negative term for a long, tedious speech",
+        "answer": "a sermon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "This Rodin sculpture was originally meant to be a seated portrait of Dante for the top of \"The Gates of Hell\"",
+        "answer": "The Thinker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DEEP LYRICS",
+        "value": 400,
+        "question": "\"Learn, learn, learn, learn learn... hurt, hurt, hurt, hurt, hurting\"",
+        "answer": "Rihanna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DEBATE TOPICS",
+        "value": 400,
+        "question": "Should texting while doing this be illegal in every state?",
+        "answer": "driving",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMBINATIONS",
+        "value": 400,
+        "question": "Dreyer's Neapolitan ice cream",
+        "answer": "chocolate, vanilla and strawberry",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GEOGRAPHY",
+        "value": 800,
+        "question": "This world capital was built on the ruins of the Aztec capital Tenochtitlan",
+        "answer": "Mexico City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF COMMUNICATION",
+        "value": 800,
+        "question": "To speak in an informal way; it's also an online \"room\"",
+        "answer": "chat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "\"At the Piano\" is a double portrait not of this artist's mother, but of his niece and his half-sister",
+        "answer": "(James Abbott McNeill) Whistler",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DEEP LYRICS",
+        "value": 800,
+        "question": "\"Nah to the ah to the no, no, no, my name is no, my sign is no, my number is no\"",
+        "answer": "(Meghan) Trainor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DEBATE TOPICS",
+        "value": 800,
+        "question": "Is this condition of having an excessive amount of body fat a disease?",
+        "answer": "obesity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMBINATIONS",
+        "value": 800,
+        "question": "A mule",
+        "answer": "a donkey and a horse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GEOGRAPHY",
+        "value": 1200,
+        "question": "The site of a temple to Apollo & an ancient oracle, this city was located on the slopes of Mount Parnassus",
+        "answer": "Delphi",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF COMMUNICATION",
+        "value": 1200,
+        "question": "This breathy type of \"campaign\" spreads rumors in an organized way to destroy someone's reputation",
+        "answer": "a whisper campaign",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 1200,
+        "question": "Marcel Duchamp coined this term for Alexander Calder's kinetic sculptures",
+        "answer": "mobiles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DEEP LYRICS",
+        "value": 1200,
+        "question": "\"What are you doin' to me? What are you doin', huh? What are you doin' to me? What are you doin', huh?\"",
+        "answer": "Charlie Puth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DEBATE TOPICS",
+        "value": 1200,
+        "question": "Is it ethical to use these unmanned aerial vehicles in war?",
+        "answer": "drones",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COMBINATIONS",
+        "value": 1200,
+        "question": "The drink called an Arnold Palmer",
+        "answer": "lemonade and iced tea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GEOGRAPHY",
+        "value": 1600,
+        "question": "Before it was a gulf that made 1960s news, it was a region of northern Vietnam",
+        "answer": "Tonkin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF COMMUNICATION",
+        "value": 1600,
+        "question": "\"U\" know it means to give audible expression to; add -ance to get the thing you say",
+        "answer": "an utterance",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 1600,
+        "question": "He painted the yellow house that he had rented in Arles, hoping to establish a studio of the south with fellow artists",
+        "answer": "van Gogh",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DEEP LYRICS",
+        "value": 1600,
+        "question": "\"High tops in the summer, don't be a bummer, babe, don't be a bummer, don't be a bummer\"",
+        "answer": "Lana Del Rey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DEBATE TOPICS",
+        "value": 1600,
+        "question": "Are GMOs, which stand for these, dangerous to the diet?",
+        "answer": "genetically modified organisms",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COMBINATIONS",
+        "value": 1600,
+        "question": "A Roman satyr",
+        "answer": "a man and a goat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GEOGRAPHY",
+        "value": 2000,
+        "question": "This city in northern Italy, the country's industrial center, got Europe's first electric power plant in 1883",
+        "answer": "Milan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF COMMUNICATION",
+        "value": 2000,
+        "question": "Hyphenated French term meaning \"head to head\"",
+        "answer": "tête-à-tête",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 2000,
+        "question": "Hieronymus Bosch depicted Eden in the first panel of the work called this \"Garden\"; the third panel is hell",
+        "answer": "The Garden of Earthly Delights",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DEEP LYRICS",
+        "value": 2000,
+        "question": "\"Wiggle, wiggle, wiggle, wiggle, wiggle, yeah, wiggle, wiggle, wiggle wiggle, wiggle, yeah\"",
+        "answer": "LMFAO",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DEBATE TOPICS",
+        "value": 2000,
+        "question": "Its name derived from Greek, should this practice of ending a life to relieve suffering be legal in every state?",
+        "answer": "euthanasia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COMBINATIONS",
+        "value": 2000,
+        "question": "Propane--these 2 elements",
+        "answer": "carbon and hydrogen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "RUSSIAN CULTURE",
+    "clue": "This work was over 50 years old & excerpts had been popularized when it had its first full U.S. performance on Christmas Eve 1944",
+    "answer": "The Nutcracker"
+  },
+  "gameId": "7742",
+  "gameDate": "Tuesday, April 17, 2018"
+}

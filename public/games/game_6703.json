@@ -1,0 +1,556 @@
+{
+  "title": "Show #1367 - Tuesday, July 10, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "FAMOUS NAMES",
+      "HUMOROUS QUOTES",
+      "TELEVISION",
+      "NIAGARA FALLS",
+      "POTPOURRI",
+      "SING-ALONG SONGS"
+    ],
+    "clues": [
+      {
+        "category": "FAMOUS NAMES",
+        "value": 100,
+        "question": "Her name was Goldie Myerson before she Hebraized it to this",
+        "answer": "Golda Meir",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HUMOROUS QUOTES",
+        "value": 100,
+        "question": "Oscar Wilde said, \"I like men who have a future and women who have\" this",
+        "answer": "a past",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 100,
+        "question": "\"Dynasty\" character who's been married to Blake Carrington, Cecil Colby & \"Dex\" Dexter",
+        "answer": "Alexis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NIAGARA FALLS",
+        "value": 100,
+        "question": "Cities named Niagara Falls are opposite each other in this state & province",
+        "answer": "New York & Ontario",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 100,
+        "question": "Field in which the name Georges-Auguste Escoffier is legendary",
+        "answer": "cooking",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SING-ALONG SONGS",
+        "value": 100,
+        "question": "\"Oh! How we\" did this \"on the night we were wed\"",
+        "answer": "dance",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 200,
+        "question": "This British ruler sponsored a translation of the Bible that now bears his name",
+        "answer": "King James I",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HUMOROUS QUOTES",
+        "value": 200,
+        "question": "P.T. Barnum once punned, \"Every crowd has a silver\" one of these",
+        "answer": "a lining",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 200,
+        "question": "On TV, Timothy Hutton's father, Jim, played this detective created by Frederic Dannay & Manfred Lee",
+        "answer": "Ellery Queen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NIAGARA FALLS",
+        "value": 200,
+        "question": "These can be viewed from behind in the Cave of the Winds",
+        "answer": "the American Falls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "Scientists say in the Devonean Period, 350 mil. years ago, the length of this was about 22 hours",
+        "answer": "a day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SING-ALONG SONGS",
+        "value": 200,
+        "question": "Girl who'll \"look sweet, on the seat, of a bicycle built for two\"",
+        "answer": "Daisy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 300,
+        "question": "On March 24, 1958 he became Army G.I. No. 53310761",
+        "answer": "Elvis Presley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HUMOROUS QUOTES",
+        "value": 300,
+        "question": "Thomas A, Edision quipped, \"When down in the mouth, remember\" this biblical prophet, \"He came out all right.\"",
+        "answer": "Jonah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 300,
+        "question": "Actress who's starred as Coretta King, Marva Collins, Harriet Tubman & Jane Pittman",
+        "answer": "Cicely Tyson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NIAGARA FALLS",
+        "value": 300,
+        "question": "Experts figure in about 25,000 years the falls will cut all the way back to this lake, their source",
+        "answer": "Lake Erie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 300,
+        "question": "In 1980, 6 others were tried with this group that supported Mao, making a total of 10",
+        "answer": "the Gang of Four",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SING-ALONG SONGS",
+        "value": 600,
+        "question": "Title of the following, 1950's biggest hit: \"Last Saturday night I got married / Me and my wife settle down / Now me and my wife are parted / I'm gonna take another stroll downtown\"",
+        "answer": "\"Goodnight, Irene\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 400,
+        "question": "He was killed in his red Fokker plane near Amiens, France",
+        "answer": "the Red Baron",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HUMOROUS QUOTES",
+        "value": 400,
+        "question": "U.S. Grant said, \"I only know 2 tunes; one of them is\" this patriotic ditty \"and the other isn't.\"",
+        "answer": "\"Yankee Doodle\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 400,
+        "question": "In the 1950s Sherman Billingsley was host as well as owner of this elegant Manhattan \"Club\"",
+        "answer": "the Stork Club",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NIAGARA FALLS",
+        "value": 400,
+        "question": "To keep up the spectacle there's a limit on the water that can be diverted into these plants",
+        "answer": "the electric generating plants",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "Gasohol is a 9-to-1 mixture of gasoline with either ethanol or this other type of alcohol",
+        "answer": "methyl alcohol",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 500,
+        "question": "His father, a violinist, was a founder of the Bombay String Quartet & Bombay Symphony",
+        "answer": "Zubin Mehta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HUMOROUS QUOTES",
+        "value": 500,
+        "question": "Paraphrasing Shakespeare, Dorothy Parker called it \"the soul of lingerie\"",
+        "answer": "brevity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 500,
+        "question": "Jon Hall was this character \"of the Jungle\", whose name meant \"white medicine man\"",
+        "answer": "Ramar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NIAGARA FALLS",
+        "value": 500,
+        "question": "The tourist boats that go around the pool at the base of the falls are all named this",
+        "answer": "the Maids of the Mist",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 500,
+        "question": "Olympic sport in which opponents face each other on a measured strip called a piste",
+        "answer": "fencing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MAGAZINES",
+      "THE 1980s",
+      "ARTISTS",
+      "GRAMMAR",
+      "ANATOMY",
+      "THE SOUTH"
+    ],
+    "clues": [
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "In 1941 a \"Guaranty Seal\" replaced this magazine's \"Seal of Approval\"",
+        "answer": "Good Housekeeping",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE 1980s",
+        "value": 200,
+        "question": "After victory in this 1982 war, Margaret Thatcher said, \"Those islands belong to us.\"",
+        "answer": "the Falkland Islands",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 200,
+        "question": "This artist's \"Manao Tupapau\" depicts a superstitious Tahitian girl terrified of a dead spirit",
+        "answer": "Gauguin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 200,
+        "question": "The 2 voices in English grammar are active & this",
+        "answer": "passive",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANATOMY",
+        "value": 200,
+        "question": "Because it contains no nerves, it doesn't hurt the baby or mother when it's cut",
+        "answer": "the umbilical cord",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 200,
+        "question": "You can see gators jumping for food at the Gator Jumparoo Show at Kissimmee in this state",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "This humor magazine's price is \"$1.75 cheap\"",
+        "answer": "Mad",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE 1980s",
+        "value": 400,
+        "question": "On September 1, 1983 the Soviets shot down this airline's flight 007",
+        "answer": "Korean Air Lines",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 400,
+        "question": "Augustus John's portrait of this man in a kaffiyeh headdress looks a lot like Peter O'Toole",
+        "answer": "Lawrence of Arabia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 400,
+        "question": "The 3 interrogative pronouns are which, what & this one",
+        "answer": "who",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANATOMY",
+        "value": 400,
+        "question": "The waterproof layer of your skin",
+        "answer": "the epidermis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 400,
+        "question": "Of all the southern states, this one is first alphabetically",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 600,
+        "question": "Founded by DeWitt Wallace as a reprint magazine, it began printing some original material in 1930",
+        "answer": "Reader's Digest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE 1980s",
+        "value": 600,
+        "question": "This author's novel, \"The Garden of Eden\" was published in 1986, 25 years after his death",
+        "answer": "Ernest Hemingway",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 600,
+        "question": "His \"Burial of the Conde de Orgaz\" pictured his son & members of Toledan society",
+        "answer": "El Greco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 600,
+        "question": "A complex sentence contains 1 or more dependent ones",
+        "answer": "a clause",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANATOMY",
+        "value": 600,
+        "question": "The leg proper is only the segment between the ankle & this",
+        "answer": "the knee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 600,
+        "question": "You might say Avery Island is one of Louisiana's hot spots; it's the home of this famous hot sauce",
+        "answer": "Tabasco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 800,
+        "question": "Time Inc.'s 2nd successful magazine was this business publication which debuted in 1930",
+        "answer": "Fortune",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE 1980s",
+        "value": 800,
+        "question": "\"Energy Turns the World\" was the theme of this Tennessee city's World's Fair which opened in '82",
+        "answer": "Knoxville",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 800,
+        "question": "His art can be divided into  Paris, Arles, & Saint-Remy periods",
+        "answer": "van Gogh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 800,
+        "question": "A participle is a verb form used at this part of speech without losing its character as a verb",
+        "answer": "an adjective",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANATOMY",
+        "value": 800,
+        "question": "Blood enters this organ through the hepatic artery",
+        "answer": "the liver",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 800,
+        "question": "It's Virginia's state flower & its state tree; we assume its bark is worse than its bite",
+        "answer": "the dogwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1000,
+        "question": "It calls itself \"The International Magazine of Fine Interior Design\"",
+        "answer": "Architectural Digest",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE 1980s",
+        "value": 1000,
+        "question": "The 1981 Oscar ceremonies were postponed from March 30th to the 31st due to this",
+        "answer": "the attempted assassination of President Reagan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 2000,
+        "question": "He painted \"Fog Warning\" & other seascapes after moving to a lonely point on the Maine coast",
+        "answer": "Winslow Homer",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 2000,
+        "question": "English has 6 tenses: present, past, future & these 3",
+        "answer": "present perfect, past perfect & future perfect",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANATOMY",
+        "value": 1000,
+        "question": "You don't need stones in the gall bladder or kidneys; you do need the otoliths, stones in these",
+        "answer": "the ear",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 1000,
+        "question": "This state's largest lake, Lake Sidney Lanier, is named for a poet & native son",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. PRESIDENTS",
+    "clue": "President with the most recent birth date",
+    "answer": "Jimmy Carter"
+  },
+  "gameId": "1367",
+  "gameDate": "Tuesday, July 10, 1990"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #6625 - Friday, June 7, 2013",
+  "jeopardyRound": {
+    "categories": [
+      "ALICE IN WONDERLAND",
+      "WILL THE REAL CHEMICAL ELEMENT PLEASE STAND UP?",
+      "EUROPEAN HOLIDAYS",
+      "LIFE OF BRIAN",
+      "TIME FOR SOME HAIR CARE",
+      "SPLIT \"N\"s"
+    ],
+    "clues": [
+      {
+        "category": "ALICE IN WONDERLAND",
+        "value": 200,
+        "question": "John Tenniel's drawings of him may be based on Theophilus Carter, a furniture dealer who wore a top hat",
+        "answer": "the Mad Hatter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WILL THE REAL CHEMICAL ELEMENT PLEASE STAND UP?",
+        "value": 200,
+        "question": "Saturnium, venusium, neptunium",
+        "answer": "neptunium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EUROPEAN HOLIDAYS",
+        "value": 200,
+        "question": "The Portuguese call it Ano Novo",
+        "answer": "New Year's Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LIFE OF BRIAN",
+        "value": 200,
+        "question": "This musical giant gave us \"God Only Knows\" & \"Little Deuce Coupe\"",
+        "answer": "Brian Wilson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TIME FOR SOME HAIR CARE",
+        "value": 200,
+        "question": "Use of medicated shampoo controls these flakes caused by scalp inflammation & a fungus",
+        "answer": "dandruff",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPLIT \"N\"s",
+        "value": 200,
+        "question": "Oddly, an archaic meaning of this time of day is midnight",
+        "answer": "noon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ALICE IN WONDERLAND",
+        "value": 400,
+        "question": "Lewis Carroll first told the story of Alice in 1862 on this date, a uniquely American summer holiday",
+        "answer": "July 4th",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WILL THE REAL CHEMICAL ELEMENT PLEASE STAND UP?",
+        "value": 400,
+        "question": "Francium, belgium, italium",
+        "answer": "francium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EUROPEAN HOLIDAYS",
+        "value": 400,
+        "question": "Like the U.S., Latvia & Estonia celebrate this holiday on the second Sunday in May",
+        "answer": "Mother's Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LIFE OF BRIAN",
+        "value": 400,
+        "question": "Brian Warner, from Ohio, remade himself as this shock rocker",
+        "answer": "Marilyn Manson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TIME FOR SOME HAIR CARE",
+        "value": 400,
+        "question": "Chocolate goes into a type of this post-shampoo product from Robert Max",
+        "answer": "conditioner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPLIT \"N\"s",
+        "value": 400,
+        "question": "To tidy",
+        "answer": "to neaten",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ALICE IN WONDERLAND",
+        "value": 600,
+        "question": "When Alice plays this game, live flamingoes serve as mallets and hedgehogs as the balls.",
+        "answer": "croquet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WILL THE REAL CHEMICAL ELEMENT PLEASE STAND UP?",
+        "value": 600,
+        "question": "Estherium, ruthenium, jezbelium",
+        "answer": "ruthenium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EUROPEAN HOLIDAYS",
+        "value": 600,
+        "question": "On February 10, the Maltese have a feast celebrating this New Testament epistle writer's shipwreck on the island",
+        "answer": "Paul",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LIFE OF BRIAN",
+        "value": 600,
+        "question": "This Rolling Stone who died in 1969 played marimba on \"Under My Thumb\" & sitar on \"Paint It Black\"",
+        "answer": "Brian Jones",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TIME FOR SOME HAIR CARE",
+        "value": 600,
+        "question": "Judging by its name, this kind of perm producing soft curls should have a pH below 7.0",
+        "answer": "an acid perm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPLIT \"N\"s",
+        "value": 600,
+        "question": "A doc who cuts into the brain",
+        "answer": "neurosurgeon",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ALICE IN WONDERLAND",
+        "value": 800,
+        "question": "In a little glass box, Alice find this dessert with the words \"eat me\" written in currants, & eat it she does",
+        "answer": "cake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WILL THE REAL CHEMICAL ELEMENT PLEASE STAND UP?",
+        "value": 800,
+        "question": "Hafnium, quartnium, tenthmium",
+        "answer": "hafnium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EUROPEAN HOLIDAYS",
+        "value": 800,
+        "question": "It's the only one of the 4 U.K. countries in which St. Patrick's Day is an official bank holiday",
+        "answer": "Northern Ireland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LIFE OF BRIAN",
+        "value": 800,
+        "question": "An ice follies show sparked his interest in figure skating, in which he took Olympic gold in 1988",
+        "answer": "Brian Boitano",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TIME FOR SOME HAIR CARE",
+        "value": 800,
+        "question": "A hairstyle using extensions, or the pattern of threads in a fabric",
+        "answer": "a weave",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPLIT \"N\"s",
+        "value": 800,
+        "question": "Any male born to high rank",
+        "answer": "a nobleman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ALICE IN WONDERLAND",
+        "value": 1000,
+        "question": "He orders Alice, \"Run home this moment, and fetch me a pair of gloves and a fan!  Quick now!\"",
+        "answer": "the White Rabbit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WILL THE REAL CHEMICAL ELEMENT PLEASE STAND UP?",
+        "value": 1000,
+        "question": "Technium, techniqium, technetium",
+        "answer": "technetium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EUROPEAN HOLIDAYS",
+        "value": 1000,
+        "question": "October 23 in this country is National Day, the day in 1956 when it rose up against Soviet rule",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LIFE OF BRIAN",
+        "value": 1000,
+        "question": "He must like old TV shows-- he directed the film versions of \"Mission: Impossible\" & \"The Untouchables\"",
+        "answer": "Brian de Palma",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TIME FOR SOME HAIR CARE",
+        "value": 1000,
+        "question": "Barbicide, used by barbers to disinfect salon equipment, says it's \"distinctly\" this color",
+        "answer": "blue",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPLIT \"N\"s",
+        "value": 1000,
+        "question": "A state's suspension of certain federal laws; S.C. attempted it with tariff laws in 1832",
+        "answer": "nullification",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CARNY ART",
+      "DRINKS",
+      "4-LETTER COUNTRY NAMES",
+      "SAME ROLE, SAME FILM",
+      "WORLD WAR II",
+      "THE END \"ZONE\""
+    ],
+    "clues": [
+      {
+        "category": "CARNY ART",
+        "value": 400,
+        "question": "The printmaking duo of Currier & him showed \"The Skating Carnival\" at Central Park in winter",
+        "answer": "Ives",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DRINKS",
+        "value": 400,
+        "question": "The 7/11 drink with this trademarked name was invented when some sodas were put in a freezer & became all slushy",
+        "answer": "a Slurpee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "4-LETTER COUNTRY NAMES",
+        "value": 400,
+        "question": "It's Andean",
+        "answer": "Peru",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SAME ROLE, SAME FILM",
+        "value": 400,
+        "question": "Harrison Young & Matt Damon as James Francis Ryan (1998)",
+        "answer": "Saving Private Ryan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 400,
+        "question": "This name for the group of countries that lost the war dates to a 1936 German-Italian pact",
+        "answer": "the Axis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE END \"ZONE\"",
+        "value": 400,
+        "question": "It's colorful football talk for the part of the field between the 20 & the goal line",
+        "answer": "the red zone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CARNY ART",
+        "value": 800,
+        "question": "In between cancans, he painted an advertisement for a Mardi Gras confetti-maker.",
+        "answer": "Toulouse-Lautrec",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DRINKS",
+        "value": 800,
+        "question": "There's a Marshmallow Madness variety of this rhyming brand of hot cocoa",
+        "answer": "Swiss Miss",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "4-LETTER COUNTRY NAMES",
+        "value": 800,
+        "question": "A communist country of southeast Asia",
+        "answer": "Laos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SAME ROLE, SAME FILM",
+        "value": 800,
+        "question": "Bobby Anderson & James Stewart as George Bailey (1946)",
+        "answer": "It's A Wonderful Life",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 800,
+        "question": "In 1940 de Gaulle said, \"the flame of French\" this, the name of the anti-Nazi underground, \"must never be quenched\"",
+        "answer": "the Resistance",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE END \"ZONE\"",
+        "value": 800,
+        "question": "The name of this Italian favorite, a half-moon-shaped stuffed pizza, means \"pant leg\"",
+        "answer": "a calzone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CARNY ART",
+        "value": 1200,
+        "question": "\"The Carnival of Animals\" by this hyphenated French composer was not performed publicly during his lifetime",
+        "answer": "(Camille) Saint-Saëns",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DRINKS",
+        "value": 1200,
+        "question": "This coffee drink is named for the resemblance of its color to that of a certain monk's habit",
+        "answer": "cappuccino",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "4-LETTER COUNTRY NAMES",
+        "value": 1200,
+        "question": "An Islamic sultanate",
+        "answer": "Oman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SAME ROLE, SAME FILM",
+        "value": 1200,
+        "question": "Ian Holm & Martin Freeman as Bilbo Baggins (2012)",
+        "answer": "The Hobbit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 1200,
+        "question": "This air marshal's Luftwaffe hammered England, resulting in nearly 40,000 civilian deaths",
+        "answer": "Hermann Goering",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE END \"ZONE\"",
+        "value": 1200,
+        "question": "\"Ride in\" to this top 10 hit from \"Top Gun\"",
+        "answer": "\"Danger Zone\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CARNY ART",
+        "value": 1600,
+        "question": "Here, Bruegel the Elder's workshop depicts, on one side, Carnival, and, on the other, this period that ends it.",
+        "answer": "Lent",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DRINKS",
+        "value": 1600,
+        "question": "This energy drink that comes in flavors like Juiced Mango uses a star for the \"A\" in its name",
+        "answer": "Rockstar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "4-LETTER COUNTRY NAMES",
+        "value": 1600,
+        "question": "A Pacific island republic",
+        "answer": "Fiji",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SAME ROLE, SAME FILM",
+        "value": 1600,
+        "question": "Mayim Bialik & Bette Midler as singer C.C. Bloom (1988)",
+        "answer": "Beaches",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 1600,
+        "question": "On May 6, 1942 U.S. troops on this fortress island in Manila Bay surrendered to the Japanese",
+        "answer": "Corregidor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE END \"ZONE\"",
+        "value": 1600,
+        "question": "Each one of these is about 15 degrees of longitude wide",
+        "answer": "a time zone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CARNY ART",
+        "value": 2000,
+        "question": "The weirdness of carnivals was a natural subject for painters following this -ism, like Rouault & Beckmann",
+        "answer": "expressionism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DRINKS",
+        "value": 2000,
+        "question": "This traditional Greek wine is treated with pine tree resin, which gives it a distinct flavor of turpentine",
+        "answer": "retsina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "4-LETTER COUNTRY NAMES",
+        "value": 2000,
+        "question": "French troops started fighting jihadists there in January 2013",
+        "answer": "Mali",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SAME ROLE, SAME FILM",
+        "value": 2000,
+        "question": "Toby Stephens & Clint Eastwood as astronaut Frank Corvin (2000)",
+        "answer": "Space Cowboys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 2000,
+        "question": "This British field marshal was in charge of all Allied ground troops during D-Day",
+        "answer": "Montgomery",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE END \"ZONE\"",
+        "value": 2000,
+        "question": "It roughly follows the 38th parallel for about 150 miles",
+        "answer": "the Demilitarized Zone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN WRITERS",
+    "clue": "Contemporary reviews called this writer \"A Yankee Diogenes\" & the \"Concord Diogenes\"",
+    "answer": "Henry David Thoreau"
+  },
+  "gameId": "6625",
+  "gameDate": "Friday, June 7, 2013"
+}

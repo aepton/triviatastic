@@ -1,0 +1,574 @@
+{
+  "title": "Show #6166 - Monday, June 6, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "WE'RE ANIMATED ABOUT BOOKS",
+      "TOAST",
+      "ANCIENT VIPs",
+      "WE MAKE MONEY",
+      "THE OLD-FASHIONED WAY",
+      "WE \"URN\" IT"
+    ],
+    "clues": [
+      {
+        "category": "WE'RE ANIMATED ABOUT BOOKS",
+        "value": 200,
+        "question": "This novel is all about our Depression",
+        "answer": "The Grapes of Wrath",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TOAST",
+        "value": 200,
+        "question": "StarKist's recipe for this grilled sandwich includes toast, onion, celery, mayo & cheese",
+        "answer": "a tuna melt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 200,
+        "question": "Although it's known that this Hun died on his wedding night in 453, it's not known how he died",
+        "answer": "Attila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WE MAKE MONEY",
+        "value": 200,
+        "question": "When created by Congress in 1792, the Mint was part of this department more concerned with foreign affairs",
+        "answer": "the State Department",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE OLD-FASHIONED WAY",
+        "value": 200,
+        "question": "Before iPods & CDs, we spun these, LPs for short",
+        "answer": "long playing recordings",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WE \"URN\" IT",
+        "value": 200,
+        "question": "A long, narrow hospital bed on wheels",
+        "answer": "a gurney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WE'RE ANIMATED ABOUT BOOKS",
+        "value": 400,
+        "question": "Warning--this Alan Moore novel is extremely graphic",
+        "answer": "Watchmen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TOAST",
+        "value": 400,
+        "question": "\"Everything's better with\" this margarine brand on my toast",
+        "answer": "Blue Bonnet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 400,
+        "question": "Demosthenes wrote that the second king of this name wasn't Greek but a \"pestilent knave from Macedonia\"",
+        "answer": "Philip",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WE MAKE MONEY",
+        "value": 400,
+        "question": "The first U.S. Mint building was in this city, then the nation's capital",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE OLD-FASHIONED WAY",
+        "value": 400,
+        "question": "Wikileaks, shmiki-leaks--we read the Pentagon Papers in this paper that's in the name of the resulting Supreme Court case",
+        "answer": "The New York Times",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WE \"URN\" IT",
+        "value": 400,
+        "question": "This adjective means an animal is awake & active mostly at night",
+        "answer": "nocturnal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WE'RE ANIMATED ABOUT BOOKS",
+        "value": 600,
+        "question": "It's about little kids, but not necessarily for little kids",
+        "answer": "Lord of the Flies",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TOAST",
+        "value": 600,
+        "question": "Cole's quality foods claims the 1970s introduction of this Italian restaurant bread in frozen form",
+        "answer": "garlic bread",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 600,
+        "question": "Plato referred to this Athenian philosopher & mentor as \"the justest man of that time\"",
+        "answer": "Socrates",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WE MAKE MONEY",
+        "value": 600,
+        "question": "The Mint maintains a bullion depository at this Kentucky location",
+        "answer": "Fort Knox",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE OLD-FASHIONED WAY",
+        "value": 600,
+        "question": "We didn't need Cris Collinsworth or even John Madden on \"MNF\", we had this man who wrote \"I Never Played the Game\"",
+        "answer": "(Howard) Cosell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WE \"URN\" IT",
+        "value": 600,
+        "question": "Technically it's caused by gastroesophageal backflow",
+        "answer": "heartburn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WE'RE ANIMATED ABOUT BOOKS",
+        "value": 800,
+        "question": "I finally caved & read this 1924 British novel",
+        "answer": "A Passage to India",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TOAST",
+        "value": 800,
+        "question": "If you're ailing, your diet might be reduced to toast & this, such as Lady Grey",
+        "answer": "tea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 800,
+        "question": "At birth this ancient sage of China was given the name Ch'iu, meaning \"hill\", because he had a noticeable bulge on his head",
+        "answer": "Confucius",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WE MAKE MONEY",
+        "value": 800,
+        "question": "The Mint's 3 main coin-producing facilities include the one begun in 1852 in this city to address a sudden \"rush\"",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE OLD-FASHIONED WAY",
+        "value": 800,
+        "question": "Who needs Ryan Seacrest or even Dick Clark?  For years we enjoyed this man & his Royal Canadians on New Year's Eve",
+        "answer": "Guy Lombardo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WE \"URN\" IT",
+        "value": 800,
+        "question": "To temporarily end a legal proceeding",
+        "answer": "adjourn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WE'RE ANIMATED ABOUT BOOKS",
+        "value": 1000,
+        "question": "This 1993 Welsh novel is actually about Scotland.",
+        "answer": "Trainspotting",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TOAST",
+        "value": 1000,
+        "question": "I like to spread the jelly of this tropical fruit on my muffin",
+        "answer": "a guava",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 1000,
+        "question": "This \"elder\" Roman writer died in 79 A.D. while rescuing people from Mount Vesuvius' eruption",
+        "answer": "Pliny (the Elder)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WE MAKE MONEY",
+        "value": 1000,
+        "question": "Soon after the Constitution's ratification, this Secretary of the Treasury prepared plans for a U.S. mint",
+        "answer": "Hamilton",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE OLD-FASHIONED WAY",
+        "value": 1000,
+        "question": "Who needs Megan Fox or Eva Mendes?  We remember Raquel Welch busting out in this prehistoric potboiler",
+        "answer": "One Million Years B.C.",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WE \"URN\" IT",
+        "value": 1000,
+        "question": "An orgiastic, unrestrained festival in ancient Rome bearing the name of a god",
+        "answer": "Saturnalia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ROCK YOUR WORLD",
+      "CAPITAL CITY BIRTHPLACES",
+      "LAND OF LANDSCAPES",
+      "100 YEARS OR OLDER",
+      "WHAT DID JESUS DO?",
+      "\"OD\" WORDS"
+    ],
+    "clues": [
+      {
+        "category": "ROCK YOUR WORLD",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew shows off a rock in the University of Wisconsin-Madison Geology Museum.)  The University of Wisconsin-Madison Geology Museum has the state rock of Wisconsin; not to be confused with the state rock of New Hampshire, it's the red type of this",
+        "answer": "granite",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 400,
+        "question": "Bjork",
+        "answer": "Reykjavik",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LAND OF LANDSCAPES",
+        "value": 400,
+        "question": "Neptune's Grotto in this classical city attracted many artists",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "100 YEARS OR OLDER",
+        "value": 400,
+        "question": "Marjory Stoneman Douglas spent much of her 108 years fighting to preserve this wetlands region of Florida",
+        "answer": "the Everglades",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHAT DID JESUS DO?",
+        "value": 400,
+        "question": "In Mark 1:Got baptized by (who else?) John the Baptist in this river",
+        "answer": "the Jordan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"OD\" WORDS",
+        "value": 400,
+        "question": "A late 1960s TV \"squad\"",
+        "answer": "The Mod Squad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ROCK YOUR WORLD",
+        "value": 800,
+        "question": "Formed by magma, this one of the 3 major types of rock may be plutonic, or formed deep in the Earth",
+        "answer": "igneous",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 800,
+        "question": "Julio & Enrique Iglesias",
+        "answer": "Madrid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LAND OF LANDSCAPES",
+        "value": 800,
+        "question": "This Rubens work is fittingly titled \"Landscape in\" this region, with which the artist is identified",
+        "answer": "Flanders",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "100 YEARS OR OLDER",
+        "value": 800,
+        "question": "Pleasant Riggs Crump, who died in 1951 at the age of 104, was one of the last surviving soldiers of this war",
+        "answer": "the Civil War",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT DID JESUS DO?",
+        "value": 800,
+        "question": "In John 2:Attended a wedding & performed this trick guaranteed to make him the life of any party",
+        "answer": "water into wine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"OD\" WORDS",
+        "value": 800,
+        "question": "From the name of a mythological hero, it's an extended trip, or an intellectual or spiritual quest",
+        "answer": "odyssey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ROCK YOUR WORLD",
+        "value": 1200,
+        "question": "A schism is a division into faction; this type of rock, one letter different from \"schism\", has distinct layers",
+        "answer": "a schist",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 1200,
+        "question": "Elizabeth Taylor",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LAND OF LANDSCAPES",
+        "value": 1200,
+        "question": "The 1444 work \"Miraculous Draught of Fishes\" sets the biblical miracle on this Alpine lake",
+        "answer": "Lake Geneva",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "100 YEARS OR OLDER",
+        "value": 1200,
+        "question": "Eve, a daughter of this pair & the only member of her family not to become a scientist & win a Nobel Prize, died in 2007 at 102",
+        "answer": "the Curies",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT DID JESUS DO?",
+        "value": 1200,
+        "question": "In Luke 2:As a 12-year-old, played hooky from his parents on a visit to this city & hung out at its temple",
+        "answer": "Jerusalem",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"OD\" WORDS",
+        "value": 1200,
+        "question": "From the Dutch for \"slice\", it's a young haddock split & boned for cooking as catch of the day",
+        "answer": "scrod",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ROCK YOUR WORLD",
+        "value": 1600,
+        "question": "Dacite is volcanic rock characterized by the presence of this common form of silicon dioxide",
+        "answer": "quartz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 1600,
+        "question": "Andy Garcia",
+        "answer": "Havana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LAND OF LANDSCAPES",
+        "value": 1600,
+        "question": "Born near Dusseldorf in 1830, Albert Bierstadt traveled far to paint this California-Nevada lake",
+        "answer": "Tahoe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "100 YEARS OR OLDER",
+        "value": 1600,
+        "question": "This actress who played 100-year-old Rose in \"Titanic\" passed away at 100 in 2010",
+        "answer": "Gloria Stuart",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT DID JESUS DO?",
+        "value": 1600,
+        "question": "In Matthew 5-7:Blessed a big bunch o' folks in this address that includes the beatitudes",
+        "answer": "the Sermon on the Mount",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"OD\" WORDS",
+        "value": 1600,
+        "question": "Thomas Edison developed a method to extract rubber from this yellow wildflower but it proved too expensive",
+        "answer": "goldenrod",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ROCK YOUR WORLD",
+        "value": 2000,
+        "question": "Scattered material that can include sand & dust is called this \"rock\", after the layer below the Earth's crust",
+        "answer": "mantle (rock)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 2000,
+        "question": "Lena Olin",
+        "answer": "Stockholm",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LAND OF LANDSCAPES",
+        "value": 2000,
+        "question": "In 1897 Monet painted \"Branch of the Seine Near\" this small village he grew to know well",
+        "answer": "Giverny",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "100 YEARS OR OLDER",
+        "value": 2000,
+        "question": "In his 100 years this French anthropologist erroneously received numerous orders for blue jeans",
+        "answer": "(Claude) Lévi-Strauss",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHAT DID JESUS DO?",
+        "value": 2000,
+        "question": "In Matthew 21:Cursed one of these trees for being all leaf, no fruit",
+        "answer": "a fig tree",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"OD\" WORDS",
+        "value": 2000,
+        "question": "An old gun accessory, or an overseer, like Clint Eastwood as Rowdy Yates on TV's \"Rawhide\"",
+        "answer": "ramrod",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COLORFUL TITLES",
+    "clue": "At its premiere in NYC in 1924 this composition was part of a concert billed as \"an experiment in modern music\"",
+    "answer": "Rhapsody in Blue"
+  },
+  "gameId": "6166",
+  "gameDate": "Monday, June 6, 2011"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1987 - Tuesday, April 6, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "THE 20th CENTURY",
+      "THE OSCARS",
+      "MUSEUMS",
+      "DOGS",
+      "ANNUAL EVENTS",
+      "3-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "THE 20th CENTURY",
+        "value": 100,
+        "question": "When the Luces started this photo-filled magazine in 1936, its price was 10¢",
+        "answer": "Life",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 100,
+        "question": "The Academy showed good \"taste\" in giving him a \"Best Actor\" Oscar for \"The Silence of the Lambs\"",
+        "answer": "Anthony Hopkins",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 100,
+        "question": "Springer, New Mexico boasts a museum named for this Old West trail",
+        "answer": "the Santa Fe Trail",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DOGS",
+        "value": 100,
+        "question": "This tiny breed is believed to be descended from a Toltec dog called the Techichi",
+        "answer": "a Chihuahua",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 100,
+        "question": "October 23 is the traditional day on which these birds depart San Juan Capistrano",
+        "answer": "the swallows",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 100,
+        "question": "This term usually refers to a domesticated pig weighing over 120 pounds",
+        "answer": "a hog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 200,
+        "question": "Richard Suskind & this co-author received prison terms for the Howard Hughes bio Hoax",
+        "answer": "Clifford Irving",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 200,
+        "question": "When she won an Oscar for \"Terms of Endearment\", she cracked, \"I deserve this\"",
+        "answer": "Shirley MacLaine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 200,
+        "question": "Look sharply & you'll find the National Knife Museum in this city known for its choo-choo",
+        "answer": "Chattanooga",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DOGS",
+        "value": 200,
+        "question": "Washington is said to have received several of these short, sad-faced hounds as a gift from Lafayette",
+        "answer": "a Basset",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 200,
+        "question": "National Aviation Day, August 19, is observed on the birthday of this pilot of the 1st motor- powered flight",
+        "answer": "Orville Wright",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 200,
+        "question": "It can mean to snoop, or to force open with a lever",
+        "answer": "to pry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 300,
+        "question": "On July 3, 1976 Israeli commandos \"raided\" this Ugandan airport",
+        "answer": "Entebbe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 300,
+        "question": "Bette Davis presented him with a \"Best Actor\" award for \"On The Waterfront\", & he accepted it",
+        "answer": "Marlon Brando",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 300,
+        "question": "His \"The Starry Night\" is one of the stellar attractions in New York City's Museum of Modern Art",
+        "answer": "Van Gogh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DOGS",
+        "value": 300,
+        "question": "For years many of these dogs in Switzerland were called \"Barryhunde\" after Barry, who saved 40 lives",
+        "answer": "a St. Bernard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 300,
+        "question": "Deadwood in this state has a Days of '76 celebration commemorating the gold rush in the Black Hills",
+        "answer": "South Dakota",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 300,
+        "question": "In computerese it's a word for a tiny piece of information",
+        "answer": "a bit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 400,
+        "question": "The first U.S. blues singer to tour the Soviet Union, his guitar is named Lucille",
+        "answer": "B.B. King",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 400,
+        "question": "This actor received 2 Oscar nominations for playing the same role in 2 \"Godfather\" films",
+        "answer": "Al Pacino",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 400,
+        "question": "The Arizona Hall of Fame & the Hall of Flame are both in this capital city",
+        "answer": "Phoenix",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DOGS",
+        "value": 400,
+        "question": "Of several Arctic dogs called huskies, it's the only purebred",
+        "answer": "the Siberian Husky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 400,
+        "question": "Salley, S.C. has a day in November named for & devoted to these pig intestines",
+        "answer": "chitlins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 400,
+        "question": "It can be a practical joke, something put over the mouth, or an obstacle to free speech",
+        "answer": "a gag",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 1000,
+        "question": "In 1957 this governor called in the National Guard to stop the integration of a Little Rock high school",
+        "answer": "Orval Faubus",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 500,
+        "question": "Mary Badham was such a good \"Scout\" in this Gregory Peck film that she received a 1962 Oscar nomination",
+        "answer": "To Kill a Mockingbird",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 500,
+        "question": "Sir Henry Tate, a sugar refining magnate, founded the museum now known as the Tate Gallery in this city",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DOGS",
+        "value": 500,
+        "question": "The earliest known record of this once- royal dog dates back to the Tang Dynasty of the 8th century",
+        "answer": "a Pekingese",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 500,
+        "question": "This city's Mark Twain Historic District is the site of the Mississippi River Art Festival in May",
+        "answer": "Hannibal (Missouri)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 500,
+        "question": "In tennis this high- arcing shot is designed to land behind an opponent",
+        "answer": "a lob",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SOUTH CAROLINA",
+      "COLLEGES & UNIVERSITIES",
+      "THE ELEMENTS",
+      "WOMEN IN MYTHOLOGY",
+      "ROYALTY",
+      "BOOKS & AUTHORS"
+    ],
+    "clues": [
+      {
+        "category": "SOUTH CAROLINA",
+        "value": 200,
+        "question": "This Confederate president's last cabinet meeting took place in Abbeville, S.C.",
+        "answer": "Jefferson Davis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 200,
+        "question": "The University of Paris grew out of the medieval schools of this cathedral",
+        "answer": "Notre Dame",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 200,
+        "question": "In Japan seaweed is a major source of this element identified by the symbol I",
+        "answer": "iodine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN MYTHOLOGY",
+        "value": 200,
+        "question": "She had \"the face that launched a thousand ships\"",
+        "answer": "Helen of Troy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ROYALTY",
+        "value": 200,
+        "question": "This emperor tried to blame the Christians for burning Rome in the year 64 A.D.",
+        "answer": "Nero",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "The first sequel to this Astrid Lindgren book about a red-headed girl is \"Pippi Goes On Board\"",
+        "answer": "Pippi Longstocking",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SOUTH CAROLINA",
+        "value": 400,
+        "question": "In 1786 the state capital was moved from Charleston to this city",
+        "answer": "Columbia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 400,
+        "question": "It's the 3-part college board test used by schools to decide which students to accept",
+        "answer": "the SATs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 400,
+        "question": "The name of this element means \"water forming\"",
+        "answer": "hydrogen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN MYTHOLOGY",
+        "value": 400,
+        "question": "In order to ensure their purity, these attendants of Vesta were chosen at ages 6-10",
+        "answer": "the Vestal Virgins",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ROYALTY",
+        "value": 400,
+        "question": "Humayun, the second Mogul ruler of this country, died in 1556 after falling down a staircase",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 400,
+        "question": "\"What Is Remembered\" is the 1963 autobiography of this associate of Gertrude Stein",
+        "answer": "Alice B. Toklas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SOUTH CAROLINA",
+        "value": 600,
+        "question": "This war's Battles of Cowpens & King's Mountain were fought in South Carolina",
+        "answer": "the Revolutionary War",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 600,
+        "question": "Food lovers can go to Berry in Georgia, Mount Olive in North Carolina or Rice in this state",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 600,
+        "question": "The odor given off by cooking cabbage & turnips is due to this element also found in eggs",
+        "answer": "sulfur",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN MYTHOLOGY",
+        "value": 600,
+        "question": "Zeus once punished this jealous wife by suspending her from the sky with Anvils tied to her feet",
+        "answer": "Hera",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ROYALTY",
+        "value": 600,
+        "question": "In 336 B.C. this king of Macedonia was assassinated at his daughter's wedding",
+        "answer": "Philip",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 600,
+        "question": "His second book, \"Omoo\", was based on his experiences as a mutineer in Polynesia in 1842",
+        "answer": "Herman Melville",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SOUTH CAROLINA",
+        "value": 800,
+        "question": "In 1964 this South Carolina senator switched from Democrat to Republican",
+        "answer": "Strom Thurmond",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 800,
+        "question": "In 1873 he left $3,500,000 to found a hospital & an equal amount to found a university in Baltimore",
+        "answer": "Johns Hopkins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 800,
+        "question": "Pierre Janssen first noted this element in 1868 while studying the Sun's chromosphere",
+        "answer": "helium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN MYTHOLOGY",
+        "value": 800,
+        "question": "During Ulysses' absence, she put off suitors by weaving a never-ending shroud",
+        "answer": "Penelope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ROYALTY",
+        "value": 800,
+        "question": "James V was the seventh member of this family to become king of Scotland",
+        "answer": "the Stuarts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 800,
+        "question": "This author of \"The World According to Garp\" called it \"an artfully disguised soap opera\"",
+        "answer": "John Irving",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SOUTH CAROLINA",
+        "value": 1000,
+        "question": "This famous resort is the largest island between New Jersey & Florida",
+        "answer": "Hilton Head Island",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 2000,
+        "question": "2 of the 3 universities attended by Bill Clinton",
+        "answer": "(2 of) Yale, Oxford & Georgetown",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 2000,
+        "question": "Named for Marie Curie's homeland, it was the 1st element to be discovered by means of its radioactivity",
+        "answer": "polonium",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN MYTHOLOGY",
+        "value": 1000,
+        "question": "This woman whose name means \"all gifted\" was fashioned out of clay by Hephaestus",
+        "answer": "Pandora",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ROYALTY",
+        "value": 1000,
+        "question": "This \"Mad King\" of Bavaria drowned himself a few days after he was deposed in 1886",
+        "answer": "(Mad King) Ludwig",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1000,
+        "question": "In this 1962 book, Nixon said, \"The Hiss case brought me national fame\"",
+        "answer": "Six Crises",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS HOMES",
+    "clue": "There's a famous home on a piece of land called Walker's Point in this U.S. town",
+    "answer": "Kennebunkport, Maine"
+  },
+  "gameId": "1987",
+  "gameDate": "Tuesday, April 6, 1993"
+}

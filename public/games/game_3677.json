@@ -1,0 +1,574 @@
+{
+  "title": "Show #6177 - Tuesday, June 21, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "SOUTH AMERICAN GEOGRAPHY",
+      "TEAM PLAYERS",
+      "CONTROLLED \"BURN\"",
+      "STATE THE SENATOR",
+      "GHOUL-ASH",
+      "THAT'S THE SPIRIT"
+    ],
+    "clues": [
+      {
+        "category": "SOUTH AMERICAN GEOGRAPHY",
+        "value": 200,
+        "question": "This country has coastlines on both the Caribbean Sea and the Pacific Ocean",
+        "answer": "Colombia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TEAM PLAYERS",
+        "value": 200,
+        "question": "1981:Steve Garvey, Fernando Valenzuela, Ron Cey (The Penguin)",
+        "answer": "the Los Angeles Dodgers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CONTROLLED \"BURN\"",
+        "value": 200,
+        "question": "Divine talkative plant of Exodus Chapter 3",
+        "answer": "burning bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE THE SENATOR",
+        "value": 200,
+        "question": "In 2009 the woman pictured here ended her service to this state",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GHOUL-ASH",
+        "value": 200,
+        "question": "In Arabic folklore, ghouls were spirits said to be offspring of Iblis, this religion's prince of darkness",
+        "answer": "Islam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THAT'S THE SPIRIT",
+        "value": 200,
+        "question": "Skyy &Smirnoff",
+        "answer": "vodka",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SOUTH AMERICAN GEOGRAPHY",
+        "value": 400,
+        "question": "Founded in 1554, this city is Brazil's industrial & financial center",
+        "answer": "Sao Paulo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TEAM PLAYERS",
+        "value": 400,
+        "question": "1990-91:John Paxson, Horace Grant, Scottie Pippen... I feel like we're leaving someone out",
+        "answer": "the Chicago Bulls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CONTROLLED \"BURN\"",
+        "value": 400,
+        "question": "A cow knocking over a candle, or something really exciting",
+        "answer": "a barnburner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE THE SENATOR",
+        "value": 400,
+        "question": "The politician seen here helping me out with Final Jeopardy! had served this state for more than 20 years",
+        "answer": "Arizona",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GHOUL-ASH",
+        "value": 400,
+        "question": "The family of this best friend of Harry Potter has a ghoul living in his attic",
+        "answer": "Ron Weasley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THAT'S THE SPIRIT",
+        "value": 400,
+        "question": "Bacardi &Myers's",
+        "answer": "rum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SOUTH AMERICAN GEOGRAPHY",
+        "value": 600,
+        "question": "(Kelly of the Clue Crew shows a map on the monitor.)  In 1860 the United Provinces of La Plata changed its name to Argentina; 21 years later, it expanded its territory by adding this region whose name comes from the Spanish for \"big foot\"",
+        "answer": "Patagonia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TEAM PLAYERS",
+        "value": 600,
+        "question": "2004:Curt Schilling, David Ortiz, Mike Myers (No way!  Way!)",
+        "answer": "the Boston Red Sox",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CONTROLLED \"BURN\"",
+        "value": 600,
+        "question": "When it opened its doors as a private liberal arts institution in 1859, it was called East Alabama Male College",
+        "answer": "Auburn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE THE SENATOR",
+        "value": 600,
+        "question": "The gentleman seen here won a seat for this state in 1984",
+        "answer": "Tennessee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GHOUL-ASH",
+        "value": 600,
+        "question": "Edgar Allan Poe referred to ghouls in the 4th section of this poem about objects that jingle, tinkle & clang",
+        "answer": "The Bells",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THAT'S THE SPIRIT",
+        "value": 600,
+        "question": "Glenlivet &Chivas Regal",
+        "answer": "scotch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SOUTH AMERICAN GEOGRAPHY",
+        "value": 800,
+        "question": "Juliana Top, this country's highest point, was named for a Dutch Queen",
+        "answer": "Suriname",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TEAM PLAYERS",
+        "value": 800,
+        "question": "1984-85:Wayne Gretzky, Mark Messier, Grant Fuhr, 3 of the 6 future Hall of Famers on the roster",
+        "answer": "the Edmonton Oilers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CONTROLLED \"BURN\"",
+        "value": 800,
+        "question": "The title of this TV show is what informs a spy that he has been let go",
+        "answer": "Burn Notice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE THE SENATOR",
+        "value": 800,
+        "question": "In 1964 the man seen here was appointed to serve this state",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GHOUL-ASH",
+        "value": 800,
+        "question": "In \"Attack of the Graveyard Ghouls\", a book in this series, the ghouls were green mist",
+        "answer": "Goosebumps",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THAT'S THE SPIRIT",
+        "value": 800,
+        "question": "Gekkeikan &Ozeki",
+        "answer": "sake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SOUTH AMERICAN GEOGRAPHY",
+        "value": 1000,
+        "question": "Punta Pariñas, South America's westernmost mainland point, lies in this country's Talara province",
+        "answer": "Peru",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TEAM PLAYERS",
+        "value": 1000,
+        "question": "1977:Golden Richards, Billy Joe DuPree, Roger Staubach... all were offensive minded",
+        "answer": "the Dallas Cowboys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CONTROLLED \"BURN\"",
+        "value": 1000,
+        "question": "It came between Drexel & Lambert in the name of Michael Milkin's old brokerage firm",
+        "answer": "Burnham",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE THE SENATOR",
+        "value": 1000,
+        "question": "In 2000 the Republican here became the first man from this state to be popularly elected 5 times to the Senate",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GHOUL-ASH",
+        "value": 1000,
+        "question": "George Romero called the creatures in this 1968 flick \"marauding ghouls\", not zombies",
+        "answer": "Night of the Living Dead",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THAT'S THE SPIRIT",
+        "value": 1000,
+        "question": "Hendrick's &Boodles",
+        "answer": "gin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "INTERNATIONAL YEAR OF CHEMISTRY",
+      "MUSICAL THEATER",
+      "PAPAL BULLS",
+      "WRITERS' RELATIVES",
+      "WHAT DO U STAND FOR?",
+      "NOTHING"
+    ],
+    "clues": [
+      {
+        "category": "INTERNATIONAL YEAR OF CHEMISTRY",
+        "value": 400,
+        "question": "The celebratory year 2011 marks 100 years since this radiant scientist's Nobel Prize for Chemistry",
+        "answer": "Marie Curie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATER",
+        "value": 400,
+        "question": "In \"Kiss Me, Kate\", the characters, as actors, perform this Shakespeare play at Ford's Theatre in Baltimore",
+        "answer": "The Taming of the Shrew",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PAPAL BULLS",
+        "value": 400,
+        "question": "He issued the most recent Papal bull, \"Incarnationis mysterium\", \"The mystery of the Incarnation\", in 1988",
+        "answer": "Pope John Paul II",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WRITERS' RELATIVES",
+        "value": 400,
+        "question": "While director of scientific affairs for this company, Joyce Kilmer's father invented its baby powder",
+        "answer": "Johnson & Johnson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHAT DO U STAND FOR?",
+        "value": 400,
+        "question": "In UFO, possibly an alien craft",
+        "answer": "unidentified",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NOTHING",
+        "value": 400,
+        "question": "This word for \"nothing\" precedes \"and void\" to mean \"not valid\"",
+        "answer": "null",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "INTERNATIONAL YEAR OF CHEMISTRY",
+        "value": 800,
+        "question": "You exhale this gas first identified by British scientist Joseph Black in the 1750s",
+        "answer": "carbon dioxide",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATER",
+        "value": 800,
+        "question": "With Glenn Close starring as Norma Desmond, it opened in 1994 with the greatest advanced sales in Broadway history",
+        "answer": "Sunset Boulevard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PAPAL BULLS",
+        "value": 800,
+        "question": "Leo X's 1521 bull \"Decet Romanum Pontificem\" booted this guy out of the Catholic Church",
+        "answer": "Martin Luther",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WRITERS' RELATIVES",
+        "value": 800,
+        "question": "The state song \"On the Banks of the Wabash, Far Away\", was written by the brother of this \"Sister Carrie\" author",
+        "answer": "(Theodore) Dreiser",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT DO U STAND FOR?",
+        "value": 800,
+        "question": "In SCUBA",
+        "answer": "underwater",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NOTHING",
+        "value": 800,
+        "question": "Something that is in vain is \"all for\" this, from the Old English for \"nothing\"",
+        "answer": "naught",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "INTERNATIONAL YEAR OF CHEMISTRY",
+        "value": 1200,
+        "question": "A chemical known as an anhydride is one that removes this from substances",
+        "answer": "water",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATER",
+        "value": 1200,
+        "question": "\"Tornado Ballet\", \"Mean Ole Lion\" & \"Funky Monkeys\" were songs featured in this 1975 musical",
+        "answer": "The Wiz",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PAPAL BULLS",
+        "value": 1200,
+        "question": "Gregory XIII's bull of February 1582 reformed this",
+        "answer": "the calendar",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WRITERS' RELATIVES",
+        "value": 1200,
+        "question": "This \"Naked Lunch\" author was named for his paternal grandfather, who invented the adding machine",
+        "answer": "(William) Burroughs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT DO U STAND FOR?",
+        "value": 1200,
+        "question": "In the government department HUD",
+        "answer": "Urban",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NOTHING",
+        "value": 1200,
+        "question": "In \"Casablanca\" Rick says, \"It doesn't take much to see that the problems of three little people don't amount to\" this",
+        "answer": "a hill of beans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "INTERNATIONAL YEAR OF CHEMISTRY",
+        "value": 1600,
+        "question": "Chemist Frederick Soddy came up with this term for atoms having the same nuclear charge but different masses",
+        "answer": "isotopes",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATER",
+        "value": 1600,
+        "question": "This triple Tony-winning show bears the name of Nigerian musician Kuti",
+        "answer": "Fela!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PAPAL BULLS",
+        "value": 1600,
+        "question": "John XXIII's bull of December 25, 1961 summoned the second of these",
+        "answer": "the Vatican Council",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WRITERS' RELATIVES",
+        "value": 1600,
+        "question": "This acting son of British Poet Laureate Cecil won Oscars in 1990 & 2008",
+        "answer": "Daniel Day-Lewis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT DO U STAND FOR?",
+        "value": 1600,
+        "question": "In the ACLU",
+        "answer": "Union",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NOTHING",
+        "value": 1600,
+        "question": "This man's \"choice\" is the absence of a real alternative--you take that which is offered or nothing",
+        "answer": "Hobson's choice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "INTERNATIONAL YEAR OF CHEMISTRY",
+        "value": 2000,
+        "question": "A solid can be finely analyzed using the EELS technique, which studies energy loss in these particles",
+        "answer": "the electrons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATER",
+        "value": 2000,
+        "question": "When this musical was tried out before moving to Broadway, it was known as \"The Princess and the Pea\"",
+        "answer": "Once Upon a Mattress",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PAPAL BULLS",
+        "value": 2000,
+        "question": "Clement V's 1312 \"Vox in excelso\" disbanded this knightly order",
+        "answer": "the Knights Templar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WRITERS' RELATIVES",
+        "value": 2000,
+        "question": "His father Nathaniel was a successful writer & his grandfather Robert was a noted humorist & drama critic",
+        "answer": "Peter Benchley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHAT DO U STAND FOR?",
+        "value": 2000,
+        "question": "In the committee known as HUAC",
+        "answer": "Un-American",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NOTHING",
+        "value": 2000,
+        "question": "In math, a solution to an equation in which the value of every variable is equal to zero is called this, like certain \"pursuits\"",
+        "answer": "trivial",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "DOGS",
+    "clue": "This alliterative dog breed bears the former name of an African country",
+    "answer": "Rhodesian Ridgeback"
+  },
+  "gameId": "6177",
+  "gameDate": "Tuesday, June 21, 2011"
+}

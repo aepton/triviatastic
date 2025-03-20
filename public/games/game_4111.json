@@ -1,0 +1,574 @@
+{
+  "title": "Show #1518 - Wednesday, March 20, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "GEOGRAPHY",
+      "PEOPLE",
+      "CARDS & DICE",
+      "HISTORIC QUOTES",
+      "FOOD",
+      "MEETING PLACES"
+    ],
+    "clues": [
+      {
+        "category": "GEOGRAPHY",
+        "value": 100,
+        "question": "2-word name of the island shared by England, Wales & Scotland",
+        "answer": "Great Britain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 100,
+        "question": "This \"Wheel of Fortune\" host called his new baby \"my most successful late-night production\"",
+        "answer": "Pat Sajak",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CARDS & DICE",
+        "value": 100,
+        "question": "Card game that's the equivalent of the French \"vingt-et-un\"",
+        "answer": "blackjack",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 100,
+        "question": "Lewis' companion, who wrote in 1805, \"Ocean in view.  O the joy\" when he first saw the Pacific",
+        "answer": "Clark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD",
+        "value": 100,
+        "question": "Sauce for salad, or stuffing for a fowl",
+        "answer": "dressing",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MEETING PLACES",
+        "value": 100,
+        "question": "Dozens of nations will meet in this city in 1996 for the centennial Olympic Games",
+        "answer": "Atlanta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 200,
+        "question": "Fur trader Peter Ogden has a city named after him in this U.S. state",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 200,
+        "question": "This father of Lynn & Vanessa defined an actor as \"a man with an infinite capacity for taking praise\"",
+        "answer": "Michael Redgrave",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CARDS & DICE",
+        "value": 200,
+        "question": "It describes one die that has landed atop another after a throw, or a .45 with the hammer pulled",
+        "answer": "cocked",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 200,
+        "question": "At the 1968 Dem. Convention, this mayor stumbled & said, \"The police are here to preserve disorder\"",
+        "answer": "Richard (J.) Daley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "To soak meat in a liquid mixture in order to flavor, tenderize or preserve it",
+        "answer": "marinate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MEETING PLACES",
+        "value": 200,
+        "question": "As president, Kennedy first met Khrushchev in this city where Mozart first met Haydn",
+        "answer": "Vienna",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 300,
+        "question": "Its inhabitants are called Emiratis",
+        "answer": "United Arab Emirates",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 300,
+        "question": "Roger Rees played Nicholas Nickleby on the stage before playing Robin Colcord on this sitcom",
+        "answer": "Cheers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CARDS & DICE",
+        "value": 300,
+        "question": "The symbols on cards are also called these, like the dots on a die",
+        "answer": "pips",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 300,
+        "question": "Latin students know his geography lesson that begins, \"All Gaul is divided into three parts\"",
+        "answer": "Julius Caesar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD",
+        "value": 300,
+        "question": "Name shared by an ice cream containing ground nuts or macaroons & a rich, creamy shellfish soup",
+        "answer": "bisque",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MEETING PLACES",
+        "value": 300,
+        "question": "Site in Rome where friends, Romans & countrymen lent their ears to Mark Antony",
+        "answer": "the Forum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 400,
+        "question": "You can see Mt. Everest from this West Bengal, India city that gave its name to a famous tea",
+        "answer": "Darjeeling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 400,
+        "question": "On Oct. 27, 1989 she hugged Deborah Norville on the air & gave her an alarm clock",
+        "answer": "Jane Pauley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CARDS & DICE",
+        "value": 400,
+        "question": "In bridge it's the hand not played by the player to whom it was dealt",
+        "answer": "dummy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 400,
+        "question": "19th C. German who said the great questions of the time must be settled \"by iron and blood\"",
+        "answer": "Otto von Bismarck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "The name of this small Oriental citrus fruit is from the Chinese for \"golden orange\"",
+        "answer": "kumquat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MEETING PLACES",
+        "value": 400,
+        "question": "Meeting at this Crimean resort, the \"Big 3\" decided that a 4th power, France, would occupy part of Germany",
+        "answer": "Yalta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 500,
+        "question": "Belize, we believe is on this peninsula",
+        "answer": "Yucatan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 500,
+        "question": "This Spanish-born bandleader who died at age 90 in 1990 was a child concert violinist",
+        "answer": "Xavier Cugat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CARDS & DICE",
+        "value": 500,
+        "question": "If you roll a die & the 1 is on top, this number is on the bottom",
+        "answer": "6",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 1000,
+        "question": "Mass. town where patriot John Parker supposedly said, \"If they mean to have a war let it begin here\"",
+        "answer": "Lexington",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD",
+        "value": 500,
+        "question": "Sold plain or in a candy coating, this large almond comes from Spain, not the Middle East",
+        "answer": "Jordan almond",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MEETING PLACES",
+        "value": 500,
+        "question": "This city in the ancient kingdom of Bithynia was the site of ecumenical councils in 325 & 787",
+        "answer": "Nicea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE U N",
+      "AMERICAN AUTHORS",
+      "ARTISTS",
+      "DOCTORS",
+      "LAWYERS",
+      "INDIAN CHIEFS"
+    ],
+    "clues": [
+      {
+        "category": "THE U N",
+        "value": 200,
+        "question": "This agency that won a Nobel Peace Prize in 1965 sells greeting cards",
+        "answer": "UNICEF",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 200,
+        "question": "She wrote \"Rubbishy Novels\" under the pen name A.M. Barnard before & after \"Little Women\"",
+        "answer": "Louisa May Alcott",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 200,
+        "question": "He said of his \"Arrangement in Grey and Black\", \"One does like to make one's mummy just as nice as possible\"",
+        "answer": "James Whistler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DOCTORS",
+        "value": 200,
+        "question": "Now 76, Jonas Salk has joined the quest to find a vaccine for this",
+        "answer": "the AIDS virus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LAWYERS",
+        "value": 200,
+        "question": "He practiced law with his father, then became a judge & now presides over \"The People's Court\"",
+        "answer": "Joseph Wapner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "INDIAN CHIEFS",
+        "value": 200,
+        "question": "This Chiricahua leader joined the Dutch Reformed Church in 1903 but was expelled for gambling",
+        "answer": "Geronimo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE U N",
+        "value": 800,
+        "question": "In October 1990 the number of member nations was officially reduced by one for this reason",
+        "answer": "the reunification of East & West Germany",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 400,
+        "question": "Henry James' 1st novel, \"Watch and Ward\", was 1st published by this \"Monthly\" in 1871",
+        "answer": "Atlantic Monthly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 400,
+        "question": "His 1889 self-portrait shows him with pipe & bandaged ear",
+        "answer": "Vincent Van Gogh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DOCTORS",
+        "value": 400,
+        "question": "Dr. Robert Gale of UCLA headed the bone marrow transport unit that went to this site in May 1986",
+        "answer": "Chernobyl",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LAWYERS",
+        "value": 400,
+        "question": "He was the first of our 26 presidents licensed to practice law",
+        "answer": "John Adams",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "INDIAN CHIEFS",
+        "value": 400,
+        "question": "It's said that Hiawatha started this league of the Mohawk, Onondaga, Oneida, Seneca & Cayuga tribes",
+        "answer": "Iroquois League",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE U N",
+        "value": 600,
+        "question": "From 1971 to 1975 he led Peru's delegation to the UN",
+        "answer": "Javier Perez de Cuellar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 600,
+        "question": "The author of \"Miss Lonelyhearts\", he was born Nathan Weinstein in 1903",
+        "answer": "Nathanael West",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 600,
+        "question": "This Spaniard began his series of bullfighting lithographs , \"The Bulls of Bordeaux\", in 1824 at age 78",
+        "answer": "Goya",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DOCTORS",
+        "value": 600,
+        "question": "In 1866 Thomas Allbutt introduced the clinical type of this; old ones took 20 minutes to register",
+        "answer": "a thermometer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LAWYERS",
+        "value": 600,
+        "question": "This defender of Albert DeSalvo, Dr. Sam Sheppard & Capt. E. Medina is now a spokesman for Dictaphone",
+        "answer": "F. Lee Bailey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "INDIAN CHIEFS",
+        "value": 600,
+        "question": "Called \"Curly\" as a boy, this great Oglala Sioux chief died a year after the Battle of Little Bighorn",
+        "answer": "Crazy Horse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE U N",
+        "value": 800,
+        "question": "In 1948 the UN adopted the Universal Declaration of these",
+        "answer": "Human Rights",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 800,
+        "question": "After WWII this poet was arrested for making Fascist propaganda broadcasts from Rome",
+        "answer": "Ezra Pound",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 800,
+        "question": "Murals by this Missourian appear in the Truman Library & in the statehouse in Jefferson City",
+        "answer": "Thomas Hart Benton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DOCTORS",
+        "value": 1600,
+        "question": "In 1906 Jules Bordet discovered Bacillus pertussis, the bacterium that causes this",
+        "answer": "whooping cough",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LAWYERS",
+        "value": 800,
+        "question": "In 1967 this Yale Law School grad became the youngest tenured law professor ever at Harvard",
+        "answer": "Alan Dershowitz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "INDIAN CHIEFS",
+        "value": 800,
+        "question": "In 1903 he pleaded with Pres. Roosevelt for the return of his Nez Perce to their home",
+        "answer": "Chief Joseph",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE U N",
+        "value": 1000,
+        "question": "The U.S., Britain & Singapore have withdrawn from UNESCO, which stands for this",
+        "answer": "United Nations Educational, Scientific and Cultural Organization",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 1000,
+        "question": "Her 1913 novel \"O Pioneers!\" tells the story of Swedish settlers in Nebraska",
+        "answer": "Willa Cather",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 1000,
+        "question": "His first notable series of prints, \"A Harlot's Progress\", was followed up by \"A Rake's Progress\"",
+        "answer": "William Hogarth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DOCTORS",
+        "value": 1000,
+        "question": "According to the AMA, it's the medical specialty of more U.S. doctors than any other",
+        "answer": "internal medicine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LAWYERS",
+        "value": 1000,
+        "question": "He was Ronald Reagan's personal lawyer when Mr. Reagan named him his first att'y gen. in 1980",
+        "answer": "William French Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "INDIAN CHIEFS",
+        "value": 1000,
+        "question": "A monument to this Mohegan chief was erected on the site of the home of J.F. Cooper",
+        "answer": "Uncas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE MOVIES",
+    "clue": "She won the Best Actress Oscar for 1933, '67, '68 & '81",
+    "answer": "Katharine Hepburn"
+  },
+  "gameId": "1518",
+  "gameDate": "Wednesday, March 20, 1991"
+}

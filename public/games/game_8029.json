@@ -1,0 +1,574 @@
+{
+  "title": "Show #8886 - Monday, June 5, 2023",
+  "jeopardyRound": {
+    "categories": [
+      "CLASSIC CHILDREN'S BOOKS",
+      "THE PHILIPPINES",
+      "TASK: FORCE",
+      "IT'S ALSO A BOAT",
+      "THE CHAMPIONSHIP TEAM",
+      "\"G\"EOGRAPHY"
+    ],
+    "clues": [
+      {
+        "category": "CLASSIC CHILDREN'S BOOKS",
+        "value": 200,
+        "question": "This tale about Max & some monsters was later turned into a short opera featuring a libretto by Maurice Sendak",
+        "answer": "Where the Wild Things Are",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE PHILIPPINES",
+        "value": 200,
+        "question": "The Japanese Garden is a good place to get away from the bustle of the 12 million or so people living in the area of this city",
+        "answer": "Manila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TASK: FORCE",
+        "value": 200,
+        "question": "The London Metropolitan Police Force has been HQed at a location with this name since 1829",
+        "answer": "Scotland Yard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IT'S ALSO A BOAT",
+        "value": 200,
+        "question": "It's the graceful & majestic item in use here",
+        "answer": "a clipper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE CHAMPIONSHIP TEAM",
+        "value": 200,
+        "question": "Greg Maddux, John Smoltz & David Justice, 1995",
+        "answer": "the Atlanta Braves",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 200,
+        "question": "Staying in the theme of the category, Grady, Greene & Glascock are counties in this state",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CLASSIC CHILDREN'S BOOKS",
+        "value": 400,
+        "question": "Eric Carle is perhaps best remembered for this book about a week in the life of a ravenous larva",
+        "answer": "The Very Hungry Caterpillar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE PHILIPPINES",
+        "value": 400,
+        "question": "In 2016 this champion boxer won a seat as a Filipino senator & later ran for president",
+        "answer": "Manny Pacquiao",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TASK: FORCE",
+        "value": 400,
+        "question": "This term for a fictional energy barrier has been traced back to the 1931 sci-fi story \"Islands of Space\"",
+        "answer": "a force field",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IT'S ALSO A BOAT",
+        "value": 400,
+        "question": "Back in my day, Sonny, we enjoyed these \"notes\" that could appear on one of the inner sleeves of a phonograph record",
+        "answer": "liner notes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE CHAMPIONSHIP TEAM",
+        "value": 400,
+        "question": "Hope Solo & Abby Wambach, 2012",
+        "answer": "the U.S. National Women's soccer team",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 400,
+        "question": "Ecuador once ran a penal colony whose prisoners were made to build a \"wall of tears\" on rocky Isabela Island in this island group",
+        "answer": "the Galápagos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CLASSIC CHILDREN'S BOOKS",
+        "value": 600,
+        "question": "A line in this book says, \"Take my apples, boy, and sell them in the city. Then you will have money and you will be happy\"",
+        "answer": "The Giving Tree",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE PHILIPPINES",
+        "value": 600,
+        "question": "Mayon Volcano on this largest Philippine island has erupted numerous times in the 21st century, causing many evacuations",
+        "answer": "Luzon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TASK: FORCE",
+        "value": 600,
+        "question": "Meatwad, Frylock & Master Shake make up this threesome whose misadventures played out on Adult Swim for 11 seasons",
+        "answer": "the Aqua Teen Hunger Force",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IT'S ALSO A BOAT",
+        "value": 600,
+        "question": "It's a \"cool\" activity to get people in a new group to know each other better & feel more at ease",
+        "answer": "an icebreaker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE CHAMPIONSHIP TEAM",
+        "value": 600,
+        "question": "Matthew Stafford & Odell Beckham Jr.",
+        "answer": "the L.A. Rams",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 600,
+        "question": "This nation has coastlines on the Pacific Ocean & the Caribbean Sea",
+        "answer": "Guatemala",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CLASSIC CHILDREN'S BOOKS",
+        "value": 800,
+        "question": "Today we might call it phrogging, but in a title by Mary Norton, the tiny Clock family, living beneath a kitchen floor, are these",
+        "answer": "The Borrowers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE PHILIPPINES",
+        "value": 800,
+        "question": "Spanish for \"to marinate\" gives us the name of this Philippine dish of marinated meat with garlic, soy sauce, vinegar & spices",
+        "answer": "adobo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TASK: FORCE",
+        "value": 800,
+        "question": "French term for a clause in a contract protecting one or both parties if an act of God messes everything up",
+        "answer": "force majeure",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IT'S ALSO A BOAT",
+        "value": 800,
+        "question": "Some hot air balloons can fit up to 30 people in this basket suspended below & carried aloft",
+        "answer": "a gondola",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE CHAMPIONSHIP TEAM",
+        "value": 800,
+        "question": "Oscar Robertson &Kareem Abdul-Jabbar,1971",
+        "answer": "the Milwaukee Bucks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 800,
+        "question": "Beware monsters in the valley of this river that flows near Yuma; it's where the same-named poisonous lizard hangs out",
+        "answer": "the Gila River",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CLASSIC CHILDREN'S BOOKS",
+        "value": 1000,
+        "question": "In this picture book by Janell Cannon, a fruit bat ends up in a bird's nest & is adopted by the mama bird",
+        "answer": "Stellaluna",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE PHILIPPINES",
+        "value": 1000,
+        "question": "Bundok, the source of the English word boondocks, means mountain in this language, the basis of the official language Filipino",
+        "answer": "Tagalog",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TASK: FORCE",
+        "value": 1000,
+        "question": "The Seattle PD \"de\"fines it as actions \"that seek to minimize the likelihood of the need to use force\" in a situation",
+        "answer": "de-escalation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IT'S ALSO A BOAT",
+        "value": 1000,
+        "question": "As well as a kind of vessel, it's the kitchen area aboard one",
+        "answer": "a galley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE CHAMPIONSHIP TEAM",
+        "value": 1000,
+        "question": "In 1985, the teammates seen here",
+        "answer": "the Edmonton Oilers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 1000,
+        "question": "The first part of the name of this super-glam Tokyo shopping district means \"silver\"",
+        "answer": "Ginza",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CITY HAPPENINGS",
+      "FIRST & LAST NAME'S THE SAME",
+      "MYTHOLOGY",
+      "MOVIE CONTINENTS",
+      "THE SCIENCE OF POETRY",
+      "4, 4"
+    ],
+    "clues": [
+      {
+        "category": "CITY HAPPENINGS",
+        "value": 400,
+        "question": "U.S. Steel was born there in 1901 & steel was likely used in The Igloo where Penguins began skating in 1967",
+        "answer": "Pittsburgh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FIRST & LAST NAME'S THE SAME",
+        "value": 400,
+        "question": "Mrs. Shakespeare & the portrayer of Viola in \"Twelfth Night\" in Shakespeare in the Park in 2009",
+        "answer": "Anne Hathaway",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "Come sail away on this Greek river of myth whose name means \"hateful\"",
+        "answer": "Styx",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MOVIE CONTINENTS",
+        "value": 400,
+        "question": "Europe: 2005 horror film named for cheap lodgings",
+        "answer": "Hostel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE SCIENCE OF POETRY",
+        "value": 400,
+        "question": "In a 1727 memorial by James Thomson, \"Even light it self, which every thing displays, shone undiscovered\" until this British thinker",
+        "answer": "Newton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "4, 4",
+        "value": 400,
+        "question": "A feature that counters anything that could go wrong with a device is called this",
+        "answer": "a fail-safe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CITY HAPPENINGS",
+        "value": 800,
+        "question": "It was chosen as Upper Canada (Ontario)'s capital in 1793 but its name became York; in 1834 it got re-renamed back to the original",
+        "answer": "Toronto",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FIRST & LAST NAME'S THE SAME",
+        "value": 800,
+        "question": "All 3 names the same: U.S. naval hero awarded a Congressional Gold Medal & Led Zeppelin bassist/Kennedy Center honoree",
+        "answer": "John Paul Jones",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 800,
+        "question": "A very unfortunate family man, this future king of Thebes left Corinth on learning he was fated to kill his dad; fate is rough",
+        "answer": "Oedipus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MOVIE CONTINENTS",
+        "value": 800,
+        "question": "Asia: Ben Stiller & Steve Coogan are making a Vietnam War movie",
+        "answer": "Tropic Thunder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE SCIENCE OF POETRY",
+        "value": 800,
+        "question": "Dedicated to Stephen Hawking, Sarah Howe's \"Relativity\" describes these as \"where parallel lines will meet\"",
+        "answer": "black holes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "4, 4",
+        "value": 800,
+        "question": "It came before \"and carry on\" in motivational posters created by Britain's Ministry of Information in 1939",
+        "answer": "Keep calm",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CITY HAPPENINGS",
+        "value": 1200,
+        "question": "In 1815, on night 1 of his return from Elba, Napoleon landed at this then-village; in 2022, \"Top Gun: Maverick\" flew onscreen there",
+        "answer": "Cannes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FIRST & LAST NAME'S THE SAME",
+        "value": 1200,
+        "question": "Commanding officer of one of the first U.S. steamships in the 1830s & could he be more of a star of \"Friends\"?",
+        "answer": "Matthew Perry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1200,
+        "question": "As the fish-hook of this demigod was used to help form Hawaii's islands, the least folks could do was name one after him",
+        "answer": "Maui",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MOVIE CONTINENTS",
+        "value": 1200,
+        "question": "Africa: Not James VI but Idi Amin is the subject",
+        "answer": "The Last King of Scotland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE SCIENCE OF POETRY",
+        "value": 1200,
+        "question": "Tracy K. Smith's \"My God, It's Full of Stars\" says, \"We saw to the edge of all there is\" with this, which her dad helped build in the 1980s",
+        "answer": "the Hubble Space Telescope",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "4, 4",
+        "value": 1200,
+        "question": "For bettors, Aye-Aye Charlie is one of these, Better Getalong is a real one of these",
+        "answer": "a long shot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CITY HAPPENINGS",
+        "value": 1600,
+        "question": "In 1861 it became both a capital & an ex-capital of the Confederacy; a century later, its buses made national news",
+        "answer": "Montgomery",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FIRST & LAST NAME'S THE SAME",
+        "value": 1600,
+        "question": "No. 2 in U.S. government to James Madison & No. 1 in U.S. funksmanship in Parliament (& Funkadelic)",
+        "answer": "George Clinton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1600,
+        "question": "Athena's Roman equivalent, this goddess had a shrine on the Aventine that was a meeting place for writers & actors",
+        "answer": "Minerva",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MOVIE CONTINENTS",
+        "value": 1600,
+        "question": "Australia: Toni Collette longs to be a bride",
+        "answer": "Muriel's Wedding",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE SCIENCE OF POETRY",
+        "value": 1600,
+        "question": "In a 1920s limerick, \"There was a young lady named Bright/ Whose speed was far\" these 3 words; she gets back home before she left",
+        "answer": "faster than light",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "4, 4",
+        "value": 1600,
+        "question": "The style of tap dancing that doesn't employ the taps is referred to as this",
+        "answer": "soft shoe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CITY HAPPENINGS",
+        "value": 2000,
+        "question": "Once a residence of the Elector of Brandenburg, it later got the vote to be the site of a conference late in WWII",
+        "answer": "Potsdam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FIRST & LAST NAME'S THE SAME",
+        "value": 2000,
+        "question": "17th century essayist who was Lord Chancellor of England & 20th century painter of \"Head of a Woman (Lisa Sainsbury)\"",
+        "answer": "Francis Bacon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 2000,
+        "question": "Not just Odysseus but his son visits this nymph who shares her name with a music style; Angelica Kauffman depicted his welcome",
+        "answer": "Calypso",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MOVIE CONTINENTS",
+        "value": 2000,
+        "question": "Antarctica: A shape-shifting alien menaces helicopter pilot Kurt Russell",
+        "answer": "The Thing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE SCIENCE OF POETRY",
+        "value": 2000,
+        "question": "A comic verse says, \"Sir James\" this/ \"Is a better man than you are/ None of you asses/ Can liquefy gases\"",
+        "answer": "Sir James Dewar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "4, 4",
+        "value": 2000,
+        "question": "\"Saturday Night Live\" is famous for beginning its shows with one of these, a scene that precedes the titles",
+        "answer": "a cold open",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ACRONYMS",
+    "clue": "It was originally a code word used by telegraph operators; Barack Obama used it in his Twitter handle",
+    "answer": "POTUS"
+  },
+  "gameId": "8886",
+  "gameDate": "Monday, June 5, 2023"
+}

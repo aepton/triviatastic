@@ -1,0 +1,574 @@
+{
+  "title": "Show #1918 - Wednesday, December 30, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "LONDON",
+      "SONG LYRICS",
+      "FOOD & DRINK",
+      "SICKNESS & HEALTH",
+      "GAMBLING",
+      "\"HO\"-POURRI"
+    ],
+    "clues": [
+      {
+        "category": "LONDON",
+        "value": 100,
+        "question": "Royal Festival Hall is part of the South Bank Centre, an arts complex on the south bank of this river",
+        "answer": "the Thames",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SONG LYRICS",
+        "value": 100,
+        "question": "\"The corn is as high as\" this \"an' it looks like it's climbin' clear up to the sky\"",
+        "answer": "an elephant's eye",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "If you order \"pigs' trotters\" in a restaurant, you'll get these",
+        "answer": "pigs' feet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SICKNESS & HEALTH",
+        "value": 100,
+        "question": "This stimulant occurs in kola nuts & cocoa beans as well as in coffee beans",
+        "answer": "caffeine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GAMBLING",
+        "value": 100,
+        "question": "In blackjack a hand begins with this many cards",
+        "answer": "2",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"HO\"-POURRI",
+        "value": 100,
+        "question": "A square dance, or the kind of party where you dance it",
+        "answer": "a hoe-down",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 200,
+        "question": "The banners of the Knights of the Bath hang in the Henry VII chapel in this historic abbey",
+        "answer": "Westminster Abbey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SONG LYRICS",
+        "value": 200,
+        "question": "\"Just kiss me once, then kiss me twice, then kiss me once again, it's been\" this",
+        "answer": "a long, long time",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Even the French eat only these parts of a frog, les cuisses",
+        "answer": "frogs' legs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SICKNESS & HEALTH",
+        "value": 200,
+        "question": "In atrial fibrillation the upper chambers of this organ beat rapidly & irregularly",
+        "answer": "the heart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GAMBLING",
+        "value": 200,
+        "question": "It's the American equivalent of the British \"fruit machine\"",
+        "answer": "a slot machine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"HO\"-POURRI",
+        "value": 200,
+        "question": "All \"Jeopardy!\" contestants belong to this species, though we've never said it's a requirement",
+        "answer": "Homo sapiens",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 300,
+        "question": "This queen might have said of herself, \"We were born in Kensington Palace on May 24, 1819\"",
+        "answer": "Victoria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SONG LYRICS",
+        "value": 300,
+        "question": "\"Why, O why, O why O, why did I ever leave\" this state",
+        "answer": "Ohio",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "To make a very dry martini, use plenty of gin but just a little of this potent potable",
+        "answer": "vermouth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SICKNESS & HEALTH",
+        "value": 300,
+        "question": "This condition where the ear becomes painful, swollen & distorted is most common in boxers",
+        "answer": "cauliflower ear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GAMBLING",
+        "value": 300,
+        "question": "Rank of the card in the middle of a Royal Flush",
+        "answer": "the queen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"HO\"-POURRI",
+        "value": 300,
+        "question": "This Hawaiian began his singing career more than 30 years ago at his parents' bar on Oahu",
+        "answer": "Don Ho",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 400,
+        "question": "The cross on the massive dome of this cathedral towers 365 feet above the ground",
+        "answer": "St. Paul's Cathedral",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SONG LYRICS",
+        "value": 400,
+        "question": "\"Mamma may have, papa may have, but God bless\" this person \"that's got his own!\"",
+        "answer": "the child",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "Havarti is a type of this dairy product named for the Danish area where it was developed",
+        "answer": "cheese",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SICKNESS & HEALTH",
+        "value": 400,
+        "question": "Jerry Lewis could tell you Duchenne is the most common form of this disorder",
+        "answer": "muscular dystrophy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GAMBLING",
+        "value": 400,
+        "question": "Though an American roulette wheel has 38 spaces, this is the highest number",
+        "answer": "36",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"HO\"-POURRI",
+        "value": 400,
+        "question": "Hokey-Pokey may be an alteration of this term a magician might pull out of his hat",
+        "answer": "hocus-Pocus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 1000,
+        "question": "From 1698 to 1837 this \"saintly\" palace as the official royal residence",
+        "answer": "St. James",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SONG LYRICS",
+        "value": 500,
+        "question": "\"Dress in style and go hog wild, me oh my oh son of a gun, we'll have big fun on\" this",
+        "answer": "the bayou",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "The oldest brewery in Venezuela makes a beer named for these mountains",
+        "answer": "the Andes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SICKNESS & HEALTH",
+        "value": 500,
+        "question": "This pink substance of zinc & iron oxides is made into a lotion used for poison ivy",
+        "answer": "calamine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GAMBLING",
+        "value": 500,
+        "question": "In 1946 Benjamin \"Don't Call Me Bugsy\" Siegel opened this first of the luxury hotel-casinos in Vegas",
+        "answer": "the Flamingo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"HO\"-POURRI",
+        "value": 500,
+        "question": "These dairy cattle have black and white markings, but their milk is just plain white",
+        "answer": "Holsteins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE ANCIENT WORLD",
+      "LANGUAGES",
+      "FOUNDERS",
+      "STRINGED INSTRUMENTS",
+      "POETS & POETRY",
+      "HAIL TO THE CHIEF"
+    ],
+    "clues": [
+      {
+        "category": "THE ANCIENT WORLD",
+        "value": 200,
+        "question": "Roman emperor Julian renounced this religion & tried to reinstate paganism",
+        "answer": "Christianity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "This language is officially called Nederlands",
+        "answer": "Dutch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOUNDERS",
+        "value": 200,
+        "question": "In the 1830s Henry Miller Shreve founded a port city in this state",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STRINGED INSTRUMENTS",
+        "value": 200,
+        "question": "In the 1940s Les Paul pioneered the solid-body type of this electrical instrument",
+        "answer": "the guitar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 200,
+        "question": "Some of his early poems like \"The Brigs of Ayr\" imitated those of another Scottish poet, Robert Fergusson",
+        "answer": "Robert Burns",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 200,
+        "question": "This president's name is believed to be a contraction of \"Pollok\", the ancestral name in Britain",
+        "answer": "(James) Polk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE ANCIENT WORLD",
+        "value": 400,
+        "question": "By the 3rd dynasty Memphis had become the preeminent city of this country",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "The name jai alai comes from this language spoken in the mountain regions of Spain & France",
+        "answer": "Basque",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOUNDERS",
+        "value": 400,
+        "question": "This movie studio was founded in 1919 by Douglas Fairbanks, Mary Pickford, Charlie Chaplin & D.W. Griffith",
+        "answer": "United Artists",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STRINGED INSTRUMENTS",
+        "value": 400,
+        "question": "Stringed instrument associated with comedian Steve Martin",
+        "answer": "the banjo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 400,
+        "question": "The white oak which is said to have inspired his \"Trees\" poem was located at Rutgers University",
+        "answer": "Joyce Kilmer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 400,
+        "question": "At 6'3\" this Texan was the second-tallest president",
+        "answer": "Lyndon Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE ANCIENT WORLD",
+        "value": 600,
+        "question": "Ancient writers called this militaristic Greek state Lacedaemon",
+        "answer": "Sparta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 600,
+        "question": "It's the only country whose official language is Magyar",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOUNDERS",
+        "value": 600,
+        "question": "He broke with Freud to found analytic psychology",
+        "answer": "(Carl) Jung",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STRINGED INSTRUMENTS",
+        "value": 600,
+        "question": "He made his last violin in 1737 at the age of 93 in Cremona, Italy",
+        "answer": "Stradivarius",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 600,
+        "question": "In poem No. 712 she wrote, \"Because I could not stop for death, he kindly stopped for me\"",
+        "answer": "Emily Dickinson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 600,
+        "question": "In 1796 this future president helped draft Tennessee's first constitution",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE ANCIENT WORLD",
+        "value": 800,
+        "question": "The wall in Britain named for this emperor ran from Solway Firth to Wallsend on the Tyne",
+        "answer": "Hadrian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 800,
+        "question": "Most Indian Muslims speak this language",
+        "answer": "Urdu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOUNDERS",
+        "value": 800,
+        "question": "In 1808 Louis Bonaparte founded what is now this Amsterdam museum",
+        "answer": "the Rijksmuseum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STRINGED INSTRUMENTS",
+        "value": 800,
+        "question": "The name of this instrument popular in the Renaissance is from the Arabic ud, meaning \"wood\"",
+        "answer": "the lute",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 800,
+        "question": "Ethel Lynn Beers' famous poem about a Civil War soldier begins, \"All quiet along\" this river",
+        "answer": "the Potomac",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 800,
+        "question": "On July 4, 1826 these 2 presidents died within hours of each other",
+        "answer": "Thomas Jefferson & John Adams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE ANCIENT WORLD",
+        "value": 1000,
+        "question": "Cyrus the Great founded this empire by conquering Lydia & Babylonia in the 6th century B.C.",
+        "answer": "the Persian Empire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 2000,
+        "question": "It's the easternmost of all Slavic languages",
+        "answer": "Russian",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOUNDERS",
+        "value": 1000,
+        "question": "A group led in NYC by John Lamb & Isaac Sears, founded in 1765 to oppose the Stamp Act",
+        "answer": "the Sons of Liberty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STRINGED INSTRUMENTS",
+        "value": 1000,
+        "question": "In 1950 Anton Karas had a hit with his recording of \"The Third Man\" theme on this instrument",
+        "answer": "the zither",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 1000,
+        "question": "On the death of John Keats in 1821, this poet wrote \"Adonais\"",
+        "answer": "Shelley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 2000,
+        "question": "He was the last of 3 presidents to serve in 1881",
+        "answer": "Arthur",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS NAMES",
+    "clue": "Volume 1 of the New Book of Knowledge Ency. has an article on this man written by Danny Kaye",
+    "answer": "Hans Christian Andersen"
+  },
+  "gameId": "1918",
+  "gameDate": "Wednesday, December 30, 1992"
+}

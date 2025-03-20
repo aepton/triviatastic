@@ -1,0 +1,556 @@
+{
+  "title": "Show #5958 - Wednesday, July 7, 2010",
+  "jeopardyRound": {
+    "categories": [
+      "CONTINENT BY COUNTRIES",
+      "WHAT'S FOR LUNCH?",
+      "TOYS & GAMES",
+      "THAT'S HISTORY, KIDS!",
+      "AM I BLUE?",
+      "SPELL IT OUT FOR ME"
+    ],
+    "clues": [
+      {
+        "category": "CONTINENT BY COUNTRIES",
+        "value": 200,
+        "question": "Paraguay,Uruguay",
+        "answer": "South America",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR LUNCH?",
+        "value": 200,
+        "question": "Just for you, a serving of this layered Italian dish seen here",
+        "answer": "Lasagna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 200,
+        "question": "Make no apology for this classic board game, the game of \"sweet revenge\"",
+        "answer": "Sorry!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THAT'S HISTORY, KIDS!",
+        "value": 200,
+        "question": "April 14, 1828:Noah Webster publishes this type of book",
+        "answer": "a dictionary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AM I BLUE?",
+        "value": 200,
+        "question": "Deep Blue, who beat Garry Kasparov in a chess match in 1997, was actually one of these",
+        "answer": "a computer (a supercomputer accepted)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME",
+        "value": 200,
+        "question": "Not 7th & not 9th, but the ordinal one in between",
+        "answer": "E-I-G-H-T-H",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CONTINENT BY COUNTRIES",
+        "value": 400,
+        "question": "Estonia,Romania",
+        "answer": "Europe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR LUNCH?",
+        "value": 400,
+        "question": "How about some Middle East fast food? This sandwich of fried chickpea balls & tahini sauce served in a pita",
+        "answer": "a falafel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 400,
+        "question": "The hot toys for Christmas 2009 were the hamsters from this brand of \"pets\" with a double talk name",
+        "answer": "Zhu Zhu Pets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THAT'S HISTORY, KIDS!",
+        "value": 400,
+        "question": "May 21, 1927:Charles Lindbergh becomes the first man to fly solo across this body of water",
+        "answer": "the Atlantic Ocean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AM I BLUE?",
+        "value": 400,
+        "question": "The highest peaks of the Blue Ridge Mountains are in this \"Tar Heel State\"",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME",
+        "value": 400,
+        "question": "The element we need to breathe to survive",
+        "answer": "O-X-Y-G-E-N",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CONTINENT BY COUNTRIES",
+        "value": 600,
+        "question": "El Salvador,Costa Rica",
+        "answer": "North America",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR LUNCH?",
+        "value": 600,
+        "question": "Pretend it's Friday because I've whipped up the New England style of this soup",
+        "answer": "clam chowder",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 600,
+        "question": "Bionicle is one of the lines from this brand of building blocks",
+        "answer": "Lego",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THAT'S HISTORY, KIDS!",
+        "value": 600,
+        "question": "June 8, 68:Servius Sulpicius Galba becomes this empire's emperor",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AM I BLUE?",
+        "value": 600,
+        "question": "Spores of Penicillium roqueforti are used to make a blue type of this",
+        "answer": "cheese",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME",
+        "value": 600,
+        "question": "The second month of the year",
+        "answer": "F-E-B-R-U-A-R-Y",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CONTINENT BY COUNTRIES",
+        "value": 800,
+        "question": "Sierra Leone,Senegal",
+        "answer": "Africa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR LUNCH?",
+        "value": 800,
+        "question": "I know it's not Hanukkah, but I've made you some of these traditional potato pancakes anyway",
+        "answer": "latkes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 800,
+        "question": "Spheres transform into warriors, like Skyress & Stinglash from this line of battle brawlers",
+        "answer": "Bakugan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THAT'S HISTORY, KIDS!",
+        "value": 800,
+        "question": "May 9, 1927:This country's Parliament moves to Canberra",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AM I BLUE?",
+        "value": 800,
+        "question": "A Russian blue is this type of animal",
+        "answer": "a cat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME",
+        "value": 800,
+        "question": "The written note from a doctor to a pharmacist telling what medicine you need",
+        "answer": "P-R-E-S-C-R-I-P-T-I-O-N",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CONTINENT BY COUNTRIES",
+        "value": 1000,
+        "question": "Laos,Turkmenistan",
+        "answer": "Asia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR LUNCH?",
+        "value": 1000,
+        "question": "Could I interest you in a big, fat portobello sandwich, the portobello being a type of this?",
+        "answer": "a mushroom",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 1000,
+        "question": "Scrabble this is a card game in which players throw down their cards to change existing 4-letter words",
+        "answer": "Scrabble Slam!",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THAT'S HISTORY, KIDS!",
+        "value": 1000,
+        "question": "September 14, 1847:General Winfield Scott captures this western hemisphere capital city",
+        "answer": "Mexico City",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AM I BLUE?",
+        "value": 1000,
+        "question": "One of the loudest animals on earth is the blue type of this creature; it can be heard over 500 miles away",
+        "answer": "a whale",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPELL IT OUT FOR ME",
+        "value": 1000,
+        "question": "It sounds exactly like the name of a great lake, but it means weird or uncanny",
+        "answer": "E-E-R-I-E",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "U.S. PRESIDENTS",
+      "ENTERTAIN ME!",
+      "FANTASTIC MR. FOX",
+      "BOOK WORMS",
+      "NATIONAL GEOGRAPHIC KIDS",
+      "EXCEPTIONAL WORDS"
+    ],
+    "clues": [
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 400,
+        "question": "In his inaugural address, he mentioned that \"44 Americans have now taken the Presidential Oath\"",
+        "answer": "Obama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ENTERTAIN ME!",
+        "value": 400,
+        "question": "Beyonce had us dancing when she sang, \"'cause if you liked it then you should've\" done this",
+        "answer": "\"put a ring on it\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FANTASTIC MR. FOX",
+        "value": 400,
+        "question": "When Mr. & Mrs. Fox start a family, the babies are called pups, kits or this, like a bear's",
+        "answer": "cubs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BOOK WORMS",
+        "value": 400,
+        "question": "\"Worm\" by Jill Bailey focuses on this kind of worm found in the soil",
+        "answer": "an earthworm",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC KIDS",
+        "value": 400,
+        "question": "The photo seen here ran to coincide with an exhibit on the terra-cotta warriors of this country",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "EXCEPTIONAL WORDS",
+        "value": 400,
+        "question": "To force out, like a student from school (but not you, of course!)",
+        "answer": "expel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 800,
+        "question": "Upon the USA's entry into World War I, he told Congress, \"We desire no conquest, no dominion\"",
+        "answer": "(Woodrow) Wilson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ENTERTAIN ME!",
+        "value": 800,
+        "question": "Sasha Cohen & Evan Lysacek are among those who've dazzled in Smucker's Stars on this",
+        "answer": "Ice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FANTASTIC MR. FOX",
+        "value": 800,
+        "question": "The fantastic Arctic fox changes color with the seasons, from gray or brown in summer to this color in winter",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BOOK WORMS",
+        "value": 800,
+        "question": "In the kids' book \"Granddad's Fishing Buddy\", little Sara puts a piece of licorice instead of a worm on this",
+        "answer": "hook",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC KIDS",
+        "value": 800,
+        "question": "There's a break in the case of this young king's death: he had a broken leg that could have gotten infected",
+        "answer": "King Tut",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "EXCEPTIONAL WORDS",
+        "value": 800,
+        "question": "Term for the daughter of a person's sister or brother",
+        "answer": "a niece",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 1200,
+        "question": "Only 5'6\", this 8th President was a mini-van",
+        "answer": "Martin Van Buren",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ENTERTAIN ME!",
+        "value": 1200,
+        "question": "On TV her pets go way beyond cats & dogs, because she's \"The Jungle Girl\"",
+        "answer": "Bindi (Sue Irwin)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FANTASTIC MR. FOX",
+        "value": 1200,
+        "question": "Foxes are members of Canidae, this domestic animal's family",
+        "answer": "a dog",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BOOK WORMS",
+        "value": 1200,
+        "question": "Doreen Cronin's series of creepy-crawly journals includes this \"of a Spider\", \"of a Fly\" & \"of a Worm\"",
+        "answer": "a Diary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC KIDS",
+        "value": 1200,
+        "question": "A 2010 cover story shows just how smart & even verbal this species of dolphin is",
+        "answer": "the bottlenose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "EXCEPTIONAL WORDS",
+        "value": 1200,
+        "question": "It's a 5-letter word for \"poisonous\"",
+        "answer": "toxic",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 1600,
+        "question": "This early 20th century president's foreign policy style was known as \"big stick diplomacy\"",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ENTERTAIN ME!",
+        "value": 1600,
+        "question": "She's a goldfish who wants to become human (funny, I'd kind of like to be a goldfish)",
+        "answer": "Ponyo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FANTASTIC MR. FOX",
+        "value": 1600,
+        "question": "The small gray Bengal fox is found in grassland regions of this subcontinent",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BOOK WORMS",
+        "value": 1600,
+        "question": "In a book by Leo Lionni, this type of worm is proud that he can measure anything",
+        "answer": "an inchworm",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC KIDS",
+        "value": 1600,
+        "question": "The lion seen here is from this desert in southern Africa, where they, very sensibly, do most of their hunting at night",
+        "answer": "the Kalahari",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 2000,
+        "question": "On Dec. 6, 1973 he took the oath of office as Vice President; 8 months later he succeeded to the presidency",
+        "answer": "(Gerald) Ford",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ENTERTAIN ME!",
+        "value": 2000,
+        "question": "Madame Medusa & a pair of crocodiles torment the title mice in this Disney classic",
+        "answer": "The Rescuers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FANTASTIC MR. FOX",
+        "value": 2000,
+        "question": "Mr. Fox is not so fantastic if you're raising chickens; there's a proverb about not letting him near this \"house\"",
+        "answer": "the henhouse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BOOK WORMS",
+        "value": 2000,
+        "question": "It's really a snake, but this Shakespeare queen asks for \"the pretty worm of Nilus, that kills and pains not\"",
+        "answer": "Cleopatra",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC KIDS",
+        "value": 2000,
+        "question": "The photo here was taken in a national park; the distinctive trees are named for this biblical man",
+        "answer": "Joshua",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GEOGRAPHY",
+    "clue": "2 of the 4 U.S. states that border Mexico",
+    "answer": "(2 of) Texas, New Mexico, Arizona & California"
+  },
+  "gameId": "5958",
+  "gameDate": "Wednesday, July 7, 2010"
+}

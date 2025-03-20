@@ -1,0 +1,574 @@
+{
+  "title": "Show #1331 - Monday, May 21, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "BEST SELLERS",
+      "ROCK GROUPS",
+      "FISH",
+      "THE AUTO INDUSTRY",
+      "FAMOUS COUPLES",
+      "FILE UNDER \"M\""
+    ],
+    "clues": [
+      {
+        "category": "BEST SELLERS",
+        "value": 100,
+        "question": "\"Hey, Wait A Minute (I Wrote A Book!)\" by this former Raiders coach was a best seller in 1984",
+        "answer": "John Madden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ROCK GROUPS",
+        "value": 100,
+        "question": "In 1971 this lead singer of The Doors was buried in the Pere Lachaise Cemetery in Paris",
+        "answer": "Jim Morrison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FISH",
+        "value": 100,
+        "question": "Like birds, all species of salmon & trout build these",
+        "answer": "Nests",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE AUTO INDUSTRY",
+        "value": 100,
+        "question": "In 1908 William Durant founded this company that included Oldsmobile & Buick",
+        "answer": "General Motors",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS COUPLES",
+        "value": 100,
+        "question": "When her spouse was found guilty on Oct. 5, 1989, she sang a religious song for the press",
+        "answer": "Tammy Faye Bakker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"M\"",
+        "value": 100,
+        "question": "The driver of this \"train\" at Disneyland needs a one-track mind",
+        "answer": "Monorail",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BEST SELLERS",
+        "value": 200,
+        "question": "In 1987 a Soviet magazine ran excerpts from this B. Pasternak novel -- 29 years after it was banned",
+        "answer": "\"Doctor Zhivago\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ROCK GROUPS",
+        "value": 200,
+        "question": "Kenny Rogers & other members of the New Christy Minstrels left the group to form this one in 1967",
+        "answer": "The First Edition",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FISH",
+        "value": 200,
+        "question": "Southern California fish that come ashore to spawn & then run back into the ocean",
+        "answer": "Grunion",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE AUTO INDUSTRY",
+        "value": 200,
+        "question": "Built by Carl Benz in 1885, the first internal combustion car had this many wheels",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS COUPLES",
+        "value": 200,
+        "question": "Chef whose wife, K, is the \"K\" in K-Paul's Louisiana Kitchen",
+        "answer": "Paul Prudhomme",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"M\"",
+        "value": 200,
+        "question": "It's the liquid that remains after sugar crystals are removed from concentrated cane juice",
+        "answer": "Molasses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BEST SELLERS",
+        "value": 300,
+        "question": "His \"Kids Say The Darndest Things!\" topped the best-seller lists in both 1957 & 1958",
+        "answer": "Art Linkletter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ROCK GROUPS",
+        "value": 300,
+        "question": "This group's \"Nights In White Satin\" appeared on an album 5 yrs. before the single hit No. 2 in 1972",
+        "answer": "The Moody Blues",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FISH",
+        "value": 300,
+        "question": "The Walking, Electric & Pencil species of this fish have \"whiskers\"",
+        "answer": "Catfish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE AUTO INDUSTRY",
+        "value": 300,
+        "question": "The first true example of this automobile was introduced in 1906 & called the Silver Ghost",
+        "answer": "Rolls-Royce",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS COUPLES",
+        "value": 300,
+        "question": "Dr. Jonas Salk's wife, Francoise Gilot, was once the companion of this late, great modern artist",
+        "answer": "Pablo Picasso",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"M\"",
+        "value": 300,
+        "question": "His resume included Archduke of Austria & Emperor of Mexico",
+        "answer": "Maximillian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BEST SELLERS",
+        "value": 400,
+        "question": "\"Made In America\" was this businessman's memoir of the 1984 Olympics",
+        "answer": "Peter Ueberroth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ROCK GROUPS",
+        "value": 400,
+        "question": "Ace Frehley, Paul Stanley, Gene Simmons & Peter Criss formed this rock group",
+        "answer": "KISS",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FISH",
+        "value": 400,
+        "question": "The Portuguese got the name for this toothed fish from the Tupi Indians who live along the Amazon",
+        "answer": "piranhas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE AUTO INDUSTRY",
+        "value": 400,
+        "question": "A Ford model that came out in '68, or the Italian name of the city that's home to Fiat",
+        "answer": "Torino",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS COUPLES",
+        "value": 400,
+        "question": "\"Major Dad\" star Gerald McRaney must have had designs on this \"Designing Woman\" because he married her",
+        "answer": "Delta Burke",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"M\"",
+        "value": 800,
+        "question": "It begins \"John, by the grace of God, King of England, Lord of Ireland, Duke of Normandy & Aquitaine....\"",
+        "answer": "Magna Carta",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BEST SELLERS",
+        "value": 500,
+        "question": "This Lloyd C. Douglas novel of the crucifixion was a best seller in '43 & '53 when the movie came out",
+        "answer": "\"The Robe\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ROCK GROUPS",
+        "value": 500,
+        "question": "4 hit singles came from this group's \"Hi Infidelity\" album",
+        "answer": "REO Speedwagon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FISH",
+        "value": 500,
+        "question": "The largest species of this fish is the bluefin; the smallest, the skipjack",
+        "answer": "Tuna",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE AUTO INDUSTRY",
+        "value": 500,
+        "question": "August Horch founded 2 car companies - Horch & this one that's the Latin translation of his surname",
+        "answer": "Audi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS COUPLES",
+        "value": 500,
+        "question": "Their daughter Linn Ullmann married an Oslo lawyer in 1989",
+        "answer": "Liv Ullmann & Ingmar Bergman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"M\"",
+        "value": 500,
+        "question": "From the French for \"a mixture\", it's a free-for-all battle",
+        "answer": "Melee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EARLY AMERICA",
+      "PLAYS",
+      "WORLD GEOGRAPHY",
+      "POLITICAL TERMS",
+      "GREEK MYTHOLOGY",
+      "NUTMEGGERS"
+    ],
+    "clues": [
+      {
+        "category": "EARLY AMERICA",
+        "value": 200,
+        "question": "On March 10, 1775 this frontiersman began blazing the Wilderness Road",
+        "answer": "Daniel Boone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PLAYS",
+        "value": 200,
+        "question": "In the title of a play by Robert Anderson, it's paired with \"sympathy\"",
+        "answer": "Tea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "The Paraguay River divides Paraguay into 2 major regions:  Occidental Paraguay & this",
+        "answer": "Oriental Paraguay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 200,
+        "question": "Politically speaking, it's a cause that looks promising; you can join by \"jumping on\" it",
+        "answer": "Bandwagon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 200,
+        "question": "One legend claims they fought in the Trojan War under their queen, Penthesilea",
+        "answer": "Amazons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NUTMEGGERS",
+        "value": 200,
+        "question": "This \"good\" guy who discovered vulcanization was born in New Haven",
+        "answer": "Charles Goodyear",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EARLY AMERICA",
+        "value": 400,
+        "question": "In early colonial Boston only men belonging to this religious sect could vote or hold office",
+        "answer": "Puritans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PLAYS",
+        "value": 400,
+        "question": "In \"Painting Churches\", the churches aren't buildings but these",
+        "answer": "People",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "The Denmark Strait is located between Iceland & this Danish possession",
+        "answer": "Greenland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 400,
+        "question": "A special-interest group, named for the place in a capital building that is frequented by them",
+        "answer": "Lobby",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 400,
+        "question": "It starts life again as a small worm that crawls out of the ashes of its own funeral pyre",
+        "answer": "The Phoenix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NUTMEGGERS",
+        "value": 400,
+        "question": "Born in Winsted, he practiced law in Connecticut before he wrote \"Unsafe At Any Speed\"",
+        "answer": "Ralph Nader",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EARLY AMERICA",
+        "value": 600,
+        "question": "Drawn up in 1620, this document formed the basis of Plymouth Colony's legal system",
+        "answer": "The Mayflower Compact",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PLAYS",
+        "value": 600,
+        "question": "Anita Loos wrote the non-musical stage adaptation of this Colette novel",
+        "answer": "\"Gigi\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 600,
+        "question": "Cristoforo Colombo Int'l Airport serves this city, Italy's busiest port",
+        "answer": "Genoa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 600,
+        "question": "Someone who votes for candidates of different parties on the same ballot votes this kind of \"ticket\"",
+        "answer": "Split Ticket",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 600,
+        "question": "To make her son invulnerable, Achilles' mother bathed all but the famous heel in this river",
+        "answer": "The Styx",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NUTMEGGERS",
+        "value": 600,
+        "question": "His character, Radar O' Reilly, was from Iowa, but this actor was born in Bristol, Connecticut",
+        "answer": "Gary Burghoff",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EARLY AMERICA",
+        "value": 800,
+        "question": "1797 \"affair\" in which 3 agents for France demanded a $250,000 bribe from U.S. diplomats",
+        "answer": "\"XYZ\" Affair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PLAYS",
+        "value": 800,
+        "question": "\"Dial 'M' For Murder\" takes place in the living room of an apartment in this foreign capital",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 800,
+        "question": "75 times the size of Belgium, the former Belgian Congo is now known by this name",
+        "answer": "Zaire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 800,
+        "question": "A candidate who's nominated by his home state at a convention, often as an honorary gesture",
+        "answer": "Favorite Son",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 1600,
+        "question": "After she fell in love with him, Circe lifted the spell that had changed men into swine",
+        "answer": "Odysseus",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NUTMEGGERS",
+        "value": 800,
+        "question": "Her \"immediate family\" raised her mostly in Greenwich & also briefly in Africa",
+        "answer": "Glenn Close",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EARLY AMERICA",
+        "value": 2000,
+        "question": "On March 1, 1781 Maryland became the last state to ratify this document",
+        "answer": "Articles of Confederation",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PLAYS",
+        "value": 1000,
+        "question": "\"Regina\" was a 1949 musical version of this Lillian Hellman play",
+        "answer": "\"The Little Foxes\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 1000,
+        "question": "More American Indians live in this country on South America's Pacific coast than any other",
+        "answer": "Peru",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL TERMS",
+        "value": 1000,
+        "question": "The \"privilege\" exercised by Congress & the executive branch to use the Postal Service free of charge",
+        "answer": "Franking",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 1000,
+        "question": "Her sisters Stheno & Euryale are mentioned in myth, but we don't know if they were as ugly",
+        "answer": "Medusa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NUTMEGGERS",
+        "value": 1000,
+        "question": "This Watergate judge born in Waterbury was Time Magazine's \"Man of the Year\" for 1973",
+        "answer": "John Sirica",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SCIENTISTS",
+    "clue": "When Einstein won the 1921 Nobel Prize in physics, he was a naturalized citizen of this country",
+    "answer": "Switzerland (He came to the U.S. later on)"
+  },
+  "gameId": "1331",
+  "gameDate": "Monday, May 21, 1990"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #4812 - Tuesday, July 5, 2005",
+  "jeopardyRound": {
+    "categories": [
+      "HISTORY",
+      "SITCOMS",
+      "7-LETTER EDIBLES",
+      "AMERICA",
+      "OBJECTS",
+      "SPANISH"
+    ],
+    "clues": [
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "The Meiji reforms of the 19th century permanently abolished this Japanese warrior class",
+        "answer": "samurai",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SITCOMS",
+        "value": 200,
+        "question": "It was the nickname of Alan Alda's character on \"M*A*S*H\"",
+        "answer": "Hawkeye",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER EDIBLES",
+        "value": 200,
+        "question": "Hungarian cuisine uses this orange-red spice as a mainstay flavoring",
+        "answer": "paprika",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AMERICA",
+        "value": 200,
+        "question": "This state bordering Canada is known as \"Big Sky Country\"",
+        "answer": "Montana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OBJECTS",
+        "value": 200,
+        "question": "In the 1930s, with its top-loading model, Swingline revolutionized this device",
+        "answer": "a stapler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPANISH",
+        "value": 200,
+        "question": "A \"Holly Jolly Christmas\" would become this, \"con acebo y alegre\"",
+        "answer": "Navidad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "In 1966 this university's Public Policy program became the Kennedy School of Government",
+        "answer": "Harvard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SITCOMS",
+        "value": 400,
+        "question": "On this sitcom, a \"how-to\" book author buys a Vermont inn & moves there",
+        "answer": "Newhart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER EDIBLES",
+        "value": 400,
+        "question": "Wontons & kreplach are similar in design to this Italian specialty, filled pillows of pasta",
+        "answer": "ravioli",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AMERICA",
+        "value": 400,
+        "question": "Warm Springs in this state was home to FDR's Little White House",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OBJECTS",
+        "value": 400,
+        "question": "Wimmer-Ferguson makes a toy for babies to bite on punningly called the \"Brain\" this",
+        "answer": "Teether",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPANISH",
+        "value": 400,
+        "question": "This word for a bar or tavern has moved from Spanish into English dictionaries",
+        "answer": "a cantina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "One of France's major ports, it was the site of the 1940 evacuation of more than 300,000 men",
+        "answer": "Dunkirk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SITCOMS",
+        "value": 600,
+        "question": "Miss DeFazio of sitcom Milwaukee",
+        "answer": "Laverne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER EDIBLES",
+        "value": 600,
+        "question": "In the same family as the peach, it has been grown in China for over 3,000 years",
+        "answer": "the apricot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AMERICA",
+        "value": 600,
+        "question": "Its state flower is the saguaro cactus blossom",
+        "answer": "Arizona",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OBJECTS",
+        "value": 600,
+        "question": "A hacker called \"Captain Crunch\" found one of these, in a cereal box, whose tone could manipulate phone lines",
+        "answer": "a whistle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPANISH",
+        "value": 600,
+        "question": "A flamboyant & risky job, it's also a word that means \"killer\"",
+        "answer": "matador",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "In February 1790 this man presided over the first meeting of the Supreme Court",
+        "answer": "John Jay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SITCOMS",
+        "value": 800,
+        "question": "Pet-loving pretty on \"The Beverly Hillbillies\"",
+        "answer": "Elly May",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER EDIBLES",
+        "value": 800,
+        "question": "The name of this fancy dish seen here comes from a word that means \"to blow\"",
+        "answer": "soufflé",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AMERICA",
+        "value": 800,
+        "question": "This state trademarked the logo seen here",
+        "answer": "Wyoming",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OBJECTS",
+        "value": 800,
+        "question": "Used to serve a particular type of liquor, it's the glass seen here",
+        "answer": "a snifter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPANISH",
+        "value": 800,
+        "question": "A wine concoction, it's also a word that can mean \"bloodletting\"",
+        "answer": "sangria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 1000,
+        "question": "The cathedral of this city in Spain claims to hold the remains of Christopher Columbus, moved there in 1899",
+        "answer": "Seville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SITCOMS",
+        "value": 1000,
+        "question": "Married name of Miss MacGillicuddy in a '50s sitcom",
+        "answer": "Lucy Ricardo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER EDIBLES",
+        "value": 1000,
+        "question": "The name of this type of small quick bread comes from the French for \"twice cooked\"",
+        "answer": "biscuit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AMERICA",
+        "value": 1000,
+        "question": "Helen Keller was born in a house named Ivy Green in Tuscumbia in this state",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OBJECTS",
+        "value": 1000,
+        "question": "Many car owners have this device with a spherical cap on one end & a sliding scale on the other",
+        "answer": "a tire pressure gauge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPANISH",
+        "value": 1000,
+        "question": "In old Mexico a criollo was of European descent & this was a person of mixed European & native blood",
+        "answer": "mestizo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "SINGERS",
+      "VEHICLES",
+      "AUTHORS",
+      "BELIEFS",
+      "TOM SWIFTIES"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "A deuterium atom is a hydrogen atom that has this keeping its proton company in the nucleus",
+        "answer": "a neutron",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SINGERS",
+        "value": 400,
+        "question": "If you \"can't smile without\" the singer of \"Copacabana\", go to this last name.com, his official website",
+        "answer": "(Barry) Manilow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "VEHICLES",
+        "value": 400,
+        "question": "20 years after it was formed, this Korean company became a success in the U.S. with the 1986 Excel",
+        "answer": "Hyundai",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "His last novel, \"A Passage to India\", is considered his masterwork",
+        "answer": "E.M. Forster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BELIEFS",
+        "value": 400,
+        "question": "From Aramaic & Hebrew words, this title of the savior of the Jews means \"anointed one\"",
+        "answer": "Messiah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TOM SWIFTIES",
+        "value": 400,
+        "question": "Harsh way Tom Swift told a music student, \"You played that note a half step too high\"",
+        "answer": "sharply",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 800,
+        "question": "This largest nerve in the body arises in the sacral plexus, leaves the pelvis & runs down the thigh",
+        "answer": "the sciatic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SINGERS",
+        "value": 800,
+        "question": "In November of 2000 Bobby Brown & this singer held their first joint concert at the Aladdin in Vegas",
+        "answer": "Whitney Houston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "VEHICLES",
+        "value": 800,
+        "question": "The Boxster and the 911 are popular models from this automaker",
+        "answer": "Porsche",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 800,
+        "question": "He created the Nadsat language for his novel \"A Clockwork Orange\"",
+        "answer": "(Anthony) Burgess",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BELIEFS",
+        "value": 800,
+        "question": "Also a caste, it's a Hindu priest or scholar of Vedic literature",
+        "answer": "a Brahman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TOM SWIFTIES",
+        "value": 800,
+        "question": "\"I feel like a Native American warrior\", said Tom in this courageous manner",
+        "answer": "bravely",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1200,
+        "question": "Bears appeared during this epoch right before the Pliocene",
+        "answer": "the Miocene",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SINGERS",
+        "value": 1200,
+        "question": "In 1984 she had her first Top 10 hit in the U.S. with \"Borderline\"",
+        "answer": "Madonna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "VEHICLES",
+        "value": 1200,
+        "question": "This '70s model from American Motors sounds like an imp that used to torment WWII aircraft",
+        "answer": "the Gremlin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1200,
+        "question": "At the start of a novel by this author, Dombey is 48 years old & son, 48 minutes",
+        "answer": "Dickens",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BELIEFS",
+        "value": 1200,
+        "question": "Think \"fast\": the name of this month in the Islamic calendar is from the Arabic for \"to be scorched\"",
+        "answer": "Ramadan",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TOM SWIFTIES",
+        "value": 1200,
+        "question": "When he said, \"We'll have to cross a treeless expanse of land\", Tom spoke this way, very simply",
+        "answer": "plainly",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1600,
+        "question": "(Jimmy of the Clue Crew reports from a classroom.)  Meaning not at a right angle, it can refer to slanting abdominal muscles, or a geometric angle like this",
+        "answer": "oblique",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SINGERS",
+        "value": 1600,
+        "question": "This singer played detective Foxxy Cleopatra in the third \"Austin Powers\" movie",
+        "answer": "Beyoncé Knowles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "VEHICLES",
+        "value": 1600,
+        "question": "With its GT and GTS versions, this model from Mitsubishi is blocking out a lot of the competition",
+        "answer": "the Eclipse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1600,
+        "question": "He wrote the poem \"Gunga Din\" to honor the Bhisti, the natives who aided British soldiers in India",
+        "answer": "Rudyard Kipling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BELIEFS",
+        "value": 1600,
+        "question": "This eighth incarnation of Vishnu is often depicted as a young cowherd",
+        "answer": "Krishna",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TOM SWIFTIES",
+        "value": 1600,
+        "question": "It's the shrewd way in which Tom said, \"We'll seal all our food in metal containers\"",
+        "answer": "cannily",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 2000,
+        "question": "It equals mass divided by volume & is often expressed in pounds per cubic foot",
+        "answer": "density",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SINGERS",
+        "value": 2000,
+        "question": "This one-named singer, whose name means \"most exalted one\" in Swahili, tragically died in a plane crash in 2001",
+        "answer": "Aaliyah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "VEHICLES",
+        "value": 2000,
+        "question": "In 1965 Ralph Nader declared that this model from Chevrolet was \"Unsafe at Any Speed\"",
+        "answer": "the Corvair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 2000,
+        "question": "This 19th century English author also wrote the books \"Curiosa Mathematica\" & \"Symbolic Logic\"",
+        "answer": "Charles Dodgson (Lewis Carroll)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BELIEFS",
+        "value": 2000,
+        "question": "Incorporating elements of Islam & others, this religion was founded in Iran in 1863",
+        "answer": "Bahá'í",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TOM SWIFTIES",
+        "value": 2000,
+        "question": "\"I have no idea how to fill in the empty line\", Tom said this way",
+        "answer": "blankly",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WARTIME",
+    "clue": "The Victoria Cross is made from metal taken from enemy guns captured in this war",
+    "answer": "the Crimean War"
+  },
+  "gameId": "4812",
+  "gameDate": "Tuesday, July 5, 2005"
+}

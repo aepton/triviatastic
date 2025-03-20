@@ -1,0 +1,574 @@
+{
+  "title": "Show #2880 - Friday, February 21, 1997",
+  "jeopardyRound": {
+    "categories": [
+      "INVENTORS",
+      "FOOD & DRINK",
+      "FAMOUS AMERICANS",
+      "CLASSIC MOVIE QUOTES",
+      "TRAVEL & TOURISM",
+      "BOOKS OF THE BIBLE"
+    ],
+    "clues": [
+      {
+        "category": "INVENTORS",
+        "value": 100,
+        "question": "In 1775 David Bushnell built the first of these underwater craft used by the military",
+        "answer": "Submarines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "After it molts this colorful crab is the most popular soft-shell variety in the U.S.",
+        "answer": "Blue crab",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS AMERICANS",
+        "value": 100,
+        "question": "He served as FBI director under every president from Coolidge to Nixon",
+        "answer": "J. Edgar Hoover",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC MOVIE QUOTES",
+        "value": 100,
+        "question": "He told Walter Matthau in \"The Sunshine Boys\", \"You know what you are, Willie?  You're a 73-year-old schmo\"",
+        "answer": "George Burns",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 100,
+        "question": "When visiting this New England capital, stop at Charlestown Navy Yard to see \"Old Ironsides\"",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE BIBLE",
+        "value": 100,
+        "question": "The flood & the birth of Isaac are covered in this book",
+        "answer": "Genesis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "INVENTORS",
+        "value": 200,
+        "question": "In 1812 Congress denied his patent renewal for the cotton gin",
+        "answer": "Eli Whitney",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Named for its consistency, it's a beverage made by blending fruit with yogurt, milk or both",
+        "answer": "Smoothie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS AMERICANS",
+        "value": 200,
+        "question": "She received her nickname \"Little Sure Shot\" from Sitting Bull",
+        "answer": "Annie Oakley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC MOVIE QUOTES",
+        "value": 200,
+        "question": "Film in which Jimmy Stewart told Henry Travers, \"Well, you look about like the kind of angel I'd get\"",
+        "answer": "\"It's A Wonderful Life\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 200,
+        "question": "This Washington D.C. theater has been restored to appear as it did on the night of April 14, 1865",
+        "answer": "Ford's Theater",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE BIBLE",
+        "value": 200,
+        "question": "Obadiah, the shortest Old Testament book with 21 verses, is the fourth of the 12 \"minor\" ones of these",
+        "answer": "Prophets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "INVENTORS",
+        "value": 300,
+        "question": "This Italian established wireless communication across the English Channel in 1899",
+        "answer": "Guglielmo Marconi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "To top off a French meal, you might try this pancake dish served flaming in an orange sauce",
+        "answer": "Crepes Suzette",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS AMERICANS",
+        "value": 300,
+        "question": "In 1948 he became the first Democrat elected to the Senate from Minnesota",
+        "answer": "Hubert Humphrey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC MOVIE QUOTES",
+        "value": 300,
+        "question": "He remarked to Esther Muir in \"A Day At The Races\", \"If I hold you any closer, I'll be in back of you\"",
+        "answer": "Groucho Marx",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 300,
+        "question": "Open to the public, the U.S. Mint in this city stands near the site of its original 1792 building",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE BIBLE",
+        "value": 300,
+        "question": "These 2 books chronicle the monarchs of Israel & Judah, beginning with David & ending with Jehoiachin",
+        "answer": "Kings I & II",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "INVENTORS",
+        "value": 400,
+        "question": "In 1925 this frozen food developer began marketing packaged frozen fish",
+        "answer": "Clarence Birdseye",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "Lamb served in a pita & topped with onions, peppers & sauce makes up this Greek sandwich",
+        "answer": "Gyro",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS AMERICANS",
+        "value": 400,
+        "question": "This photographer was a director of the Sierra Club from 1936 to 1970",
+        "answer": "Ansel Adams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC MOVIE QUOTES",
+        "value": 400,
+        "question": "In this film Vivien Leigh cracked, \"Stanley Kowalski, survivor of the Stone Age\"",
+        "answer": "\"A Streetcar Named Desire\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 400,
+        "question": "This bronze symbol of Copenhagen, located in its harbor, was designed by Edvard Eriksen",
+        "answer": "The Little Mermaid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE BIBLE",
+        "value": 400,
+        "question": "Chapters 8-10 of this Old Testament book continue the narrative from Exodus 29",
+        "answer": "Leviticus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "INVENTORS",
+        "value": 500,
+        "question": "In 1953 he was commissioned to design a rotunda dome in Dearborn, Michigan",
+        "answer": "Buckminster Fuller",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "Lynchburg, Tennessee is home to the distillery that makes this brand of sour mash whiskey",
+        "answer": "Jack Daniels",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS AMERICANS",
+        "value": 500,
+        "question": "This man famous for his classification system founded Columbia Univ.'s School of Library Economy",
+        "answer": "Melville Dewey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC MOVIE QUOTES",
+        "value": 500,
+        "question": "Elizabeth Taylor said to James Dean in this film, \"Money isn't all, you know, Jett\"",
+        "answer": "\"Giant\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 500,
+        "question": "The graves of Wild Bill Hickok & Calamity Jane can be seen at Mount Moriah Cemetery in this South Dakota city",
+        "answer": "Deadwood",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE BIBLE",
+        "value": 1000,
+        "question": "You'll find the quotation \"To every thing there is a season\" in Chapter 3 of this book",
+        "answer": "Ecclesiastes",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT GREECE",
+      "MUSIC APPRECIATION",
+      "GEOGRAPHY",
+      "PEOPLE",
+      "COLLEGES & UNIVERSITIES",
+      "BOOKS OF THE '90S"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT GREECE",
+        "value": 200,
+        "question": "In 146 B.C. what's now Greece was conquered by this western Mediterranean power",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 200,
+        "question": "This high female voice may be classified as lyric, dramatic or coloratura",
+        "answer": "Soprano",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 200,
+        "question": "Canada's James Bay was named for Thomas James, who explored it while looking for this passage",
+        "answer": "Northwest Passage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 200,
+        "question": "In March 1996 this husband of Kim Basinger was acquitted of battering a photographer",
+        "answer": "Alec Baldwin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 200,
+        "question": "This country's University of Havana was authorized by the Pope in 1721 & founded 7 years later",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE '90S",
+        "value": 200,
+        "question": "In 1996 this master of horror turned to serial fiction with a 6-part thriller called \"The Green Mile\"",
+        "answer": "Stephen King",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT GREECE",
+        "value": 400,
+        "question": "Around 430 this large temple on the Acropolis was converted into a Christian church",
+        "answer": "Parthenon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 400,
+        "question": "Parlando is a direction to sing with clear enunciation as if doing this, as its name implies",
+        "answer": "Speaking",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 400,
+        "question": "It flows around the Ile de la Cite",
+        "answer": "The Seine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 400,
+        "question": "On Oct. 25, 1993 John Shalikashvili became the first foreign-born chairman of this group",
+        "answer": "Joint Chiefs of Staff",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 400,
+        "question": "The Meadows Museum at this church-founded Dallas school houses a large collection of Spanish art",
+        "answer": "Southern Methodist University",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE '90S",
+        "value": 400,
+        "question": "This Peter Benchley book about a giant killer squid was turned into a 1996 TV miniseries",
+        "answer": "\"The Beast\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT GREECE",
+        "value": 600,
+        "question": "This city-state's men were required to eat in the soldiers' barracks  until age 60",
+        "answer": "Sparta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 600,
+        "question": "The name of this type of sailors' work song is derived from the French word for \"sing\"",
+        "answer": "shanty",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 600,
+        "question": "Ulm in this country is home to the cathedral with the tallest spire in the world",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 600,
+        "question": "Christine Todd Whitman was elected the 50th governor of this state in 1993",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 600,
+        "question": "The Artificial Intelligence Laboratory is located at this Boston-area \"institute\"",
+        "answer": "MIT (Massachusetts Institute of Technology)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE '90S",
+        "value": 600,
+        "question": "He dedicated his bestseller \"The Rainmaker\" \"To American Trial Lawyers\"",
+        "answer": "John Grisham",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT GREECE",
+        "value": 800,
+        "question": "This civilization flourished on Crete beginning around 1900 B.C.",
+        "answer": "Minoan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 800,
+        "question": "In 1910 \"The Pipe of Desire\" became the 1st American opera performed at this American opera house",
+        "answer": "The Metropolitan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 800,
+        "question": "The Golden Gate of Yaroslav the Wise can be seen in this largest city in the Ukraine",
+        "answer": "Kiev",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 800,
+        "question": "This PBS late night talk show host previously worked for Bill Moyers on 3 series",
+        "answer": "Charlie Rose",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 800,
+        "question": "This Hanover, New Hampshire college was established in 1770 when Eleazer Wheelock erected a single log hut",
+        "answer": "Dartmouth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE '90S",
+        "value": 1600,
+        "question": "Newsweek's Joe Klein turned out to be the \"Anonymous\" author of this 1996 \"Novel of Politics\"",
+        "answer": "\"Primary Colors\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT GREECE",
+        "value": 1000,
+        "question": "This plain northeast of Athens was the site of the Athenians' victory over the Persian army in 490 B.C.",
+        "answer": "Marathon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 1000,
+        "question": "A fado is a type of melancholy song closely associated with this European capital",
+        "answer": "Lisbon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 2000,
+        "question": "You can find the Wilhelmina Mountains in this South American country",
+        "answer": "Suriname (formerly Dutch Guiana)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 1000,
+        "question": "In 1989 Daniel Arap Moi named this paleo-anthropologist head of the Kenya Wildlife Service",
+        "answer": "Richard Leakey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 1000,
+        "question": "This De Land, Florida university is named for a 19th century Philadelphia hat maker",
+        "answer": "Stetson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BOOKS OF THE '90S",
+        "value": 1000,
+        "question": "Betty J. Eadie touched many lives with this 1992 mega-bestseller about her near-death experience",
+        "answer": "\"Embraced By The Light\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BRITISH STATESMEN",
+    "clue": "In a 1940 eulogy of this man, Churchill spoke of his \"Love of peace... toil for peace... strife for peace\"",
+    "answer": "Neville Chamberlain"
+  },
+  "gameId": "2880",
+  "gameDate": "Friday, February 21, 1997"
+}

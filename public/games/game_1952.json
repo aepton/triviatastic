@@ -1,0 +1,574 @@
+{
+  "title": "Show #3199 - Thursday, June 25, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. HISTORY",
+      "FOOD",
+      "I LEARNED IT AT THE MOVIES",
+      "ANATOMIC QUOTES",
+      "20th CENTURY WOMEN",
+      "\"DEAD\" TO THE WORLD"
+    ],
+    "clues": [
+      {
+        "category": "U.S. HISTORY",
+        "value": 100,
+        "question": "The political ring led by this man stole as much as $200 million from NYC before it was ousted in 1871",
+        "answer": "Boss Tweed",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 100,
+        "question": "The Spaniards called it pina de Indes from its resemblance to a pine cone",
+        "answer": "Pineapple",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "I LEARNED IT AT THE MOVIES",
+        "value": 100,
+        "question": "It was built in 1889 & in the movies it's visible from every window in every building in Paris",
+        "answer": "Eiffel Tower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANATOMIC QUOTES",
+        "value": 100,
+        "question": "Edmond Rostand work that includes the line \"Enorme, mon nez!\" -- \"My nose is huge!\"",
+        "answer": "\"Cyrano de Bergerac\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 100,
+        "question": "She practiced tax law after giving up chemistry & in 1979 became prime minister of Great Britain",
+        "answer": "Margaret Thatcher",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"DEAD\" TO THE WORLD",
+        "value": 100,
+        "question": "This type of street might have a sign that reads \"No Outlet\"",
+        "answer": "Dead-end street",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 200,
+        "question": "John Adams appointed this John chief justice",
+        "answer": "John Marshall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "In England & Scandinavia this is the traditional bird for the Christmas feast, not the turkey",
+        "answer": "Goose",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "I LEARNED IT AT THE MOVIES",
+        "value": 200,
+        "question": "On film, unlike in nature, these 2 atmospheric events are seen & heard simultaneously",
+        "answer": "Thunder & lightning",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANATOMIC QUOTES",
+        "value": 200,
+        "question": "The Latin proverb \"Ubi amor, ibi oculus\" is translated as \"Where love is, there\" this \"wanders\"",
+        "answer": "Eye",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 200,
+        "question": "20th century \"fox\" seen here:(David Copperfield's fiance)",
+        "answer": "Claudia Schiffer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"DEAD\" TO THE WORLD",
+        "value": 200,
+        "question": "It's a type of lock that has no spring",
+        "answer": "Deadbolt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 300,
+        "question": "President who signed the Alaskan Pipeline Act during the energy crisis",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 300,
+        "question": "Its history shows the French taking an Austrian crescent roll & making it with puff pastry, not bread dough",
+        "answer": "Croissant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "I LEARNED IT AT THE MOVIES",
+        "value": 300,
+        "question": "It always sounds just as a teacher finishes making an important point",
+        "answer": "Bell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANATOMIC QUOTES",
+        "value": 300,
+        "question": "Ben Franklin advised, \"Keep your mouth wet\" & these \"dry\"",
+        "answer": "Feet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 300,
+        "question": "In 1997 Pope John Paul II called this late nun \"The unforgettable mother of the poor\"",
+        "answer": "Mother Teresa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"DEAD\" TO THE WORLD",
+        "value": 300,
+        "question": "One who gets into a concert for free, a fan of the Grateful Dead, or both",
+        "answer": "Deadhead",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "The Glass-Steagall Banking Act of 1933 created this agency that guarantees bank accounts",
+        "answer": "FDIC (Federal Deposit Insurance Corporation)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "In 1938 Herman Warden Lay started selling these under his own brand name",
+        "answer": "Potato chips",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "I LEARNED IT AT THE MOVIES",
+        "value": 400,
+        "question": "Luckily, these weapons have color-coded internal wires that allow easy disarming",
+        "answer": "Bombs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANATOMIC QUOTES",
+        "value": 400,
+        "question": "Jonathan Swift wrote, \"I am as old as my tongue, and a little older than\" these",
+        "answer": "Teeth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 400,
+        "question": "In 1996 she married fellow speed skater David Cruikshank",
+        "answer": "Bonnie Blair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"DEAD\" TO THE WORLD",
+        "value": 400,
+        "question": "Comedy style associated with Buster Keaton",
+        "answer": "Deadpan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 500,
+        "question": "This state's constitution of 1849 let married women retain control of their own property",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 1000,
+        "question": "NYC restaurateur famous for his namesake: grilled corned beef, Swiss & sauerkraut on rye",
+        "answer": "Arnold Reuben (Reuben sandwich)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "I LEARNED IT AT THE MOVIES",
+        "value": 500,
+        "question": "In Hollywood films, most phone numbers begin with these 3 digits",
+        "answer": "555",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANATOMIC QUOTES",
+        "value": 500,
+        "question": "Shelley penned, \"Worse than a bloody hand is a hard\" one of these",
+        "answer": "Heart",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 500,
+        "question": "In 1982 this former First Lady founded the National Wildflower Research Center in Austin, Texas",
+        "answer": "Lady Bird Johnson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"DEAD\" TO THE WORLD",
+        "value": 500,
+        "question": "It's the term for mail the Postal Service can't deliver",
+        "answer": "Dead letter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE SOUND OF \"MUSIC\"",
+      "SOUTH PACIFIC",
+      "THE KING AND I",
+      "OKLAHOMA",
+      "FLOWER",
+      "DRUM SONG"
+    ],
+    "clues": [
+      {
+        "category": "THE SOUND OF \"MUSIC\"",
+        "value": 200,
+        "question": "10 kids, 9 seats, 1 piano & you're ready to play this",
+        "answer": "Musical chairs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SOUTH PACIFIC",
+        "value": 200,
+        "question": "Recent fad inspired by the land divers of Pentecost Island, who use it as a rite of passage for young boys",
+        "answer": "Bungee jumping",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE KING AND I",
+        "value": 200,
+        "question": "Macduff calls him a \"coward\" & a \"hell-hound\" & then cuts his head off -- mercifully, offstage",
+        "answer": "Macbeth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 200,
+        "question": "Oklahoma's is the scissor-tailed flycatcher",
+        "answer": "State bird",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FLOWER",
+        "value": 200,
+        "question": "There's no need to keep mum about it, mum is short for this flower",
+        "answer": "Chrysanthemum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DRUM SONG",
+        "value": 200,
+        "question": "Ex-E Street Band drummer Max Weinberg leads the house band for this current \"Late Show\" host",
+        "answer": "Conan O\"Brien",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE SOUND OF \"MUSIC\"",
+        "value": 400,
+        "question": "To stand up to the results of your actions, or to stand like an orchestra conductor",
+        "answer": "Face the music",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SOUTH PACIFIC",
+        "value": 400,
+        "question": "Vailima, this author's mansion in western Samoa, has now been \"Kidnapped\" by the country's head of state",
+        "answer": "Robert Louis Stevenson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE KING AND I",
+        "value": 400,
+        "question": "This Magna Carta king tells his son, \"I am a scribbled form, drawn with a pen upon a parchment\"",
+        "answer": "John",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 400,
+        "question": "In 1909 John Mitchell reportedly organized the first American troop of these boys, in Pawhuska",
+        "answer": "Boy Scouts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FLOWER",
+        "value": 400,
+        "question": "The opium variety of this flower yields a powerful narcotic, & non-narcotic seeds used in baking",
+        "answer": "Poppy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DRUM SONG",
+        "value": 400,
+        "question": "This heavy metal band bears the last name of drummer Alex as well as his brother Eddie",
+        "answer": "Van Halen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE SOUND OF \"MUSIC\"",
+        "value": 600,
+        "question": "A 1787 Mozart serenade, or a 1973 Sondheim show",
+        "answer": "\"A Little Night Music\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SOUTH PACIFIC",
+        "value": 600,
+        "question": "You can order carved wooden models of the HMS Bounty from this island's web site",
+        "answer": "Pitcairn Island",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE KING AND I",
+        "value": 600,
+        "question": "This title prince of Tyre taunts King Antiochus: \"Great king, few love to hear the sins they love to act\"",
+        "answer": "Pericles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 600,
+        "question": "At the turn of the century, the area was divided into 2 territories: Oklahoma & this",
+        "answer": "Indian Territory",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FLOWER",
+        "value": 600,
+        "question": "Blue Moon & Dainty Bess are hybrid tea varieties of this flower",
+        "answer": "Rose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DRUM SONG",
+        "value": 600,
+        "question": "\"Rumours\" have it this band that sang \"Go Your Own Way\" was named for its drummer",
+        "answer": "Fleetwood Mac",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE SOUND OF \"MUSIC\"",
+        "value": 800,
+        "question": "These first 3 words of a famous quote are useful when you need \"to soothe a savage breast\"",
+        "answer": "Music hath charms",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SOUTH PACIFIC",
+        "value": 800,
+        "question": "The Cook Islands use the currency of this island nation as well as its own, including a $2 triangular coin",
+        "answer": "New Zealand",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE KING AND I",
+        "value": 1600,
+        "question": "His fool calls him a fool, saying, \"All thy other titles thou hast given away; that thou wast born with\"",
+        "answer": "King Lear",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 800,
+        "question": "Oklahoma once competed annually with Georgia to see who could make the biggest pie out of these nuts",
+        "answer": "Pecans",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FLOWER",
+        "value": 800,
+        "question": "The story on these flowers, seen here, is that they open for only a few hours each day:",
+        "answer": "Morning Glory",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DRUM SONG",
+        "value": 800,
+        "question": "This jazz legend who died in 1987 waged epic drum battles with Gene Krupa",
+        "answer": "Buddy Rich",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE SOUND OF \"MUSIC\"",
+        "value": 1000,
+        "question": "According to Pythagoras, it was harmonious, made by the planets & inaudible on Earth",
+        "answer": "Music of the Spheres",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SOUTH PACIFIC",
+        "value": 1000,
+        "question": "The south Pacific's last remaining kingdom, its name means \"South\" in many Polynesian languages",
+        "answer": "Tonga",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE KING AND I",
+        "value": 1000,
+        "question": "Fed up with this fairy king, Titania vows, \"I have forsworn his bed and company\"",
+        "answer": "Oberon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 2000,
+        "question": "Like Florida's capital, this 2nd-largest Oklahoma city got its name from the Creek for \"old town\"",
+        "answer": "Tulsa",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FLOWER",
+        "value": 1000,
+        "question": "Butterflies are especially fond of these flowers whose name sounds like you just can't wait for them to grow",
+        "answer": "Impatiens",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DRUM SONG",
+        "value": 1000,
+        "question": "Since the breakup of his band, heard here, this drummer has become a noted film composer:",
+        "answer": "Stewart Copeland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN AUTHORS",
+    "clue": "This author born in 1904 grew up near Mulberry Street in Springfield, Massachusetts",
+    "answer": "Dr. Seuss (Theodor Geisel)"
+  },
+  "gameId": "3199",
+  "gameDate": "Thursday, June 25, 1998"
+}

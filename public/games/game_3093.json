@@ -1,0 +1,574 @@
+{
+  "title": "Show #5735 - Friday, July 10, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "BALLET",
+      "THE NIFTY 1930s",
+      "YOU NEED A DRINK",
+      "ZIP IT!",
+      "THE BRITISH PRIME MINISTER WHEN",
+      "DOUBLE DOUBLE \"O\""
+    ],
+    "clues": [
+      {
+        "category": "BALLET",
+        "value": 200,
+        "question": "This Shakespeare play inspired Jose Limon to create \"The Moor's Pavane\", & he danced the lead role himself",
+        "answer": "Othello",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE NIFTY 1930s",
+        "value": 200,
+        "question": "This future baseball giant first said \"Hey!\" to the world when he was born in Alabama in 1931",
+        "answer": "Willie Mays",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "YOU NEED A DRINK",
+        "value": 200,
+        "question": "George Washington was a fan of this holiday drink but used whiskey & brandy as well as rum",
+        "answer": "egg nog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ZIP IT!",
+        "value": 200,
+        "question": "To 58102, to send it to this biggest North Dakota city, you betcha",
+        "answer": "Fargo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE BRITISH PRIME MINISTER WHEN",
+        "value": 200,
+        "question": "...the 9/11 attacks occurred",
+        "answer": "Tony Blair",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE DOUBLE \"O\"",
+        "value": 200,
+        "question": "I'll have this Chinese dish of sliced chicken stir-fried with mushrooms & vegetables, to go",
+        "answer": "moo goo gai pan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BALLET",
+        "value": 400,
+        "question": "We're not toying with you: one of Andersen's fairy tales inspired the ballet \"The Steadfast Tin\" this",
+        "answer": "Soldier",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE NIFTY 1930s",
+        "value": 400,
+        "question": "1934 was the first year for this Oscar category, & the winner was \"The Continental\"",
+        "answer": "Best Song",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "YOU NEED A DRINK",
+        "value": 400,
+        "question": "To be patriotic during WWII, this soda invented in 1898 adopted red, white & blue colors, still on its logo today",
+        "answer": "Pepsi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ZIP IT!",
+        "value": 400,
+        "question": "To 99501, to send it to this largest Alaska city",
+        "answer": "Anchorage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE BRITISH PRIME MINISTER WHEN",
+        "value": 400,
+        "question": "...Argentina invaded the Falkland Islands",
+        "answer": "Margaret Thatcher",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE DOUBLE \"O\"",
+        "value": 400,
+        "question": "Hello... Hey you... Over there!  This chocolate drink has been around since the '20s",
+        "answer": "Yoo-hoo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BALLET",
+        "value": 600,
+        "question": "In \"Western Symphony\", dance hall girls & cowboys cavort to classic tunes like this \"River Valley\"",
+        "answer": "\"Red River Valley\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE NIFTY 1930s",
+        "value": 600,
+        "question": "This ski-nosed comic broke out of Vaudeville & made his Broadway acting debut in the 1933 musical \"Roberta\"",
+        "answer": "Bob Hope",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "YOU NEED A DRINK",
+        "value": 600,
+        "question": "A person used to be smashed onto a new boat as a sacrifice; this effervescent drink is less painful",
+        "answer": "champagne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ZIP IT!",
+        "value": 600,
+        "question": "To 86538, to send it to this Arizona town that was \"too tough to die\"",
+        "answer": "Tombstone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE BRITISH PRIME MINISTER WHEN",
+        "value": 600,
+        "question": "...World War II ended in Europe",
+        "answer": "Churchill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE DOUBLE \"O\"",
+        "value": 600,
+        "question": "George H.W. Bush derided Ronald Reagan's fiscal policies as this type of \"economics\"",
+        "answer": "voodoo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BALLET",
+        "value": 800,
+        "question": "It's the \"little\" French surname of choreographer Roland of the Ballets de Paris",
+        "answer": "Petit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE NIFTY 1930s",
+        "value": 800,
+        "question": "(Jon of the Clue Crew reports from Tavern on the Green.)  Tavern on the Green opened as a restaurant in 1934; this New York City mayor opened the door with a brass key & sampled the cuisine",
+        "answer": "LaGuardia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "YOU NEED A DRINK",
+        "value": 800,
+        "question": "To make this 4-letter drink, the rice has to be milled because the starch, which ferments, is in the center of the rice",
+        "answer": "sake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ZIP IT!",
+        "value": 800,
+        "question": "To 93308, to send it to this California city that gave its name to a country music \"Sound\"",
+        "answer": "Bakersfield",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE BRITISH PRIME MINISTER WHEN",
+        "value": 800,
+        "question": "...World War II broke out",
+        "answer": "Neville Chamberlain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE DOUBLE \"O\"",
+        "value": 800,
+        "question": "Don't get on that alien ship; \"To Serve Man\" is one of these kitchen helpers!",
+        "answer": "a cookbook",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BALLET",
+        "value": 1000,
+        "question": "The jazzy ballet \"Slaughter on Tenth Avenue\" was originally part of the Broadway musical \"On Your\" these",
+        "answer": "Toes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE NIFTY 1930s",
+        "value": 1000,
+        "question": "Agatha Christie set Hercule Poirot afloat on a boat called the Karnak in this exotic 1937 novel",
+        "answer": "Death on the Nile",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "YOU NEED A DRINK",
+        "value": 1000,
+        "question": "White & red wines differ in that the stems & these 2 other parts of the grape are not used for white",
+        "answer": "the skins & the seeds",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ZIP IT!",
+        "value": 1000,
+        "question": "To 97405, to send it to this Oregon college town, home of the Ducks",
+        "answer": "Eugene",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE BRITISH PRIME MINISTER WHEN",
+        "value": 1000,
+        "question": "...Queen Victoria was anointed Empress of India",
+        "answer": "Benjamin Disraeli",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE DOUBLE \"O\"",
+        "value": 1000,
+        "question": "The plan has no risk, it can't fail, it can only be described as this",
+        "answer": "foolproof",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "NOVEL-TIES",
+      "SUNDAY NIGHT TV",
+      "FAMOUS TRIALS",
+      "GOULASH",
+      "LET'S GO FOR A \"SPIN\"",
+      "AROUND THE MEDITERRANEAN"
+    ],
+    "clues": [
+      {
+        "category": "NOVEL-TIES",
+        "value": 400,
+        "question": "In 1905 this still-controversial Twain book was banned because a character said sweat instead of perspiration",
+        "answer": "Huckleberry Finn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SUNDAY NIGHT TV",
+        "value": 400,
+        "question": "In 1995 there was \"Cybill\", \"Mad About You\" & this series, \"The New Adventures of Superman\"",
+        "answer": "Lois & Clark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS TRIALS",
+        "value": 400,
+        "question": "Exhibits in her 1893 trial in New Bedford, Mass., included her parents' skulls & the head of a hatchet",
+        "answer": "Lizzie Borden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GOULASH",
+        "value": 400,
+        "question": "Streets in this Kansas town include Wyatt Earp Boulevard & Gunsmoke Street",
+        "answer": "Dodge City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A \"SPIN\"",
+        "value": 400,
+        "question": "\"Melrose Place\" was one for \"Beverly Hills 90210\"",
+        "answer": "a spin-off",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE MEDITERRANEAN",
+        "value": 400,
+        "question": "This large Italian island was once ruled by the House of Savoy",
+        "answer": "Sardinia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NOVEL-TIES",
+        "value": 800,
+        "question": "The title of this 1813 Austen novel comes from the second chapter of \"The Decline and Fall of the Roman Empire\"",
+        "answer": "Pride and Prejudice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SUNDAY NIGHT TV",
+        "value": 800,
+        "question": "In 1976 CBS's Sunday night lineup was \"60 Minutes\", \"Sonny & Cher\", then \"Who loves ya, baby?\", this detective",
+        "answer": "Kojak",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS TRIALS",
+        "value": 800,
+        "question": "Stabbed during his capture at Harpers Ferry, this abolitionist spent most of his 1859 trial lying on a cot",
+        "answer": "John Brown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GOULASH",
+        "value": 800,
+        "question": "This word, the first half of a familiar pair, refers to goods found floating in the sea from a shipwreck",
+        "answer": "flotsam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A \"SPIN\"",
+        "value": 800,
+        "question": "Here are the rules: if the soda container stops rotating & faces you, it's time to pucker up",
+        "answer": "spin the bottle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE MEDITERRANEAN",
+        "value": 800,
+        "question": "After World War I, France was given a League of Nations mandate over this country",
+        "answer": "Lebanon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NOVEL-TIES",
+        "value": 1200,
+        "question": "1904's \"Betty Zane\" was his first published novel--makes sense",
+        "answer": "Zane Grey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SUNDAY NIGHT TV",
+        "value": 1200,
+        "question": "Choices from 1955 included \"You Asked for It\", \"G.E. Theater\" & this movie director \"Presents\"",
+        "answer": "Alfred Hitchcock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS TRIALS",
+        "value": 1200,
+        "question": "At her 1976 bank robbery trial, this heiress' lawyer used a brainwashing defense; the jury didn't buy it",
+        "answer": "Patricia Hearst",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GOULASH",
+        "value": 1200,
+        "question": "A cousin of Paul Bunyan, this \"Mountain State\"'s woodsman Tony Beaver had 2 oxen named Hannibal & Goliath",
+        "answer": "West Virginia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A \"SPIN\"",
+        "value": 1200,
+        "question": "It can be a yarn maker, or a woman who never married",
+        "answer": "a spinster",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE MEDITERRANEAN",
+        "value": 1200,
+        "question": "In 1993, limited autonomy was granted to this coastal area that's home to 1.5 million people",
+        "answer": "the Gaza Strip",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NOVEL-TIES",
+        "value": 1600,
+        "question": "Her crime novels include \"Cause of Death\" & \"Cruel & Unusual\"",
+        "answer": "Patricia Cornwell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SUNDAY NIGHT TV",
+        "value": 1600,
+        "question": "In 2000, at 8:00 you could have watched \"The Simpsons\", \"Steve Harvey\" or this heavenly show with Roma Downey",
+        "answer": "Touched by an Angel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS TRIALS",
+        "value": 1600,
+        "question": "After his 1633 sentencing, he said he must \"abandon the false opinion that the sun is the center of the world\"",
+        "answer": "Galileo",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GOULASH",
+        "value": 1600,
+        "question": "This Christian martyr is said to have rescued the daughter of a king & slain the dragon victimizing a Libyan town",
+        "answer": "Saint George",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A \"SPIN\"",
+        "value": 1600,
+        "question": "It's the rotating skid of a car losing control",
+        "answer": "a spinout",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE MEDITERRANEAN",
+        "value": 1600,
+        "question": "Once part of the Roman Empire, this nation was part of the Ottoman Empire for 400 years",
+        "answer": "Albania",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NOVEL-TIES",
+        "value": 2000,
+        "question": "It's the numerical title of the Bret Easton Ellis novel made into a 1987 Robert Downey, Jr. film",
+        "answer": "Less than Zero",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SUNDAY NIGHT TV",
+        "value": 2000,
+        "question": "From 1959 until 1963 the lead-in for \"Ed Sullivan\" was this Jay North sitcom about a mischievous boy",
+        "answer": "Dennis the Menace",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS TRIALS",
+        "value": 2000,
+        "question": "The first of 12 trials held in this city in the late 1940s led to the convictions of Hermann Goering & 18 other Nazis",
+        "answer": "Nuremberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GOULASH",
+        "value": 2000,
+        "question": "This French glassmaker that shares its name with a card game is known among collectors for its paperweights",
+        "answer": "Baccarat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A \"SPIN\"",
+        "value": 2000,
+        "question": "The bowman on a yacht is there to set this sail",
+        "answer": "a spinnaker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE MEDITERRANEAN",
+        "value": 2000,
+        "question": "It's made up of three main islands & has a combined land area smaller than Philadelphia",
+        "answer": "Malta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE CALENDAR",
+    "clue": "This U.S. event was set after the harvest, on a day when rural folk could get there without having to travel on Sunday",
+    "answer": "Election Day"
+  },
+  "gameId": "5735",
+  "gameDate": "Friday, July 10, 2009"
+}

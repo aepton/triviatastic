@@ -1,0 +1,574 @@
+{
+  "title": "Show #3829 - Thursday, April 5, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "VENEZUELA VITALS",
+      "BASEBALL HOME STADIUMS",
+      "HUEY, DEWEY OR LOUIS",
+      "NIGHTS TO REMEMBER",
+      "FOOD & DRINK",
+      "WE GET LETTERS"
+    ],
+    "clues": [
+      {
+        "category": "VENEZUELA VITALS",
+        "value": 100,
+        "question": "In 1498 he first set foot on the South American mainland in what is now Venezuela",
+        "answer": "Christopher Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BASEBALL HOME STADIUMS",
+        "value": 100,
+        "question": "Camden Yards",
+        "answer": "the Baltimore Orioles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 100,
+        "question": "A populist Louisiana governor of the early 1930s",
+        "answer": "Huey Long",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NIGHTS TO REMEMBER",
+        "value": 100,
+        "question": "The music of the night filled the Majestic Theatre Jan. 26, 1988 as this show opened on Broadway",
+        "answer": "The Phantom of the Opera",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "Caesar Cardini, who wanted his Caesar salad subtly flavored, was against using this fish in the recipe",
+        "answer": "anchovies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WE GET LETTERS",
+        "value": 100,
+        "question": "Dial this \"for Murder\" in the title of a 1954 film",
+        "answer": "M",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "VENEZUELA VITALS",
+        "value": 200,
+        "question": "On the Venezuelan flag, there are 3 stripes & 7 of these",
+        "answer": "stars",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BASEBALL HOME STADIUMS",
+        "value": 200,
+        "question": "The Hubert H. Humphrey Metrodome",
+        "answer": "the Minnesota Twins",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 200,
+        "question": "\"Musicians don't retire, they stop when there's no more music in them\", quipped this trumpeter",
+        "answer": "Louis Armstrong",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NIGHTS TO REMEMBER",
+        "value": 200,
+        "question": "In 1862 black Confederate pilot Robert Smalls slipped out of this South Carolina harbor to join the Union",
+        "answer": "Charleston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Cherry Coke & Blue Bubble Gum are among the flavors of this semi-frozen concoction from 7-Eleven",
+        "answer": "a Slurpee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WE GET LETTERS",
+        "value": 200,
+        "question": "Duke Ellington wanted us all to take this train",
+        "answer": "the A-Train",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "VENEZUELA VITALS",
+        "value": 300,
+        "question": "In 1960 Venezuela formed this organization with Iran, Iraq, Kuwait & Saudi Arabia",
+        "answer": "OPEC (the Organization of Petroleum Exporting Countries)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BASEBALL HOME STADIUMS",
+        "value": 300,
+        "question": "Bank One Ballpark, in Phoenix",
+        "answer": "the Arizona Diamondbacks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 300,
+        "question": "A co-founder of the Black Panthers",
+        "answer": "Huey P. Newton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NIGHTS TO REMEMBER",
+        "value": 300,
+        "question": "A 1993 Knott's Berry Farm event attracted over 17,000, bringing these all-night dance parties out from underground",
+        "answer": "rave parties",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "This salad with chopped turkey, avocado, bacon & blue cheese was created at L.A.'s Brown Derby Restaurant",
+        "answer": "Cobb salad",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WE GET LETTERS",
+        "value": 300,
+        "question": "Played by John Cleese, this character was trained to succeed Q as James Bond's gadgeteer",
+        "answer": "R",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "VENEZUELA VITALS",
+        "value": 400,
+        "question": "Discovered in 1935 & found in Canaima National Park, they fall over half a mile",
+        "answer": "Angel Falls",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BASEBALL HOME STADIUMS",
+        "value": 400,
+        "question": "Olympic Stadium",
+        "answer": "the Montreal Expos",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 400,
+        "question": "For successes in the Spanish-American War, he was promoted to the special rank of Admiral of the Navy",
+        "answer": "Admiral George Dewey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NIGHTS TO REMEMBER",
+        "value": 400,
+        "question": "The Eiffel Tower is seen here inaugurating this date",
+        "answer": "New Year's Eve 2000",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "Sing out if you know that Singha beer comes from this country",
+        "answer": "Thailand",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WE GET LETTERS",
+        "value": 400,
+        "question": "Denoting nasalized pronounciation, the tilde mark is placed over this letter in Spanish",
+        "answer": "N",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "VENEZUELA VITALS",
+        "value": 500,
+        "question": "At 5,200 square miles, it's the largest lake in Venezuela & in all of South America",
+        "answer": "Lake Maracaibo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BASEBALL HOME STADIUMS",
+        "value": 500,
+        "question": "The Ballpark at Arlington",
+        "answer": "the Texas Rangers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 500,
+        "question": "This man sang lead on the 1986 Top 40 hit \"Hip To Be Square\"",
+        "answer": "Huey Lewis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NIGHTS TO REMEMBER",
+        "value": 500,
+        "question": "On the night of July 9, 1943 the Allies began their landing on this Italian island",
+        "answer": "Sicily",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "Strasbourg pie is a variation of this goose liver hors d'oeuvre",
+        "answer": "pate de foie gras",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WE GET LETTERS",
+        "value": 1000,
+        "question": "Of all movies to win the Best Foreign-Language Oscar, this 1969 Costa-Gavras thriller has the shortest title",
+        "answer": "Z",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GOVERNORS AT STATEHOOD",
+      "DAISY CRAZY",
+      "NAME THE POET",
+      "ALL GOD'S CREATURES",
+      "THE EXPERIENCE MUSIC PROJECT",
+      "KEEP QUIET!"
+    ],
+    "clues": [
+      {
+        "category": "GOVERNORS AT STATEHOOD",
+        "value": 200,
+        "question": "John Hancock",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DAISY CRAZY",
+        "value": 200,
+        "question": "One who is dead & buried is said to be performing this gardening maneuver",
+        "answer": "pushing up daisies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 200,
+        "question": "\"'Twas brillig, and the slithy toves did gyre and gimble in the wabe\"",
+        "answer": "Lewis Carroll",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ALL GOD'S CREATURES",
+        "value": 200,
+        "question": "Tuktut Nogait National Park in this country's Northwest Territories is a bluenose caribou calving ground",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE EXPERIENCE MUSIC PROJECT",
+        "value": 200,
+        "question": "This legendary leader of the Famous Flames is seen here headlining an EMP show",
+        "answer": "James Brown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "KEEP QUIET!",
+        "value": 200,
+        "question": "Shhh!You have no privacy when the walls have these body parts",
+        "answer": "ears",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GOVERNORS AT STATEHOOD",
+        "value": 400,
+        "question": "Edmund Randolph",
+        "answer": "Virginia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DAISY CRAZY",
+        "value": 400,
+        "question": "It's used as the printing element in certain electric typewriters & older computer printers",
+        "answer": "a daisy wheel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 400,
+        "question": "\"By the shores of Gitche Gumee, by the shining big-sea-water\"",
+        "answer": "Henry Wadsworth Longfellow (\"Song of Hiawatha\")",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ALL GOD'S CREATURES",
+        "value": 400,
+        "question": "This \"pocket\" rodent's name is from French for \"honeycomb\", alluding to its underground labyrinths",
+        "answer": "gopher",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE EXPERIENCE MUSIC PROJECT",
+        "value": 400,
+        "question": "In EMP's oral histories, find out how Noel Redding liked his experience playing bass in this man's experience",
+        "answer": "Jimi Hendrix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "KEEP QUIET!",
+        "value": 400,
+        "question": "You might be told to \"save your\" this; but don't \"hold\" it or you'll turn blue",
+        "answer": "breath",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GOVERNORS AT STATEHOOD",
+        "value": 600,
+        "question": "George Clinton",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DAISY CRAZY",
+        "value": 600,
+        "question": "Introduced in 1939, the Red Ryder has been the bestselling one of these",
+        "answer": "a Daisy BB gun",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 600,
+        "question": "\"I was a child and she was a child, in this kingdom by the sea\"",
+        "answer": "Edgar Allan Poe (\"Annabel Lee\")",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ALL GOD'S CREATURES",
+        "value": 600,
+        "question": "Algae make their own food from carbon dioxide & water by this process",
+        "answer": "photosynthesis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE EXPERIENCE MUSIC PROJECT",
+        "value": 600,
+        "question": "Seen here are your tax dollars at work in this agency's report on the suspicious lyrics of \"Louie Louie\"",
+        "answer": "the FBI",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "KEEP QUIET!",
+        "value": 600,
+        "question": "Would you believe that the Cone of Silence was an antibugging device on this TV show?",
+        "answer": "Get Smart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GOVERNORS AT STATEHOOD",
+        "value": 1600,
+        "question": "Peter Burnett(1850)",
+        "answer": "California",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DAISY CRAZY",
+        "value": 800,
+        "question": "She was hopelessly in love with Li'l Abner for 18 years before he popped the question in 1952",
+        "answer": "Daisy Mae",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 1600,
+        "question": "\"A child said 'What is the grass?'fetching it to me with full hands\"",
+        "answer": "Walt Whitman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ALL GOD'S CREATURES",
+        "value": 800,
+        "question": "The duck seen here bears the name of this colorful Comedia character",
+        "answer": "Harlequin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE EXPERIENCE MUSIC PROJECT",
+        "value": 800,
+        "question": "EMP's first online music workshop was led by Ann & Nancy Wilson of this group",
+        "answer": "Heart",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "KEEP QUIET!",
+        "value": 800,
+        "question": "It is \"the soul of wit\" & \"the soul of lingerie\"",
+        "answer": "brevity",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GOVERNORS AT STATEHOOD",
+        "value": 1000,
+        "question": "Thomas Pinckney",
+        "answer": "South Carolina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DAISY CRAZY",
+        "value": 1000,
+        "question": "This Henry James heroine dies of malaria in Rome before Giovanelli has the opportunity to propose to her",
+        "answer": "Daisy Miller",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 1000,
+        "question": "\"Into the valley of death rode the six hundred\"",
+        "answer": "Alfred Lord Tennyson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ALL GOD'S CREATURES",
+        "value": 1000,
+        "question": "This order of mammals consists of just 3 species: the duck-billed platypus & 2 echidnas",
+        "answer": "monotremes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE EXPERIENCE MUSIC PROJECT",
+        "value": 1000,
+        "question": "The historic items seen here were the tools of this '80s grandmaster of hip-hop",
+        "answer": "Grandmaster Flash",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "KEEP QUIET!",
+        "value": 1000,
+        "question": "He wrote that \"The mass of men lead lives of quiet desparation\"",
+        "answer": "Henry David Thoreau",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "DOCUMENTARIES",
+    "clue": "This 1989 film ends with the line \"This film cannot be shown within the city of Flint.  All the theaters have closed\"",
+    "answer": "Roger & Me"
+  },
+  "gameId": "3829",
+  "gameDate": "Thursday, April 5, 2001"
+}

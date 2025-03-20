@@ -1,0 +1,574 @@
+{
+  "title": "Show #8678 - Wednesday, July 6, 2022",
+  "jeopardyRound": {
+    "categories": [
+      "GEOGRAPHY",
+      "MOVIE MAGIC & WIZARDRY",
+      "STOCK SYMBOLS",
+      "WE RECOGNIZE",
+      "THE REPRESENTATIVE FROM...",
+      "THE STATE OF DENIAL"
+    ],
+    "clues": [
+      {
+        "category": "GEOGRAPHY",
+        "value": 200,
+        "question": "Norway spruces are a prominent feature of this area that covers 2,300 square miles of southwest Germany",
+        "answer": "the Black Forest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MAGIC & WIZARDRY",
+        "value": 200,
+        "question": "Amateur magician Tony Curtis did his own tricks in a 1953 biopic of this conjurer & escape artist",
+        "answer": "Houdini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STOCK SYMBOLS",
+        "value": 200,
+        "question": "XOM: This energy company",
+        "answer": "ExxonMobil",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WE RECOGNIZE",
+        "value": 200,
+        "question": "It's the headwear seen here worn by a lot of '50s kids emulating TV's Davy Crockett",
+        "answer": "a coonskin cap",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE REPRESENTATIVE FROM...",
+        "value": 200,
+        "question": "Wyoming: This woman starting in 2017, taking the seat her dad had won nearly 40 years before",
+        "answer": "Liz Cheney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE STATE OF DENIAL",
+        "value": 200,
+        "question": "This vote of \"no\" is a homophone for an animal sound; what say ye?",
+        "answer": "nay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 400,
+        "question": "Washington's Whidbey Island forms part of the northern boundary of this inlet",
+        "answer": "the Puget Sound",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MAGIC & WIZARDRY",
+        "value": 400,
+        "question": "At age 78, Ian McKellen said this character \"is over 7,000 years old, so I'm not too old\"",
+        "answer": "Gandalf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STOCK SYMBOLS",
+        "value": 400,
+        "question": "MRNA: They take a variant approach",
+        "answer": "Moderna",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WE RECOGNIZE",
+        "value": 400,
+        "question": "We recognize this flower; seen here is the creeping type that grows wild across North America",
+        "answer": "a buttercup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE REPRESENTATIVE FROM...",
+        "value": 400,
+        "question": "Mississippi: Bennie Thompson, who chairs the Select Committee investigating the events of this date in 2021",
+        "answer": "January 6th",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE STATE OF DENIAL",
+        "value": 400,
+        "question": "What has happened to an appeal that won't be heard, or to a class that has been allowed to leave a school room",
+        "answer": "dismissed",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 600,
+        "question": "This largest Caribbean island is known as \"The Pearl of the Antilles\"",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MAGIC & WIZARDRY",
+        "value": 600,
+        "question": "In \"Harry Potter & the Chamber of Secrets\", Professor Snape uses this spell to disarm Professor Lockhart",
+        "answer": "Expelliarmus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STOCK SYMBOLS",
+        "value": 600,
+        "question": "BABA: It's big in China",
+        "answer": "Alibaba",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WE RECOGNIZE",
+        "value": 600,
+        "question": "Here's this fruit dessert being prepared in its unique way, & don't be stingy with the brandy",
+        "answer": "cherries jubilee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE REPRESENTATIVE FROM...",
+        "value": 600,
+        "question": "California: This late singer of \"I Got You Babe\" whose name is on the 1998 copyright extension act",
+        "answer": "Sonny Bono",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE STATE OF DENIAL",
+        "value": 600,
+        "question": "A bill that passes the U.S. Senate with at least 67 votes is said to be this type of denial-proof",
+        "answer": "veto",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 800,
+        "question": "Venice & Trieste are important ports on this sea, an arm of the Mediterranean",
+        "answer": "the Adriatic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MAGIC & WIZARDRY",
+        "value": 800,
+        "question": "Magician Nicolas Cage hires an assistant in this 2010 Disney film with the same title as a segment of \"Fantasia\"",
+        "answer": "The Sorcerer's Apprentice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STOCK SYMBOLS",
+        "value": 800,
+        "question": "GME: Power to the players",
+        "answer": "GameStop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WE RECOGNIZE",
+        "value": 800,
+        "question": "Great with kids & known for its intelligence, this breed was developed in Germany",
+        "answer": "a Boxer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE REPRESENTATIVE FROM...",
+        "value": 800,
+        "question": "Ohio: This man, a Republican Speaker of the House from 2011 to 2015 & later, an advocate for marijuana legalization",
+        "answer": "John Boehner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE STATE OF DENIAL",
+        "value": 800,
+        "question": "Adjective for an absolute denial; it could also refer to the way clues are divided up on a \"Jeopardy!\" board",
+        "answer": "categorical",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 1000,
+        "question": "Afrikaner Gert Alberts was the leader of a famous crossing of this desert in the 1870s",
+        "answer": "the Kalahari Desert",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MAGIC & WIZARDRY",
+        "value": 1000,
+        "question": "Sandra Bullock & Nicole Kidman were witch sisters in this 1998 movie",
+        "answer": "Practical Magic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STOCK SYMBOLS",
+        "value": 1000,
+        "question": "GOOG:Actually this 8-letter name now",
+        "answer": "Alphabet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WE RECOGNIZE",
+        "value": 1000,
+        "question": "We'll get your initial reaction to this mega wealthy financier who cancelled his reservation on the \"Titanic\"",
+        "answer": "J.P. Morgan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE REPRESENTATIVE FROM...",
+        "value": 1000,
+        "question": "This state: Don Young, who passed away in 2022 after serving nearly 50 years in the House",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE STATE OF DENIAL",
+        "value": 1000,
+        "question": "Change one letter in \"refuse\" to get this, meaning to prove a statement or theory to be wrong",
+        "answer": "refute",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORICAL HODGEPODGE",
+      "LITERARY DOCTORS",
+      "BILLBOARD NO. 1 LYRICS",
+      "EXAMINE THE SCIENCE",
+      "IN THE COURTROOM",
+      "\"A\" BEFORE \"E\""
+    ],
+    "clues": [
+      {
+        "category": "HISTORICAL HODGEPODGE",
+        "value": 400,
+        "question": "Abyssinia is an old name for this African country",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LITERARY DOCTORS",
+        "value": 400,
+        "question": "Yuri is the first name of this Russian doctor who made an international splash in 1957",
+        "answer": "Doctor Zhivago",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BILLBOARD NO. 1 LYRICS",
+        "value": 400,
+        "question": "2019: \"I got the horses in the back, horse tack is attached\"",
+        "answer": "\"Old Town Road\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EXAMINE THE SCIENCE",
+        "value": 400,
+        "question": "Divide an object's speed by the speed of sound to get this number; passenger jets often cruise at about .8",
+        "answer": "Mach",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IN THE COURTROOM",
+        "value": 400,
+        "question": "Lawyers may ask to approach this to ask a question & a judge may issue a warrant from it",
+        "answer": "the bench",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"A\" BEFORE \"E\"",
+        "value": 400,
+        "question": "A \"Best of Bob Marley\" album calls him \"The King of\" this",
+        "answer": "Reggae",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORICAL HODGEPODGE",
+        "value": 800,
+        "question": "Among this president's stable of horses were Reb, Billy Button & Jeff Davis",
+        "answer": "U.S. Grant",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LITERARY DOCTORS",
+        "value": 800,
+        "question": "Hugh Lofting created this animal-loving M.D. during World War I in letters to his children from the front",
+        "answer": "Doctor Dolittle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BILLBOARD NO. 1 LYRICS",
+        "value": 800,
+        "question": "2017: \"I'm in love with your body, every day discovering something brand new\"",
+        "answer": "\"Shape Of You\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EXAMINE THE SCIENCE",
+        "value": 800,
+        "question": "For milk in the U.S., this process requires 161 degrees for at least 15 seconds; buh bye, bacteria!",
+        "answer": "pasteurization",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IN THE COURTROOM",
+        "value": 800,
+        "question": "This tool of judges is ceremonially passed when Florida's Supreme Court changes chief justices",
+        "answer": "the gavel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"A\" BEFORE \"E\"",
+        "value": 800,
+        "question": "The name of this field of science means \"ancient study\"",
+        "answer": "archaeology",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORICAL HODGEPODGE",
+        "value": 1200,
+        "question": "Thomas Cranmer, who held this religious post from 1533 to 1556, was the first Protestant in the job",
+        "answer": "the Archbishop of Canterbury",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LITERARY DOCTORS",
+        "value": 1200,
+        "question": "Charles, a dull country doctor, is the husband of excitement-craving Emma, this Flaubert title character",
+        "answer": "Madame Bovary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BILLBOARD NO. 1 LYRICS",
+        "value": 1200,
+        "question": "2006: \"You're taking one down, you sing a sad song just to turn it around\"",
+        "answer": "\"Bad Day\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EXAMINE THE SCIENCE",
+        "value": 1200,
+        "question": "Per Richard Feynman, if velocities of rebound are almost equal to initial velocities, \"such a collision is\" this rubbery adjective",
+        "answer": "elastic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IN THE COURTROOM",
+        "value": 1200,
+        "question": "Rusty Burrell was this type of officer who keeps order in the court & sometimes executes writs",
+        "answer": "a bailiff",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"A\" BEFORE \"E\"",
+        "value": 1200,
+        "question": "A distinguished musical conductor is often referred to by this title, if you please",
+        "answer": "maestro",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORICAL HODGEPODGE",
+        "value": 1600,
+        "question": "Seen here is the April 1961 first day of the trial of this man, one of the most important proceedings of the 20th century",
+        "answer": "Adolf Eichmann",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LITERARY DOCTORS",
+        "value": 1600,
+        "question": "\"Dr. Heidegger's Experiment\" is one of this author's 1837 \"Twice-Told Tales\"",
+        "answer": "Nathaniel Hawthorne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BILLBOARD NO. 1 LYRICS",
+        "value": 1600,
+        "question": "1984: \"Dig if you will the picture, of you & I engaged in a kiss\"",
+        "answer": "\"When Doves Cry\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EXAMINE THE SCIENCE",
+        "value": 1600,
+        "question": "In 1672, Cassini discovered Rhea, the second-largest moon of this planet, now discover Rhea for yourself via the Cassini spacecraft",
+        "answer": "Saturn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IN THE COURTROOM",
+        "value": 1600,
+        "question": "Out of the jury's hearing it's the area where the attorneys are standing or the type of discussion they're in",
+        "answer": "a sidebar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"A\" BEFORE \"E\"",
+        "value": 1600,
+        "question": "This spiky piece of equipment is used to perforate your lawn to allow better penetration of water & nutrients",
+        "answer": "an aerator",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORICAL HODGEPODGE",
+        "value": 2000,
+        "question": "An earthquake prior to the 15th century is believed to have toppled this ancient wonder of Halicarnassus",
+        "answer": "the Mausoleum of Halicarnassus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LITERARY DOCTORS",
+        "value": 2000,
+        "question": "This German author's novel \"Doctor Faustus\" reimagines the doc as a 20th century composer",
+        "answer": "Thomas Mann",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BILLBOARD NO. 1 LYRICS",
+        "value": 2000,
+        "question": "1987: \"Baby, I know you're asking me to stay, say 'please, please, please, don't go away\"'",
+        "answer": "\"Faith\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EXAMINE THE SCIENCE",
+        "value": 2000,
+        "question": "About 66 million years ago, an asteroid hit Earth with a yield of 100 trillion tons of TNT, ending this \"middle life\" era",
+        "answer": "the Mesozoic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IN THE COURTROOM",
+        "value": 2000,
+        "question": "You may want to find out where your case is on this 6-letter agenda of pending trials",
+        "answer": "the docket",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"A\" BEFORE \"E\"",
+        "value": 2000,
+        "question": "Legend says this ancient dramatist died when a tortoise fell on his head",
+        "answer": "Aeschylus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AGRICULTURE",
+    "clue": "Being brought to the U.S. by a ship docking at San Francisco in 1851 helped lead to it now being a major crop in the Midwest",
+    "answer": "soybeans"
+  },
+  "gameId": "8678",
+  "gameDate": "Wednesday, July 6, 2022"
+}

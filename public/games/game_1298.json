@@ -1,0 +1,574 @@
+{
+  "title": "Show #3625 - Friday, May 12, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "EARLS",
+      "NAME THE PLAYWRIGHT",
+      "FANDEMONIUM",
+      "FORTUNE 500 COMPANIES",
+      "THE ABCs OF THE CDC",
+      "ATALANTA"
+    ],
+    "clues": [
+      {
+        "category": "EARLS",
+        "value": 100,
+        "question": "Earl Browder, author of \"Marx And America\", was general secretary of this U.S. party from 1930 to 1944",
+        "answer": "Communist Party",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NAME THE PLAYWRIGHT",
+        "value": 100,
+        "question": "\"A Doll's House\"",
+        "answer": "Henrik Ibsen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FANDEMONIUM",
+        "value": 100,
+        "question": "Many Deadheads' lives revolved around the live concerts performed by this band",
+        "answer": "Grateful Dead",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FORTUNE 500 COMPANIES",
+        "value": 100,
+        "question": "A lot of investors are stuck on this company that markets Acuvue & baby shampoo",
+        "answer": "Johnson & Johnson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE ABCs OF THE CDC",
+        "value": 100,
+        "question": "In 1992 the CDC added this word to its name to reflect its broader role, but didn't add \"P\" to its initials",
+        "answer": "Prevention",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ATALANTA",
+        "value": 100,
+        "question": "Atalanta was the daughter of Iasus, king of Arcadia, on this peninsula that was also home to Sparta",
+        "answer": "Peloponnesus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 200,
+        "question": "By the time he died in 1992, his \"Any Car, Any Color\" offer had risen from $29.95 to $119.95",
+        "answer": "Earl Scheib",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NAME THE PLAYWRIGHT",
+        "value": 200,
+        "question": "\"Summer And Smoke\"",
+        "answer": "Tennessee Williams",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FANDEMONIUM",
+        "value": 200,
+        "question": "Jack Nicholson is a courtside fixture at this NBA team's home games",
+        "answer": "Los Angeles Lakers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FORTUNE 500 COMPANIES",
+        "value": 200,
+        "question": "Fall into this retailer that also operates the Banana Republic & Old Navy stores",
+        "answer": "The Gap",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE ABCs OF THE CDC",
+        "value": 200,
+        "question": "The CDC says this form of cancer, which includes melanoma, is the most common in the U.S.",
+        "answer": "Skin cancer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ATALANTA",
+        "value": 200,
+        "question": "Left to die in the wild by her dad, who didn't want a girl, she was suckled by one of these ursine creatures",
+        "answer": "Bear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 300,
+        "question": "He narrated, no doubt resonantly, the 1972 documentary \"Malcolm X\"",
+        "answer": "James Earl Jones",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NAME THE PLAYWRIGHT",
+        "value": 300,
+        "question": "\"The Sisters Rosensweig\"",
+        "answer": "Wendy Wasserstein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FANDEMONIUM",
+        "value": 300,
+        "question": "Fans of this high-flying sport involving lots of string may know it's Thailand's most popular",
+        "answer": "Kite flying",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FORTUNE 500 COMPANIES",
+        "value": 600,
+        "question": "This Dallas-based maker of semiconductors got its start in the 1930s as an oil exploration company",
+        "answer": "Texas Instruments",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE ABCs OF THE CDC",
+        "value": 300,
+        "question": "At its inception in 1946, the CDC fought this mosquito-borne disease that was prevalent in the South at the time",
+        "answer": "Malaria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ATALANTA",
+        "value": 300,
+        "question": "To marry Atalanta, a suitor had to beat her in one of these competitions",
+        "answer": "Footrace",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 400,
+        "question": "This future chief justice was Dewey's running mate when he didn't defeat Truman",
+        "answer": "Earl Warren",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NAME THE PLAYWRIGHT",
+        "value": 400,
+        "question": "\"Rhinoceros\"",
+        "answer": "Eugene Ionesco",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FANDEMONIUM",
+        "value": 400,
+        "question": "Male fans of this football team's \"Hogs\" dress as women & are called \"Hogettes\"",
+        "answer": "Washington Redskins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FORTUNE 500 COMPANIES",
+        "value": 400,
+        "question": "In 1999 the Class A stock of this company headed by Warren Buffett reached a 52-week high of $81,000 a share",
+        "answer": "Berkshire Hathaway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE ABCs OF THE CDC",
+        "value": 400,
+        "question": "In 1981 the first cases of this disease were published in the CDC's \"Morbidity And Mortality Weekly Report\"",
+        "answer": "AIDS",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ATALANTA",
+        "value": 400,
+        "question": "After being the first to wound the Calydonian, one of these wild tusked creatures, Atalanta was awarded its hide",
+        "answer": "Boar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 500,
+        "question": "\"The Ballad of Jed Clampett\" wasn't recorded by Flatt & Sharp but by Flatt & him",
+        "answer": "Earl Scruggs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NAME THE PLAYWRIGHT",
+        "value": 500,
+        "question": "\"Murder In The Cathedral\"",
+        "answer": "T.S. Eliot",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FANDEMONIUM",
+        "value": 500,
+        "question": "The band Simply Red took their name in part from their love of this northern English soccer team",
+        "answer": "Manchester United",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FORTUNE 500 COMPANIES",
+        "value": 500,
+        "question": "Here's to your health & here's to this insurance group, whose service mark is seen here",
+        "answer": "CIGNA",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE ABCs OF THE CDC",
+        "value": 500,
+        "question": "The CDC is an agency of this department of the federal government",
+        "answer": "Health & Human Services",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ATALANTA",
+        "value": 500,
+        "question": "This Greek goddess of the hunt took an interest in Atalanta, who grew up to be a great hunter",
+        "answer": "Artemis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EARLS",
+      "20th CENTURY WOMEN",
+      "THE LAW",
+      "BALLET",
+      "QUOTATIONS",
+      "GEORGIA FACTS"
+    ],
+    "clues": [
+      {
+        "category": "EARLS",
+        "value": 200,
+        "question": "The Earls of Arundel & Warren got their names on this 1215 document along with King John",
+        "answer": "Magna Carta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 200,
+        "question": "Her nicknames include \"Queen of the West\" & \"Queen of the Cowgirls\"",
+        "answer": "Dale Evans",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 200,
+        "question": "In colonial America, this crime of being married to 2 persons at the same time was punishable by death",
+        "answer": "Polygamy/bigamy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 200,
+        "question": "This Spanish surrealist designed a\"maze\"ing sets & costumes for the 1941 ballet \"Labyrinth\"",
+        "answer": "Salvador Dali",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 200,
+        "question": "On the death of his wife Linda in 1998, this musician said, \"I have lost my girlfriend, and that is very sad\"",
+        "answer": "Paul McCartney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GEORGIA FACTS",
+        "value": 200,
+        "question": "In 1793 he invented the cotton gin in Georgia",
+        "answer": "Eli Whitney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 400,
+        "question": "We don't know if the Earl Granville gave advice on outhouses  as lord president of this council from 1751 to 1763",
+        "answer": "Privy Council",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 400,
+        "question": "The 90-word title of her 1999 album is a poem that she wrote in response to an unflattering magazine article about her",
+        "answer": "Fiona Apple",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 400,
+        "question": "This type of court is used to determine the validity of a deceased person's will",
+        "answer": "Probate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 400,
+        "question": "A picnic with Rasputin is the opening scene of the ballet named for this grand duchess",
+        "answer": "Anastasia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 400,
+        "question": "David Ben-Gurion once remarked, \"Without\" this city, \"we are a body without a soul\"",
+        "answer": "Jerusalem",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GEORGIA FACTS",
+        "value": 400,
+        "question": "This presidential brother is buried in Plains",
+        "answer": "Billy Carter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 600,
+        "question": "This 1623 edition of Shakespeare is dedicated to the Earls of Pembroke & Montgomery",
+        "answer": "First Folio",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 600,
+        "question": "Her books include \"I Lost It At The Movies\" & \"5001 Nights At The Movies\"",
+        "answer": "Pauline Kael",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 600,
+        "question": "From the Greek for \"not remembered\", it's a pardon granted by the government to political offenders",
+        "answer": "Amnesty",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 600,
+        "question": "In 1992 dancer Kevin McKenzie became artistic director of this company once led by Mikhail Baryshnikov",
+        "answer": "American Ballet Theatre",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 600,
+        "question": "The witticism \"A verbal agreement isn't worth the paper it's written on\" is attributed to this film pioneer",
+        "answer": "Samuel Goldwyn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GEORGIA FACTS",
+        "value": 600,
+        "question": "In 1733 he founded the Georgia colony & served as its governor for the next 10 years",
+        "answer": "James Oglethorpe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 800,
+        "question": "The surrenderer, seen here, was both Earl & Marquis of this",
+        "answer": "Cornwallis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 800,
+        "question": "Fruity first name of acclaimed Japanese author Yoshimoto, whose books include \"N.P.\", \"Amrita\" & \"Kitchen\"",
+        "answer": "Banana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 1600,
+        "question": "He was the first of our presidents to practice law",
+        "answer": "John Adams",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 800,
+        "question": "A cowgirl wins the heart of a champion roper in this Agnes De Mille ballet",
+        "answer": "Rodeo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 800,
+        "question": "Of that famous incident in 1955, she said, \"All I was doing was trying to get home from work\"",
+        "answer": "Rosa Parks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GEORGIA FACTS",
+        "value": 800,
+        "question": "Add 3 words to New York State's nickname & you get this nickname for Georgia",
+        "answer": "\"The Empire State of the South\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EARLS",
+        "value": 1000,
+        "question": "In 1896, commanding Egypt's army, Earl Kitchener invaded this country to the south",
+        "answer": "Sudan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY WOMEN",
+        "value": 2000,
+        "question": "She published her first book \"Contemporary Women Artists\", to raise money for the Carmelite order",
+        "answer": "Sister Wendy",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 1000,
+        "question": "In 1979 this Watergate judge wrote a book about his experiences titled \"To Set The Record Straight\"",
+        "answer": "John Sirica",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 1000,
+        "question": "This \"Pomp And Circumstance\" composer is a character in the ballet named for his \"Enigma Variations\"",
+        "answer": "Edward Elgar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 1000,
+        "question": "Last name of the officer to whom Admiral Dewey gave the command, \"You may fire when you are ready\"",
+        "answer": "(Charles) Gridley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GEORGIA FACTS",
+        "value": 1000,
+        "question": "The Museum of Aviation in Warner Robins has an exhibit on this famous group of Black American pilots",
+        "answer": "Tuskegee Airmen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD LANDMARKS",
+    "clue": "In the 1920s this nation's churches pooled their money & erected a 120-foot religious monument on a 2,300-foot peak",
+    "answer": "Brazil"
+  },
+  "gameId": "3625",
+  "gameDate": "Friday, May 12, 2000"
+}

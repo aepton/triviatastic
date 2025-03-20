@@ -1,0 +1,574 @@
+{
+  "title": "Show #2869 - Thursday, February 6, 1997",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "AWARDS",
+      "ANIMALS",
+      "STAR TREK",
+      "HODGEPODGE",
+      "\"G\"EOGRAPHY"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 100,
+        "question": "Magnetism occurs most strongly in 3 elements: nickel, cobalt & this",
+        "answer": "Iron",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 100,
+        "question": "The American branch of this group gives the Charles Drew Award for contribution to blood services",
+        "answer": "the American Red Cross",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "The African rain forests are the natural habitat of these largest apes",
+        "answer": "Gorillas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STAR TREK",
+        "value": 100,
+        "question": "David Marcus, son of this captain on the original \"Star Trek\", was killed on the Genesis planet",
+        "answer": "James T. Kirk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 100,
+        "question": "This Norse god had iron gloves, a belt of strength & a magic hammer",
+        "answer": "Thor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 100,
+        "question": "This sacred river flows through Bangladesh before emptying into the Bay of Bengal",
+        "answer": "Ganges",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "In 1665 Robert Hooke described & named this structural unit; bacteria have only one",
+        "answer": "Cell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 200,
+        "question": "The year's best praise & worship album is recognized by the association for this type of vocal music",
+        "answer": "Gospel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "The red kangaroo is among the largest of these pouched mammals",
+        "answer": "marsupials",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STAR TREK",
+        "value": 400,
+        "question": "Creature seen here from the original series, it was brought back for a special \"DS9\" episode",
+        "answer": "a tribble",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 200,
+        "question": "Wind instruments blown by the player are traditionally divided into woodwinds & these",
+        "answer": "brass",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 200,
+        "question": "2 rocks known as the Pillars of Hercules  flank the eastern end of this strait",
+        "answer": "Gibraltar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 300,
+        "question": "In 1698 Thomas Savery designed the first practical engine to run on this power",
+        "answer": "steam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 300,
+        "question": "This body's peacekeeping forces were awarded the Nobel Peace Prize in 1988",
+        "answer": "United Nations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "One of these mammals that inhabits the East Indies has a wingspan of over 5 1/2 feet",
+        "answer": "Bat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STAR TREK",
+        "value": 300,
+        "question": "Zefram Cochrane, who invented this type of drive in 2061, appeared in the 1996 film \"First Contact\"",
+        "answer": "Warp drive",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 300,
+        "question": "In 1844 Charles Goodyear earned a patent to inhibit this material from melting & sticking",
+        "answer": "Rubber",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 300,
+        "question": "Formerly occupied by Israel, this narrow piece of land reverted to Palestinian control in 1994",
+        "answer": "Gaza Strip",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "This blood protein now comes in alpha, beta & gamma types",
+        "answer": "Globulins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 400,
+        "question": "After spending 188 days in space, she became the first female winner of the Space Medal of Honor",
+        "answer": "Shannon Lucid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "This spiny relative of the starfish is sometimes referred to as a sea hedgehog",
+        "answer": "Sea Urchin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STAR TREK",
+        "value": 400,
+        "question": "The Grand Nagus is the master of commerce in this race that has 285 \"Rules of Acquisition\"",
+        "answer": "Ferengi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 400,
+        "question": "Carnivorous name for the warders of the Tower of London",
+        "answer": "Beefeaters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 400,
+        "question": "The name of this Asian desert is Mongolian for \"place without water\"",
+        "answer": "Gobi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 500,
+        "question": "Simple machine Archimedes would use to \"move the Earth\" if you gave him a firm spot on which to stand",
+        "answer": "Lever",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 500,
+        "question": "The American Library Association presents an award named for this \"Little House on the Prairie\" author",
+        "answer": "Laura Ingalls Wilder",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "This largest wild cat of the Americas looks similar to a leopard",
+        "answer": "Jaguar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STAR TREK",
+        "value": 500,
+        "question": "\"Benson\" alumni aliens are Ethan Phillips, Neelix on \"Voyager\", & Rene Auberjonois, who plays this role on \"DS9\"",
+        "answer": "Odo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 500,
+        "question": "Though blind & deaf since age 19 months, she graduated with honors from Radcliffe in 1904",
+        "answer": "Helen Keller",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"G\"EOGRAPHY",
+        "value": 500,
+        "question": "Once known as the Enchanted Isles, they lie about 600 miles west of Ecuador",
+        "answer": "Galapagos Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "TEENS OF THE PAST",
+      "RELIGION",
+      "COOKING",
+      "DRAMA",
+      "NATIONAL PARKS",
+      "ETYMOLOGY"
+    ],
+    "clues": [
+      {
+        "category": "TEENS OF THE PAST",
+        "value": 200,
+        "question": "This Scotswoman was just 16 when she became queen of France in 1559",
+        "answer": "Mary, Queen of Scots",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "Muslims worship the same god as Jews & Christians but usually call him by this name",
+        "answer": "Allah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 200,
+        "question": "This barbeled \"feline\" fish is often pan-fried & served with lemon wedges",
+        "answer": "Catfish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DRAMA",
+        "value": 200,
+        "question": "In \"Arsenic And Old Lace\", the nephew who thinks he's Teddy Roosevelt digs this \"canal\" in the basement",
+        "answer": "The Panama Canal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 200,
+        "question": "President Grant signed the legislation making this the first national park in 1872",
+        "answer": "Yellowstone National Park",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ETYMOLOGY",
+        "value": 200,
+        "question": "\"Pop\", as in \"Pop Art\", is a shortened form of this word",
+        "answer": "Popular",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "TEENS OF THE PAST",
+        "value": 400,
+        "question": "In 1888 at age 19, this future spiritual leader of India arrived in England to study law",
+        "answer": "Mohandas Gandhi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 400,
+        "question": "This synagogue ceremony marking manhood dates to the Middle Ages",
+        "answer": "Bar Mitzvah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 400,
+        "question": "Ingredients of this french fry condiment include tomatoes, cinnamon sticks, cider vinegar & garlic",
+        "answer": "Ketchup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DRAMA",
+        "value": 400,
+        "question": "In this play by Neil Simon, Felix moves in with Oscar after his wife leaves him",
+        "answer": "\"The Odd Couple\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 400,
+        "question": "Utah's Arches National Park, which borders a deep gorge of this river, has at least 950 natural arches",
+        "answer": "Colorado River",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ETYMOLOGY",
+        "value": 400,
+        "question": "\"Blackboard\" & \"loudspeaker\" are examples of this type of word formed by combining 2 words",
+        "answer": "Compound word",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "TEENS OF THE PAST",
+        "value": 600,
+        "question": "This lord was a teenager when his first volume of poetry, \"Fugitive Pieces\", appeared in 1806",
+        "answer": "Lord Byron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 600,
+        "question": "In Catholicism it's the place of purification for the dead who still bear some trace of sin",
+        "answer": "Purgatory",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 600,
+        "question": "If you fold in beaten egg whites, these breakfast treats made in a special iron will be extra light",
+        "answer": "Waffles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DRAMA",
+        "value": 600,
+        "question": "This humorist wrote a \"Carnival\" of sketches based on his stories like \"The Night The Bed Fell\"",
+        "answer": "James Thurber",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 600,
+        "question": "Denali, also known as this, is the highest peak in Alaska's Denali National Park",
+        "answer": "Mount McKinley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ETYMOLOGY",
+        "value": 600,
+        "question": "This suffix meaning \"the study of\" has become a synonym for any science",
+        "answer": "-ology",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TEENS OF THE PAST",
+        "value": 800,
+        "question": "In his teens this Elizabethan courtier from Devon fought on the Huguenot side in France's wars of religion",
+        "answer": "Sir Walter Raleigh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 1600,
+        "question": "Meaning \"act\", it's the term in Hinduism for acts done in one life that have repercussions in the next",
+        "answer": "Karma",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 800,
+        "question": "These rolls whose name is French for \"crescent\" may be brushed with beaten egg yolk before baking",
+        "answer": "Croissant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DRAMA",
+        "value": 800,
+        "question": "His \"Ah, Wilderness!\" takes place in Connecticut July 4 & 5, 1906",
+        "answer": "Eugene O'Neill",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 1600,
+        "question": "Fort Jefferson in this state's Dry Tortugas National Park was a federal prison in the Civil War",
+        "answer": "Florida",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ETYMOLOGY",
+        "value": 800,
+        "question": "Taken together, suffixes & these are known as affixes",
+        "answer": "Prefixes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TEENS OF THE PAST",
+        "value": 1000,
+        "question": "Niccolo Paganini was only 13 when he began composing pieces for this instrument",
+        "answer": "Violin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 1000,
+        "question": "The Lun Yu or \"Analects\" is the most reliable source on the life & teachings of this Chinese sage",
+        "answer": "Confucius",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 1000,
+        "question": "Allergic to chocolate?  Use this health food store item, also known as locust bean, to flavor fudge",
+        "answer": "Carob",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DRAMA",
+        "value": 1000,
+        "question": "This title heroine of a Sophocles play insists on burying her brother Polyneices",
+        "answer": "Antigone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 1000,
+        "question": "This California park, the site of El Capitan, was administered by the U.S. Army from 1890 to 1914",
+        "answer": "Yosemite",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ETYMOLOGY",
+        "value": 1000,
+        "question": "Term for words taken directly from another language; for example, \"Influenza\" is from Italian",
+        "answer": "Borrowed/loaned word",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. PRESIDENTS",
+    "clue": "The last names of 8 different presidents end with this 3-letter combination",
+    "answer": "-son (Jefferson, Madison, Jackson, W.H. Harrison, A. Johnson, B. Harrison, Wilson & L. Johnson)"
+  },
+  "gameId": "2869",
+  "gameDate": "Thursday, February 6, 1997"
+}

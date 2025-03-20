@@ -1,0 +1,574 @@
+{
+  "title": "Show #2034 - Thursday, June 10, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "DECLARATION SIGNERS",
+      "NUTRITION",
+      "ANIMALS",
+      "TRAVEL FLORIDA",
+      "\"HOT\" STUFF",
+      "TV PROFESSIONS"
+    ],
+    "clues": [
+      {
+        "category": "DECLARATION SIGNERS",
+        "value": 100,
+        "question": "George Clymer & Francis Hopkinson were born in this city in which it was signed",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NUTRITION",
+        "value": 100,
+        "question": "The energy in food is measured in these units",
+        "answer": "calories",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "When these marsupials are babies, they eat eucalyptus leaves that have been predigested by their mothers",
+        "answer": "a koala",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TRAVEL FLORIDA",
+        "value": 100,
+        "question": "The oldest building in this capital city was built by a banker whose nickname was \"Money\"",
+        "answer": "Tallahassee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"HOT\" STUFF",
+        "value": 100,
+        "question": "A person who performs tricky ski maneuvers, perhaps while eating a frankfurter",
+        "answer": "hot dog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TV PROFESSIONS",
+        "value": 100,
+        "question": "John Drake, Napoleon Solo & Maxwell Smart",
+        "answer": "secret agents",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DECLARATION SIGNERS",
+        "value": 200,
+        "question": "The World Almanac lists this signer's vocation as \"printer, publisher\"",
+        "answer": "Benjamin Franklin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NUTRITION",
+        "value": 200,
+        "question": "This vitamin, important for vision in dim light, is also called retinol",
+        "answer": "vitamin A",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "The oystercatcher, which is this type of animal, is extremely fond of shellfish",
+        "answer": "a bird",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TRAVEL FLORIDA",
+        "value": 200,
+        "question": "An alligator farm near this, Florida's oldest city, has a attracted reptile lovers  since 1893",
+        "answer": "St. Augustine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"HOT\" STUFF",
+        "value": 200,
+        "question": "A passionate man is described as this, which implies that his hemoglobin is overheated",
+        "answer": "hot-blooded",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TV PROFESSIONS",
+        "value": 200,
+        "question": "Gunther Toody, Frank Poncherello & Joe Friday",
+        "answer": "police officers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DECLARATION SIGNERS",
+        "value": 300,
+        "question": "Signer Robert Morris was born in this city 206 years before Ringo Starr",
+        "answer": "Liverpool",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NUTRITION",
+        "value": 300,
+        "question": "There are 3 kinds of dietary fats: saturated, monounsaturated & this",
+        "answer": "polyunsaturated",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "The komondor is one of these shaggy animals native to Hungary, & that's no story",
+        "answer": "dogs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TRAVEL FLORIDA",
+        "value": 300,
+        "question": "This \"saintly\" city full of senior citizens boasts the world's oldest shuffleboard club",
+        "answer": "St. Pete",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"HOT\" STUFF",
+        "value": 300,
+        "question": "Sophie Tucker was known as \"The Last of\" these",
+        "answer": "the Red Hot Mamas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TV PROFESSIONS",
+        "value": 300,
+        "question": "Walter Burns, Lou Grant & Perry White",
+        "answer": "newspaper editors",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DECLARATION SIGNERS",
+        "value": 800,
+        "question": "The 2 members of the Adams family who signed the Declaration",
+        "answer": "John Adams & Sam Adams",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NUTRITION",
+        "value": 400,
+        "question": "The name of this B-complex vitamin comes from the Latin word for \"leaf\", folium",
+        "answer": "folic acid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "A Michigander might know this carnivorous weasel is also called the carcajou",
+        "answer": "a wolverine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TRAVEL FLORIDA",
+        "value": 400,
+        "question": "Tourists get a \"crystal\" clear view of underwater life when they ride these boats in Silver Springs",
+        "answer": "glass-bottomed boats",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"HOT\" STUFF",
+        "value": 400,
+        "question": "This Paul Newman film was based in part on William Faulkner's story \"Barn Burning\"",
+        "answer": "The Long Hot Summer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TV PROFESSIONS",
+        "value": 400,
+        "question": "Leland McKenzie, Lawrence Preston & Ben Matlock",
+        "answer": "lawyers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DECLARATION SIGNERS",
+        "value": 500,
+        "question": "John Witherspoon, president of what's now Princeton University, signed for this state",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NUTRITION",
+        "value": 500,
+        "question": "At least 13 of these nutrients are essential to health, including calcium, magnesium & phosphorus",
+        "answer": "minerals",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "You should \"gnaw\" that beavers belong to this order of mammals",
+        "answer": "rodents",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TRAVEL FLORIDA",
+        "value": 500,
+        "question": "Your papa could enter a Hemingway lookalike contest held in this city during Hemingway Days",
+        "answer": "Key West",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"HOT\" STUFF",
+        "value": 500,
+        "question": "The rhyme about these baked treats says, \"If you have no daughters, give them to your sons\"",
+        "answer": "hot cross buns",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TV PROFESSIONS",
+        "value": 500,
+        "question": "Buddy Sorrell, Sally Rogers & Rob Petrie",
+        "answer": "TV comedy writers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD GEOGRAPHY",
+      "SPORTS",
+      "THE CIVIL WAR",
+      "SHAKESPEARE",
+      "METALS",
+      "POTPOURRI"
+    ],
+    "clues": [
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "Americans sometimes call this Japanese island Iwo for short",
+        "answer": "Iwo Jima",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "Only Ty Cobb & this former Cincinnati Reds player have exceeded 4,000 hits in a career",
+        "answer": "Pete Rose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 200,
+        "question": "The Noble & Cooley Factory in Granville, Mass. made these for the Union Army to beat while beating the enemy",
+        "answer": "drums",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 200,
+        "question": "To him Othello says, \"Thou hadst been better have been born a dog than answer my waked wrath\"",
+        "answer": "Iago",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "METALS",
+        "value": 200,
+        "question": "The 235 & 238 isotopes of this radioactive metal are separated in an enrichment plant",
+        "answer": "uranium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "The Illinois state insect is this \"royal\" butterfly",
+        "answer": "the monarch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "Punta del Carnero on the southern coast of Spain extends into this strait",
+        "answer": "Gibraltar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "In May 1991 Jeff Andretti was named Rookie of the Year for this auto race",
+        "answer": "the Indianapolis 500",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 400,
+        "question": "Gen. P.G.T. Beauregard took this fort from his former artillery teacher Major Robert Anderson",
+        "answer": "Fort Sumter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 400,
+        "question": "In \"The Merchant of Venice\", this character ponders, \"Three thousand ducats for three months--and Antonio bound\"",
+        "answer": "Shylock",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "METALS",
+        "value": 400,
+        "question": "The tip of the Washington Monument is protected by a cap of this metal now used in drink cans",
+        "answer": "aluminum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "Al Lewis, Willie Clark & Ben Silverman are characters in this 1972 Neil Simon play",
+        "answer": "The Sunshine Boys",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 600,
+        "question": "This desert in central Asia was the original home of the Mongols & Huns",
+        "answer": "the Gobi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 600,
+        "question": "Before becoming a pro, this Ohio golfer won the U.S. Amateur title in 1959 & 1961",
+        "answer": "Jack Nicklaus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 600,
+        "question": "When Lincoln entered this city April 4, 1865, he went to the Confederate White House & sat at Davis' desk",
+        "answer": "Richmond",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 600,
+        "question": "In \"A Midsummer Night's Dream\", this sprite enchants Lysander, the first Athenian he sees",
+        "answer": "Puck",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "METALS",
+        "value": 600,
+        "question": "Cassiterite is the chief ore of this metal used to coat food storage cans",
+        "answer": "tin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 600,
+        "question": "A cattle trail running from Texas to Abilene, Kansas was named for this 19th c. trader",
+        "answer": "Chisholm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 800,
+        "question": "This gulf between Sweden & Finland is the largest arm of the Baltic",
+        "answer": "the Gulf of Bothnia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 800,
+        "question": "In 1992 Angel Cordero, Jr. retired from this sport with over 7,000 career wins",
+        "answer": "horse racing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 800,
+        "question": "In June 1861 he was a colonel of Illinois volunteers; by September he was a brigadier general",
+        "answer": "Grant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 800,
+        "question": "Because he kills Tybalt, this character is exiled from Verona",
+        "answer": "Romeo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "METALS",
+        "value": 1600,
+        "question": "This metal named for figures in Greek myth is as strong as steel but 45% lighter",
+        "answer": "titanium",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 800,
+        "question": "Royal Dutch Airlines is also known by this abbreviation",
+        "answer": "KLM",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 1000,
+        "question": "Puente del Inca is the usual starting point for climbing this mountain, South America's highest",
+        "answer": "Aconcagua",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 1000,
+        "question": "On November 18, 1990 this team tied an NFL record by winning its 18th straight game; it lost the following Sunday",
+        "answer": "the San Francisco 49ers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 1000,
+        "question": "This mutton-chopped maj. gen. took over from McClellan as commander of the Army of the Potomac",
+        "answer": "Burnside",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 2000,
+        "question": "A tavern hostess gives an account of Sir John Falstaff's death in this play",
+        "answer": "Henry V",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "METALS",
+        "value": 1000,
+        "question": "This metal is joined with cadmium to make rechargeable batteries",
+        "answer": "nickel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 1000,
+        "question": "The largest collection of materials by & about poet Robert Browning is at this Waco, Texas school",
+        "answer": "Baylor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BIOGRAPHIES",
+    "clue": "He was the subject of Hendrik Willem van Loon's \"R. v. R.\"",
+    "answer": "Rembrandt van Rijn"
+  },
+  "gameId": "2034",
+  "gameDate": "Thursday, June 10, 1993"
+}

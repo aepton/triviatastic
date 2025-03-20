@@ -1,0 +1,574 @@
+{
+  "title": "Show #2730 - Friday, June 14, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "BLACK AMERICA",
+      "SONGS OF THE '50s",
+      "MEDIEVAL FASHION",
+      "BIOLOGY",
+      "STATE CAPITALS",
+      "SPORTS"
+    ],
+    "clues": [
+      {
+        "category": "BLACK AMERICA",
+        "value": 100,
+        "question": "York, an expert hunter, accompanied this pair on their 1800s expedition",
+        "answer": "Lewis and Clark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SONGS OF THE '50s",
+        "value": 100,
+        "question": "Buddy Holly sang, \"If you knew\" this girl \"then you'd know why I feel blue\"",
+        "answer": "Peggy Sue",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEDIEVAL FASHION",
+        "value": 100,
+        "question": "A cappa clausa was a closed cape with a slit through which a praying person stuck these",
+        "answer": "his hands",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 100,
+        "question": "Insensitive to light, your blind spot is where this nerve joins the eye",
+        "answer": "optic nerve",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 100,
+        "question": "One of the highlights of this city is the Nelson A, Rockefeller Empire State Plaza",
+        "answer": "Albany",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "With a capacity of 100,184, this Pasadena football stadium is the largest west of the Mississippi",
+        "answer": "the Rose Bowl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 200,
+        "question": "1995 marked the 30th anniversary of the civil rights march from Selma to this Alabama city",
+        "answer": "Montgomery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SONGS OF THE '50s",
+        "value": 200,
+        "question": "In a song from 1959, it's where Paul Anka wanted you to \"put your head\"",
+        "answer": "on my shoulder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEDIEVAL FASHION",
+        "value": 200,
+        "question": "Roskyn was the fur from this animal -- Rocky, hide!",
+        "answer": "squirrel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 200,
+        "question": "A hormone called glucagon raises the level of this in the blood",
+        "answer": "sugar (glucose)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "In the 1830s it replaced Vandalia as Illinois' capital",
+        "answer": "Springfield",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "In the 1980s this Boston Celtics player won 3 straight NBA MVP Awards",
+        "answer": "Larry Bird",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 300,
+        "question": "Duke Ellington first gained national attention while appearing at this famous Harlem nightclub",
+        "answer": "the Cotton Club",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SONGS OF THE '50s",
+        "value": 300,
+        "question": "He wrote \"Your Cheatin' Heart\"",
+        "answer": "Hank Williams",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEDIEVAL FASHION",
+        "value": 300,
+        "question": "Almoners & gipsers were these money holders",
+        "answer": "purses",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 300,
+        "question": "Of curly hair, color-blindness or albinism, the one that isn't a recessive trait",
+        "answer": "curly hair",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 300,
+        "question": "In 1864 gold was discovered at Last Chance Gulch, now the main street of this Montana capital",
+        "answer": "Helena",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "In tournament play, tennis balls can be white or this color",
+        "answer": "yellow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 400,
+        "question": "In 1869 the National Convention of Colored Men was established with this orator as its president",
+        "answer": "Frederick Douglass",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SONGS OF THE '50s",
+        "value": 400,
+        "question": "In 1956 Gogi Grant sang about \"The Wayward\" one",
+        "answer": "wind",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEDIEVAL FASHION",
+        "value": 400,
+        "question": "Of a belt, a hat or a codpiece, it's what a baldric was",
+        "answer": "belt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 400,
+        "question": "One book describes this protozoan as a \"mass of living jelly\"",
+        "answer": "amoeba",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "Gettysburg Battlefield is located about 35 miles southwest of this capital",
+        "answer": "Harrisburg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "With 6, this sport's Shirley Babashoff has more Olympic silver medals than any other athlete",
+        "answer": "swimming",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 500,
+        "question": "A native of Chicago, she became the first black American woman elected to the Senate",
+        "answer": "Carol Moseley Braun",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SONGS OF THE '50s",
+        "value": 500,
+        "question": "He \"calls the English teacher 'Daddy-O'\"",
+        "answer": "Charlie Brown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEDIEVAL FASHION",
+        "value": 500,
+        "question": "In the 15th century it was a small coat worn under a larger one; later it referred to a woman's underskirt",
+        "answer": "petticoat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1000,
+        "question": "This part of the small intestine is named for the fact that it's about as long as the width of 12 fingers",
+        "answer": "duodenum",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 500,
+        "question": "This city in the Green Mountains is home to the New England Culinary Institute",
+        "answer": "Montpelier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "In 1888 he founded the Amateur Athletic Union; an annual award is named for him",
+        "answer": "James Sullivan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ART",
+      "MOUNTAINS",
+      "ORGANIZATIONS",
+      "LITERARY CHARACTERS",
+      "U.S. PRESIDENTS",
+      "THE OSCARS"
+    ],
+    "clues": [
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "The \"Mona Lisa\" was one of the few paintings he finished during his 2nd residence in Florence",
+        "answer": "Leonardo da Vinci",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 200,
+        "question": "Popular with skiers, Mount Hood near Portland is this state's highest point",
+        "answer": "Oregon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 200,
+        "question": "After a dispute with his father, Ballington Booth left this org. & founded the Volunteers of America",
+        "answer": "The Salvation Army",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 200,
+        "question": "Aunt Chloe is the wife of this Harriet Beecher Stowe title character",
+        "answer": "Uncle Tom",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 200,
+        "question": "Grover Cleveland reportedly told this future president, \"Franklin, I hope you never become president\"",
+        "answer": "Franklin Roosevelt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 200,
+        "question": "The first Best Picture winner, \"Wings\", was set in this war",
+        "answer": "World War I",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Some of Perugino's mural in this chapel were obliterated by Michelangelo's \"The Last Judgment\"",
+        "answer": "The Sistine Chapel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 400,
+        "question": "For climbers, Nanga Parbat in Kashmir is one of the most treacherous peaks of this range",
+        "answer": "the Himalayas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 400,
+        "question": "Known as the NEA, this organization was established in part to improve teachers' working conditions",
+        "answer": "National Education Association",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 400,
+        "question": "This Sinclair Lewis real estate broker is a man of \"zip and zowie\"",
+        "answer": "George Babbitt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 400,
+        "question": "While attending Princeton in the 1870s, he was editor of The Princetonian",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 400,
+        "question": "For this 1942 film, James Cagney became the first actor to win for a musical",
+        "answer": "Yankee Doodle Dandy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "Some consider his \"Syndics of the Drapers' Guild\" the best Dutch group portrait",
+        "answer": "Rembrandt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 600,
+        "question": "This continent's Alps include Mount Bogong & Mount Kosciusko",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 600,
+        "question": "Maggie Kuhn, who passed away in 1995, co-founded this organization to fight age discrimination",
+        "answer": "Gray Panthers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 600,
+        "question": "Chance, an idiotic gardener, is propelled to fame in this Jerzy Kosinski novel",
+        "answer": "Being There",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 600,
+        "question": "When elected president in 1856, he had just served 3 years as minister to Great Britain",
+        "answer": "James Buchanan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 600,
+        "question": "She accepted her Oscar for \"The Three Faces of Eve\" wearing a hundred-dollar dress she made herself",
+        "answer": "Joanne Woodward",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "His garden was his main source of inspiration after he moved to Giverny in 1883",
+        "answer": "Claude Monet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 800,
+        "question": "Some of the finest singing canaries are bred in the Harz Mountains of this country",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 800,
+        "question": "Founded in 1929, The Daughters of Penelope is the leading U.S. org. for women of this ethnic background",
+        "answer": "Greek",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 800,
+        "question": "Adela Quested's trip to the Marabar Caves proves disastrous in this E.M. Forster novel",
+        "answer": "A Passage to India",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 800,
+        "question": "In 1845 this \"dark horse\" became the first man inaugurated as president under age 50 -- he was 49",
+        "answer": "James K. Polk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 800,
+        "question": "The Best Song for 1990 was \"Sooner or Later (I Always Get My Man)\" from this Warren Beatty film",
+        "answer": "Dick Tracy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "After seeing this American's \"drip\" paintings, Helen Frankenthaler developed her innovative stain technique",
+        "answer": "Jackson Pollock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 1000,
+        "question": "This mountain system contains Tunisia's highest point, Jebel Chambi",
+        "answer": "the Atlas Mountains",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 1000,
+        "question": "A leukemic boy's dream of becoming a police officer inspired the formation of this foundation in 1983",
+        "answer": "Make-A-Wish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 2000,
+        "question": "Sarah Woodruff is the woman mentioned in the title of this 1969 John Fowles novel",
+        "answer": "The French Lieutenant's Woman",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. PRESIDENTS",
+        "value": 2000,
+        "question": "This president's estate, Spiegel Grove, in Fremont, Ohio, was inherited from his uncle Sardis Birchard",
+        "answer": "Rutherford B. Hayes",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 1000,
+        "question": "Paul Newman won an Oscar for this 1986 sequel to \"The Hustler\"",
+        "answer": "The Color of Money",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "Salvaged from a shipwreck in the 1850s the Lutine Bell hangs in its British headquarters",
+    "answer": "Lloyd's of London"
+  },
+  "gameId": "2730",
+  "gameDate": "Friday, June 14, 1996"
+}

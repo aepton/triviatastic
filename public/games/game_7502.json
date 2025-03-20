@@ -1,0 +1,556 @@
+{
+  "title": "Show #1383 - Wednesday, September 12, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD CAPITALS",
+      "THE GOLDEN GLOBE AWARDS",
+      "LIBRARIES",
+      "AMERICAN HISTORY",
+      "CLOTHING",
+      "GREEK ALPHABET"
+    ],
+    "clues": [
+      {
+        "category": "WORLD CAPITALS",
+        "value": 100,
+        "question": "Hungary's house of parliament is in Belvaros, the old inner city of this capital",
+        "answer": "Budapest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE GOLDEN GLOBE AWARDS",
+        "value": 100,
+        "question": "Jessica Tandy & Morgan Freeman drove home with Golden Globes for their roles in this film",
+        "answer": "Driving Miss Daisy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 100,
+        "question": "These vehicles used in library outreach programs can be trailers, trucks & even boats in Louisiana bayous",
+        "answer": "bookmobiles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 100,
+        "question": "This trailblazer was born to a Quaker family in Berks County, Pennsylvania, not Kentucky",
+        "answer": "Daniel Boone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CLOTHING",
+        "value": 100,
+        "question": "On a sports coat it's an extension of the collar against the breast",
+        "answer": "the lapel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GREEK ALPHABET",
+        "value": 100,
+        "question": "This Greek letter is also the name of a major U.S. airline",
+        "answer": "Delta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 200,
+        "question": "This capital of Nicaragua is on the edge of a lake which shares it name",
+        "answer": "Managua",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE GOLDEN GLOBE AWARDS",
+        "value": 200,
+        "question": "Date in the title of the film that won the award for Best Motion Picture Drama in 1990",
+        "answer": "the Fourth of July",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 200,
+        "question": "In this system a book on the history of art in the U.S. would be found under 709.73",
+        "answer": "the Dewey Decimal System",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 200,
+        "question": "In 1794 Congress ordered 2 stripes added to the flag for 2 new states, making the total this",
+        "answer": "15",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CLOTHING",
+        "value": 400,
+        "question": "It's what this symbol stands for on a clothing label",
+        "answer": "wool",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GREEK ALPHABET",
+        "value": 200,
+        "question": "The first & last letters of the Greek alphabet",
+        "answer": "alpha & omega",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 300,
+        "question": "The National Palace in this city is the official home of the president of Haiti",
+        "answer": "Port-au-Prince",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE GOLDEN GLOBE AWARDS",
+        "value": 300,
+        "question": "Wise up and tell us this guy won an acting award for Wise Guy",
+        "answer": "Ken Wahl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 300,
+        "question": "Sam Rayburn Library in Bonham, in this state, features a replica of his office in the U.S. Capitol",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 300,
+        "question": "In 1919 the Senate rejected the Versailles Treaty and membership in this organization",
+        "answer": "the League of Nations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CLOTHING",
+        "value": 300,
+        "question": "A woman's straight, loose-fitting dress, or the time period during which a garment worker made it",
+        "answer": "a shift",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GREEK ALPHABET",
+        "value": 300,
+        "question": "The Greek letter that corresponds to T in our alphabet",
+        "answer": "tau",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 400,
+        "question": "Francisco Pizarro founded this city in 1535",
+        "answer": "Lima",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE GOLDEN GLOBE AWARDS",
+        "value": 400,
+        "question": "She was anything but sad when she won for \"Anything but Love\"",
+        "answer": "Jamie Lee Curtis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 400,
+        "question": "The libraries of ancient Assyria contained thousands of tablets made of this",
+        "answer": "clay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "American Indians used the shells of whelks & clams to make these beads used for money",
+        "answer": "wampum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GREEK ALPHABET",
+        "value": 400,
+        "question": "The Greek letter that rhymes with eta, beta & zeta",
+        "answer": "theta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 500,
+        "question": "This country's capital was formerly spelled D-A-C-C-A, but now it's usually spelled D-H-A-K-A",
+        "answer": "Bangladesh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE GOLDEN GLOBE AWARDS",
+        "value": 500,
+        "question": "Michelle Pfeiffer's reaction to this film was, \"I have to sing? Are you crazy?\", but her singing helped her win",
+        "answer": "The Fabulous Baker Boys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 500,
+        "question": "One of the world's greatest collections of Celtica is in this country's National Library in Aberystwyth",
+        "answer": "Wales",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 500,
+        "question": "This interracial organization was founded in 1910 in New York City to help Blacks living in cities",
+        "answer": "the National Urban League",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GREEK ALPHABET",
+        "value": 500,
+        "question": "Greek letter that's also a word for a very small quantity",
+        "answer": "iota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PHYSICAL SCIENCE",
+      "SAINTS",
+      "COMPOSERS",
+      "AFRICA",
+      "LITERARY TERMS",
+      "CAMBRIDGE UNIVERSITY"
+    ],
+    "clues": [
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 200,
+        "question": "Letter symbol for acceleration due to gravity; it's value varies with the distance from the Earth",
+        "answer": "g",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 200,
+        "question": "The last time he's mentioned in the New Testament is when 12-year-old Jesus is found in the temple",
+        "answer": "St. Joseph",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 200,
+        "question": "We're not telling tales when we tell you Johann Strauss composed the tales from these woods",
+        "answer": "the Vienna Woods",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AFRICA",
+        "value": 200,
+        "question": "For a long time the world's richest diamond-producing mine was The Big Hole at Kimberley in this country",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 200,
+        "question": "Prose based on a writer's imagination, rather than fact, is classified as this",
+        "answer": "fiction",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CAMBRIDGE UNIVERSITY",
+        "value": 200,
+        "question": "After their classes were suspended, students from this university moved to Cambridge in 1209",
+        "answer": "Oxford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 400,
+        "question": "Type of electrical current that travels one way only",
+        "answer": "direct current",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 400,
+        "question": "Number of times Peter told people he didn't know Jesus",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "This \"Ring\" composer put a ring on the finger of Franz Liszt's daughter, Cosima",
+        "answer": "(Richard) Wagner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AFRICA",
+        "value": 400,
+        "question": "In 1854 Said Pasha gave Ferdinand de Lesseps permission to build this",
+        "answer": "the Suez Canal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 400,
+        "question": "This literary form is almost always Petrarchan or Shakespearean",
+        "answer": "a sonnet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CAMBRIDGE UNIVERSITY",
+        "value": 400,
+        "question": "An epidemic interrupted his Cambridge studies so he went home & reportedly saw an apple fall",
+        "answer": "Isaac Newton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 600,
+        "question": "The name of this type of undertow is a misnomer, it's a current, not a tide",
+        "answer": "a riptide",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 600,
+        "question": "His Latin translation of the Bible is known as the Vulgate",
+        "answer": "St. Jerome",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 600,
+        "question": "Tchaikovsky wrote this piece with cannon fire & cathedral bells in it, to be performed in Moscow Square",
+        "answer": "the 1812 Overture",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AFRICA",
+        "value": 600,
+        "question": "2 of the 3 countries that begin with the letter Z",
+        "answer": "(2 of) Zaire & Zambia (or Zimbabwe)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 600,
+        "question": "A hackneyed expression like a bull in a china shop, that's become so overused, it's become trite",
+        "answer": "a cliche",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CAMBRIDGE UNIVERSITY",
+        "value": 600,
+        "question": "He studied half-heartedly for the ministry at Cambridge before sailing off on the HMS Beagle",
+        "answer": "Darwin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 1600,
+        "question": "19th century British physicist William Thompson, who developed a temperature scale, was known by this name",
+        "answer": "Lord Kelvin",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 800,
+        "question": "Long the patron saint of wayfarers, he's the patron saint of motorists too",
+        "answer": "(St.) Christopher",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1600,
+        "question": "Benjamin Britten is famous for \"The Young Person's Guide to\" this",
+        "answer": "the Orchestra",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AFRICA",
+        "value": 800,
+        "question": "This famine stricken country's Eritrea province has been in rebellion for nearly 30 years",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 800,
+        "question": "Term for a word's history that includes its derivation & change in its use",
+        "answer": "etymology",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CAMBRIDGE UNIVERSITY",
+        "value": 800,
+        "question": "Appropriately, this large king founded Cambridge's  largest college in 1546",
+        "answer": "Henry VIII",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 1000,
+        "question": "In astronomy a body moving in the opposite direction from other members of a solar system is in this",
+        "answer": "retrograde",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 1000,
+        "question": "Famed as a preacher, Catholics pray to him for help in finding lost articles",
+        "answer": "St. Anthony",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1000,
+        "question": "Nicknamed \"Papa\", though he & his wife never had kids, Haydn is also called the father of this form",
+        "answer": "the symphony",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AFRICA",
+        "value": 1000,
+        "question": "Western Sahara is claimed & occupied by this North African country",
+        "answer": "Morocco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 1000,
+        "question": "One type of these lyrical lengthy poems characterized by lofty style is called Pindaric",
+        "answer": "odes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CAMBRIDGE UNIVERSITY",
+        "value": 1000,
+        "question": "Cambridge professor G. M. Trevelyan was famous for writing books on this subject",
+        "answer": "history",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SPACE EXPLORATION",
+    "clue": "In 1990 it became the third country to place a satellite in lunar orbit",
+    "answer": "Japan"
+  },
+  "gameId": "1383",
+  "gameDate": "Wednesday, September 12, 1990"
+}

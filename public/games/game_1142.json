@@ -1,0 +1,574 @@
+{
+  "title": "Show #3006 - Monday, September 29, 1997",
+  "jeopardyRound": {
+    "categories": [
+      "EUROPEAN GEOGRAPHY",
+      "SAUCE",
+      "FOR MOTHER GOOSE",
+      "THE 1980s",
+      "TV VEHICLES",
+      "THE \"ROCKY\"s"
+    ],
+    "clues": [
+      {
+        "category": "EUROPEAN GEOGRAPHY",
+        "value": 100,
+        "question": "Dracula could tell you that Walachia & Transylvania are regions of this country",
+        "answer": "Romania",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SAUCE",
+        "value": 100,
+        "question": "Whether it's a fruit or vegetable, it's the basis of pomodoro & marinara sauces for pasta",
+        "answer": "Tomato",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOR MOTHER GOOSE",
+        "value": 100,
+        "question": "Garment worn by Wee Willie Winkie as he \"runs through the town, upstairs and downstairs\"",
+        "answer": "Nightgown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE 1980s",
+        "value": 100,
+        "question": "In 1981 he won some respect & a Grammy for his comedy album \"No Respect\"",
+        "answer": "Rodney Dangerfield",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TV VEHICLES",
+        "value": 100,
+        "question": "At first ABC would only let Fonzie wear a leather jacket when he was with this vehicle",
+        "answer": "His motorcycle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"ROCKY\"s",
+        "value": 100,
+        "question": "Chocolate ice cream with marshmallows & chocolate-covered almonds",
+        "answer": "Rocky road",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN GEOGRAPHY",
+        "value": 200,
+        "question": "Cape Roca, mainland Europe's westernmost point, is on the coast of this country",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SAUCE",
+        "value": 200,
+        "question": "This small pitcher with a nautical name is used to pour sauces over your food",
+        "answer": "Gravy boat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOR MOTHER GOOSE",
+        "value": 200,
+        "question": "The only one of The 3 Men In A Tub not affiliated with the food industry",
+        "answer": "Candlestick maker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE 1980s",
+        "value": 200,
+        "question": "A 1986 article on her in Ladies' Home Journal was titled \"Talking With Doctor Goodsex\"",
+        "answer": "Dr. Ruth Westheimer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TV VEHICLES",
+        "value": 200,
+        "question": "Mr. T drove this title group around in a black GMC van with red trim",
+        "answer": "The A-Team",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"ROCKY\"s",
+        "value": 200,
+        "question": "He \"checked into his room, only to find Gideon's Bible\"",
+        "answer": "Rocky Raccoon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN GEOGRAPHY",
+        "value": 300,
+        "question": "Islands located in this arm of the Mediterranean include the Cyclades & Dodecanese",
+        "answer": "Aegean Sea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SAUCE",
+        "value": 300,
+        "question": "In \"Don Quixote\", Cervantes asserted that this sensation \"is the best sauce in the world\"",
+        "answer": "Hunger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOR MOTHER GOOSE",
+        "value": 300,
+        "question": "\"Who killed Cock Robin?  'I,' said\" he, \" 'with my bow and arrow, I killed Cock Robin'\"",
+        "answer": "the Sparrow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE 1980s",
+        "value": 600,
+        "question": "In the 1980s, $10 million was spent to save this animal, seen here, from extinction",
+        "answer": "a California condor (condor accepted)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TV VEHICLES",
+        "value": 300,
+        "question": "The type of title automobile driven by Elaine Nardo, Tony Banta & Alex Reiger",
+        "answer": "Taxi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"ROCKY\"s",
+        "value": 300,
+        "question": "This 1975 cult film featured such songs as \"Dammit, Janet\" & \"Over At The Frankenstein Place\"",
+        "answer": "The Rocky Horror Picture Show",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN GEOGRAPHY",
+        "value": 400,
+        "question": "Malta lies about 60 miles south of this largest Mediterranean island",
+        "answer": "Sicily",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SAUCE",
+        "value": 400,
+        "question": "The name of this wine sauce served on meats betrays its point of origin, Bordeaux",
+        "answer": "bordelaise sauce",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOR MOTHER GOOSE",
+        "value": 400,
+        "question": "\"Needles and pins, needles and pins\", when a man\" does this \"his trouble begins\"",
+        "answer": "Marries",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE 1980s",
+        "value": 400,
+        "question": "At the 1980 Winter Olympics he set records in the 500-, 1,000-, 1,500-, 5,000- & 10,000-m. speed skating races",
+        "answer": "Eric Heiden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TV VEHICLES",
+        "value": 400,
+        "question": "Ernest Borgnine played this man, skipper of the U.S. Navy's PT73",
+        "answer": "Quinton McHale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"ROCKY\"s",
+        "value": 400,
+        "question": "In the bluegrass classic, it's \"Home sweet home to me\"",
+        "answer": "Rocky Top, Tennessee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN GEOGRAPHY",
+        "value": 500,
+        "question": "About a tenth of Estonia's land area consists of islands in this sea",
+        "answer": "Baltic Sea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SAUCE",
+        "value": 500,
+        "question": "Avery Island, Louisiana has shipped little bottles of this hot sauce to the world since 1868",
+        "answer": "Tabasco sauce",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOR MOTHER GOOSE",
+        "value": 500,
+        "question": "\"Tom, Tom the piper's son, he learned to play when he was young\", but he could play only this song",
+        "answer": "\"Over The Hills And Far Away\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE 1980s",
+        "value": 500,
+        "question": "At age 87, after 62 years of rule, this emperor died January 7, 1989",
+        "answer": "Hirohito",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TV VEHICLES",
+        "value": 500,
+        "question": "On \"Knight Rider\" William Daniels provided the voice of this talking Trans-Am",
+        "answer": "KITT",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"ROCKY\"s",
+        "value": 500,
+        "question": "Somebody up there must have liked him; he was world middleweight boxing champ in 1947 & '48",
+        "answer": "Rocky Graziano",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC QUOTES",
+      "SHE-PLANTS",
+      "ARTISTS",
+      "INTERNATIONAL FILM STARS",
+      "LITERARY FORMS",
+      "15-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 200,
+        "question": "In 1588 she said, \"I have the body of a weak & feeble woman, but I have the heart & stomach of a king\"",
+        "answer": "Elizabeth I",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SHE-PLANTS",
+        "value": 200,
+        "question": "It's Porky Pig's favorite flower, no doubt",
+        "answer": "Petunia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 200,
+        "question": "It's been estimated that this Cubist created more than 100,000 works during his 91 years",
+        "answer": "Pablo Picasso",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL FILM STARS",
+        "value": 200,
+        "question": "Concerning the pronounciation of his name, this star of \"The English Patient\" said, \"It's 'Rafe', actually\"",
+        "answer": "Ralph Fiennes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LITERARY FORMS",
+        "value": 200,
+        "question": "Term for a mystery novel that's already in the form of a question",
+        "answer": "whodunit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "15-LETTER WORDS",
+        "value": 200,
+        "question": "The order of a pope who kicks you out of the flock",
+        "answer": "Excommunication",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 400,
+        "question": "General & statesman who said, \"When I want to know what France thinks, I ask myself\"",
+        "answer": "Charles de Gaulle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SHE-PLANTS",
+        "value": 400,
+        "question": "This herb of the mint family is often grouped in song with parsley, sage & thyme",
+        "answer": "Rosemary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 400,
+        "question": "He included sketches of Dutch rural scenes in a letter to his brother Theo sent around 1885",
+        "answer": "Vincent Van Gogh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL FILM STARS",
+        "value": 400,
+        "question": "He played Robin in 1976's \"Robin And Marian\" & King Richard in 1991's \"Robin Hood:  Prince Of Thieves\"",
+        "answer": "Sean Connery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LITERARY FORMS",
+        "value": 400,
+        "question": "This term for a work of morbid or absurd humor is the title of a Peter Shaffer play set in the dark",
+        "answer": "Black comedy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "15-LETTER WORDS",
+        "value": 400,
+        "question": "The attorney-client relationship has this quality, meaning what you tell him will stay a secret",
+        "answer": "Confidentiality",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 600,
+        "question": "\"I still believe that people are really good at heart\", she wrote in her diary July 15, 1944",
+        "answer": "Anne Frank",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SHE-PLANTS",
+        "value": 600,
+        "question": "Popular varieties of this flower include the Easter & Madonna",
+        "answer": "Lily",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 600,
+        "question": "In the 1920s & 1930s, he collaborated with director Luis Bunuel to make 2 surrealist films",
+        "answer": "Salvador Dali",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL FILM STARS",
+        "value": 1200,
+        "question": "The actor seen here is also one of the world's most accomplished bridge players",
+        "answer": "Omar Sharif",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LITERARY FORMS",
+        "value": 600,
+        "question": "The creatures mentioned in this term for a fantastic story may be joined by elves & goblins",
+        "answer": "a fairy tale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "15-LETTER WORDS",
+        "value": 600,
+        "question": "From the Greek for \"foretelling\", it's a forecast of things to come",
+        "answer": "Prognostication",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 800,
+        "question": "An expert on the subject, he told Ptolemy I, \"There is no royal road to geometry\"",
+        "answer": "Euclid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SHE-PLANTS",
+        "value": 1600,
+        "question": "Its forked branches are used for divining rods & its bark & leaves are used in potions -- er, lotions",
+        "answer": "witch hazel",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 800,
+        "question": "He completed his last great painting \"Bar at the Folies Bergere\", in 1882, a year before his death",
+        "answer": "Edouard Manet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL FILM STARS",
+        "value": 800,
+        "question": "In 1961 she won the Best Actress Oscar for \"Two Women\", becoming the first to win for a foreign language film",
+        "answer": "Sophia Loren",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LITERARY FORMS",
+        "value": 800,
+        "question": "Oringinally an inscription like an epitaph, it now means a brief, striking observation",
+        "answer": "Epigram",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "15-LETTER WORDS",
+        "value": 800,
+        "question": "An expert in Robert's Rules of Order",
+        "answer": "Parliamentarian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC QUOTES",
+        "value": 1000,
+        "question": "From Waterloo he sent the message, \"Nothing except a battle lost can be half so melancholy as a battle won\"",
+        "answer": "Duke of Wellington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SHE-PLANTS",
+        "value": 1000,
+        "question": "This bell-shaped purplish flower of Scotland is also called ling",
+        "answer": "Heather",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ARTISTS",
+        "value": 1000,
+        "question": "He became wealthy by selling engravings of his works such as \"A Rake's Progress\"",
+        "answer": "William Hogarth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL FILM STARS",
+        "value": 1000,
+        "question": "This knighted British star's 1985 autobiography is titled \"Blessings In Disguise\"",
+        "answer": "Sir Alec Guinness",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LITERARY FORMS",
+        "value": 1000,
+        "question": "Robert Frost compared writing this unstructured verse to playing tennis without a net",
+        "answer": "Free verse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "15-LETTER WORDS",
+        "value": 1000,
+        "question": "Wagner's \"Twilight of the Gods\"",
+        "answer": "Gotterdammerung",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "RELIGIOUS TITLES",
+    "clue": "In 1996 the Roman Catholic church had 48 men with this title in the U.S.; the Anglican church has 2 in England",
+    "answer": "Archbishop"
+  },
+  "gameId": "3006",
+  "gameDate": "Monday, September 29, 1997"
+}

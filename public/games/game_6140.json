@@ -1,0 +1,565 @@
+{
+  "title": "Show #7856 - Monday, November 5, 2018",
+  "jeopardyRound": {
+    "categories": [
+      "RECENT HEADLINES IN THE ONION",
+      "SISTER CITIES",
+      "RHYMES WITH MUG",
+      "POKER FACE",
+      "BAD ROMANCE",
+      "LADY GAGA"
+    ],
+    "clues": [
+      {
+        "category": "RECENT HEADLINES IN THE ONION",
+        "value": 200,
+        "question": "The foundation of this husband & wife \"Announces New $17 Bil. Initiative to Eradicate All 3rd-World Mac Users by 2040\"",
+        "answer": "Bill and Melinda Gates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 200,
+        "question": "This city in Maine--not the Oregon one--is sisters with Shinagawa, Japan, a city of 350,000 inside the borough of Tokyo",
+        "answer": "Portland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RHYMES WITH MUG",
+        "value": 200,
+        "question": "An often shameless promotion of a product or one's self",
+        "answer": "a plug",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POKER FACE",
+        "value": 200,
+        "question": "Your face falls as it's 7-card stud & your straight just lost to a hand with 3 queens & 2 jacks, called this",
+        "answer": "a full house",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BAD ROMANCE",
+        "value": 200,
+        "question": "Petruchio deprives Kate of food & sleep in this play, which makes her grow to love him? That's messed up, Shakespeare!",
+        "answer": "The Taming of the Shrew",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LADY GAGA",
+        "value": 200,
+        "question": "Intel provided 300 drones to accompany Lady Gaga for this short but major gig in Houston Feb. 5, 2017",
+        "answer": "the Super Bowl (halftime show)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RECENT HEADLINES IN THE ONION",
+        "value": 400,
+        "question": "She's the White House press secretary who \"Flatly Refuses Jim Acosta's Assertion That He's Jim Acosta\"",
+        "answer": "Sarah Huckabee Sanders",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 400,
+        "question": "Boring, Oregon & Dull, Scotland are informal sister communities; some wanted to say g'day to Bland in this foreign nation",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RHYMES WITH MUG",
+        "value": 400,
+        "question": "The tightly curled tail of this toy dog breed lies over the hip",
+        "answer": "a pug",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POKER FACE",
+        "value": 400,
+        "question": "A twitch of a bettor's face can be this 4-letter word that signals the strength of the player's hand",
+        "answer": "a tell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BAD ROMANCE",
+        "value": 400,
+        "question": "George & Martha drag Nick & Honey into a nasty liquor-fueled 4-sided battle in this Albee play",
+        "answer": "Who's Afraid of Virginia Woolf?",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LADY GAGA",
+        "value": 400,
+        "question": "Born Stefani Germanotta, Lady Gaga is a huge fan of this band & got her stage name from their song \"Radio Ga Ga\"",
+        "answer": "Queen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RECENT HEADLINES IN THE ONION",
+        "value": 600,
+        "question": "\"Should\" this NFL team that went 0-16 in 2017 \"Use the First Overall Pick on a Once-in-a-Generation Long Snapper?\"",
+        "answer": "the Cleveland Browns",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 600,
+        "question": "There once was a town called Spokane / but a long rhyme won't fit here, no, man / so just name this Irish sister city",
+        "answer": "Limerick",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RHYMES WITH MUG",
+        "value": 600,
+        "question": "Cymbalta, for example",
+        "answer": "a drug",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POKER FACE",
+        "value": 600,
+        "question": "Joy fills your face as it did for Phil Ivey after winning bracelets at 10 events held during this Vegas poker tourney",
+        "answer": "the World Series of Poker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BAD ROMANCE",
+        "value": 600,
+        "question": "This novel ends with Amy & Nick Dunne reunited--sure, she framed him for her murder, but now she's pregnant",
+        "answer": "Gone Girl",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LADY GAGA",
+        "value": 600,
+        "question": "Gaga helped Bradley Cooper rock as they re-re-remade this drama that last starred Streisand & Kristofferson",
+        "answer": "A Star is Born",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RECENT HEADLINES IN THE ONION",
+        "value": 800,
+        "question": "This rhyme-named exercise tech co. \"Releases New Tracking Collar That Gets Tighter Every Second You Are Inactive\"",
+        "answer": "Fitbit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 800,
+        "question": "Sisters can be so competitive! \"You have the Lincoln Memorial, D.C.? OK! This city of ours has the monument of Lysicrates!\"",
+        "answer": "Athens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RHYMES WITH MUG",
+        "value": 800,
+        "question": "Back in Grandma's day, dancing was also known as \"cutting\" this",
+        "answer": "a rug",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POKER FACE",
+        "value": 800,
+        "question": "You can now hoot & holler as this last card has flipped over in Omaha poker & your win is secure",
+        "answer": "the river",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BAD ROMANCE",
+        "value": 800,
+        "question": "In this novel by George Eliot, Dorothea thinks she'll find happiness with the aging scholar Casaubon (nope!)",
+        "answer": "Middlemarch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LADY GAGA",
+        "value": 800,
+        "question": "Lady Gaga is on the right track with her charitable foundation named for this hit with a 3-word title",
+        "answer": "\"Born This Way\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RECENT HEADLINES IN THE ONION",
+        "value": 1000,
+        "question": "\"Deceased Souls Backed Up at\" this river's \"Ferry Crossing During Underworld Transit Strike\"",
+        "answer": "the River Styx",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 1000,
+        "question": "In 2014 Cambridge, Massachusetts became family with Les Cayes in this nation, 4 years after a terrible natural disaster",
+        "answer": "Haiti",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RHYMES WITH MUG",
+        "value": 1000,
+        "question": "Counterfeit vending machine \"coin\"",
+        "answer": "a slug",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POKER FACE",
+        "value": 1000,
+        "question": "You look chagrined when you forget to put up the \"big\" this bet, so named because you don't get to see your cards first",
+        "answer": "the big blind",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BAD ROMANCE",
+        "value": 1000,
+        "question": "In this novel, Lady Brett Ashley & Jake Barnes could have been great together, if not for her affairs & his war wounds",
+        "answer": "The Sun Also Rises",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LADY GAGA",
+        "value": 1000,
+        "question": "In this song Lady Gaga also name checks Fernando & Roberto",
+        "answer": "\"Alejandro\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "NATIONAL GEOGRAPHIC'S MARS",
+      "POP CULTURE",
+      "CAVES",
+      "WORD ORIGINS",
+      "BRITISH HISTORY",
+      "DRUM SCHTICK"
+    ],
+    "clues": [
+      {
+        "category": "NATIONAL GEOGRAPHIC'S MARS",
+        "value": 400,
+        "question": "This type of storm causes major problems for the explorers when it blocks the sun & solar power",
+        "answer": "a dust storm",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 400,
+        "question": "Say howdy to Rowdy, mascot of this NFL team; he's 6'1\", or 6'2 1/2\" with the big hat",
+        "answer": "the Dallas Cowboys",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CAVES",
+        "value": 400,
+        "question": "The longest cave system on Earth reaches 380 feet down & stretches more than 400 miles in this Kentucky national park",
+        "answer": "Mammoth Cave",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "This word for a horse that needs busting is Spanish for \"rough\"",
+        "answer": "bronco",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 400,
+        "question": "Containing concessions by the king, this 13th c. document is one of the foundations of English & American law",
+        "answer": "the Magna Carta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DRUM SCHTICK",
+        "value": 400,
+        "question": "The Atlas, a type of this developed in the 1950s, used magnetic drum memory",
+        "answer": "a computer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC'S MARS",
+        "value": 800,
+        "question": "Part of the series is set in 2033, when the first human mission heads to Mars on a ship named for this father of Icarus",
+        "answer": "Daedalus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 800,
+        "question": "For fall, the cornucopia of pumpkin spice-flavored offerings include Cheerios & these Hostess snack cakes",
+        "answer": "Twinkies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CAVES",
+        "value": 800,
+        "question": "Caves eroded by water are most commonly found in this type of rock composed mainly of calcium carbonate",
+        "answer": "limestone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "This 4-letter word for a place of confinement originally referred to a monk's quarters",
+        "answer": "a cell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 800,
+        "question": "The 1st archbishop of this historic town was St. Augustine, a monk sent by the pope to convert the English",
+        "answer": "Canterbury",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DRUM SCHTICK",
+        "value": 800,
+        "question": "In architecture, a drum is any of the cylindrical stone blocks that make up one of these",
+        "answer": "a column",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC'S MARS",
+        "value": 1200,
+        "question": "This German scientist actually built the Saturn V moon rocket with a plan to use it to one day reach Mars",
+        "answer": "von Braun",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 1200,
+        "question": "In the 2018 film \"The Girl in the Spider's Web\", this star of \"The Crown\" plays outcast hacker Lisbeth Salander",
+        "answer": "Claire Foy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CAVES",
+        "value": 1200,
+        "question": "Found in Europe & living more than 100 years, an olm is a blind, cave-dwelling one of these amphibians",
+        "answer": "a salamander",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1200,
+        "question": "From Sanskrit for \"weighty\" comes this word for a Hindu spiritual guide or any recognized leader in a field",
+        "answer": "guru",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 1200,
+        "question": "In 1984 she narrowly escaped assassination as her hotel bathroom was destroyed by an IRA bomb",
+        "answer": "Margaret Thatcher",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DRUM SCHTICK",
+        "value": 1200,
+        "question": "\"Bang The Drum Slowly\" is one of Mark Harris' novels about this sport",
+        "answer": "baseball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC'S MARS",
+        "value": 1600,
+        "question": "Life found on Mars in 2042 turns out to be a deadly microbe that only responds to this antibiotic discovered in 1928",
+        "answer": "penicillin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 1600,
+        "question": "Shinnok is one of the evil karacters in this fighting video game franchise from NetherRealm studios",
+        "answer": "Mortal Kombat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CAVES",
+        "value": 1600,
+        "question": "From the Greek for \"cave\", it's an old term for a cave dweller or caveman",
+        "answer": "a troglodyte",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1600,
+        "question": "This word is for the Greek for \"molded\" & was first used in reference to a synthetic product in 1909",
+        "answer": "plastic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 1600,
+        "question": "The record of a monumental accounting of England & Wales, this document was compiled around 1086",
+        "answer": "the Domesday Book",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DRUM SCHTICK",
+        "value": 1600,
+        "question": "A '90s dance music style from England is called \"drum &\" this instrument",
+        "answer": "bass",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC'S MARS",
+        "value": 2000,
+        "question": "In season 2, one of these bursts of energy fries the electronics & communications of the town settlers had built on Mars",
+        "answer": "a solar flare",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 2000,
+        "question": "Ariana Grande has a song on her 2018 album called this, the name of her fiancee",
+        "answer": "\"Pete Davidson\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CAVES",
+        "value": 2000,
+        "question": "Stunning examples of Paleolithic art, like the ones seen here, can be found in this cave in France's Vézère Valley",
+        "answer": "Lascaux Cave",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 2000,
+        "question": "This old-time word for a pantry comes from its origin as a place to store bacon",
+        "answer": "a larder",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 2000,
+        "question": "King of Wessex, this great monarch prevented England from completely falling to the Danes in the 800s",
+        "answer": "Alfred the Great",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CHARACTERS IN CHILDREN'S LIT",
+    "clue": "Memories of refugees in British train stations before & after WWII helped inspire the creation of this character",
+    "answer": "Paddington Bear"
+  },
+  "gameId": "7856",
+  "gameDate": "Monday, November 5, 2018"
+}

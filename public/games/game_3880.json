@@ -1,0 +1,574 @@
+{
+  "title": "Show #6362 - Tuesday, April 24, 2012",
+  "jeopardyRound": {
+    "categories": [
+      "THE AFI LIFE ACHIEVEMENT AWARD",
+      "JUST DESSERTS",
+      "ALL ABOUT ARTISTS",
+      "WHO WANTS TO BE A BILLIONAIRE?",
+      "SPEAKING HAWAIIAN",
+      "ORE"
+    ],
+    "clues": [
+      {
+        "category": "THE AFI LIFE ACHIEVEMENT AWARD",
+        "value": 200,
+        "question": "2008:This star of \"Bonnie & Clyde\"",
+        "answer": "Warren Beatty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 200,
+        "question": "You don't have to go to Florida to enjoy this dessert",
+        "answer": "key lime pie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT ARTISTS",
+        "value": 200,
+        "question": "This Presidential Medal of Freedom winner whose work is seen here got his first commission when he was 15",
+        "answer": "Norman Rockwell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WHO WANTS TO BE A BILLIONAIRE?",
+        "value": 200,
+        "question": "Would you spend $90 million to keep your job?  He did just that to claim a third term as NYC mayor",
+        "answer": "Bloomberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING HAWAIIAN",
+        "value": 200,
+        "question": "Kahiko is the traditional form of this dance",
+        "answer": "the hula",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ORE",
+        "value": 200,
+        "question": "Processing 10 tons of ore yields one troy ounce of this, atomic number 79; no wonder it's so darned valuable",
+        "answer": "gold",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE AFI LIFE ACHIEVEMENT AWARD",
+        "value": 400,
+        "question": "2004:This portrayer of Joanna Kramer",
+        "answer": "Meryl Streep",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 400,
+        "question": "Named for the German region where it originated, it's a rich chocolate cake with a cream filling & cherries",
+        "answer": "Black Forest cake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT ARTISTS",
+        "value": 400,
+        "question": "Still going by the name Ruiz, he entered a painting academy in Madrid in 1897, but the teachers bored him",
+        "answer": "Picasso",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WHO WANTS TO BE A BILLIONAIRE?",
+        "value": 400,
+        "question": "His $9 billion empire, partly in media, helped make him Italian prime minister until his 2011 resignation",
+        "answer": "Berlusconi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING HAWAIIAN",
+        "value": 400,
+        "question": "In Hawaii, May Day is also this rhyming day, celebrating a certain wreath",
+        "answer": "Lei Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ORE",
+        "value": 400,
+        "question": "Add a letter to \"melting\" to get this method by which a metal is taken from its original ore",
+        "answer": "smelting",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE AFI LIFE ACHIEVEMENT AWARD",
+        "value": 600,
+        "question": "1994:This \"Five Easy Pieces\" star",
+        "answer": "Jack Nicholson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 600,
+        "question": "Shhh!  A chocolate one of these is just out of the oven",
+        "answer": "soufflé",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT ARTISTS",
+        "value": 600,
+        "question": "This artist known for self portraits had a child by a young housekeeper & once declared bankruptcy",
+        "answer": "Rembrandt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WHO WANTS TO BE A BILLIONAIRE?",
+        "value": 600,
+        "question": "In 2006 he launched Virgin Fuels to develop environmentally friendly energy sources",
+        "answer": "Richard Branson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING HAWAIIAN",
+        "value": 600,
+        "question": "It's the double-talk Hawaiian name for an assorted platter of appetizers",
+        "answer": "pupu platter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ORE",
+        "value": 600,
+        "question": "You'll earn more than 5 cents if you know that when it comes to ores of this, it's millerite time",
+        "answer": "nickel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE AFI LIFE ACHIEVEMENT AWARD",
+        "value": 800,
+        "question": "1981:This dancer who began his career in Vaudeville",
+        "answer": "Fred Astaire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 800,
+        "question": "Enjoy this New Orleans specialty, the official doughnut of Louisiana, with a cup of chicory coffee",
+        "answer": "a beignet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT ARTISTS",
+        "value": 800,
+        "question": "During his life he may have sold only one painting , \"The Red Vineyard\", but in the 20th century his work sold for record amounts",
+        "answer": "van Gogh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHO WANTS TO BE A BILLIONAIRE?",
+        "value": 800,
+        "question": "This Washington State dropout co-founded a company with Bill Gates & piled up $13.5 billion, so things worked out",
+        "answer": "Paul Allen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING HAWAIIAN",
+        "value": 800,
+        "question": "It can be a Hawaiian feast or a particular dish usually prepared with coconut cream at that feast",
+        "answer": "a luau",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ORE",
+        "value": 800,
+        "question": "This metal says Cu later to its chief ores, including chalcopyrite & chalcocite",
+        "answer": "copper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE AFI LIFE ACHIEVEMENT AWARD",
+        "value": 1000,
+        "question": "1990:This director of epics like \"The Bridge on the River Kwai\"",
+        "answer": "David Lean",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 1000,
+        "question": "It's the 2-word French name for a custard dessert with a hard, caramelized sugar topping",
+        "answer": "crème brûlée",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT ARTISTS",
+        "value": 1000,
+        "question": "The last name of this Renaissance master whose work is seen here means \"little barrel\"",
+        "answer": "(Sandro) Botticelli",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHO WANTS TO BE A BILLIONAIRE?",
+        "value": 1000,
+        "question": "He ran track for the University of Oregon & later sold Japanese shoes out of his car; now he's worth billions",
+        "answer": "Phil Knight",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING HAWAIIAN",
+        "value": 1000,
+        "question": "(Sarah of the Clue Crew stands on a hillside in Molokai, HI.)  Molokai was left in isolation for centuries by the armies of Oahu & Maui; the priestly leaders on Molokai, known by this big Hawaiian term, were said to be able to pray their enemies to death",
+        "answer": "kahuna",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ORE",
+        "value": 1000,
+        "question": "When pitchblende, an ore of this element, goes to a mill, sulfuric acid is used to produce yellowcake",
+        "answer": "uranium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MAGAZINES",
+      "LONGFELLOW",
+      "WE'RE AN AMERICAN BAND",
+      "\"L\" ON EARTH",
+      "A BYZANTINE CATEGORY",
+      "THIS OR THAT"
+    ],
+    "clues": [
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "It's said that the devil is in these, also the name of a men's magazine from Conde Nast",
+        "answer": "Details",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LONGFELLOW",
+        "value": 400,
+        "question": "In a Longfellow rhyme, \"I shot\" this \"into the air, it fell to earth, I knew not where\"",
+        "answer": "an arrow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WE'RE AN AMERICAN BAND",
+        "value": 400,
+        "question": "Before we knocked out 4 No. 1s in less than a year, we were just 5 brothers from Gary, Indiana",
+        "answer": "The Jackson 5",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"L\" ON EARTH",
+        "value": 400,
+        "question": "The Gulf of Riga is on the northwest coast of this country",
+        "answer": "Latvia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "A BYZANTINE CATEGORY",
+        "value": 400,
+        "question": "Muslim forces captured Alexandria in 642, ending Byzantine rule in this country",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THIS OR THAT",
+        "value": 400,
+        "question": "An essential piece of cricket equipment, or a nocturnal mammal",
+        "answer": "bat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 800,
+        "question": "\"Just Like\" this 2-letter word is a feature of the weekly with this title",
+        "answer": "Us",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LONGFELLOW",
+        "value": 800,
+        "question": "Longfellow wistfully wrote, \"Art is long, and\" this \"is fleeting\"",
+        "answer": "time",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WE'RE AN AMERICAN BAND",
+        "value": 800,
+        "question": "We're Natalie, Martie & Emily, 3 Southern birds with several Grammys & a 2011 live \"Storytellers\" DVD",
+        "answer": "The Dixie Chicks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"L\" ON EARTH",
+        "value": 800,
+        "question": "It borders Thailand, Cambodia, Vietnam & China",
+        "answer": "Laos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "A BYZANTINE CATEGORY",
+        "value": 800,
+        "question": "The Byzantines paid tributes of gold to this big bad Hun who attacked them repeatedly in the 440s",
+        "answer": "Attila",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THIS OR THAT",
+        "value": 800,
+        "question": "Morally low, or the bottom support, as of a sculpture",
+        "answer": "base",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1200,
+        "question": "Under longtime editor Gilbert Grosvenor, the circulation of this magazine went from less than 3,000 to more than 2 million",
+        "answer": "National Geographic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LONGFELLOW",
+        "value": 1200,
+        "question": "Hiawatha caught a monster sturgeon named Mishe-Nahma while canoeing on a lake that Longfellow called this",
+        "answer": "Gitche Gumee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WE'RE AN AMERICAN BAND",
+        "value": 1200,
+        "question": "We got together as kids in the San Francisco Bay Area before hitting it big with \"Proud Mary\"",
+        "answer": "Creedence Clearwater Revival",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"L\" ON EARTH",
+        "value": 1200,
+        "question": "This lake in central Switzerland has a maximum depth of 702 feet",
+        "answer": "Lake Lucerne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "A BYZANTINE CATEGORY",
+        "value": 1200,
+        "question": "Byzantium, the capital of the Eastern Roman Empire, was renamed by this emperor in 330 A.D.",
+        "answer": "Constantine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THIS OR THAT",
+        "value": 1200,
+        "question": "Direct & unreserved in speech, or Congressman Barney",
+        "answer": "frank",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1600,
+        "question": "Ansel Adams helped found this photography magazine named for an opening, as on a camera",
+        "answer": "Aperture",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LONGFELLOW",
+        "value": 1600,
+        "question": "\"Week in, week out, from morn till night, you can hear his bellows blow\", Longfellow wrote about this character",
+        "answer": "the blacksmith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WE'RE AN AMERICAN BAND",
+        "value": 1600,
+        "question": "We hit the Top 10 with \"Don't Look Back\" in 1978; we'd say where we're from, but that'd be too much of a hint",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"L\" ON EARTH",
+        "value": 1600,
+        "question": "It's the longest river in France",
+        "answer": "the Loire",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "A BYZANTINE CATEGORY",
+        "value": 1600,
+        "question": "After enduring for more than a thousand years, the Byzantine Empire finally fell to this one in 1453",
+        "answer": "the Ottoman Empire",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THIS OR THAT",
+        "value": 1600,
+        "question": "Stays, or a word used to mean a corpse",
+        "answer": "remains",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 2000,
+        "question": "This editor of The Weekly Standard can also be seen on \"Fox News Sunday\"",
+        "answer": "(Bill) Kristol",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LONGFELLOW",
+        "value": 2000,
+        "question": "In \"The Courtship of Miles Standish\", she told John Alden, \"If I am not worth the wooing, I surely am not worth the winning\"",
+        "answer": "Priscilla",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WE'RE AN AMERICAN BAND",
+        "value": 2000,
+        "question": "We had a big year in 1966, with 5 Top 10 hits including \"Summer In The City\"--not bad for 4 Greenwich Village boys",
+        "answer": "The Lovin' Spoonful",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"L\" ON EARTH",
+        "value": 2000,
+        "question": "It's \"jar\"ring to note that before sailing to America in 1620, the pilgrims lived in this Dutch city for 11 years",
+        "answer": "Leiden",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "A BYZANTINE CATEGORY",
+        "value": 2000,
+        "question": "Before invading the west, Byzantine Emperor Justinian made peace with Khosrow, king of this empire to his east",
+        "answer": "the Persian Empire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THIS OR THAT",
+        "value": 2000,
+        "question": "A bad football punt, or the long, straight anchor part connecting the crown & the ring",
+        "answer": "a shank",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WOMEN'S FIRSTS",
+    "clue": "In 1977 Juanita Kreps, the first woman on the board of the NYSE, became the first woman to head this Cabinet dept.",
+    "answer": "Commerce"
+  },
+  "gameId": "6362",
+  "gameDate": "Tuesday, April 24, 2012"
+}

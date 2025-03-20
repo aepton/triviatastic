@@ -1,0 +1,574 @@
+{
+  "title": "Show #5208 - Wednesday, April 11, 2007",
+  "jeopardyRound": {
+    "categories": [
+      "COLONIAL AMERICA",
+      "WORLD CAPITALS BY AIRPORT",
+      "NAME THAT POET",
+      "THE \"SIT\"UATION ROOM",
+      "ROCK",
+      "ROLE"
+    ],
+    "clues": [
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 200,
+        "question": "In 1737 in Boston, the Charitable Irish Society held the first municipal celebration of this holiday",
+        "answer": "St. Patrick's Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD CAPITALS BY AIRPORT",
+        "value": 200,
+        "question": "Dulles",
+        "answer": "Washington, D.C.",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT POET",
+        "value": 200,
+        "question": "\"One if by land, and two, if by sea; and I on the opposite shore will be\"",
+        "answer": "Longfellow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE \"SIT\"UATION ROOM",
+        "value": 200,
+        "question": "This Sioux chief led warriors in the Battle of the Rosebud",
+        "answer": "Sitting Bull",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 200,
+        "question": "For hundreds of years, the Barbary apes have rocked atop the world-famous Rock of this",
+        "answer": "Gibraltar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ROLE",
+        "value": 200,
+        "question": "Danny Kaye sang about \"Wonderful Copenhagen\" when he played this role on film in 1952",
+        "answer": "Hans Christian Andersen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 400,
+        "question": "Thomas Jefferson laid the foundation of this home in 1769",
+        "answer": "Monticello",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD CAPITALS BY AIRPORT",
+        "value": 400,
+        "question": "Orly",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT POET",
+        "value": 400,
+        "question": "\"Then Sally and I saw them run down the hall. We saw those two Things bump their kites on the wall\"",
+        "answer": "Dr. Seuss",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE \"SIT\"UATION ROOM",
+        "value": 400,
+        "question": "It was famously torpedoed & sunk in May 1915 with a loss of nearly 1,200 lives",
+        "answer": "the Lusitania",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 400,
+        "question": "(Cheryl of the Clue Crew reports from a Broadway stage.) If you know the name for a group of lions, you can guess the name of this famous rock, here on the set of The Lion King",
+        "answer": "Pride Rock",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ROLE",
+        "value": 400,
+        "question": "(Hi, I'm Sam Waterston, and) I'm a huge fan of this American president & I've been lucky enough to play him on Broadway & in a TV miniseries",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 600,
+        "question": "In 1614 Presbyterian minister Alexander Whitaker baptized this daughter of Powhatan in Jamestown",
+        "answer": "Pocahontas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD CAPITALS BY AIRPORT",
+        "value": 600,
+        "question": "Templehof",
+        "answer": "Berlin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT POET",
+        "value": 600,
+        "question": "\"Don Juan's parents lived beside the river, a noble stream, and call'd the Guadalquivir\"",
+        "answer": "Lord Byron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE \"SIT\"UATION ROOM",
+        "value": 600,
+        "question": "Ravi Shankar is a virtuoso on it",
+        "answer": "the sitar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 600,
+        "question": "Images carved on rocks by people of the past are a highlight of Petroglyph Nat'l Monument in this SW state",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ROLE",
+        "value": 600,
+        "question": "In the 1946 film \"The Green Years\", she played the daughter of her real-life husband Hume Cronyn",
+        "answer": "Jessica Tandy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 800,
+        "question": "The Stamp Act was repealed soon after this Founding Father argued against it in Britain's Parliament",
+        "answer": "Benjamin Franklin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORLD CAPITALS BY AIRPORT",
+        "value": 800,
+        "question": "Jose Marti",
+        "answer": "Havana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT POET",
+        "value": 800,
+        "question": "\"Reel'd from the sabre-stroke shatter'd and sunder'd. Then they rode back, but not, not the six hundred\"",
+        "answer": "Tennyson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE \"SIT\"UATION ROOM",
+        "value": 800,
+        "question": "12-letter term for a college course needed to be taken & passed before you can take another one",
+        "answer": "prerequisite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 800,
+        "question": "The Colonial Dames donated an elegant portico that was erected around this rock in 1920",
+        "answer": "Plymouth Rock",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ROLE",
+        "value": 800,
+        "question": "(Hi, I'm Christopher Meloni of Law & Order: SVU.)  For some reason, Julia Roberts decided to flee from marrying me when I played her fiance Coach Bob in this 1999 film",
+        "answer": "Runaway Bride",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 1000,
+        "question": "In 1765 this orator proclaimed that the House of Burgesses, not Britain, had the \"exclusive right...to lay taxes\"",
+        "answer": "Patrick Henry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORLD CAPITALS BY AIRPORT",
+        "value": 1000,
+        "question": "Schiphol Airport",
+        "answer": "Amsterdam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT POET",
+        "value": 1000,
+        "question": "\"Who mourns for Adonais? Oh, come forth, fond wretch!\"",
+        "answer": "Shelley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE \"SIT\"UATION ROOM",
+        "value": 1000,
+        "question": "This Alaskan city shares its name with a type of spruce",
+        "answer": "Sitka",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 1000,
+        "question": "You'll find this geological attraction about 280 miles from Alice Springs",
+        "answer": "Ayers Rock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ROLE",
+        "value": 1000,
+        "question": "Dorothy Comingore played a character based on actress Marion Davies in this classic 1941 film",
+        "answer": "Citizen Kane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POSSESSED",
+      "HE WAS IN THE TOP 40?",
+      "GUINNESS WORLD RECORDS",
+      "POLITICAL NICKNAMES",
+      "IT'S HARD OUT HERE FOR A PUMP",
+      "4-LETTER ABBREV."
+    ],
+    "clues": [
+      {
+        "category": "POSSESSED",
+        "value": 400,
+        "question": "Spanish for \"rich port\", it was ceded to the U.S. in 1898",
+        "answer": "Puerto Rico",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HE WAS IN THE TOP 40?",
+        "value": 400,
+        "question": "In 1978 this comedian & \"the Toot Uncommons\" dug up a No. 17 hit with \"King Tut\"",
+        "answer": "Steve Martin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS WORLD RECORDS",
+        "value": 400,
+        "question": "Attended by 14,178 people, the largest one of these was held in Japan, not in Boston Harbor",
+        "answer": "a tea party",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL NICKNAMES",
+        "value": 400,
+        "question": "A dictator:Il Duce",
+        "answer": "Mussolini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IT'S HARD OUT HERE FOR A PUMP",
+        "value": 400,
+        "question": "Atrial fibrillation may reduce the efficiency of this pump, especially the atrium",
+        "answer": "the heart",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER ABBREV.",
+        "value": 400,
+        "question": "Internet gratitude:TYVM",
+        "answer": "thank you very much",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POSSESSED",
+        "value": 800,
+        "question": "A battle was fought over Midway atoll; now it's officially this peaceful type of \"refuge\", like for albatross",
+        "answer": "a wildlife refuge",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HE WAS IN THE TOP 40?",
+        "value": 800,
+        "question": "Cheech teamed with Chong for 3 Top 40s, but this \"Nash Bridges\" star duetted with Streisand to make the charts",
+        "answer": "Don Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS WORLD RECORDS",
+        "value": 800,
+        "question": "Pictured here, Robert Wadlow, the guy in the middle, holds this world record",
+        "answer": "the world's tallest man",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL NICKNAMES",
+        "value": 800,
+        "question": "A 19th century British prime minister:Dizzy",
+        "answer": "Benjamin Disraeli",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IT'S HARD OUT HERE FOR A PUMP",
+        "value": 800,
+        "question": "Leo Szilard & this more-famous Euro-American physicist worked together to develop a refrigeration pump",
+        "answer": "Albert Einstein",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER ABBREV.",
+        "value": 800,
+        "question": "Law north of the border:RCMP",
+        "answer": "Royal Canadian Mounted Police",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POSSESSED",
+        "value": 1200,
+        "question": "This U.S. territory was named for \"martyred maiden\" Saint Ursula by Christopher Columbus",
+        "answer": "the Virgin Islands",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HE WAS IN THE TOP 40?",
+        "value": 1200,
+        "question": "This \"Thorn Birds\" star had 3 Top 40s, including the \"Theme From Dr. Kildare\"",
+        "answer": "(Richard) Chamberlain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS WORLD RECORDS",
+        "value": 1200,
+        "question": "As of 2004, Shunpei Yamakazi of Semiconductor Energy Labs of Japan held more of these than anyone else, 3,245",
+        "answer": "patents",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL NICKNAMES",
+        "value": 1200,
+        "question": "A 20th century U.S. president:Poppy",
+        "answer": "George Herbert Walker Bush",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IT'S HARD OUT HERE FOR A PUMP",
+        "value": 1200,
+        "question": "Joe Dumars could tell you that reciprocating pumps have one of these moving back & forth to regulate flow",
+        "answer": "a piston",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER ABBREV.",
+        "value": 1200,
+        "question": "A school near the Rio Grande:UTEP",
+        "answer": "University of Texas - El Paso",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POSSESSED",
+        "value": 1600,
+        "question": "Saipan, Tinian & Rota are the main islands in the Northern this group, made a commonwealth in 1986",
+        "answer": "Marianas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HE WAS IN THE TOP 40?",
+        "value": 1600,
+        "question": "Aw, Pa! \"Bonanza\" was the B-side of his No. 1 1964 hit \"Ringo\"",
+        "answer": "Lorne Greene",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS WORLD RECORDS",
+        "value": 1600,
+        "question": "Ralf Laue of Germany tossed more than 400 of these in 2 minutes, & it wasn't even on a Shrove Tuesday",
+        "answer": "pancakes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL NICKNAMES",
+        "value": 1600,
+        "question": "A member of the post-WWI Big Four:Le Tigre",
+        "answer": "Georges Clemenceau",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IT'S HARD OUT HERE FOR A PUMP",
+        "value": 1600,
+        "question": "This ancient Greek's \"screw\" aided in pumping water from deep in the ground",
+        "answer": "Archimedes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER ABBREV.",
+        "value": 1600,
+        "question": "It includes AT&T:DJIA",
+        "answer": "Dow Jones Industrial Average",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POSSESSED",
+        "value": 2000,
+        "question": "Navassa Island was claimed with this appropriately named 1856 Act of Congress because of its bird, uh, fertilizer",
+        "answer": "the Guano Act",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HE WAS IN THE TOP 40?",
+        "value": 2000,
+        "question": "In 1958 this actor, famous as Thurston Howell III, charted with \"Delicious!\"",
+        "answer": "(Jim) Backus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS WORLD RECORDS",
+        "value": 2000,
+        "question": "In 1989 this \"Lord of the Dance\" set a record as the world's fastest tap dancer, with 28 taps per second",
+        "answer": "Michael Flatley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POLITICAL NICKNAMES",
+        "value": 2000,
+        "question": "A French clergyman:The Red Eminence",
+        "answer": "(Cardinal) Richelieu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IT'S HARD OUT HERE FOR A PUMP",
+        "value": 2000,
+        "question": "Rotary pumps are also known as this type of pump, from the Latin for \"to flee the middle\"",
+        "answer": "centrifugal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER ABBREV.",
+        "value": 2000,
+        "question": "It certifies albums platinum: RIAA",
+        "answer": "Recording Industry Association of America",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE GREEK ALPHABET",
+    "clue": "Of the 24 letters of the Greek alphabet, it's the only one that ends in an English letter that none of the others does",
+    "answer": "Rho"
+  },
+  "gameId": "5208",
+  "gameDate": "Wednesday, April 11, 2007"
+}

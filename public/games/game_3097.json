@@ -1,0 +1,538 @@
+{
+  "title": "Show #3696 - Monday, October 2, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE CLASS",
+      "THE MOVIES",
+      "KID LIT",
+      "NEW YORK CITY",
+      "SPORTS RULES",
+      "5-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE CLASS",
+        "value": 100,
+        "question": "This force causes an object to travel 32 feet per second faster for every second that it falls",
+        "answer": "gravity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 100,
+        "question": "This 1981 blockbuster introduced the hero Indiana Jones",
+        "answer": "Raiders of the Lost Ark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "KID LIT",
+        "value": 100,
+        "question": "In a Lewis Carroll story, this young girl has wondrous \"Adventures in Wonderland\"",
+        "answer": "Alice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 100,
+        "question": "It's the home stadium of the team that's won 25 World Series",
+        "answer": "Yankee Stadium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SPORTS RULES",
+        "value": 100,
+        "question": "Basketball positions include guard, forward & this position in the middle played by Patrick Ewing",
+        "answer": "center",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 100,
+        "question": "This unit of measure is equal to 2 pints",
+        "answer": "quart",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 200,
+        "question": "A substance whose molecules contain more than one kind of atom, like water's hydrogen & oxygen atoms",
+        "answer": "compound",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 200,
+        "question": "On meeting his new adopted brother in this film, George remarks, \"You look somewhat like a mouse\"",
+        "answer": "Stuart Little",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "KID LIT",
+        "value": 200,
+        "question": "Along with her companions, Dorothy travels down this colorful \"road\" to visit the Wizard of Oz",
+        "answer": "the Yellow Brick Road",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 200,
+        "question": "The Hayden, one of these attractions, features views like the one seen here",
+        "answer": "planetarium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SPORTS RULES",
+        "value": 200,
+        "question": "In football you get 6 points for a touchdown & this many for a field goal",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 200,
+        "question": "The cirrus type of this is delicate & wispy, & is made up of ice crystals",
+        "answer": "cloud",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 300,
+        "question": "This one of the 6 simple machines consists of a bar resting on a fulcrum",
+        "answer": "lever",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 600,
+        "question": "He's the lovable character seen here",
+        "answer": "Babe (the pig)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "KID LIT",
+        "value": 300,
+        "question": "Living in a high tower, this legendary girl lets down her long hair to draw up a prince",
+        "answer": "Rapunzel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 300,
+        "question": "You can get into the city from New Jersey by the George Washington Bridge or the Lincoln one of these",
+        "answer": "tunnel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SPORTS RULES",
+        "value": 300,
+        "question": "To get 3 strikeouts in an inning of baseball requires a minimum of this many pitches",
+        "answer": "9",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 300,
+        "question": "It's the type of bedcover that's often made at a \"bee\"",
+        "answer": "quilt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 400,
+        "question": "Including the cytoplasm, this jellylike material makes up the cells of all living organisms",
+        "answer": "protoplasm (plasma accepted)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 400,
+        "question": "Oui! Oui!  In 1998 this French school girl made it to the big screen, along with Miss Clavel",
+        "answer": "Madeline",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "KID LIT",
+        "value": 400,
+        "question": "This Belgian cartoon boy with a dog named Snowy is an amateur detective",
+        "answer": "Tintin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 400,
+        "question": "The name of this street that cuts diagonally through Manhattan is synonymous with big-time theater",
+        "answer": "Broadway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 400,
+        "question": "The rear end of a ship, or an adjective describing a hard or strict teacher",
+        "answer": "stern",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 500,
+        "question": "The name of this lightest of all metals, symbol Li, comes from the Greek for \"stone\"",
+        "answer": "lithium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 500,
+        "question": "A young boy named Hogarth is a huge fan of heavy metal -- a heavy metal robot in this 1999 animated tale",
+        "answer": "The Iron Giant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "KID LIT",
+        "value": 500,
+        "question": "After moving from \"The Big Woods\", Laura Ingalls Wilder set up her \"Little House on\" this area of the Old West",
+        "answer": "the Prairie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 500,
+        "question": "New York's 5 boroughs are Manhattan, Queens, Staten Island & these 2 that start with \"B\"",
+        "answer": "Brooklyn & the Bronx",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 500,
+        "question": "It's a person who lures another into danger, or an artificial bird used by hunters to lure game",
+        "answer": "decoy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BACK TO SCHOOL",
+      "COMMON BONDS",
+      "FAMOUS WOMEN",
+      "HOLIDAYS & OBSERVANCES",
+      "NATURE WALK",
+      "MY KID SISTER'S SONGS"
+    ],
+    "clues": [
+      {
+        "category": "BACK TO SCHOOL",
+        "value": 200,
+        "question": "Art class may include this ceramic art that uses a wheel to shape clay",
+        "answer": "pottery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 200,
+        "question": "Tie,collar,scarf",
+        "answer": "things you wear around your neck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 200,
+        "question": "Co-host of \"The View\", this newswoman has interviewed every U.S. president & first lady since the Nixons",
+        "answer": "Barbara Walters",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 200,
+        "question": "In Europe, some women believe the first man they see on this February day will marry them",
+        "answer": "Valentine's Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATURE WALK",
+        "value": 200,
+        "question": "The cottontail is a common species of this animal that can jump 10 feet if you scare it",
+        "answer": "rabbit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MY KID SISTER'S SONGS",
+        "value": 200,
+        "question": "The \"little star\" is \"up above the world so high like\" one of these \"in the sky\" & if I hear it one more time, I'll cry",
+        "answer": "a diamond",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BACK TO SCHOOL",
+        "value": 400,
+        "question": "In music, you may be the lucky one that gets to carry around this instrument",
+        "answer": "tuba",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 400,
+        "question": "Pipe,dry,vacuum",
+        "answer": "things that clean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 400,
+        "question": "Since 1984 this former first lady has led an annual week-long blitz of house building for Habitat for Humanity",
+        "answer": "Rosalynn Carter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 400,
+        "question": "The USA's first parade celebrating this holiday took place on September 5, 1882",
+        "answer": "Labor Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATURE WALK",
+        "value": 400,
+        "question": "Frogs absorb oxygen through their skin, but also have these breathing organs, like us",
+        "answer": "lungs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MY KID SISTER'S SONGS",
+        "value": 400,
+        "question": "She sings \"A Song of Sixpence\" (whatever that is) & these baked in a pie?  Come on...",
+        "answer": "(four and twenty) blackbirds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BACK TO SCHOOL",
+        "value": 600,
+        "question": "In history class, you'll study this revolution that began replacing people with machines in the 1700s",
+        "answer": "the Industrial Revolution",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 600,
+        "question": "Period,caboose,Z",
+        "answer": "things at the end",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 600,
+        "question": "She was the queen of England from 1558 to 1603",
+        "answer": "Elizabeth I",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 1200,
+        "question": "The historical event which this holiday celebrates occurred 508 years ago",
+        "answer": "Columbus Day",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATURE WALK",
+        "value": 600,
+        "question": "Seen here, it looks like any other bird & gets its name because it can sound like any other bird",
+        "answer": "a mockingbird",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MY KID SISTER'S SONGS",
+        "value": 600,
+        "question": "It \"went over the mountain to see what he could see\" & I hope he stays there so my sister will shut up",
+        "answer": "the bear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BACK TO SCHOOL",
+        "value": 1600,
+        "question": "For geometry, you'll need to swallow this, the ratio of the circumference of a circle to its diameter",
+        "answer": "pi",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 800,
+        "question": "The letter T,the street,a bridge",
+        "answer": "something you cross",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 800,
+        "question": "This style & decorating maven said she's moving from Westport, Conn., after complaining about the neighbors",
+        "answer": "Martha Stewart",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 800,
+        "question": "This African-American holiday begins on December 26 & lasts for 7 days",
+        "answer": "Kwanzaa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATURE WALK",
+        "value": 800,
+        "question": "That ladybug in the grass represents one of about 300,000 species of this insect",
+        "answer": "beetles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MY KID SISTER'S SONGS",
+        "value": 800,
+        "question": "\"Morning bells are ringing\"; how can he sleep through that racket?",
+        "answer": "Brother John (\"Frère Jacques\")",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BACK TO SCHOOL",
+        "value": 1000,
+        "question": "Your geography teacher may use this kind of map with contour lines to show the elevation of land",
+        "answer": "topography map",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 1000,
+        "question": "Fez,bowler,Stetson",
+        "answer": "hats",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 1000,
+        "question": "This scientist was born in 1867 in Poland with the name Marja Sklodowska",
+        "answer": "Marie Curie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 1000,
+        "question": "This holiday was first celebrated on June 19, 1910 in Spokane, Washington, due to the efforts of Sonora Dodd",
+        "answer": "Father's Day",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "POP MUSIC",
+    "clue": "In May 1999 he had the No. 1 spot on the Hot 100, Top 40, Hot Latin & Hot Dance Music/Maxi-Single Sales Billboard charts",
+    "answer": "Ricky Martin"
+  },
+  "gameId": "3696",
+  "gameDate": "Monday, October 2, 2000"
+}

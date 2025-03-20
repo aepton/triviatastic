@@ -1,0 +1,574 @@
+{
+  "title": "Show #1637 - Tuesday, October 15, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "THE BIBLE",
+      "MATHEMATICS",
+      "GEMS",
+      "THEATRE",
+      "FLAGS",
+      "DUELING"
+    ],
+    "clues": [
+      {
+        "category": "THE BIBLE",
+        "value": 100,
+        "question": "Moses stretched forth his rod & an east wind brought these grasshoppers as a plague on Egypt",
+        "answer": "locust",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 100,
+        "question": "Number of quarters in $2.25",
+        "answer": "9",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GEMS",
+        "value": 100,
+        "question": "Small parasitic worms & grains of sand are among the irritants which help these gems form in a shell",
+        "answer": "a pearl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 100,
+        "question": "The last installment of his semi-autobiographical trilogy was \"Broadway Bound\"",
+        "answer": "Neil Simon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FLAGS",
+        "value": 100,
+        "question": "If this tropical bird could talk, & some do, it would tell you it's on Dominica's flag",
+        "answer": "a parrot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DUELING",
+        "value": 100,
+        "question": "He killed a man with a knife in 1827; we don't know if he used the type that bears his family name",
+        "answer": "(Jim) Bowie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "The queen of this city visited Solomon to test his wisdom",
+        "answer": "Sheba",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 200,
+        "question": "A binary system is based on 2 & this is a system based on 10",
+        "answer": "decimal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GEMS",
+        "value": 200,
+        "question": "The name of this gem comes from the Sinhalese word for carnelian, \"toramalli\"",
+        "answer": "tourmaline",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 200,
+        "question": "\"Man and Superman\" was the first play he wrote in the 20th century",
+        "answer": "Shaw",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FLAGS",
+        "value": 200,
+        "question": "Of the 3 major countries in North America, the one that doesn't have a leaf on its flag",
+        "answer": "the U.S.",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DUELING",
+        "value": 200,
+        "question": "He fled to Philadelphia to escape arrest after fatally wounding A. Hamilton in a duel",
+        "answer": "Aaron Burr",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 300,
+        "question": "He was Abraham & Sarah's only son",
+        "answer": "Isaac",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 300,
+        "question": "As an angles increases from 0 to 90 its sine increases from 0 to 1 & this decreases from 1 to 0",
+        "answer": "the cosine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GEMS",
+        "value": 300,
+        "question": "Chatoyance, a lustre resembling feline orbs, is found in these \"feline orb\" gems",
+        "answer": "cat's eyes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 600,
+        "question": "\"Confessions of a Nightingale\" is a 1-man show about this playwright",
+        "answer": "Tennessee Williams",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FLAGS",
+        "value": 300,
+        "question": "Symbol that's common to the flags of Norway, Sweden & Finland",
+        "answer": "a cross",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DUELING",
+        "value": 300,
+        "question": "In 1712 the Duke of Hamilton & Lord Mohun killed each other in a duel in this city's Hyde Park",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "In the book of Revelation, this horse represents Death",
+        "answer": "the pale horse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 400,
+        "question": "To divide one fraction by another you do this to the divisor, then multiply",
+        "answer": "invert it",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GEMS",
+        "value": 400,
+        "question": "Australia's Lightning Ridge is known for its fine black ones",
+        "answer": "opals",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 400,
+        "question": "Christopher Marlowe's play \"The Massacre at Paris\" deals with the massacre on this saint's day in 1572",
+        "answer": "the St. Bartholomew's Day Massacre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FLAGS",
+        "value": 400,
+        "question": "The 11 stripes on this African country's flag honor the 11 signers of its 1847 Declaration of Independence",
+        "answer": "Liberia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DUELING",
+        "value": 400,
+        "question": "The distance between duelists was measured in these \"steps\", usually ranging from 8 to 30",
+        "answer": "paces",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 500,
+        "question": "Jesus said, \"Greater love hath no man than this, that a man lay down his life for\" these people",
+        "answer": "his friends",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 500,
+        "question": "The formula for a circle is pi•r2; the formula for its circumference is this",
+        "answer": "2(pi)r",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GEMS",
+        "value": 500,
+        "question": "The \"Star of the South\" diamond was discovered in this South American country in 1853",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 500,
+        "question": "Peter Shaffer's play \"The Royal Hunt of the Sun\" concerns the conquest of this country in 1533",
+        "answer": "Peru",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FLAGS",
+        "value": 500,
+        "question": "Bhutan means \"land of\" this mythical creature, hence its flag has one on it",
+        "answer": "a dragon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DUELING",
+        "value": 500,
+        "question": "The bullet Charles Dickinson fired into this future president in an 1806 duel was never removed",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "19th CENTURY AMERICA",
+      "10-LETTER WORDS",
+      "EARTH SCIENCE",
+      "SONNETS",
+      "MOVIE DIRECTORS",
+      "GEOGRAPHIC CAPES"
+    ],
+    "clues": [
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 200,
+        "question": "This boss of NYC's Tammany Hall was imprisoned 3 times in the 1870s & died in jail",
+        "answer": "Boss Tweed",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 200,
+        "question": "From the French for \"present yourself\", it can be a meeting of spacecraft or lovers",
+        "answer": "a rendezvous",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 200,
+        "question": "Two regions, one liquid, one solid, are thought to make up this innermost part of the Earth",
+        "answer": "the core",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SONNETS",
+        "value": 200,
+        "question": "This bard's sonnets 153 & 154 are believed to be adaptations of Greek epigrams",
+        "answer": "Shakespeare",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 200,
+        "question": "His late composer-father, Carmine, worked with him on the \"Godfather\" films",
+        "answer": "Francis Ford Coppola",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHIC CAPES",
+        "value": 200,
+        "question": "Cape Town, South Africa is some 30 miles north of this cape",
+        "answer": "the Cape of Good Hope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 400,
+        "question": "Secretary of State who bought Alaska from Russia",
+        "answer": "Seward",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 400,
+        "question": "Term for an author of a gospel. or one who zealously preaches the gospel",
+        "answer": "an evangelist",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 400,
+        "question": "A compass needle aligns itself with these 2 points on the Earth's surface",
+        "answer": "the Magnetic North & South Poles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SONNETS",
+        "value": 800,
+        "question": "In a famous sonnet, the question \"How do I love thee?\" was meant for him",
+        "answer": "Robert Browning",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 400,
+        "question": "He's been called \"The Father of Italy's Spaghetti Westerns\"",
+        "answer": "Sergio Leone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHIC CAPES",
+        "value": 400,
+        "question": "With its cold climate you may think it's the tip of the iceberg as well as of South America",
+        "answer": "Cape Horn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1200,
+        "question": "Abraham Lincoln & Stephen Douglas were vying for this office when they had their famous debates",
+        "answer": "Senator from Illinois",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 600,
+        "question": "A tribe or society where the dominant authority is held by women",
+        "answer": "a matriarchy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 600,
+        "question": "It's the more common name for the Earth's glacial period",
+        "answer": "the ice age",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SONNETS",
+        "value": 600,
+        "question": "Last name of sibling poets Christina Georgina & Dante Gabriel, who both wrote sonnets",
+        "answer": "Rossetti",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 600,
+        "question": "His wife, Julie Andrews, accompanied him when his star was unveiled on Hollywood's Walk of Fame",
+        "answer": "Blake Edwards",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHIC CAPES",
+        "value": 600,
+        "question": "As the saying goes, standing on this cape on the Juan de Fuca Strait in Washington will get you nowhere",
+        "answer": "Flattery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 800,
+        "question": "Mass. social worker who, in a 3-year period in the 1840s, visited over 800 jails, asylums & almshouses",
+        "answer": "Dorothea Dix",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 800,
+        "question": "Boldly creative, like the titan who gave fire to man",
+        "answer": "Promethean",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 800,
+        "question": "From the Latin meaning \"to flow together\", it's the point at which two streams meet",
+        "answer": "the confluence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SONNETS",
+        "value": 800,
+        "question": "The first groups of love poems known as sonnet sequences were written in this language",
+        "answer": "Italian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 800,
+        "question": "His cavalry films John Wayne starred in  include \"Fort Apache\" & \"Rio Grande\"",
+        "answer": "John Ford",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHIC CAPES",
+        "value": 800,
+        "question": "1 of America's oldest ocean resorts, this N.J. cape was named for a Dutch explorer, not a month",
+        "answer": "Cape May",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1000,
+        "question": "In 1886 this cigar-maker was elected President of the American Federation of Labor",
+        "answer": "(Samuel) Gompers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 1000,
+        "question": "It's a mound of earth or stone built to hold water back; London has 1 named for Victoria",
+        "answer": "an embankment",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 1000,
+        "question": "It's the point directly below the epicenter where an earthquake originates",
+        "answer": "the focus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SONNETS",
+        "value": 1000,
+        "question": "Petrarch is noted for sonnets about his love for this woman in life & after her death",
+        "answer": "Laura",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 1000,
+        "question": "This director of \"Goodfellas\" called himself \"a failed priest who fell in love with the movies\"",
+        "answer": "(Martin) Scorsese",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHIC CAPES",
+        "value": 1000,
+        "question": "In 1975, after 500 years of its rule, Portugal gave this island group off Africa's west coast its independence",
+        "answer": "the Cape Verde Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. PRESIDENTS",
+    "clue": "This president kept a personally significant coconut shell on his White House desk",
+    "answer": "John Fitzgerald Kennedy"
+  },
+  "gameId": "1637",
+  "gameDate": "Tuesday, October 15, 1991"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1795 - Friday, May 22, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "FOOD FACTS",
+      "WASHINGTON STATE",
+      "\"OLD\"",
+      "WIVES",
+      "TALES"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 100,
+        "question": "Psychologists refer to this sense as olfaction",
+        "answer": "smell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 100,
+        "question": "You should hard-boil these breakfast items before adding them to your chiffonade dressing",
+        "answer": "eggs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WASHINGTON STATE",
+        "value": 100,
+        "question": "Whidbey Island is the largest of the many islands in this inlet",
+        "answer": "Puget Sound",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"OLD\"",
+        "value": 100,
+        "question": "In the Mother Goose rhyme, he \"was a merry old soul, and a merry old soul was he\"",
+        "answer": "Old King Cole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WIVES",
+        "value": 100,
+        "question": "In Geoffrey of Monmouth's version of this legend, this wife of King Arthur is called Guanhumara",
+        "answer": "Guinevere",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TALES",
+        "value": 100,
+        "question": "\"Needful Things\" is a recent tale of terror by this author of \"It\" & \"Cujo\"",
+        "answer": "Stephen King",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "The length of this on Jupiter is less than 10 hours",
+        "answer": "the day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 200,
+        "question": "Olympia ones are often eaten on the half shell",
+        "answer": "oysters",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WASHINGTON STATE",
+        "value": 200,
+        "question": "The portrait of Washington on the state seal is from a portrait by this artist",
+        "answer": "(Gilbert) Stuart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"OLD\"",
+        "value": 200,
+        "question": "In song, Stephen Foster said these people stay \"way down upon the Swanee River\"",
+        "answer": "the old folks at home",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WIVES",
+        "value": 200,
+        "question": "In the Bible, Jesus cautioned his followers to \"Remember\" this man's \"wife\" who turned to salt",
+        "answer": "Lot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TALES",
+        "value": 200,
+        "question": "In 1931 Jean de Brunhoff wrote the first of several children's tales about this elephant",
+        "answer": "Babar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 300,
+        "question": "Palynology seeks knowledge about past plant distribution by studying grains of this",
+        "answer": "pollen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 300,
+        "question": "Nationality whose name often precedes chard, steak & fondue",
+        "answer": "Swiss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WASHINGTON STATE",
+        "value": 300,
+        "question": "Washington's state fish is the steelhead species of this",
+        "answer": "trout",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"OLD\"",
+        "value": 300,
+        "question": "According to a proverb, these \"die hard\"",
+        "answer": "old habits",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WIVES",
+        "value": 300,
+        "question": "In memory of his wife Arjumand Banu Begum, who died in childbirth, Shah Jahan built this mausoleum",
+        "answer": "the Taj Mahal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TALES",
+        "value": 300,
+        "question": "This author was one of the first to use the term \"Jazz Age\" in his \"Tales of the Jazz Age\" in 1922",
+        "answer": "Fitzgerald",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "Consisting of 3 atoms, water is an example of a triatomic one of these units",
+        "answer": "a molecule",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 400,
+        "question": "Of chocolate, cheese or chili peppers, the one you're most likely to find in bishop's bread",
+        "answer": "chocolate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WASHINGTON STATE",
+        "value": 400,
+        "question": "Completed in 1942, this dam contains about 12 million cubic yards of concrete",
+        "answer": "Grand Coulee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"OLD\"",
+        "value": 400,
+        "question": "Because its tail is usually clipped, this shaggy dog is also called a bobtail",
+        "answer": "the Old English sheepdog",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WIVES",
+        "value": 400,
+        "question": "In September 1991 this fourth & last wife of Charlie Chaplin died at age 66",
+        "answer": "Oona O'Neill",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TALES",
+        "value": 400,
+        "question": "The general prologue to this monumental work describes the meeting of 30 pilgrims at the Tabard Inn",
+        "answer": "The Canterbury Tales",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 500,
+        "question": "American Arthur Compton's work proved the existence of these \"particles\" of light",
+        "answer": "photons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 500,
+        "question": "A boule-de-neige is a dessert named for & resembling one of these spheres",
+        "answer": "a snowball",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WASHINGTON STATE",
+        "value": 500,
+        "question": "Once head of the Atomic Energy Commission, she became the state's 1st woman governor in 1977",
+        "answer": "Dixy Lee Ray",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"OLD\"",
+        "value": 500,
+        "question": "For its loyalty to the British Crown, Charles II gave Virginia this nickname",
+        "answer": "the Old Dominion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WIVES",
+        "value": 1000,
+        "question": "With her mother superior's blessings, Maria Kutschera became the wife of this Austrian baron in 1927",
+        "answer": "Baron von Trapp",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TALES",
+        "value": 500,
+        "question": "\"The Last of the Mohicans\" is among the novels that make up this series of tales",
+        "answer": "The Leatherstocking Tales",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EMPERORS",
+      "BUSINESS & FINANCE",
+      "WORLD CITIES",
+      "QUOTES",
+      "MONTHS",
+      "HISTORIC NAMES"
+    ],
+    "clues": [
+      {
+        "category": "EMPERORS",
+        "value": 200,
+        "question": "Japan's Showa reign ended in 1989 with the death of this emperor",
+        "answer": "Hirohito",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS & FINANCE",
+        "value": 200,
+        "question": "The term for regular payments you get from your employer after retiring",
+        "answer": "a pension",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 200,
+        "question": "Major hotels in this city include Shepheard's & the Nile Hilton",
+        "answer": "Cairo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 200,
+        "question": "Ira Gershwin wrote, \"Summertime and the livin' is\" this",
+        "answer": "easy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MONTHS",
+        "value": 200,
+        "question": "One Saxon name for this month was Aefter-Yula or \"after Christmas\"",
+        "answer": "January",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "At Carnegie Hall in 1935, she talked about \"Adventures in Flying\"; she disappeared 2 years later",
+        "answer": "(Amelia) Earhart",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EMPERORS",
+        "value": 400,
+        "question": "On Christmas Day, 800, as he prayed at St. Peter's Church, he was crowned Emperor of the Romans",
+        "answer": "Charlemagne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS & FINANCE",
+        "value": 400,
+        "question": "NASDAQ deals in OTC stocks, OTC standing for this",
+        "answer": "over the counter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 400,
+        "question": "This city on the Tiete River accounts for about 40% of Brazil's industrial output",
+        "answer": "São Paulo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 400,
+        "question": "According to playwright William Congreve, \"You must not\" do this \"and tell\"",
+        "answer": "kiss",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MONTHS",
+        "value": 400,
+        "question": "The name of this month might come from a Latin word meaning \"to open\", being a time when flowers open",
+        "answer": "April",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "Oceanus Hopkins was born on this ship while it was at sea; Peregrine White, after it got to New England",
+        "answer": "the Mayflower",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EMPERORS",
+        "value": 600,
+        "question": "After becoming emperor of Ethiopia in 1930, he gave the country its first written constitution",
+        "answer": "Haile Selassie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS & FINANCE",
+        "value": 600,
+        "question": "It provides transportation & utility stock averages as well as its famous industrial",
+        "answer": "(the) Dow (Jones)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 600,
+        "question": "The tombs of Michelangelo & Machiavelli are in the Church of Santa Croce in this Italian city",
+        "answer": "Florence",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 1200,
+        "question": "Milton Friedman said, \"There's only one place where inflation is made: that's in\" this city",
+        "answer": "Washington (D.C.)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MONTHS",
+        "value": 600,
+        "question": "The 11th of this month once marked the beginning of winter; now it commemorates the end of WWI",
+        "answer": "November",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 600,
+        "question": "Milan Stefanik, a Slovakian astronomer & soldier, helped found this nation in 1918",
+        "answer": "Czechoslovakia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EMPERORS",
+        "value": 800,
+        "question": "It's uncertain whether this Aztec emperor was killed by Cortez' troops or by his own people",
+        "answer": "Montezuma",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS & FINANCE",
+        "value": 800,
+        "question": "\"Geographic\" term for corporations registered in places where taxes are less, like the Caymans or Bahamas",
+        "answer": "offshore",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 800,
+        "question": "Nymphenburg Palace, the summer residence of the Bavarian kings, lies on the outskirts of this German city",
+        "answer": "Munich",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 800,
+        "question": "17th century poet Jean de la Fontaine said, \"A hungry\" one of these organs \"cannot hear\"",
+        "answer": "a stomach",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MONTHS",
+        "value": 800,
+        "question": "The Greeks honored Demeter & the Romans honored Ceres during this harvest month",
+        "answer": "September",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 800,
+        "question": "As captain of the Queen's Guard, this courtier watched the execution of his rival, Lord Essex",
+        "answer": "(Sir Walter) Raleigh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EMPERORS",
+        "value": 1000,
+        "question": "Maximilian, who became emperor of Mexico in 1864, was the brother of this Austrian emperor",
+        "answer": "Franz Joseph",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS & FINANCE",
+        "value": 1000,
+        "question": "A strike is a stoppage of work by the workers & this is a stoppage decided by management",
+        "answer": "a lockout",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 1000,
+        "question": "Regina, this Canadian province's capital, was originally called Pile O'Bones",
+        "answer": "Saskatchewan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 1000,
+        "question": "In \"The People, Yes\" this poet wrote, \"Sometime they'll give a war and nobody will come\"",
+        "answer": "Carl Sandburg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MONTHS",
+        "value": 2000,
+        "question": "In the part of South America south of the equator, summer begins during this month",
+        "answer": "December",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 1000,
+        "question": "This 1st wife was legally married to Henry VIII longer than anyone else: over 23 years",
+        "answer": "Catherine of Aragon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COMPOSERS",
+    "clue": "An anthem that he composed for George II's 1727 coronation has been used for British crownings ever since",
+    "answer": "George Frederick Handel"
+  },
+  "gameId": "1795",
+  "gameDate": "Friday, May 22, 1992"
+}

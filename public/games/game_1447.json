@@ -1,0 +1,574 @@
+{
+  "title": "Show #5122 - Tuesday, December 12, 2006",
+  "jeopardyRound": {
+    "categories": [
+      "THE 1850s",
+      "COLLEGE SPORTS",
+      "NOT TO BE CONFUSED",
+      "STATE THE STATE",
+      "ASIAN-AMERICAN FIRSTS",
+      "I LOVE YOU GUYS"
+    ],
+    "clues": [
+      {
+        "category": "THE 1850s",
+        "value": 200,
+        "question": "Playwright George Aiken dramatized this Stowe book & first performed it at Troy, New York, on Sept. 27, 1852",
+        "answer": "Uncle Tom's Cabin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE SPORTS",
+        "value": 200,
+        "question": "In 1996 this Stanford golfer won the NCAA title; the following year, he won the Masters",
+        "answer": "Tiger Woods",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NOT TO BE CONFUSED",
+        "value": 200,
+        "question": "Pepsi Cola is a beverage; Pensacola is a seaport in this state",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE THE STATE",
+        "value": 200,
+        "question": "Colby cheese was first made there & is named for a town there",
+        "answer": "Wisconsin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ASIAN-AMERICAN FIRSTS",
+        "value": 200,
+        "question": "The first Asian-American U.S. senator was Hiram Fong, who began representing this state in 1959",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "I LOVE YOU GUYS",
+        "value": 200,
+        "question": "Ich liebe dich",
+        "answer": "German",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 1850s",
+        "value": 400,
+        "question": "In 1857 this husband of Queen Victoria was given the title Prince Consort",
+        "answer": "Prince Albert",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE SPORTS",
+        "value": 400,
+        "question": "The 2005 championship in this sport was held in Stowe, Vt.; the 2006 event, in Steamboat Springs, Colorado",
+        "answer": "skiing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NOT TO BE CONFUSED",
+        "value": 400,
+        "question": "Before entering a chateau, you might remove your chapeau, which is one of these",
+        "answer": "a hat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE THE STATE",
+        "value": 400,
+        "question": "\"Balmer\" is the local pronunciation of the largest city in this state",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ASIAN-AMERICAN FIRSTS",
+        "value": 400,
+        "question": "In 1993 this person became the first Asian American to anchor a major network TV newscast",
+        "answer": "Connie Chung",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "I LOVE YOU GUYS",
+        "value": 400,
+        "question": "Ya vas lyublyu",
+        "answer": "Russian",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 1850s",
+        "value": 600,
+        "question": "Carolers at Christmastime 1855 first sang this song whose title precedes \"Glory to the newborn King\"",
+        "answer": "\"Hark! The Herald Angels Sing\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE SPORTS",
+        "value": 600,
+        "question": "Since 1966 this Big 10 football coach has won a record 21 Bowl games, including the 2006 Orange Bowl against Fla. State",
+        "answer": "Joe Paterno",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NOT TO BE CONFUSED",
+        "value": 600,
+        "question": "Anesthesia is something you get before surgery; Anastasia was the youngest daughter of this Russian empress",
+        "answer": "Alexandra",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE THE STATE",
+        "value": 600,
+        "question": "Shots like the one seen here show you why it's the Evergreen State",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ASIAN-AMERICAN FIRSTS",
+        "value": 600,
+        "question": "The first Asian American to command a U.S. combat battalion was Young Oak Kim during this war",
+        "answer": "WW II",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "I LOVE YOU GUYS",
+        "value": 600,
+        "question": "Jag alskar dig",
+        "answer": "Swedish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 1850s",
+        "value": 800,
+        "question": "In 1852 Schleswig was made a part of this Scandinavian nation; in 1864 it was lost to Prussia & Austria",
+        "answer": "Denmark",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE SPORTS",
+        "value": 800,
+        "question": "Chad Fox is one of only 2 men to win any NCAA gymnastics event 4 straight years; his specialty was this \"leaping\" one",
+        "answer": "the vault",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NOT TO BE CONFUSED",
+        "value": 800,
+        "question": "A kugel is a crusty baked pudding; kegling is another name for this game",
+        "answer": "bowling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE THE STATE",
+        "value": 800,
+        "question": "Republicans Sam Brownback & Pat Roberts are its Senate delegation",
+        "answer": "Kansas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ASIAN-AMERICAN FIRSTS",
+        "value": 800,
+        "question": "The first Asian to win an acting Oscar was Haing Ngor, Best Supporting Actor for this 1984 film",
+        "answer": "The Killing Fields",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "I LOVE YOU GUYS",
+        "value": 800,
+        "question": "Wo ie ni",
+        "answer": "Chinese",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 1850s",
+        "value": 1000,
+        "question": "In 1852 this singer married her accompanist Otto Goldschmidt in Boston while touring America",
+        "answer": "Jenny Lind",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE SPORTS",
+        "value": 1000,
+        "question": "2 college players have rushed for more than 2,300 yards in a season: Barry Sanders & this USC back, later a Raider",
+        "answer": "Marcus Allen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NOT TO BE CONFUSED",
+        "value": 1000,
+        "question": "Alimony is what you pay to an ex; this is a brittle silvery-white metallic element, atomic no. 51",
+        "answer": "antimony",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE THE STATE",
+        "value": 1000,
+        "question": "Aside from 3 West Coast states, it was the westernmost state of the lower 48 won by Kerry in 2004",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ASIAN-AMERICAN FIRSTS",
+        "value": 1000,
+        "question": "Sadly Ellison Onizuka, the first Asian American in space, was on this 1986 shuttle flight",
+        "answer": "Challenger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "I LOVE YOU GUYS",
+        "value": 1000,
+        "question": "Yr wyf i'n dy garu di",
+        "answer": "Welsh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORDS IN SCIENCE",
+      "GAME SHOW HOSTS",
+      "CHURCHES & CATHEDRALS",
+      "POETS & POETRY",
+      "THERE'S SOMETHING ABOUT MARY",
+      "\"OX\" MARKS THE SPOT"
+    ],
+    "clues": [
+      {
+        "category": "WORDS IN SCIENCE",
+        "value": 400,
+        "question": "The opposite of antibiotic, it's a term for healthful bacteria in yogurt",
+        "answer": "probiotic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GAME SHOW HOSTS",
+        "value": 400,
+        "question": "An aggressive \"60 Minutes\" interviewer, back in the 1950s he hosted \"Guess Again\" & \"The Big Surprise\"",
+        "answer": "Mike Wallace",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CHURCHES & CATHEDRALS",
+        "value": 400,
+        "question": "The most-visited Catholic shrine in the Americas is Mexico's Basilica of Our Lady of this",
+        "answer": "Guadalupe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 400,
+        "question": "Though born in San Francisco, he is best known for his verse dealing with New England life, as in \"North of Boston\"",
+        "answer": "Robert Frost",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THERE'S SOMETHING ABOUT MARY",
+        "value": 400,
+        "question": "She's the only first lady whose first name was Mary",
+        "answer": "Mary Todd Lincoln",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"OX\" MARKS THE SPOT",
+        "value": 400,
+        "question": "It makes up about 21% of the air we breathe",
+        "answer": "oxygen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORDS IN SCIENCE",
+        "value": 800,
+        "question": "In astronomy, Ptolemy's geocentric model gave way to the Copernican one described by this adjective",
+        "answer": "heliocentric",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GAME SHOW HOSTS",
+        "value": 800,
+        "question": "Among the many game shows hosted by this man seen here was one called \"How's Your Mother-In-Law?\"",
+        "answer": "Wink Martindale",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CHURCHES & CATHEDRALS",
+        "value": 800,
+        "question": "In 1980, Dr. Robert Schuller dedicated this 10,000-window glass edifice in Garden Grove, California",
+        "answer": "Crystal Cathedral",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 800,
+        "question": "\"In Flanders Fields\" these flowers \"blow/between the crosses, row on row\"",
+        "answer": "poppies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THERE'S SOMETHING ABOUT MARY",
+        "value": 800,
+        "question": "Nickname of Ms. Mallon, who infected at least 50 people with a certain disease between 1900 & 1915; 3 died",
+        "answer": "Typhoid Mary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"OX\" MARKS THE SPOT",
+        "value": 800,
+        "question": "International relief organization founded in England",
+        "answer": "Oxfam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORDS IN SCIENCE",
+        "value": 1200,
+        "question": "Hydrogen molecules are formed by this type of bond in which 2 atoms share a pair of electrons",
+        "answer": "covalent",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GAME SHOW HOSTS",
+        "value": 1200,
+        "question": "This TV game show producer also hosted \"This is Your Life\" & \"Truth or Consequences\"",
+        "answer": "Ralph Edwards",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CHURCHES & CATHEDRALS",
+        "value": 1200,
+        "question": "In 1974 Reims Cathedral added stained-glass windows by this Russian-born artist",
+        "answer": "(Marc) Chagall",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 1200,
+        "question": "Gloriana is the title character in this epic poem by Edmund Spenser",
+        "answer": "The Faerie Queene",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THERE'S SOMETHING ABOUT MARY",
+        "value": 1200,
+        "question": "Her 1875 book would ultimately be named \"Science and Health with Key to the Scriptures\"",
+        "answer": "Mary Baker Eddy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"OX\" MARKS THE SPOT",
+        "value": 1200,
+        "question": "\"Deafening silence\", for example",
+        "answer": "oxymoron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORDS IN SCIENCE",
+        "value": 1600,
+        "question": "A common word for polymers; in physics, it means material that can be deformed & keep its new shape",
+        "answer": "plastic",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GAME SHOW HOSTS",
+        "value": 1600,
+        "question": "He played Danny Tanner on \"Full House\" & now has his hands full as the host of the game show \"1 vs. 100\"",
+        "answer": "Bob Saget",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CHURCHES & CATHEDRALS",
+        "value": 1600,
+        "question": "(Kelly of the Clue Crew reports from Temple Church in London.)  London's Temple Church was built by the crusading Knights Templar to resemble this Jerusalem church on Jesus' burial site",
+        "answer": "the Church of the Holy Sepulchre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 1600,
+        "question": "This British poet wrote, \"That's my last duchess painted on the wall, looking as if she were alive\"",
+        "answer": "Robert Browning",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THERE'S SOMETHING ABOUT MARY",
+        "value": 1600,
+        "question": "In 1959 she found the skull of a human-like creature that lived about 1.75 million years ago in Olduvai Gorge",
+        "answer": "Mary Leakey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"OX\" MARKS THE SPOT",
+        "value": 1600,
+        "question": "Pacific coast California city in Ventura County",
+        "answer": "Oxnard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORDS IN SCIENCE",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew reports from a science lab.)  Because the structure of oil doesn't allow certain bonds, it's called this type of molecule, from words meaning \"fear of water\"",
+        "answer": "hydrophobic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GAME SHOW HOSTS",
+        "value": 2000,
+        "question": "Nicknamed the \"Queen of Mean\", she's hosted both an American & a British version of \"The Weakest Link\"; goodbye!",
+        "answer": "(Anne) Robinson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CHURCHES & CATHEDRALS",
+        "value": 2000,
+        "question": "In Ulm, Germany the tallest spire in the world rises 528 feet above a cathedral built in this style",
+        "answer": "Gothic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 2000,
+        "question": "Romantic poet who wrote, \"St. Agnes's Eve--ah, bitter chill it was!  The owl, for all his feathers, was a-cold\"",
+        "answer": "(John) Keats",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THERE'S SOMETHING ABOUT MARY",
+        "value": 2000,
+        "question": "This 19th century author's maiden name was Godwin",
+        "answer": "Mary Shelley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"OX\" MARKS THE SPOT",
+        "value": 2000,
+        "question": "\"Incident\"ly, it's a U-shaped piece of wood placed around the neck of a beast of burden",
+        "answer": "oxbow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CHIEF JUSTICES",
+    "clue": "He wrote that if a person in custody \"cannot afford an attorney, one will be appointed for him... if he so desires\"",
+    "answer": "Earl Warren"
+  },
+  "gameId": "5122",
+  "gameDate": "Tuesday, December 12, 2006"
+}

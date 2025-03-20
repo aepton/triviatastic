@@ -1,0 +1,574 @@
+{
+  "title": "Show #4466 - Monday, January 26, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "BESTSELLERS",
+      "OLYMPIC GAMES WAITING LIST",
+      "FROMMER'S TRAVEL USA",
+      "FAMILIAR PHRASES",
+      "MAY I BE FRANK WITH YOU?",
+      "IT'S ALL IN YOUR HEAD"
+    ],
+    "clues": [
+      {
+        "category": "BESTSELLERS",
+        "value": 200,
+        "question": "Her memoir \"Living History\" sold about 200,000 copies on its first day of release in 2003",
+        "answer": "Hillary Clinton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC GAMES WAITING LIST",
+        "value": 200,
+        "question": "\"Strike\" while the iron is hot, IOC -- this sport might be right up your \"alley\" as an Olympic sport",
+        "answer": "bowling",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FROMMER'S TRAVEL USA",
+        "value": 200,
+        "question": "When hiking the Grand Canyon, don't try to make it top to bottom & back in 1 day, & these animals have the right of way",
+        "answer": "mules",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 200,
+        "question": "\"Don't\" do this \"to spite your face\"",
+        "answer": "cut off your nose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MAY I BE FRANK WITH YOU?",
+        "value": 200,
+        "question": "U.S. president known as \"Handsome Frank\"",
+        "answer": "Franklin Pierce",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT'S ALL IN YOUR HEAD",
+        "value": 200,
+        "question": "It's the thin sheet of cartilage & bone separating the nostrils; a deviated one can cause problems breathing",
+        "answer": "septum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 400,
+        "question": "This almost 900-page book sold about 5 million copies on its first day of sale, June 21, 2003",
+        "answer": "Harry Potter and the Order of the Phoenix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC GAMES WAITING LIST",
+        "value": 400,
+        "question": "The WBF isn't full of dummies, it wants this card game in the Olympics",
+        "answer": "bridge",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FROMMER'S TRAVEL USA",
+        "value": 400,
+        "question": "Each January this city hosts the North American International Auto Show",
+        "answer": "Detroit",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 400,
+        "question": "Make a big deal over something little & you \"make a mountain out of\" this",
+        "answer": "a molehill",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MAY I BE FRANK WITH YOU?",
+        "value": 400,
+        "question": "He was the model for Howard Roark, the architect in Ayn Rand's \"The Fountainhead\"",
+        "answer": "Frank Lloyd Wright",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT'S ALL IN YOUR HEAD",
+        "value": 400,
+        "question": "Bicuspids are also known as pre-these & are permanent grinding teeth",
+        "answer": "molars",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 600,
+        "question": "Jack Ryan is a novice CIA analyst in this \"colorful\" 2002 bestseller by Tom Clancy",
+        "answer": "Red Rabbit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC GAMES WAITING LIST",
+        "value": 600,
+        "question": "If this competition doesn't waltz into the games, it can foxtrot or cha cha",
+        "answer": "ballroom dancing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FROMMER'S TRAVEL USA",
+        "value": 600,
+        "question": "At this ranch about 40 minutes out of Dallas you can eat at Miss Ellie's Deli",
+        "answer": "Southfork",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 600,
+        "question": "As it often turns out, \"Truth is stranger than\" this",
+        "answer": "fiction",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MAY I BE FRANK WITH YOU?",
+        "value": 600,
+        "question": "A West Point graduate, Apollo 8 took him around the moon",
+        "answer": "Frank Borman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT'S ALL IN YOUR HEAD",
+        "value": 600,
+        "question": "It's the scientific name for the lower jaw",
+        "answer": "mandible",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 800,
+        "question": "\"Gettysburg\", cowritten by this former House speaker, imagines a Confederate victory at Gettysburg",
+        "answer": "Newt Gingrich",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC GAMES WAITING LIST",
+        "value": 800,
+        "question": "The absence of this centuries-old martial art from the Olympics has left medal hopefuls \"empty-hand\"ed",
+        "answer": "karate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FROMMER'S TRAVEL USA",
+        "value": 800,
+        "question": "Called \"The Valley Isle\", its best beaches include Kaanapali & Wailea",
+        "answer": "Maui",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 800,
+        "question": "In a bad mood today?  I could tell by that \"chip on your\" this",
+        "answer": "shoulder",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MAY I BE FRANK WITH YOU?",
+        "value": 800,
+        "question": "He was the first man to be a member of both the Pro Football Hall of Fame & the Broadcasters Hall of Fame",
+        "answer": "Frank Gifford",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT'S ALL IN YOUR HEAD",
+        "value": 800,
+        "question": "The name of this largest part of the brain is Latin for \"brain\"",
+        "answer": "the cerebrum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 1000,
+        "question": "Artistic clues help reveal the secret location of the Holy Grail in this thriller by Dan Brown",
+        "answer": "The Da Vinci Code",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC GAMES WAITING LIST",
+        "value": 1000,
+        "question": "The first associations for this non-Olympic sport were set up in Scotland in the mid-18th century",
+        "answer": "golf",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FROMMER'S TRAVEL USA",
+        "value": 1000,
+        "question": "A plethora of hiking & riding trails are in this Virginia valley whose name means \"daughter of the stars\"",
+        "answer": "Shenandoah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 1000,
+        "question": "Give up during a fight & you may be forced to \"say\" or \"cry\" this relative",
+        "answer": "uncle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MAY I BE FRANK WITH YOU?",
+        "value": 1000,
+        "question": "He was Philly's police commissioner before being elected mayor in 1971",
+        "answer": "Frank Rizzo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT'S ALL IN YOUR HEAD",
+        "value": 1000,
+        "question": "When your ears \"pop\", it's just air escaping from this tube that connects the middle ear & the throat",
+        "answer": "the eustachian tube",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "OPERA TITLE CHARACTERS",
+      "HODGEPOURRI",
+      "PRESIDENTIAL MIDDLE NAME SPELLING",
+      "'60s MUSIC SCENE",
+      "HI YA, IRIAN JAYA!",
+      "ON \"Q\""
+    ],
+    "clues": [
+      {
+        "category": "OPERA TITLE CHARACTERS",
+        "value": 400,
+        "question": "If this heroine had married Prince Yamadori, there might not be that nasty suicide in Act III",
+        "answer": "Madame Butterfly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HODGEPOURRI",
+        "value": 400,
+        "question": "This London wax museum advertises itself as the place that \"has come alive\" with interactive exhibits",
+        "answer": "Madame Tussauds",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAME SPELLING",
+        "value": 400,
+        "question": "Jimmy Carter",
+        "answer": "E-A-R-L",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "'60s MUSIC SCENE",
+        "value": 400,
+        "question": "Frank Sinatra ad-libbed \"Scooby Dooby Doo\" in this 1966 No. 1 hit",
+        "answer": "\"Strangers In The Night\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HI YA, IRIAN JAYA!",
+        "value": 400,
+        "question": "The Irian Jaya region has been the easternmost province of this nation since the 1960s",
+        "answer": "Indonesia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ON \"Q\"",
+        "value": 400,
+        "question": "Where you keep your arrows",
+        "answer": "quiver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OPERA TITLE CHARACTERS",
+        "value": 800,
+        "question": "Some merry wives dress up like fairies in Verdi's 1893 opera named for this Shakespearean character",
+        "answer": "Falstaff",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HODGEPOURRI",
+        "value": 800,
+        "question": "Of locations in the titles of the Hope-Crosby \"Road\" movies, this African one is last alphabetically",
+        "answer": "Zanzibar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAME SPELLING",
+        "value": 800,
+        "question": "Lyndon Johnson",
+        "answer": "B-A-I-N-E-S",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "'60s MUSIC SCENE",
+        "value": 800,
+        "question": "Shortly after they premiered \"Love Child\" on \"The Ed Sullivan Show\" in 1968, the song shot to No. 1",
+        "answer": "The Supremes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HI YA, IRIAN JAYA!",
+        "value": 800,
+        "question": "With its tropical jungles, Irian Jaya is home to nearly 3,000 species of this plant",
+        "answer": "orchids",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ON \"Q\"",
+        "value": 800,
+        "question": "A trivial objection",
+        "answer": "quibble",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OPERA TITLE CHARACTERS",
+        "value": 1200,
+        "question": "(Sofia of the Clue Crew reports from Germany.)  Paintings in the singers' hall at Neuschwanstein depict this knight who sought the Holy Grail & inspired an opera",
+        "answer": "Parsifal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HODGEPOURRI",
+        "value": 1200,
+        "question": "This weekday was named to honor the chief god in Norse mythology",
+        "answer": "Wednesday (for Woden)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAME SPELLING",
+        "value": 1200,
+        "question": "Franklin Roosevelt",
+        "answer": "D-E-L-A-N-O",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "'60s MUSIC SCENE",
+        "value": 1200,
+        "question": "This Broadway tune was Louis Armstrong's only Top 40 hit in the 1960s",
+        "answer": "\"Hello, Dolly!\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HI YA, IRIAN JAYA!",
+        "value": 1200,
+        "question": "The capital, Jayapura, surrendered to the military forces of this country in 1942",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ON \"Q\"",
+        "value": 1200,
+        "question": "(Jimmy of the Clue Crew shows a geometric diagrams on the chalkboard.)  Also the name of a device for measuring the angle of a star, it's the arc highlighted in blue",
+        "answer": "quadrant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OPERA TITLE CHARACTERS",
+        "value": 1600,
+        "question": "The title characters of this opera are a poor boy, King Kaspar, King Melchior & King Balthazar",
+        "answer": "Amahl and the Night Visitors",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HODGEPOURRI",
+        "value": 1600,
+        "question": "Tegucigalpa is this Central American country's capital city",
+        "answer": "Honduras",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAME SPELLING",
+        "value": 1600,
+        "question": "Richard Nixon",
+        "answer": "M-I-L-H-O-U-S",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "'60s MUSIC SCENE",
+        "value": 1600,
+        "question": "This drummer-led British quintet starred in the movie \"Having a Wild Weekend\"",
+        "answer": "The Dave Clark Five",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HI YA, IRIAN JAYA!",
+        "value": 1600,
+        "question": "In 1828 this nation claimed Irian Jaya as part of its East Indies territories",
+        "answer": "the Netherlands",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ON \"Q\"",
+        "value": 1600,
+        "question": "A senior barrister in an English high court is one of these counsels",
+        "answer": "Queen's counsel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OPERA TITLE CHARACTERS",
+        "value": 2000,
+        "question": "Marenka, whose parents betroth her to a man she has never met, is the title character of this Smetana opera",
+        "answer": "The Bartered Bride",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HODGEPOURRI",
+        "value": 2000,
+        "question": "Dentist Alfred Southwick developed this device used in 1890 on a convict named William Kemmler",
+        "answer": "the electric chair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAME SPELLING",
+        "value": 2000,
+        "question": "Rutherford Hayes",
+        "answer": "B-I-R-C-H-A-R-D",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "'60s MUSIC SCENE",
+        "value": 2000,
+        "question": "As the 1960s began, Marty Robbins was riding the top of the pop & country charts with this hit",
+        "answer": "\"El Paso\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HI YA, IRIAN JAYA!",
+        "value": 2000,
+        "question": "Irian Jaya's Arfak Mountains Reserve is an important rainforest enclave for these large butterflies with an avian name",
+        "answer": "the birdwing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ON \"Q\"",
+        "value": 2000,
+        "question": "One of the 7 hills upon which ancient Rome was built",
+        "answer": "Quirinal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE OXFORD ENGLISH DICTIONARY",
+    "clue": "Tolkien helped the editors define \"hobbit\"; Murray Gell-Mann, the term \"quark\", & this man, \"dymaxion\"",
+    "answer": "Buckminster Fuller"
+  },
+  "gameId": "4466",
+  "gameDate": "Monday, January 26, 2004"
+}

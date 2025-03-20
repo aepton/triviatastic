@@ -1,0 +1,574 @@
+{
+  "title": "Show #5962 - Tuesday, July 13, 2010",
+  "jeopardyRound": {
+    "categories": [
+      "ENGLISH LIT",
+      "CLASSIC ROCK",
+      "THE AGE OF ASPARAGUS",
+      "FAIL TO THE CHIEF",
+      "LET'S BLOW",
+      "BOOK WORDS"
+    ],
+    "clues": [
+      {
+        "category": "ENGLISH LIT",
+        "value": 200,
+        "question": "During his \"Travels\" , he visited the flying island of Laputa",
+        "answer": "Gulliver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC ROCK",
+        "value": 200,
+        "question": "This group's fourth album had no title or name on the cover but did sell millions (\"Stairway To Heaven\" helped)",
+        "answer": "Led Zeppelin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE AGE OF ASPARAGUS",
+        "value": 200,
+        "question": "The Ica, Lima & La Libertad regions are asparagus hotbeds in this country, the world's top exporter",
+        "answer": "Peru",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FAIL TO THE CHIEF",
+        "value": 200,
+        "question": "In April 1961 he signed off on a disastrous invasion of a neighboring country",
+        "answer": "John Kennedy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LET'S BLOW",
+        "value": 200,
+        "question": "Fuel is streamed through a turbine with compressed air in this type of engine first patented in 1930",
+        "answer": "a jet engine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BOOK WORDS",
+        "value": 200,
+        "question": "A boy servant, or to call out a name repeatedly as a summons",
+        "answer": "page",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 400,
+        "question": "By the time the novel ends, this title character & Edward Rochester have been happily married for 10 years",
+        "answer": "Jane Eyre",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC ROCK",
+        "value": 400,
+        "question": "\"I Get Around\" was their first #1 hit",
+        "answer": "The Beach Boys",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE AGE OF ASPARAGUS",
+        "value": 400,
+        "question": "Asparagus plants can tolerate this table condiment better than most, so it's sometimes used in beds for weed control",
+        "answer": "salt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FAIL TO THE CHIEF",
+        "value": 400,
+        "question": "He took the blame for the failure of a mission to rescue U.S. hostages in Iran",
+        "answer": "Carter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LET'S BLOW",
+        "value": 400,
+        "question": "Willis Carrier devised this type of system; one of the first was installed at a Grauman's theater",
+        "answer": "an air conditioner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BOOK WORDS",
+        "value": 400,
+        "question": "Vermiform usually precedes this body part that has no known function",
+        "answer": "the appendix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 600,
+        "question": "This 1854 Tennyson poem was published only weeks after the actual incident",
+        "answer": "Charge of the Light Brigade",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC ROCK",
+        "value": 600,
+        "question": "This group that gave us \"Sweet Home Alabama\" was inducted into the Rock & Roll Hall of Fame in 2006",
+        "answer": "Lynyrd Skynyrd",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE AGE OF ASPARAGUS",
+        "value": 600,
+        "question": "Argenteuil in northern France is renowned for its delicate asparagus of this color",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FAIL TO THE CHIEF",
+        "value": 600,
+        "question": "His efforts to hold the Union together were ineffectual; 7 states seceded on his watch",
+        "answer": "James Buchanan",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LET'S BLOW",
+        "value": 600,
+        "question": "In a crash, sensors trigger an explosion that produces nitrogen gas to inflate this device introduced in the '80s",
+        "answer": "an airbag",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BOOK WORDS",
+        "value": 600,
+        "question": "Judicial punishment often measured in years",
+        "answer": "a sentence",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 800,
+        "question": "Her title \"Sonnets from the Portuguese\" referred to her husband's nickname for her",
+        "answer": "Elizabeth Barrett Browning",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC ROCK",
+        "value": 800,
+        "question": "This group followed up 1994's \"Hell Freezes Over\" with the 2007 studio album \"Long Road Out of Eden\"",
+        "answer": "The Eagles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE AGE OF ASPARAGUS",
+        "value": 800,
+        "question": "Steamed asparagus makes a classic pairing with this \"national\" sauce made with egg yolks & butter",
+        "answer": "hollandaise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FAIL TO THE CHIEF",
+        "value": 800,
+        "question": "His 1807 Embargo Act, meant to force Britain and France to respect our economic might, wrecked the U.S. economy",
+        "answer": "Jefferson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LET'S BLOW",
+        "value": 800,
+        "question": "A book on 19th c. whaling gets its title from this traditional cry on sighting the creature",
+        "answer": "\"Thar she blows!\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BOOK WORDS",
+        "value": 800,
+        "question": "Imposing adherence to a commitment, this word can be found in front of arbitration",
+        "answer": "binding",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LIT",
+        "value": 1000,
+        "question": "In her 1929 feminist essay \"A Room of One's Own\", she paid tribute to women writers",
+        "answer": "Virginia Woolf",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC ROCK",
+        "value": 1000,
+        "question": "It's The Who song that says, \"Hope I die before I get old\"",
+        "answer": "\"My Generation\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE AGE OF ASPARAGUS",
+        "value": 1000,
+        "question": "The root system of an asparagus is known by this \"royal\" name--odd, since it's underground, not on the head",
+        "answer": "a crown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FAIL TO THE CHIEF",
+        "value": 1000,
+        "question": "Taft misstepped when he fired conservation hero Gifford Pinchot, head of this \"Service\" in the Agriculture Dept.",
+        "answer": "the Forest Service",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LET'S BLOW",
+        "value": 1000,
+        "question": "(Sarah of the Clue Crew tries to blow out a candle from a distance, first with her mouth, then a plastic soda bottle.)  Blowing out a candle from far away is hard because the blown air disperses, but concentrate the air through a small opening & it creates a whirling mass of air like a tornado called this",
+        "answer": "a vortex",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BOOK WORDS",
+        "value": 1000,
+        "question": "Casey Kasem was known for presenting long-distance ones",
+        "answer": "dedication",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "COMIC STRIPS",
+      "B.C.",
+      "THE FAMILY CIRCUS",
+      "BLOOM COUNTY",
+      "LIFE IN HELL",
+      "THE \"FAR\" SIDE"
+    ],
+    "clues": [
+      {
+        "category": "COMIC STRIPS",
+        "value": 400,
+        "question": "In one panel, this \"Far Side\" cartoonist showed a group of cavemen tossing a cow in the air to make a milkshake",
+        "answer": "(Gary) Larson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "B.C.",
+        "value": 400,
+        "question": "In the 100s B.C. this statue was completed by Alexandros; its farewell to arms would come later",
+        "answer": "the Venus de Milo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE FAMILY CIRCUS",
+        "value": 400,
+        "question": "Performers at the New Cole Brothers Circus recreate the 3-tiered, 7-man pyramid on one of these \"lofty\" things",
+        "answer": "a high wire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BLOOM COUNTY",
+        "value": 400,
+        "question": "Here in L.A. County this flower is always in bloom in Pasadena around Jan. 1; there's even a big parade in its honor",
+        "answer": "a rose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LIFE IN HELL",
+        "value": 400,
+        "question": "First, we get you into hell & Charon will ferry you over; pay him with one of these items, the traditional fare",
+        "answer": "a coin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"FAR\" SIDE",
+        "value": 400,
+        "question": "Fresh produce & cheesesteaks are sold at the USA's oldest continuously operating one of these in Penn.",
+        "answer": "a farmers market",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COMIC STRIPS",
+        "value": 800,
+        "question": "Jeff & Akbar eternally question their love for each other in his \"Life in Hell\" comic strip",
+        "answer": "Matt Groening",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "B.C.",
+        "value": 800,
+        "question": "This man born in Lumbini, India founded a religion",
+        "answer": "the Buddha",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE FAMILY CIRCUS",
+        "value": 800,
+        "question": "P.T. Barnum's famed conjoined twins, Chang & Eng were born in this country in 1811",
+        "answer": "Siam (Thailand accepted)",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BLOOM COUNTY",
+        "value": 800,
+        "question": "In its 2nd season of growth, stalks of this Mediterranean herb can be 3 feet tall; no word on \"sage, rosemary & thyme\"",
+        "answer": "parsley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LIFE IN HELL",
+        "value": 800,
+        "question": "\"Come sail away\", as we set off on this river that Achilles was dipped in to make him invulnerable",
+        "answer": "the Styx",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"FAR\" SIDE",
+        "value": 800,
+        "question": "A mockery or sham",
+        "answer": "a farce",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COMIC STRIPS",
+        "value": 1200,
+        "question": "The prehistoric-set B.C. included this blonde character whose name sounds like that of a cartoon coyote",
+        "answer": "Wiley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "B.C.",
+        "value": 1200,
+        "question": "In 195 B.C. this North African leader fled to Syria with the Romans in hot pursuit",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE FAMILY CIRCUS",
+        "value": 1200,
+        "question": "At the Culpepper & Merriweather  Circus, the Arlise Troupe performs crazy stunts on these single-axle vehicles",
+        "answer": "the unicycle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BLOOM COUNTY",
+        "value": 1200,
+        "question": "A festival celebrating these blossoms identified with the south is a yearly highlight in Columbia County, Arkansas",
+        "answer": "magnolias",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LIFE IN HELL",
+        "value": 1200,
+        "question": "You'll need to get by Cerberus, 3 times tougher than a regular dog; Orpheus charmed him with this & you may want to try it",
+        "answer": "a lyre",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"FAR\" SIDE",
+        "value": 1200,
+        "question": "Most widely spoken member of the Iranian branch of the Indo-Iranian languages",
+        "answer": "Farsi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COMIC STRIPS",
+        "value": 1600,
+        "question": "This penguin settled in \"Bloom County\"; he later starred in his own strip",
+        "answer": "Opus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "B.C.",
+        "value": 1600,
+        "question": "Under Augustus, construction began on this \"all gods\" temple",
+        "answer": "the Pantheon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE FAMILY CIRCUS",
+        "value": 1600,
+        "question": "John Ringling North worked on this Cecil B. DeMille film whose title describes his family's circus",
+        "answer": "The Greatest Show on Earth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BLOOM COUNTY",
+        "value": 1600,
+        "question": "A 2009 daffodil flower show was held in this county perhaps better known for its celebrated jumping frog",
+        "answer": "Calaveras County",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LIFE IN HELL",
+        "value": 1600,
+        "question": "Careful!  You almost got smashed by this mythical man's boulder as it rolled back downhill again",
+        "answer": "Sisyphus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"FAR\" SIDE",
+        "value": 1600,
+        "question": "It sounds like something Rover brought from a long ways away, but it means \"improbable\"",
+        "answer": "far-fetched",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COMIC STRIPS",
+        "value": 2000,
+        "question": "\"The Family Circus\" follows the life of Mommy, Daddy, Billy, Jeffy, Dolly & this baby brother with a 2-letter name",
+        "answer": "P.J.",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "B.C.",
+        "value": 2000,
+        "question": "This \"Great\" Persian leader freed the Jews from their Babylonian captivity",
+        "answer": "Cyrus the Great",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE FAMILY CIRCUS",
+        "value": 2000,
+        "question": "One of this group's presentation \"Quindam\", featured several siblings",
+        "answer": "Cirque du Soleil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BLOOM COUNTY",
+        "value": 2000,
+        "question": "Whether in Nome or Bethel, you'll always remember this hyphenated plant as Alaska's state flower",
+        "answer": "the forget-me-not",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LIFE IN HELL",
+        "value": 2000,
+        "question": "Steer clear of this \"saucy' region--the gods lock up their enemies & torture them there",
+        "answer": "Tartarus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"FAR\" SIDE",
+        "value": 2000,
+        "question": "King of Egypt until abdicating in 1952",
+        "answer": "Farouk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN NOVELISTS",
+    "clue": "An advocate of capitalism, in 1982 she was laid out beside a 6-foot dollar sign made of flowers",
+    "answer": "Ayn Rand"
+  },
+  "gameId": "5962",
+  "gameDate": "Tuesday, July 13, 2010"
+}

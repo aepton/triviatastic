@@ -1,0 +1,556 @@
+{
+  "title": "Show #5992 - Tuesday, October 5, 2010",
+  "jeopardyRound": {
+    "categories": [
+      "ESCAPE",
+      "RUN",
+      "FLEA",
+      "TAKE A POWDER",
+      "GET \"OUT\" WHILE YOU CAN",
+      "HERE COME THE MONSTERS!"
+    ],
+    "clues": [
+      {
+        "category": "ESCAPE",
+        "value": 200,
+        "question": "In 1814, before the British burned the White House, this woman escaped with silver & other valuables",
+        "answer": "Dolley Madison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "RUN",
+        "value": 200,
+        "question": "His ninth & final successful run for the U.S. Senate from West Virginia was in 2006; he died in 2010",
+        "answer": "(Robert) Byrd",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FLEA",
+        "value": 200,
+        "question": "Fleas make up the order Siphonaptera, siphon meaning tube used to extract this",
+        "answer": "blood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TAKE A POWDER",
+        "value": 200,
+        "question": "Locholest powder is designed to lower the levels of the \"bad\" cholesterol, known by this 3-letter abbreviation",
+        "answer": "LDL",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GET \"OUT\" WHILE YOU CAN",
+        "value": 200,
+        "question": "Where baseball players sit while not the field",
+        "answer": "the dugout",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HERE COME THE MONSTERS!",
+        "value": 200,
+        "question": "This nickname of the demonic villain in the \"Hellraiser\" franchise is also a term for someone not so sharp",
+        "answer": "a pinhead",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ESCAPE",
+        "value": 400,
+        "question": "A great escape from Stalag Luft III in 1944 was through one of these dubbed Harry (Tom & Dick weren't used)",
+        "answer": "a tunnel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "RUN",
+        "value": 400,
+        "question": "Before his 2006 run to be governor of this state, Butch Otter represented its First District, which includes Coeur d'Alene",
+        "answer": "Idaho",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FLEA",
+        "value": 400,
+        "question": "Miriam Rothschild discovered that a rubbery protein called resilin stored in the hind legs gives fleas this amazing ability",
+        "answer": "jumping",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TAKE A POWDER",
+        "value": 400,
+        "question": "The active ingredients of a dose of Stanback headache powder are 32 mg of caffeine and 650 mg of this",
+        "answer": "aspirin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GET \"OUT\" WHILE YOU CAN",
+        "value": 400,
+        "question": "The mortar between tiles",
+        "answer": "grout",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HERE COME THE MONSTERS!",
+        "value": 400,
+        "question": "In a 1998 movie the spawn of this reimagined monster hatched in Madison Square Garden",
+        "answer": "Godzilla",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ESCAPE",
+        "value": 600,
+        "question": "He escaped gladiator school in the 1st century B.C. & formed an army that threatened Rome",
+        "answer": "Spartacus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "RUN",
+        "value": 600,
+        "question": "He first ran for the Senate in the 1970s & has become Utah's longest-serving senator",
+        "answer": "(Orrin) Hatch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FLEA",
+        "value": 600,
+        "question": "Each day adult fleas deposit up to 50 of these, soon to turn into larvae, on your pet",
+        "answer": "eggs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TAKE A POWDER",
+        "value": 600,
+        "question": "Seidlitz Powder, taken for cathartic effect, includes this element's bicarbonate",
+        "answer": "sodium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GET \"OUT\" WHILE YOU CAN",
+        "value": 600,
+        "question": "A condition in polar regions where snow makes visibility poor",
+        "answer": "a whiteout",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HERE COME THE MONSTERS!",
+        "value": 600,
+        "question": "In \"The Host\", something is living in the River Han & is set to wreak havoc on this capital city",
+        "answer": "Seoul",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ESCAPE",
+        "value": 800,
+        "question": "His 1791 attempt to flee was thwarted when he was recognized from his picture on French money",
+        "answer": "Louis XVI",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "RUN",
+        "value": 800,
+        "question": "He was elected to the U.S. Congress in 1968, 9 years before his first successful run for mayor of New York City",
+        "answer": "Ed Koch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FLEA",
+        "value": 800,
+        "question": "As part of its \"Flea Killer Plus\" line, Raid sells this 6-letter apparatus for spreading bug-killing mist or spray",
+        "answer": "a fogger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TAKE A POWDER",
+        "value": 800,
+        "question": "Toss back 1,000 mg of ascorbic acid with this powder whose name sounds like a dire situation",
+        "answer": "Emergen-C",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GET \"OUT\" WHILE YOU CAN",
+        "value": 800,
+        "question": "It's the rock classic heard here",
+        "answer": "\"Wipe Out\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HERE COME THE MONSTERS!",
+        "value": 800,
+        "question": "In this Guillermo del Toro movie, Doug Jones played both \"El Fauno\" & \"The Pale Man\" who had eyes on his hands",
+        "answer": "Pan's Labyrinth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ESCAPE",
+        "value": 1000,
+        "question": "In 1647 King Charles I eluded his Parliamentarian pursuers & escaped to the Isle of this in the English Channel",
+        "answer": "the Isle of Wight",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "RUN",
+        "value": 1000,
+        "question": "Selma native Jo Bonner ran unopposed in his 2008 re-election campaign to represent this state's 1st District",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FLEA",
+        "value": 1000,
+        "question": "If raising these in your backyard, beware of the sticktight flea attaching itself to their wattles",
+        "answer": "a turkey (or chicken)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TAKE A POWDER",
+        "value": 1000,
+        "question": "Sold as a powder, this protein found in cow's milk helps replace amino acids you lose in a workout",
+        "answer": "whey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GET \"OUT\" WHILE YOU CAN",
+        "value": 1000,
+        "question": "Expressing piety",
+        "answer": "devout",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HERE COME THE MONSTERS!",
+        "value": 1000,
+        "question": "This term for hatred or malice is also the beast kept in a pit by Jabba the Hutt & defeated by Luke",
+        "answer": "Rancor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ASTRONOMY",
+      "FAMILY MUSIC",
+      "ASIAN NATIONS",
+      "A QUIET EVENING AT HOME",
+      "WHAT'S THE STORY?",
+      "EASTERN STANDARD RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "ASTRONOMY",
+        "value": 400,
+        "question": "In 1996 this space telescope returned the first-ever images of Pluto's surface",
+        "answer": "the Hubble",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMILY MUSIC",
+        "value": 400,
+        "question": "1957:\"Wake Up Little Susie\"",
+        "answer": "The Everly Brothers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ASIAN NATIONS",
+        "value": 400,
+        "question": "Seen here is the flag of this nation, made up of 25 states, 7 territories & 1 billion souls",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "A QUIET EVENING AT HOME",
+        "value": 400,
+        "question": "Grandma got her pectin today, so she's started putting up her delicious peach type of this",
+        "answer": "jam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHAT'S THE STORY?",
+        "value": 400,
+        "question": "Hercule makes a bust on a choo-choo out of Istanbul",
+        "answer": "Murder on the Orient Express",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "EASTERN STANDARD RHYME TIME",
+        "value": 400,
+        "question": "Delaware capital's shamrocks",
+        "answer": "Dover clover",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 800,
+        "question": "Each November debris from Comet Temple-Tuttle produces a meteor shower that streams across this lion",
+        "answer": "Leo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMILY MUSIC",
+        "value": 800,
+        "question": "2009:\"Keep It Real\" (often heard on Radio Disney)",
+        "answer": "the Jonas Brothers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ASIAN NATIONS",
+        "value": 800,
+        "question": "The Chao Phraya, this country's main river, flows to the gulf named for the country",
+        "answer": "Thailand",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "A QUIET EVENING AT HOME",
+        "value": 800,
+        "question": "Researching the family tree, Grandpa's back on the Swenson family forum on the website called this -alogy.com",
+        "answer": "genealogy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT'S THE STORY?",
+        "value": 800,
+        "question": "Until the very end, Roxane nose not that her swordsman-poet cousin loves her",
+        "answer": "Cyrano de Bergerac",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "EASTERN STANDARD RHYME TIME",
+        "value": 800,
+        "question": "Tired & sleep-deprived Great Lakes city in Pennsylvania",
+        "answer": "weary Erie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew shows a diagram of the Sun and Earth on the monitor.) On the sunward side of the Earth, these bands are compressed by solar winds; on the other side they can stretch farther",
+        "answer": "the Van Allen belts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMILY MUSIC",
+        "value": 1200,
+        "question": "1984:\"I'm So Excited\"",
+        "answer": "The Pointer Sisters",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ASIAN NATIONS",
+        "value": 1200,
+        "question": "Hey, you! U is a title of respect in this Asian language",
+        "answer": "Burmese",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "A QUIET EVENING AT HOME",
+        "value": 1200,
+        "question": "The sweater Mother's knitting is coming along nicely but oops, there in the sleeve is a \"dropped\" this",
+        "answer": "a stitch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT'S THE STORY?",
+        "value": 1200,
+        "question": "Hana reads to a burned man; Katharine dies in a desert cave (It's so sad!)",
+        "answer": "The English Patient",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "EASTERN STANDARD RHYME TIME",
+        "value": 1200,
+        "question": "Taking a peek at the capital of the Wolverine State",
+        "answer": "glancing at Lansing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 1600,
+        "question": "This largest moon of Neptune has active volcanoes that spew crystals of nitrogen as high as 6 miles above the surface",
+        "answer": "Triton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMILY MUSIC",
+        "value": 1600,
+        "question": "1941:\"Boogie Woogie Bugle Boy\"",
+        "answer": "The Andrews Sisters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ASIAN NATIONS",
+        "value": 1600,
+        "question": "Operation Baus Au, Tagalog for \"get it back\", was run by the U.S. military in this nation during World War II",
+        "answer": "the Philippines",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "A QUIET EVENING AT HOME",
+        "value": 1600,
+        "question": "A lively match at this board game is under way, & I do believe that's the Tartakower Variation on the Torre Attack",
+        "answer": "chess",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT'S THE STORY?",
+        "value": 1600,
+        "question": "Gustav von Aschenbach succumbs to cholera among the gondolas",
+        "answer": "Death in Venice",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "EASTERN STANDARD RHYME TIME",
+        "value": 1600,
+        "question": "People in a New York City borough who study policy details endlessly",
+        "answer": "Bronx wonks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 2000,
+        "question": "Pumping out energy, quasars are one type of object described as the active nuclei of these vast structures",
+        "answer": "galaxies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMILY MUSIC",
+        "value": 2000,
+        "question": "1974:\"Midnight Rider\"",
+        "answer": "The Allman Brothers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHAT'S THE STORY?",
+        "value": 2000,
+        "question": "Mack & the boys share a fish-meal storage shed in Monterey and throw a party for Doc",
+        "answer": "Cannery Row",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "EASTERN STANDARD RHYME TIME",
+        "value": 2000,
+        "question": "The area around South Beach when it's cold & sticky",
+        "answer": "Miami clammy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BROADWAY STARS",
+    "clue": "In 1955 she became the first & so far only actress to win a Tony for playing a male role in a musical",
+    "answer": "Mary Martin"
+  },
+  "gameId": "5992",
+  "gameDate": "Tuesday, October 5, 2010"
+}

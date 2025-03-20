@@ -1,0 +1,574 @@
+{
+  "title": "Show #4463 - Wednesday, January 21, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "PLAYING DOCTOR",
+      "AROUND THE HOUSE",
+      "BOOKS & AUTHORS",
+      "THE WORKING CLASS",
+      "LET'S GO TO THE PARK",
+      "DOUBLE \"D\"s"
+    ],
+    "clues": [
+      {
+        "category": "PLAYING DOCTOR",
+        "value": 200,
+        "question": "Ted Danson played this surly doctor whose practice was in the Bronx",
+        "answer": "Becker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 200,
+        "question": "A silent butler is used to collect these during or after a meal",
+        "answer": "crumbs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "Tom Wolfe's award-winning book about our first astronauts, or what he proved he had by penning it",
+        "answer": "The Right Stuff",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE WORKING CLASS",
+        "value": 200,
+        "question": "Working with Dixon to set up a famous boundary, he could have built a stone fence on it",
+        "answer": "(Charles) Mason",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO TO THE PARK",
+        "value": 200,
+        "question": "A state park near Little Falls, Minnesota honors this aviator whose boyhood home is now a museum there",
+        "answer": "Charles Lindbergh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"D\"s",
+        "value": 200,
+        "question": "Items at an auction are \"sold to the highest\" one",
+        "answer": "bidder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PLAYING DOCTOR",
+        "value": 400,
+        "question": "(Hi, I'm CCH Pounder from \"The Shield\")  I received an Emmy nomination for my role of Dr. Angela Hicks on this show set at CCH (Cook County Hospital)",
+        "answer": "ER",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 400,
+        "question": "Bathtub ones are bad; napkin ones, good",
+        "answer": "rings",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 400,
+        "question": "This tale for which Hemingway won a Pulitzer was a revision of his earlier story \"On the Blue Water\"",
+        "answer": "The Old Man and the Sea",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE WORKING CLASS",
+        "value": 400,
+        "question": "In addition to playing a sewer worker on TV, he could have been a midway barker",
+        "answer": "Art Carney",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO TO THE PARK",
+        "value": 400,
+        "question": "This over 340-acre London park is perhaps best known for one small corner, Speakers' Corner",
+        "answer": "Hyde Park",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"D\"s",
+        "value": 400,
+        "question": "A \"hasty\" dessert, or perhaps you'd prefer the tapioca",
+        "answer": "pudding",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PLAYING DOCTOR",
+        "value": 600,
+        "question": "Richard Kind played a gynecologist named Mark, one of Paul & Jamie's friends, on this show",
+        "answer": "Mad About You",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 600,
+        "question": "Tray, parsons & coffee are types of these",
+        "answer": "tables",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 600,
+        "question": "It's the English title of Gabriel Garcia Marquez' \"Cien Anos de Soledad\"",
+        "answer": "One Hundred Years of Solitude",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE WORKING CLASS",
+        "value": 600,
+        "question": "Movie Mr. Deeds who  begins to make a new barrel each day at \"High Noon\"",
+        "answer": "Gary Cooper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO TO THE PARK",
+        "value": 600,
+        "question": "Many of the caves in this New Mexico national park still have not been fully explored",
+        "answer": "Carlsbad Caverns",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"D\"s",
+        "value": 600,
+        "question": "A toy bear all alone on a store shelf inspired this character seen here",
+        "answer": "Paddington Bear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PLAYING DOCTOR",
+        "value": 800,
+        "question": "In 1975 he joined the cast of \"M*A*S*H\" as B.J. Hunnicut, a gifted surgeon & practical joker",
+        "answer": "Mike Farrell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 800,
+        "question": "Room in which you'd most likely use a duvet",
+        "answer": "the bedroom",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 800,
+        "question": "Sue Grafton began her letter-perfect alphabet mysteries with this book",
+        "answer": "A Is for Alibi",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE WORKING CLASS",
+        "value": 800,
+        "question": "We wonder whether, before voicing Jane in Disney's \"Tarzan\", she chauffeured Mickey's girlfriend",
+        "answer": "Minnie Driver",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO TO THE PARK",
+        "value": 800,
+        "question": "Roger Williams Park is the largest park in this Rhode Island city founded by Williams in 1636",
+        "answer": "Providence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"D\"s",
+        "value": 800,
+        "question": "Newborn babies were wrapped in these clothes that kept their arms & legs still",
+        "answer": "swaddling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PLAYING DOCTOR",
+        "value": 1000,
+        "question": "John C. McGinley plays Dr. Cox, the reluctant mentor to the rookie doctors at Sacred Heart Hospital on this NBC sitcom",
+        "answer": "Scrubs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 1000,
+        "question": "If you want Tabriz through your decorating, get a Tabriz, a fancy one of these",
+        "answer": "carpet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1000,
+        "question": "His Alex Cross thrillers include \"Roses are Red\" & \"Violets are Blue\"",
+        "answer": "James Patterson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE WORKING CLASS",
+        "value": 1000,
+        "question": "We imagine that before writing \"Dracula\" he worked way below deck on a steamer",
+        "answer": "Bram Stoker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO TO THE PARK",
+        "value": 1000,
+        "question": "The International Peace Garden is a park on the border of Manitoba & this U.S. state",
+        "answer": "North Dakota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"D\"s",
+        "value": 1000,
+        "question": "Name given to either of 2 old Icelandic literary works detailing early Scandinavian mythology",
+        "answer": "Edda",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "STING",
+      "WHEN WE DANCE",
+      "EVERY BREATH YOU TAKE",
+      "KING OF SPAIN",
+      "ROCK",
+      "\"SAN\""
+    ],
+    "clues": [
+      {
+        "category": "STING",
+        "value": 400,
+        "question": "In 1998 Britain's RSPCA helped foil crooks trying to sell this animal's horn, thought in Asia to be an aphrodisiac",
+        "answer": "rhinoceros",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WHEN WE DANCE",
+        "value": 400,
+        "question": "The name of this dance in 3/4 time is from the German for \"to revolve\"",
+        "answer": "waltz",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EVERY BREATH YOU TAKE",
+        "value": 400,
+        "question": "A whale breathes through one of these, equivalent to a nose, at the top of its head",
+        "answer": "a blowhole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "KING OF SPAIN",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew at the Palacio Real in Madrid, Spain)  Last name of the man who ruled from this royal palace until Wellington chased him out in 1812",
+        "answer": "Bonaparte",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 400,
+        "question": "In 1975 this hard rock group made its Top 40 debut with \"Rock and Roll All Nite\"",
+        "answer": "Kiss",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SAN\"",
+        "value": 400,
+        "question": "In ancient Rome the noble Patricians wore red ones (we hope not with socks)",
+        "answer": "sandals",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STING",
+        "value": 800,
+        "question": "This agency's \"Operation Pretense\" nabbed 57 corrupt county supervisors in Mississippi",
+        "answer": "the FBI",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WHEN WE DANCE",
+        "value": 800,
+        "question": "The Fox Trot is an example of this type of social dance named for the place where it's danced",
+        "answer": "ballroom dancing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EVERY BREATH YOU TAKE",
+        "value": 800,
+        "question": "It's the \"infantile\" name for the tiny white flowers of the genus Gypsophila that florists often add to bouquets",
+        "answer": "Baby's Breath",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "KING OF SPAIN",
+        "value": 800,
+        "question": "Philip IV of Spain was also king of this country until it broke away in 1640",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 800,
+        "question": "You're under pressure to name this man who recorded \"Under Pressure\" with Queen",
+        "answer": "David Bowie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SAN\"",
+        "value": 800,
+        "question": "New York City's Department of this has 5,700 vehicles, including 2,000 collection trucks",
+        "answer": "Sanitation",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STING",
+        "value": 1200,
+        "question": "The sting in the movie \"The Sting\" involves Robert Shaw placing a half-million-dollar bet on this sport",
+        "answer": "horse racing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WHEN WE DANCE",
+        "value": 1200,
+        "question": "The ballet \"The Bitter Weird\" is based on the dances Agnes De Mille created for this musical about a Scottish town",
+        "answer": "Brigadoon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EVERY BREATH YOU TAKE",
+        "value": 1200,
+        "question": "This 2nd-lightest gas is used in breathing mixtures for deep-sea divers to help them work at extreme depths",
+        "answer": "helium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "KING OF SPAIN",
+        "value": 1200,
+        "question": "(Jimmy of the Clue Crew)  The royal palace was begun by Philip V, the first king of Spain from this French ruling family",
+        "answer": "the Bourbons",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 1200,
+        "question": "This \"sweet\" song by Guns N' Roses was a 1988 No. 1 hit",
+        "answer": "\"Sweet Child O' Mine\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SAN\"",
+        "value": 1200,
+        "question": "It's the party beverage seen here",
+        "answer": "sangria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STING",
+        "value": 1600,
+        "question": "Operation Casablanca targeted Mexican banks suspected of this activity that doesn't use Tide or Cheer",
+        "answer": "money laundering",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WHEN WE DANCE",
+        "value": 1600,
+        "question": "Popular in the 1940s, this Brazilian dance was based on the African Batuque",
+        "answer": "the Samba",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EVERY BREATH YOU TAKE",
+        "value": 1600,
+        "question": "It's the emergency procedure of cutting into the windpipe to open a breathing passage",
+        "answer": "a tracheotomy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "KING OF SPAIN",
+        "value": 1600,
+        "question": "Goya painted Charles III in costume for this sport, to which Britannica says he had a fanatical addiction",
+        "answer": "hunting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 1600,
+        "question": "In a 1986 anti-war song, Sting hoped that these people \"Love Their Children Too\"",
+        "answer": "the Russians",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SAN\"",
+        "value": 1600,
+        "question": "From the Latin for \"holy\", it means feigning great righteousness & piety",
+        "answer": "sanctimonious",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STING",
+        "value": 2000,
+        "question": "In 1984 this automotive visionary beat the rap after a drug sting",
+        "answer": "(John) DeLorean",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WHEN WE DANCE",
+        "value": 2000,
+        "question": "Geographic name of the dance often done to a bagpipe classic like the \"Balmoral Castle\"",
+        "answer": "the Highland Fling",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EVERY BREATH YOU TAKE",
+        "value": 2000,
+        "question": "The play \"Breath\" by this author of \"Waiting for Godot\" has no dialogue, no actors & lasts only 35 seconds",
+        "answer": "Samuel Beckett",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "KING OF SPAIN",
+        "value": 2000,
+        "question": "(Sofia of the Clue Crew)  Number of Alfonso, the last king to reside in the royal palace; he had the bad luck to be forced to step down",
+        "answer": "13",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 2000,
+        "question": "R.E.M. may have had millennial fears in this song that begins, \"That's great it starts with an earthquake\"",
+        "answer": "\"It's the End of the World as We Know It\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"SAN\"",
+        "value": 2000,
+        "question": "This seat of Erie County, Ohio was an Underground Railroad stopping point",
+        "answer": "Sandusky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SPORTS",
+    "clue": "On USA Today's list of magical numbers in sports, each had an explanation except 61, which only had this symbol",
+    "answer": "an asterisk"
+  },
+  "gameId": "4463",
+  "gameDate": "Wednesday, January 21, 2004"
+}

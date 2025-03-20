@@ -1,0 +1,574 @@
+{
+  "title": "Show #4669 - Thursday, December 16, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "W.H.O.",
+      "WHAT'S COOKING, COWBOY?",
+      "WHEN WAS THAT MOVIE?",
+      "WHERE IS THAT, PIERRE?",
+      "WHY DIDN'T I THINK OF THAT?",
+      "\"HOW\" NOW"
+    ],
+    "clues": [
+      {
+        "category": "W.H.O.",
+        "value": 200,
+        "question": "The World Health Organization was established in 1948 by this international body",
+        "answer": "the U.N.",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S COOKING, COWBOY?",
+        "value": 200,
+        "question": "After a good feed, it's time to settle down with a cup of arbuckle, or this",
+        "answer": "coffee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHEN WAS THAT MOVIE?",
+        "value": 200,
+        "question": "Released in 1968 it starred Keir Dullea as an astronaut out to solve a cosmic mystery",
+        "answer": "2001: A Space Odyssey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WHERE IS THAT, PIERRE?",
+        "value": 200,
+        "question": "If you're visiting the Cannes Film Festival, you're on this sea",
+        "answer": "the Mediterranean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHY DIDN'T I THINK OF THAT?",
+        "value": 200,
+        "question": "In 1888 Nikola Tesla came up with the first practical system for generating & transmitting this type of current",
+        "answer": "A.C.",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" NOW",
+        "value": 200,
+        "question": "In the children's song, it's the line that follows \"twinkle, twinkle, little star\"",
+        "answer": "how I wonder what you are",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "W.H.O.",
+        "value": 400,
+        "question": "\"3 by 5\" is a program to provide, by 2005, anti-retroviral therapy to 3 million suffering from this",
+        "answer": "AIDS",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S COOKING, COWBOY?",
+        "value": 400,
+        "question": "If you know what kind of wagon it was served in, you'll know this old west word for food, chow, grub",
+        "answer": "a chuckwagon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHEN WAS THAT MOVIE?",
+        "value": 400,
+        "question": "Richard Burton's last film role was as the torturer O'Brien in this cautionary George Orwell tale",
+        "answer": "1984",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WHERE IS THAT, PIERRE?",
+        "value": 400,
+        "question": "The Jura Mountains straddle the border between France & this country",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHY DIDN'T I THINK OF THAT?",
+        "value": 400,
+        "question": "Hiram Percy Maxim invented the muffler for a car & this for a gun",
+        "answer": "a silencer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" NOW",
+        "value": 400,
+        "question": "The 5 words that begin the 43rd of the \"Sonnets from the Portuguese\"",
+        "answer": "How do I love thee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "W.H.O.",
+        "value": 600,
+        "question": "The W.H.O.'s administrative HQ is located in this Swiss city on the Rhone River",
+        "answer": "Geneva",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S COOKING, COWBOY?",
+        "value": 600,
+        "question": "From genus prosopis, this western wood that started a cooking craze gives off a tangy smoke",
+        "answer": "mesquite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHEN WAS THAT MOVIE?",
+        "value": 600,
+        "question": "Songs in this revolutionary musical include \"Sit Down, John\" & \"The Lees of Old Virginia\"",
+        "answer": "1776",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WHERE IS THAT, PIERRE?",
+        "value": 600,
+        "question": "This region of NW France derives its name from Celts fleeing the Anglo-Saxon invasion of England",
+        "answer": "Brittany",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHY DIDN'T I THINK OF THAT?",
+        "value": 600,
+        "question": "Andrew Beard invented an improvement for the device that coupled 2 of these when they bumped together",
+        "answer": "train cars",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" NOW",
+        "value": 600,
+        "question": "\"Smokestack Lightnin'\" was the biggest hit for this bluesman born Chester Burnett",
+        "answer": "Howlin' Wolf",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "W.H.O.",
+        "value": 800,
+        "question": "On March 15, 2003 the W.H.O. issued a rare emergency travel advisory in response to this outbreak",
+        "answer": "SARS",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S COOKING, COWBOY?",
+        "value": 800,
+        "question": "The bone-in type of this steak with a double anatomical name is also called a cowboy steak",
+        "answer": "ribeye",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHEN WAS THAT MOVIE?",
+        "value": 800,
+        "question": "John Belushi starred as Capt. Wild Bill Kelso in this romp about hysteria gripping America after Pearl Harbor",
+        "answer": "1941",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHERE IS THAT, PIERRE?",
+        "value": 800,
+        "question": "This region of France between the Seine & Marne Valleys is famous for its soft white cheese",
+        "answer": "Brie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHY DIDN'T I THINK OF THAT?",
+        "value": 800,
+        "question": "This invention began in 1951 as a bottle of white tempera waterbase paint & a small brush",
+        "answer": "Wite-Out (or Liquid Paper)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" NOW",
+        "value": 800,
+        "question": "Dale Carnegie convinced us all with this 1936 work",
+        "answer": "How to Win Friends and Influence People",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "W.H.O.",
+        "value": 1000,
+        "question": "The eradication of this paralyzing viral disease mainly affecting children is a W.H.O. goal for 2004",
+        "answer": "polio",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S COOKING, COWBOY?",
+        "value": 1000,
+        "question": "Trail cooks couldn't carry eggs & milk, so they used starter to make this type of biscuit called a \"hot rock\"",
+        "answer": "sourdough",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHEN WAS THAT MOVIE?",
+        "value": 1000,
+        "question": "Gary Grimes starred as Hermie in this \"seasonal\" film about 3 teenagers coming of age during World War II",
+        "answer": "Summer of '42",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHERE IS THAT, PIERRE?",
+        "value": 1000,
+        "question": "A northern member of the Windward Islands, this volcanic isle has been a possession of France since 1635",
+        "answer": "Martinique",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHY DIDN'T I THINK OF THAT?",
+        "value": 1000,
+        "question": "Garrett Morgan's \"safety hood\" was one of these used by World War I soldiers",
+        "answer": "a gas mask",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" NOW",
+        "value": 1000,
+        "question": "Erica Jong's bestselling 1977 follow-up to \"Fear of Flying\"",
+        "answer": "How to Save Your Own Life",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WHO-SIERS",
+      "PIANISTS",
+      "DISASTER DIGEST",
+      "McCLURE'S MAGAZINE",
+      "PLACES",
+      "\"P\"s ON EARTH"
+    ],
+    "clues": [
+      {
+        "category": "WHO-SIERS",
+        "value": 400,
+        "question": "Indianan who created such radio and TV charcters as Freddie the Freeloader & Clem Kadiddlehopper",
+        "answer": "Red Skelton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PIANISTS",
+        "value": 400,
+        "question": "An amateur pianist, this President often entertained White House guests in the 1940s",
+        "answer": "Harry S. Truman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "DISASTER DIGEST",
+        "value": 400,
+        "question": "1666: A great fire destroys much of this capital city",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "McCLURE'S MAGAZINE",
+        "value": 400,
+        "question": "Writing on corruption in McClure's, Lincoln Steffens said this little state is for sale, & cheap",
+        "answer": "Rhode Island",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PLACES",
+        "value": 400,
+        "question": "This island had its own Norman conquest and Roman conquest and Vandal and Saracen",
+        "answer": "Sicily",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"P\"s ON EARTH",
+        "value": 400,
+        "question": "The event in the Olympic decathlon in which the contestant gets the farthest off the ground",
+        "answer": "pole vault",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WHO-SIERS",
+        "value": 800,
+        "question": "Indianan who composed such standards as \"Night And Day\" & \"Begin The Beguine\"",
+        "answer": "Cole Porter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PIANISTS",
+        "value": 800,
+        "question": "He co-wrote the jazz classic \"Ain't Misbehavin'\" & performed it in the film \"Stormy Weather\"",
+        "answer": "Fats Waller",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "DISASTER DIGEST",
+        "value": 800,
+        "question": "1687: Munitions stored by the Ottoman Turks explode & wreck this Athens landmark",
+        "answer": "the Parthenon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "McCLURE'S MAGAZINE",
+        "value": 800,
+        "question": "The postage stamp \"Flappers do\" this dance was based on an illustration in McClure's",
+        "answer": "the Charleston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PLACES",
+        "value": 800,
+        "question": "Governor Granholm, not shown works in this city",
+        "answer": "Lansing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"P\"s ON EARTH",
+        "value": 800,
+        "question": "It's a large Marine corps training camp near San Diego",
+        "answer": "Camp Pendleton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WHO-SIERS",
+        "value": 1200,
+        "question": "Indianan writer who appears in the photo seen here",
+        "answer": "Kurt Vonnegut",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PIANISTS",
+        "value": 1200,
+        "question": "A promotional pianist for the piano maker Erard, this Hungarian's compositions included 1857's \"A Faust Symphony\"",
+        "answer": "Franz Liszt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "DISASTER DIGEST",
+        "value": 1200,
+        "question": "1906: 3,000 people die when a major earthquake hits this metropolis",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "McCLURE'S MAGAZINE",
+        "value": 1200,
+        "question": "McClure's sent William Glackens to this island in 1898 to provide illustrations of the battles",
+        "answer": "Cuba",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PLACES",
+        "value": 1200,
+        "question": "It's the name of this state, mate",
+        "answer": "Victoria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"P\"s ON EARTH",
+        "value": 1200,
+        "question": "While exploring the Arkansas River in 1806, he discovered the Colorado Peak named for him",
+        "answer": "Zebulon Pike",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WHO-SIERS",
+        "value": 1600,
+        "question": "Indianan who switched from Democrat to Republican in the 1930s & ran against FDR in 1940",
+        "answer": "Wendell Wilkie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PIANISTS",
+        "value": 1600,
+        "question": "The nickname of this innovative Jazz pianist was \"Fatha\"",
+        "answer": "Earl Hines",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "DISASTER DIGEST",
+        "value": 1600,
+        "question": "1281: A \"divine wind\" saves this nation from a Mongol invasion",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "McCLURE'S MAGAZINE",
+        "value": 1600,
+        "question": "She resigned as editor of McClure's in 1912 to become a novelist, mainly with tales of Nebraska",
+        "answer": "Willa Cather",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PLACES",
+        "value": 1600,
+        "question": "Until 1966, it was Basutoland",
+        "answer": "Lesotho",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"P\"s ON EARTH",
+        "value": 1600,
+        "question": "Though she was the daughter of Zeus and Demeter, this seedy young lady only spent part of the year with them",
+        "answer": "Persephone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WHO-SIERS",
+        "value": 2000,
+        "question": "Indianan who formed the American Railway Union in 1893 & was a candidate for President 5 times",
+        "answer": "Eugene Debs",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PIANISTS",
+        "value": 2000,
+        "question": "In 1958 this pianist was honored with a ticker-tape parade in New York City",
+        "answer": "Van Cliburn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "DISASTER DIGEST",
+        "value": 2000,
+        "question": "The early 1800s: This \"colorful\" disease kills tens of thousands in southern Spain",
+        "answer": "yellow fever",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "McCLURE'S MAGAZINE",
+        "value": 2000,
+        "question": "In 1899 McClure's published this Brit's \"The White Man's Burden\"",
+        "answer": "Rudyard Kipling",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PLACES",
+        "value": 2000,
+        "question": "County of cliffs & Celts seen here",
+        "answer": "Cornwall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"P\"s ON EARTH",
+        "value": 2000,
+        "question": "Through the house of York, Richard I was the last king of this dynasty",
+        "answer": "Plantagenet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORIC OBJECTS",
+    "clue": "More than 600 people, 200 horses, 40 ships, Edward the Confessor & Halley's Comet are depicted on it",
+    "answer": "the Bayeux Tapestry"
+  },
+  "gameId": "4669",
+  "gameDate": "Thursday, December 16, 2004"
+}

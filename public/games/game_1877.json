@@ -1,0 +1,574 @@
+{
+  "title": "Show #3735 - Friday, November 24, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "SOUTH OF THE EQUATOR",
+      "BREWERIES",
+      "FAMOUS FACES",
+      "CLASSIC TV TITLE ROLES",
+      "INNOVATIONS",
+      "ENDS IN \"UP\""
+    ],
+    "clues": [
+      {
+        "category": "SOUTH OF THE EQUATOR",
+        "value": 100,
+        "question": "Boer voortrekkers who attempted to cross this desert in the late 19th century called it the \"Thirstland\"",
+        "answer": "Kalahari",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BREWERIES",
+        "value": 100,
+        "question": "Ghettoblaster is both a CD & a beer produced by Motor City Brewing Works in this city",
+        "answer": "Detroit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FACES",
+        "value": 100,
+        "question": "The small steps taken by this man seen here will be long remembered",
+        "answer": "Neil Armstrong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC TV TITLE ROLES",
+        "value": 100,
+        "question": "Dry cleaner Sherman Hemsley, Isabel Sanford & their son",
+        "answer": "The Jeffersons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "INNOVATIONS",
+        "value": 100,
+        "question": "This handheld lens is one of Mr. Wizard's 10 most significant inventions of the last millennium",
+        "answer": "Magnifying glass",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"UP\"",
+        "value": 100,
+        "question": "Among kids, it's the favorite hot dog topping",
+        "answer": "Ketchup",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SOUTH OF THE EQUATOR",
+        "value": 200,
+        "question": "The Gran Chaco is a low, flat plain covering western Paraguay, southern Bolivia & the northern part of this country",
+        "answer": "Argentina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BREWERIES",
+        "value": 200,
+        "question": "Young's Brewery claims London's last remaining cooperage, where these are made & repaired",
+        "answer": "Barrels",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FACES",
+        "value": 200,
+        "question": "Psychedelic '60s soothsayer seen here",
+        "answer": "Timothy Leary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC TV TITLE ROLES",
+        "value": 200,
+        "question": "Police captain Hal Linden",
+        "answer": "Barney Miller",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "INNOVATIONS",
+        "value": 200,
+        "question": "Industrial designer Brooks Stevens added this feature to a clothes dryer's door",
+        "answer": "Window",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"UP\"",
+        "value": 200,
+        "question": "Lipstick, mascara, foundation, etc.",
+        "answer": "Makeup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SOUTH OF THE EQUATOR",
+        "value": 300,
+        "question": "Geothermal steam in the volcanic area of this country's North Island is becoming an important source of power",
+        "answer": "New Zealand",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BREWERIES",
+        "value": 300,
+        "question": "Tourists stumbling along Carlsberg Vej in this city may be coming from a brewery tour",
+        "answer": "Copenhagen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FACES",
+        "value": 300,
+        "question": "Boxing was one of the sports covered by this man seen here",
+        "answer": "Howard Cosell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC TV TITLE ROLES",
+        "value": 300,
+        "question": "Alien life form voiced by Paul Fusco",
+        "answer": "ALF",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "INNOVATIONS",
+        "value": 300,
+        "question": "Rubber sink plugs & drainboard mats were innovations by this company with \"Rubber\" in its name",
+        "answer": "Rubbermaid",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"UP\"",
+        "value": 300,
+        "question": "Hopefully you'll never have to identify a suspect, at the police station, from this group",
+        "answer": "Lineup",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SOUTH OF THE EQUATOR",
+        "value": 400,
+        "question": "This island that's second in size only to Greenland has some of the world's largest gold & copper reserves",
+        "answer": "New Guinea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BREWERIES",
+        "value": 400,
+        "question": "A Mazatlan brewery makes this brand whose name refers to a nearby body of water",
+        "answer": "Pacifico Claro",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FACES",
+        "value": 400,
+        "question": "She's the royal sibling & president of the Royal Ballet seen here in the 1950s",
+        "answer": "Princess Margaret",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC TV TITLE ROLES",
+        "value": 400,
+        "question": "Waitress Linda Lavin",
+        "answer": "Alice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "INNOVATIONS",
+        "value": 400,
+        "question": "Big construction projects often include Francois Hennebique's reinforced type of this building material",
+        "answer": "Concrete",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"UP\"",
+        "value": 800,
+        "question": "It's slang for a western or crime film that features a lot of gunfire",
+        "answer": "Shoot 'em up",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SOUTH OF THE EQUATOR",
+        "value": 500,
+        "question": "French & Malagasy are this country's 2 official languages",
+        "answer": "Madagascar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BREWERIES",
+        "value": 500,
+        "question": "A man named Heinrich established a brewery in Bremen that produces this, Germany's No. 1 export beer",
+        "answer": "Beck's",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FACES",
+        "value": 500,
+        "question": "This New Yorker's groundbreaking first took place in 1984",
+        "answer": "Geraldine Ferraro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CLASSIC TV TITLE ROLES",
+        "value": 500,
+        "question": "Streetwise detective Robert Blake",
+        "answer": "Baretta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "INNOVATIONS",
+        "value": 500,
+        "question": "Sebastien Vauban changed this military operation by using zigzag trenches to reach the defending fortress",
+        "answer": "Siege (lay siege to a fort)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"UP\"",
+        "value": 500,
+        "question": "This mat-covered hut was once home for the typical Apache family",
+        "answer": "Wickiup",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "R.I.P. IN ALABAMA",
+      "MARRIAGE-GO-ROUND",
+      "ENGLISH",
+      "LEGAL LINGO",
+      "THE GREAT GATSBY",
+      "OLD SPORT"
+    ],
+    "clues": [
+      {
+        "category": "R.I.P. IN ALABAMA",
+        "value": 200,
+        "question": "This man who ground up a lot of peanuts is buried on the grounds of the Tuskegee Institute",
+        "answer": "George Washington Carver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MARRIAGE-GO-ROUND",
+        "value": 200,
+        "question": "Larry Fortensky's third wife",
+        "answer": "Elizabeth Taylor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH",
+        "value": 200,
+        "question": "He set up his telegraph code by checking the frequency of each letter in the type of a printer's box",
+        "answer": "Samuel Morse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 200,
+        "question": "An assault based on race or religion is called this emotional type of \"crime\"",
+        "answer": "Hate crime",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT GATSBY",
+        "value": 200,
+        "question": "One of Gatsby's reputed professions is this illicit prohibition specialty",
+        "answer": "Bootlegging",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OLD SPORT",
+        "value": 200,
+        "question": "Way before Shaq & Kobe, this league's 1981 title game was aired after late local news",
+        "answer": "NBA (National Basketball Association)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "R.I.P. IN ALABAMA",
+        "value": 400,
+        "question": "Eddie Kendricks, famed as an original member of this legendary singing group, is in Elmwood Cemetery",
+        "answer": "The Temptations",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MARRIAGE-GO-ROUND",
+        "value": 400,
+        "question": "Senator John Warner's second wife",
+        "answer": "Elizabeth Taylor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH",
+        "value": 400,
+        "question": "\"Debt\" contains this letter to show its etymology, from the Latin debitum",
+        "answer": "B",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 400,
+        "question": "Also called the complainant, it's the person bringing a civil suit",
+        "answer": "Plaintiff",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT GATSBY",
+        "value": 400,
+        "question": "The 3 big-screen Gatsbys have been Warner Baxter, Robert Redford & this \"Shane\" star",
+        "answer": "Alan Ladd",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OLD SPORT",
+        "value": 400,
+        "question": "Before these were assigned numbers, the 5 wood was known as the baffy",
+        "answer": "Golf clubs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "R.I.P. IN ALABAMA",
+        "value": 600,
+        "question": "Hooterville's Mr. Haney, he's in a Haleyville, Alabama cemetery",
+        "answer": "Pat Buttram",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MARRIAGE-GO-ROUND",
+        "value": 600,
+        "question": "Eddie Fisher's second wife",
+        "answer": "Elizabeth Taylor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH",
+        "value": 600,
+        "question": "In 2000 Seamus Heaney's English translation of this Anglo-Saxon classic made the bestseller list",
+        "answer": "\"Beowulf\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 600,
+        "question": "Term for jury discussions to reach a verdict; in O.J. Simpson's criminal trial, they took 4 hours",
+        "answer": "Deliberations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT GATSBY",
+        "value": 600,
+        "question": "The book is dedicated \"Once Again to\" this wife of the author",
+        "answer": "Zelda",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OLD SPORT",
+        "value": 600,
+        "question": "This man, \"The Great John L.\", won the last bare-knuckle heavyweight title fight, a 75-rounder",
+        "answer": "John L. Sullivan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "R.I.P. IN ALABAMA",
+        "value": 800,
+        "question": "This country singing legend's tombstone reads, \"Praise the Lord I Saw the Light\"",
+        "answer": "Hank Williams, Sr.",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MARRIAGE-GO-ROUND",
+        "value": 800,
+        "question": "Eddie Fisher's first wife",
+        "answer": "Debbie Reynolds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH",
+        "value": 800,
+        "question": "\"The Professor and the Madman\" tells how inmate Dr. W.C. Minor sent in thousands of definitions to this dictionary",
+        "answer": "Oxford English Dictionary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 800,
+        "question": "(Hi, I'm Camryn Manheim from \"The Practice\") At this criminal proceeding, charges are read & the defendant enters his plea",
+        "answer": "Arraignment",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT GATSBY",
+        "value": 800,
+        "question": "Gatsby's friend Meyer Wolfsheim was the man behind this 1919 sporting scandal",
+        "answer": "Chicago Black Sox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OLD SPORT",
+        "value": 800,
+        "question": "Walter Johnson led the American League in strikeouts 12 times pitching for this team that no longer exists",
+        "answer": "Washington Senators",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "R.I.P. IN ALABAMA",
+        "value": 1000,
+        "question": "Her marker reads, \"Governor, State of Alabama 1967-1968\"",
+        "answer": "Lurleen B. Wallace",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MARRIAGE-GO-ROUND",
+        "value": 1000,
+        "question": "Eddie Fisher's third wife",
+        "answer": "Connie Stevens",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH",
+        "value": 1000,
+        "question": "This long word from 19th century America for \"an extraordinary thing\" was adopted by an all-day band fest",
+        "answer": "Lollapalooza",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 2000,
+        "question": "The pretrial disclosure of facts to the other party, it's also the name of a TV channel",
+        "answer": "Discovery",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT GATSBY",
+        "value": 1000,
+        "question": "It's Gatsby's first name",
+        "answer": "Jay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OLD SPORT",
+        "value": 2000,
+        "question": "In 1980 Willie Davenport & Jeff Gadley, the USA's first black Winter Olympic athletes, were half of a team in this event",
+        "answer": "Bobsledding",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AFRICAN MYTHOLOGY",
+    "clue": "The great creator said these animals couldn't eat the fish of the river, so they fed on the land at night",
+    "answer": "Hippos"
+  },
+  "gameId": "3735",
+  "gameDate": "Friday, November 24, 2000"
+}

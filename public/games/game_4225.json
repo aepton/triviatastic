@@ -1,0 +1,511 @@
+{
+  "title": "Show #2111 - Monday, November 8, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "THE ELEMENTS",
+      "TV SITCOMS",
+      "FRUITS & VEGETABLES",
+      "WORLD CITIES",
+      "RELIGION",
+      "\"UNION\"s"
+    ],
+    "clues": [
+      {
+        "category": "THE ELEMENTS",
+        "value": 100,
+        "question": "An old proverb reminds us \"All that glitters is not\" this",
+        "answer": "gold",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 100,
+        "question": "Known as \"Mr. Warmth\", this comedian plays \"Daddy Dearest\" to Richard Lewis",
+        "answer": "(Don) Rickles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 100,
+        "question": "To make sauerkraut, ferment this vegetable with salt",
+        "answer": "cabbage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 100,
+        "question": "The Brandenburg Gate stands in the heart of this German capital",
+        "answer": "Berlin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "RELIGION",
+        "value": 100,
+        "question": "He's the absolute ruler of Vatican City",
+        "answer": "the Pope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"UNION\"s",
+        "value": 100,
+        "question": "This country's breakup December 25, 1991 made headlines",
+        "answer": "the Soviet Union",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 200,
+        "question": "Chemists distinguish elements by their ability to conduct this, silicon being a semiconductor",
+        "answer": "electricity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 200,
+        "question": "\"Kiss mah grits\" was a catch-phrase first used by waitress Flo Castleberry on this series",
+        "answer": "Alice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 200,
+        "question": "Though this fruit's name is in one of Ga.'s nicknames, Calif. & S.C. produce more of them",
+        "answer": "peaches",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 200,
+        "question": "This ancient city, once known as Constantinople, is the largest city in Turkey",
+        "answer": "Istanbul",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "The Maharishi Mahesh Yogi developed a type of meditation that he called this",
+        "answer": "transcendental",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"UNION\"s",
+        "value": 200,
+        "question": "It's what ads for the International Ladies' Garment Workers want you to \"Look for\"",
+        "answer": "the union label",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 300,
+        "question": "To help lesen pollution, this element, Pb, is omitted from gasoline",
+        "answer": "lead",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 300,
+        "question": "In a 1992 episode of this series, Urkel & Carl took their grudge match to TV's \"American Gladiators\"",
+        "answer": "Family Matters",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 300,
+        "question": "The Muscat variety of this fruit is perfect for making raisins",
+        "answer": "grapes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 300,
+        "question": "This Austrian capital is home to the Strausses, the Sachertorte & Schonbrunn Palace",
+        "answer": "Vienna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "RELIGION",
+        "value": 600,
+        "question": "It's the dominant religion in Peru",
+        "answer": "Catholicism",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"UNION\"s",
+        "value": 300,
+        "question": "Nickname for the flag of Great Britain",
+        "answer": "the Union Jack",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 400,
+        "question": "Organic chemistry is devoted to this element that forms diamonds",
+        "answer": "carbon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 400,
+        "question": "This comedy that debuted in 1965 was set in Stalag 13, a POW camp",
+        "answer": "Hogan's Heroes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 400,
+        "question": "These were once called \"love apples\", perhaps because eating them was thought to make you fall in love",
+        "answer": "tomatoes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 400,
+        "question": "This southern seaport is the second-largest city in France",
+        "answer": "Marseille",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"UNION\"s",
+        "value": 400,
+        "question": "It's a co-op banking association in which members pool their savings and lend to each other",
+        "answer": "credit union",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 500,
+        "question": "It's the first element on the periodic table that's a gas",
+        "answer": "hydrogen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 500,
+        "question": "The 1957 pilot for this series featured Casey Adams as Ward & Paul Sullivan as Wally",
+        "answer": "Leave It to Beaver",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 500,
+        "question": "This second-largest citrus fruit is believed to be a mutation of the largest, the shaddock",
+        "answer": "grapefruit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 500,
+        "question": "About 1/3 of all Chileans live in this capital city",
+        "answer": "Santiago",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"UNION\"s",
+        "value": 500,
+        "question": "This company erected the first transcontinental telegraph line",
+        "answer": "Western Union",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORY",
+      "MUSICAL THEATRE",
+      "FAMOUS LANDMARKS",
+      "HINTS FROM HELOISE",
+      "AMERICAN LITERATURE",
+      "HOLLYWOOD HODGEPODGE"
+    ],
+    "clues": [
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "in 1866 this city of canals on the Adriatic Sea became a part of the Kingdom of Italy",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LANDMARKS",
+        "value": 200,
+        "question": "Engineers Emile Nouguier & Maurice Koechlin helped design this 984-foot Paris structure",
+        "answer": "the Eiffel Tower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HINTS FROM HELOISE",
+        "value": 200,
+        "question": "Rock-solid ice cream will become easy to scoop if zapped on low in one of these devices",
+        "answer": "a microwave oven",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 200,
+        "question": "Characters in this Mark Twain novel include \"The Dauphin\", the Widow Douglas & Jim, a runaway slave",
+        "answer": "Huck Finn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HOLLYWOOD HODGEPODGE",
+        "value": 200,
+        "question": "A person with this job is also called a ten percenter",
+        "answer": "an agent",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "On July 26, 1952 this country's King Farouk was forced to abdicate by the military",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LANDMARKS",
+        "value": 400,
+        "question": "On this S. Dakota landmark, the head of Washington is about as high as a 5-story building",
+        "answer": "Mount Rushmore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HINTS FROM HELOISE",
+        "value": 400,
+        "question": "To stop bad odors coming from this kitchen device, try grinding orange or lemon peels in it",
+        "answer": "a garbage disposal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 400,
+        "question": "In this tale a sleepy Dutch colonist meets the spirits of Henry Hudson's crew playing ninepins",
+        "answer": "Rip Van Winkle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HOLLYWOOD HODGEPODGE",
+        "value": 400,
+        "question": "Frankly, my dear, he proposed to Carole Lombard at the Brown Derby in 1939",
+        "answer": "Clark Gable",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "He helped form France's Fifth Republic in 1958 & served as its president until he resigned in 1969",
+        "answer": "de Gaulle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LANDMARKS",
+        "value": 600,
+        "question": "This Roman landmark, also known as the Flavian Amphitheatre, was dedicated in 80 A.D.",
+        "answer": "the Colosseum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HINTS FROM HELOISE",
+        "value": 600,
+        "question": "Don't say \"No one's home\" in your message on this; let prospective burglars guess",
+        "answer": "the answering machine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 600,
+        "question": "While an editor of Graham's Magazine, he wrote \"The Masque of the Red Death\"",
+        "answer": "Edgar Allan Poe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HOLLYWOOD HODGEPODGE",
+        "value": 600,
+        "question": "Some say this magician haunts the ruins of his Laurel Canyon estate",
+        "answer": "Houdini",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "On October 15, 1917 she was executed by a French firing squad as a spy",
+        "answer": "Mata Hari",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LANDMARKS",
+        "value": 800,
+        "question": "The Great Temple of the Aztecs in this capital city was discovered in 1978 & can now be toured",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HINTS FROM HELOISE",
+        "value": 800,
+        "question": "Readers tell Heloise that freezing panty hose helps keep them from doing this",
+        "answer": "running",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 800,
+        "question": "This Jack London title animal is the offspring of a wolf & an Indian wolfdog",
+        "answer": "White Fang",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HOLLYWOOD HODGEPODGE",
+        "value": 800,
+        "question": "The hotel that once housed this \"It\" girl's \"It\" Cafe is now a retirement home on Vine Street",
+        "answer": "Clara Bow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 2000,
+        "question": "Killed at Trafalgar, this British commander's last words were \"Thank God I have done my duty\"",
+        "answer": "Lord Nelson",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LANDMARKS",
+        "value": 2000,
+        "question": "Excerpts from the Va. Statute for Religious Freedom appear on a wall of this D.C. presidential landmark",
+        "answer": "the Jefferson Memorial",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HINTS FROM HELOISE",
+        "value": 1000,
+        "question": "Heloise suggests using this mixer on fresh wine stains on the carpet",
+        "answer": "soda water",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 1000,
+        "question": "This 1974 James A. Michener novel tells the story of a fictional Colorado town through the years",
+        "answer": "Centennial",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HOLLYWOOD HODGEPODGE",
+        "value": 1000,
+        "question": "On August 23, the anniversary of his 1926 death, you may see a \"Lady in Black\" at his gravesite",
+        "answer": "Valentino",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE REVOLUTIONARY WAR",
+    "clue": "The first battle of the war took place April 19, 1775 in what's now this state",
+    "answer": "Massachusetts"
+  },
+  "gameId": "2111",
+  "gameDate": "Monday, November 8, 1993"
+}

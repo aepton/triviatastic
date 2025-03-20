@@ -1,0 +1,574 @@
+{
+  "title": "Show #4744 - Thursday, March 31, 2005",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. GEOGRAPHY",
+      "THE MUSICAL FRUIT",
+      "EVERYDAY ITEMS",
+      "OH, A WEISS GUY, EH?",
+      "1955",
+      "\"FINGER\" EXERCISE"
+    ],
+    "clues": [
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "If they'd decided to call this town Shawmut, the native name for the area, we'd have Shawmut baked beans",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL FRUIT",
+        "value": 200,
+        "question": "The Beatles:\"____ Fields Forever\"",
+        "answer": "Strawberry",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EVERYDAY ITEMS",
+        "value": 200,
+        "question": "A backless beach sandal, or changing your mind on an issue",
+        "answer": "flip-flop",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OH, A WEISS GUY, EH?",
+        "value": 200,
+        "question": "Playing for this MLB team, Jose Canseco, Mark McGwire & Walt Weiss all won the Rookie of the Year award",
+        "answer": "the (Oakland) A's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "1955",
+        "value": 200,
+        "question": "This Japanese company known for its musical instruments launched a new company to make its motorcycles",
+        "answer": "Yamaha",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"FINGER\" EXERCISE",
+        "value": 200,
+        "question": "Pinkie rinser at the table",
+        "answer": "a finger bowl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "The Salt Lake Valley was once a part of the basin of this ancient lake",
+        "answer": "Lake Bonneville",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL FRUIT",
+        "value": 400,
+        "question": "Fats Domino:\"____ Hill\"",
+        "answer": "Blueberry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EVERYDAY ITEMS",
+        "value": 400,
+        "question": "File clerks would be lost without Pendaflex hanging file these",
+        "answer": "folders",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OH, A WEISS GUY, EH?",
+        "value": 400,
+        "question": "A 3-time U.S. champion, Michael Weiss is the first American to land a quad toe loop in competition in this sport",
+        "answer": "figure skating",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "1955",
+        "value": 400,
+        "question": "A popular song that year was this movie theme heard here",
+        "answer": "\"Love Is A Many-Splendored Thing\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"FINGER\" EXERCISE",
+        "value": 400,
+        "question": "A type of pitch where the ball drops sharply near home plate",
+        "answer": "a split-finger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "In 1942, people from the Manhattan Project set up shop at a boys' ranch school in this N.M. community",
+        "answer": "Los Alamos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL FRUIT",
+        "value": 600,
+        "question": "Harry Belafonte:\"____ Boat Song (Day-O)\"",
+        "answer": "Banana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EVERYDAY ITEMS",
+        "value": 600,
+        "question": "Made of copper-plated zinc, they cost the government 80 percent of their worth to produce",
+        "answer": "pennies",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OH, A WEISS GUY, EH?",
+        "value": 600,
+        "question": "George Weiss produced \"Chained Girls', \"Nudist Life\", & this Ed Wood cross-dressing classic from 1953",
+        "answer": "Glen or Glenda",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "1955",
+        "value": 600,
+        "question": "Under the leadership of George Meany, these 2 bodies merged in 1955",
+        "answer": "the AFL & CIO",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"FINGER\" EXERCISE",
+        "value": 600,
+        "question": "Tiny trout",
+        "answer": "fingerlings",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "Wisconsin is bordered by these 2 of the 5 Great Lakes",
+        "answer": "Michigan & Superior",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL FRUIT",
+        "value": 800,
+        "question": "Elton John:\"____ Wine\"",
+        "answer": "Elderberry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EVERYDAY ITEMS",
+        "value": 800,
+        "question": "Businessmen in London's \"The City\" carry rolled-up black ones of these, also called bumbershoots",
+        "answer": "umbrellas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OH, A WEISS GUY, EH?",
+        "value": 800,
+        "question": "It's the state capital where on September 8, 1935 Dr. Carl Weiss shot Senator Huey P. Long",
+        "answer": "Baton Rouge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "1955",
+        "value": 800,
+        "question": "Esther Pauline Friedman Lederer began having her say in the Chicago Sun-Times under this name",
+        "answer": "Ann Landers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"FINGER\" EXERCISE",
+        "value": 800,
+        "question": "Alphabetic sign language",
+        "answer": "fingerspelling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "Though Delaware is the Diamond State, the Crater of Diamonds is in this state",
+        "answer": "Arkansas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE MUSICAL FRUIT",
+        "value": 1000,
+        "question": "Jimmy Buffett:\"Last ____ In Paris\"",
+        "answer": "Mango",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EVERYDAY ITEMS",
+        "value": 1000,
+        "question": "In ice fishing, this type of \"seat\" refers to an overturned 5-gallon one",
+        "answer": "a bucket",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OH, A WEISS GUY, EH?",
+        "value": 1000,
+        "question": "\"Marat/Sade\" is the most famous play by this German author",
+        "answer": "Peter Weiss",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "1955",
+        "value": 1000,
+        "question": "In Israel, it was shalom & welcome back to this first prime minister who took up that post for a second time",
+        "answer": "Ben-Gurion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"FINGER\" EXERCISE",
+        "value": 1000,
+        "question": "Numerical slang for shoplifting",
+        "answer": "five-finger discount",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE TRUMAN SHOW",
+      "WORDS OF A FEATHER",
+      "FLOWER NAMES",
+      "WARSAW",
+      "SHE'S LOST CONTROL",
+      "\"JOY\" DIVISION"
+    ],
+    "clues": [
+      {
+        "category": "THE TRUMAN SHOW",
+        "value": 400,
+        "question": "Truman celebrated by purchasing two 1941 Chryslers when he was re-elected to this body in 1940",
+        "answer": "the Senate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF A FEATHER",
+        "value": 400,
+        "question": "Proverbially, it's a crowd",
+        "answer": "three",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FLOWER NAMES",
+        "value": 400,
+        "question": "This flower, seen here, was named for a mythical youth whom Apollo loved",
+        "answer": "hyacinth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WARSAW",
+        "value": 400,
+        "question": "After this man's troops conquered the city in 1806, the Polish state existed as the Grand Duchy of Warsaw",
+        "answer": "Napoleon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHE'S LOST CONTROL",
+        "value": 400,
+        "question": "After downing a bottle of aspirin & a bottle of vodka, Winona Ryder is committed to a mental ward in this 1999 film",
+        "answer": "Girl, Interrupted",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" DIVISION",
+        "value": 400,
+        "question": "\"Your mother is in your bones\" was the New York Times' headline for its review of this novel",
+        "answer": "The Joy Luck Club",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN SHOW",
+        "value": 800,
+        "question": "Truman may have been joking when he said there was no period after this middle initial of his; he often added one himself",
+        "answer": "S",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF A FEATHER",
+        "value": 800,
+        "question": "Children's stories, like the Childcraft version of \"Rapunzel\", often end with this word",
+        "answer": "after",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FLOWER NAMES",
+        "value": 800,
+        "question": "The Spanish called this flower, seen here, copa de oro, \"cup of gold\"",
+        "answer": "a California poppy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WARSAW",
+        "value": 800,
+        "question": "A heroic uprising of April 1943 is named for this Jewish section of Warsaw",
+        "answer": "the Ghetto",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHE'S LOST CONTROL",
+        "value": 800,
+        "question": "In \"Mommie Dearest\", she played a dead-on Joan Crawford as an abusive mom who's lost control",
+        "answer": "Faye Dunaway",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" DIVISION",
+        "value": 800,
+        "question": "Alex Comfort's work about being comfortable in the bedroom",
+        "answer": "Joy of Sex",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN SHOW",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew reports from the Truman Library in Independence, MO.)  This is the actual champagne bottle that gave this woman so much trouble when she was christening a plane with it in '45",
+        "answer": "Bess Truman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF A FEATHER",
+        "value": 1200,
+        "question": "A simple structure for transport on water",
+        "answer": "a raft",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FLOWER NAMES",
+        "value": 1200,
+        "question": "The name of this flower, seen here, comes from the Greek for \"star\", referring to the flower's shape",
+        "answer": "aster",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WARSAW",
+        "value": 1200,
+        "question": "In 1989 this organization set up the first post-Communist Polish government in Warsaw",
+        "answer": "Solidarity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHE'S LOST CONTROL",
+        "value": 1200,
+        "question": "After killing a man in self-defense, Barbra Streisand fights to stay out of a mental hospital in this 1987 film",
+        "answer": "Nuts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" DIVISION",
+        "value": 1200,
+        "question": "It was first printed privately & distributed from Irma Rombauer's home",
+        "answer": "The Joy of Cooking",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN SHOW",
+        "value": 1600,
+        "question": "In 1919 Truman opened this kind of business, whose name may come from the Anglo-Norman for \"petty wares\"",
+        "answer": "a haberdashery",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF A FEATHER",
+        "value": 1600,
+        "question": "A famous 19th century poem asks this man to \"come home with me now\"",
+        "answer": "father",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FLOWER NAMES",
+        "value": 1600,
+        "question": "Pink tulips & this flower, whose name indicates it's the first of its kind, line the path seen here--how fitting!",
+        "answer": "the primrose",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WARSAW",
+        "value": 1600,
+        "question": "Among the many Baroque churches in Warsaw is the Church of the Holy Cross that contains this composer's heart",
+        "answer": "Chopin",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHE'S LOST CONTROL",
+        "value": 1600,
+        "question": "In 1982's \"Frances\", she portrayed the title actress in her struggling film career & eventual mental breakdown",
+        "answer": "Jessica Lange",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" DIVISION",
+        "value": 1600,
+        "question": "Sound off for this 1989 Newbery Medal winner from Paul Fleischman",
+        "answer": "Joyful Noise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN SHOW",
+        "value": 2000,
+        "question": "Margaret Truman gave her first public Washington, D.C. concert at this famed hall built in 1929",
+        "answer": "Constitution Hall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORDS OF A FEATHER",
+        "value": 2000,
+        "question": "This important compound is prepared by mixing a type of alcohol with sulfuric acid",
+        "answer": "ether",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FLOWER NAMES",
+        "value": 2000,
+        "question": "The name of this garden flower, seen here, comes from Greek words for \"water\" & \"vessel\"",
+        "answer": "hydrangeas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WARSAW",
+        "value": 2000,
+        "question": "Warsaw lies on this river, about 240 miles inland from the Baltic Sea",
+        "answer": "the Vistula",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHE'S LOST CONTROL",
+        "value": 2000,
+        "question": "In this 2003 thriller, Halle Berry plays a psychologist who wakes up as a patient in a mental institution",
+        "answer": "Gothika",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" DIVISION",
+        "value": 2000,
+        "question": "The main character of one his major works is Humphrey Chimpden Earwicker",
+        "answer": "James Joyce",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ENGLISH LIT",
+    "clue": "This 17th century poetic follow-up begins, \"I who ere while the happy garden sung, by one man's disobedience lost...\"",
+    "answer": "Paradise Regained"
+  },
+  "gameId": "4744",
+  "gameDate": "Thursday, March 31, 2005"
+}

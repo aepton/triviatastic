@@ -1,0 +1,574 @@
+{
+  "title": "Show #8318 - Wednesday, January 20, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "'80s HITS",
+      "GIRL YOU KNOW IT'S TRUE",
+      "EVERYBODY WANTS TO RULE THE WORLD",
+      "DON'T YOU (FORGET ABOUT ME)",
+      "I RAN (SO FAR AWAY)",
+      "WORD \"UP\""
+    ],
+    "clues": [
+      {
+        "category": "'80s HITS",
+        "value": 200,
+        "question": "\"Another Brick In The Wall\" from this group was a No. 1 hit in 1980",
+        "answer": "Pink Floyd",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GIRL YOU KNOW IT'S TRUE",
+        "value": 200,
+        "question": "This aviator joined her pals in the society of woman geographers in 1932 & carried its flag on a famous flight across the Pacific",
+        "answer": "Earhart",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY WANTS TO RULE THE WORLD",
+        "value": 200,
+        "question": "\"God's Shadow\" is a biography of Ottoman Sultan Selim, whose conquests included this country, in a 1516 battle near Aleppo",
+        "answer": "Syria",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DON'T YOU (FORGET ABOUT ME)",
+        "value": 200,
+        "question": "A mattress made of the viscoelastic or memory type of this shapes itself to the contours of your body",
+        "answer": "foam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I RAN (SO FAR AWAY)",
+        "value": 200,
+        "question": "Many runners \"hit the wall\" at the infamous Heartbreak Hill on mile 20 of this Beantown race",
+        "answer": "the Boston Marathon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORD \"UP\"",
+        "value": 200,
+        "question": "To transfer information from your computer to another",
+        "answer": "upload",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "'80s HITS",
+        "value": 400,
+        "question": "We're halfway there! Bon Jovi topped the charts with this tune in 1987; you'll make it, I swear!",
+        "answer": "\"Livin' On A Prayer\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GIRL YOU KNOW IT'S TRUE",
+        "value": 400,
+        "question": "On Sept. 18, 1872 10 of the 20 female students at Syracuse University formed one of these",
+        "answer": "a sorority",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY WANTS TO RULE THE WORLD",
+        "value": 400,
+        "question": "For adding areas such as Valencia to his realm, 13th c. King James I of Aragon was known as \"Jaime el\" this Spanish word",
+        "answer": "Conquistador",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DON'T YOU (FORGET ABOUT ME)",
+        "value": 400,
+        "question": "A German legend says this flower's name is derived from a drowning knight's words to his love, \"Vergiss mein nicht\"",
+        "answer": "forget-me-not",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I RAN (SO FAR AWAY)",
+        "value": 400,
+        "question": "This major metropolitan marathon begins & ends in Grant Park",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORD \"UP\"",
+        "value": 400,
+        "question": "It's the general cost of maintaining a home in decent condition",
+        "answer": "upkeep",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "'80s HITS",
+        "value": 600,
+        "question": "This comic \"rapped\", \"I was an ugly kid, I never had fun (no respect, no respect), they took me to a dog show & I won!\"",
+        "answer": "Dangerfield",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GIRL YOU KNOW IT'S TRUE",
+        "value": 600,
+        "question": "Bleeda Kahlo & Courtney Shove are players in this rough 'n' speedy sport",
+        "answer": "roller derby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY WANTS TO RULE THE WORLD",
+        "value": 600,
+        "question": "In December 1398 Tamerlane sacked this old city in northern India amid great carnage",
+        "answer": "(Old) Delhi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DON'T YOU (FORGET ABOUT ME)",
+        "value": 600,
+        "question": "The name of this type of memory aid like \"30 days hath September\" comes from the name of the Greek goddess of memory",
+        "answer": "mnemonic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I RAN (SO FAR AWAY)",
+        "value": 600,
+        "question": "The finish line for the London Marathon is between this London residence of the queen & St. James' Palace",
+        "answer": "Buckingham Palace",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORD \"UP\"",
+        "value": 600,
+        "question": "Nice! You got this free bump into first class for your flight! Enjoy the free drinks!",
+        "answer": "upgrade",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "'80s HITS",
+        "value": 800,
+        "question": "Rolling Stone's \"20 Biggest ('80s) Songs of the Summer\" had \"The Power Of Love\" by this group",
+        "answer": "Huey Lewis and the News",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GIRL YOU KNOW IT'S TRUE",
+        "value": 800,
+        "question": "On International Women's Day 2020 the Celebrity Edge set sail as the first cruise ship with an all-female this control center",
+        "answer": "the bridge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY WANTS TO RULE THE WORLD",
+        "value": 800,
+        "question": "After Crassus died in battle in 53 B.C., this other \"Great\" triumvirate member allied with senators against Caesar...ooooops",
+        "answer": "Pompey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DON'T YOU (FORGET ABOUT ME)",
+        "value": 800,
+        "question": "This Latin reminder phrase is a \"memento\" of our mortality",
+        "answer": "memento mori",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I RAN (SO FAR AWAY)",
+        "value": 800,
+        "question": "The last stretch of the Berlin Marathon passes through this gate, which was closed in the early years of the race",
+        "answer": "the Brandenburg Gate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORD \"UP\"",
+        "value": 800,
+        "question": "This theater direction can mean to take the focus from another actor & put it on your own performance",
+        "answer": "upstage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "'80s HITS",
+        "value": 1000,
+        "question": "Taco had a top 5 hit covering this Irving Berlin song that says, \"Why don't you go where fashion sits?\"",
+        "answer": "\"Puttin' On The Ritz\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GIRL YOU KNOW IT'S TRUE",
+        "value": 1000,
+        "question": "The portrait here is of 19th century French empress Eugénie surround by these ladies, you know it's true",
+        "answer": "ladies-in-waiting",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EVERYBODY WANTS TO RULE THE WORLD",
+        "value": 1000,
+        "question": "Famed for his wealth, this king conquered mainland Ionia (yay!) but Cyrus the Great beat him & took over Lydia (rats!)",
+        "answer": "Croesus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DON'T YOU (FORGET ABOUT ME)",
+        "value": 1000,
+        "question": "A precursor to war in the late 19th century was \"Remember the Maine, to hell with\" this country",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "I RAN (SO FAR AWAY)",
+        "value": 1000,
+        "question": "Much of the marathon in this city on the Arabian Peninsula takes place on Jumeirah Beach Road",
+        "answer": "Dubai",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORD \"UP\"",
+        "value": 1000,
+        "question": "To censure or criticize someone, not start pigtails from the bottom",
+        "answer": "upbraid",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FICTIONAL CHARACTERS",
+      "SCIENCE GLOSSARY",
+      "MEN OF MYTH",
+      "POLY ESTHER",
+      "WORD ORIGINS",
+      "ACTORS' FILMOGRAPHIES"
+    ],
+    "clues": [
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 400,
+        "question": "The last name of this \"Miserables\" guy is \"probably a nickname, a contraction of voilà\" & his first name",
+        "answer": "Valjean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE GLOSSARY",
+        "value": 400,
+        "question": "These rod-shaped structures in a cell's nucleus carry its genetic information",
+        "answer": "chromosomes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEN OF MYTH",
+        "value": 400,
+        "question": "This supreme musician was the son of a muse, & I'm no lyre",
+        "answer": "Orpheus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POLY ESTHER",
+        "value": 400,
+        "question": "Esther Rolle played Florida Evans on \"Maude\" & this \"dyn-o-mite\" sitcom",
+        "answer": "Good Times",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "The name of this largest living bird species comes from the Greek for \"sparrow\"",
+        "answer": "ostrich",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ACTORS' FILMOGRAPHIES",
+        "value": 400,
+        "question": "\"Trainwreck\", \"I Feel Pretty\"",
+        "answer": "Amy Schumer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 800,
+        "question": "\"1984\" begins with this character entering the glass doors of Victory Mansions",
+        "answer": "(Winston) Smith",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE GLOSSARY",
+        "value": 800,
+        "question": "Rocks that have been  environmentally altered  from other rocks make up this class, from Greek for \"change\" & \"form\"",
+        "answer": "metamorphic",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEN OF MYTH",
+        "value": 800,
+        "question": "The villainous Procrustes stretched or dismembered victims to make them fit onto his iron this",
+        "answer": "a bed",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POLY ESTHER",
+        "value": 800,
+        "question": "Archaeologist Esther Van Deman's major work was titled \"The Building of\" these Roman waterways",
+        "answer": "aqueducts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "Now referring to sexism, this -ism comes from possibly fictitious, sternly traditional French soldier Nicholas",
+        "answer": "chauvinism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ACTORS' FILMOGRAPHIES",
+        "value": 800,
+        "question": "\"Training Day\", \"Roman J. Israel, Esq.\"",
+        "answer": "Denzel Washington",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 1200,
+        "question": "Appropriate first name of California settler Trask, dad to Aron & Cal in \"East of Eden\"",
+        "answer": "Adam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE GLOSSARY",
+        "value": 1200,
+        "question": "Pass the this, defined as a substance produced by the reaction of a base & an acid",
+        "answer": "salt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEN OF MYTH",
+        "value": 1200,
+        "question": "While married to Menelaus, Helen was abducted by this man, & much trouble ensued",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POLY ESTHER",
+        "value": 1200,
+        "question": "She used her experiences as a Smith college student for the character of Esther Greenwood in \"The Bell Jar\"",
+        "answer": "Plath",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1200,
+        "question": "Although this footwear's name is French, it goes back to a Spanish fiber used to make the soles as well as rope",
+        "answer": "espadrilles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ACTORS' FILMOGRAPHIES",
+        "value": 1200,
+        "question": "\"Room\", \"The Glass Castle\"",
+        "answer": "Brie Larson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 1600,
+        "question": "In \"One Flew Over the Cuckoo's Nest\", he gets himself transferred into the psychiatric hospital for \"fun & entertainment\"",
+        "answer": "Randle McMurphy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE GLOSSARY",
+        "value": 1600,
+        "question": "These subatomic particles are named for physicist Enrico",
+        "answer": "fermions",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEN OF MYTH",
+        "value": 1600,
+        "question": "After killing his mom for betraying his dad, Orestes is pursued by these vengeful goddesses aka the Erinyes",
+        "answer": "the Furies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POLY ESTHER",
+        "value": 1600,
+        "question": "The male hero of the biblical book of Esther is this uncle of Esther's whose name comes from the Babylonian god Marduk",
+        "answer": "Mordecai",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1600,
+        "question": "This original longer name for a certain musical instrument comes from Italian words for \"soft\" & \"loud\"",
+        "answer": "pianoforte",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ACTORS' FILMOGRAPHIES",
+        "value": 1600,
+        "question": "\"Mad Max: Fury Road\", \"Venom\"",
+        "answer": "Tom Hardy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 2000,
+        "question": "This novel with a biblical title by Toni Morrison follows the life of a character named Milkman Dead",
+        "answer": "Song of Solomon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE GLOSSARY",
+        "value": 2000,
+        "question": "This \"theory\" views subatomic particles as threadlike one-dimensional entities, not zero-dimensional points",
+        "answer": "string theory",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEN OF MYTH",
+        "value": 2000,
+        "question": "In the \"Iliad\" this mighty warrior drags the body of Hector behind his chariot",
+        "answer": "Achilles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POLY ESTHER",
+        "value": 2000,
+        "question": "She called her autobiography \"The Million Dollar Mermaid\"",
+        "answer": "Esther Williams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 2000,
+        "question": "The name of this old shotgunlike firearm with a short barrel comes from the Dutch for \"thunder gun\"",
+        "answer": "blunderbuss",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ACTORS' FILMOGRAPHIES",
+        "value": 2000,
+        "question": "\"The Mountain Between Us\", \"Mandela: Long Walk to Freedom\"",
+        "answer": "Idris Elba",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE WESTERN U.S.",
+    "clue": "About 100 miles apart, they were made state capitals 10 years apart in 1854 & 1864 & both grew rapidly due to precious metals",
+    "answer": "Sacramento & Carson City"
+  },
+  "gameId": "8318",
+  "gameDate": "Wednesday, January 20, 2021"
+}

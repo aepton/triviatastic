@@ -1,0 +1,574 @@
+{
+  "title": "Show #3882 - Tuesday, June 19, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "EARTH SCIENCES",
+      "ANTIQUES",
+      "HAIL TO THE CHIEF",
+      "SATURDAY NIGHT LIVES",
+      "TRAVEL FUN",
+      "MUSICAL GENRES"
+    ],
+    "clues": [
+      {
+        "category": "EARTH SCIENCES",
+        "value": 100,
+        "question": "The Earth is the only planet in our solar system to have 2/3 of its surface covered by this",
+        "answer": "Water",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ANTIQUES",
+        "value": 100,
+        "question": "In the 19th century Baccarat made prized examples of these objects, to be used on a desk when the window's open",
+        "answer": "Paperweights",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 100,
+        "question": "He appeared in films with his first wife Jane & his second wife Nancy",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SATURDAY NIGHT LIVES",
+        "value": 100,
+        "question": "His classic characters on \"SNL\" included the Killer Bee, Joe Cocker & the Samurai Warrior",
+        "answer": "John Belushi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL FUN",
+        "value": 100,
+        "question": "You can cuddle a koala at the Lone Pine Koala Sanctuary in Brisbane in this country",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MUSICAL GENRES",
+        "value": 100,
+        "question": "A light blow, as on a door or across the knuckles",
+        "answer": "Rap",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCES",
+        "value": 200,
+        "question": "The Earth's crust & lithosphere are broken into these whose movements against each other cause earthquakes",
+        "answer": "Plates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ANTIQUES",
+        "value": 200,
+        "question": "A popular porcelain item is this type of bowl in which a party drink is served",
+        "answer": "Punch bowl",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 200,
+        "question": "He met wife Mamie Doud in 1915 at Fort Sam Houston when they were introduced by the wife of a fellow officer",
+        "answer": "Dwight D. Eisenhower",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SATURDAY NIGHT LIVES",
+        "value": 200,
+        "question": "In the fall of 1976, this star of \"Fletch\" became one of the first cast members to leave the show",
+        "answer": "Chevy Chase",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL FUN",
+        "value": 200,
+        "question": "The 50-story replica of the Eiffel Tower seen here isn't in Paris, France, but in this city",
+        "answer": "Las Vegas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MUSICAL GENRES",
+        "value": 200,
+        "question": "A mass of mineral matter",
+        "answer": "Rock",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCES",
+        "value": 300,
+        "question": "The name of this phylum that includes lobsters & spiders means \"jointed foot\"",
+        "answer": "Arthropods",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ANTIQUES",
+        "value": 300,
+        "question": "In 1998 a drinking flagon made of this tin alloy sold for a record $145,500",
+        "answer": "pewter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 300,
+        "question": "In his 1805 inaugural, he said, \"I know that the acquisition of Louisiana has been disapproved by some\"",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SATURDAY NIGHT LIVES",
+        "value": 300,
+        "question": "The show's original cast members were billed as these \"players\"",
+        "answer": "\"The Not Ready For Prime Time Players\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL FUN",
+        "value": 300,
+        "question": "If it's August & you're in Austin, Texas, indulge in a romantic dinner cruise to watch these flying mammals",
+        "answer": "Bats",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MUSICAL GENRES",
+        "value": 300,
+        "question": "The book of Matthew, Mark, Luke or John",
+        "answer": "Gospel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCES",
+        "value": 800,
+        "question": "In 1952 she quit her job at the U.S. Fish & Wildlife Service to devote all her time to her writing",
+        "answer": "Rachel Carson",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ANTIQUES",
+        "value": 400,
+        "question": "3-word name for the piece of antique furniture seen here",
+        "answer": "a chest of drawers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 400,
+        "question": "Some opponents called him the \"Raw Dealocrat\"",
+        "answer": "Franklin D. Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SATURDAY NIGHT LIVES",
+        "value": 400,
+        "question": "For 2 seasons Don Novello appeared regularly on the show as this \"Father\"",
+        "answer": "Father Guido Sarducci",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL FUN",
+        "value": 400,
+        "question": "Consider riding a narrow-gauge train into a salt mine at Bex in this country's Vaud canton",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MUSICAL GENRES",
+        "value": 400,
+        "question": "To burst, like a balloon",
+        "answer": "Pop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCES",
+        "value": 500,
+        "question": "In 1911 Arthur Holmes used the decay of this element to lead to measure the age of the Earth",
+        "answer": "Uranium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ANTIQUES",
+        "value": 500,
+        "question": "The \"Antiques Roadshow\" website calls this \"a fancy word\" for who owned an object, when & where",
+        "answer": "provenance",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 500,
+        "question": "He died of a stroke on August 2, 1923, right after his wife read an article about him, \"A Calm View of a Calm Man\"",
+        "answer": "Warren G. Harding",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SATURDAY NIGHT LIVES",
+        "value": 500,
+        "question": "Cast member Nora Dunn boycotted the final show of the '89-90 season when this controversial comedian hosted",
+        "answer": "Andrew Dice Clay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRAVEL FUN",
+        "value": 500,
+        "question": "A snowman known as Bonhomme is the symbol of Le Carnaval d'Hiver, the winter carnival in this Canadian city",
+        "answer": "Quebec City",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MUSICAL GENRES",
+        "value": 500,
+        "question": "A rural district, or a nation",
+        "answer": "Country",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "OFF & RUNNING",
+      "\"TRAC\" MEET",
+      "LITERATURE",
+      "NOT REALLY RELATED",
+      "THE ASTRONAUT HALL OF FAME",
+      "CITIES IN INDIA"
+    ],
+    "clues": [
+      {
+        "category": "OFF & RUNNING",
+        "value": 200,
+        "question": "In Olympic track & field events, this many runners make up a relay team",
+        "answer": "4",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "\"TRAC\" MEET",
+        "value": 200,
+        "question": "A farming vehicle with large, heavily-treaded tires",
+        "answer": "Tractor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "James Fenimore Cooper's 1823 novel \"The Pioneers\" was the first in a series of these 5 \"Tales\"",
+        "answer": "\"Leatherstocking Tales\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NOT REALLY RELATED",
+        "value": 200,
+        "question": "\"You're So Vain\" singer & pieman meeter",
+        "answer": "Carly & Simple Simon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE ASTRONAUT HALL OF FAME",
+        "value": 200,
+        "question": "State in which the Hall of Fame is located",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CITIES IN INDIA",
+        "value": 200,
+        "question": "Until 1912 it was the capital of British India (black hole & all)",
+        "answer": "Calcutta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OFF & RUNNING",
+        "value": 400,
+        "question": "She won 3 track & field gold medals at the 1988 Summer Olympics",
+        "answer": "Florence Griffith Joyner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "\"TRAC\" MEET",
+        "value": 400,
+        "question": "It's a commercially released album of music used in a film",
+        "answer": "Soundtrack",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "In 1919 Booth Tarkington won a Pulitzer Prize for this \"Magnificent\" novel; in 1922 he won again for \"Alice Adams\"",
+        "answer": "\"The Magnificent Ambersons\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NOT REALLY RELATED",
+        "value": 400,
+        "question": "\"Cruelty\" singer & chocolate chip cookie maker",
+        "answer": "Tori & Famous Amos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE ASTRONAUT HALL OF FAME",
+        "value": 400,
+        "question": "His historic 1962 orbital flight was marked by drama over a possibly loose heat shield",
+        "answer": "John Glenn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CITIES IN INDIA",
+        "value": 400,
+        "question": "In this city you'll find the National Museum & the Rashtrapati Bhavan or President's House",
+        "answer": "New Delhi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OFF & RUNNING",
+        "value": 1200,
+        "question": "In 1985 this American middle-distance runner married discus thrower Richard Slaney",
+        "answer": "Mary Decker",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "\"TRAC\" MEET",
+        "value": 600,
+        "question": "Oops!  It's a newspaper's printed correction",
+        "answer": "Retraction",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "In this 1952 short story, Hemingway wrote, \"A man can be destroyed but not defeated\"",
+        "answer": "\"The Old Man and the Sea\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NOT REALLY RELATED",
+        "value": 600,
+        "question": "Etiquette expert promoting restraint & a parking place to hold your horses",
+        "answer": "Emily & hitching Post",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE ASTRONAUT HALL OF FAME",
+        "value": 600,
+        "question": "While others moonwalked, this vehicle was piloted by Michael Collins on Apollo 11 & Ronald Evans on Apollo 17",
+        "answer": "the command module",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CITIES IN INDIA",
+        "value": 600,
+        "question": "This heavily populated port city & capital of Maharashtra state is the leading financial center of India",
+        "answer": "Bombay/Mumbai",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OFF & RUNNING",
+        "value": 800,
+        "question": "Finland's Olympic Stadium prominently features a statue of this distance runner",
+        "answer": "Paavo Nurmi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "\"TRAC\" MEET",
+        "value": 800,
+        "question": "It can mean a passage from a book or a concentrated food flavoring like vanilla",
+        "answer": "Extract",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "In \"A Scandal in\" this, Sherlock Holmes calls Dr. Watson his \"Boswell\"",
+        "answer": "\"Bohemia\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NOT REALLY RELATED",
+        "value": 800,
+        "question": "Ring in with these, a \"JAG\" star & a Philadelphia landmark",
+        "answer": "Catherine & Liberty Bell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE ASTRONAUT HALL OF FAME",
+        "value": 800,
+        "question": "The other Mercury astronauts knew him as \"Wally\"",
+        "answer": "Wally Schirra",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CITIES IN INDIA",
+        "value": 800,
+        "question": "Over 2,000 died when the Union Carbide chemical plant in this city leaked toxic gas in 1984",
+        "answer": "Bhopal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OFF & RUNNING",
+        "value": 1000,
+        "question": "Runners must clear hurdles & water jumps in this 3,000-meter track & field event",
+        "answer": "Steeplechase",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "\"TRAC\" MEET",
+        "value": 2000,
+        "question": "It can be a type of non-representational art or a printed summary of a longer text",
+        "answer": "Abstract",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "Graham Greene's \"A Gun For Sale\" was published in the U.S. under this title",
+        "answer": "\"This Gun For Hire\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NOT REALLY RELATED",
+        "value": 1000,
+        "question": "\"Lady's Not For Burning\" playwright & potato product not for burning at McDonald's",
+        "answer": "Christopher & French Fry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE ASTRONAUT HALL OF FAME",
+        "value": 1000,
+        "question": "This astronaut's sunken Mercury capsule was recovered in 1999",
+        "answer": "Gus Grissom",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CITIES IN INDIA",
+        "value": 1000,
+        "question": "Mumtaz knows it's the northern India city that's home to the Pearl Mosque & the Taj Mahal",
+        "answer": "Agra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HITCHCOCK FILMS",
+    "clue": "The action of this 1959 film moves from New York to South Dakota",
+    "answer": "North by Northwest"
+  },
+  "gameId": "3882",
+  "gameDate": "Tuesday, June 19, 2001"
+}

@@ -1,0 +1,565 @@
+{
+  "title": "Show #7658 - Wednesday, December 20, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "'TIS THE SEASON",
+      "JOY TO THE WORLD",
+      "JINGLE SELLS",
+      "SILVER & GOLD",
+      "SANTA CLAUS IS COMIN' TO TOWN",
+      "WE WISH YOU \"A\" MERRY CHRISTMAS!"
+    ],
+    "clues": [
+      {
+        "category": "JOY TO THE WORLD",
+        "value": 200,
+        "question": "A year before the Lumiere bros.' first film, this man's Kinetoscope put moving pictures on a screen during a vaudeville show",
+        "answer": "Thomas Edison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "JINGLE SELLS",
+        "value": 200,
+        "question": "This product is \"2 all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun\"",
+        "answer": "the Big Mac",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SILVER & GOLD",
+        "value": 200,
+        "question": "Gymnast Viktor Lisitsky won 5 silver medals for this country, but no gold or bronze",
+        "answer": "the USSR",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SANTA CLAUS IS COMIN' TO TOWN",
+        "value": 200,
+        "question": "Mr. C is flying down I-15 to a 5,000-room hotel in this seat of Clark County, 'cause Santa's feelin' lucky!",
+        "answer": "Las Vegas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WE WISH YOU \"A\" MERRY CHRISTMAS!",
+        "value": 200,
+        "question": "To another place, like \"In A Manger\", title-wise",
+        "answer": "away",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "'TIS THE SEASON",
+        "value": 400,
+        "question": "Frank Sinatra Dr., Gerald Ford Dr. & Dinah Shore Dr. are a short drive from the airport of this California resort city",
+        "answer": "Palm Springs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JOY TO THE WORLD",
+        "value": 400,
+        "question": "This group of guarantees went into force as a single unit on Dec. 15, 1791",
+        "answer": "the Bill of Rights",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "JINGLE SELLS",
+        "value": 400,
+        "question": "\"We are\" this insurance company whose ads feature J.K. Simmons & a snappy 7-note riff",
+        "answer": "Farmers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SILVER & GOLD",
+        "value": 400,
+        "question": "In 2010 German Winter Olympian David Moeller injured himself doing this to his silver medal",
+        "answer": "biting it",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SANTA CLAUS IS COMIN' TO TOWN",
+        "value": 400,
+        "question": "Santa's heading up I-95 on his way from Winter Haven to this city of NFL Jaguars",
+        "answer": "Jacksonville",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WE WISH YOU \"A\" MERRY CHRISTMAS!",
+        "value": 400,
+        "question": "In the English lyrics of \"Adeste Fideles\", \"O come let us\" this word meaning to love",
+        "answer": "adore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "'TIS THE SEASON",
+        "value": 600,
+        "question": "This disco queen was No. 1 in 1979 \"Lookin' for some hot stuff, baby this evenin'\"",
+        "answer": "Donna Summer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JOY TO THE WORLD",
+        "value": 600,
+        "question": "In the late 1700s, navigators could find longitude with a new compact type of this instrument, named for covering one-sixth of a circle",
+        "answer": "a sextant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "JINGLE SELLS",
+        "value": 600,
+        "question": "\"The best part of wakin' up is\" this \"in your cup\"",
+        "answer": "Folgers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SILVER & GOLD",
+        "value": 600,
+        "question": "Michael Phelps first gold medal of his record 23 was at the 2004 Games in this city",
+        "answer": "Athens",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SANTA CLAUS IS COMIN' TO TOWN",
+        "value": 600,
+        "question": "Santa hops off I-90 & onto Route 85 to go to this S.D. city where Wild Bill Hickok was stopped from being a good boy permanently",
+        "answer": "Deadwood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WE WISH YOU \"A\" MERRY CHRISTMAS!",
+        "value": 600,
+        "question": "Clothing or garments, donned with the \"fa la la\"-ing & so forth",
+        "answer": "apparel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "'TIS THE SEASON",
+        "value": 800,
+        "question": "Graceful gazelle of the Kalahari noted for its leaping ability",
+        "answer": "a springbok",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JOY TO THE WORLD",
+        "value": 800,
+        "question": "People with allergies could breathe easier in 1937 when Swiss doctor Daniel Bovet discovered the first of these",
+        "answer": "an antihistamine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "JINGLE SELLS",
+        "value": 800,
+        "question": "\"Every kiss begins with\" this, but the real hero in one ad was the delivery dog that balanced a gem box on its nose",
+        "answer": "Kay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SILVER & GOLD",
+        "value": 800,
+        "question": "Olympic gold medals at the 2008 Beijing Games were inlaid with this gem",
+        "answer": "jade",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SANTA CLAUS IS COMIN' TO TOWN",
+        "value": 800,
+        "question": "Santa hops on Route 12 to hit Kill Devil Hills, Nags Head & perhaps to enjoy a night in Rodanthe in this state",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WE WISH YOU \"A\" MERRY CHRISTMAS!",
+        "value": 800,
+        "question": "It's Latin for \"hail\", Maria",
+        "answer": "ave",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "'TIS THE SEASON",
+        "value": 1000,
+        "question": "To go out of consideration, or collapse next to a Longfellow inn",
+        "answer": "fall by the wayside",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JOY TO THE WORLD",
+        "value": 1000,
+        "question": "Following World War II, this man's leadership spurred the recovery of a continent and blocked the spread of Communism",
+        "answer": "(General George) Marshall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "JINGLE SELLS",
+        "value": 1000,
+        "question": "\"Plop plop, fizz fizz\" plopped into existence for this product in the '70s & Sammy Davis Jr. did a version, baby",
+        "answer": "Alka-Seltzer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SILVER & GOLD",
+        "value": 1000,
+        "question": "At the first Olympics in 1896, winners received a silver medal & this natural symbol of peace",
+        "answer": "an olive branch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SANTA CLAUS IS COMIN' TO TOWN",
+        "value": 1000,
+        "question": "On I-59 out of Hattiesburg, Santa's confused! Route 15 goes from Louisville to Philadelphia all within this state?!",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WE WISH YOU \"A\" MERRY CHRISTMAS!",
+        "value": 1000,
+        "question": "Merry gentlemen, it means away from the correct path, as in \"to save us all from Satan's power when we were gone\" this",
+        "answer": "astray",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BYE, PHOENICIA!",
+      "AUTHORS' BIOGRAPHIES",
+      "MIND YOUR GRAMMAR",
+      "FICTIONAL CHARACTERS' MOST-HATED MOVIES",
+      "\"S\"CIENCE",
+      "NONSENSE & STUFF"
+    ],
+    "clues": [
+      {
+        "category": "BYE, PHOENICIA!",
+        "value": 400,
+        "question": "Carthage, a Phoenician colony, wouldn't leave this empire alone, leading to the Punic Wars & the end of Carthage",
+        "answer": "the Roman Empire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS' BIOGRAPHIES",
+        "value": 400,
+        "question": "\"Kipling Sahib\" details the author's birth in this country, being sent to England, hating it there & going back",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MIND YOUR GRAMMAR",
+        "value": 400,
+        "question": "Nouns not masculine or feminine are termed this gender",
+        "answer": "neuter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS' MOST-HATED MOVIES",
+        "value": 400,
+        "question": "Rodent-fearing Winston Smith shuddered through this 2007 Pixar movie featuring the voice of Patton Oswalt",
+        "answer": "Ratatouille",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"S\"CIENCE",
+        "value": 400,
+        "question": "This late-Jurassic creature was probably not popular for horsie rides",
+        "answer": "a stegosaurus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NONSENSE & STUFF",
+        "value": 400,
+        "question": "I say \"phooey!\" to this word for nonsense that rhymes with phooey",
+        "answer": "hooey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BYE, PHOENICIA!",
+        "value": 800,
+        "question": "After invasions in the 7th century, Phoenicians were forced to convert to this religion or pay a jizya",
+        "answer": "Islam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS' BIOGRAPHIES",
+        "value": 800,
+        "question": "God bless us, every one who reads \"The Man Who Invented Christmas\", about this author",
+        "answer": "Dickens",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MIND YOUR GRAMMAR",
+        "value": 800,
+        "question": "\"We saw the Grand Canyon flying over the USA\" contains a misplaced one of these",
+        "answer": "a modifier",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS' MOST-HATED MOVIES",
+        "value": 800,
+        "question": "If Little Miss Muffet could give a negative Metacritic score to this 1990 John Goodman film, she would",
+        "answer": "Arachnophobia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"S\"CIENCE",
+        "value": 800,
+        "question": "8-letter adjective meaning moving at a speed below Mach 1",
+        "answer": "subsonic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NONSENSE & STUFF",
+        "value": 800,
+        "question": "It means nonsense; put \"de\" before it & you expose false claims",
+        "answer": "bunk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BYE, PHOENICIA!",
+        "value": 1200,
+        "question": "In 64 B.C. Phoenicia was absorbed into this province just north of Judea",
+        "answer": "Syria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS' BIOGRAPHIES",
+        "value": 1200,
+        "question": "\"Eden's Outcasts\" tells how her dad's transcendentalist utopia failed and how her writing paid the bills",
+        "answer": "Louisa May Alcott",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MIND YOUR GRAMMAR",
+        "value": 1200,
+        "question": "A qualifier is an adjective that limits the meaning of a word; this is one that limits the amount or extent of one",
+        "answer": "a quantifier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS' MOST-HATED MOVIES",
+        "value": 1200,
+        "question": "Olaf the Snowman confessed he found this 1962 David Lean epic \"hard to watch\"",
+        "answer": "Lawrence of Arabia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"S\"CIENCE",
+        "value": 1200,
+        "question": "A fundamental elementary particle, this flavor of quark is the third lightest",
+        "answer": "strange",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NONSENSE & STUFF",
+        "value": 1200,
+        "question": "As food, it comes in a honeycomb type; as an opinion, it's nonsense",
+        "answer": "tripe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BYE, PHOENICIA!",
+        "value": 1600,
+        "question": "The word for the good book comes from this Phoenician town that was captured by Crusaders, who named it Gibelet",
+        "answer": "Byblos",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS' BIOGRAPHIES",
+        "value": 1600,
+        "question": "Chapter 5 of Philip Nel's book about this author is \"The Disneyfication of\" him: \"Faithful to Profit, One Hundred Percent?\"",
+        "answer": "Dr. Seuss",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MIND YOUR GRAMMAR",
+        "value": 1600,
+        "question": "Parataxis is the joining together of phrase or clauses without the use of these grammatical uniters",
+        "answer": "a conjunction",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS' MOST-HATED MOVIES",
+        "value": 1600,
+        "question": "Dorian Gray hated the first part of this 2008 Brad Pitt movie, but it grew on him over time",
+        "answer": "The Curious Case of Benjamin Button",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"S\"CIENCE",
+        "value": 1600,
+        "question": "It's the fluid remaining after the solid portion of blood is removed",
+        "answer": "serum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NONSENSE & STUFF",
+        "value": 1600,
+        "question": "Per the City of London, \"Residential waste shall mean garbage and\" this",
+        "answer": "rubbish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BYE, PHOENICIA!",
+        "value": 2000,
+        "question": "Sailing for this empire at the Battle of Salamis, Phoenician ships fared poorly & there was many a beheading",
+        "answer": "the Persian Empire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS' BIOGRAPHIES",
+        "value": 2000,
+        "question": "\"A Rather Haunted Life\" is the subtitle of a book about this \"Hill House\" novelist",
+        "answer": "Shirley Jackson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MIND YOUR GRAMMAR",
+        "value": 2000,
+        "question": "Like \"crowd\" or \"troop\", it's a noun that is singular in form but denotes a group",
+        "answer": "collective",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS' MOST-HATED MOVIES",
+        "value": 2000,
+        "question": "The Wicked Witch of the West experiences mortal terror when viewing this Kevin Costner movie from 1995",
+        "answer": "Waterworld",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"S\"CIENCE",
+        "value": 2000,
+        "question": "The visible one is the wavelengths from about 400 to 700 nanometers",
+        "answer": "a spectrum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NONSENSE & STUFF",
+        "value": 2000,
+        "question": "Foolish chatter can also be called this other double \"T\" word",
+        "answer": "prattle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EUROPEAN COUNTRIES",
+    "clue": "This country's last 3 queens abdicated in favor of their children",
+    "answer": "the Netherlands"
+  },
+  "gameId": "7658",
+  "gameDate": "Wednesday, December 20, 2017"
+}

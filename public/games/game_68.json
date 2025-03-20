@@ -1,0 +1,556 @@
+{
+  "title": "Show #4663 - Wednesday, December 8, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "19th CENTURY AMERICA",
+      "TV ON TV",
+      "CARS",
+      "'70s NONFICTION",
+      "WHOSE LIME IS IT ANYWAY?",
+      "\"TA\" TA FOR NOW"
+    ],
+    "clues": [
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 200,
+        "question": "\"My Life on the Plains\" was an 1874 book by this \"boy general\" & Indian fighter",
+        "answer": "Custer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV ON TV",
+        "value": 200,
+        "question": "\"Itchy & Scratchy\"",
+        "answer": "The Simpsons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 200,
+        "question": "In a 1969 Disney film, Herbie was this model of car",
+        "answer": "Volkswagen Beetle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "'70s NONFICTION",
+        "value": 200,
+        "question": "Billy Graham called them \"God's secret agents\"",
+        "answer": "angels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHOSE LIME IS IT ANYWAY?",
+        "value": 200,
+        "question": "Citrus fruits including limes were introduced to the West Indies by this man on his second voyage",
+        "answer": "Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"TA\" TA FOR NOW",
+        "value": 200,
+        "question": "Head to Agra, India to see this famous marble mausoleum completed around 1643",
+        "answer": "the Taj Mahal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 400,
+        "question": "Reportedly, in 1854 Flora Temple broke the 2:20 minute mile; of course, Flora was one of these",
+        "answer": "a horse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV ON TV",
+        "value": 400,
+        "question": "\"Tool Time\"",
+        "answer": "Home Improvement",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 400,
+        "question": "This Japanese luxury brand debuted in the U.S. with the Legend sedan in 1986",
+        "answer": "Acura",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "'70s NONFICTION",
+        "value": 400,
+        "question": "A bestseller by Dr. David Reuben gave us this 13-word-long self-help title",
+        "answer": "Everything You Always Wanted to Know about Sex but Were Afraid to Ask",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHOSE LIME IS IT ANYWAY?",
+        "value": 400,
+        "question": "The use of calcium oxide lime in early theatrical lamps gives us this term for the focus of public attention",
+        "answer": "limelight",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"TA\" TA FOR NOW",
+        "value": 400,
+        "question": "2nd century Rabbi Ishmael Ben Elisha is best known for his impact on the understanding of this compilation of Jewish law",
+        "answer": "the Talmud",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 600,
+        "question": "This Californian died still trying to get congress to reimburse him for all that gold on his mill site he lost out on",
+        "answer": "(John) Sutter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV ON TV",
+        "value": 600,
+        "question": "\"The Happy Homemaker\"",
+        "answer": "The Mary Tyler Moore Show",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 600,
+        "question": "The name of this maker of the Q45 makes it sound like it will run forever",
+        "answer": "Infiniti",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "'70s NONFICTION",
+        "value": 600,
+        "question": "His 1971 autobiography \"Wunnerful, Wunnerful!\" was a, well, wunnerful seller",
+        "answer": "Lawrence Welk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHOSE LIME IS IT ANYWAY?",
+        "value": 600,
+        "question": "To make this drink supposedly named for a British naval surgeon, all you need is gin & sweetened lime juice",
+        "answer": "gimlet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"TA\" TA FOR NOW",
+        "value": 600,
+        "question": "(Hi.  I'm Hal Sparks.)  This former E! entertainment channel TV show helped further the careers of me, John Henson & Greg Kinnear",
+        "answer": "Talk Soup",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 800,
+        "question": "In 1846 he tried to sue Eliza Emerson in St. Louis for his & his family's freedom",
+        "answer": "Dred Scott",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV ON TV",
+        "value": 800,
+        "question": "\"The Alan Brady Show\"",
+        "answer": "The Dick Van Dyke Show",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 800,
+        "question": "This sporty Dodge model is available as n SRT-10 Roadster for 2004, starting at around $80,000",
+        "answer": "a Viper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "'70s NONFICTION",
+        "value": 800,
+        "question": "In 1977 the Fixx was in with \"The Complete Book of\" this by James Fixx",
+        "answer": "running",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHOSE LIME IS IT ANYWAY?",
+        "value": 800,
+        "question": "Extreme heat fuses soda, lime & sand to make this everyday substance",
+        "answer": "glass",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"TA\" TA FOR NOW",
+        "value": 800,
+        "question": "\"Saucy\" name for the crusty areas on your teeth made from mineral salts reacting with plaque & saliva",
+        "answer": "tartar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1000,
+        "question": "If Amelia Jenks hadn't married this man in 1840, women might have worn \"Jenks\"",
+        "answer": "(Dexter) Bloomer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV ON TV",
+        "value": 1000,
+        "question": "\"F.Y.I.\"",
+        "answer": "Murphy Brown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CARS",
+        "value": 1000,
+        "question": "This German car make got its name from the Latin translation of founder August Horch's name",
+        "answer": "Audi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "'70s NONFICTION",
+        "value": 1000,
+        "question": "Theodore H. White's \"Breach of Faith\" detailed \"The Fall of\" this man",
+        "answer": "Nixon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHOSE LIME IS IT ANYWAY?",
+        "value": 1000,
+        "question": "The headquarters of this world famous insurance company & underwriter is on Lime Street in London",
+        "answer": "Lloyds",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"TA\" TA FOR NOW",
+        "value": 1000,
+        "question": "Now known as Ismail Samani Peak, the highest peak in this country was once named after Joseph Stalin",
+        "answer": "Tajikistan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "I HEAR A SYMPHONY",
+      "MY GIRL",
+      "BRICK HOUSE",
+      "RIVER DEEP, MOUNTAIN HIGH",
+      "PLEASE MR. POSTMAN",
+      "A, B, C"
+    ],
+    "clues": [
+      {
+        "category": "MY GIRL",
+        "value": 400,
+        "question": "In 1961 Marvin Gaye married Anna, sister of this Motown mogul",
+        "answer": "Berry Gordy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BRICK HOUSE",
+        "value": 400,
+        "question": "A brick house in Portland, Maine that dates to 1785 was built by General Peleg Wadsworth, grandfather of this famed poet",
+        "answer": "Henry Wadsworth Longfellow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RIVER DEEP, MOUNTAIN HIGH",
+        "value": 400,
+        "question": "The gods must be crazy to spend their time on this highest mountain in Greece",
+        "answer": "(Mount) Olympus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PLEASE MR. POSTMAN",
+        "value": 400,
+        "question": "The Netpost mailing service features Christmas cards with this 3-word wish for the globe",
+        "answer": "Peace on Earth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "A, B, C",
+        "value": 400,
+        "question": "Next to Bob Lanier & Gilbert Perreault, sports reference books list C for this position",
+        "answer": "center",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MY GIRL",
+        "value": 800,
+        "question": "She is 12 years older than longtime beau Tim Robbins",
+        "answer": "Susan Sarandon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BRICK HOUSE",
+        "value": 800,
+        "question": "The Kit Carson home in Taos, New Mexico is a house & museum made of these clay bricks",
+        "answer": "adobe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RIVER DEEP, MOUNTAIN HIGH",
+        "value": 800,
+        "question": "Until 1959, this peak was the highest mountain in the United States",
+        "answer": "Mount Whitney",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PLEASE MR. POSTMAN",
+        "value": 800,
+        "question": "In an April Fools' joke, National Public Radio reported that the Postal Service would soon let you keep this, no matter where you moved",
+        "answer": "your ZIP code",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "A, B, C",
+        "value": 800,
+        "question": "In phrases like \"a man\" or \"a door\", a is this part of speech",
+        "answer": "an article",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "I HEAR A SYMPHONY",
+        "value": 1200,
+        "question": "Beethoven's 6th isn't called the \"Bucolic\" symphony, but this",
+        "answer": "Pastoral",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MY GIRL",
+        "value": 1200,
+        "question": "Diana Krall's CD \"The Girl in the Other Room\" features songs cowritten with this man, her new husband",
+        "answer": "Elvis Costello",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BRICK HOUSE",
+        "value": 1200,
+        "question": "This Boston landmark made famous the night of April 18, 1775 is made of bricks from the kilns of nearby Medford",
+        "answer": "the Old North Church",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RIVER DEEP, MOUNTAIN HIGH",
+        "value": 1200,
+        "question": "The names of this highest mountain in Western Europe & this highest mountain in the Pacific both mean \"White Mountain\"",
+        "answer": "Mont Blanc and Mauna Kea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PLEASE MR. POSTMAN",
+        "value": 1200,
+        "question": "This \"privilege\" allows members of Congress to send out official mail without paying postage",
+        "answer": "franking",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "A, B, C",
+        "value": 1200,
+        "question": "It's the symbol for the letter A in braille",
+        "answer": "a dot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "I HEAR A SYMPHONY",
+        "value": 1600,
+        "question": "The strings in the symphony heard here, by this playful Austrian, give it the nickname \"The Bear\"",
+        "answer": "Joseph Haydn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MY GIRL",
+        "value": 1600,
+        "question": "There are zero degrees of separation between him & his girl, wife Kyra Sedgwick",
+        "answer": "(Kevin) Bacon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BRICK HOUSE",
+        "value": 1600,
+        "question": "Patrick Henry & Thomas Jefferson both lived in the 2-story brick governor's palace in this colonial capital",
+        "answer": "Williamsburg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RIVER DEEP, MOUNTAIN HIGH",
+        "value": 1600,
+        "question": "The deepest river gorge in the United States, Hells Canyon, was carved over millions of years by this river",
+        "answer": "The Snake (River)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PLEASE MR. POSTMAN",
+        "value": 1600,
+        "question": "Formerly called book rate, this type of mail lets you send books, videos, CDs & DVDs at a slower, reduced rate",
+        "answer": "Media Mail",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "A, B, C",
+        "value": 1600,
+        "question": "In the Stock Market abbreviation B&A, A is Asked & B is this",
+        "answer": "Bid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "I HEAR A SYMPHONY",
+        "value": 2000,
+        "question": "Mozart's 38th is called by the name of this city that stood in for Vienna in the filming of \"Amadeus\"",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MY GIRL",
+        "value": 2000,
+        "question": "She met Ryan Phillippe at her 21st birthday party & married him 2 years later",
+        "answer": "Reese Witherspoon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BRICK HOUSE",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew reports from inside the Robie House in Chicago, IL.)  I'm inside Frank Lloyd Wright's Robie House, whose windows, rather than stained glass, are called by this aesthetic term",
+        "answer": "art glass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RIVER DEEP, MOUNTAIN HIGH",
+        "value": 2000,
+        "question": "The Yarlung Zangbo in this lofty region is the world's highest river & its 17,657-foot valley is the deepest",
+        "answer": "Himalayas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PLEASE MR. POSTMAN",
+        "value": 2000,
+        "question": "To stamp collectors, FDC stands for this",
+        "answer": "First Day Cover",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "A, B, C",
+        "value": 2000,
+        "question": "If you're in \"A&R\" for a record company, you know it stands for these \"and Repertoire\"",
+        "answer": "Artists",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE CABINET",
+    "clue": "He's been both the youngest & the oldest U.S. Secretary of Defense in history",
+    "answer": "Donald Rumsfeld"
+  },
+  "gameId": "4663",
+  "gameDate": "Wednesday, December 8, 2004"
+}

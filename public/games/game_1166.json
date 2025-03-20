@@ -1,0 +1,556 @@
+{
+  "title": "Show #3997 - Tuesday, January 8, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "CITY SEALS",
+      "HONORARY DEGREES",
+      "NUMBER, PLEASE",
+      "WINE IF YOU MUST",
+      "SCRIPTURE SAYETH",
+      "BONDS' 73"
+    ],
+    "clues": [
+      {
+        "category": "HONORARY DEGREES",
+        "value": 200,
+        "question": "This new doctor can put his honorary Ph.D. next to his Oscar for \"Leaving Las Vegas\"",
+        "answer": "Nicolas Cage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 200,
+        "question": "The number of days the prophet Elijah spent on Mount Horeb, or Jesus spent in the wilderness",
+        "answer": "40",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WINE IF YOU MUST",
+        "value": 200,
+        "question": "Hock is a British term for the Rhine wines from this country",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SCRIPTURE SAYETH",
+        "value": 200,
+        "question": "The lesser-known 24th of these begins, \"The Earth is the Lord's, and the fullness thereof\"",
+        "answer": "Psalms",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BONDS' 73",
+        "value": 200,
+        "question": "This man who shattered Roger Maris' 37-year-old record had his record broken by Barry Bonds in only 3 years",
+        "answer": "Mark McGwire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CITY SEALS",
+        "value": 400,
+        "question": "Mountain range depicted on the seal of Calgary, Alberta",
+        "answer": "Rockies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HONORARY DEGREES",
+        "value": 400,
+        "question": "It was a beautiful day in his neighborhood when he got a Ph.D. from Middlebury",
+        "answer": "Mister Rogers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew at the eye doctor's office.)  I'm standing this many feet from the eye chart, the numerator in a common fraction used to evaluate vision",
+        "answer": "20",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WINE IF YOU MUST",
+        "value": 400,
+        "question": "When uncorked, a wine is said to begin to do this, something Faith Hill sang about",
+        "answer": "breathe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SCRIPTURE SAYETH",
+        "value": 400,
+        "question": "The prophet Nahum says, \"The Lord is slow to\" this state--but when he gets there, look out!",
+        "answer": "anger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BONDS' 73",
+        "value": 400,
+        "question": "According to USA Today, it's 5.6 miles or 29,468 feet",
+        "answer": "combined distance of all his home runs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CITY SEALS",
+        "value": 600,
+        "question": "Though it's thought the phoenix on its seal refers to the 1906 fire, it predates the fire by almost 50 years",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HONORARY DEGREES",
+        "value": 600,
+        "question": "Maybe Springsteen was unavailable, so N.J.s Monmouth University gave a Ph.D. to this \"Livin' on a Prayer\" rocker instead",
+        "answer": "Jon Bon Jovi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 600,
+        "question": "In Roman numerals this number's i.d. is ID",
+        "answer": "499",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WINE IF YOU MUST",
+        "value": 600,
+        "question": "Term for the juice of freshly crushed grapes (Hint: remember the category)",
+        "answer": "must",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SCRIPTURE SAYETH",
+        "value": 600,
+        "question": "Completes Jesus' words to the woman taken in adultery, \"Go, and...\"",
+        "answer": "sin no more",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BONDS' 73",
+        "value": 600,
+        "question": "37 of the 73 home runs were hit in this stadium",
+        "answer": "Pacific Bell Park",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CITY SEALS",
+        "value": 800,
+        "question": "This man-made wonder 30 miles east of Las Vegas is featured prominently on Vegas' seal",
+        "answer": "Hoover Dam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HONORARY DEGREES",
+        "value": 800,
+        "question": "South Carolina's Lander University gave a humane letters degree to this \"Groundhog Day\" actress, but only once",
+        "answer": "Andie MacDowell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 800,
+        "question": "It's the atomic number of neptunium, the first transuranium element",
+        "answer": "93",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WINE IF YOU MUST",
+        "value": 800,
+        "question": "In the Bordeaux region this term refers to a vineyard rather than a castle",
+        "answer": "chateau",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SCRIPTURE SAYETH",
+        "value": 800,
+        "question": "This sensuous \"Song\" sayeth, \"Thy name is like a round goblet...thing eyes like the fishpools in Heshbon\"",
+        "answer": "Song of Solomon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BONDS' 73",
+        "value": 800,
+        "question": "Regulation inning in which Barry hit the fewest of the 73 homers, only 3; makes sense if you think about it",
+        "answer": "9th",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CITY SEALS",
+        "value": 1000,
+        "question": "Its seal features a woman pointing to a fir forest with Mount Hood in the background",
+        "answer": "Portland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HONORARY DEGREES",
+        "value": 1000,
+        "question": "\"Them good old boys were drinking whiskey and rye\" when this singer doctored up an honorary degree from Iona",
+        "answer": "Don McLean",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 1000,
+        "question": "In \"Old Friends\", Paul Simon wrote \"How terribly strange to be\" this age that he'll be in 2011",
+        "answer": "70",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WINE IF YOU MUST",
+        "value": 1000,
+        "question": "The Asti region of Italy is known for this \"foamy\" or \"sparkling\" wine",
+        "answer": "spumante",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SCRIPTURE SAYETH",
+        "value": 1000,
+        "question": "Proverbs asketh, \"Who can find a virtuous woman? For her price is far above\" these gems",
+        "answer": "rubies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BONDS' 73",
+        "value": 1000,
+        "question": "It was this team's Dennis Springer that Bonds hit No. 73 off of",
+        "answer": "Los Angeles Dodgers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE BARBARY WARS",
+      "TRANSPORTATION",
+      "PRESIDENTIAL MIDDLE NAMES",
+      "BAD LITERARY TRIPS",
+      "QUASI-RELATED PAIRS",
+      "'73 BONDS"
+    ],
+    "clues": [
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "The Flexible Flyer isn't an airplane but a classic brand of this winter vehicle",
+        "answer": "sled",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAMES",
+        "value": 400,
+        "question": "Milhous",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BAD LITERARY TRIPS",
+        "value": 400,
+        "question": "Take in the lush Caribbean scenery as a guest of this fiendish doctor from Ian Fleming Tours",
+        "answer": "Dr. No",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "QUASI-RELATED PAIRS",
+        "value": 400,
+        "question": "Dickens' orphaned Oliver & S.C. Johnson's stain remover brand",
+        "answer": "Twist & Shout",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "'73 BONDS",
+        "value": 400,
+        "question": "A major wedding of the year was $6 Million Man Lee Major's to this angel",
+        "answer": "Farrah Fawcett-Majors",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BARBARY WARS",
+        "value": 800,
+        "question": "In a 3-hour battle on August 1, 1801 this ship under Lt. Andrew Sterrett, not Lt. Uhura, beat the Tripoli",
+        "answer": "Enterprise",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "This brand of stagecoach, the finest in the West, got its name from the New Hampshire capital where it was made",
+        "answer": "Concord",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAMES",
+        "value": 800,
+        "question": "David",
+        "answer": "Dwight Eisenhower",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BAD LITERARY TRIPS",
+        "value": 800,
+        "question": "Taste the tranquility of small-town Maine with a week at Jerusalem's Lot, called this for short",
+        "answer": "Salem's Lot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "QUASI-RELATED PAIRS",
+        "value": 800,
+        "question": "It's the quasi-related pair seen here",
+        "answer": "rock & roll",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "'73 BONDS",
+        "value": 800,
+        "question": "In 1973 Brian Mulroney married Mila Pivnicki; in 1984 he became this country's prime minister",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BARBARY WARS",
+        "value": 1200,
+        "question": "In 1802 Congress authorized this president to use force to protect U.S. ships from the Tripoli pirates",
+        "answer": "Jefferson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1200,
+        "question": "In the name of a British car, Aston was a hill where it was tested & this man was a company founder",
+        "answer": "Martin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAMES",
+        "value": 1200,
+        "question": "Alan",
+        "answer": "Chester A. Arthur",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BAD LITERARY TRIPS",
+        "value": 1200,
+        "question": "We'll fly you to a rainy fjord to experience stifling middle-class morality in this playwright's \"Ghosts\"",
+        "answer": "Ibsen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "QUASI-RELATED PAIRS",
+        "value": 1200,
+        "question": "Companies like United Van Lines & Bekins, & the \"trembling\" sect that's an offshoot of the Quakers",
+        "answer": "movers & Shakers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "'73 BONDS",
+        "value": 1200,
+        "question": "He married Shakira Baksh in 1973; she appeared with him in \"The Man Who Would be King\" in 1975",
+        "answer": "Michael Caine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BARBARY WARS",
+        "value": 1600,
+        "question": "To visit the site of the embattled shores of Tripoli you have to go to this country, but the State Dept. warns against it",
+        "answer": "Libya",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1600,
+        "question": "Urban legend has this Chevy model flopping in Spanish-speaking lands (its name translates as \"Doesn't go\")",
+        "answer": "Nova",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAMES",
+        "value": 1600,
+        "question": "Abram",
+        "answer": "James Garfield",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BAD LITERARY TRIPS",
+        "value": 1600,
+        "question": "With stops in the Urals & Siberia, you'll see more of Russia than you've ever imagined in this Pasternak novel",
+        "answer": "Dr. Zhivago",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "QUASI-RELATED PAIRS",
+        "value": 1600,
+        "question": "West Virginia Senator Robert's family & actresses Arthur & Benaderet",
+        "answer": "Byrds & bees",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "'73 BONDS",
+        "value": 1600,
+        "question": "The royal wedding of the year was that of Capt. Mark Phillips & this princess",
+        "answer": "Princess Anne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BARBARY WARS",
+        "value": 2000,
+        "question": "He lost his ship the Philadelphia & his brother James, but was still a hero right or wrong",
+        "answer": "Stephen Decatur",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew on a New Orleans steamboat.)  I'm aboard New Orleans' only steamboat, which shares this name with a Mississippi city & an Indian group",
+        "answer": "Natchez",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL MIDDLE NAMES",
+        "value": 2000,
+        "question": "Clark",
+        "answer": "Herbert Clark Hoover",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BAD LITERARY TRIPS",
+        "value": 2000,
+        "question": "You'll sail to Bremerhaven with several bitter, deluded bigots in this Katherine Anne Porter novel",
+        "answer": "Ship of Fools",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "QUASI-RELATED PAIRS",
+        "value": 2000,
+        "question": "\"Mr. Roboto\" rock group & authors I.F. & Irving",
+        "answer": "sticks & stones",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "'73 BONDS",
+        "value": 2000,
+        "question": "This author of \"Do Androids Dream of Electric Sheep?\" married for his fifth & last time in 1973",
+        "answer": "Philip Dick",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PLAYWRIGHTS",
+    "clue": "King Louis XIV was the godfather of this playwright's first child, born in 1664",
+    "answer": "Molière"
+  },
+  "gameId": "3997",
+  "gameDate": "Tuesday, January 8, 2002"
+}

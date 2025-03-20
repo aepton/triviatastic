@@ -1,0 +1,574 @@
+{
+  "title": "Show #1841 - Monday, September 14, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "LANGUAGES",
+      "U.S. HISTORY",
+      "CARY GRANT FILMS",
+      "HANDICRAFTS",
+      "MYTHOLOGY",
+      "COMMON BONDS"
+    ],
+    "clues": [
+      {
+        "category": "LANGUAGES",
+        "value": 100,
+        "question": "Estonian is closely related to this language heard in Helsinki",
+        "answer": "Finnish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 100,
+        "question": "In 1889 the dam rebuilt by the South Fork Fishing & Hunting Club broke, causing this flood",
+        "answer": "the Johnstown Flood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CARY GRANT FILMS",
+        "value": 100,
+        "question": "Grant & Constance Bennett played the ghostly George & Marion Kerby in this 1937 comedy",
+        "answer": "Topper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HANDICRAFTS",
+        "value": 100,
+        "question": "In this craft you can cover a wire frame or an old bottle with paste-soaked newsprint",
+        "answer": "papier-mache",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 100,
+        "question": "Inari, not Uncle Ben, is the Japanese god of this food",
+        "answer": "rice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 100,
+        "question": "Clumber,English Springer,Welsh Springer",
+        "answer": "spaniels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "Aymara, which resembles the Inca language, is mainly spoken by Indians in Bolivia & this country",
+        "answer": "Peru",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 200,
+        "question": "Some senators wanted to call him \"His Elective Majesty\", but settled for \"Mr. President\"",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CARY GRANT FILMS",
+        "value": 200,
+        "question": "Grant co-starred with this actress in \"Sylvia Scarlett\" long before \"The Philadelphia Story\"",
+        "answer": "Katharine Hepburn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HANDICRAFTS",
+        "value": 200,
+        "question": "Neat's-foot oil is used to darken & waterproof this worked material",
+        "answer": "leather",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "Pan had the horns & hoofs of this animal",
+        "answer": "goat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 200,
+        "question": "Baroque,freshwater,cultured",
+        "answer": "pearls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 300,
+        "question": "In Esperanto the verb ami means to do this",
+        "answer": "to love",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 300,
+        "question": "It says, \"Our policy in Europe...is not to interfere in the internal concerns of any of its powers\"",
+        "answer": "the Monroe Doctrine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CARY GRANT FILMS",
+        "value": 300,
+        "question": "As this character Cary built his dream house in a 1948 release",
+        "answer": "Mr. Blandings",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HANDICRAFTS",
+        "value": 300,
+        "question": "From the Latin for \"stone\", it's one who cuts & polishes precious stones or gems",
+        "answer": "lapidarian (lapidary)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 300,
+        "question": "Rulers in Egypt claimed descent from this heavenly body",
+        "answer": "the sun",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 300,
+        "question": "Bitter,blood,Valencia",
+        "answer": "oranges",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "Cebuano is spoken in this country, but it isn't an official language like Tagalog",
+        "answer": "Philippines",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "After an anti-Mormon mob murdered this man in Illinois, Brigham Young moved the flock west",
+        "answer": "Joseph Smith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CARY GRANT FILMS",
+        "value": 400,
+        "question": "Grant's career got an early boost when this woman chose him as her co-star in \"She Done Him Wrong\"",
+        "answer": "Mae West",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HANDICRAFTS",
+        "value": 400,
+        "question": "Terms used by weavers of these containers include randing, slewing & waling",
+        "answer": "baskets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "The Greeks & the Romans used the same name for this god, though the Greeks also called him Hades",
+        "answer": "Pluto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 400,
+        "question": "Rattlesnake masters,blazing stars,prairie buttercups",
+        "answer": "flowers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1000,
+        "question": "The Nilotic languages originated on this continent",
+        "answer": "Africa",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 500,
+        "question": "When the Underwood Tariff became law in 1913, it replaced lost tariff money with this tax",
+        "answer": "income tax",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CARY GRANT FILMS",
+        "value": 500,
+        "question": "2 of the 4 films Cary Grant made with director Alfred Hitchcock",
+        "answer": "(2 of) Notorious & North by Northwest (or Suspicion & To Catch a Thief)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HANDICRAFTS",
+        "value": 500,
+        "question": "Chisels & nippers are used to cut the tesserae that make up these floor designs",
+        "answer": "mosaics",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 500,
+        "question": "There's a temple for this Egyptian goddess preserved at Pompeii",
+        "answer": "Isis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 500,
+        "question": "Sweetheart,cowl,scoop",
+        "answer": "necklines",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD GEOGRAPHY",
+      "SHAKESPEARE",
+      "COMPOSERS",
+      "SCIENCE",
+      "BUSINESS & INDUSTRY",
+      "THE LEAGUE OF NATIONS"
+    ],
+    "clues": [
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "This country's Isle of Pines, where Castro was once imprisoned, was renamed Isle of Youth in the 1970s",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 200,
+        "question": "At this woman's grave Gertrude says, \"I hoped thou shouldst have been my Hamlet's wife\"",
+        "answer": "Ophelia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 200,
+        "question": "His wife Jane may have inspired his song \"Jeanie with the Light Brown Hair\"",
+        "answer": "Stephen Foster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "From the Latin for \"touching\", it describes a disease passed by touch",
+        "answer": "contagious",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 200,
+        "question": "His Harvesting Machine Co. in Chicago used the advertising slogan \"Our Field is the World\"",
+        "answer": "(Cyrus) McCormick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE LEAGUE OF NATIONS",
+        "value": 200,
+        "question": "Because this country attacked Finland in 1939, it was expelled from the League of Nations",
+        "answer": "Soviet Union",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "The Panteon Nacional, or Nat'l Pantheon, in Caracas, Venezuela is the tomb of this \"Liberator\"",
+        "answer": "Simon Bolivar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 400,
+        "question": "Nerissa is Portia's waiting-maid in this play",
+        "answer": "The Merchant of Venice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "Liszt was on the list of students Carl Czerny taught in this Austrian city",
+        "answer": "Vienna",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "This planet orbits the sun every 88 days at a distance of about 36,000,000 miles",
+        "answer": "Mercury",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 400,
+        "question": "About 2/3 of this Boston-based safety razor company's sales are outside the United States",
+        "answer": "Gillette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE LEAGUE OF NATIONS",
+        "value": 400,
+        "question": "The league was headquartered at the Palace of Nations in this European city",
+        "answer": "Geneva",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 600,
+        "question": "This Malaysian capital was founded by Chinese tin miners in 1857",
+        "answer": "Kuala Lumpur",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 600,
+        "question": "Octavius says of this man's suicide, \"The breaking of so great a thing should make a greater crack\"",
+        "answer": "Mark Antony",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 600,
+        "question": "Stravinsky is buried on the island of San Michele in this Italian city",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 600,
+        "question": "Geographically speaking, they're the 2 most famous antipodes on Earth",
+        "answer": "North Pole & South Pole",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 600,
+        "question": "Attempting to create a bookmark for church hymnals, Arthur Fry of 3M invented these sticky \"notes\"",
+        "answer": "Post-it notes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE LEAGUE OF NATIONS",
+        "value": 600,
+        "question": "In 1933 Japan withdrew from the league because its conquest of this Chinese region wasn't recognized",
+        "answer": "Manchuria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 800,
+        "question": "A road rally formerly ran from Paris to this capital of Senegal",
+        "answer": "Dakar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1600,
+        "question": "This play opens on a ship & ends in front of a cell",
+        "answer": "The Tempest",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 800,
+        "question": "Leo Delibes was famous for composing the scores for these; his masterpiece was \"Coppelia\"",
+        "answer": "ballets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 800,
+        "question": "The metamorphic rock pronounced \"nice\" is spelled this way",
+        "answer": "gneiss",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 800,
+        "question": "\"Boss of the Plains\" was the first hat produced by this Philadelphia hatter, in 1865",
+        "answer": "Stetson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE LEAGUE OF NATIONS",
+        "value": 800,
+        "question": "Like the U.N., the league was headed by an official with this title",
+        "answer": "secretary-general",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 1000,
+        "question": "Construction of Islamabad, this country's capital, was started in 1961",
+        "answer": "Pakistan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1000,
+        "question": "To present this comedy set in Verona & Milan, you need a dog to play the role of Crab",
+        "answer": "Two Gentlemen of Verona",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1000,
+        "question": "This \"Eugene Onegin\" composer's brother Modest was an opera librettist",
+        "answer": "Tchaikovsky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1000,
+        "question": "This mild anesthetic is found naturally in the peppermint plant",
+        "answer": "menthol",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 1000,
+        "question": "This Seattle firm leads all others in the U.S. in export sales",
+        "answer": "Boeing Aircraft",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE LEAGUE OF NATIONS",
+        "value": 2000,
+        "question": "From 1920 to 1939 the league helped administer this Polish port city",
+        "answer": "Danzig",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "POETRY",
+    "clue": "About her Tennyson wrote, \"She took the tax away and built herself an everlasting name\"",
+    "answer": "Lady Godiva"
+  },
+  "gameId": "1841",
+  "gameDate": "Monday, September 14, 1992"
+}

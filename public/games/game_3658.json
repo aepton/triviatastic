@@ -1,0 +1,574 @@
+{
+  "title": "Show #6164 - Thursday, June 2, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "THIS ISLAND IS YOUR ISLAND",
+      "FOOTBALL FREE FOR ALL",
+      "LET'S GO SHOPPING",
+      "GOING \"INTERNATIONAL\"",
+      "WORLD LEADER CIA FILES",
+      "MODERN WORDS"
+    ],
+    "clues": [
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 200,
+        "question": "Bolshevik Island",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOTBALL FREE FOR ALL",
+        "value": 200,
+        "question": "First presented in 1935, this bronze college football award weighs 25 pounds",
+        "answer": "the Heisman Trophy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LET'S GO SHOPPING",
+        "value": 200,
+        "question": "Those in the world of finance know JASDAQ, like NASDAQ, is a market for these",
+        "answer": "stocks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GOING \"INTERNATIONAL\"",
+        "value": 200,
+        "question": "It follows \"Washington Dulles\"",
+        "answer": "International Airport",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD LEADER CIA FILES",
+        "value": 200,
+        "question": "Entered Univ. of Havana Law School 1945... became premier 1959... poison?!... shh!...",
+        "answer": "Fidel Castro",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MODERN WORDS",
+        "value": 200,
+        "question": "It's espresso with steamed milk, popularized by Starbucks; today many people don't bother to put \"caffe\" before",
+        "answer": "a latte",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 400,
+        "question": "Cozumel",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOTBALL FREE FOR ALL",
+        "value": 400,
+        "question": "In 1974 this team (not a pod!) of mammals (not fish!) won the Super Bowl (not kidding!)",
+        "answer": "the (Miami) Dolphins",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LET'S GO SHOPPING",
+        "value": 400,
+        "question": "At spectrum auctions, the government sells parts of this 9-letter spectrum",
+        "answer": "broadcast",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GOING \"INTERNATIONAL\"",
+        "value": 400,
+        "question": "It's basically the 180th meridian of longitude",
+        "answer": "the international date line",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD LEADER CIA FILES",
+        "value": 400,
+        "question": "\"The Liberator\"... seized Caracas 1810... lost Caracas... recaptured Caracas 1813... Caracas!...",
+        "answer": "(Simon) Bolivar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MODERN WORDS",
+        "value": 400,
+        "question": "A 5-letter word said once or repeated, it's flashy jewelry worn as an indication of wealth",
+        "answer": "bling",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 600,
+        "question": "Lemnos & Lesbos",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOTBALL FREE FOR ALL",
+        "value": 600,
+        "question": "Founded in 2003, his dream foundation has committed $4.5 million to charity; this QB is a true saint",
+        "answer": "Drew Brees",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LET'S GO SHOPPING",
+        "value": 600,
+        "question": "In 1926 he published his first \"Blue Book of Motor Car Values\"",
+        "answer": "(Les) Kelley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GOING \"INTERNATIONAL\"",
+        "value": 600,
+        "question": "We've got to catch that rogue in his speedboat before he reaches these, another term for the high seas",
+        "answer": "international waters",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD LEADER CIA FILES",
+        "value": 600,
+        "question": "Ran Iran 1941-1979... ran away Jan 16. 1979... ran out of time 1980...",
+        "answer": "the Shah of Iran",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MODERN WORDS",
+        "value": 600,
+        "question": "Alphanumeric name for the most popular of a trio of audio encoding methods released in 1993",
+        "answer": "mp3",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 800,
+        "question": "Ellesmere & Victoria Island",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOTBALL FREE FOR ALL",
+        "value": 800,
+        "question": "Yanking a player down by his shoulder pads from behind is this \"equine\" penalty",
+        "answer": "horse collaring",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LET'S GO SHOPPING",
+        "value": 800,
+        "question": "You're going to a Fasig-Tipton auction if you want to buy one of these 4-legged competitors",
+        "answer": "a racehorse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GOING \"INTERNATIONAL\"",
+        "value": 800,
+        "question": "This measurement used of vitamins isn't a fixed quantity but the amount that produces a biological result",
+        "answer": "an international unit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD LEADER CIA FILES",
+        "value": 800,
+        "question": "Born Dec. 4, 1892 El Ferrol, Spain... made general at 34... extensive death coverage after fact...",
+        "answer": "(Francisco) Franco",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MODERN WORDS",
+        "value": 800,
+        "question": "Acoustic, like some performances; you might have caught Nirvana on the MTV show of the same name",
+        "answer": "unplugged",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 1000,
+        "question": "Sardinia",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOTBALL FREE FOR ALL",
+        "value": 1000,
+        "question": "As coach of the Jets, he has the \"gang green\" defense deal out hard knocks (& enjoy some gosh-darned snacks)",
+        "answer": "(Rex) Ryan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LET'S GO SHOPPING",
+        "value": 1000,
+        "question": "The Dynasty League Auction is where you build your lineup for this activity",
+        "answer": "fantasy baseball",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GOING \"INTERNATIONAL\"",
+        "value": 1000,
+        "question": "Boston university offers an M.A. in global development through this department",
+        "answer": "International Relations",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD LEADER CIA FILES",
+        "value": 1000,
+        "question": "Roman emperor 117-138 A.D.... nephew of Trajan... seriously into walls... yo...",
+        "answer": "Hadrian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MODERN WORDS",
+        "value": 1000,
+        "question": "The OED has citations back to 1994 for this type of urban man who is fastidious about his grooming & fashion",
+        "answer": "a metrosexual",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MARINE BIOLOGY",
+      "MOVIE WAITRESSES",
+      "BRITISH CUISINE",
+      "A BUNCH OF EDVARD MUNCH",
+      "HAIR LINES",
+      "NICE \"PERM\", TREBEK"
+    ],
+    "clues": [
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 400,
+        "question": "Fish that are anadromous migrate from the sea to freshwater rivers to do this",
+        "answer": "spawn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE WAITRESSES",
+        "value": 400,
+        "question": "1970 classic in which Jack Nicholson told Lorna Thayer to hold the chicken...between her knees",
+        "answer": "Five Easy Pieces",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BRITISH CUISINE",
+        "value": 400,
+        "question": "In the U.K., cottage pie generally uses beef, & this similar dish uses lamb",
+        "answer": "shepherd's pie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "A BUNCH OF EDVARD MUNCH",
+        "value": 400,
+        "question": "Edvard Munch was born into a middle-class family in Loten in this country",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HAIR LINES",
+        "value": 400,
+        "question": "This dramatist wrote in one of his many sonnets, \"if hairs be wires, black wires grow on her head\"",
+        "answer": "Shakespeare",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NICE \"PERM\", TREBEK",
+        "value": 400,
+        "question": "Ground that's always frozen in polar regions",
+        "answer": "permafrost",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 800,
+        "question": "The spiny lobster is also named for this object; the redback salamander lives under one",
+        "answer": "a rock",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE WAITRESSES",
+        "value": 800,
+        "question": "In this film Helen Hunt as waitress Carol Connelly makes Jack Nicholson \"want to be a better man\"",
+        "answer": "As Good as it Gets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BRITISH CUISINE",
+        "value": 800,
+        "question": "As Catholicism was banned, Queen Elizabeth tried to outlaw these symbolic rolls",
+        "answer": "hot cross buns",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "A BUNCH OF EDVARD MUNCH",
+        "value": 800,
+        "question": "This 1893 painting was inspired by an experience in which Munch heard an infinite one \"throughout nature\"",
+        "answer": "The Scream",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HAIR LINES",
+        "value": 800,
+        "question": "W.S. Gilbert wrote, \"he uses language that would make your hair\" do this",
+        "answer": "curl",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NICE \"PERM\", TREBEK",
+        "value": 800,
+        "question": "A disposition to allow freedom of choice & behavior",
+        "answer": "permissiveness",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 1200,
+        "question": "(Lindblad National Geographic underwater specialist Lisa trotter delivers the clue from Antarctica.) This shrimp-like crustacean is a major link in the Antarctic food chain; from January to April swarms of them may reach concentrations of 35 lbs. per cubic yard",
+        "answer": "krill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE WAITRESSES",
+        "value": 1200,
+        "question": "As Jenna in \"Waitress\", this \"Felicity\" star served up pies at Joe's Diner",
+        "answer": "(Keri) Russell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BRITISH CUISINE",
+        "value": 1200,
+        "question": "A traditional part of British cuisine is a plate of fish & chips served with mashed these on the side",
+        "answer": "peas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "A BUNCH OF EDVARD MUNCH",
+        "value": 1200,
+        "question": "Munch's painting seen here has this title, just like an 1889 van Gogh masterpiece",
+        "answer": "Starry Night",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HAIR LINES",
+        "value": 1200,
+        "question": "Sara Teasdale: \"when I am dead and over me bright\" this month \"shakes out her rain-drenched hair... I shall not care\"",
+        "answer": "April",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NICE \"PERM\", TREBEK",
+        "value": 1200,
+        "question": "One of the various ways a group of things can be recombined or rearranged",
+        "answer": "a permutation",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 1600,
+        "question": "Off the coast of California, this brown seaweed can grow almost a foot a day",
+        "answer": "kelp",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE WAITRESSES",
+        "value": 1600,
+        "question": "Audrey Tautou won rave reviews for her role as this shy, do-good waitress in a 2001 French film",
+        "answer": "Amelie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BRITISH CUISINE",
+        "value": 1600,
+        "question": "Perhaps at the end of your meal, you'd like to try some caerphilly, sage derby or red Leicester this with some port",
+        "answer": "cheese",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "A BUNCH OF EDVARD MUNCH",
+        "value": 1600,
+        "question": "Munch was one of the pioneers of this art movement, using color & line in a highly personal style to convey emotion",
+        "answer": "expressionism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HAIR LINES",
+        "value": 1600,
+        "question": "His \"Rape of the Lock\" says, \"fair tresses man's imperial race ensnare, and beauty draws us with a single hair\"",
+        "answer": "(Alexander) Pope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NICE \"PERM\", TREBEK",
+        "value": 1600,
+        "question": "A substance that can be pervaded by a liquid is said to have this property",
+        "answer": "permeability",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew delivers the clue from Antarctica.)  Researchers recognize individual whales & follow their migration based on the pattern on the underside of this, each half of the whale's tail",
+        "answer": "the fluke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE WAITRESSES",
+        "value": 2000,
+        "question": "In \"It Could Happen to You\", Nicolas Cage shares more than his lottery winnings with a waitress played by her",
+        "answer": "Bridget Fonda",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BRITISH CUISINE",
+        "value": 2000,
+        "question": "Sausages baked in a Yorkshire pudding-like batter are referred to in England as this reptile \"in the hole\"",
+        "answer": "toad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "A BUNCH OF EDVARD MUNCH",
+        "value": 2000,
+        "question": "Seen here is Munch's portrait of this Swedish playwright of \"Miss Julie\" fame",
+        "answer": "Strindberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HAIR LINES",
+        "value": 2000,
+        "question": "\"Babies haven't any hair; old men's heads are just as bare; between the cradle and the grave lies a haircut and\" this",
+        "answer": "a shave",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NICE \"PERM\", TREBEK",
+        "value": 2000,
+        "question": "This sixth & last period of the Paleozoic era saw the birth of the reptiles",
+        "answer": "permian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE TONY AWARDS",
+    "clue": "There has never been a Tony Award winner for Best Musical set on either of these 2 continents",
+    "answer": "Antarctica & Australia"
+  },
+  "gameId": "6164",
+  "gameDate": "Thursday, June 2, 2011"
+}

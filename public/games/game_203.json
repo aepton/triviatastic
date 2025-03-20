@@ -1,0 +1,574 @@
+{
+  "title": "Show #3128 - Wednesday, March 18, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "SLEEPYHEADS",
+      "EYE ON INDONESIA",
+      "COOKING",
+      "CLICHES",
+      "IF THESE WALLS COULD TALK",
+      "ALL EARS"
+    ],
+    "clues": [
+      {
+        "category": "SLEEPYHEADS",
+        "value": 100,
+        "question": "This Washington Irving character slept through the American Revolution",
+        "answer": "Rip Van Winkle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "EYE ON INDONESIA",
+        "value": 100,
+        "question": "The population of this capital grew approximately 140% between 1975 & 1995, to its present 11 million",
+        "answer": "Jakarta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 100,
+        "question": "This mesh-bottomed cup is used to break up large pieces in confectioner's sugar or flour",
+        "answer": "sifter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CLICHES",
+        "value": 100,
+        "question": "\"Fair and\" this geometric shape means honestly",
+        "answer": "square",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IF THESE WALLS COULD TALK",
+        "value": 100,
+        "question": "Surrounding the statue, my walls are inscribed with quotes like \"with malice toward none\"",
+        "answer": "the Lincoln Memorial",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ALL EARS",
+        "value": 100,
+        "question": "Chew on this: in the \"Bite of the Century\" Mike Tyson bit off a bit of this boxer's ear",
+        "answer": "Evander Holyfield",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SLEEPYHEADS",
+        "value": 200,
+        "question": "The sheep's in the meadow, the cow's in the corn, & he's under the haystack fast asleep",
+        "answer": "Little Boy Blue",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EYE ON INDONESIA",
+        "value": 200,
+        "question": "Term for the skirt worn by Dorothy Lamour on film, or the traditional garb of Indonesians of both sexes",
+        "answer": "sarong",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 200,
+        "question": "People normally top off a bowl of goulash with a dollop of this dairy product",
+        "answer": "sour cream",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CLICHES",
+        "value": 200,
+        "question": "Something that is not unusual is described as \"run of\" this place",
+        "answer": "the mill",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IF THESE WALLS COULD TALK",
+        "value": 200,
+        "question": "Pardon my sensitivity--I may be over 1,500 miles long, but I cannot be seen from the Moon",
+        "answer": "the Great Wall of China",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ALL EARS",
+        "value": 200,
+        "question": "Measuring about 5 feet wide, the ears of the African species of this are the largest of any animal",
+        "answer": "elephant",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SLEEPYHEADS",
+        "value": 300,
+        "question": "This rodent couldn't stay awake through the Mad Hatter's tea party",
+        "answer": "the Dormouse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EYE ON INDONESIA",
+        "value": 300,
+        "question": "Amid a Muslim nation, this island next to Java maintains its Hindu rituals, music & dance",
+        "answer": "Bali",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 300,
+        "question": "This herb's name comes from the latin \"salvus\" meaning \"safe\", not \"wise\"",
+        "answer": "sage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CLICHES",
+        "value": 300,
+        "question": "To stir up trouble you put it \"among the pigeons\"; to give away an ending you let it \"out of the bag\"",
+        "answer": "the cat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IF THESE WALLS COULD TALK",
+        "value": 600,
+        "question": "Look at me.  You can now e-mail a prayer to be placed in my crevices",
+        "answer": "the Wailing Wall (Western Wall)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ALL EARS",
+        "value": 300,
+        "question": "In the '70s she ended her TV variety show by tugging on her ear as a signal to grandma",
+        "answer": "Carol Burnett",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SLEEPYHEADS",
+        "value": 400,
+        "question": "Dorothy, Toto, and the Cowardly Lion fell asleep in a field of these flowers",
+        "answer": "poppies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EYE ON INDONESIA",
+        "value": 400,
+        "question": "A factory in the town of Serang makes over a million sports shoes a month for this U.S. company",
+        "answer": "Nike",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 400,
+        "question": "Ricotta isn't a cheese, it's a cheese by-product made from this liquid drained from cheeses",
+        "answer": "whey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CLICHES",
+        "value": 400,
+        "question": "Similar to \"shape up or ship out\" is \"straighten up and\" do this",
+        "answer": "fly right",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IF THESE WALLS COULD TALK",
+        "value": 400,
+        "question": "Tourists come to see me at Santa Maria Della Grazie because of this mural Leonardo painted on me",
+        "answer": "The Last Supper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ALL EARS",
+        "value": 400,
+        "question": "According to folklore, if your ears are doing this, someone is talking about you",
+        "answer": "burning",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SLEEPYHEADS",
+        "value": 500,
+        "question": "He played a narcoleptic drifter in the 1991 film \"My Own Private Idaho\"",
+        "answer": "River Phoenix",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EYE ON INDONESIA",
+        "value": 500,
+        "question": "This anticommunist general took power from Sukarno in 1966 & has run the country since",
+        "answer": "Suharto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 500,
+        "question": "Term for boiling a sauce to lessen the volume by evaporation, causing it to thicken",
+        "answer": "to reduce",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CLICHES",
+        "value": 500,
+        "question": "From the Dutch \"honk\", meaning \"home\" or \"goal\" comes this phrase for all is A-OK",
+        "answer": "hunky-dory",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IF THESE WALLS COULD TALK",
+        "value": 500,
+        "question": "I'm named for the Roman Emperor who visited Britain around 121 but didn't stick around to see me built",
+        "answer": "Hadrian's Wall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ALL EARS",
+        "value": 500,
+        "question": "An inner ear disorder kept this first American in space from returning to space until 1971",
+        "answer": "Alan B. Shepard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORY",
+      "GENE POOL",
+      "COLLEGES & UNIVERSITIES",
+      "HAMLET",
+      "\"M\" TV",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "The Magna Carta of 1215 & The Stamp Act Protest of 1765 opposed this \"without representation\"",
+        "answer": "taxation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GENE POOL",
+        "value": 200,
+        "question": "It was once said of this singing cowboy: he \"used to ride off into the sunset.  Now he owns it\"",
+        "answer": "Gene Autry",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 200,
+        "question": "Men's teams at Washington & Jefferson College are the Presidents; the women once had this nickname",
+        "answer": "the First Ladies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HAMLET",
+        "value": 200,
+        "question": "Most of the play takes place at Elsinore, in this country",
+        "answer": "Denmark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"M\" TV",
+        "value": 200,
+        "question": "In a \"SNL\" spoof of this kids' show Eddie Murphy said, \"Ooo, look, boys & girls, an eviction notice\"",
+        "answer": "Mr. Rogers' Neighborhood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 200,
+        "question": "Stevenson's two-faced physician/monster who relaxes at FDR's New York Estate",
+        "answer": "Jekyll & Hyde Park",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "The last Abbasid Caliph was killed in 1258 when these Asian warriors sacked Baghdad",
+        "answer": "the Mongols",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GENE POOL",
+        "value": 400,
+        "question": "His movie title roles include Quackser Fortune, Sherlock Holmes' Smarter Brother & Willy Wonka",
+        "answer": "Gene Wilder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 400,
+        "question": "\"I have found it!\"The westernmost college in the lower 48 states is the College of the Redwoods in this California city",
+        "answer": "Eureka",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HAMLET",
+        "value": 400,
+        "question": "In the German version, it's \"Sein, oder nicht sein; das ist die frage\"",
+        "answer": "\"To be or not to be; that is the question\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"M\" TV",
+        "value": 400,
+        "question": "This title character put his webbed hands & feet to work for the Foundation for Oceanic Research",
+        "answer": "The Man from Atlantis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "Citrus drink franchise owned by the conqueror of Gaul",
+        "answer": "Orange Julius Caesar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "In 1929 Amanullah Khan marched on Kabul in an attempt to retake this country from an outlaw leader",
+        "answer": "Afghanistan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GENE POOL",
+        "value": 600,
+        "question": "Chris O'Donnell played this actor's legal eagle grandson in the 1996 film \"The Chamber\"",
+        "answer": "Gene Hackman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 600,
+        "question": "This Rochester, N.Y. businessman's gift allowed MIT to be built",
+        "answer": "(George) Eastman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HAMLET",
+        "value": 600,
+        "question": "Hamlet tells her \"Get thee to a nunnery\", which might have meant a brothel",
+        "answer": "Ophelia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"M\" TV",
+        "value": 1200,
+        "question": "This series' title character worked for the United Network Command for Law & Enforcement",
+        "answer": "The Man from U.N.C.L.E.",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 600,
+        "question": "\"The Bodyguard\" star's troubled message to mission control from Apollo 13",
+        "answer": "Whitney Houston, we have a problem",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "Called by some the Father of Europe, he was crowned Emperor of the Romans December 25, 800",
+        "answer": "Charlemagne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GENE POOL",
+        "value": 800,
+        "question": "When Steve Allen hosted the original \"Tonight\" Show, this \"Match Game\" host was his sidekick",
+        "answer": "Gene Rayburn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 800,
+        "question": "Originally the colors of Syracuse were pea green & pink, but in 1890 this one color was chosen",
+        "answer": "orange",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HAMLET",
+        "value": 800,
+        "question": "Polonius closes his advice to his son with these 6 words, following \"This above all\"",
+        "answer": "\"to thine own self be true\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"M\" TV",
+        "value": 800,
+        "question": "Debuting in 1947 & now hosted by the man seen here, it's network television's oldest program",
+        "answer": "Meet the Press",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 800,
+        "question": "Famous lingerie store's hidden nuclear warhead",
+        "answer": "Victoria's Secret Weapon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 1000,
+        "question": "In June 1812, Napoleon sent this French army to defeat the Russians--didn't work",
+        "answer": "La Grande ArméE (the Grand Army)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GENE POOL",
+        "value": 1000,
+        "question": "Oleg Cassini was once married to this beautiful movie star of the 1940s",
+        "answer": "Gene Tierney",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 1000,
+        "question": "Located in Pyongyang, North Korea's oldest university is named for this late Communist leader",
+        "answer": "Kim Il-sung",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HAMLET",
+        "value": 2000,
+        "question": "It's \"The thing where in I'll catch the conscience of the king\"",
+        "answer": "the play",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"M\" TV",
+        "value": 1000,
+        "question": "It was the original title of the long-running \"Danny Thomas Show\"",
+        "answer": "Make Room for Daddy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1000,
+        "question": "Deformed bellringer who does a pas de deux with Rudolf Nereyev in \"Swan Lake\"",
+        "answer": "the Hunchback of Notre Dame Margot Fonteyn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "20th CENTURY PERSONALITIES",
+    "clue": "The French call him \"Le Roi du Crazy\"",
+    "answer": "Jerry Lewis"
+  },
+  "gameId": "3128",
+  "gameDate": "Wednesday, March 18, 1998"
+}

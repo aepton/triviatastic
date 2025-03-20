@@ -1,0 +1,574 @@
+{
+  "title": "Show #8542 - Tuesday, December 28, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "STREETS OF AMERICA",
+      "TOOLS",
+      "ASHES TO ASHES",
+      "THE \"C\" TEAM",
+      "OLD WORDS",
+      "THE SPACE PROGRAM"
+    ],
+    "clues": [
+      {
+        "category": "STREETS OF AMERICA",
+        "value": 200,
+        "question": "This raucous Big Easy street wasn't named for a liquor, but rather for the ruling French family of the time in 1721",
+        "answer": "Bourbon Street",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TOOLS",
+        "value": 200,
+        "question": "This L-shaped metal wrench with hexagonal ends bears a manufacturing company's name",
+        "answer": "an Allen wrench",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ASHES TO ASHES",
+        "value": 200,
+        "question": "Ash Wednesday, a holy day of repentance & fasting, directly follows this day",
+        "answer": "Mardi Gras",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE \"C\" TEAM",
+        "value": 200,
+        "question": "This team has won 17 NBA titles",
+        "answer": "the Celtics",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OLD WORDS",
+        "value": 200,
+        "question": "Elflock was tangled this, perhaps mussed by mischievous sprites",
+        "answer": "hair",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 200,
+        "question": "This Moon mission after Armstrong's suffered a lightning strike 36 seconds in & all 3 fuel cells in the service module went offline",
+        "answer": "Apollo 12",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STREETS OF AMERICA",
+        "value": 400,
+        "question": "Streets in his hometown of Portland include Van Houten & Flanders; he gave Milhouse & Ned those as surnames",
+        "answer": "Groening",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TOOLS",
+        "value": 400,
+        "question": "Wood or stone can be shaped using a hammer & this metal tool with a beveled edge & a name from Latin for \"cut\"",
+        "answer": "a chisel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ASHES TO ASHES",
+        "value": 400,
+        "question": "Highland, the estate of this fifth president, was formerly called Ash Lawn, due to the trees on the grounds",
+        "answer": "Monroe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE \"C\" TEAM",
+        "value": 400,
+        "question": "They play their home games in Busch Stadium",
+        "answer": "the Cardinals",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OLD WORDS",
+        "value": 400,
+        "question": "A cordwainer made these paired leather items",
+        "answer": "shoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 400,
+        "question": "Celebrating its 30th anniversary with amazing style in 2020, this NASA equipment snapped the cosmic reef seen here",
+        "answer": "the Hubble Space Telescope",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STREETS OF AMERICA",
+        "value": 600,
+        "question": "In Lewes in this state, \"The First Town in the First State\", don't miss the shops & fun of... Second Street",
+        "answer": "Delaware",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TOOLS",
+        "value": 600,
+        "question": "Tin is one type of these metal cutters, also found in a list of what little boys are made of",
+        "answer": "snips",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ASHES TO ASHES",
+        "value": 600,
+        "question": "This memoir by Frank McCourt depicts his life up to the time he was 19, when he left Ireland for America",
+        "answer": "Angela's Ashes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE \"C\" TEAM",
+        "value": 600,
+        "question": "Because of them you'll be seeing red if you're in Lincoln, Nebraska on a fall Saturday",
+        "answer": "the Cornhuskers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OLD WORDS",
+        "value": 600,
+        "question": "An expergefactor was someone or something that did this to you, like a rooster",
+        "answer": "woke you up",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 600,
+        "question": "The 2-person capsule used in this followup program to Mercury flew on a Titan II rocket that was first designed as a missile",
+        "answer": "Gemini",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STREETS OF AMERICA",
+        "value": 800,
+        "question": "Sixth Street in this Texas city keeps things weird with places like Lazarus Brewing, started by a pastor who loves beer",
+        "answer": "Austin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TOOLS",
+        "value": 800,
+        "question": "The bolted-in bench type of this clamp that holds an object in place is often used in metalworking",
+        "answer": "a vise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ASHES TO ASHES",
+        "value": 800,
+        "question": "Makes sense that this ingredient in fertilizer was originally made by putting wood ashes in a vessel",
+        "answer": "potash",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE \"C\" TEAM",
+        "value": 800,
+        "question": "They represent D.C. in the NHL",
+        "answer": "the Capitals",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OLD WORDS",
+        "value": 800,
+        "question": "A gossip was one of these, a sponsor at a child's baptism",
+        "answer": "a godparent",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 800,
+        "question": "We've got this Mars rover that landed in Gusev crater on Jan. 3, 2004, yes we do! We've got this Mars rover, how 'bout you?",
+        "answer": "Spirit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STREETS OF AMERICA",
+        "value": 1000,
+        "question": "Beale Street in this city has historically served as a magnet for blues musicians",
+        "answer": "Memphis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TOOLS",
+        "value": 1000,
+        "question": "It can be the weight used to determine that a line is vertical, or the quality of being vertical itself",
+        "answer": "plumb",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ASHES TO ASHES",
+        "value": 1000,
+        "question": "\"Ashes\" is an 1895 work by this Norwegian painter who often dealt with intense emotional themes",
+        "answer": "(Edvard) Munch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE \"C\" TEAM",
+        "value": 1000,
+        "question": "The coach of this Columbus MLS team hopes they don't mutiny",
+        "answer": "the Crew",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OLD WORDS",
+        "value": 1000,
+        "question": "To be pot valiant was to be brave when in this condition",
+        "answer": "drunk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 1000,
+        "question": "It was \"Mae\" in September 1992 when she became the first African-American woman in space onboard the Endeavour",
+        "answer": "(Mae) Jemison",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ASIAN HISTORY",
+      "2-WORD BOOK TITLES",
+      "MY GOVERNMENT JOB",
+      "YOU NEED A VITAMIN BOOST",
+      "THAT'S BOGUS",
+      "THE SPACE PROGRAM"
+    ],
+    "clues": [
+      {
+        "category": "ASIAN HISTORY",
+        "value": 400,
+        "question": "In 1620 the 2nd Tokugawa shogun cemented his power by marrying his daughter off to the guy with this important title",
+        "answer": "emperor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "2-WORD BOOK TITLES",
+        "value": 400,
+        "question": "This 1850 book was pure magic & Dickens' \"favourite child\"",
+        "answer": "David Copperfield",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MY GOVERNMENT JOB",
+        "value": 400,
+        "question": "Jesse Ventura, wrestling with politics from 1999 to 2003",
+        "answer": "governor of Minnesota",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "YOU NEED A VITAMIN BOOST",
+        "value": 400,
+        "question": "Ghosts of pirates said a collective \"Arrr, too late\" after vitamin C was identified as a cure for this disease in 1932",
+        "answer": "scurvy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THAT'S BOGUS",
+        "value": 400,
+        "question": "A trick, or an ornamental cushion covering",
+        "answer": "a sham",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 400,
+        "question": "Pedro Pascal made the removal of his helmet a major moment in this show, but hey, \"This is the Way\"",
+        "answer": "The Mandalorian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ASIAN HISTORY",
+        "value": 800,
+        "question": "Into the 20th century, Uzbekistan had rulers with this title reminiscent of the Mongols; the Soviets finally got rid of them",
+        "answer": "khan",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "2-WORD BOOK TITLES",
+        "value": 800,
+        "question": "This 1936 novel was pure Faulkner, Faulkner!",
+        "answer": "Absalom, Absalom!",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MY GOVERNMENT JOB",
+        "value": 800,
+        "question": "Future world leader Boris Johnson, from 2008 to 2016",
+        "answer": "mayor of London",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "YOU NEED A VITAMIN BOOST",
+        "value": 800,
+        "question": "Night blindness may result from a lack of this vitamin that helps to activate rhodopsin, which aids in maintaining light sensitivity",
+        "answer": "vitamin A",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THAT'S BOGUS",
+        "value": 800,
+        "question": "This word for an act of deception is thought to be an alteration of part of a conjuror's rhyming phrase",
+        "answer": "a hoax",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 800,
+        "question": "James Doohan, who played this role on \"Star Trek\", was wounded in multiple places on D-Day; one bullet took off his right middle finger",
+        "answer": "Scotty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ASIAN HISTORY",
+        "value": 1200,
+        "question": "In the 1960s, many Indian farmers transitioned for a mix of crops to high-yield wheat as part of this colorful revolution",
+        "answer": "the Green Revolution",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "2-WORD BOOK TITLES",
+        "value": 1200,
+        "question": "This Thackeray book arrived in 1848; the first version of what is now the same-named magazine, 11 years later",
+        "answer": "Vanity Fair",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MY GOVERNMENT JOB",
+        "value": 1200,
+        "question": "\"Law & Order\" man Fred Dalton Thompson, from 1994 to 2003",
+        "answer": "U.S. senator",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "YOU NEED A VITAMIN BOOST",
+        "value": 1200,
+        "question": "A thiamin deficiency can lead to thisthis, a disease whose name derives from Sinhalese for \"extreme weakness\"",
+        "answer": "beriberi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THAT'S BOGUS",
+        "value": 1200,
+        "question": "German for \"substitute\" , it's an inferior imitation, as of food that's in short supply",
+        "answer": "ersatz",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 1200,
+        "question": "After sending Bender home on this show, a God-like being says, \"When you do things right, people won't be sure you've done anything at all\"",
+        "answer": "Futurama",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ASIAN HISTORY",
+        "value": 1600,
+        "question": "The Javanese Wars of Succession involved local potentates & this Dutch entity the Javanese called \"Kumpeni\"",
+        "answer": "the Dutch East India Company",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "2-WORD BOOK TITLES",
+        "value": 1600,
+        "question": "Published in the U.S. in 1962, this William S. Burroughs \"meal\" was not easily digested by some",
+        "answer": "Naked Lunch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MY GOVERNMENT JOB",
+        "value": 1600,
+        "question": "Celebrity in his own right if only for his facial hair, C. Everett Koop, from 1982 to 1989",
+        "answer": "U.S. surgeon general",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "YOU NEED A VITAMIN BOOST",
+        "value": 1600,
+        "question": "Take your B6 to avoid microcytic this, where red blood cells are smaller than normal",
+        "answer": "anemia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THAT'S BOGUS",
+        "value": 1600,
+        "question": "This word for a fake once meant the craft of metalmaking",
+        "answer": "a forgery",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 1600,
+        "question": "Let's not frak around; Lorne Greene & Edward James Olmos led this title ship, but not at the same time",
+        "answer": "Battlestar Galactica",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ASIAN HISTORY",
+        "value": 2000,
+        "question": "Today the victims of persecution in China, this Muslim group had a Central Asian empire from about 750 to 850 A.D.",
+        "answer": "the Uyghurs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "2-WORD BOOK TITLES",
+        "value": 2000,
+        "question": "V-2 rockets play a crucial role in this \"colorful\", award-winning Pynchon novel",
+        "answer": "Gravity's Rainbow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MY GOVERNMENT JOB",
+        "value": 2000,
+        "question": "Political patriarch Joseph P. Kennedy, from 1938 to 1940",
+        "answer": "ambassador to the U.K.",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "YOU NEED A VITAMIN BOOST",
+        "value": 2000,
+        "question": "Usually from a lack of vitamin D, the disease that softens bones in children is called this; for adults, it's osteomalacia",
+        "answer": "rickets",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THAT'S BOGUS",
+        "value": 2000,
+        "question": "The first part of this fancy 13-letter word for a lie derives from Latin for \"before\"",
+        "answer": "prevarication",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE SPACE PROGRAM",
+        "value": 2000,
+        "question": "Will Robinson was once again in danger in the 2018 reboot of this show, with the appropriately named Brian Steele as the robot",
+        "answer": "Lost in Space",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EUROPEAN RIVERS",
+    "clue": "The flooding of this river in 1966 destroyed or damaged some 14,000 works of art, many of them priceless",
+    "answer": "the Arno"
+  },
+  "gameId": "8542",
+  "gameDate": "Tuesday, December 28, 2021"
+}

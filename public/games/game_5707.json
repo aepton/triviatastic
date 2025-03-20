@@ -1,0 +1,574 @@
+{
+  "title": "Show #7563 - Wednesday, June 28, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "PORTUGUESE HISTORY",
+      "BAGELS",
+      "MOOD MUSIC",
+      "5 OF 7 DEADLY SINS, IN SOME FORM",
+      "PAINTINGS",
+      "SURPRISE!"
+    ],
+    "clues": [
+      {
+        "category": "PORTUGUESE HISTORY",
+        "value": 200,
+        "question": "The Treaty of Tordesillas signed by Portugal & Spain dealt with discoveries by this man not born in either country",
+        "answer": "Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BAGELS",
+        "value": 200,
+        "question": "Dunkin' Donuts also sells bagels, including sesame & this other kind named for seeds",
+        "answer": "poppyseed",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MOOD MUSIC",
+        "value": 200,
+        "question": "One-word title of a 2014 Pharrell Williams No. 1 hit",
+        "answer": "\"Happy\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "5 OF 7 DEADLY SINS, IN SOME FORM",
+        "value": 200,
+        "question": "It's the Hulk-triggering sin",
+        "answer": "rage (or anger)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PAINTINGS",
+        "value": 200,
+        "question": "In the Caravaggio painting, this Biblical youth is about to be sacrificed",
+        "answer": "Isaac",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SURPRISE!",
+        "value": 200,
+        "question": "A striking disclosure, or the final book of the New Testament; it should come as a...",
+        "answer": "revelation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PORTUGUESE HISTORY",
+        "value": 400,
+        "question": "Threatened by Napoleon, the Portuguese royal family fled to this colonial capital & stayed there for 13 years",
+        "answer": "Rio de Janeiro",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BAGELS",
+        "value": 400,
+        "question": "February 9 is the official day to put this cured orange delicacy on a bagel",
+        "answer": "lox (or smoked salmon)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MOOD MUSIC",
+        "value": 400,
+        "question": "Kind of \"Symphony\" in the title of a 1998 hit by The Verve",
+        "answer": "bittersweet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "5 OF 7 DEADLY SINS, IN SOME FORM",
+        "value": 400,
+        "question": "Jealousy's cousin, this sin is often associated with the color green",
+        "answer": "envy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PAINTINGS",
+        "value": 400,
+        "question": "The centerpiece of the Rijksmuseum is this painting misnamed after varnish & years of dirt darkened the piece",
+        "answer": "The Night Watch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SURPRISE!",
+        "value": 400,
+        "question": "We've found it! It being this exclamation of finding something, perhaps its namesake California city",
+        "answer": "Eureka",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PORTUGUESE HISTORY",
+        "value": 600,
+        "question": "The Visigoths were kicked out of the Iberian Peninsula by the Umayyads, one of the first great dynasties of this religion",
+        "answer": "Islam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BAGELS",
+        "value": 600,
+        "question": "After the dough is made & shaped, this happens to the bagels before they are baked, unusual among bread products",
+        "answer": "boiling",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MOOD MUSIC",
+        "value": 600,
+        "question": "In 1982 The Pointer Sisters were fired up: \"I'm So ____\"",
+        "answer": "excited",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "5 OF 7 DEADLY SINS, IN SOME FORM",
+        "value": 600,
+        "question": "Jimmy Carter said, \"I've looked on a lot of women with\" this 4-letter sin",
+        "answer": "lust",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PAINTINGS",
+        "value": 600,
+        "question": "His Wheatfield with Crows was painted in 1890, the last year of his life",
+        "answer": "Van Gogh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SURPRISE!",
+        "value": 600,
+        "question": "Proverbially, this type of pitch mastered by Bert Blyleven is a deceptive trick",
+        "answer": "a curveball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PORTUGUESE HISTORY",
+        "value": 800,
+        "question": "In the Protocol of Lisbon, China recognized Portugal's sovereignty over this territory--for a while",
+        "answer": "Macau",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BAGELS",
+        "value": 800,
+        "question": "This brand sold the first packaged bagels in a supermarket; it also gave us the first frozen bagels",
+        "answer": "Lender's",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MOOD MUSIC",
+        "value": 800,
+        "question": "The Clash were full of ennui: \"I'm So ____ With The U.S.A.\"",
+        "answer": "bored",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "5 OF 7 DEADLY SINS, IN SOME FORM",
+        "value": 800,
+        "question": "Let's see...I'll have 10 lobsters, 22 bottles of wine, 13 funnel cakes & a huge bill on my card because of this deadly sin",
+        "answer": "gluttony",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PAINTINGS",
+        "value": 800,
+        "question": "In this 1942 painting Edward Hopper modeled the face of the redhead at the counter after his wife",
+        "answer": "the Nighthawks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SURPRISE!",
+        "value": 800,
+        "question": "It can mean a sudden burst of electricity & it rhymes with an electrical unit of measure",
+        "answer": "a jolt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PORTUGUESE HISTORY",
+        "value": 1000,
+        "question": "In 1437 this Portuguese prince navigated his way over to Tangier to take it over, but things didn't work out",
+        "answer": "Henry the Navigator",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BAGELS",
+        "value": 1000,
+        "question": "The cream cheese practically spreads itself if it's this, from the Yiddish for \"grease\"",
+        "answer": "schmear",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MOOD MUSIC",
+        "value": 1000,
+        "question": "In 2013 Lana Del Rey suffered from seasonal affective disorder with \"Summertime\" this feeling",
+        "answer": "sadness",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "5 OF 7 DEADLY SINS, IN SOME FORM",
+        "value": 1000,
+        "question": "Proverbially, it \"goeth before a fall\" & currently, it goeth in your response",
+        "answer": "pride",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PAINTINGS",
+        "value": 1000,
+        "question": "An art magazine once offered $10 to the first reader who could find the lady in his \"Nude Descending a Staircase\"",
+        "answer": "(Marcel) Duchamp",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SURPRISE!",
+        "value": 1000,
+        "question": "It can be an experience resulting in a sudden realization & also an early A.M. drink of liquor",
+        "answer": "an eye-opener",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HE PLAYED CHURCHILL",
+      "BAD-WORLD BOOKSHELF",
+      "NEWER WORDS & PHRASES",
+      "AFRICAN AMERICANS",
+      "BODIES OF WATER",
+      "\"X\" NOUNS"
+    ],
+    "clues": [
+      {
+        "category": "HE PLAYED CHURCHILL",
+        "value": 400,
+        "question": "John Lithgow played Winston in this Netflix series",
+        "answer": "The Crown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BAD-WORLD BOOKSHELF",
+        "value": 400,
+        "question": "Astronauts land on another world where humans are savages & chimps are civilized",
+        "answer": "Planet of the Apes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NEWER WORDS & PHRASES",
+        "value": 400,
+        "question": "Mayors have declared Chicago & S.F. to be these, which won't help the feds enforce immigration law",
+        "answer": "sanctuary cities",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN AMERICANS",
+        "value": 400,
+        "question": "In 1964 he embraced Sunni Islam & changed his name (again) to El-Hajj Malik El-Shabazz",
+        "answer": "Malcolm X",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 400,
+        "question": "At more than 300,000 square miles, this body of water is one of the largest named for a real person",
+        "answer": "Hudson's Bay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"X\" NOUNS",
+        "value": 400,
+        "question": "This video game console was released in 2001",
+        "answer": "the Xbox",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HE PLAYED CHURCHILL",
+        "value": 800,
+        "question": "In \"The King's Speech\" Timothy Spall was Churchill to his George VI",
+        "answer": "Colin Firth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BAD-WORLD BOOKSHELF",
+        "value": 800,
+        "question": "In the far-distant future, the Morlocks prey upon the Eloi",
+        "answer": "The Time Machine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NEWER WORDS & PHRASES",
+        "value": 800,
+        "question": "Singing this folk & summer camp tune has become a sarcastic phrase for a veneer of brotherhood & co-operation",
+        "answer": "\"Kumbaya\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN AMERICANS",
+        "value": 800,
+        "question": "(I'm D.C. mayor Muriel Bowser.) On January 2, 1975 Walter Washington became D.C.'s first elected mayor in a century as he was sworn in by this fellow Howard University alumnus",
+        "answer": "Thurgood Marshall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 800,
+        "question": "It rises near Moscow & flows 2,300 miles south",
+        "answer": "the Volga",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"X\" NOUNS",
+        "value": 800,
+        "question": "\"Managing an anxiety disorder can be difficult\", says the website for this drug from Pfizer",
+        "answer": "Xanax",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HE PLAYED CHURCHILL",
+        "value": 1200,
+        "question": "The Time Lord on this series encountered Ian McNeice as Churchill",
+        "answer": "Doctor Who",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BAD-WORLD BOOKSHELF",
+        "value": 1200,
+        "question": "A city is hit by an epidemic of sight loss & the afflicted are confined to an empty hospital",
+        "answer": "Blindness",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NEWER WORDS & PHRASES",
+        "value": 1200,
+        "question": "In 2007 Nathan Rabin coined this phrase, MPDG for short, to describe Kirsten Dunst in \"Elizabethtown\"",
+        "answer": "manic pixie dream girl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN AMERICANS",
+        "value": 1200,
+        "question": "Serving under George W. Bush, this soldier was the first person of Jamaican descent in the Cabinet",
+        "answer": "(Colin) Powell",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 1200,
+        "question": "The 100-mile-wide Yucatan Channel connects the Caribbean Sea to this body of water to the northwest",
+        "answer": "the Gulf of Mexico",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"X\" NOUNS",
+        "value": 1200,
+        "question": "This great guy titled himself \"King of Persia & Media\"",
+        "answer": "Xerxes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HE PLAYED CHURCHILL",
+        "value": 1600,
+        "question": "He was married to Liz Taylor twice & he played Churchill twice",
+        "answer": "Richard Burton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BAD-WORLD BOOKSHELF",
+        "value": 1600,
+        "question": "Only women survive a mysterious plague except for Yorick Brown & his monkey Ampersand",
+        "answer": "Y: The Last Man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NEWER WORDS & PHRASES",
+        "value": 1600,
+        "question": "Coined in 1970 but big in the 20-teens, \"micro\" this refers to casual remarks that make minority folks feel bad",
+        "answer": "microaggressions",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN AMERICANS",
+        "value": 1600,
+        "question": "(I'm Melissa Harris-Perry.) My book \"Barbershops, Bibles & BET\" won a 2005 National Conference of Black Political Scientist Award named for this sociologist who helped create the NAACP in 1909",
+        "answer": "(W.E.B.) Du Bois",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 1600,
+        "question": "This Turkish strait that separates Europe from Asia takes its name from the ancient Greek for \"cattle passage\"",
+        "answer": "the Bosporous",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"X\" NOUNS",
+        "value": 1600,
+        "question": "It's the second word of Coleridge's poem \"Kubla Khan\"",
+        "answer": "Xanadu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HE PLAYED CHURCHILL",
+        "value": 2000,
+        "question": "Rod Taylor was Winnie in this Tarantino film",
+        "answer": "Inglorious Basterds",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BAD-WORLD BOOKSHELF",
+        "value": 2000,
+        "question": "The maximum age is 21 & don't try to get away",
+        "answer": "Logan's Run",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NEWER WORDS & PHRASES",
+        "value": 2000,
+        "question": "2 body parts are joined in this expression & gesture meaning \"oh no!\"",
+        "answer": "facepalming",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN AMERICANS",
+        "value": 2000,
+        "question": "This trumpeter's classic albums include \"Kind of Blue\" & \"Sketches of Spain\"",
+        "answer": "Miles Davis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 2000,
+        "question": "A spot on this river whose name is Spanish for \"arms\" is remembered as the birthplace of the Texas Republic",
+        "answer": "Brazos",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"X\" NOUNS",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew shows three jars of flowers.) Put a white flower in water that has dye in it to see how minerals and water travel up from the roots to the petals, via this vascular tissue",
+        "answer": "xylem",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ENTREPRENEURS",
+    "clue": "In the 1960s M.T. Lott was one of the fictitious names he used to buy 27,000 acres in Florida",
+    "answer": "Walt Disney"
+  },
+  "gameId": "7563",
+  "gameDate": "Wednesday, June 28, 2017"
+}

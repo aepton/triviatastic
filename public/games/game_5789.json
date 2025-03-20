@@ -1,0 +1,574 @@
+{
+  "title": "Show #7599 - Thursday, September 28, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "LET'S PLAY CHESS",
+      "CLASSIC MOVIE LINES",
+      "IPOs",
+      "FROM \"S\" TO \"T\"",
+      "DEEP UNDERGROUND",
+      "HIGH ABOVE THE EARTH"
+    ],
+    "clues": [
+      {
+        "category": "LET'S PLAY CHESS",
+        "value": 200,
+        "question": "It's the only piece that can be promoted to one of greater value",
+        "answer": "a pawn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC MOVIE LINES",
+        "value": 200,
+        "question": "\"You talkin' to me?\"",
+        "answer": "Taxi Driver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IPOs",
+        "value": 200,
+        "question": "This tech co. didn't get as many likes as it wanted after raising $16 billion for its 2012 IPO but it returned 105% within 2 years",
+        "answer": "Facebook",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FROM \"S\" TO \"T\"",
+        "value": 200,
+        "question": "This noncommissioned officer ranks just above a corporal in the Marine Corps",
+        "answer": "sergeant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DEEP UNDERGROUND",
+        "value": 200,
+        "question": "(Kelly of the Clue Crew shows a fault on the monitor.) The sliding of two sides along a fault in the surface of the global crust causes these events",
+        "answer": "earthquakes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HIGH ABOVE THE EARTH",
+        "value": 200,
+        "question": "14,410 feet southeast of Tacoma",
+        "answer": "Mount Rainier",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LET'S PLAY CHESS",
+        "value": 400,
+        "question": "If an identical position occurs 3 times in a game, a player may claim this result, then go kiss his sister",
+        "answer": "a draw",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC MOVIE LINES",
+        "value": 400,
+        "question": "\"I see dead people\"",
+        "answer": "The Sixth Sense",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IPOs",
+        "value": 400,
+        "question": "Filing for bankruptcy in 2009? No prob for this automaker, which raised $20.1 billion in a 2010 IPO",
+        "answer": "General Motors",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FROM \"S\" TO \"T\"",
+        "value": 400,
+        "question": "This vacant outdoor space is used by children for unorganized games & sports such as baseball",
+        "answer": "a sandlot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DEEP UNDERGROUND",
+        "value": 400,
+        "question": "It's the most abundant element in Earth's core",
+        "answer": "iron",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HIGH ABOVE THE EARTH",
+        "value": 400,
+        "question": "28,251 feet in the Karakoram",
+        "answer": "K2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LET'S PLAY CHESS",
+        "value": 600,
+        "question": "A tactic via which one piece attacks 2 opposing ones is called this, like a common dining utensil",
+        "answer": "a fork",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC MOVIE LINES",
+        "value": 600,
+        "question": "\"I happen to have Mr. McLuhan right here\"",
+        "answer": "Annie Hall",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IPOs",
+        "value": 600,
+        "question": "A $731 million IPO in 2015 got this rhymingly named wearable fitness company in tremendous shape",
+        "answer": "Fitbit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FROM \"S\" TO \"T\"",
+        "value": 600,
+        "question": "Antonio Guterres is currently the head of this main organ of the United Nations",
+        "answer": "the Secretariat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DEEP UNDERGROUND",
+        "value": 600,
+        "question": "Some of the deepest mines like the Savuka & Driefontein are used to look for gold in this country",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HIGH ABOVE THE EARTH",
+        "value": 600,
+        "question": "Remeasured by the USGS in 2016 at 20,310 feet",
+        "answer": "Denali (or Mount McKinley)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LET'S PLAY CHESS",
+        "value": 800,
+        "question": "Trading a knight or bishop for one of these more valuable pieces is known as winning the exchange",
+        "answer": "a rook",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC MOVIE LINES",
+        "value": 800,
+        "question": "\"You want answers?! ...You want answers?! ...You can't handle the truth!\"",
+        "answer": "A Few Good Men",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IPOs",
+        "value": 800,
+        "question": "Drop the last 4 letters from the name of the app to get this company, the big IPO story of March 2017",
+        "answer": "Snap Inc.",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FROM \"S\" TO \"T\"",
+        "value": 800,
+        "question": "In this form of trapshooting, clay targets simulate birds in flight",
+        "answer": "skeet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DEEP UNDERGROUND",
+        "value": 800,
+        "question": "The cave seen here & its rough stalactites were formed as the result of the solidification of this",
+        "answer": "lava",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HIGH ABOVE THE EARTH",
+        "value": 800,
+        "question": "14,692 feet between Switzerland & Italy",
+        "answer": "the Matterhorn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LET'S PLAY CHESS",
+        "value": 1000,
+        "question": "Descriptive notation like P-Q4 has been largely replaced by this \"mathematical\" kind, which would say simply d4",
+        "answer": "an algebraic term",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC MOVIE LINES",
+        "value": 1000,
+        "question": "\"Why worry? Each of us is wearing an unlicensed nuclear accelerator on his back\"",
+        "answer": "Ghostbusters",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IPOs",
+        "value": 1000,
+        "question": "The one of the 3 main consumer credit reporting bureaus that does not begin with \"E\", it raised $664 million in 2015",
+        "answer": "TransUnion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FROM \"S\" TO \"T\"",
+        "value": 1000,
+        "question": "A sleepwalker",
+        "answer": "a somnambulist",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DEEP UNDERGROUND",
+        "value": 1000,
+        "question": "Warming trends in Siberia have caused the springing up of tiny hills filled with marsh gas, mainly this deadly stuff",
+        "answer": "methane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HIGH ABOVE THE EARTH",
+        "value": 1000,
+        "question": "7,494 feet, the Inuit symbol seen here on Blackcomb Mountain at this British Columbia ski resort",
+        "answer": "Whistler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "COUNTY SEATS",
+      "CIVIL WAR PEOPLE",
+      "WAYS TO SAY YOU'RE SORRY",
+      "ABSURDIST LIT",
+      "GOING 24/7/365",
+      "\"WORLD\" OF ENTERTAINMENT"
+    ],
+    "clues": [
+      {
+        "category": "COUNTY SEATS",
+        "value": 400,
+        "question": "Take a seat in the Wrigley Field dugout & you're in this county",
+        "answer": "Cook",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CIVIL WAR PEOPLE",
+        "value": 400,
+        "question": "On the morning of April 15, 1865 Dr. Samuel Mudd set this man's broken leg",
+        "answer": "John Wilkes Booth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WAYS TO SAY YOU'RE SORRY",
+        "value": 400,
+        "question": "Proverbially, you \"make\" these to apologize for an insult",
+        "answer": "amends",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ABSURDIST LIT",
+        "value": 400,
+        "question": "\"The Restaurant at the End of the Universe\" is part of this Douglas Adams book series",
+        "answer": "The Hitchhiker's Guide to the Galaxy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GOING 24/7/365",
+        "value": 400,
+        "question": "In geometry, it's a plane figure with 7 sides & 7 angles & despite what you may be thinking, it does not begin with \"S\"",
+        "answer": "a heptagon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"WORLD\" OF ENTERTAINMENT",
+        "value": 400,
+        "question": "What could go wrong at a park with genetically engineered hybrid dinosaurs? Everything, says this 2015 film",
+        "answer": "Jurassic World",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUNTY SEATS",
+        "value": 800,
+        "question": "The Stickley Museum in Onondaga County, NY. has an outsize chair made for this Tibetan holy man to sit in cross-legged",
+        "answer": "the Dalai Lama",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CIVIL WAR PEOPLE",
+        "value": 800,
+        "question": "This super-nurse & her supply wagons gave aid to Union casualties & Confederate prisoners",
+        "answer": "Clara Barton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WAYS TO SAY YOU'RE SORRY",
+        "value": 800,
+        "question": "In French it means \"street\" & in English, to feel sorrow over something",
+        "answer": "rue",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ABSURDIST LIT",
+        "value": 800,
+        "question": "Reality & illusion merge in this play that delves into the lives of 2 minor characters in \"Hamlet\"",
+        "answer": "Rosencrantz and Guildenstern are Dead",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GOING 24/7/365",
+        "value": 800,
+        "question": "A nursery rhyme tells of 24 of these European thrushes miraculously surviving a brush with pie",
+        "answer": "blackbirds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"WORLD\" OF ENTERTAINMENT",
+        "value": 800,
+        "question": "This song aka \"Aladdin's Theme\" was a No. 1 hit",
+        "answer": "\"A Whole New World\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUNTY SEATS",
+        "value": 1200,
+        "question": "19th century toilets are part of the collection of Watertown's Plumbing Museum in this state's Middlesex County",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CIVIL WAR PEOPLE",
+        "value": 1200,
+        "question": "This preacher, the brother of author Harriet, gave an oration at the raising of the flag over Fort Sumter at war's end",
+        "answer": "Henry Ward Beecher",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WAYS TO SAY YOU'RE SORRY",
+        "value": 1200,
+        "question": "Singularly, it means to feel remorse for; add an \"S\" to politely refuse an invite",
+        "answer": "regret or regrets",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ABSURDIST LIT",
+        "value": 1200,
+        "question": "Only a few of the works of this Czech author of \"The Castle\" were published while he was alive",
+        "answer": "Kafka",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GOING 24/7/365",
+        "value": 1200,
+        "question": "This Trader Joe's rival has a 365 value brand",
+        "answer": "Whole Foods",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"WORLD\" OF ENTERTAINMENT",
+        "value": 1200,
+        "question": "This anthology of athleticism ran on ABC from 1961 to 1998",
+        "answer": "the Wide World of Sports",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUNTY SEATS",
+        "value": 1600,
+        "question": "Cornelius Vanderbilt's rustic rocking chair is in the museum named for this other rich guy in Wayne County, Michigan",
+        "answer": "(Henry) Ford",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CIVIL WAR PEOPLE",
+        "value": 1600,
+        "question": "Asked why the Confederates lost Gettysburg, he \"charge\"d, \"The Yankees had something to do with it\"",
+        "answer": "(George) Pickett",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WAYS TO SAY YOU'RE SORRY",
+        "value": 1600,
+        "question": "This 8-letter synonym for sorry has its pros but now--specifically--its \"con\"s",
+        "answer": "contrite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ABSURDIST LIT",
+        "value": 1600,
+        "question": "Tyrone's love life weirdly corresponds with V-2 rocket attacks in this author's \"Gravity's Rainbow\"",
+        "answer": "(Thomas) Pynchon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GOING 24/7/365",
+        "value": 1600,
+        "question": "After Bobby Seale got a separate trial, the group including Jerry Rubin & Abbie Hoffman got renamed this",
+        "answer": "the Chicago Seven",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"WORLD\" OF ENTERTAINMENT",
+        "value": 1600,
+        "question": "It just takes some time but everything will be just fine if you name this emo band that sang \"The Middle\"",
+        "answer": "Jimmy Eat World",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUNTY SEATS",
+        "value": 2000,
+        "question": "The House seat for Henderson County, N.C. is held by Mark Meadows, in 2017 news as chair of this conservative caucus",
+        "answer": "the Freedom Caucus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CIVIL WAR PEOPLE",
+        "value": 2000,
+        "question": "In 1861 this future general received a commission in the Army from his brother John, a senator known for his anti-trust act",
+        "answer": "William Tecumseh Sherman",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WAYS TO SAY YOU'RE SORRY",
+        "value": 2000,
+        "question": "Ian McEwan novel set in the Second World War era",
+        "answer": "Atonement",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ABSURDIST LIT",
+        "value": 2000,
+        "question": "A line in this French author's \"Myth of Sisyphus\", saying human life is absurd, gave the movement its name",
+        "answer": "Camus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GOING 24/7/365",
+        "value": 2000,
+        "question": "The 24th Amendment says the right of U.S. citizens to vote \"shall not be denied... by reason of failure to pay\" this specific tax",
+        "answer": "a poll tax",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"WORLD\" OF ENTERTAINMENT",
+        "value": 2000,
+        "question": "Kate Beckinsale plays a vampire warrioress named Selene in this epic saga",
+        "answer": "Underworld",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE NORTHEASTERN U.S.",
+    "clue": "Once its own city, it joined with a neighbor in 1898; today on its own it would be the 4th most populous city in the U.S.",
+    "answer": "Brooklyn, New York"
+  },
+  "gameId": "7599",
+  "gameDate": "Thursday, September 28, 2017"
+}

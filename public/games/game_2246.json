@@ -1,0 +1,556 @@
+{
+  "title": "Show #3762 - Tuesday, January 2, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "BRITISH AUTHORS",
+      "NAME THAT TOON",
+      "BODIES IN WATER",
+      "LAST NAME'S THE SAME",
+      "THERE'S NO PLACE LIKE ROME",
+      "FOR THE \"HOLLY\" DAYS"
+    ],
+    "clues": [
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 100,
+        "question": "While grading school papers, he came up with the line \"In a hole in the ground there lived a hobbit\"",
+        "answer": "J.R.R. Tolkien",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NAME THAT TOON",
+        "value": 100,
+        "question": "Because his view of Venus is obstructed, this Martian is going to blow up the Earth",
+        "answer": "Marvin the Martian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BODIES IN WATER",
+        "value": 100,
+        "question": "Oceanographer James Snodgrass invented a gnathodynamometer to measure the force of this creature's bite",
+        "answer": "Great white shark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 100,
+        "question": "Bonnie, Sir John,Aretha",
+        "answer": "Franklin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THERE'S NO PLACE LIKE ROME",
+        "value": 100,
+        "question": "Found in northwest Rome, it's Europe's largest Christian church",
+        "answer": "St. Peter's Basilica",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FOR THE \"HOLLY\" DAYS",
+        "value": 100,
+        "question": "A district of L.A., it's considered the movie capital of the world",
+        "answer": "Hollywood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 200,
+        "question": "Big Brother could tell you his real name was Eric Arthur Blair",
+        "answer": "George Orwell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NAME THAT TOON",
+        "value": 200,
+        "question": "These 2 Disney chipmunks make life difficult for Donald Duck",
+        "answer": "Chip & Dale",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BODIES IN WATER",
+        "value": 200,
+        "question": "The fin type, the second-largest species of this, can be 80 feet long & travel at ocean liner speed",
+        "answer": "Whale",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 200,
+        "question": "Irene,Meg,Nolan",
+        "answer": "Ryan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THERE'S NO PLACE LIKE ROME",
+        "value": 200,
+        "question": "Examples of these in Rome include Il Messaggero, Il Tempo & La Repubblica",
+        "answer": "Newspapers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FOR THE \"HOLLY\" DAYS",
+        "value": 200,
+        "question": "Charles was the real first name of this Texan who died in a plane crash near Mason City, Iowa",
+        "answer": "Buddy Holly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 600,
+        "question": "Princess Di's step-grandmother, this \"Queen of Romance\" passed away in 2000 at the age of 98",
+        "answer": "Barbara Cartland",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NAME THAT TOON",
+        "value": 300,
+        "question": "In 1958 these 3 chipmunks had a No. 1 hit with \"The Chipmunk Song\"",
+        "answer": "Alvin, Simon & Theodore",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BODIES IN WATER",
+        "value": 300,
+        "question": "Free-floating algae that form a foul film are called the pond type of this",
+        "answer": "Scum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 300,
+        "question": "Janet,Vivien,Jennifer Jason",
+        "answer": "Leigh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THERE'S NO PLACE LIKE ROME",
+        "value": 300,
+        "question": "It's the river that flows through the city",
+        "answer": "Tiber",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FOR THE \"HOLLY\" DAYS",
+        "value": 300,
+        "question": "This Oscar winner's credits include \"Miss Firecracker\" & \"Broadcast News\"",
+        "answer": "Holly Hunter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 400,
+        "question": "\"The Little Drummer Girl\" was his first novel to feature a female protagonist",
+        "answer": "John le Carre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NAME THAT TOON",
+        "value": 400,
+        "question": "This show that debuted in 1993 featured siblings Dot, Yakko & Wakko (who sounds like Ringo Starr)",
+        "answer": "Animaniacs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BODIES IN WATER",
+        "value": 400,
+        "question": "These organisms cemented to ships & rocks are also called cirripedes, for their food-gathering cirri",
+        "answer": "Barnacles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 400,
+        "question": "James,Jackie,Marsha",
+        "answer": "Mason",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THERE'S NO PLACE LIKE ROME",
+        "value": 400,
+        "question": "Built in celebration of military victories, it's the emperor's arch seen here",
+        "answer": "Arch of Constantine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FOR THE \"HOLLY\" DAYS",
+        "value": 400,
+        "question": "It's the colorful backyard favorite seen here",
+        "answer": "Hollyhock",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 500,
+        "question": "He left his heart & the remains of 2 wives \"Far From the Madding Crowd\" at Stinsford Church near Dorchester",
+        "answer": "Thomas Hardy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NAME THAT TOON",
+        "value": 500,
+        "question": "This soulful singer is the voice of Chef on \"South Park\"",
+        "answer": "Isaac Hayes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BODIES IN WATER",
+        "value": 500,
+        "question": "A creature that expels water through a siphon is called a \"sea\" one of these, like a pipsqueak kid",
+        "answer": "Squirt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 500,
+        "question": "Penelope Ann,Glenn,Arthur",
+        "answer": "Miller",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THERE'S NO PLACE LIKE ROME",
+        "value": 500,
+        "question": "The seat of the Italian senate since 1871, Rome's Madama Palace was once owned by this powerful family",
+        "answer": "Medici",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FOR THE \"HOLLY\" DAYS",
+        "value": 500,
+        "question": "After jumping from \"21 Jump Street\", she jumped into the arms of a pro football quarterback",
+        "answer": "Holly Robinson-Peete",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "19th CENTURY AMERICA",
+      "SPORTS",
+      "KNOW YOUR BIBLE",
+      "THE TAO OF STEVE",
+      "CARIBBEAN CUISINE",
+      "A-ONE"
+    ],
+    "clues": [
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 200,
+        "question": "In 1870 visitors to this city had fun strolling the first boardwalk in the U.S.",
+        "answer": "Atlantic City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "The New York Giants' Monte Irvin said that this trailblazer \"opened the door of baseball to all men\"",
+        "answer": "Jackie Robinson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "KNOW YOUR BIBLE",
+        "value": 200,
+        "question": "The question \"Am I my brother's keeper?\" is posed in this book of the Bible",
+        "answer": "Genesis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE TAO OF STEVE",
+        "value": 200,
+        "question": "In 1973 he married Ali MacGraw, his co-star from \"The Getaway\"",
+        "answer": "Steve McQueen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CARIBBEAN CUISINE",
+        "value": 200,
+        "question": "Skyworld, a restaurant on Tortola, is famed for this citrus pie that's also a favorite in Florida",
+        "answer": "Key lime pie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "A-ONE",
+        "value": 200,
+        "question": "To make amends for a sin",
+        "answer": "Atone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 400,
+        "question": "Launched in 1807, Robert Fulton's North River steam boat was better known by this name",
+        "answer": "Clermont",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "This Green Bay Packer vied for Cameron Diaz' affection in the movie \"There's Something About Mary\"",
+        "answer": "Brett Favre",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "KNOW YOUR BIBLE",
+        "value": 400,
+        "question": "By tradition, at least 70 psalms are attributed to this Biblical king",
+        "answer": "David",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE TAO OF STEVE",
+        "value": 400,
+        "question": "Lee Majors played this colonel, the Six Million Dollar Man",
+        "answer": "Steve Austin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CARIBBEAN CUISINE",
+        "value": 400,
+        "question": "In Aruba, you'll have fun eating funchi, a side dish made from this kind of meal",
+        "answer": "Corn meal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "A-ONE",
+        "value": 400,
+        "question": "It's what Gilbert O'Sullivan was \"Again (naturally)\"",
+        "answer": "Alone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 600,
+        "question": "This college was created in 1879 to provide instruction for women by the Harvard faculty",
+        "answer": "Radcliffe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 600,
+        "question": "On March 29, 2000 the Cubs faced the Mets in this city's dome, the first MLB game played outside North America",
+        "answer": "Tokyo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "KNOW YOUR BIBLE",
+        "value": 600,
+        "question": "Noah's Ark was made of gopher wood & measured 300 of these units in length",
+        "answer": "Cubits",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE TAO OF STEVE",
+        "value": 600,
+        "question": "(I'm NFL wide receiver Terrell Owens.)  In 1999 I caught the game-winning pass from this lefty quarterback as the 49ers beat the Packers in the playoffs",
+        "answer": "Steve Young",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CARIBBEAN CUISINE",
+        "value": 600,
+        "question": "La Habichuela in Cancun features cocobichuela: lobster & shrimp served in one of these shells",
+        "answer": "Coconut shell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "A-ONE",
+        "value": 600,
+        "question": "A Francophone speaks French; this is a person who speaks English",
+        "answer": "Anglophone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1600,
+        "question": "During George Clinton's last term as New York governor, this nephew became mayor of New York City",
+        "answer": "DeWitt Clinton",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 800,
+        "question": "In 1973 he came out of retirement to play for the WHA's Houston Aeros, with his sons as teammates",
+        "answer": "Gordie Howe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE TAO OF STEVE",
+        "value": 800,
+        "question": "Jack Lord played this detective who headed up Five-O",
+        "answer": "Steve McGarrett",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CARIBBEAN CUISINE",
+        "value": 800,
+        "question": "Iguana is a taste treat on this island that the U.S. invaded in 1983",
+        "answer": "Grenada",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "A-ONE",
+        "value": 1600,
+        "question": "The shell of this large marine gastropod is used for ornaments",
+        "answer": "Abalone",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1000,
+        "question": "Despite the 1837 capture of Osceola, the 2nd war named for this Indian tribe lasted nearly 6 more years",
+        "answer": "Seminole",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 1000,
+        "question": "This legendary Dallas Cowboys running back is the father of NBA star Grant",
+        "answer": "Calvin Hill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE TAO OF STEVE",
+        "value": 1000,
+        "question": "The New York Post said this actor seen here \"resembles a strange mix of Don Knotts, Peter Lorre & David Carradine\"",
+        "answer": "Steve Buscemi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CARIBBEAN CUISINE",
+        "value": 1000,
+        "question": "Goat stew is savored on this \"C\" of the ABC Islands, which lent its name to an orange-peel liqueur",
+        "answer": "Curacao",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "A-ONE",
+        "value": 1000,
+        "question": "Tell us, it's the talus",
+        "answer": "Anklebone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LET'S TALK ABOUT SECTS",
+    "clue": "Because of their dog-like behavior, the name of this sneering sect comes from the Greek for \"dog-like\"",
+    "answer": "Cynics"
+  },
+  "gameId": "3762",
+  "gameDate": "Tuesday, January 2, 2001"
+}

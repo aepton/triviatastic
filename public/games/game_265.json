@@ -1,0 +1,574 @@
+{
+  "title": "Show #1240 - Friday, January 12, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "CALIFORNIA CITIES",
+      "TV BLONDES",
+      "JOURNALISM",
+      "JUNE 1969",
+      "ONE   SONG",
+      "UNDER WOOD"
+    ],
+    "clues": [
+      {
+        "category": "CALIFORNIA CITIES",
+        "value": 100,
+        "question": "The world's largest known almond processing center as well as the governor's mansion are in this city",
+        "answer": "Sacramento",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV BLONDES",
+        "value": 100,
+        "question": "Prior to Sawyer & Donaldson, Sam & Diane referred to characters played by Ted Danson & her",
+        "answer": "Shelley Long",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 100,
+        "question": "As a free-lance reporter, Seymour M. Hersh broke the story in 1969 about the massacre in this village",
+        "answer": "My Lai",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "JUNE 1969",
+        "value": 100,
+        "question": "J. Edgar Hoover said RFK authorized the FBI to tap this black leader's phone",
+        "answer": "Dr. Martin Luther King, Jr.",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ONE   SONG",
+        "value": 100,
+        "question": "1-word title of the following, David & Jonathan were the only group to have a Top 40 hit with it:",
+        "answer": "\"Michelle\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "UNDER WOOD",
+        "value": 100,
+        "question": "Of fife, flute, or flugelhorn, the one not listed under \"woodwind\" in Funk & Wagnalls",
+        "answer": "flugelhorn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CALIFORNIA CITIES",
+        "value": 200,
+        "question": "The oldest city in California that was founded by the Spanish; it's named for St. Joseph",
+        "answer": "San Jose",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV BLONDES",
+        "value": 200,
+        "question": "FYI, Faith Ford plays ex-beauty queen turned reporter Corky Sherwood on this series",
+        "answer": "Murphy Brown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 400,
+        "question": "In 1990 the American press celebrates this anniversary of the 1st newspaper in the colonies",
+        "answer": "the 300th",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "JUNE 1969",
+        "value": 200,
+        "question": "Riots that followed games in this sport set off a war between El Salvador & Honduras",
+        "answer": "soccer/football",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ONE   SONG",
+        "value": 200,
+        "question": "When it was \"Song of the Year\" in 1966, these 2 people received Grammys",
+        "answer": "John Lennon & Paul McCartney",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "UNDER WOOD",
+        "value": 200,
+        "question": "Honus Wagner signed a contract Sept. 1, 1905 making him the 1st to have his signature etched into these",
+        "answer": "baseball bats",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CALIFORNIA CITIES",
+        "value": 300,
+        "question": "This city's zoo, located in Balboa Park, is one of the largest in the world",
+        "answer": "San Diego",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV BLONDES",
+        "value": 300,
+        "question": "On this show Bud might say anywhere his blonde sister Kelly sits is an easy chair",
+        "answer": "Married... with Children",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 300,
+        "question": "For most of his career in journalism, H.L. Mencken wrote for this city's Sun",
+        "answer": "Baltimore",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "JUNE 1969",
+        "value": 300,
+        "question": "The U.N. security council voted to keep peace-keeping forces on this island near Turkey another 6 months",
+        "answer": "Cyprus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ONE   SONG",
+        "value": 300,
+        "question": "These \"words that go together well\" with the title aren't referring to the phone company",
+        "answer": "\"Ma Belle\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "UNDER WOOD",
+        "value": 300,
+        "question": "The state gemstone of Washington: it's no longer wood but a stony replica",
+        "answer": "petrified wood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CALIFORNIA CITIES",
+        "value": 400,
+        "question": "Its name comes from the Santa Ana River & the German word for home",
+        "answer": "Anaheim",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV BLONDES",
+        "value": 400,
+        "question": "As Jamie, young blonde Nicole Eggert has Scott Baio governing her life on this sitcom",
+        "answer": "Charles In Charge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 400,
+        "question": "1 of the 2 books Woodward & Bernstein wrote on the Watergate scandal",
+        "answer": "All The President's Men & The Final Days",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "JUNE 1969",
+        "value": 400,
+        "question": "Nixon became the 1st president to address the Supreme Court when this chief justice was sworn in",
+        "answer": "Warren Burger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ONE   SONG",
+        "value": 400,
+        "question": "This singer known for his stylish rendition of the \"Love Boat\" theme has the song on his \"Best Of\" album",
+        "answer": "Jack Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "UNDER WOOD",
+        "value": 400,
+        "question": "Listed under \"wood\" in Collier's Ency. index, early ones of these were called \"Lucifers\"",
+        "answer": "matches",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CALIFORNIA CITIES",
+        "value": 500,
+        "question": "This town got its name from the pointed peaks seen 15 miles away in Arizona",
+        "answer": "Needles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV BLONDES",
+        "value": 500,
+        "question": "She's gone from Partridge to prosecutor",
+        "answer": "Susan Dey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 500,
+        "question": "Time, Inc. produced this monthly series of movie shorts that ran from 1935-51",
+        "answer": "The March of Time",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "JUNE 1969",
+        "value": 500,
+        "question": "This president emeritus of the United Mine Workers \"kicked the coal bucket\"",
+        "answer": "John L. Lewis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ONE   SONG",
+        "value": 500,
+        "question": "The song made its debut on this album whose title sounds \"bouncy\" & metaphysical",
+        "answer": "\"Rubber Soul\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "UNDER WOOD",
+        "value": 500,
+        "question": "Research center for marine science on Cape Cod; you could also list it under water",
+        "answer": "Wood's Hole Oceanographic Institute",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PRESIDENTIAL TRIVIA",
+      "MOVIE DIRECTORS",
+      "7-LETTER WORDS",
+      "COLD-BLOODED ANIMALS",
+      "WORLD LITERATURE",
+      "ROSES"
+    ],
+    "clues": [
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 200,
+        "question": "Chronologically, the 1st of the 8 presidents whose last name ends in \"son\"",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 200,
+        "question": "Yo!  He directed \"Staying Alive\", the sequel to \"Saturday Night Fever\"",
+        "answer": "Sylvester Stallone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER WORDS",
+        "value": 200,
+        "question": "It's a baby's bedroom, not an R.N.'s",
+        "answer": "nursery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COLD-BLOODED ANIMALS",
+        "value": 200,
+        "question": "When a tadpole becomes an adult frog this anatomical feature is absorbed by its body",
+        "answer": "tail",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 200,
+        "question": "Dostoevski novel in which Raskolnikov, a young student, kills an old woman pawnbroker",
+        "answer": "Crime And Punishment",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ROSES",
+        "value": 200,
+        "question": "This Latin term for \"confidentially\" literally means \"under the rose\"",
+        "answer": "sub rosa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 400,
+        "question": "In 1872 Grant signed a bill creating this 1st national park",
+        "answer": "Yellowstone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 400,
+        "question": "John Ford said he played one of the Ku Klux Klan members in this D.W. Griffith film",
+        "answer": "Birth of a Nation",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER WORDS",
+        "value": 400,
+        "question": "This word for a group of people traveling with pack animals is derived from Persian",
+        "answer": "caravan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COLD-BLOODED ANIMALS",
+        "value": 400,
+        "question": "2 of the 3 families in the order Crocodylia",
+        "answer": "Crocodiles, Alligators, & Gavials",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 400,
+        "question": "After offending both sides in a religious dispute, this \"Moll Flanders\" author was sentenced to the pillory",
+        "answer": "Daniel Defoe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ROSES",
+        "value": 400,
+        "question": "An overly optimistic person is said to view life through these",
+        "answer": "rose-colored glasses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 600,
+        "question": "The only president who never married, he was also the only president born in Pennsylvania",
+        "answer": "James Buchanan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 600,
+        "question": "First name shared by French directors Chabrol & Lelouch",
+        "answer": "Claude",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER WORDS",
+        "value": 600,
+        "question": "A person born within the sound of bow bells is said to be a true one of these",
+        "answer": "Cockney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COLD-BLOODED ANIMALS",
+        "value": 600,
+        "question": "Most of these sold as pets, until banned by the FDA in 1975, were of the slider or cooter varieties",
+        "answer": "turtles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 600,
+        "question": "In 1967 Gabriel Garcia Marquez became world famous in publication of his \"One Hundred Years of\" this",
+        "answer": "Solitude",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ROSES",
+        "value": 600,
+        "question": "This Greek island was named for either the roses or the snakes that proliferated there in ancient times",
+        "answer": "Rhodes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 1600,
+        "question": "The last president whose public inaugural was held on Monday, January 21",
+        "answer": "Ronald Reagan (1985)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 800,
+        "question": "This bald director played the cold-blooded camp commandant in \"Stalag 17\"",
+        "answer": "Otto Preminger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER WORDS",
+        "value": 800,
+        "question": "When you stick this \"sweet potato\" in your mouth, you should play it, not eat it",
+        "answer": "ocarina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COLD-BLOODED ANIMALS",
+        "value": 1600,
+        "question": "Harmless king snakes, such as the one seen here, are often mistaken for this venomous snake:",
+        "answer": "(red) coral snake",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 800,
+        "question": "Irish-born Samuel Beckett & Romanian-born Eugene Ionesco both wrote absurdist plays in this language",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ROSES",
+        "value": 800,
+        "question": "In 1955 Mitch Miller knocked out \"Rock Around the Clock\" from the No. 1 spot with this song",
+        "answer": "\"Yellow Rose of Texas\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 1000,
+        "question": "George Bush's father, Prescott Sheldon Bush, was a U.S. senator from this state",
+        "answer": "Connecticut",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DIRECTORS",
+        "value": 1000,
+        "question": "This comedienne directed the 1978 film \"Rabbit Test\" about the world's 1st pregnant man",
+        "answer": "Joan Rivers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "7-LETTER WORDS",
+        "value": 1000,
+        "question": "This adjective meaning rustic or pastoral comes from the Greek word for cowherd",
+        "answer": "bucolic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COLD-BLOODED ANIMALS",
+        "value": 1000,
+        "question": "The mud puppy, or water dog, is a large American variety of this amphibian",
+        "answer": "salamander",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 1000,
+        "question": "The Polish-born author of \"The Painted Bird\", set in Europe & \"Being There\", set in Washington, D.C.",
+        "answer": "Jerzy Kozinski",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ROSES",
+        "value": 1000,
+        "question": "The \"centifolia\", or hundred petals rose, is better known by this \"vegetable\" name",
+        "answer": "cabbage rose",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "The Welch's Company has its corporate headquarters in this Mass. town",
+    "answer": "Concord"
+  },
+  "gameId": "1240",
+  "gameDate": "Friday, January 12, 1990"
+}

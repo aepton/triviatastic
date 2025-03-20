@@ -1,0 +1,574 @@
+{
+  "title": "Show #5463 - Wednesday, May 14, 2008",
+  "jeopardyRound": {
+    "categories": [
+      "SHAKESPEARE",
+      "POP'S MUSIC",
+      "AT THE THEME PARK",
+      "THE RUSSIANS ARE COMING",
+      "\"OFF\" CAMPUS",
+      "BREWERS, BUCKS & PACKERS"
+    ],
+    "clues": [
+      {
+        "category": "SHAKESPEARE",
+        "value": 200,
+        "question": "Desdemona's lady-in-waiting is Emilia, this man's wife",
+        "answer": "Iago",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "POP'S MUSIC",
+        "value": 200,
+        "question": "Dad refuses to see a Guy Ritchie film because he's always had a secret crush on this \"Like A Virgin\" singer",
+        "answer": "Madonna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AT THE THEME PARK",
+        "value": 200,
+        "question": "Ice cream bars shaped like this celebrity cetacean are a special treat at Sea World",
+        "answer": "Shamu",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING",
+        "value": 200,
+        "question": "This \"great\" Russian czar tricked his wayward son Alexis into coming home--bad move for Alex",
+        "answer": "Peter the Great",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"OFF\" CAMPUS",
+        "value": 200,
+        "question": "Not connected to the Internet",
+        "answer": "offline",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 200,
+        "question": "A typical coffee berry contains 2 of these that are roasted, ground & brewed to make coffee",
+        "answer": "seeds (or beans)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 400,
+        "question": "Much of Act V of this play is set at Dunsinane Castle",
+        "answer": "Macbeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "POP'S MUSIC",
+        "value": 400,
+        "question": "Dad slow dances by himself to this band's \"Stairway to Heaven\" because he's having school dance flashbacks",
+        "answer": "Led Zeppelin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AT THE THEME PARK",
+        "value": 400,
+        "question": "You could say that this theme park in Billund, Denmark was built block by (plastic) block",
+        "answer": "Legoland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING",
+        "value": 400,
+        "question": "Playwright who introduced us to a title uncle & later to \"Three Sisters\"",
+        "answer": "Anton Chekhov",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"OFF\" CAMPUS",
+        "value": 400,
+        "question": "An outrage to one's sensibilities or half the players on a football field",
+        "answer": "offense",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 400,
+        "question": "Get your butt in gear & know this anatomical term for a small zippered pouch suspended from a belt",
+        "answer": "a fanny pack",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 600,
+        "question": "A shipwreck separates twin siblings Viola & Sebastian in this comedy",
+        "answer": "Twelfth Night",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "POP'S MUSIC",
+        "value": 600,
+        "question": "Dad wears that dorky clock on a chain because he was into this Public Enemy before he became a VH1 reality star",
+        "answer": "Flavor Flav",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AT THE THEME PARK",
+        "value": 600,
+        "question": "A highlight of Silver Dollar City in Branson is a tour of Marvel Cave, the deepest cave in this state",
+        "answer": "Missouri",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING",
+        "value": 600,
+        "question": "The only son of Nicholas II, Alexis was the last male heir born to this royal family while it ruled Russia",
+        "answer": "the Romanovs",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"OFF\" CAMPUS",
+        "value": 600,
+        "question": "Non-tailored clothing bought as is",
+        "answer": "off the rack",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 600,
+        "question": "Heart attack survivor Kerry Packer gave $3 mil. for portable these, aka \"Packer Whackers\", to local ambulances",
+        "answer": "defibrillators",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 800,
+        "question": "Most of \"Hamlet\" is set in this Danish seaport",
+        "answer": "Elsinore",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "POP'S MUSIC",
+        "value": 800,
+        "question": "Dad thinks he's an O.G. because he was into these white rappers long before their album \"Ill Communication\"",
+        "answer": "the Beastie Boys",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AT THE THEME PARK",
+        "value": 800,
+        "question": "Uh-oh! Monsieur Cannibale wants you to ride in a cooking pot at Efteling theme park in this low country",
+        "answer": "the Netherlands",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING",
+        "value": 800,
+        "question": "On April 14, 1961 this cosmonaut was awarded the honor \"Hero of the Soviet Union\"",
+        "answer": "(Yuri) Gagarin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"OFF\" CAMPUS",
+        "value": 800,
+        "question": "A colonel or a major, but not a sergeant",
+        "answer": "an officer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 800,
+        "question": "On June 28, 1919 the buck stopped for Bess Wallace when she married this young man, home from WWI",
+        "answer": "(Harry) Truman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1000,
+        "question": "He's described as \"The triple pillar of the world transformed into a strumpet's fool\"",
+        "answer": "Marc Antony",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "POP'S MUSIC",
+        "value": 1000,
+        "question": "Dad needs help downloading \"In Rainbows\", but he always said this Thom Yorke band was ahead of its time",
+        "answer": "Radiohead",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AT THE THEME PARK",
+        "value": 1000,
+        "question": "Can-can girls have returned to N.C.: Ghost Town in the Sky has re-opened in these \"Great\" mountains",
+        "answer": "the Great Smoky Mountains",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING",
+        "value": 1000,
+        "question": "This chemist developed the periodic table, & element 101 was later named for him",
+        "answer": "Mendeleev",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"OFF\" CAMPUS",
+        "value": 1000,
+        "question": "An unaccented unit in music, or an adjective meaning \"unusual\"",
+        "answer": "offbeat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 1000,
+        "question": "In 1861 a brewer with this last name gave $408,000 to the trustees at a Poughkeepsie women's college",
+        "answer": "Vassar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "U.S. PLACE NAMES",
+      "FAMOUS COLLEGE DROPOUTS",
+      "HELLO KITTY",
+      "THE NEW YORK TIMES TECH BIZ",
+      "TAKE A LETTER",
+      "BREWERS, BUCKS & PACKERS"
+    ],
+    "clues": [
+      {
+        "category": "U.S. PLACE NAMES",
+        "value": 400,
+        "question": "The name of this state capital & port city is French for \"red stick\"",
+        "answer": "Baton Rouge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS COLLEGE DROPOUTS",
+        "value": 400,
+        "question": "This conservative radio talk show host dropped out of SE Missouri State after flunking ballroom dancing",
+        "answer": "Rush Limbaugh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HELLO KITTY",
+        "value": 400,
+        "question": "The Turkish Angora is named for this Turkish city",
+        "answer": "Ankara",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES TECH BIZ",
+        "value": 400,
+        "question": "The Times exposed memos from this company's execs who had trouble upgrading to its Vista operating system",
+        "answer": "Microsoft",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 400,
+        "question": "Desmond Llewelyn played this gadget man in 17 James Bond films",
+        "answer": "Q",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 400,
+        "question": "On March 4, 2008 this Packer quarterback called it quits (probably)",
+        "answer": "Brett Favre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. PLACE NAMES",
+        "value": 800,
+        "question": "One of the world's largest steel plants can be found in this Indiana city named for a chairman of U.S. Steel",
+        "answer": "Gary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS COLLEGE DROPOUTS",
+        "value": 800,
+        "question": "This Russian novelist dropped out of college after 3 years & then wrote \"Anna Karenina\"",
+        "answer": "Tolstoy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HELLO KITTY",
+        "value": 800,
+        "question": "The \"fold\" in the name of the Scottish Fold refers to these folded-down features",
+        "answer": "the ears",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES TECH BIZ",
+        "value": 800,
+        "question": "Hoping to regain its luster, this Time Warner online service is buying the no. 3 social networking site, Bebo",
+        "answer": "AOL",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 800,
+        "question": "In the English alphabet, it's the only polysyllabic letter",
+        "answer": "W",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 800,
+        "question": "He hit 22 of his 755 career HRs as a Brewer; he hit 398 as a Milwaukee Brave",
+        "answer": "Hank Aaron",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. PLACE NAMES",
+        "value": 1200,
+        "question": "Bartholomew Gosnold may have named this Mass. island for his daughter & for the plants he found there",
+        "answer": "Martha's Vineyard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS COLLEGE DROPOUTS",
+        "value": 1200,
+        "question": "She dropped out of Columbia Univ. to sign with Columbia Records & later won a Grammy for \"My Boo\"",
+        "answer": "Alicia Keys",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HELLO KITTY",
+        "value": 1200,
+        "question": "This color follows \"Russian\" in the name of a cat breed; it actually refers to various shades of gray",
+        "answer": "blue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES TECH BIZ",
+        "value": 1200,
+        "question": "The Times cites an estimate that in 2007, its 3rd year, this site used as much bandwidth as the entire Internet in 2000",
+        "answer": "YouTube",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 1200,
+        "question": "Used with an apostrophe, this letter can be a contraction of had, would & did",
+        "answer": "D",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 1200,
+        "question": "In 1970-71 this master of the skyhook averaged 31.7 ppg & led the Bucks to an NBA title",
+        "answer": "Kareem Abdul-Jabbar (or Lew Alcindor)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. PLACE NAMES",
+        "value": 1600,
+        "question": "Haakon County, South Dakota was named for a king of this country",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS COLLEGE DROPOUTS",
+        "value": 1600,
+        "question": "After dropping out of the Univ. of Maryland, he exposed the Watergate scandal with Bob Woodward",
+        "answer": "Carl Bernstein",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HELLO KITTY",
+        "value": 1600,
+        "question": "Eugene Field's poem \"The Duel\" tells of a fight between a gingham dog & this cat, a tortoiseshell & white coat pattern",
+        "answer": "a calico",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES TECH BIZ",
+        "value": 1600,
+        "question": "The Times reported Best Buy is giving $50 gift cards to buyers of this format that is on the losing end of the video battle",
+        "answer": "HD-DVD",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 1600,
+        "question": "On a bowling scoresheet, a diagonal line represents a spare & this letter, a strike",
+        "answer": "an X",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 1600,
+        "question": "Guess winning was the only thing for him; he coached the Pack to 5 NFL titles",
+        "answer": "Lombardi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. PLACE NAMES",
+        "value": 2000,
+        "question": "He wrote the poem from which Pippa Passes, Kentucky took its name",
+        "answer": "Robert Browning",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS COLLEGE DROPOUTS",
+        "value": 2000,
+        "question": "This inspirational TV pastor dropped out of Oral Roberts University before writing the bestseller \"Your Best Life Now\"",
+        "answer": "Joel Osteen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HELLO KITTY",
+        "value": 2000,
+        "question": "The riddle of this cat breed seen here: Is it a pet, or is it art?",
+        "answer": "a Sphynx",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES TECH BIZ",
+        "value": 2000,
+        "question": "The David Pogue blog says the iPhone with push email is gunning for this most popular smartphone",
+        "answer": "the BlackBerry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 2000,
+        "question": "All Japanese words end in a vowel or this consonant",
+        "answer": "an N",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BREWERS, BUCKS & PACKERS",
+        "value": 2000,
+        "question": "\"Royal\" first name of Mr. Fielder, who hit 50 HRs for the Brewers in 2007; his first name is this, & he is funky\"",
+        "answer": "Prince",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN HISTORY",
+    "clue": "In the last week of the John Tyler administration, this republic was offered statehood",
+    "answer": "Texas"
+  },
+  "gameId": "5463",
+  "gameDate": "Wednesday, May 14, 2008"
+}

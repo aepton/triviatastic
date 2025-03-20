@@ -1,0 +1,574 @@
+{
+  "title": "Show #2466 - Monday, May 1, 1995",
+  "jeopardyRound": {
+    "categories": [
+      "LINCOLN",
+      "MEMORIALS",
+      "MATH",
+      "STAND-UP SITCOMS",
+      "THE 1800s",
+      "\"G\" WHIZ!"
+    ],
+    "clues": [
+      {
+        "category": "LINCOLN",
+        "value": 100,
+        "question": "Abe once said, \"I have never had a thought politically that did not spring from\" this 1776 document",
+        "answer": "Declaration of Independence",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MEMORIALS",
+        "value": 100,
+        "question": "This memorial consists of 4 sculpted heads, each 60 feet tall",
+        "answer": "Mount Rushmore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 100,
+        "question": "This process will result in a quotient",
+        "answer": "division",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STAND-UP SITCOMS",
+        "value": 100,
+        "question": "Much of this sitcom takes place in Apt. 5A of a building on Manhattan's Upper West Side; Kramer lives in 5B",
+        "answer": "Seinfeld",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE 1800s",
+        "value": 100,
+        "question": "In December 1886 about 20 craft unions joined to form this organization that later joined with the CIO",
+        "answer": "AFL",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"G\" WHIZ!",
+        "value": 100,
+        "question": "Seneca said, \"Fire is the test of\" this metal; \"adversity, of strong men\"",
+        "answer": "gold",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LINCOLN",
+        "value": 200,
+        "question": "Abe married her November 4, 1842",
+        "answer": "Mary Todd",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MEMORIALS",
+        "value": 200,
+        "question": "Mostly torn down after November 1989, a few segments of this divider remain as memorials",
+        "answer": "Berlin Wall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 200,
+        "question": "The diameter of a circle is twice the length of this",
+        "answer": "radius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STAND-UP SITCOMS",
+        "value": 200,
+        "question": "On this ABC sitcom, Brett Butler plays a single mom trying to raise several kids",
+        "answer": "Grace Under Fire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE 1800s",
+        "value": 200,
+        "question": "In 1883 the U.S. railroads adopted these 4 time zones",
+        "answer": "Central, Mountain, Pacific & Eastern",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"G\" WHIZ!",
+        "value": 200,
+        "question": "The phrase \"The moon is made of\" this refers to a freshly made dairy product, not a colorful one",
+        "answer": "green cheese",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LINCOLN",
+        "value": 300,
+        "question": "In 1837 Lincoln left New Salem, Illinois for this capital",
+        "answer": "Springfield",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MEMORIALS",
+        "value": 600,
+        "question": "At its headquarters you can find Barbara Hepworth's Dag Hammarskjold Memorial",
+        "answer": "United Nations",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 300,
+        "question": "It's a plane figure with 10 straight sides",
+        "answer": "decagon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STAND-UP SITCOMS",
+        "value": 300,
+        "question": "This comedian's fix-it character always wants \"more power\"",
+        "answer": "Tim Allen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE 1800s",
+        "value": 300,
+        "question": "Designed by Frederic Auguste Bartholdi, it was dedicated October 28, 1886",
+        "answer": "Statue of Liberty",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"G\" WHIZ!",
+        "value": 300,
+        "question": "Its state bird is the brown thrasher",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LINCOLN",
+        "value": 400,
+        "question": "Abe's 7 joint debates with this man ran from August 21 to October 15, 1858",
+        "answer": "Stephen Douglas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MEMORIALS",
+        "value": 400,
+        "question": "A national memorial to this pair is located in North Carolina's Kill Devil Hills",
+        "answer": "Wright Brothers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 400,
+        "question": "A circle with a line through it indicates this type of set",
+        "answer": "null",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STAND-UP SITCOMS",
+        "value": 400,
+        "question": "She's the Ellen of \"Ellen\"",
+        "answer": "Ellen DeGeneres",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE 1800s",
+        "value": 400,
+        "question": "Europe's first transcontinental train, it went into service in 1883",
+        "answer": "Orient Express",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"G\" WHIZ!",
+        "value": 400,
+        "question": "In 1824 Lord Byron died of a fever in Missolonghi, now in this country",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LINCOLN",
+        "value": 500,
+        "question": "Lincoln denounced this 1857 Supreme Court decision as part of a pro-slavery conspiracy",
+        "answer": "Dred Scott",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MEMORIALS",
+        "value": 500,
+        "question": "This D.C. performing arts center was built as a memorial, using materials donated by many countries",
+        "answer": "Kennedy Center",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 500,
+        "question": "These 3 letters are used to designate the 3 axes in the Cartesian coordinate system",
+        "answer": "X, Y & Z",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STAND-UP SITCOMS",
+        "value": 500,
+        "question": "This stand-up comic became the \"All-American Girl\"",
+        "answer": "Margaret Cho",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE 1800s",
+        "value": 500,
+        "question": "In 1888 this coil inventor designed the first practical system for transmitting AC power",
+        "answer": "Nikola Tesla",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"G\" WHIZ!",
+        "value": 500,
+        "question": "The Kloss's species of this smallest of the apes is endangered",
+        "answer": "gibbon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT TIMES",
+      "BALLET",
+      "U.S. GEOGRAPHY",
+      "SPACE EXPLORERS",
+      "PLANTS & TREES",
+      "NONFICTION"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT TIMES",
+        "value": 200,
+        "question": "In classical antiquity, a biga was a 2-horse type of this vehicle",
+        "answer": "chariot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 200,
+        "question": "Serge Lifar's ballet \"Icare\" tells the story of this mythical figure who flew too close to the sun",
+        "answer": "Icarus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "This river reaches its widest point, 3 1/2 miles, just north of Clinton, Iowa",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPACE EXPLORERS",
+        "value": 200,
+        "question": "In 1983 Karol Bobko piloted the first flight of this ill-fated shuttle",
+        "answer": "Challenger",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PLANTS & TREES",
+        "value": 200,
+        "question": "Calendula & orange tulip are the national flowers of this country",
+        "answer": "Netherlands",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 200,
+        "question": "In \"Couplehood\" this \"Mad About You\" star offers his humorous views on love & commitment",
+        "answer": "Paul Reiser",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 400,
+        "question": "The first large tomb called this was built for King Mausolus at Halicarnassus in what is now Turkey",
+        "answer": "mausoleum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 400,
+        "question": "In Balanchine's ballet \"Jewels\", Patricia McBride & Edward Villella represented these red gems",
+        "answer": "rubies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "One of the USA's largest cities in area, it's Florida's largest in population",
+        "answer": "Jacksonville",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPACE EXPLORERS",
+        "value": 400,
+        "question": "She was the third woman to fly into space as well as the first American woman",
+        "answer": "Sally Ride",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PLANTS & TREES",
+        "value": 400,
+        "question": "This plant is the largest single source of vegetable oil in the U.S.",
+        "answer": "soybeans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 400,
+        "question": "This Tibetan leader explains some of the concepts of Buddhism in \"The Way to Freedom\"",
+        "answer": "Dalai Lama",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 600,
+        "question": "The city of Ashur, the first capital of Assyria, stood on the west bank of this river",
+        "answer": "Tigris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 600,
+        "question": "Rasputin is a character in the 1971 ballet named for this mysterious grand duchess",
+        "answer": "Anastasia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "This scenic valley in Arizona & Utah is characterized by tall, red sandstone buttes & mesas",
+        "answer": "Monument Valley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPACE EXPLORERS",
+        "value": 600,
+        "question": "Pavel Belyayev commanded the 1965 Voskhod 2 mission on which Alexi Leonov became the first to do this",
+        "answer": "spacewalk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PLANTS & TREES",
+        "value": 600,
+        "question": "This group of plants that includes peas & beans gets its name from the seed pods they bear",
+        "answer": "legumes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 600,
+        "question": "The first edition of his \"Anatomy\" book contained 750 pages; the 37th edition, issued in 1989, had nearly 1600",
+        "answer": "Gray",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 1600,
+        "question": "Mut, a sky goddess of this ancient African civilization, is sometimes represented as a vulture",
+        "answer": "Egypt",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 800,
+        "question": "Varvara Nikitina played the enchanted princess when this Tchaikovsky ballet debuted in 1890",
+        "answer": "Sleeping Beauty",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1600,
+        "question": "Water from Lake Erie flows into Lake Ontario by way of this river",
+        "answer": "Niagara",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPACE EXPLORERS",
+        "value": 800,
+        "question": "A statue of this first human in space stands in the Moscow square named for him",
+        "answer": "Gagarin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PLANTS & TREES",
+        "value": 800,
+        "question": "The coast species of this large tree ranges from California to Oregon's Chetco River",
+        "answer": "redwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 800,
+        "question": "This bandmaster wrote instruction books for trumpet & drum, & a 1928 autobiography, \"Marching Along\"",
+        "answer": "John Philip Sousa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 1000,
+        "question": "Nanna the moon-god was the patron deity of this 2-letter Sumerian city",
+        "answer": "Ur",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 1000,
+        "question": "Born in Kiev in 1890, this legendary ballet star was the son of celebrated Polish dancers",
+        "answer": "Nijinsky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "Springfield, MIssouri is the most populous city in these mountains",
+        "answer": "Ozarks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPACE EXPLORERS",
+        "value": 1000,
+        "question": "This Apollo 11 command module pilot wrote \"Flying to the Moon and Other Strange Places\" for kids",
+        "answer": "(Michael) Collins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PLANTS & TREES",
+        "value": 1000,
+        "question": "The roots of this largest cactus may reach over 50 feet in length",
+        "answer": "saguaro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 1000,
+        "question": "This Scottish-born naturalist wrote \"Our National Parks\" & \"My First Summer in the Sierra\" in the early 1900s",
+        "answer": "John Muir",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SCIENCE HISTORY",
+    "clue": "In 1317 Pope John XXII called these people evil: \"They present a false metal for gold and silver\"",
+    "answer": "alchemists"
+  },
+  "gameId": "2466",
+  "gameDate": "Monday, May 1, 1995"
+}

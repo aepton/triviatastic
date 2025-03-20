@@ -1,0 +1,565 @@
+{
+  "title": "Show #3615 - Friday, April 28, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "FOUR",
+      "SEASONS",
+      "SUM-MERS",
+      "\"FALL\"",
+      "WINTERS",
+      "SPRING"
+    ],
+    "clues": [
+      {
+        "category": "FOUR",
+        "value": 100,
+        "question": "Naismith sport played by the men on the \"Road to the Final Four\"",
+        "answer": "Basketball",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SEASONS",
+        "value": 100,
+        "question": "A bourbon drink garnished with fresh leaves of this is popular in Kentucky",
+        "answer": "mint (julep)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SUM-MERS",
+        "value": 100,
+        "question": "You have to have the right triangle to use the theorem named for this ancient Greek number cruncher",
+        "answer": "Pythagoras",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"FALL\"",
+        "value": 100,
+        "question": "A meteor, according to Perry Como",
+        "answer": "a falling star",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WINTERS",
+        "value": 100,
+        "question": "The aptly named Jonathan Winters narrated the cartoon special this snowman \"Returns\"",
+        "answer": "Frosty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPRING",
+        "value": 100,
+        "question": "In spring, 1848, ice in Lake Erie blocked the river feeding these famous falls, shutting them off for a day",
+        "answer": "Niagara Falls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FOUR",
+        "value": 200,
+        "question": "The Four Horsemen of the Apocalypse appear in the book of Revelation, written by this \"divine\" saint",
+        "answer": "Saint John the Divine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SEASONS",
+        "value": 200,
+        "question": "This herb helped cure the treat seen here, so the herb's in its name",
+        "answer": "dill (pickle)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SUM-MERS",
+        "value": 200,
+        "question": "When William Thomson, later Lord this, was born in Belfast in 1824 he knew absolute zero about math",
+        "answer": "Lord Kelvin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"FALL\"",
+        "value": 200,
+        "question": "In 1961 the Civil Defense Department required that signs showing the locations of these be posted",
+        "answer": "fallout shelters",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WINTERS",
+        "value": 200,
+        "question": "In a 1985 TV version of this classic tale, Jonathan played Humpty Dumpty",
+        "answer": "Alice in Wonderland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPRING",
+        "value": 200,
+        "question": "In April 1931 the 20 millionth car rolled off this company's assembly line",
+        "answer": "Ford",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FOUR",
+        "value": 300,
+        "question": "His third wife was a member of the Gang of Four",
+        "answer": "Mao Tse-tung",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SEASONS",
+        "value": 300,
+        "question": "This herb also called estragon is essential to a Bernaise sauce",
+        "answer": "Tarragon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SUM-MERS",
+        "value": 300,
+        "question": "\"Algorithm\" came from Al-Khwarizmi, the name of the Arab mathematician who named this branch of high school math",
+        "answer": "algebra",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"FALL\"",
+        "value": 300,
+        "question": "Lee Majors' role from 1981 to 1986",
+        "answer": "The Fall Guy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WINTERS",
+        "value": 600,
+        "question": "This comic who claims Winters as his mentor had Jonathan play his son on TV in 1981",
+        "answer": "Robin Williams",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPRING",
+        "value": 300,
+        "question": "In 1994 this NBA star was in spring training with the Class AA Birmingham Barons baseball team",
+        "answer": "Michael Jordan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FOUR",
+        "value": 400,
+        "question": "Suffering is the substance of all of the Four Noble Truths of this religion",
+        "answer": "Buddhism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SEASONS",
+        "value": 400,
+        "question": "If Anthony Kiedis' group was ground & dried, this powder would result",
+        "answer": "chili powder (red hot chili pepper powder accepted)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SUM-MERS",
+        "value": 400,
+        "question": "He worked 8 years with Alfred North Whitehead to produce the monumental work \"Principia Mathematica\"",
+        "answer": "Bertrand Russell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"FALL\"",
+        "value": 400,
+        "question": "This Poe tale appropriately begins in the fall, on a \"dull, dark and soundless day\"",
+        "answer": "\"The Fall of the House of Usher\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WINTERS",
+        "value": 400,
+        "question": "In 1999 the Kennedy Center awarded Jonathan Winters the prize named after this humorist",
+        "answer": "Mark Twain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPRING",
+        "value": 400,
+        "question": "In the spring of 1964 this city sprang its World's Fair on the world",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FOUR",
+        "value": 500,
+        "question": "In a 1939 article for National Geographic, Lincoln Ellsworth described his 4 expeditions to this continent",
+        "answer": "Antarctica",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SEASONS",
+        "value": 500,
+        "question": "Cilantro is the leaves of this plant whose name is from the Greek koris, \"bug\"",
+        "answer": "coriander",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SUM-MERS",
+        "value": 500,
+        "question": "In 1676, the year after discovering calculus, he began a 40-year-long job as court librarian in Hanover",
+        "answer": "Gottfried Leibniz",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"FALL\"",
+        "value": 500,
+        "question": "Lizzie Borden was tried in this Massachusetts town",
+        "answer": "Fall River",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WINTERS",
+        "value": 500,
+        "question": "Last name of Winters' character known as Maude or Maudie",
+        "answer": "Frickert",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPRING",
+        "value": 500,
+        "question": "On April 3, 1860 the Pony Express began with riders leaving these 2 cities",
+        "answer": "St. Joseph, Missouri & Sacramento, California",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MOUNTAINS",
+      "THE BLAIR NICHE PROJECT",
+      "LITERARY CHARACTERS",
+      "TV MOVIES",
+      "ANAGRAMMED U.S. CITIES",
+      "THIS PLACE IS A ZOO!"
+    ],
+    "clues": [
+      {
+        "category": "MOUNTAINS",
+        "value": 200,
+        "question": "Annapurna in Nepal was the highest mountain climbed until the peak of this one was reached in 1953",
+        "answer": "Mount Everest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE BLAIR NICHE PROJECT",
+        "value": 200,
+        "question": "She turned heads as the head-turning Regan in 1973's \"The Exorcist\"",
+        "answer": "Linda Blair",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 200,
+        "question": "Abe Lincoln is a character in \"Norwood\", the only novel by her brother Henry Ward Beecher",
+        "answer": "Harriet Beecher Stowe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TV MOVIES",
+        "value": 200,
+        "question": "Helen Mirren portrayed \"The Passion\" of this \"Fountainhead\" author in a 1999 film",
+        "answer": "Ayn Rand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 200,
+        "question": "A former state capital:HEEL WING, West Virginia",
+        "answer": "Wheeling",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THIS PLACE IS A ZOO!",
+        "value": 200,
+        "question": "Zoo Atlanta has won its stripes by exhibiting 2 of the endangered Sumatran species of this animal",
+        "answer": "tigers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 400,
+        "question": "This Philippine volcano's 1991 eruption released 18 million metric tons of sulfur dioxide",
+        "answer": "Mount Pinatubo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE BLAIR NICHE PROJECT",
+        "value": 400,
+        "question": "He took over from John Major in 1997",
+        "answer": "Tony Blair",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 400,
+        "question": "Scratchy Wilson is a drunken cowpoke in \"The Bride Comes to Yellow Sky\" by this \"Red Badge of Courage\" author",
+        "answer": "Stephen Crane",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TV MOVIES",
+        "value": 400,
+        "question": "(Hi, I'm Noah Wyle.)  In \"The Pirates of Silicon Valley\", I played Steve Jobs & Anthony Michael Hall played this rival computer geek",
+        "answer": "Bill Gates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 400,
+        "question": "A great place to ski:PANES, Colorado",
+        "answer": "Aspen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THIS PLACE IS A ZOO!",
+        "value": 400,
+        "question": "This city's Zoologischer Garten had under 100 animals after WWII; it grew to lead the world in number of species",
+        "answer": "Berlin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 600,
+        "question": "This Hawaiian mountain's height stretches 33,476 feet from its base on the Pacific Ocean floor to its peak",
+        "answer": "Mauna Kea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE BLAIR NICHE PROJECT",
+        "value": 600,
+        "question": "With 5 Olympic gold medals, she's the most successful U.S. women's speed skater in history",
+        "answer": "Bonnie Blair",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 600,
+        "question": "Fyodor (the father) throws parties that are veritable drunken orgies in this Russian sibling saga",
+        "answer": "The Brothers Karamazov",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TV MOVIES",
+        "value": 600,
+        "question": "\"Dash and Lily\" paired Sam Shepard & Judy Davis as these 2 writers who were longtime lovers",
+        "answer": "Dashiell Hammett & Lillian Hellman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 600,
+        "question": "A music festival site:WREN POT, Rhode Island",
+        "answer": "Newport",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THIS PLACE IS A ZOO!",
+        "value": 600,
+        "question": "The St. Louis Zoo uses this autumnal German celebration to honor its otters",
+        "answer": "Oktoberfest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 800,
+        "question": "Named for a famed English sea captain, this New Zealand peak is called Aorangi by the Maoris",
+        "answer": "Mount Cook",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE BLAIR NICHE PROJECT",
+        "value": 800,
+        "question": "A temporary White House from 1948 to 1952, it now lodges presidential guests",
+        "answer": "Blair House",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 1600,
+        "question": "Mr. Fitzwilliam Darcy & Miss Elizabeth Bennet represent these title attributes in an 1813 novel",
+        "answer": "pride & prejudice",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TV MOVIES",
+        "value": 800,
+        "question": "This 1971 TV tearjerker told the story of a Chicago Bears running back & his battle with cancer",
+        "answer": "Brian's Song",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 800,
+        "question": "A fun town for sports fans:CHORTLE AT, North Carolina",
+        "answer": "Charlotte",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THIS PLACE IS A ZOO!",
+        "value": 800,
+        "question": "This Columbus Zoo Director Emeritus is known to TV audiences across the U.S.",
+        "answer": "\"Jungle Jack\" Hanna",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 1000,
+        "question": "Mount Elbrus is the highest peak in this mountain range bordering Russia & Georgia",
+        "answer": "Caucasus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 1000,
+        "question": "Fancy Day is the heroine of \"Under the Greenwood Tree\" by this \"Jude the Obscure\" author",
+        "answer": "Thomas Hardy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TV MOVIES",
+        "value": 1000,
+        "question": "Sally Field played a woman who had developed 16 distinct personalities in this Emmy-winning TV movie",
+        "answer": "Sybil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 1000,
+        "question": "A swank resort city:NOT A COBRA, Florida",
+        "answer": "Boca Raton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THIS PLACE IS A ZOO!",
+        "value": 2000,
+        "question": "The Singapore Zoo advertises this monkey, seen in its conservation centre, as \"The Big Nose Beauty\"",
+        "answer": "Proboscis monkey",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SPORTS CHAMPIONS",
+    "clue": "Winning in 1965 & 1966, he was the first man to win the Masters golf tournament in 2 consecutive years",
+    "answer": "Jack Nicklaus"
+  },
+  "gameId": "3615",
+  "gameDate": "Friday, April 28, 2000"
+}

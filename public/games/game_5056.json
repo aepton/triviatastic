@@ -1,0 +1,574 @@
+{
+  "title": "Show #7139 - Thursday, October 1, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "DICKENS BOOK BY CHARACTER",
+      "SUPER BOWL MVP QBs",
+      "FINANCIAL LITERACY",
+      "\"EX\"CELLENT!",
+      "BLUE BIRDS",
+      "OF HAPPINESS"
+    ],
+    "clues": [
+      {
+        "category": "DICKENS BOOK BY CHARACTER",
+        "value": 200,
+        "question": "Bob Cratchit",
+        "answer": "A Christmas Carol",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SUPER BOWL MVP QBs",
+        "value": 200,
+        "question": "In 2015 this QB gave the truck he won as MVP to Malcolm Butler, the rookie who made the game-saving interception",
+        "answer": "(Tom) Brady",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FINANCIAL LITERACY",
+        "value": 200,
+        "question": "To set a fair valuation of a property for a transaction, turn to a certified residential this professional",
+        "answer": "appraiser",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"EX\"CELLENT!",
+        "value": 200,
+        "question": "With the power of a million tornadoes, it's a description that overstates reality for effect",
+        "answer": "exaggeration",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BLUE BIRDS",
+        "value": 200,
+        "question": "Both blue-faced boobies & blue-footed boobies nest in these Ecuadorian islands",
+        "answer": "the Galápagos",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OF HAPPINESS",
+        "value": 200,
+        "question": "Happy baby, in which you lie on your back with your knees to your chest & hold your feet, is a pose in this",
+        "answer": "yoga",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DICKENS BOOK BY CHARACTER",
+        "value": 400,
+        "question": "Bill Sikes",
+        "answer": "Oliver Twist",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SUPER BOWL MVP QBs",
+        "value": 400,
+        "question": "Coach Weeb Ewbank, furious after this Jet guaranteed a win, was probably not as mad after his MVP performance",
+        "answer": "Joe Namath",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FINANCIAL LITERACY",
+        "value": 400,
+        "question": "Cash, investments & physical goods are all these, from the Latin for \"enough\"",
+        "answer": "assets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"EX\"CELLENT!",
+        "value": 400,
+        "question": "In math it indicates the number of times an expression is multiplied by itself",
+        "answer": "exponent",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BLUE BIRDS",
+        "value": 400,
+        "question": "The smallest species of this bird, the fairy or little blue, nests in burrows, not in the ice & snow",
+        "answer": "a penguin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OF HAPPINESS",
+        "value": 400,
+        "question": "He had a way with words, enumerating our unalienable rights as \"Life, Liberty and the pursuit of Happiness\"",
+        "answer": "Jefferson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DICKENS BOOK BY CHARACTER",
+        "value": 600,
+        "question": "Esther Summerson",
+        "answer": "Bleak House",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SUPER BOWL MVP QBs",
+        "value": 600,
+        "question": "(I'm Aaron Rodgers of the Green Bay Packers.)  I'm one of the first 2 Packer QBs to be Super Bowl MVP; this 2-time winner who later coached the team is the other",
+        "answer": "Bart Starr",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FINANCIAL LITERACY",
+        "value": 600,
+        "question": "Colorful term for stock from an established company, regarded as a safe investment",
+        "answer": "blue chip",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"EX\"CELLENT!",
+        "value": 600,
+        "question": "A concentrated substance used in chemistry or cooking",
+        "answer": "an extract",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BLUE BIRDS",
+        "value": 600,
+        "question": "Found across North America, the blue-winged teal is a small dabbling one of these birds",
+        "answer": "a duck",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OF HAPPINESS",
+        "value": 600,
+        "question": "The song \"Happy\" says, \"Clap along if you feel like a room without\" this",
+        "answer": "a roof",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DICKENS BOOK BY CHARACTER",
+        "value": 800,
+        "question": "Dr. Alexandre Manette",
+        "answer": "A Tale of Two Cities",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SUPER BOWL MVP QBs",
+        "value": 800,
+        "question": "In 2010 this MVP QB said, \"We played for our city... for the entire Gulf Coast region... for all the entire Who Dat Nation\"",
+        "answer": "(Drew) Brees",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FINANCIAL LITERACY",
+        "value": 800,
+        "question": "Often used in mutual funds, it's the strategy of investing broadly across a number of investments to reduce risk",
+        "answer": "diversification",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"EX\"CELLENT!",
+        "value": 800,
+        "question": "Like a foot or a hand, it's a part of something that is the farthest from the main part",
+        "answer": "an extremity",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BLUE BIRDS",
+        "value": 800,
+        "question": "As well as the great blue, there is a little blue type of this long-legged wading bird",
+        "answer": "a heron",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OF HAPPINESS",
+        "value": 800,
+        "question": "A book by him is called \"Happiness Is a Warm Puppy\"",
+        "answer": "(Charles) Schulz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DICKENS BOOK BY CHARACTER",
+        "value": 1000,
+        "question": "Uriah Heep",
+        "answer": "David Copperfield",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SUPER BOWL MVP QBs",
+        "value": 1000,
+        "question": "Quoth the raven, \"MVP!\" after this man was deemed most valuable in 2013 at Super Bowl XLVII",
+        "answer": "(Joe) Flacco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FINANCIAL LITERACY",
+        "value": 1000,
+        "question": "If you hold a bond as its price rises, this other 5-letter word falls, because you're getting a lower return percentage",
+        "answer": "yield",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"EX\"CELLENT!",
+        "value": 1000,
+        "question": "Someone who deliberately behaves in an extravagant way to attract attention",
+        "answer": "an exhibitionist",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BLUE BIRDS",
+        "value": 1000,
+        "question": "The blue bird seen here is Steller's this, noted for its beautiful plumage & harsh call",
+        "answer": "a jay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OF HAPPINESS",
+        "value": 1000,
+        "question": "In 1997 this French-named cosmetics company introduced Happy, a fragrance for women",
+        "answer": "Clinique",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GREEK ALPHABET PUZZLERS",
+      "HISTORIC AMERICANS",
+      "ASIAN MOUNTAINS",
+      "THEORIES OF EVERYTHING",
+      "20th CENTURY COMPOSERS",
+      "TV SHOWS BY SIBLINGS"
+    ],
+    "clues": [
+      {
+        "category": "GREEK ALPHABET PUZZLERS",
+        "value": 400,
+        "question": "It's a symbol of the all-american way of life",
+        "answer": "apple pie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 400,
+        "question": "On January 20, 1801 he was nominated to be Chief Justice, a job he would retain for the next 34 years",
+        "answer": "John Marshall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ASIAN MOUNTAINS",
+        "value": 400,
+        "question": "Mount Kita-Dake, Japan's second-highest peak, is almost 2,000 feet lower than this top mountain",
+        "answer": "Fuji",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THEORIES OF EVERYTHING",
+        "value": 400,
+        "question": "Maurice Allais got a 1988 Nobel in this for work in \"the theory of markets and efficient utilization of resources\"",
+        "answer": "economics",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY COMPOSERS",
+        "value": 400,
+        "question": "Yes, Sir!  Among this British composer's awards & honors are 7 Tonys, 7 Oliviers & a life peerage",
+        "answer": "Andrew Lloyd Webber",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TV SHOWS BY SIBLINGS",
+        "value": 400,
+        "question": "Ross & Monica Geller",
+        "answer": "Friends",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GREEK ALPHABET PUZZLERS",
+        "value": 800,
+        "question": "What baby needs, according to craps players",
+        "answer": "a new pair of shoes (new shoes accepted)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 800,
+        "question": "On May 24, 1844 he sent the historic message \"What hath God wrought\" to his partner Alfred Vail",
+        "answer": "Morse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ASIAN MOUNTAINS",
+        "value": 800,
+        "question": "Some believe that Saudi Arabia's Jabal al-Lawz is the real this mountain Moses climbed",
+        "answer": "Mount Sinai",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THEORIES OF EVERYTHING",
+        "value": 800,
+        "question": "The kinetic theory of these directly relates their pressure to their temperature & density",
+        "answer": "gases",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY COMPOSERS",
+        "value": 800,
+        "question": "In 1911 this \"King of Ragtime\" completed \"Treemonisha\", an opera set during Reconstruction",
+        "answer": "(Scott) Joplin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TV SHOWS BY SIBLINGS",
+        "value": 800,
+        "question": "Keith, Laurie, Danny, Christopher & Tracy",
+        "answer": "The Partridge Family",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GREEK ALPHABET PUZZLERS",
+        "value": 1200,
+        "question": "Around 1960, it was a state-of-the-art music system",
+        "answer": "Hi-Fi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 1200,
+        "question": "In 1866 she fell on the ice in Lynn, Mass. & her recovery led to the principles of Christian Science",
+        "answer": "(Mary Baker) Eddy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ASIAN MOUNTAINS",
+        "value": 1200,
+        "question": "Rongbuk Monastery, at about 16,400 feet on this mountain in Tibet, is the world's highest religious temple",
+        "answer": "Everest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THEORIES OF EVERYTHING",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew shows a geological animation on the monitor.)  Dynamo theory says that Earth's rotation causes liquid iron in the outer core to move in spiral currents, generating this gigantic field around the planet",
+        "answer": "the magnetic field",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY COMPOSERS",
+        "value": 1200,
+        "question": "This longtime conductor of the New York Philharmonic also composed the music for \"West Side Story\"",
+        "answer": "Bernstein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TV SHOWS BY SIBLINGS",
+        "value": 1200,
+        "question": "Helena & her many \"Sestras\", including Sarah",
+        "answer": "Orphan Black",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GREEK ALPHABET PUZZLERS",
+        "value": 1600,
+        "question": "In song, she's asked, \"What's that flower you have on?\"",
+        "answer": "Delta Dawn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 1600,
+        "question": "(Hi.  I'm Ken Burns.)  My film about this man who inspired Robert Penn Warren's \"All the King's Men\" depicts his road to the White House cut short by an assassin in 1935",
+        "answer": "Huey Long",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ASIAN MOUNTAINS",
+        "value": 1600,
+        "question": "Declared a national park of this country in 1936 by Manuel Quezon, Mount Apo is home to a rare species of eagle",
+        "answer": "the Philippines",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THEORIES OF EVERYTHING",
+        "value": 1600,
+        "question": "Feminist standpoint theory is rooted in this \"ism\" named for a 19th century manifesto man",
+        "answer": "Marxism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY COMPOSERS",
+        "value": 1600,
+        "question": "He composed \"Peter and the Wolf\" to demonstrate for children the instruments in an orchestra",
+        "answer": "Prokofiev",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TV SHOWS BY SIBLINGS",
+        "value": 1600,
+        "question": "Charlie, Bailey, Julia, & Claudia Salinger; not shown--Owen",
+        "answer": "Party of Five",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GREEK ALPHABET PUZZLERS",
+        "value": 2000,
+        "question": "A type of violent windstorm",
+        "answer": "a cyclone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 2000,
+        "question": "This Maryland physician hadn't practiced medicine primarily for years when he set John Wilkes Booth's broken leg",
+        "answer": "(Dr. Samuel) Mudd",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ASIAN MOUNTAINS",
+        "value": 2000,
+        "question": "This mountain range's name means \"kills the Hindu\"; many Indian slaves died there while being moved to central Asia",
+        "answer": "the Hindu Kush",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THEORIES OF EVERYTHING",
+        "value": 2000,
+        "question": "Bronsted & Lowry were red & blue in the face when Lewis disputed their theory about these 2 types of substances",
+        "answer": "acids & bases",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "20th CENTURY COMPOSERS",
+        "value": 2000,
+        "question": "He also wrote a \"Death Valley Suite\", but he's better known for his \"Grand Canyon Suite\"",
+        "answer": "(Ferde) Grofé",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TV SHOWS BY SIBLINGS",
+        "value": 2000,
+        "question": "Prue, Piper & Phoebe Halliwell",
+        "answer": "Charmed",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SHAKESPEARE CHARACTERS",
+    "clue": "8-letter name shared by a tragic heroine & Uranus' innermost known moon",
+    "answer": "Cordelia"
+  },
+  "gameId": "7139",
+  "gameDate": "Thursday, October 1, 2015"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1346 - Monday, June 11, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "\"P\"s & \"Q\"s",
+      "FAIRY TALES",
+      "JAPAN",
+      "FOOD",
+      "COWBOYS",
+      "INDIANS"
+    ],
+    "clues": [
+      {
+        "category": "\"P\"s & \"Q\"s",
+        "value": 100,
+        "question": "Don't worry if you're sleeping under one of these: not all of them are \"crazy\"",
+        "answer": "quilts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAIRY TALES",
+        "value": 100,
+        "question": "On a visit to town this country animal loved the food but ran home after escaping from a cat",
+        "answer": "mouse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "JAPAN",
+        "value": 100,
+        "question": "The Japanese refer to Japan by this word which means \"source of the sun\"",
+        "answer": "Nippon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOOD",
+        "value": 100,
+        "question": "The 3 most popular ice cream flavors",
+        "answer": "strawberry, vanilla & chocolate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COWBOYS",
+        "value": 100,
+        "question": "A cowboy \"packing iron\" was carrying one of these",
+        "answer": "gun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "INDIANS",
+        "value": 100,
+        "question": "After Little Big Horn he escaped to Canada, later to return & tour w/ Buffalo Bill's Wild West Show",
+        "answer": "Sitting Bull",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"P\"s & \"Q\"s",
+        "value": 200,
+        "question": "This word commonly precedes line & pooper",
+        "answer": "party",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAIRY TALES",
+        "value": 200,
+        "question": "Freudians say this Little Red Riding Hood character represents infantile fear of the father",
+        "answer": "the wolf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "JAPAN",
+        "value": 200,
+        "question": "Financially, this automaker is Japan's largest industrial corporation",
+        "answer": "Toyota",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "Guinness reports this is America's best-selling candy with over 33 billion rolls sold since 1913",
+        "answer": "Life Savers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COWBOYS",
+        "value": 200,
+        "question": "This name of part of a saddle comes from the Latin for \"apple\"",
+        "answer": "pommel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "INDIANS",
+        "value": 200,
+        "question": "The ghost dance was supposed to bring back dead Indian heroes & make them disappear",
+        "answer": "the white men",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"P\"s & \"Q\"s",
+        "value": 300,
+        "question": "Peter's last name in \"The Turn of the Screw\", or 1/5 of the Dionnes",
+        "answer": "Quint",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAIRY TALES",
+        "value": 300,
+        "question": "In \"Hansel & Gretel\" it was this person who made their father abandon them in the woods",
+        "answer": "the stepmother",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "JAPAN",
+        "value": 600,
+        "question": "The crest of the Japanese imperial family is a 16-petaled version of this flower",
+        "answer": "chrysanthemum",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOOD",
+        "value": 300,
+        "question": "Russian soup made with beets or cabbage, served hot or cold, often with sour cream",
+        "answer": "borscht",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COWBOYS",
+        "value": 300,
+        "question": "On a ranch it was the building in which the hired hands lived",
+        "answer": "bunkhouse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "INDIANS",
+        "value": 300,
+        "question": "The Pueblos taught weaving to this tribe who became famous for it",
+        "answer": "the Navajo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"P\"s & \"Q\"s",
+        "value": 400,
+        "question": "The one presented at Oberammergau is probably the most famous in the world",
+        "answer": "passion play",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAIRY TALES",
+        "value": 400,
+        "question": "At the wedding at the end of this tale, the bride is 100 years older than the groom but doesn't look it",
+        "answer": "\"Sleeping Beauty\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "JAPAN",
+        "value": 400,
+        "question": "In 1972 the Winter Olympic Games were held in this city, the capital of Hokkaido",
+        "answer": "Sapporo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "The N.Y. Times & the Good Housekeeping recipes for this type of bread both call for caraway seeds",
+        "answer": "rye",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COWBOYS",
+        "value": 400,
+        "question": "On a cattle drive the trail boss & this wagon led the way",
+        "answer": "chuckwagon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "INDIANS",
+        "value": 400,
+        "question": "When Jamestown was founded, the Indians in the region were in a confederacy led by this man",
+        "answer": "Powhatan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"P\"s & \"Q\"s",
+        "value": 500,
+        "question": "These 2 6-letter synonyms for \"tremble\" differ by just 1 letter",
+        "answer": "quiver & quaver",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAIRY TALES",
+        "value": 500,
+        "question": "\"Fee-fi-fo-fum, I smell the blood of an Englishman\" is a line from this story",
+        "answer": "\"Jack and the Beanstalk\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "JAPAN",
+        "value": 500,
+        "question": "Former P.M. Tanaka was convicted of bribery in a 1983 scandal involving this U.S. aircraft corp.",
+        "answer": "Lockheed",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FOOD",
+        "value": 500,
+        "question": "Green fruit closely related to the banana that is usually served boiled or fried",
+        "answer": "plantain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COWBOYS",
+        "value": 500,
+        "question": "Writing on cowboy life, easterners referred to these as \"soiled doves\"",
+        "answer": "prostitutes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "INDIANS",
+        "value": 500,
+        "question": "From an Algonquian word for \"brother\", it's an animal a clan considers its supernatural patron",
+        "answer": "totem",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PRESIDENTIAL NICKNAMES",
+      "ART",
+      "AVIATION FIRSTS",
+      "COMPOSERS",
+      "U.S. GEOGRAPHY",
+      "AGATHA CHRISTIE"
+    ],
+    "clues": [
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 200,
+        "question": "\"Surveyor President\"",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "It's said that when Leonardo da Vinci lay dying, this portrait was at his bedside",
+        "answer": "the \"Mona Lisa\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AVIATION FIRSTS",
+        "value": 200,
+        "question": "On September 20, 1904 he flew the first complete circle by an airplane while Orville watched",
+        "answer": "Wilbur Wright",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 200,
+        "question": "Tho he remained a bachelor for all his life, he's most famous for his \"Wiegenlied\" or \"Lullaby\"",
+        "answer": "Johannes Brahms",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "The 2 highest waterfalls in North America, Yosemite & Ribbon Falls, are both in this state",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AGATHA CHRISTIE",
+        "value": 200,
+        "question": "The novel in which Mr. Ratchett is stabbed on a train -- 12 times",
+        "answer": "\"Murder on the Orient Express\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 400,
+        "question": "\"Father of the University of Virginia\"",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "When WWI began, both W. Kandinsky & Marc Chagall returned to this, their native country",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AVIATION FIRSTS",
+        "value": 400,
+        "question": "In 1968 this German airline was the first to put the Boeing 737 into service",
+        "answer": "Lufthansa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "William Herschel, who is famous in this field of science, also did a little composing",
+        "answer": "astronomy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "Mt. Mitchell near Asheville in this state's Black Mountains is the highest peak east of the Mississippi River",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AGATHA CHRISTIE",
+        "value": 400,
+        "question": "Dame Agatha thought this play might run for 8 months; it opened in 1952 & it's still running",
+        "answer": "The Mousetrap",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 600,
+        "question": "\"Hero of New Orleans\"",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "Paul Cezanne's work consisted mostly of still lifes & these, called \"paysages\" in French",
+        "answer": "landscapes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AVIATION FIRSTS",
+        "value": 600,
+        "question": "In 1952 this country's de Havilland Comet became the 1st jet plane in commercial service",
+        "answer": "Great Britain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 600,
+        "question": "Donizetti made his mark with an opera based on this wife of Henry VIII",
+        "answer": "Anne Boleyn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "Lake Pontchartrain is this state's largest lake",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AGATHA CHRISTIE",
+        "value": 600,
+        "question": "Much of this book takes place aboard the S.S. Karnak during an Egyptian cruise",
+        "answer": "\"Death on the Nile\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 800,
+        "question": "\"Trust Buster\" & \"Four Eyes\"",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 1600,
+        "question": "After more than 40 years at N.Y.'s Museum of Modern Art, this huge Picasso painting was returned to Spain",
+        "answer": "\"Guernica\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AVIATION FIRSTS",
+        "value": 800,
+        "question": "In 1933 he became the first man to fly solo around the world; 2 years later he died in a crash in Alaska",
+        "answer": "Wiley Post",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1600,
+        "question": "He didn't finish his Oratoria trilogy & wrote only 5 of his 6 planned \"Pomp & Circumstance\" marches",
+        "answer": "Edward Elgar",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "The old courthouse in this Virginia port city houses the Gen. Douglas MacArthur Memorial",
+        "answer": "Norfolk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AGATHA CHRISTIE",
+        "value": 800,
+        "question": "Christie said this female detective always expected the worst of everyone, & was usually right",
+        "answer": "Miss Marple",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 1000,
+        "question": "\"Butcher from Galena\" & \"Old Three Stars\"",
+        "answer": "Ulysses S. Grant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "Impressionist born in Pennsylvania in 1844, she died near Paris in 1926",
+        "answer": "Mary Cassatt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AVIATION FIRSTS",
+        "value": 1000,
+        "question": "The first airship to make a round trip crossing of the Atlantic was one of these in 1919",
+        "answer": "zeppelin (or dirigible)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1000,
+        "question": "His \"Prelude to the Afternoon of a Faun\" is a tone poem based on a written poem",
+        "answer": "Claude Debussy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "The huge lake created by the Glen Canyon Dam on the Colorado River is named for this conservationist",
+        "answer": "John Wesley Powell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AGATHA CHRISTIE",
+        "value": 1000,
+        "question": "Many people wanted her to change the surprise ending of this '53 courtroom drama, but she refused",
+        "answer": "Witness for the Prosecution",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MINERALS",
+    "clue": "These 2 nations lead the world in the production of gold",
+    "answer": "South Africa & USSR"
+  },
+  "gameId": "1346",
+  "gameDate": "Monday, June 11, 1990"
+}

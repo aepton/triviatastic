@@ -1,0 +1,574 @@
+{
+  "title": "Show #3118 - Wednesday, March 4, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "COMING TO VEGAS",
+      "MOVIE STARS",
+      "AROUND THE DOGHOUSE WITH SPOT",
+      "FIGURE IT OUT",
+      "SHIPS",
+      "GO TO \"H\""
+    ],
+    "clues": [
+      {
+        "category": "COMING TO VEGAS",
+        "value": 100,
+        "question": "The Rio's Masquerade Village has 3 sections: Rio, Venice & this Mardi Gras city",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 100,
+        "question": "In \"Apollo 13\" he played astronaut Jim Lovell, who was much smarter than Forrest Gump",
+        "answer": "Tom Hanks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE DOGHOUSE WITH SPOT",
+        "value": 100,
+        "question": "Spot has never managed to lie on top of his doghouse like this Peanuts character",
+        "answer": "Snoopy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FIGURE IT OUT",
+        "value": 100,
+        "question": "The number of players required for solitaire cribbage",
+        "answer": "1",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 100,
+        "question": "In 1787 Lt. William Bligh was given command of this 215-ton ship",
+        "answer": "H.M.S. Bounty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GO TO \"H\"",
+        "value": 100,
+        "question": "Buzz in when you know this one -- in ancient times, this sweet, sticky liquid was used to treat wounds",
+        "answer": "Honey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COMING TO VEGAS",
+        "value": 200,
+        "question": "Some new slots in town are based on this, our sister game show; you may want to give them a \"sp_n\"",
+        "answer": "Wheel Of Fortune",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 200,
+        "question": "Teri Garr played Dustin Hoffman's neglected girlfriend in this 1982 comedy; what a \"drag\"!",
+        "answer": "Tootsie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE DOGHOUSE WITH SPOT",
+        "value": 200,
+        "question": "Spot's owner puts a special collar on Spot to keep these insects from jumping onto him",
+        "answer": "Fleas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FIGURE IT OUT",
+        "value": 200,
+        "question": "She played a lovely model named Zsa Zsa in the movie musical \"Lovely to Look At\"",
+        "answer": "Zsa Zsa Gabor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 200,
+        "question": "The March 9, 1862 battle of these 2 ships was the 1st conflict between ironclads",
+        "answer": "Monitor & Merrimac",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GO TO \"H\"",
+        "value": 200,
+        "question": "At best, it's a computer enthusiast; at worst, it's one who illegally taps into your computer",
+        "answer": "Hacker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COMING TO VEGAS",
+        "value": 300,
+        "question": "This pair's Secret Garden at the Mirage is a haven for endangered animals",
+        "answer": "Siegfried & Roy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 300,
+        "question": "In 1997 he was named best actor at Cannes for \"She's So Lovely\", which co-starred his lovely wife Robin Wright",
+        "answer": "Sean Penn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE DOGHOUSE WITH SPOT",
+        "value": 300,
+        "question": "Always the picky eater, Spot will only eat this brand's \"Dog Chow\" & an occasional bird",
+        "answer": "Purina",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FIGURE IT OUT",
+        "value": 300,
+        "question": "He was the first U.S. president who was not a college graduate",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 300,
+        "question": "In the summer of 1870, this steamboat named for a Southern hero defeated the Natchez in a match race",
+        "answer": "Robert E. Lee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GO TO \"H\"",
+        "value": 300,
+        "question": "Half the Earth, or half the cerebrum or cerebellum",
+        "answer": "Hemisphere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COMING TO VEGAS",
+        "value": 400,
+        "question": "This hotel boasts an over 50' lion advertised as the largest bronze sculpture in the U.S.",
+        "answer": "MGM Grand",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 400,
+        "question": "Actor seen here acting really dumb in \"Dumb and Dumber\":",
+        "answer": "Jeff Daniels",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE DOGHOUSE WITH SPOT",
+        "value": 400,
+        "question": "Spot's owner made up the word \"Schnottish\" for Spot, a mix of schnauzer & this type of terrier",
+        "answer": "Scottish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FIGURE IT OUT",
+        "value": 400,
+        "question": "Guinness says Mike Racz did this to 100 oysters in a record 2 minutes, 20.07 seconds",
+        "answer": "Shucking",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 400,
+        "question": "The British sent over 60 vessels against this German battleship before it sank on May 27, 1941",
+        "answer": "Bismarck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GO TO \"H\"",
+        "value": 400,
+        "question": "It's the term for an animal that feeds mainly on grass & other plants",
+        "answer": "Herbivore",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COMING TO VEGAS",
+        "value": 500,
+        "question": "This hotel recently doubled the size of its Forum shopping area",
+        "answer": "Caesars Palace",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 500,
+        "question": "In a 1997 film she found \"That Old Feeling\" with Dennis Farina",
+        "answer": "Bette Midler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE DOGHOUSE WITH SPOT",
+        "value": 500,
+        "question": "The Post-Dispatch can be found in Spot's doghouse because he lives in this Midwestern city",
+        "answer": "St. Louis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FIGURE IT OUT",
+        "value": 500,
+        "question": "It's the official language of San Marino & of the country that surrounds San Marino",
+        "answer": "Italian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 1000,
+        "question": "Ship whose memorial is seen here: (in Pearl Harbor)",
+        "answer": "U.S.S. Arizona",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GO TO \"H\"",
+        "value": 500,
+        "question": "This Japanese ritual is also known as seppuku",
+        "answer": "Hari-kari",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MUSIC POTPOURRI",
+      "HISTORIC NAMES",
+      "ONOMATOPOETIC WORDS",
+      "LITERATURE",
+      "MAGAZINES",
+      "6 DEGREES OF KEVIN BACON"
+    ],
+    "clues": [
+      {
+        "category": "MUSIC POTPOURRI",
+        "value": 200,
+        "question": "This Barry Manilow hit is subtitled \"At The Copa\"",
+        "answer": "\"Copacabana\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "This English \"conqueror\" was crowned in London on Christmas Day, 1066",
+        "answer": "William the Conqueror",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ONOMATOPOETIC WORDS",
+        "value": 200,
+        "question": "The sound of a horse's hoof hitting the pavement, it usually follows clip",
+        "answer": "Clop",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "Dan'l Webster was the name of the title amphibian in \"The Celebrated Jumping Frog Of\" this \"County\"",
+        "answer": "Calaveras County",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "Ellery Queen & now Mary Higgins Clark have their name on this type of magazine",
+        "answer": "Mystery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "6 DEGREES OF KEVIN BACON",
+        "value": 200,
+        "question": "Meg Ryan was in \"I.Q.\" with Walter Matthau, who was in this Oliver Stone initial film with Kevin",
+        "answer": "JFK",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MUSIC POTPOURRI",
+        "value": 400,
+        "question": "Invented in recent years, boobams are percussion instruments often made from this woody grass",
+        "answer": "Bamboo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "Although we do know he crossed the Alps with about 40 elephants, we don't know what route he took",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ONOMATOPOETIC WORDS",
+        "value": 400,
+        "question": "Ms. Fromme could tell you it's this wheel that gets the most grease",
+        "answer": "Squeaky wheel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "Sancho Panza rides a donkey named Dapple in this Cervantes novel",
+        "answer": "Don Quixote",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "\"We drink, we smoke, we gamble\" is the motto of Milton, a magazine named for him",
+        "answer": "Milton Berle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "6 DEGREES OF KEVIN BACON",
+        "value": 400,
+        "question": "F. Murray Abraham was in \"Amadeus\" with Tom Hulce, who did this National Lampoon movie with Kevin",
+        "answer": "Animal House",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MUSIC POTPOURRI",
+        "value": 600,
+        "question": "Ska & rock steady were predecessors of this style that developed in Jamaica in the 1960s",
+        "answer": "Reggae",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 600,
+        "question": "Prior to his 1793 execution, this French king yelled, \"I am innocent of all charges brought against me\"",
+        "answer": "Louis XVI",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ONOMATOPOETIC WORDS",
+        "value": 600,
+        "question": "For the hip-hop duo Tag Team, it preceded \"There It Is\"",
+        "answer": "\"Whoomp!\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "The final chapter of \"The Scarlet Letter\" says that her tombstone bore the letter \"A\"",
+        "answer": "Hester Prynne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 600,
+        "question": "Woman seen here; she has a magazine named for her: (\"It's a good thing\")",
+        "answer": "Martha Stewart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "6 DEGREES OF KEVIN BACON",
+        "value": 600,
+        "question": "Boris Karloff did \"The Raven\" with Jack Nicholson, who was in this Navy courtroom drama with Kevin",
+        "answer": "A Few Good Men",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MUSIC POTPOURRI",
+        "value": 800,
+        "question": "From a Spanish word meaning \"Of Malaga\", it's a Spanish folk tune native to Malaga",
+        "answer": "Malaguena",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 800,
+        "question": "On July 26, 1956 he announced that the Suez Canal \"Will be run by Egyptians\"",
+        "answer": "Gamal A. Nasser",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ONOMATOPOETIC WORDS",
+        "value": 800,
+        "question": "This onomatopoetic word precedes art, fly & gun",
+        "answer": "Pop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "Archdeacon Claude Frollo was this hunchback's master",
+        "answer": "Quasimodo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 800,
+        "question": "In 1947 this family's magazine was \"The Changing Times\", now it's \"Personal Finance\"",
+        "answer": "Kiplinger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "6 DEGREES OF KEVIN BACON",
+        "value": 800,
+        "question": "Cindy Crawford was in \"Fair Game\" with William Baldwin, who did this medical school thriller with Kevin",
+        "answer": "Flatliners",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MUSIC POTPOURRI",
+        "value": 2000,
+        "question": "Despite its name, this British band heard here was a trio: \"Hold me now...\"",
+        "answer": "The Thompson Twins",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 1000,
+        "question": "Begun on Jan. 1, 1660, his \"Diary\" held thrilling accounts of the Plague & the Great Fire of London",
+        "answer": "Samuel Pepys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ONOMATOPOETIC WORDS",
+        "value": 1000,
+        "question": "Stripes & plaids worn together, cymballically speaking",
+        "answer": "Clash",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LITERATURE",
+        "value": 2000,
+        "question": "This Poe tale contains the line, \"The French army had entered Toledo\"",
+        "answer": "The Pit & The Pendulum",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1000,
+        "question": "He's built up his body & his name, which is found over \"Muscle And Fitness\" & \"Shape\"",
+        "answer": "Joe Weider",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "6 DEGREES OF KEVIN BACON",
+        "value": 1000,
+        "question": "Alex Trebek was in \"Short Cuts\" with Fred Ward, who acted in this underground peril film with Kevin",
+        "answer": "Tremors",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SCIENTIFIC DISCOVERIES",
+    "clue": "They got their name because the man who discovered them in 1895 had no idea what they were",
+    "answer": "X-Rays (discovered by Wilhelm Roentgen)"
+  },
+  "gameId": "3118",
+  "gameDate": "Wednesday, March 4, 1998"
+}

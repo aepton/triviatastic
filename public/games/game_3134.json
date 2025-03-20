@@ -1,0 +1,574 @@
+{
+  "title": "Show #4452 - Tuesday, January 6, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "THE WAR YEARS",
+      "SONGS EVERYBODY KNOWS",
+      "DOME, SWEET DOME",
+      "GIMME AN \"S\"!",
+      "MACHINERY",
+      "THE LAST"
+    ],
+    "clues": [
+      {
+        "category": "THE WAR YEARS",
+        "value": 200,
+        "question": "In Indochina:1957-1975",
+        "answer": "the Vietnam War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SONGS EVERYBODY KNOWS",
+        "value": 200,
+        "question": "A Santa Cruz, California pub is named for this irritating ditty sung on long journeys",
+        "answer": "\"99 Bottles of Beer\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "DOME, SWEET DOME",
+        "value": 200,
+        "question": "It's the European city you'll visit to see the dome seen here",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GIMME AN \"S\"!",
+        "value": 200,
+        "question": "The right side of a ship",
+        "answer": "starboard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MACHINERY",
+        "value": 200,
+        "question": "In 2002 China unveiled its first homegrown \"super\" one of these, with 272 gigabytes of RAM",
+        "answer": "computer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE LAST",
+        "value": 200,
+        "question": "Ordered by Texas inmate Stanley Baker, Jr., it included 2 16-oz. ribeyes, 2 potatoes & a pint of ice cream",
+        "answer": "his last meal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE WAR YEARS",
+        "value": 400,
+        "question": "In South Africa:1899-1902",
+        "answer": "the Boer War",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SONGS EVERYBODY KNOWS",
+        "value": 400,
+        "question": "The \"Pop!\" in this children's song may be an old word for pawn, & the song is about pawning all one's possessions",
+        "answer": "\"Pop Goes The Weasel\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "DOME, SWEET DOME",
+        "value": 400,
+        "question": "The only ruin intenionally left standing in this Japanese city is the A-Bomb Dome",
+        "answer": "Hiroshima",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GIMME AN \"S\"!",
+        "value": 400,
+        "question": "You might \"promenade left\" & \"do-si-do\" in this style of popular American folk dance",
+        "answer": "square dance",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MACHINERY",
+        "value": 400,
+        "question": "Named for a typographical mark, it copied written material using an ink-transfer process",
+        "answer": "ditto machine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE LAST",
+        "value": 400,
+        "question": "\"Why Me?\" Dept.:In 1973 apprentice plumber Dwight Stone became the last man to enter the U.S. Army this way",
+        "answer": "the draft",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE WAR YEARS",
+        "value": 600,
+        "question": "In the south Atlantic:1982",
+        "answer": "the Falkland Islands War",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SONGS EVERYBODY KNOWS",
+        "value": 600,
+        "question": "Now over a century old, it's the seasonal song heard here",
+        "answer": "\"In the Good Old Summertime\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "DOME, SWEET DOME",
+        "value": 600,
+        "question": "Architect Thomas Walter completed the cast-iron dome of this Washington, D.C. building in 1863",
+        "answer": "the U.S. Capitol",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GIMME AN \"S\"!",
+        "value": 600,
+        "question": "Until nylon was developed, many parachutes were made out of this natural material",
+        "answer": "silk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MACHINERY",
+        "value": 600,
+        "question": "The Jack LaLanne power one of these has surgical blades & a super-sized pulp catcher",
+        "answer": "juicer",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE LAST",
+        "value": 600,
+        "question": "The Garde Republicaine is France's last of these horse-mounted regiments",
+        "answer": "cavalry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE WAR YEARS",
+        "value": 800,
+        "question": "In France:1337-1453",
+        "answer": "the Hundred Years' War",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SONGS EVERYBODY KNOWS",
+        "value": 800,
+        "question": "Lines added to this song include \"She'll be tuggin' on two turtles\" & \"She'll be pluckin' four fat pheasants\"",
+        "answer": "\"She'll Be Coming 'Round the Mountain\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "DOME, SWEET DOME",
+        "value": 800,
+        "question": "The frescoes that decorate the interior of the dome of this London cathedral are by Sir James Thornhill",
+        "answer": "St. Paul's Cathedral",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GIMME AN \"S\"!",
+        "value": 800,
+        "question": "It's the body of water in the title of the following orchestral favorite",
+        "answer": "\"Swan Lake\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MACHINERY",
+        "value": 800,
+        "question": "Also meaning \"to disturb or excite\", it's the term for the action of most automatic washing machines",
+        "answer": "agitate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE LAST",
+        "value": 800,
+        "question": "Alaska is home to the USA's last flagstop one of these, which passengers flag down as it approaches",
+        "answer": "the train",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE WAR YEARS",
+        "value": 1000,
+        "question": "A series of wars in north Africa & around the Mediterranean:264-146 B.C.",
+        "answer": "the Punic Wars",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SONGS EVERYBODY KNOWS",
+        "value": 1000,
+        "question": "This Italian classic whose title translates as \"O My Sun!\" dates from 1898",
+        "answer": "\"'O Sole Mio\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "DOME, SWEET DOME",
+        "value": 1000,
+        "question": "Completed around 691, this Muslim shrine in Jerusalem is also known as the Mosque of Omar",
+        "answer": "the Dome of the Rock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GIMME AN \"S\"!",
+        "value": 1000,
+        "question": "The Red Sea is connected to the Mediterranean Sea by this peninsula",
+        "answer": "the Sinai Peninsula",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MACHINERY",
+        "value": 1000,
+        "question": "(Jimmy of the Clue Crew at the Louisville Slugger Museum)  Once upon a time Louisville Sluggers were made by hand, in 30 minutes each; this machine turns them out in 20 seconds",
+        "answer": "lathe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE LAST",
+        "value": 1000,
+        "question": "The last of the Yahi Indians wouldn't tell his name, so anthropologists called him Ishi, meaning this word",
+        "answer": "man",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "RUSSIAN PAST",
+      "TV ROLL CALL",
+      "HISTORIC NOVELS",
+      "SEEN IN THE MIDWEST",
+      "THERE IS NOTHING LIKE A DANE",
+      "AN ABBREVIATED CATEGORY"
+    ],
+    "clues": [
+      {
+        "category": "RUSSIAN PAST",
+        "value": 400,
+        "question": "In 1812 fleeing Muscovites burned many buildings as his troops marched into Moscow",
+        "answer": "Napoleon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV ROLL CALL",
+        "value": 400,
+        "question": "Sharon, Jack, Kelly & Ozzy",
+        "answer": "The Osbournes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NOVELS",
+        "value": 400,
+        "question": "Norman Mailer's \"Ancient Evenings\" is set in this country between the reigns of Ramses II & Ramses IX",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SEEN IN THE MIDWEST",
+        "value": 400,
+        "question": "Bronner's Christmas Wonderland in Frankenmuth, MI. has over 500 of these scenes, & one's life-size",
+        "answer": "nativity scenes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THERE IS NOTHING LIKE A DANE",
+        "value": 400,
+        "question": "In 1724 this Dane was sent to explore the water routes between Siberia & North America",
+        "answer": "(Vitus) Bering",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AN ABBREVIATED CATEGORY",
+        "value": 400,
+        "question": "29.57 ml., milliliters, equals 1 fl. oz., this",
+        "answer": "fluid ounce",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RUSSIAN PAST",
+        "value": 800,
+        "question": "In 1703 this city on the Neva River became Russia's first built in imitation of western European cities",
+        "answer": "St. Petersburg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV ROLL CALL",
+        "value": 800,
+        "question": "Cousin Pearl,Mr. Drysdale,Elly May",
+        "answer": "The Beverly Hillbillies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NOVELS",
+        "value": 800,
+        "question": "This dueling vice president was the subject of a 1973 novel by Gore Vidal",
+        "answer": "(Aaron) Burr",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SEEN IN THE MIDWEST",
+        "value": 800,
+        "question": "Liberty, Kansas has restored the site of the first daylight bank robbery by this man's gang",
+        "answer": "(Jesse) James",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THERE IS NOTHING LIKE A DANE",
+        "value": 800,
+        "question": "This Danish baroness' best-known work is \"Out of Africa\"",
+        "answer": "(Isak) Dinesen/Karen Blixen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AN ABBREVIATED CATEGORY",
+        "value": 800,
+        "question": "It's abbreviated V.O. & movies that tell coming-of-age stories use a lot of it",
+        "answer": "voiceover",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RUSSIAN PAST",
+        "value": 1200,
+        "question": "In 1972 Nixon & Brezhnev signed an agreement to limit nuclear arms after a series of meetings called SALT, or this",
+        "answer": "Strategic Arms Limitation Talks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV ROLL CALL",
+        "value": 1200,
+        "question": "Hannibal Smith,Howling Mad Murdock,B.A. Baracus",
+        "answer": "The A-Team",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NOVELS",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew in Alaska)  This famed western writer turned way northwest to write his historical novel \"Sitka\"",
+        "answer": "Louis L'Amour",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SEEN IN THE MIDWEST",
+        "value": 1200,
+        "question": "The Alpine-Alpa Restaurant near Wilmot, Ohio has a 23 1/2-foot-tall one of these timepieces",
+        "answer": "cuckoo clock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THERE IS NOTHING LIKE A DANE",
+        "value": 1200,
+        "question": "In 1920 this man became the director of Copenhagen's Institute for Theoretical Physics",
+        "answer": "Niels Bohr",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AN ABBREVIATED CATEGORY",
+        "value": 1200,
+        "question": "MRE is short for these military munchies",
+        "answer": "meals, ready-to-eat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RUSSIAN PAST",
+        "value": 1600,
+        "question": "In 1240 Batu & his troops destroyed Kiev & Russia became a part of this empire",
+        "answer": "the Mongol Empire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV ROLL CALL",
+        "value": 1600,
+        "question": "Basil,Sybil,Polly,Manuel",
+        "answer": "Fawlty Towers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NOVELS",
+        "value": 1600,
+        "question": "Robert Graves wrote this 1934 classic about a Roman emperor in the form of an autobiographical memoir",
+        "answer": "I, Claudius",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SEEN IN THE MIDWEST",
+        "value": 1600,
+        "question": "An Auburn, Indiana museum has over 15 examples of this \"Duesy\" of a car, including the one seen here",
+        "answer": "Duesenberg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THERE IS NOTHING LIKE A DANE",
+        "value": 1600,
+        "question": "Born in Copenhagen in 1813, this Danish philosopher helped lay the foundation of existentialism",
+        "answer": "(Soren) Kierkegaard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AN ABBREVIATED CATEGORY",
+        "value": 1600,
+        "question": "Found before Albany & Oswego, SUNY stands for this",
+        "answer": "State University of New York",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RUSSIAN PAST",
+        "value": 2000,
+        "question": "In 1903 Russia's Socialist Democratic Labor Party split into 2 groups: the Bolsheviks & this",
+        "answer": "the Mensheviks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV ROLL CALL",
+        "value": 2000,
+        "question": "Noah Bain,Alexander Mundy,Alister Mundy",
+        "answer": "It Takes a Thief",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NOVELS",
+        "value": 2000,
+        "question": "In a 2002 novel this author of the \"North and South\" trilogy told the history of \"Charleston\"",
+        "answer": "(John) Jakes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SEEN IN THE MIDWEST",
+        "value": 2000,
+        "question": "The Berghoff Restaurant in Chicago displays one of these issued in 1933, bearing the number 1",
+        "answer": "liquor license",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THERE IS NOTHING LIKE A DANE",
+        "value": 2000,
+        "question": "Kepler's mentor, this Danish astronomer lost part of his nose in a duel",
+        "answer": "Tycho Brahe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AN ABBREVIATED CATEGORY",
+        "value": 2000,
+        "question": "(Sofia of the Clue Crew at the Goodyear Blimp's home base)  Each side of the Goodyear Blimp displays about 3,800 of these devices, abbreviated LED",
+        "answer": "light-emitting diode",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ANIMALS",
+    "clue": "Camelus, the genus name of camels, is also the species name of these birds",
+    "answer": "ostriches"
+  },
+  "gameId": "4452",
+  "gameDate": "Tuesday, January 6, 2004"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #4959 - Thursday, March 16, 2006",
+  "jeopardyRound": {
+    "categories": [
+      "SHAKESPEARE",
+      "COMEDY OF ERRORS",
+      "TWELFTH NIGHT",
+      "KING JOHN",
+      "MEASURE FOR MEASURE",
+      "AS YOU LIKE \"IT\""
+    ],
+    "clues": [
+      {
+        "category": "SHAKESPEARE",
+        "value": 200,
+        "question": "The Royal Shakespeare Theatre is in this town; the theatre overlooks a river",
+        "answer": "Stratford-on-Avon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COMEDY OF ERRORS",
+        "value": 200,
+        "question": "To distract the media, Kevin Kline puts pratfall-prone Inspector Clouseau on the case in this 2006 movie",
+        "answer": "The Pink Panther",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TWELFTH NIGHT",
+        "value": 200,
+        "question": "Dealing with a beastly triple-header was this man's famous twelfth labor",
+        "answer": "Hercules",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "KING JOHN",
+        "value": 200,
+        "question": "John died in October 1216, probably still stewing over this document he'd agreed to 16 months before",
+        "answer": "the Magna Carta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MEASURE FOR MEASURE",
+        "value": 200,
+        "question": "Small glasses behind the bar include the shot & this one used to measure out an ounce & a half",
+        "answer": "a jigger",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AS YOU LIKE \"IT\"",
+        "value": 200,
+        "question": "If you're in the mood for travel, you're said to have these feet",
+        "answer": "itchy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 400,
+        "question": "\"The Winter's Tale\" has the memorable stage direction \"Exit pursued by\" this ursine beast",
+        "answer": "a bear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COMEDY OF ERRORS",
+        "value": 400,
+        "question": "Nicolas Cage & Holly Hunter perform a type of redistribution of baby wealth in this 1987 comedy",
+        "answer": "Raising Arizona",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TWELFTH NIGHT",
+        "value": 400,
+        "question": "The traditional present for your twelfth wedding anniversary is this fabric created by a type of moth larva",
+        "answer": "silk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "KING JOHN",
+        "value": 400,
+        "question": "John outlawed Eustace the monk but had nothing to do with this fabled outlaw who's portrayed as his adversary",
+        "answer": "Robin Hood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MEASURE FOR MEASURE",
+        "value": 400,
+        "question": "Measured in degrees, it's the angular distance north or south of the Earth's equator",
+        "answer": "latitude",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AS YOU LIKE \"IT\"",
+        "value": 400,
+        "question": "Its territory includes the island of Elba",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 600,
+        "question": "Forget rotten; T.S. Eliot said \"So far from being Shakespeare's masterpiece\", it \"is most certainly an artistic failure\"",
+        "answer": "Hamlet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COMEDY OF ERRORS",
+        "value": 600,
+        "question": "Appropriately, it's this comedy in which Groucho as Prof. Wagstaff says, \"I'd horsewhip you--if I had a horse\"",
+        "answer": "Horse Feathers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TWELFTH NIGHT",
+        "value": 600,
+        "question": "Seen here, she represented New York's 12th District in the House of Representatives from 1969-1983",
+        "answer": "Shirley Chisholm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "KING JOHN",
+        "value": 600,
+        "question": "When young John was lord of this island, he & his buddies rudely laughed at the beards of local chieftains",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEASURE FOR MEASURE",
+        "value": 600,
+        "question": "\"Welcome to\" this scale named for a child's structure; it's 1:12, 1 inch equaling 1 foot",
+        "answer": "dollhouse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AS YOU LIKE \"IT\"",
+        "value": 600,
+        "question": "Novelty bikini ballad that hit the top of the charts in 1960",
+        "answer": "\"Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 800,
+        "question": "The line \"All the world's a stage\" may have been a reference to this theatre, home to Shakespeare's acting co. in 1599",
+        "answer": "the Globe Theatre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COMEDY OF ERRORS",
+        "value": 800,
+        "question": "A leopard is the \"Baby\" in the title of this screwball comedy starring Cary Grant & Katharine Hepburn",
+        "answer": "Bringing Up Baby",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TWELFTH NIGHT",
+        "value": 800,
+        "question": "The Twelfth Amendment to the U.S. Constitution concerns a revamping of this \"college\"",
+        "answer": "the Electoral College",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "KING JOHN",
+        "value": 800,
+        "question": "John supported this dashing brother & future king in his rebellion against their dad, Henry II",
+        "answer": "Richard the Lionhearted",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEASURE FOR MEASURE",
+        "value": 800,
+        "question": "A hundredweight in the U.S. is 100 of these",
+        "answer": "a pound",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AS YOU LIKE \"IT\"",
+        "value": 800,
+        "question": "Fiddler Perlman",
+        "answer": "Itzhak",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1000,
+        "question": "One of Shakespeare's sisters had this name, the same as Will's wife",
+        "answer": "Anne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COMEDY OF ERRORS",
+        "value": 1000,
+        "question": "1986 film in which Bette Midler exclaims to Helen Slater, \"I'm being marked down... I've been kidnapped by Kmart!\"",
+        "answer": "Ruthless People",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TWELFTH NIGHT",
+        "value": 1000,
+        "question": "This twelfth U.S. president died in office, & his daughter married Jefferson Davis",
+        "answer": "Zachary Taylor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "KING JOHN",
+        "value": 1000,
+        "question": "As he controlled no territory in his youth, John was known as John \"Lack-\" this",
+        "answer": "land",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MEASURE FOR MEASURE",
+        "value": 1000,
+        "question": "In gold content measurement, one karat is equal to this fraction of pure gold",
+        "answer": "1/24",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AS YOU LIKE \"IT\"",
+        "value": 1000,
+        "question": "According to the Gospel of John in the King James Bible, they were the last 3 words spoken by Jesus on the Cross",
+        "answer": "\"It is finished\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD LEADERS",
+      "1960s ROCK LYRICS",
+      "DON QUIZ-OTE",
+      "AIRLINE AD SLOGANS",
+      "SURVIVOR GEOGRAPHY",
+      "SILENT \"G\""
+    ],
+    "clues": [
+      {
+        "category": "WORLD LEADERS",
+        "value": 400,
+        "question": "This African was a prisoner for 28 years, then a world leader for 5",
+        "answer": "Nelson Mandela",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "1960s ROCK LYRICS",
+        "value": 400,
+        "question": "\"Come on baby let's do\" this dance \"take me by my little hand and go like this\"",
+        "answer": "\"The Twist\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "DON QUIZ-OTE",
+        "value": 400,
+        "question": "In 1963 he was a congressman from Illinois; in '75 he began his first stint as Secretary of Defense",
+        "answer": "Donald Rumsfeld",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AIRLINE AD SLOGANS",
+        "value": 400,
+        "question": "\"Something special in the air\"",
+        "answer": "American Airlines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SURVIVOR GEOGRAPHY",
+        "value": 400,
+        "question": "(Jeff Probst gives the clue from a rocky exotic locale.)  \"Survivor: Vanuatu\" & \"Survivor: Palau\" both took place in this ocean",
+        "answer": "the Pacific Ocean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SILENT \"G\"",
+        "value": 400,
+        "question": "This popular pasta dish consists of wide, flat noodles layered with meat, cheese & tomato sauce",
+        "answer": "lasagna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 800,
+        "question": "In 1920, 1922, 1926 & 1990 this country had a president with Chamorro in his or her name",
+        "answer": "Nicaragua",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "1960s ROCK LYRICS",
+        "value": 800,
+        "question": "In this 1965 hit, The Beatles sang, \"Suddenly, I'm not half the man I used to be.  There's a shadow hanging over me\"",
+        "answer": "\"Yesterday\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "DON QUIZ-OTE",
+        "value": 800,
+        "question": "At age 28 he got NYC to build a convention center on the site of the Penn Central railyards",
+        "answer": "Donald Trump",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AIRLINE AD SLOGANS",
+        "value": 800,
+        "question": "\"The Wings of Italy\"",
+        "answer": "Alitalia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SURVIVOR GEOGRAPHY",
+        "value": 800,
+        "question": "(Jeff Probst delivers from near a small grove of trees.)  The sixth \"Survivor\" was along this river that has more than 10 times the volume of flow of the Mississippi",
+        "answer": "the Amazon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SILENT \"G\"",
+        "value": 800,
+        "question": "That's it, I'm giving up my position, I'm stepping down, I'm doing this",
+        "answer": "resigning",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 1200,
+        "question": "(Jimmy of the Clue Crew strolls through a shipyard in Gdansk, Poland.) I'm in what's in now simply called the Gdansk Shipyard; during Polish Communist rule, it was named for this man",
+        "answer": "Lenin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "1960s ROCK LYRICS",
+        "value": 1200,
+        "question": "\"You know that it would be untrue, you know that I would be a liar\" if we said this song wasn't a Doors hit",
+        "answer": "\"Light My Fire\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "DON QUIZ-OTE",
+        "value": 1200,
+        "question": "After quitting a 1950s series, he quipped, \"When you've made 6 pictures and the mule still gets more fan mail...\"",
+        "answer": "Donald O'Connor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AIRLINE AD SLOGANS",
+        "value": 1200,
+        "question": "\"We love to fly and it shows\"",
+        "answer": "Delta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SURVIVOR GEOGRAPHY",
+        "value": 1200,
+        "question": "(Jeff Probst reads from near the thicket of trees again.)  In 2005 \"Survivor\" went to the Maya Empire in this most populous Central American country",
+        "answer": "Guatemala",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SILENT \"G\"",
+        "value": 1200,
+        "question": "Injurious to crops, it's a long period of dry weather with little rainfall",
+        "answer": "a drought",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 1600,
+        "question": "Prime Minister of this country under President Banana, Robert Mugabe became its president in 1987",
+        "answer": "Zimbabwe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "1960s ROCK LYRICS",
+        "value": 1600,
+        "question": "\"On a cold and gray Chicago mornin', a poor little baby child is born\" here, \"and his mama cries\"",
+        "answer": "\"In The Ghetto\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "DON QUIZ-OTE",
+        "value": 1600,
+        "question": "In 1938 he became the first player to win tennis' Grand Slam",
+        "answer": "Don Budge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AIRLINE AD SLOGANS",
+        "value": 1600,
+        "question": "\"We have to earn our wings every day\"",
+        "answer": "Eastern",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SURVIVOR GEOGRAPHY",
+        "value": 1600,
+        "question": "(Jeff Probst reads from near some foliage.)  In the 2nd season, castaways made camp in the Outback of this \"royal\" Australian state",
+        "answer": "Queensland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SILENT \"G\"",
+        "value": 1600,
+        "question": "It can mean kind & good-natured as well as non-cancerous",
+        "answer": "benign",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 2000,
+        "question": "(Jimmy reads from the streets of Lubeck, Germany.)  This Lubeck-born West German chancellor said, \"I always carried a piece of Lubeck with me wherever I had to go\"",
+        "answer": "Willy Brandt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "1960s ROCK LYRICS",
+        "value": 2000,
+        "question": "This \"Sweet\" Tommy James & the Shondells hit was \"so stimulating, so intoxicating\", \"drink it right down\"",
+        "answer": "\"Sweet Cherry Wine\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "DON QUIZ-OTE",
+        "value": 2000,
+        "question": "In 1967 this man's aircraft company merged with McDonnell Aircraft",
+        "answer": "(Donald) Douglas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AIRLINE AD SLOGANS",
+        "value": 2000,
+        "question": "\"The world's favourite airline\"",
+        "answer": "British Airways",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SURVIVOR GEOGRAPHY",
+        "value": 2000,
+        "question": "(Jeff Probst for a final time.)  In the 1st \"Survivor\", when you were voted off the island, it was Pulau Tiga, off Borneo, in this sea",
+        "answer": "the South China Sea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SILENT \"G\"",
+        "value": 2000,
+        "question": "Ring the bells & tell us the style of bed seen here",
+        "answer": "sleigh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FOOD LORE",
+    "clue": "In food lore, the design of this treat symbolizes arms folded in prayer & the 3 holes stand for the Trinity",
+    "answer": "the pretzel"
+  },
+  "gameId": "4959",
+  "gameDate": "Thursday, March 16, 2006"
+}

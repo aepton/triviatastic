@@ -1,0 +1,574 @@
+{
+  "title": "Show #3906 - Monday, September 3, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "TRUE STORY",
+      "OSCAR-WINNING ROLES",
+      "THEY HAVE HOOVES",
+      "DANCES",
+      "BALLS",
+      "RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "TRUE STORY",
+        "value": 100,
+        "question": "John Hersey wrote about 6 survivors of an August 6, 1945 explosion in this title city",
+        "answer": "Hiroshima",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING ROLES",
+        "value": 100,
+        "question": "Mary Poppins",
+        "answer": "Julie Andrews",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THEY HAVE HOOVES",
+        "value": 100,
+        "question": "One variety of the white-tailed species of this weighs only 50-75 pounds & lives in the Florida Keys",
+        "answer": "the deer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DANCES",
+        "value": 100,
+        "question": "Technically, a bubble dance is done with these props, not bubbles",
+        "answer": "balloons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BALLS",
+        "value": 100,
+        "question": "Mother & performer seen here in 1947",
+        "answer": "Lucille Ball",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 100,
+        "question": "Mus musculus, this grayish-brown rodent lives in or near domiciles",
+        "answer": "a house mouse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "TRUE STORY",
+        "value": 200,
+        "question": "In \"Duty First\", alum Ed Ruggero calls this military academy \"America's premier leadership school\"",
+        "answer": "West Point",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING ROLES",
+        "value": 200,
+        "question": "Rooster Cogburn",
+        "answer": "John Wayne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THEY HAVE HOOVES",
+        "value": 200,
+        "question": "This wild African pig has 2 pairs of tusks that may reach a length of 24 inches",
+        "answer": "the warthog",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DANCES",
+        "value": 200,
+        "question": "Back-bending dance that's neither heaven nor hell",
+        "answer": "the limbo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BALLS",
+        "value": 200,
+        "question": "Perhaps, in the future, you'll see one of these divinatory aids",
+        "answer": "a crystal ball",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 200,
+        "question": "Abbreviated term for the genre that includes Isaac Asimov & Ursula K. Le Guin",
+        "answer": "sci-fi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "TRUE STORY",
+        "value": 300,
+        "question": "Dr. Jerri Nielsen gives her account of discovering that she had breast cancer while \"ice bound\" here",
+        "answer": "the South Pole",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING ROLES",
+        "value": 300,
+        "question": "Loretta Lynn",
+        "answer": "Sissy Spacek",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THEY HAVE HOOVES",
+        "value": 300,
+        "question": "Despite its large size, this wild ox of Tibet is quite agile & can swim swift rivers",
+        "answer": "the yak",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DANCES",
+        "value": 300,
+        "question": "A Carioca is a resident of Rio & also a ballroom version of this dance",
+        "answer": "the samba",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BALLS",
+        "value": 300,
+        "question": "We bet you know the balls seen here are used in this game of chance",
+        "answer": "the lottery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 600,
+        "question": "Restaurateur Trader Vic created this rum & curacao cocktail",
+        "answer": "a mai tai",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TRUE STORY",
+        "value": 400,
+        "question": "This gonzo journalist tells the \"Strange and Terrible Saga\" of flying with angels--Hell's Angels",
+        "answer": "Hunter Thompson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING ROLES",
+        "value": 400,
+        "question": "U.S. Marshal Sam Gerard",
+        "answer": "Tommy Lee Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THEY HAVE HOOVES",
+        "value": 400,
+        "question": "It's estimated that fewer than 1,000 members of the Bactrian species of this exist in the world, all in Mongolia & China",
+        "answer": "the camel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DANCES",
+        "value": 400,
+        "question": "It's a lively Spanish-American dance, or a \"Grim\" computer game from Lucas Arts",
+        "answer": "fandango",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BALLS",
+        "value": 400,
+        "question": "Seen here, it's also an offensive term for someone's spouse",
+        "answer": "a ball & chain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 400,
+        "question": "The title of hits by Madonna & Tommy James & the Shondells, it's slang for naughty behavior",
+        "answer": "hanky panky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TRUE STORY",
+        "value": 500,
+        "question": "\"Into Thin Air\" is his account of scaling Everest & the tragedy that befell others around him",
+        "answer": "Jon Krakauer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING ROLES",
+        "value": 500,
+        "question": "Mexican cop Javier Rodriguez Rodriguez",
+        "answer": "Benicio Del Toro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THEY HAVE HOOVES",
+        "value": 500,
+        "question": "The soft, pliant leather from this cud-chewing goat is used as a polishing cloth & to make shirts",
+        "answer": "a chamois",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DANCES",
+        "value": 500,
+        "question": "An old French dance from a German folk dance, or a square dance move",
+        "answer": "an allemande",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BALLS",
+        "value": 500,
+        "question": "Used in large group games, it's the worldly projectile seen here",
+        "answer": "an Earth ball",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 500,
+        "question": "This hyphenated term means haphazard or disorganized",
+        "answer": "willy-nilly",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "TRU STORY",
+      "TV THEME SONGS",
+      "WHERE WERE YOU LAST NIGHT?",
+      "FLIGHT",
+      "ARCHBISHOPS OF YORK",
+      "ACCENTÉ"
+    ],
+    "clues": [
+      {
+        "category": "TRU STORY",
+        "value": 200,
+        "question": "Truman Capote was born on September 30, 1924 in this Southern city",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 200,
+        "question": "\"I'll be there for you when the rain starts to pour, I'll be there for you like I've been there before\"",
+        "answer": "Friends",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHERE WERE YOU LAST NIGHT?",
+        "value": 200,
+        "question": "Dancing at Le Balajo on the Rue de Lappe",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FLIGHT",
+        "value": 200,
+        "question": "Accessories of the dashing WWII Spitfire pilot included a leather helmet & a white silk one of these",
+        "answer": "a scarf",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ARCHBISHOPS OF YORK",
+        "value": 200,
+        "question": "Nicholas Heath, in office from 1555 to 1579, was the last archbishop of this faith",
+        "answer": "Catholicism",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ACCENTÉ",
+        "value": 200,
+        "question": "An accent shows that this word means a summary of one's work experience, not \"to continue\"",
+        "answer": "resumé",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "TRU STORY",
+        "value": 400,
+        "question": "This book about the murder of a farm family blurred the genres of literature & crime reportage",
+        "answer": "In Cold Blood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 400,
+        "question": "\"Raised in the woods so's he knew every tree\"",
+        "answer": "Davy Crockett",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHERE WERE YOU LAST NIGHT?",
+        "value": 400,
+        "question": "Just checking out the view from the top of the Mark Hopkins",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FLIGHT",
+        "value": 400,
+        "question": "The name of Vostok, the Soviets' first manned space flight program, means this direction",
+        "answer": "east",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ARCHBISHOPS OF YORK",
+        "value": 400,
+        "question": "The first Norman archbishop, in 1070, was Thomas of this French tapestry town",
+        "answer": "Bayeux",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ACCENTÉ",
+        "value": 400,
+        "question": "It may be \"au lait\"",
+        "answer": "café",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "TRU STORY",
+        "value": 600,
+        "question": "This novella includes the line \"Holly Golightly had been a tenant in the old brownstone\"",
+        "answer": "Breakfast at Tiffany's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 600,
+        "question": "\"I've been searchin' my soul tonight, I know there's so much more to life\"",
+        "answer": "Ally McBeal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHERE WERE YOU LAST NIGHT?",
+        "value": 600,
+        "question": "Singing karaoke in Shinjuku",
+        "answer": "Tokyo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FLIGHT",
+        "value": 600,
+        "question": "The map shown here illustrates the airline system of these central airports & spokes",
+        "answer": "hubs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ARCHBISHOPS OF YORK",
+        "value": 600,
+        "question": "Early archbishops included Ethelbald, Egbert & this 8th c. one whose name combines parts of the other 2",
+        "answer": "Ethelbert",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ACCENTÉ",
+        "value": 1200,
+        "question": "James Rogers' \"Dictionary of\" these includes \"on the horns of a dilemma\" & \"hook, line & sinker\"",
+        "answer": "clichés",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TRU STORY",
+        "value": 800,
+        "question": "\"The Muses Are Heard\" is Truman's account of going to Moscow with the black cast of this Gershwin show",
+        "answer": "Porgy and Bess",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 800,
+        "question": "\"You're not the boss of me now!  You're not the boss of me now!  You're not the boss of me now & you're not so big!\"",
+        "answer": "Malcolm in the Middle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHERE WERE YOU LAST NIGHT?",
+        "value": 800,
+        "question": "Down in Plaka listening to bouzouki music",
+        "answer": "Athens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FLIGHT",
+        "value": 800,
+        "question": "The hero of the first book by \"Little Prince\" author St.-Exupery is a pilot who delivers this",
+        "answer": "the mail",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ARCHBISHOPS OF YORK",
+        "value": 800,
+        "question": "A half-brother of Richard the Lionheart, Archbishop Geoffrey was a fellow member of this royal house",
+        "answer": "Plantagenet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ACCENTÉ",
+        "value": 800,
+        "question": "It's the basic ballet maneuver seen here",
+        "answer": "plié",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TRU STORY",
+        "value": 1000,
+        "question": "In 1990 this \"Loved One\" actor won a Tony for his portrayal of Capote in the one-man show \"Tru\"",
+        "answer": "Robert Morse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 1000,
+        "question": "In 1965: \"There's a man who leads a life of danger, to everyone he meets he stays a stranger\"",
+        "answer": "Secret Agent",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHERE WERE YOU LAST NIGHT?",
+        "value": 1000,
+        "question": "Having steak gaucho-style at La Chacra",
+        "answer": "Buenos Aires",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FLIGHT",
+        "value": 1000,
+        "question": "This Mach 3 plane was called the RS-71 until LBJ misread it in public & the name was changed",
+        "answer": "the Blackbird (or the SR-71)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ARCHBISHOPS OF YORK",
+        "value": 2000,
+        "question": "As an adviser to Henry VIII, he was made Archbishop of York in 1514 & a cardinal in 1515",
+        "answer": "Thomas Wolsey",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ACCENTÉ",
+        "value": 1000,
+        "question": "Accented term for a Cajun stew of crayfish, vegetables & seasonings over rice",
+        "answer": "étouffée",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AUTOMOTIVE HISTORY",
+    "clue": "This Ford with a name from Native American myth was the first model to be Motor Trend Car of the Year",
+    "answer": "the Thunderbird"
+  },
+  "gameId": "3906",
+  "gameDate": "Monday, September 3, 2001"
+}

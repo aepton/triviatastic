@@ -1,0 +1,574 @@
+{
+  "title": "Show #7603 - Wednesday, October 4, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "WELCOME TO LOS ANGELES",
+      "AUTHORS: BORN & DIED",
+      "TIMELY TALK",
+      "FOOD & DRINK",
+      "CLASSIC POP",
+      "A KING JAMES BIBLE"
+    ],
+    "clues": [
+      {
+        "category": "WELCOME TO LOS ANGELES",
+        "value": 200,
+        "question": "Our local paper, it has a \"Hot Property\" section that tells you which star bought a home & for how many millions",
+        "answer": "The Los Angeles Times",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS: BORN & DIED",
+        "value": 200,
+        "question": "He was born in Lowell, Massachusetts in 1922 & spent some time \"On the Road\" before his death in 1969",
+        "answer": "(Jack) Kerouac",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TIMELY TALK",
+        "value": 200,
+        "question": "The last possible moment to get something done is this hour",
+        "answer": "the eleventh hour",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Beans & oatmeal (not necessarily together) are good sources of this substance that helps food pass through the body",
+        "answer": "fiber",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CLASSIC POP",
+        "value": 200,
+        "question": "\"Baby Love\"",
+        "answer": "The Supremes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "A KING JAMES BIBLE",
+        "value": 200,
+        "question": "And it came to pass that in 1582 young James, then king of only this country, was kidnapped by nobles",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WELCOME TO LOS ANGELES",
+        "value": 400,
+        "question": "This Beverly Hills road doesn't need a Walk of Fame; it has a Walk of Style featuring plaques devoted to Armani and Herb Ritts",
+        "answer": "Rodeo Drive",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS: BORN & DIED",
+        "value": 400,
+        "question": "She was born April 28, 1926 in Monroeville, Alabama & died there February 19, 2016",
+        "answer": "Harper Lee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TIMELY TALK",
+        "value": 400,
+        "question": "If you are prompt for your meetings, you could also be called this synonymous \"P\" word",
+        "answer": "punctual",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "In diner slang, an \"M.D.\" isn't a Mountain Dew but this soft drink",
+        "answer": "Dr Pepper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CLASSIC POP",
+        "value": 400,
+        "question": "\"Only The Lonely\" (1960)",
+        "answer": "Roy Orbison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "A KING JAMES BIBLE",
+        "value": 400,
+        "question": "And behold! In 1603 James I succeeded this queen as England's monarch",
+        "answer": "Elizabeth I",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WELCOME TO LOS ANGELES",
+        "value": 600,
+        "question": "Located in Barnsdall Park & open to the public, Hollyhock House was the first home in L.A. designed by this architect",
+        "answer": "Frank Lloyd Wright",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS: BORN & DIED",
+        "value": 600,
+        "question": "Edgar Allan Poe's tale began in Boston in 1809 & ended in this other \"B\" city in 1849",
+        "answer": "Baltimore",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TIMELY TALK",
+        "value": 600,
+        "question": "4-syllable word for one ancient relic, or ancient times in general",
+        "answer": "antiquity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 600,
+        "question": "\"Liquid gold\" is what Kraft calls this processed product used in its Shells & Cheese",
+        "answer": "Velveeta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CLASSIC POP",
+        "value": 600,
+        "question": "\"In Your Eyes\"",
+        "answer": "Peter Gabriel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "A KING JAMES BIBLE",
+        "value": 600,
+        "question": "Verily, James I was the first English monarch of this royal house",
+        "answer": "Stuart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WELCOME TO LOS ANGELES",
+        "value": 800,
+        "question": "In a 1982 film Monty Python performed live at this Los Angeles landmark",
+        "answer": "the Hollywood Bowl",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS: BORN & DIED",
+        "value": 800,
+        "question": "His story began in Salinas, California in 1902 & ended in New York in 1968",
+        "answer": "(John) Steinbeck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TIMELY TALK",
+        "value": 800,
+        "question": "There's a stream of water in this term for something that happens at the same time as something else",
+        "answer": "concurrent or concurrently",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 800,
+        "question": "The main difference between these two desserts that end in the same three letters is that one contains dairy and the other does not",
+        "answer": "sorbet & sherbet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CLASSIC POP",
+        "value": 800,
+        "question": "\"Mack The Knife\" (1959)",
+        "answer": "Bobby Darin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "A KING JAMES BIBLE",
+        "value": 800,
+        "question": "Blessed are the peacemakers, & in 1604 James & Philip III called off the war between England & this country",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WELCOME TO LOS ANGELES",
+        "value": 1000,
+        "question": "One of the largest city parks in the U.S., it's home to the L.A. Zoo & a famous observatory",
+        "answer": "Griffith Park",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS: BORN & DIED",
+        "value": 1000,
+        "question": "Born in England in 1920, he died there in 2016; \"Watership Down\" came in the middle",
+        "answer": "Richard Adams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TIMELY TALK",
+        "value": 1000,
+        "question": "Before singing about \"The Time Warp\", Riff Raff intones, \"Time is\" this, meaning it passes quickly",
+        "answer": "fleeting",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 1000,
+        "question": "To make a Kir Royale, add creme de cassis to this beverage",
+        "answer": "champagne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CLASSIC POP",
+        "value": 1000,
+        "question": "\"Go Your Own Way\"",
+        "answer": "Fleetwood Mac",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "A KING JAMES BIBLE",
+        "value": 1000,
+        "question": "To everything there is a season, so in 1610 James dissolved this, with which he'd been quarreling",
+        "answer": "Parliament",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LAKES & RIVERS",
+      "THEIR MARRIED NAMES",
+      "3 STRAIGHT VOWELS",
+      "PLAQUE BUILDUP",
+      "CALCULUS",
+      "DENTAL PROBLEMS"
+    ],
+    "clues": [
+      {
+        "category": "LAKES & RIVERS",
+        "value": 400,
+        "question": "In 1858 sewage in this river caused Parliament to shut down due to the stench; Brits called the period the \"Great Stink\"",
+        "answer": "the Thames",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THEIR MARRIED NAMES",
+        "value": 400,
+        "question": "Cooking maven Julia McWilliams",
+        "answer": "Julia Child",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "3 STRAIGHT VOWELS",
+        "value": 400,
+        "question": "The first ones in the 1700s were of people, but now they can be of anything",
+        "answer": "silhouettes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PLAQUE BUILDUP",
+        "value": 400,
+        "question": "Banting & Best's discovery of this hormone used to treat diabetes is recounted on a plaque at the Univ. of Toronto",
+        "answer": "insulin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CALCULUS",
+        "value": 400,
+        "question": "Mathematicians have used calculus to prove that this ratio is less than 22/7, its common approximation",
+        "answer": "pi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DENTAL PROBLEMS",
+        "value": 400,
+        "question": "At age 57 in 1789 he had only one tooth remaining & wore dentures of hippo ivory made by John Greenwood",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 800,
+        "question": "Minnesota's highest point, 2,301' Eagle Mountain, is just a few miles from its lowest point, this Great Lake",
+        "answer": "Superior",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THEIR MARRIED NAMES",
+        "value": 800,
+        "question": "Alpine ace Lindsey Kildow",
+        "answer": "(Lindsey) Vonn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "3 STRAIGHT VOWELS",
+        "value": 800,
+        "question": "In the NYPD it's the rank just below captain",
+        "answer": "lieutenant",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PLAQUE BUILDUP",
+        "value": 800,
+        "question": "There's a plaque on the Dublin house of this brewer & \"founder in 1759 of the company that bears his name\"",
+        "answer": "Guinness",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CALCULUS",
+        "value": 800,
+        "question": "The process of differentiation lets you find the slope of one of these lines that touches a curve at just one point",
+        "answer": "a tangent",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DENTAL PROBLEMS",
+        "value": 800,
+        "question": "In this William Goldman novel, distance runner \"Babe\" Levy has a toothache; old Nazi dentist wants a crack at it",
+        "answer": "Marathon Man",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 1200,
+        "question": "The Zhiguli Hills cause this longest European river to make a sharp loop known as the Samara Bend",
+        "answer": "the Volga River",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THEIR MARRIED NAMES",
+        "value": 1200,
+        "question": "\"Bull Durham\" siren Susan Tomalin",
+        "answer": "Susan Sarandon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "3 STRAIGHT VOWELS",
+        "value": 1200,
+        "question": "This fall off a surfboard while riding a wave is also called a donut",
+        "answer": "a wipeout",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PLAQUE BUILDUP",
+        "value": 1200,
+        "question": "Seen here is Stephanie Kwolek, honored with a plaque as the inventor of this polymer used in body armor",
+        "answer": "Kevlar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CALCULUS",
+        "value": 1200,
+        "question": "\"Calculus\" is Latin for a small one of these, used by the ancients on counting boards",
+        "answer": "a stone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DENTAL PROBLEMS",
+        "value": 1200,
+        "question": "Per the universal numbering system, an adult would likely get rid of these teeth numbered 1, 16, 17 & 32",
+        "answer": "wisdom teeth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 1600,
+        "question": "Rubicon Point Lighthouse on this large lake in the Sierra Nevada was once the world's highest in elevation",
+        "answer": "Lake Tahoe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THEIR MARRIED NAMES",
+        "value": 1600,
+        "question": "Musical \"Heartbreaker\" Pat Andrzejewski",
+        "answer": "Pat Benatar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "3 STRAIGHT VOWELS",
+        "value": 1600,
+        "question": "Beneath the skin",
+        "answer": "subcutaneous",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PLAQUE BUILDUP",
+        "value": 1600,
+        "question": "A plaque in Greenwich Village honors the rebellion named for this bar that sparked an LGBT rights movement",
+        "answer": "Stonewall (Inn)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CALCULUS",
+        "value": 1600,
+        "question": "The rate of change of a function with respect to a variable is denoted by this term that can also mean \"unoriginal\"",
+        "answer": "derivative",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DENTAL PROBLEMS",
+        "value": 1600,
+        "question": "A guild of these tooth-pulling professionals whose name is from the Latin for \"beard\" began in France in 1210",
+        "answer": "barbers",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 2000,
+        "question": "In 2016 NASA reported that this Venezuelan lake was the world's lightning capital with 603 bolts per sq. mile per year",
+        "answer": "Lake Maracaibo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THEIR MARRIED NAMES",
+        "value": 2000,
+        "question": "Fashion designer Diane Simone Michelle Halfin",
+        "answer": "von Furstenberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "3 STRAIGHT VOWELS",
+        "value": 2000,
+        "question": "Ralph Waldo Emerson wrote that this \"without grace is the hook without the bait\"",
+        "answer": "beauty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PLAQUE BUILDUP",
+        "value": 2000,
+        "question": "The house at 2 Rue Fortuny in Paris has a plaque that says this man wrote \"Cyrano de Bergerac\" there",
+        "answer": "(Edmond) Rostand",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CALCULUS",
+        "value": 2000,
+        "question": "It all comes together with this calculus operation that lets you find the precise area under a curve",
+        "answer": "integration",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DENTAL PROBLEMS",
+        "value": 2000,
+        "question": "Usually associated with dentures, this brand lived up to its name by \"repair\"ing the broken teeth of a rare white lion",
+        "answer": "Fixodent",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN PLAYS",
+    "clue": "The latitude & longitude given by the narrator of this 1938 play would set it in Massachusetts, not New Hampshire",
+    "answer": "Our Town"
+  },
+  "gameId": "7603",
+  "gameDate": "Wednesday, October 4, 2017"
+}

@@ -1,0 +1,556 @@
+{
+  "title": "Show #5880 - Friday, March 19, 2010",
+  "jeopardyRound": {
+    "categories": [
+      "HISTORIC WOMEN",
+      "ALLITERATIVE ACTORS",
+      "AVOIDING A DISASTROUS TRIP TO EUROPE",
+      "JEOPARDY! DRINKING GAMES",
+      "SAFETY FIRST",
+      "FINISH THE PALINDROME"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 200,
+        "question": "She met Napoleon after her husband Alexandre de Beauharnais was guillotined in 1794",
+        "answer": "Josephine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ALLITERATIVE ACTORS",
+        "value": 200,
+        "question": "He went \"Old School\" as a \"Wedding Crasher\"",
+        "answer": "Vince Vaughn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AVOIDING A DISASTROUS TRIP TO EUROPE",
+        "value": 200,
+        "question": "Try not to leave this Greek landmark in any more of a shambles than it already is",
+        "answer": "the Parthenon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "JEOPARDY! DRINKING GAMES",
+        "value": 200,
+        "question": "Like actress Sally, this last name of 19th century U.S. department store owner Marshall is singular; add an \"S\"--imbibe",
+        "answer": "Field",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SAFETY FIRST",
+        "value": 200,
+        "question": "The Boat U.S. foundation has a program at waterfronts to lend these & make sure they fit",
+        "answer": "lifejackets",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FINISH THE PALINDROME",
+        "value": 200,
+        "question": "\"Dammit! I'm\" this",
+        "answer": "mad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 400,
+        "question": "She was a teacher & administrator at St. Mary's High School in Calcutta for about 17 years until 1946",
+        "answer": "Mother Teresa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ALLITERATIVE ACTORS",
+        "value": 400,
+        "question": "This \"X-Files\" star went to grad school at Yale but didn't finish his thesis",
+        "answer": "David Duchovny",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AVOIDING A DISASTROUS TRIP TO EUROPE",
+        "value": 400,
+        "question": "Hitting Innsbruck or Salzburg in this country & saying \"G'day, mate!\" over & over will only confuse the locals",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "JEOPARDY! DRINKING GAMES",
+        "value": 400,
+        "question": "When naming this member of the 2nd triumvirate, don't add an \"H\" to his last name or you're talking about J. Lo's hubby",
+        "answer": "Mark Antony",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SAFETY FIRST",
+        "value": 400,
+        "question": "BTSI technology makes you apply this when shifting out of park, so your 6-year-old can't drive off",
+        "answer": "the brakes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FINISH THE PALINDROME",
+        "value": 400,
+        "question": "\"Dennis and Edna\" did this",
+        "answer": "sinned",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 600,
+        "question": "In 1956 this future Israeli prime minister adopted a new last name that means \"to burn brightly\" in Hebrew",
+        "answer": "Golda Meir",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ALLITERATIVE ACTORS",
+        "value": 600,
+        "question": "We were \"Enchanted\" by her performance as Delysia in \"Miss Pettigrew Lives for a Day\"",
+        "answer": "Amy Adams",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AVOIDING A DISASTROUS TRIP TO EUROPE",
+        "value": 600,
+        "question": "If in Norway on July 18, don't inquire if it's a national holiday due to the birth of this traitor in 1887",
+        "answer": "(Vidkun) Quisling",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "JEOPARDY! DRINKING GAMES",
+        "value": 600,
+        "question": "If you add the incorrect \"S\" to this last book of the Bible that tells of the opening of 6 seals, down a whole cup",
+        "answer": "Revelation",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SAFETY FIRST",
+        "value": 600,
+        "question": "You're a lumberjack & you won't be okay if this item lacks a hand guard & throttle interlock",
+        "answer": "chainsaw",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FINISH THE PALINDROME",
+        "value": 600,
+        "question": "\"No lemon, no\" this",
+        "answer": "melon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 800,
+        "question": "In her will, this queen of Castile pleaded for just treatment of New World Indians",
+        "answer": "Isabella",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ALLITERATIVE ACTORS",
+        "value": 800,
+        "question": "This actor turned to directing & won an Oscar for his first effort--\"Ordinary People\"",
+        "answer": "Robert Redford",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AVOIDING A DISASTROUS TRIP TO EUROPE",
+        "value": 800,
+        "question": "Don't sneeze & use one of the 2 extant \"originals\" of this 1215 document at the British Library to wipe your nose",
+        "answer": "the Magna Carta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "JEOPARDY! DRINKING GAMES",
+        "value": 800,
+        "question": "If you say the WCTU is the \"Women's Christian\" rather than the \"Woman's Christian\" this, take a non-alcoholic swig",
+        "answer": "Temperance Union",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SAFETY FIRST",
+        "value": 800,
+        "question": "Uvex specializes in protecting these, as with its innovative Astrospec line",
+        "answer": "eyes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FINISH THE PALINDROME",
+        "value": 800,
+        "question": "\"Lived on decaf, faced no\" this",
+        "answer": "devil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 1000,
+        "question": "While attending Oxford in the 1940s, this Brit became president of the university Conservative Association",
+        "answer": "Margaret Thatcher",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ALLITERATIVE ACTORS",
+        "value": 1000,
+        "question": "Getting caught in the wheels of a machine makes him go berserk in 1936's \"Modern Times\"",
+        "answer": "Charlie Chaplin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AVOIDING A DISASTROUS TRIP TO EUROPE",
+        "value": 1000,
+        "question": "Loudly demanding only ketchup & no mustard at your meals in this capital of Burgundy... bad idea",
+        "answer": "Dijon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "JEOPARDY! DRINKING GAMES",
+        "value": 1000,
+        "question": "Drink up if you say (incorrectly) this African-American author wrote \"The Invisible Man\"; he penned \"Invisible Man\"",
+        "answer": "Ralph Ellison",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SAFETY FIRST",
+        "value": 1000,
+        "question": "Respirators can help prevent coal workers' pneumoconiosis, better known as this",
+        "answer": "black lung disease",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FINISH THE PALINDROME",
+        "value": 1000,
+        "question": "\"Drab as a fool, aloof as a\" this",
+        "answer": "bard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BIBLICAL PAINTINGS",
+      "BERG-OPOLIS",
+      "CHARACTER ASSASSINATION",
+      "UNMANNED SPACE EXPLORATION",
+      "BUGS BUNNY",
+      "WHAT'S UP, \"DOC\"?"
+    ],
+    "clues": [
+      {
+        "category": "BERG-OPOLIS",
+        "value": 400,
+        "question": "The 108th mayor of New York City, he is a graduate of Johns Hopkins & Harvard Business School",
+        "answer": "(Michael) Bloomberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CHARACTER ASSASSINATION",
+        "value": 400,
+        "question": "Weakened by scarlet fever, Beth March was sentenced to death by this author",
+        "answer": "(Louisa May) Alcott",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "UNMANNED SPACE EXPLORATION",
+        "value": 400,
+        "question": "On March 6, 1986 Vega 1 became the first spacecraft to rendezvous with this comet",
+        "answer": "Halley's Comet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BUGS BUNNY",
+        "value": 400,
+        "question": "One of the world's most recognizable characters, Bugs Bunny is a mascot of this movie studio",
+        "answer": "Warner Brothers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S UP, \"DOC\"?",
+        "value": 400,
+        "question": "A nonfiction film about a factual event or person",
+        "answer": "a documentary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BERG-OPOLIS",
+        "value": 800,
+        "question": "He \"saw the best minds of my generation destroyed by madness\"",
+        "answer": "Allen Ginsberg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CHARACTER ASSASSINATION",
+        "value": 800,
+        "question": "This writer didn't flat out say, \"Roderick Usher's own house fell on him\", but the implication is clear",
+        "answer": "(Edgar Allan) Poe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "UNMANNED SPACE EXPLORATION",
+        "value": 800,
+        "question": "In 1989 Magellan became the first probe launched from a Shuttle when Atlantis sent it on its way to this, Earth's twin",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BUGS BUNNY",
+        "value": 800,
+        "question": "He voiced Bugs in almost 200 cartoons over a 50-year period",
+        "answer": "Mel Blanc",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S UP, \"DOC\"?",
+        "value": 800,
+        "question": "A system of beliefs accepted as authoritative by a group's members",
+        "answer": "a doctrine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIBLICAL PAINTINGS",
+        "value": 1200,
+        "question": "One of the most popular paintings at the National Gallery of Art is this surrealist's \"The Sacrament of the Last Supper\"",
+        "answer": "Dalí",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BERG-OPOLIS",
+        "value": 1200,
+        "question": "We're quite sure that this German physicist won a 1932 Nobel Prize",
+        "answer": "Heisenberg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CHARACTER ASSASSINATION",
+        "value": 1200,
+        "question": "Air Force gunner Snowden catches some flak & dies in Yossarian's arms, courtesy of this author",
+        "answer": "(Joseph) Heller",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "UNMANNED SPACE EXPLORATION",
+        "value": 1200,
+        "question": "The most distant manmade object, this probe launched in 1977 may travel to interstellar space in 2020",
+        "answer": "Voyager",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BUGS BUNNY",
+        "value": 1200,
+        "question": "This gun-toting nebbish tries to match wits with Bugs in classics like \"Wabbit Trouble\" & \"What's Opera, Doc?\"",
+        "answer": "Elmer Fudd",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S UP, \"DOC\"?",
+        "value": 1200,
+        "question": "8-letter word for a waterfront location where ships are built & repaired",
+        "answer": "a dockyard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIBLICAL PAINTINGS",
+        "value": 1600,
+        "question": "In a fresco at the Sistine Chapel, Pietro Perugino depicted \"The Giving of the Keys\" to him",
+        "answer": "Peter",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BERG-OPOLIS",
+        "value": 1600,
+        "question": "An Air Force base in California is named for this general, the second Air Force Chief of Staff",
+        "answer": "(Hoyt) Vandenberg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CHARACTER ASSASSINATION",
+        "value": 1600,
+        "question": "This novelist had Bull Meecham, aka \"The Great Santini\", go out in a plane crash",
+        "answer": "(Pat) Conroy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "UNMANNED SPACE EXPLORATION",
+        "value": 1600,
+        "question": "In 2005 the Huygens Probe landed on this largest moon of Saturn, revealing a world that rains liquid methane",
+        "answer": "Titan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BUGS BUNNY",
+        "value": 1600,
+        "question": "Bugs Bunny officially debuted in the 1940 cartoon \"A Wild\" this",
+        "answer": "Hare",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S UP, \"DOC\"?",
+        "value": 1600,
+        "question": "A summary of legal cases scheduled to be heard",
+        "answer": "a docket",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIBLICAL PAINTINGS",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew shows a painting on the monitor.)  In a 17th-century painting, Isaac, now blind in his old age, is blessing Jacob, who, you'll notice, is wearing gloves to hide the fact that he isn't this hairier brother",
+        "answer": "Esau",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BERG-OPOLIS",
+        "value": 2000,
+        "question": "His works of the 1950s like \"Monogram\" used found objects & bits of pop culture",
+        "answer": "Robert Rauschenberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CHARACTER ASSASSINATION",
+        "value": 2000,
+        "question": "He titled his book \"Le Morte d'Arthur\" for a reason; Art takes a sword to the \"brain pan\"",
+        "answer": "(Sir Thomas) Malory",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "UNMANNED SPACE EXPLORATION",
+        "value": 2000,
+        "question": "In 1976, within 3 months, 2 U.S. spacecraft by this name soft-landed on the surface of Mars",
+        "answer": "Viking",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BUGS BUNNY",
+        "value": 2000,
+        "question": "To help him defeat the Monstars, Bugs recruited basketball legend Michael Jordan in this 1996 film",
+        "answer": "Space Jam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S UP, \"DOC\"?",
+        "value": 2000,
+        "question": "This disparaging word for an out-of-the-way place comes from the Tagalog for \"mountain\"",
+        "answer": "boondocks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "1940s MUSIC HISTORY",
+    "clue": "While writing for Billboard, legendary producer Jerry Wexler coined this phrase to replace \"race music\"",
+    "answer": "rhythm & blues"
+  },
+  "gameId": "5880",
+  "gameDate": "Friday, March 19, 2010"
+}

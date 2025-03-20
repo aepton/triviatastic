@@ -1,0 +1,556 @@
+{
+  "title": "Show #1538 - Wednesday, April 17, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "SOVIET CITIES",
+      "ELECTRICITY",
+      "FRENCH COOKING",
+      "COMPLETES THE PLAY TITLE",
+      "BUSINESS & INDUSTRY",
+      "JUST US CHICKENS"
+    ],
+    "clues": [
+      {
+        "category": "SOVIET CITIES",
+        "value": 100,
+        "question": "This Black Sea port was named for Odessos, a Greek city thought to have existed on the site",
+        "answer": "Odessa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ELECTRICITY",
+        "value": 100,
+        "question": "Native to the Orinoco River, they emit the most powerful electric charge of any fish",
+        "answer": "an electric eel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FRENCH COOKING",
+        "value": 100,
+        "question": "Choucroute is sauerkraut & chou-fleur is this white vegetable",
+        "answer": "cauliflower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COMPLETES THE PLAY TITLE",
+        "value": 100,
+        "question": "\"Butterflies are...\"",
+        "answer": "Free",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 100,
+        "question": "In 1879, the Lambert Pharmaceutical Company of St. Louis introduced this first mouthwash",
+        "answer": "Listerine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "JUST US CHICKENS",
+        "value": 100,
+        "question": "When mother hen can't, these electric machines keep eggs at a constant temperature",
+        "answer": "an incubator",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SOVIET CITIES",
+        "value": 200,
+        "question": "Ukrainian city often called the mother of Russian cities",
+        "answer": "Kiev",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ELECTRICITY",
+        "value": 200,
+        "question": "The generating plants in our nation's capital produce this type of current",
+        "answer": "alternating current",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FRENCH COOKING",
+        "value": 200,
+        "question": "Cornichons are a tiny, sweet, sour variety of these",
+        "answer": "pickles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COMPLETES THE PLAY TITLE",
+        "value": 200,
+        "question": "\"She Stoops to...\"",
+        "answer": "Conquer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 200,
+        "question": "Peter Guber & Jon Peters run Columbia Pictures Entertainment for this company",
+        "answer": "Sony",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "JUST US CHICKENS",
+        "value": 200,
+        "question": "Every chicken is distinguished by this feature, so Kookie doesn't need to lend them one",
+        "answer": "a comb",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SOVIET CITIES",
+        "value": 300,
+        "question": "Now called Volgograd, it had this name when the Russian army stopped the Nazi advance in World War II",
+        "answer": "Stalingrad",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ELECTRICITY",
+        "value": 300,
+        "question": "When rubbed with a cloth, this yellow fossil resin becomes electrically charged",
+        "answer": "amber",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FRENCH COOKING",
+        "value": 300,
+        "question": "Pommes de terre a l'huile is a French version of this picnic favorite",
+        "answer": "potato salad",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COMPLETES THE PLAY TITLE",
+        "value": 300,
+        "question": "\"The Dark at the Top of...\"",
+        "answer": "The Stairs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 300,
+        "question": "In June 1990, Dayton Hudson bought this 138-year-old Chicago-based department store",
+        "answer": "Marshall Fields",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "JUST US CHICKENS",
+        "value": 300,
+        "question": "The feathers on a chicken's neck; a person prepared to fight gets his up",
+        "answer": "hackles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SOVIET CITIES",
+        "value": 400,
+        "question": "The 1825 Decembrist revolt at Senate Square in this city was crushed by government troops",
+        "answer": "Leningrad",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ELECTRICITY",
+        "value": 400,
+        "question": "A 3-way bulb has this many filaments",
+        "answer": "two",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FRENCH COOKING",
+        "value": 400,
+        "question": "Dishes a la Nantua contain this freshwater crustacean",
+        "answer": "crayfish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COMPLETES THE PLAY TITLE",
+        "value": 400,
+        "question": "\"Pump Boys and...\"",
+        "answer": "Dinettes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 800,
+        "question": "In 1967, the United States Rubber Company changed its name to this",
+        "answer": "Uniroyal",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "JUST US CHICKENS",
+        "value": 400,
+        "question": "It refers to a miniature chicken or a miniature boxer",
+        "answer": "a bantam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SOVIET CITIES",
+        "value": 500,
+        "question": "Today, more Russians than Latvians live in this Latvian capital",
+        "answer": "Riga",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ELECTRICITY",
+        "value": 500,
+        "question": "This Italian's pile was the world's first source of a steady electric current",
+        "answer": "(Count Alessandro) Volta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FRENCH COOKING",
+        "value": 500,
+        "question": "Canard aux Montmorency is a dish made of this fowl with a sour cherry sauce",
+        "answer": "a duck",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COMPLETES THE PLAY TITLE",
+        "value": 500,
+        "question": "\"Glengarry...\"",
+        "answer": "Glen Ross",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 500,
+        "question": "This company has recently introduced Windows 3.0 to make computers more user-friendly",
+        "answer": "Microsoft",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "JUST US CHICKENS",
+        "value": 500,
+        "question": "Though Arkansas produces the most broilers, this state produces the most eggs",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "COLONIAL AMERICA",
+      "LITERARY CHARACTERS",
+      "FURNITURE",
+      "RELIGION",
+      "BODIES OF WATER",
+      "WORD ORIGINS"
+    ],
+    "clues": [
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 200,
+        "question": "Ann Taylor wrote in 1773 that her grandmother, Mary Chilton, was the first to step on this rock",
+        "answer": "Plymouth Rock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 200,
+        "question": "Escaping from prison to seek revenge, Edmund Dantes assumes this identity",
+        "answer": "the Count of Monte Cristo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FURNITURE",
+        "value": 200,
+        "question": "Jean-Francois Oeben used a tambour shutter to create this type of desk",
+        "answer": "a roll-top desk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "This Jewish house of worship is sometimes called a temple by Conservative & Reform congregations",
+        "answer": "synagogue",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 200,
+        "question": "McMurdo Sound is the most often used sea approach to the interior of this continent",
+        "answer": "Antarctica",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 200,
+        "question": "This July birthstone takes its name from the Latin word for \"reddish\"",
+        "answer": "ruby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 400,
+        "question": "This word once used to describe entire colonies later came to refer to large Southern farms",
+        "answer": "a plantation",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 400,
+        "question": "When Tom Sawyer first laid eyes on her, a certain Amy Lawrence vanished out of his heart",
+        "answer": "Becky Thatcher",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FURNITURE",
+        "value": 400,
+        "question": "Avian term for the small compartments in a bureau or secretary",
+        "answer": "pigeonholes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 400,
+        "question": "In this religion, Bodhi is the final enlightenment on the path of nirvana",
+        "answer": "Buddhism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 400,
+        "question": "Punta Arenas, Chile is the port of call for ships passing through this strait",
+        "answer": "the Strait of Magellan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "This word for an imposed isolation is from the Italian for \"40 days\"",
+        "answer": "a quarantine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 600,
+        "question": "On July 16, 1769, Junipero Serra dedicated the first California mission in this city founded by Cabrillo",
+        "answer": "San Diego",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 600,
+        "question": "In \"A Christmas Carol\", he's the father of Tiny Tim",
+        "answer": "Bob Cratchit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FURNITURE",
+        "value": 600,
+        "question": "A tall boy & a high boy both have a set of small & large ones",
+        "answer": "drawers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 600,
+        "question": "One of the religious duties imposed on Muslims is to pray this many times a day",
+        "answer": "five",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 1200,
+        "question": "Canada's largest gulf is named for this saint",
+        "answer": "St. Lawrence",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1200,
+        "question": "It's a contraction or alteration of \"God be with you\"",
+        "answer": "good-bye",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 800,
+        "question": "The original deed to this colony issued to Berkeley & Carteret also called it New Caesarea",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 800,
+        "question": "Novel in which Holden Caulfield tries to escape the phonies of the world",
+        "answer": "Catcher in the Rye",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RELIGION",
+        "value": 800,
+        "question": "The Missouri Synod is considered the more conservative of the two main US groups of this church",
+        "answer": "the Lutheran church",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 800,
+        "question": "At 24,442', the Java Trench is the deepest known point in this ocean",
+        "answer": "Indian Ocean",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "French for \"half cup\", it's a small cup of strong black coffee",
+        "answer": "demitasse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 1000,
+        "question": "The Penobscot were an Algonquian speaking tribe found in what is now this US state",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 1000,
+        "question": "Francis Macomber had a \"Short, Happy Life\" in a short story by this author",
+        "answer": "Ernest Hemingway",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RELIGION",
+        "value": 1000,
+        "question": "Britannica says this Creed, not the Apostle's, is the only one accepted by all major Christian groups",
+        "answer": "the Nicene Creed",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 1000,
+        "question": "The Ligurian name of this longest Italian river was Bodincus, meaning \"bottomless\"",
+        "answer": "the Po",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1000,
+        "question": "From the Latin for \"wash away\" comes this term for the Bible's great flood",
+        "answer": "deluge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS QUOTES",
+    "clue": "Washington Irving called it \"that great object of universal devotion throughout our land\"",
+    "answer": "the (almighty) dollar"
+  },
+  "gameId": "1538",
+  "gameDate": "Wednesday, April 17, 1991"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1306 - Monday, April 16, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "CIRCUS MOVIES",
+      "POTPOURRI",
+      "HISTORIC NAMES",
+      "CAPITAL CITIES",
+      "FAMOUS JONESES",
+      "LIGHTS"
+    ],
+    "clues": [
+      {
+        "category": "CIRCUS MOVIES",
+        "value": 100,
+        "question": "In the classic Disney film, Dumbo's ability to do this makes him a circus sensation",
+        "answer": "fly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 100,
+        "question": "He could have used his middle name, but \"Snavely's, the great American chocolate bar\" doesn't work",
+        "answer": "Hershey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 100,
+        "question": "One of them was called John XIX & one was John XXI, but there's no record of a John XX",
+        "answer": "a pope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITIES",
+        "value": 100,
+        "question": "The name of this West German capital sounds \"good\" in French",
+        "answer": "Bonn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS JONESES",
+        "value": 100,
+        "question": "He was commissioned a Lieut. in the Continental Navy 7 months before we declared our independence",
+        "answer": "John Paul Jones",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LIGHTS",
+        "value": 100,
+        "question": "A firework on a stick that burns slowly & gives off a shower of incandescent particles",
+        "answer": "a sparkler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CIRCUS MOVIES",
+        "value": 200,
+        "question": "Betty Hutton performed many of her own aerial stunts in this 1952 circus epic",
+        "answer": "The Greatest Show on Earth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "This \"masked\" creature is known for seeming to wash its food",
+        "answer": "a raccoon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "Last name shared by abolitionist Harriet & long-time Liberian Pres. William",
+        "answer": "Tubman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITIES",
+        "value": 200,
+        "question": "The Vigeland Sculpture Park & Museum in this Norwegian city has been called both \"obscene\" & \"unforgettable\"",
+        "answer": "Oslo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS JONESES",
+        "value": 200,
+        "question": "This pastor was chairman of the S.F. Municipal Housing Authority before he moved to Guyana in 1977",
+        "answer": "Jim Jones",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LIGHTS",
+        "value": 200,
+        "question": "A light that turns on & off to indicate a message or warning, it's also slang for an eye",
+        "answer": "a blinker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CIRCUS MOVIES",
+        "value": 300,
+        "question": "He played circus owner Larson E. Whipsnade in \"You Can't Cheat an Honest Man\"",
+        "answer": "W.C. Fields",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 300,
+        "question": "Man's name formed by the first letters of 3 consecutive colors in the rainbow",
+        "answer": "Roy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 300,
+        "question": "She made death masks during the Reign of Terror, & later founded a wax museum",
+        "answer": "Madame Tussaud",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITIES",
+        "value": 600,
+        "question": "This South American city was founded in 1537 & dedicated on August 15, the feast day of the Assumption",
+        "answer": "Asunción",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS JONESES",
+        "value": 300,
+        "question": "After retiring in 1930, this golfer co-founded the Augusta National Golf Club",
+        "answer": "Bobby Jones",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LIGHTS",
+        "value": 300,
+        "question": "The lights Hanukkah commemorates were in this building",
+        "answer": "the temple in Jerusalem",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CIRCUS MOVIES",
+        "value": 400,
+        "question": "The elephant stole the show in this Doris Day musical based on Billy Rose's stage spectacular",
+        "answer": "Jumbo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "Supposed hiding places for his treasure include Block Island, R.I. & Deer Island, Me.",
+        "answer": "Captain Kidd",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "His book about Jesus made him famous long before he built a hospital in Africa",
+        "answer": "Albert Schweitzer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITIES",
+        "value": 400,
+        "question": "In 1968 this city's \"Spring\" lasted until August when Warsaw Pact troops invaded",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS JONESES",
+        "value": 400,
+        "question": "He's considered the founder of the English school of classical architecture",
+        "answer": "Inigo Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LIGHTS",
+        "value": 400,
+        "question": "Formerly a lighted wick used to touch off a cannon, its name is from the Greek \"myxa\", lamp wick",
+        "answer": "a match",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CIRCUS MOVIES",
+        "value": 500,
+        "question": "This former circus acrobat got to play a circus acrobat in the 1956 film \"Trapeze\"",
+        "answer": "Burt Lancaster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 500,
+        "question": "College buildings surround a quad, & a church's bldgs. surround one of these courtyards",
+        "answer": "a cloister",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 500,
+        "question": "As a child, he was a clerk in a countinghouse; in 1789, at age 34, he was Treasury Sec'y of the U.S.",
+        "answer": "Alexander Hamilton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITIES",
+        "value": 500,
+        "question": "As late as '24 this Mongolian city was the seat of the religious leader known as the \"living Buddha\"",
+        "answer": "Ulan Bator",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS JONESES",
+        "value": 500,
+        "question": "He played Volkswagen owner Jim Douglas in 2 \"Love Bug\" films & a TV series",
+        "answer": "Dean Jones",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LIGHTS",
+        "value": 500,
+        "question": "Automobile headlight containing a tungsten filament & a gas such as iodine",
+        "answer": "a quartz halogen lamp",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FIRST LADIES",
+      "WORLD WAR II",
+      "MODERN NOVELS",
+      "MEXICO",
+      "THE BODY HUMAN",
+      "FAMILIAR PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "FIRST LADIES",
+        "value": 200,
+        "question": "She died in 1818, so she never knew that her son became president",
+        "answer": "Abigail Adams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 200,
+        "question": "The armistice ending World War II in the Pacific was signed for the Allies by this general",
+        "answer": "General MacArthur",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MODERN NOVELS",
+        "value": 200,
+        "question": "This futuristic Orwell novel takes place about 6 years ago",
+        "answer": "1984",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEXICO",
+        "value": 200,
+        "question": "A remnant of the Aztec culture still in use today is Nahuatl, which is this",
+        "answer": "a language",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 200,
+        "question": "Shock is characterized by a dangerous reduction in the flow of this",
+        "answer": "blood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 200,
+        "question": "In the game of Kelly pool it's unlucky to find your cue ball behind this one",
+        "answer": "the 8 ball",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 400,
+        "question": "She received a B.A. in theatre from Smith College in 1943",
+        "answer": "Nancy Reagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 400,
+        "question": "Second to Hitler in power, this former WWI combat pilot was in command of Germany's Luftwaffe",
+        "answer": "Göring",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MODERN NOVELS",
+        "value": 400,
+        "question": "\"Noble House\" is his \"tribute to her Britannic majesty, Elizabeth II\" & \"the people of... Hong Kong\"",
+        "answer": "(James) Clavell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEXICO",
+        "value": 400,
+        "question": "Mexicali is the capital of the northern portion of this; La Paz, the southern",
+        "answer": "the Baja California",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 400,
+        "question": "The largest & most developed part of the brain",
+        "answer": "the cerebrum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 400,
+        "question": "A sprinter who leaves his mark before the starter fires his pistol is said to do this",
+        "answer": "jump the gun",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 600,
+        "question": "The 1989 Miss America pageant gave its first Achievement Award to this Chicago-born first lady",
+        "answer": "Betty Ford",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 600,
+        "question": "This nation was the first in the Western Hemisphere to enter the war",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MODERN NOVELS",
+        "value": 600,
+        "question": "His novel \"The Walking Drum\" is set in 12th c. Europe, tho he usually wrote about the American West",
+        "answer": "Louis L'Amour",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEXICO",
+        "value": 1200,
+        "question": "His tenure as president was interrupted by the Emperor Maximilian",
+        "answer": "(Benito) Juarez",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 600,
+        "question": "Hodgkin's disease is a cancer of this system",
+        "answer": "the lymph system",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 600,
+        "question": "In Siam, if the king gave you one of these huge animals, you couldn't put it to work or give it away",
+        "answer": "a white elephant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 800,
+        "question": "She was the first first lady who was older than her husband",
+        "answer": "Martha Washington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 800,
+        "question": "Under this 1941 act the president could transfer ships & war materials to the Allies & defer payment",
+        "answer": "the Lend-Lease Act",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MODERN NOVELS",
+        "value": 800,
+        "question": "She wrote \"Bellefleur\" & \"A Bloodsmoor Romance\"",
+        "answer": "Joyce Carol Oates",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEXICO",
+        "value": 800,
+        "question": "Starting in the 1540s Creoles, Europeans born in Mexico, formed estates called these",
+        "answer": "haciendas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 800,
+        "question": "An angioplasty is a procedure that uses a balloon catheter to open these",
+        "answer": "arteries",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 800,
+        "question": "The loose head of a woodsman's ax provided this phrase's origin, meaning \"to suddenly lose self-control\"",
+        "answer": "to fly off the handle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 2000,
+        "question": "20th c. first lady whose father had a presidential name: Thomas Jefferson Taylor",
+        "answer": "Lady Bird Johnson",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 1000,
+        "question": "This S. European country routed its Italian invaders, so Germany felt obligated to attack it",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MODERN NOVELS",
+        "value": 1000,
+        "question": "\"The Crystal Cave\" was the first novel in her \"Merlin\" trilogy",
+        "answer": "Mary Stewart",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEXICO",
+        "value": 1000,
+        "question": "It's the official name of the country in English",
+        "answer": "the United States of Mexico",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 1000,
+        "question": "An MRI is a machine that creates images by resonations induced in this type of field",
+        "answer": "a magnetic field",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 1000,
+        "question": "Theodore Roosevelt coined this term that refers to the extremely radical members of a group",
+        "answer": "the lunatic fringe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BASEBALL",
+    "clue": "This major league manager was born July 30, 1890 in Kansas City, Missouri",
+    "answer": "Casey Stengel"
+  },
+  "gameId": "1306",
+  "gameDate": "Monday, April 16, 1990"
+}

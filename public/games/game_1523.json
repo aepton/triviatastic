@@ -1,0 +1,574 @@
+{
+  "title": "Show #3840 - Friday, April 20, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "THE NORTHERNMOST CAPITAL CITY",
+      "POINTING THE FINGER",
+      "SELF-TITLED ALBUMS",
+      "IT'S A DISASTER!",
+      "I AM THE WALRUS",
+      "\"GOO\" GOO G'JOOB"
+    ],
+    "clues": [
+      {
+        "category": "THE NORTHERNMOST CAPITAL CITY",
+        "value": 100,
+        "question": "Paris,Madrid,Rome",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "POINTING THE FINGER",
+        "value": 100,
+        "question": "\"Digital\" slogan used by KFC",
+        "answer": "\"Finger-lickin' good\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SELF-TITLED ALBUMS",
+        "value": 100,
+        "question": "This 1999 album contains \"Livin' La Vida Loca\" & \"Shake Your Bon-Bon\"",
+        "answer": "Ricky Martin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IT'S A DISASTER!",
+        "value": 100,
+        "question": "In 1917 an ammunition ship explosion in this Nova Scotia capital leveled 2 square miles & killed 1,600 people",
+        "answer": "Halifax",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I AM THE WALRUS",
+        "value": 100,
+        "question": "These \"elephantine\" features on walruses can be up to 3 feet long & weigh 12 pounds",
+        "answer": "Tusks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"GOO\" GOO G'JOOB",
+        "value": 100,
+        "question": "Proverbially, what's good for it is also good for the gander",
+        "answer": "The goose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE NORTHERNMOST CAPITAL CITY",
+        "value": 200,
+        "question": "Beirut,Ankara,Tel Aviv",
+        "answer": "Ankara",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "POINTING THE FINGER",
+        "value": 200,
+        "question": "The work seen here is located in this chapel, erected 1473-1481",
+        "answer": "The Sistine Chapel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SELF-TITLED ALBUMS",
+        "value": 200,
+        "question": "No. 1 songs from this 1990 album included \"Vision Of Love\" & \"Someday\"",
+        "answer": "Mariah Carey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IT'S A DISASTER!",
+        "value": 200,
+        "question": "This Pennsylvania city had more than $200 million in damage when it was flooded yet again in 1977",
+        "answer": "Johnstown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I AM THE WALRUS",
+        "value": 200,
+        "question": "The walrus is valued by Eskimos for this, a fat layer under the skin from which oil is made",
+        "answer": "Blubber",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"GOO\" GOO G'JOOB",
+        "value": 200,
+        "question": "Disney character who hit the big time in 1932's \"Mickey's Revue\"",
+        "answer": "Goofy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE NORTHERNMOST CAPITAL CITY",
+        "value": 300,
+        "question": "Canberra,Wellington,Jakarta",
+        "answer": "Jakarta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "POINTING THE FINGER",
+        "value": 300,
+        "question": "Equal to about 9 inches, a span is measured from the tip of the thumb to the tip of this",
+        "answer": "Little finger (pinky)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SELF-TITLED ALBUMS",
+        "value": 300,
+        "question": "\"Sailing\" sailed off this 1980 album",
+        "answer": "\"Christopher Cross\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IT'S A DISASTER!",
+        "value": 300,
+        "question": "In 1992 \"He\" hit the Bahamas, Florida & Louisiana, causing about $22 billion in damage",
+        "answer": "Hurricane Andrew",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I AM THE WALRUS",
+        "value": 300,
+        "question": "Some walruses can live up to this many years, or 20 terms for a U.S. Congressman",
+        "answer": "40",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"GOO\" GOO G'JOOB",
+        "value": 300,
+        "question": "A \"nutty\" state nickname for Georgia",
+        "answer": "\"The Goober State\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE NORTHERNMOST CAPITAL CITY",
+        "value": 400,
+        "question": "Brasilia,Santiago,Caracas",
+        "answer": "Caracas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "POINTING THE FINGER",
+        "value": 800,
+        "question": "Dactyloscopy is the practice of using these as a means of identification",
+        "answer": "Fingerprints",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SELF-TITLED ALBUMS",
+        "value": 400,
+        "question": "\"That's The Way Love Goes\" is on this album, period",
+        "answer": "Janet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IT'S A DISASTER!",
+        "value": 400,
+        "question": "Egyptair flight 990 went down in the waters of Nantucket not far from where this Italian liner sank in 1956",
+        "answer": "Andrea Doria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I AM THE WALRUS",
+        "value": 400,
+        "question": "A walrus feeds on these mollusks, though we doubt they're served \"casino\"",
+        "answer": "Clams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"GOO\" GOO G'JOOB",
+        "value": 400,
+        "question": "Term for a black-footed albatross found on islands in the Pacific",
+        "answer": "gooney birds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE NORTHERNMOST CAPITAL CITY",
+        "value": 500,
+        "question": "New Delhi,Beijing,Islamabad",
+        "answer": "Beijing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "POINTING THE FINGER",
+        "value": 500,
+        "question": "Keuka, Seneca & Cayuga, for example",
+        "answer": "Finger Lakes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SELF-TITLED ALBUMS",
+        "value": 500,
+        "question": "\"Dimelo (I Need To Know)\" the title of this album that includes that song",
+        "answer": "Marc Anthony",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IT'S A DISASTER!",
+        "value": 500,
+        "question": "In the worst aviation disaster, nearly 600 people were killed when 2 jets collided on Tenerife in this island group",
+        "answer": "Canary Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "I AM THE WALRUS",
+        "value": 500,
+        "question": "Nicknamed \"The Walrus\", this golfer seen here won the 1982 Masters",
+        "answer": "Craig Stadler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"GOO\" GOO G'JOOB",
+        "value": 500,
+        "question": "She's the British chimp expert born April 3, 1934",
+        "answer": "Jane Goodall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE KNIGHTS TEMPLAR",
+      "NAME THE MOVIE",
+      "NEW JERSEYITES",
+      "HISTORICAL NOVELS",
+      "SECTIONS",
+      "ALPHABETICALLY BEFORE AFTER"
+    ],
+    "clues": [
+      {
+        "category": "THE KNIGHTS TEMPLAR",
+        "value": 200,
+        "question": "Templar enlistment rose dramatically following writings by this medieval saint who shares his name with a dog breed",
+        "answer": "Saint Bernard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 200,
+        "question": "1964:\"I sold flowers.  I didn't sell myself.  Now you've made a lady of me, I'm not fit to sell anything else\"",
+        "answer": "My Fair Lady",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NEW JERSEYITES",
+        "value": 200,
+        "question": "What was once the town of Raritan is now named for this \"inventive\" New Jersey resident",
+        "answer": "Thomas Edison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL NOVELS",
+        "value": 200,
+        "question": "Adina de Zavala, who barricaded herself inside this San Antonio landmark to save it in 1908, inspired a 1999 novel",
+        "answer": "The Alamo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SECTIONS",
+        "value": 200,
+        "question": "Section of the Los Angeles Times that covers money matters like the stock market & personal finance",
+        "answer": "Business",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ALPHABETICALLY BEFORE AFTER",
+        "value": 200,
+        "question": "Less than a friend, one may be \"passing\"",
+        "answer": "Acquaintance",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE KNIGHTS TEMPLAR",
+        "value": 400,
+        "question": "Burned at the stake in 1314, Jacques De Molay was the last Templar of this title, today used by chess players",
+        "answer": "Grandmaster",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 400,
+        "question": "1974:\"No, it's pronounced Eye-Gor\"",
+        "answer": "Young Frankenstein",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NEW JERSEYITES",
+        "value": 400,
+        "question": "Known as \"Bull\", this WWII admiral from Elizabeth said he didn't trust a man who doesn't drink or smoke",
+        "answer": "William F. Halsey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL NOVELS",
+        "value": 400,
+        "question": "\"Henry St. John, Gentleman\" is set in this Virginia valley at the onset of the American Revolution",
+        "answer": "Shenandoah Valley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SECTIONS",
+        "value": 400,
+        "question": "The cabaletta is the last section of one of these songs in an opera",
+        "answer": "Aria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ALPHABETICALLY BEFORE AFTER",
+        "value": 400,
+        "question": "This term for what an adolescent grows into comes from the same Latin root",
+        "answer": "Adult",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE KNIGHTS TEMPLAR",
+        "value": 600,
+        "question": "By arresting them all & seizing their property in 1307, this country's Philip IV began the suppression of the Templars",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 1200,
+        "question": "1970:\"All you have to do is hold the chicken, bring me the toast, give me a check for the chicken salad sandwich...\"",
+        "answer": "Five Easy Pieces",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NEW JERSEYITES",
+        "value": 600,
+        "question": "New Jersey-born singer-actor seen here:",
+        "answer": "Jon Bon Jovi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL NOVELS",
+        "value": 600,
+        "question": "The 3rd book in James Reasoner's Civil War saga is named for this Maryland battle the Rebels called Sharpsburg",
+        "answer": "Antietam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SECTIONS",
+        "value": 600,
+        "question": "The ordinary conic sections are the hyperbola, the parabola, the ellipse & this",
+        "answer": "Circle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ALPHABETICALLY BEFORE AFTER",
+        "value": 600,
+        "question": "They're what the 2 \"A\"s in NASA stand for",
+        "answer": "Aeronautics & Administration",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE KNIGHTS TEMPLAR",
+        "value": 800,
+        "question": "Only Templar knights wore the distinctive white surcoats emblazoned with this symbol",
+        "answer": "Red cross",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 800,
+        "question": "1992:\"You be sweet to your wife.  My husband wasn't sweet to me and look how I turned out\"",
+        "answer": "Thelma & Louise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NEW JERSEYITES",
+        "value": 800,
+        "question": "This director of \"Lone Star\", \"Passion Fish\" & \"Return of the Secaucus Seven\" has long been based in Hoboken",
+        "answer": "John Sayles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL NOVELS",
+        "value": 800,
+        "question": "Jane Porter's 1810 novel \"The Scottish Chiefs\" tells the story of this man, the hero of \"Braveheart\"",
+        "answer": "William Wallace",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SECTIONS",
+        "value": 800,
+        "question": "The banana section rooted for its own celebrity couple on this Bert Convy show",
+        "answer": "Tattletales",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ALPHABETICALLY BEFORE AFTER",
+        "value": 800,
+        "question": "Meaning \"walking\", it's how Shakespeare's Henry V & Sherlock Holmes described \"the game\"",
+        "answer": "Afoot",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE KNIGHTS TEMPLAR",
+        "value": 1000,
+        "question": "The last Templar headquarters & base for attacks on Palestine was this eastern Mediterranean island",
+        "answer": "Cyprus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 1000,
+        "question": "1988:\"I have a head for business and a bod for sin\"",
+        "answer": "Working Girl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NEW JERSEYITES",
+        "value": 2000,
+        "question": "James Bayley, bishop of Newark, named this Jersey school after his aunt, the first U.S.-born saint",
+        "answer": "Seton Hall (after Elizabeth Ann Seton)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL NOVELS",
+        "value": 1000,
+        "question": "The first novel written by a Zulu in the Zulu language was John L. Dube's novel about this great Zulu chief",
+        "answer": "Shaka",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SECTIONS",
+        "value": 1000,
+        "question": "Gandy dancer is a slang term for a gang laborer who maintains sections of this",
+        "answer": "Railroad track",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ALPHABETICALLY BEFORE AFTER",
+        "value": 1000,
+        "question": "Term for a person who studies or teaches the ABCs",
+        "answer": "Abecedarian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ENGINEERING",
+    "clue": "The first one, built in 1893, consisted of 2,200 tons of steel, rose 268 feet & had 36 cars each carrying 60 people",
+    "answer": "Ferris Wheel"
+  },
+  "gameId": "3840",
+  "gameDate": "Friday, April 20, 2001"
+}

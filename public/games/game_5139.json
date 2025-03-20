@@ -1,0 +1,574 @@
+{
+  "title": "Show #7200 - Friday, December 25, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "THE SIMPSONS EPISODE TITLES",
+      "THE SQUIRREL FAMILY",
+      "SUV SHOPPING",
+      "KIDDY LIT",
+      "\"BAM\"! \"POW!\"",
+      "BREWING BEER"
+    ],
+    "clues": [
+      {
+        "category": "THE SIMPSONS EPISODE TITLES",
+        "value": 200,
+        "question": "This character's \"Odyssey\"",
+        "answer": "Homer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE SQUIRREL FAMILY",
+        "value": 200,
+        "question": "Squirrels are part of this order characterized by rootless, ever-growing incisors",
+        "answer": "rodent",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SUV SHOPPING",
+        "value": 200,
+        "question": "Suburban",
+        "answer": "Chevrolet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "KIDDY LIT",
+        "value": 200,
+        "question": "\"Peter and the Starcatchers\" is Dave Barry & Ridley Pearson's 2004 backstory to this character",
+        "answer": "Peter Pan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"BAM\"! \"POW!\"",
+        "value": 200,
+        "question": "Light, dry snow",
+        "answer": "powder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BREWING BEER",
+        "value": 200,
+        "question": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.)  This term for the grain, usually barley, that's about to go on a journey to become beer can also refer to the finished product",
+        "answer": "malt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE SIMPSONS EPISODE TITLES",
+        "value": 400,
+        "question": "\"Kamp\" this klown",
+        "answer": "Krusty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE SQUIRREL FAMILY",
+        "value": 400,
+        "question": "The supersized squirrel family members called marmots include this creature",
+        "answer": "groundhog (or woodchuck)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SUV SHOPPING",
+        "value": 400,
+        "question": "Escape",
+        "answer": "Ford",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "KIDDY LIT",
+        "value": 400,
+        "question": "The first thing this Dr. Seuss character says to Sally & her brother is \"Why do you sit there like that?\"",
+        "answer": "The Cat in the Hat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"BAM\"! \"POW!\"",
+        "value": 400,
+        "question": "To hoodwink or deceive",
+        "answer": "bamboozle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BREWING BEER",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.)  These dried flowers that give beer much of its flavor come in different types; the aromatic ones are volatile & quickly steamed off, so they're added at the end of the boil",
+        "answer": "hops",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE SIMPSONS EPISODE TITLES",
+        "value": 600,
+        "question": "\"Last Exit to\" this city",
+        "answer": "Springfield",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE SQUIRREL FAMILY",
+        "value": 600,
+        "question": "Chipmunks are in the genus Tamias, Greek for this 9-letter word meaning a person in charge of money",
+        "answer": "treasurer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SUV SHOPPING",
+        "value": 600,
+        "question": "Pathfinder",
+        "answer": "Nissan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "KIDDY LIT",
+        "value": 600,
+        "question": "This TV \"Fonz\" has co-written over 20 books about Hank Zipzer, \"The World's Greatest Underachiever\"",
+        "answer": "Henry Winkler",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"BAM\"! \"POW!\"",
+        "value": 600,
+        "question": "2-word phrase for the elation of bossing others around",
+        "answer": "power trip",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BREWING BEER",
+        "value": 600,
+        "question": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.)  The liquid extracted from the grain mash will become beer after fermentation & other steps; it's called this four-letter word, also found after \"St. John's\"",
+        "answer": "wort",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE SIMPSONS EPISODE TITLES",
+        "value": 800,
+        "question": "\"Much\" him \"About Nothing\"",
+        "answer": "Apu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE SQUIRREL FAMILY",
+        "value": 800,
+        "question": "On the Carolina northern this creature, skin between the wrist & ankle forms an aerodynamic surface for gliding",
+        "answer": "flying squirrel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SUV SHOPPING",
+        "value": 800,
+        "question": "Outlander",
+        "answer": "Mitsubishi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "KIDDY LIT",
+        "value": 800,
+        "question": "In this 1959 book whose title means a journey through the bush, 2 white children are saved by an Aboriginal boy",
+        "answer": "Walkabout",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"BAM\"! \"POW!\"",
+        "value": 800,
+        "question": "Another nickname of George Herman Ruth",
+        "answer": "the Bambino",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BREWING BEER",
+        "value": 800,
+        "question": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.)  Boiling to sterilize the liquid & get rid of some of the grainy taste happens in a brew kettle, also called by the name of this metal from which it was traditionally made",
+        "answer": "copper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE SIMPSONS EPISODE TITLES",
+        "value": 1000,
+        "question": "The \"Bonfire of\" these aquatic mammals",
+        "answer": "manatees",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE SQUIRREL FAMILY",
+        "value": 1000,
+        "question": "This creature mentioned in one of North Dakota's nicknames is a ground squirrel, not a bird",
+        "answer": "flickertail",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SUV SHOPPING",
+        "value": 1000,
+        "question": "Cayenne",
+        "answer": "Porsche",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "KIDDY LIT",
+        "value": 1000,
+        "question": "In \"Winnie-the-Pooh\", Piglet tries to capture one of these imaginary elephant-like creatures",
+        "answer": "a Heffalump",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"BAM\"! \"POW!\"",
+        "value": 1000,
+        "question": "Capital of Mali",
+        "answer": "Bamako",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BREWING BEER",
+        "value": 1000,
+        "question": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.)  The two basic types of brewing yeast are top-fermenting & bottom-fermenting, corresponding to these two basic kinds of beer, one including stouts & one including pilsners",
+        "answer": "lagers & ales",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE LARGEST COUNTRY...",
+      "MOVING PICTURES",
+      "LIBRARIES",
+      "WHAT HAPPENED WHEN?",
+      "ART & ARTISTS",
+      "STARTS WITH A FRUIT"
+    ],
+    "clues": [
+      {
+        "category": "THE LARGEST COUNTRY...",
+        "value": 400,
+        "question": "Entirely outside Asia, by area",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVING PICTURES",
+        "value": 400,
+        "question": "She, \"Queen of the Desert\", is an old bus that takes 3 entertainers into the outback",
+        "answer": "Priscilla",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 400,
+        "question": "The Gerald R. Ford Presidential Library is on this school's campus",
+        "answer": "(University of) Michigan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WHAT HAPPENED WHEN?",
+        "value": 400,
+        "question": "Frederick Banting & Charles Best first isolated this glucose-regulating hormone on July 30, 1921",
+        "answer": "insulin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 400,
+        "question": "Bill Magrath's \"Returning Fire\", seen here, depicts the 1862 battle between these 2 vessels",
+        "answer": "the Monitor & the Merrimack",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH A FRUIT",
+        "value": 400,
+        "question": "Not literally, but this way",
+        "answer": "figuratively",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE LARGEST COUNTRY...",
+        "value": 800,
+        "question": "Entirely south of the Equator, by area",
+        "answer": "Australia",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVING PICTURES",
+        "value": 800,
+        "question": "It's the type of vehicle used by Travolta & friends in \"Wild Hogs\"",
+        "answer": "motorcycles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 800,
+        "question": "Dominico Fontant designed this library of the pontiffs in the late 1500s",
+        "answer": "Vatican Library",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WHAT HAPPENED WHEN?",
+        "value": 800,
+        "question": "Mexico was victorious over French forces at the Battle of Puebla on this date in 1862",
+        "answer": "May 5",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 800,
+        "question": "This Brit's sister Frances Reynolds, who lived with him as a housekeeper, called him a \"gloomy tyrant\"",
+        "answer": "Sir Joshua Reynolds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH A FRUIT",
+        "value": 800,
+        "question": "A small computer program that you can use to work in another program",
+        "answer": "applet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE LARGEST COUNTRY...",
+        "value": 1200,
+        "question": "Entirely in Europe, by population",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVING PICTURES",
+        "value": 1200,
+        "question": "In 2015 Ed Skrein replaced Jason Statham as the man on the move in this franchise: \"Refueled\"",
+        "answer": "The Transporter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 1200,
+        "question": "Named for its architect, this 17th century library at Cambrige U. has many books from Isaac Newton's own library",
+        "answer": "Wren Library",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WHAT HAPPENED WHEN?",
+        "value": 1200,
+        "question": "This 28-year-old naval officer led U.S. forces to victory on September 10, 1813 at the Battle of Lake Erie",
+        "answer": "Oliver Hazard Perry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 1200,
+        "question": "When he died in 1989, he was buried on the floor of the main room of his museum in Figueras, Spain",
+        "answer": "Salvador Dali",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH A FRUIT",
+        "value": 1200,
+        "question": "Don't shrivel when I tell you it means rearing a child",
+        "answer": "raising",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE LARGEST COUNTRY...",
+        "value": 1600,
+        "question": "In Africa, by population",
+        "answer": "Nigeria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVING PICTURES",
+        "value": 1600,
+        "question": "River Phoenix & his fugitive parents have spent years on the move in this film",
+        "answer": "Running on Empty",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 1600,
+        "question": "Fulton, Missouri has a memorial & library devoted to this British statesman",
+        "answer": "Winston Churchill",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHAT HAPPENED WHEN?",
+        "value": 1600,
+        "question": "This cowboy humorist & Wiley Post were killed on August 15, 1935 when Post's plane crashed in Alaska",
+        "answer": "Will Rogers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 1600,
+        "question": "His masterpieces painted in Delft included \"View of Delft\" & \"Woman with a Water Jug\"",
+        "answer": "(Jan) Vermeer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH A FRUIT",
+        "value": 1600,
+        "question": "This material forms the caves of Wind Cave National Park",
+        "answer": "limestone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE LARGEST COUNTRY...",
+        "value": 2000,
+        "question": "In Central America, by population",
+        "answer": "Guatemala",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVING PICTURES",
+        "value": 2000,
+        "question": "She played Sissy, hitchhiker supreme, in \"Even Cowgirls Get The Blues\"",
+        "answer": "Uma Thurman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 2000,
+        "question": "This Harvard University library named for a man who died on the Titanic has 57 miles of shelves",
+        "answer": "Widener Library",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHAT HAPPENED WHEN?",
+        "value": 2000,
+        "question": "On March 6, 1857 Chief Justice Roger Taney announced the Supreme Court's decision in this slave's case",
+        "answer": "Dred Scott",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 2000,
+        "question": "This Frenchman experimented with light in series paintings, as in his \"Haystacks\" under different weather & times of day",
+        "answer": "Monet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH A FRUIT",
+        "value": 2000,
+        "question": "As a verb it can mean to make a pillow full & round",
+        "answer": "plump",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PLAYWRIGHTS",
+    "clue": "He wrote the line \"Our home has been nothing but a playroom\"",
+    "answer": "Henrik Ibsen"
+  },
+  "gameId": "7200",
+  "gameDate": "Friday, December 25, 2015"
+}

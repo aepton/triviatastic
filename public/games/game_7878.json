@@ -1,0 +1,574 @@
+{
+  "title": "Show #1457 - Tuesday, December 25, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "CHRISTMAS",
+      "FRUITS & VEGETABLES",
+      "AVIATION",
+      "STATE PARKS",
+      "MOVIE STARS",
+      "NEW YORK CITY"
+    ],
+    "clues": [
+      {
+        "category": "CHRISTMAS",
+        "value": 100,
+        "question": "At 5 p.m. on Christmas Eve in Norway, these peal all over the country",
+        "answer": "church bells",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 100,
+        "question": "Varieties of this vegetable include banana, acorn & butternut",
+        "answer": "squash",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AVIATION",
+        "value": 100,
+        "question": "It's what the F stands for in the numerical designations of U.S. military aircraft such as F-15",
+        "answer": "fighter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 100,
+        "question": "Illinois has two state parks named for this president",
+        "answer": "Lincoln",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 100,
+        "question": "Gloria Swanson said Montgomery Clift, not William Holden, was the first choice for her leading man in this film",
+        "answer": "Sunset Boulevard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 100,
+        "question": "It's named The Big Board",
+        "answer": "the New York Stock Exchange",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS",
+        "value": 200,
+        "question": "For Christmas, Hershey's wraps these solid chocolates in red, green & silver foils",
+        "answer": "Hershey Kisses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 200,
+        "question": "Over 90% of the world's production of this fruit is from one species, Vitis vinifera",
+        "answer": "grapes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AVIATION",
+        "value": 200,
+        "question": "In 1919, the founder of this Seattle-based aircraft firm helped carry the first international airmail",
+        "answer": "Boeing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 200,
+        "question": "A state park near Bardstown, Kentucky, was named for this Stephen Foster song",
+        "answer": "\"My Old Kentucky Home\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 200,
+        "question": "Laurence Olivier feared falling in love with this \"Prince and the Showgirl\" co-star",
+        "answer": "Marilyn Monroe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 200,
+        "question": "In 1939, The World of Tomorrow was the theme for this",
+        "answer": "the World's Fair",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS",
+        "value": 300,
+        "question": "When this religious group came to power in England in 1642, they banned Christmas celebrations",
+        "answer": "the Puritans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 300,
+        "question": "This purple-skinned vegetable is a main ingredient of moussaka & caponata",
+        "answer": "eggplant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AVIATION",
+        "value": 300,
+        "question": "Family of Soviet military aircraft originally designed by Mikoyan & Gurevich",
+        "answer": "the MiGs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 300,
+        "question": "Washington Crossing State Park in Pennsylvania is located on this river",
+        "answer": "the Delaware",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 300,
+        "question": "This star of \"The Scarlet Pimpernel\" played a modern Pimpernel in \"Pimpernel Smith\"",
+        "answer": "Leslie Howard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 300,
+        "question": "Check this out! Its special holdings include Washington's copy of his farewell address",
+        "answer": "New York Public Library",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS",
+        "value": 800,
+        "question": "According to Clement Moore, it's how St. Nick's stomach shook when he laughed",
+        "answer": "like a bowl full of jelly",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 400,
+        "question": "In 1792, Captain Bligh finally managed to get a load of these trees to Jamaica",
+        "answer": "breadfruit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AVIATION",
+        "value": 400,
+        "question": "This type of aircraft was first used in warfare in 1944 when Sikorsky YR-4s evacuated casualties",
+        "answer": "helicopters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 400,
+        "question": "Longhorn Cavern State Park is located near Marble Falls in this state",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 400,
+        "question": "She romanced her \"Fountainhead\" co-star Gary Cooper, but married Roald Dahl",
+        "answer": "Patricia Neal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 400,
+        "question": "This song is also called \"East Side, West Side\"",
+        "answer": "\"The Sidewalks of New York\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS",
+        "value": 500,
+        "question": "This saxophonist's Christmas album was called \"Boots and Stockings\"",
+        "answer": "Boots Randolph",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 500,
+        "question": "North Carolina is the country's biggest producer of this tuber, belonging to the morning glory family",
+        "answer": "sweet potato",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AVIATION",
+        "value": 500,
+        "question": "This aircraft company, based in St. Louis, is our nation's largest defense contractor",
+        "answer": "McDonnell Douglas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 500,
+        "question": "There is a Tennessee state park named for this frontiersman on his former property in Lawrenceburg",
+        "answer": "Davy Crockett",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MOVIE STARS",
+        "value": 500,
+        "question": "With Mickey Rooney as his toughest young charge, he won an Oscar playing Father Flanagan",
+        "answer": "Spencer Tracy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NEW YORK CITY",
+        "value": 500,
+        "question": "It was losing a reported $1,000 a week when Adolph Simon Ochs bought it in 1896",
+        "answer": "The New York Times",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BESTSELLERS",
+      "ART",
+      "20th CENTURY AMERICA",
+      "WORLD CITIES",
+      "ROCKS & GEMS",
+      "IT'S GREEK TO ME"
+    ],
+    "clues": [
+      {
+        "category": "BESTSELLERS",
+        "value": 200,
+        "question": "This comic says his memoir, \"Don't Shoot, It's Only Me\", is about his life as a moving target",
+        "answer": "Bob Hope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "The first word in the title of this Da Vinci work is a short form of Madonna",
+        "answer": "the Mona Lisa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "20th CENTURY AMERICA",
+        "value": 200,
+        "question": "The academy for this branch of the service opened in 1955",
+        "answer": "the Air Force",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 200,
+        "question": "After a 1755 earthquake destroyed two-thirds of this city, it was rebuilt into Portugal's largest",
+        "answer": "Lisbon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ROCKS & GEMS",
+        "value": 200,
+        "question": "You can touch a rock from there at the Smithsonian Institute's Air & Space Museum",
+        "answer": "the moon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT'S GREEK TO ME",
+        "value": 200,
+        "question": "To the Greeks & Carl Sagan, it's the universe",
+        "answer": "the cosmos",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 400,
+        "question": "In 1990, eight of this late writer's tales were put in book form for the first time as \"The Outlaws of Mesquite\"",
+        "answer": "Louis L'Amour",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Painters who studied under this Dutch master include Gerrit Dou, Nicolaes Maes, & Carel Fabritius",
+        "answer": "Rembrandt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "20th CENTURY AMERICA",
+        "value": 400,
+        "question": "On August 2nd, 1964, in this gulf, the destroyer Maddox fired at three North Vietnamese torpedo boats",
+        "answer": "the Tonkin Gulf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 400,
+        "question": "The City section of this city is located where the Romans first founded the town",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ROCKS & GEMS",
+        "value": 400,
+        "question": "This fool's gold can be told from gold when heated because it emits a foul odor",
+        "answer": "pyrite",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT'S GREEK TO ME",
+        "value": 400,
+        "question": "From Draco, lawmaker who demanded death for almost any lawbreaker, came this word for harsh",
+        "answer": "draconian",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 600,
+        "question": "Harvey Mackay's recent bestseller tells how to do this \"Without Being Eaten Alive\"",
+        "answer": "swim with the sharks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "Georges Braque invented this art form in which different materials are glued to the picture's surface",
+        "answer": "the collage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "20th CENTURY AMERICA",
+        "value": 600,
+        "question": "This US chemist won the 1962 Nobel Peace Prize, which was awarded in 1963",
+        "answer": "Linus Pauling",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 600,
+        "question": "Western Czechoslovakia was given to the Nazis in the pact signed in this German city",
+        "answer": "Munich",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ROCKS & GEMS",
+        "value": 600,
+        "question": "White, pink, or gray rock made mostly of quartz & feldspar, especially suitable for tombstones",
+        "answer": "granite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT'S GREEK TO ME",
+        "value": 1200,
+        "question": "Greek for \"hidden things\", it now means \"questionable\" & often refers to 14 biblical books",
+        "answer": "apocrypha",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 800,
+        "question": "Jason Bourne comes back for more punishment in this author's \"The Bourne Ultimatum\"",
+        "answer": "(Robert) Ludlum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "He painted portraits of women to show Henry VIII, who was looking for a wife",
+        "answer": "(Hans) Holbein (the Younger)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "20th CENTURY AMERICA",
+        "value": 800,
+        "question": "Later called the First Lady of the World, she was the first to hold regular White House press conferences",
+        "answer": "Eleanor Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 1600,
+        "question": "Once called Hochelaga by the Indians, it's the largest French-speaking city after Paris",
+        "answer": "Montreal",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ROCKS & GEMS",
+        "value": 800,
+        "question": "This white volcanic glass is used in stone or powder form to scour porcelain",
+        "answer": "pumice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT'S GREEK TO ME",
+        "value": 800,
+        "question": "Aristotle defined man as a politikon zoon, a political one of these",
+        "answer": "animal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BESTSELLERS",
+        "value": 1000,
+        "question": "Author of one of 1988's top-selling hardcover cookbooks, \"The Frugal Gourmet Cooks American\"",
+        "answer": "Jeff Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "Napoleon's invasion of Spain inspired two of his most powerful works, \"The 2nd of May\" & \"The 3rd of May\"",
+        "answer": "Goya",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "20th CENTURY AMERICA",
+        "value": 1000,
+        "question": "This son of a railroad magnate was the chief US negotiator of the 1963 nuclear test ban treaty",
+        "answer": "Averell Harriman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 1000,
+        "question": "Though this Mali city once bustled, its name is used to mean any remote place",
+        "answer": "Timbuktu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ROCKS & GEMS",
+        "value": 1000,
+        "question": "The imperial variety of this November birthstone is the most valuable",
+        "answer": "topaz",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT'S GREEK TO ME",
+        "value": 1000,
+        "question": "In Greek, this two-word phrase means \"the many\"; in English, it's come to mean \"the common people\"",
+        "answer": "hoi polloi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "OPERA",
+    "clue": "Verdi eliminated all of the Venetian scenes in this opera based on a Shakespearean play",
+    "answer": "Otello"
+  },
+  "gameId": "1457",
+  "gameDate": "Tuesday, December 25, 1990"
+}

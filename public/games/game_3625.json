@@ -1,0 +1,574 @@
+{
+  "title": "Show #2143 - Wednesday, December 22, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. GEOGRAPHY",
+      "CHRISTMAS SONGS",
+      "BUSINESS & INDUSTRY",
+      "HORSES",
+      "WISH SUPERSTITIONS",
+      "POT LUCK"
+    ],
+    "clues": [
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 100,
+        "question": "This state's Seward peninsula includes the westernmost point on the North American mainland",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 100,
+        "question": "The line \"my true love gave to me five gold rings\" comes from this song",
+        "answer": "\"The 12 Days of Christmas\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 100,
+        "question": "About 30% of the world's banana's are sold under this No. 1 brand name",
+        "answer": "Chiquita",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HORSES",
+        "value": 100,
+        "question": "A novel by Richard Adams shows the Civil War through the eyes of this man's horse Traveller",
+        "answer": "(Robert E.) Lee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WISH SUPERSTITIONS",
+        "value": 100,
+        "question": "A wish made on the candles of one of these won't come true if you tell it aloud",
+        "answer": "a birthday cake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POT LUCK",
+        "value": 100,
+        "question": "For 5 seasons in the 1970s, this CBS sitcom starring Carroll O'Connor was TV's No 1. prime-time series",
+        "answer": "All in the Family",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "In Virginia Cape Charles & Cape Henry mark the northern & southern sides of the entrances to this bay",
+        "answer": "Chesapeake Bay",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 200,
+        "question": "\"Hark! The Herald Angels Sing\" this",
+        "answer": "\"Glory to the Newborn King\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 200,
+        "question": "Since 1924 this department store has sponsored the annual Thanksgiving Day Parade in New York City",
+        "answer": "Macy's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HORSES",
+        "value": 200,
+        "question": "In \"The Legend of Sleepy Hollow\", he rides Gunpowder during his encounter with the Headless Horseman",
+        "answer": "Ichabod Crane",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WISH SUPERSTITIONS",
+        "value": 200,
+        "question": "This part of a bird is broken & the person who gets the larger part gets his wish",
+        "answer": "wishbone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POT LUCK",
+        "value": 200,
+        "question": "The color of red wines comes from this part of the grape",
+        "answer": "the skin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 300,
+        "question": "Lake Placid is located 1,860 feet above sea level in these mountains",
+        "answer": "the Adirondacks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 300,
+        "question": "John Mason Neale translated \"O Come, O Come, Emmanuel\" & wrote this carol about a virtuous ruler",
+        "answer": "\"Good King Wenceslas\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 300,
+        "question": "In 1952 this company introduced the \"Flo-Thru\" tea bag",
+        "answer": "Lipton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HORSES",
+        "value": 300,
+        "question": "His steed Balius was immortal; it didn't have a tendon problem",
+        "answer": "Achilles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WISH SUPERSTITIONS",
+        "value": 300,
+        "question": "\"I wish I may, I wish I might, have the wish I wish tonight\" is said upon seeing one of these",
+        "answer": "a star",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POT LUCK",
+        "value": 300,
+        "question": "Tae Kwon Do, which emphasizes kicking, is the Korean type of this martial art",
+        "answer": "karate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "Port Townsend, one of Washington's oldest cities, is at the entrance to this inlet",
+        "answer": "Puget Sound",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 400,
+        "question": "The only line from \"Rudolph the Red-Nosed Reindeer\" that contains the word \"Christmas\"",
+        "answer": "\"Then one foggy Christmas Eve\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 400,
+        "question": "This toothpaste \"with Flouristan\" was advertised in the 1950's with special paintings by Norman Rockwell",
+        "answer": "Crest",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HORSES",
+        "value": 400,
+        "question": "Of the 4 Horsemen of the Apocalypse, the one symbolizing this rode a pale horse",
+        "answer": "Death",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WISH SUPERSTITIONS",
+        "value": 400,
+        "question": "You can make a wish when you see 3 birds on a telephone wire or the first one of these birds in the spring",
+        "answer": "a robin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POT LUCK",
+        "value": 400,
+        "question": "This chief crop of Illinois grows on about 40% of the state's farmland",
+        "answer": "corn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 500,
+        "question": "Referring to its Spanish name, this chief Texas Panhandle city is nicknamed the \"Yellow Rose of Texas\"",
+        "answer": "Amarillo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 500,
+        "question": "In 1951 this \"Music Man\" wrote \"It's Beginning to Look a Lot Like Christmas\"",
+        "answer": "Meredith Willson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 500,
+        "question": "This spice company that owns Schilling is the largest producer of dehydrated garlic & onions",
+        "answer": "McCormick",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HORSES",
+        "value": 1000,
+        "question": "This is the Merv Griffin logo, this is the Columbia logo, & the following is this company's",
+        "answer": "Tri-Star",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WISH SUPERSTITIONS",
+        "value": 500,
+        "question": "A rhyme says \"Touch\" this color \"and your wish will come true\"",
+        "answer": "blue",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POT LUCK",
+        "value": 500,
+        "question": "Randolph Churchill, Winston's father, held this minister of finance position at age 37",
+        "answer": "Chancellor of the Exchequer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC PEOPLE",
+      "QUOTATIONS",
+      "CENTRAL AMERICA",
+      "SAINTS",
+      "MUSIC APPRECIATION",
+      "FICTIONAL CHARACTERS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC PEOPLE",
+        "value": 200,
+        "question": "This conqueror was crowned King of England on Christmas Day 1066",
+        "answer": "William",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 200,
+        "question": "This humorist often commented, \"All I know is what I read in the papers\"",
+        "answer": "Will Rogers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CENTRAL AMERICA",
+        "value": 200,
+        "question": "In population, this canal country's Darien province is its smallest",
+        "answer": "Panama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SAINTS",
+        "value": 200,
+        "question": "After the Danes invaded Ireland, St. Brigid's remains were moved next to this Saint's",
+        "answer": "Patrick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 200,
+        "question": "This musical style that developed in the 1940s is nicknamed R&B",
+        "answer": "rhythm & blues",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 200,
+        "question": "The form of this Philip Roth novel is a monologue by Alexander Portnoy to his psychiatrist",
+        "answer": "Portnoy's Complaint",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC PEOPLE",
+        "value": 400,
+        "question": "The Coast Guard traces its history to 1790, when the Revenue Marine was created by this Treasury Secretary",
+        "answer": "(Alexander) Hamilton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 400,
+        "question": "On living in the White House, he said in 1983, \"You get a little stir-crazy during the week\"",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CENTRAL AMERICA",
+        "value": 400,
+        "question": "In 1822-23 5 of the Central American countries were legally part of this North American country",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SAINTS",
+        "value": 400,
+        "question": "When one of these tried to swallow St. Margaret, she should have called St. George",
+        "answer": "a dragon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 400,
+        "question": "Types of this vocal music include Ambrosian, Byzantine & Gregorian",
+        "answer": "chants",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 400,
+        "question": "On his deathbed this slave forgives his sadistic master Simon Legree",
+        "answer": "Uncle Tom",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC PEOPLE",
+        "value": 600,
+        "question": "On Valentine's Day 1779, this English explorer was killed by natives in a struggle over a boat",
+        "answer": "Captain Cook",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 600,
+        "question": "These 2 words complete the Charles Colton line \"When you have nothing to say....\"",
+        "answer": "\"Say nothing\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CENTRAL AMERICA",
+        "value": 600,
+        "question": "The ruined site of Kaminaljuyo, built by these Indians, lies just outside Guatemala City",
+        "answer": "the Mayans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SAINTS",
+        "value": 600,
+        "question": "In 1960 an English volume of this Saint of Loyola's \"Letters to Women\" was published",
+        "answer": "Ignatius",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 600,
+        "question": "A Malaguena can be a dance or a folk song from the southern part of this country",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 600,
+        "question": "Kay Strong Petersen & Dottie Renfrew are 2 of the Vassar grads in her novel \"The Group\"",
+        "answer": "Mary McCarthy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC PEOPLE",
+        "value": 800,
+        "question": "At a February 1956 Communist Party Congress, Khrushchev denounced this former leader as \"a tyrant\"",
+        "answer": "(Joseph) Stalin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 800,
+        "question": "In 1952, he said, \"Pat doesn't have a mink coat. But she does have a respectable Republican cloth coat\"",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CENTRAL AMERICA",
+        "value": 800,
+        "question": "The Tipitapa River connects Lake Managua with this lake to the southeast",
+        "answer": "Lake Nicaragua",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SAINTS",
+        "value": 1600,
+        "question": "Sailors know St. Erasmus by this \"fiery\" name",
+        "answer": "St. Elmo",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 800,
+        "question": "\"Tarare\" may have been the finest opera composed by this man, a rival of Mozart",
+        "answer": "(Antonio) Salieri",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 800,
+        "question": "Gibreel Farishta & Saladin Chamcha fall from an exploded jet at the start of this Salman Rushdie novel",
+        "answer": "The Satanic Verses",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC PEOPLE",
+        "value": 2000,
+        "question": "This British Prime Minister introduced the Intolerable Acts in response to the Boston Tea Party",
+        "answer": "Lord (Frederick) North",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "QUOTATIONS",
+        "value": 1000,
+        "question": "This happens when \"Poverty comes in at the door\"",
+        "answer": "\"Love flies out the window\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CENTRAL AMERICA",
+        "value": 1000,
+        "question": "This country's only outlet to the Pacific is the Gulf of Fonseca about 60 miles southwest of Tegucigalpa",
+        "answer": "Honduras",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SAINTS",
+        "value": 1000,
+        "question": "St. Augustine was Bishop of Hippo; another St. Augustine went to England & was the 1st Archbishop of this city",
+        "answer": "Canterbury",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MUSIC APPRECIATION",
+        "value": 1000,
+        "question": "\"Kinderlieder\" is a cycle of children's songs by this \"Hansel and Gretel\" composer",
+        "answer": "Engelbert Humperdinck",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 1000,
+        "question": "Ricky Roma is the top real estate salesman in his novel \"Glengarry Glen Ross\"",
+        "answer": "(David) Mamet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ORGANIZATIONS",
+    "clue": "This organization was dissolved in 1956 after its last member, Albert Woolson, died at age 109",
+    "answer": "the Grand Army of the Republic"
+  },
+  "gameId": "2143",
+  "gameDate": "Wednesday, December 22, 1993"
+}

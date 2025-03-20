@@ -1,0 +1,556 @@
+{
+  "title": "Show #7255 - Friday, March 11, 2016",
+  "jeopardyRound": {
+    "categories": [
+      "BUSTED!",
+      "THE ENTERTAINMENT BUSINESS?",
+      "IT'S THE WURST",
+      "WEAPONS IN THE BOARD GAME CLUE",
+      "U.S. GEOGRAPHY",
+      "FROM \"C\" TO SHINING \"C\""
+    ],
+    "clues": [
+      {
+        "category": "BUSTED!",
+        "value": 200,
+        "question": "Seen here is a bust by Rodin of this \"Les Miserables\" author",
+        "answer": "Victor Hugo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE ENTERTAINMENT BUSINESS?",
+        "value": 200,
+        "question": "Clampett Oil paid the bills for Jed, Jethro, Granny & Elly May on this sitcom",
+        "answer": "The Beverly Hillbillies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IT'S THE WURST",
+        "value": 200,
+        "question": "Thank you, but I'll pass on the Blutwurst, German for this sausage",
+        "answer": "blood sausage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WEAPONS IN THE BOARD GAME CLUE",
+        "value": 200,
+        "question": "If you're at \"the end of\" this, you're out of resources & options",
+        "answer": "a rope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "The Niagara River is the only natural outlet of this Great Lake",
+        "answer": "Lake Erie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FROM \"C\" TO SHINING \"C\"",
+        "value": 200,
+        "question": "Our clue is written in this alphabet",
+        "answer": "Cyrillic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BUSTED!",
+        "value": 400,
+        "question": "A gigantic bust of his head tops his monument at Highgate Cemetery in London",
+        "answer": "Karl Marx",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE ENTERTAINMENT BUSINESS?",
+        "value": 400,
+        "question": "On film & TV, the 2-word name of the fictional company owned by the alter ego of Batman",
+        "answer": "Wayne Industries (or Wayne Enterprises)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IT'S THE WURST",
+        "value": 400,
+        "question": "Jagdwurst is also known as hunter's this sausage, named for an Italian city",
+        "answer": "bologna (baloney accepted)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "About 140 miles east of San Francisco, you'll find this national park",
+        "answer": "Yosemite",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FROM \"C\" TO SHINING \"C\"",
+        "value": 400,
+        "question": "Type of unit used to measure 3-dimensional volume",
+        "answer": "cubic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE ENTERTAINMENT BUSINESS?",
+        "value": 600,
+        "question": "Scavo Pizzeria was opened by Tom & Lynette on this Sunday night series",
+        "answer": "Desperate Housewives",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IT'S THE WURST",
+        "value": 600,
+        "question": "Craving a spicy all-pork Mettwurst?  Head to this Ohio \"Queen City\" once known as \"Porkopolis\"",
+        "answer": "Cincinnati",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WEAPONS IN THE BOARD GAME CLUE",
+        "value": 600,
+        "question": "Name of the former park for football's 49ers",
+        "answer": "Candlestick Park",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "The highest state capital in the U.S. at about 7,000 feet, it lies in the northern Rio Grande Valley",
+        "answer": "Santa Fe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FROM \"C\" TO SHINING \"C\"",
+        "value": 600,
+        "question": "Mark Twain said this type of book is one that people praise but don't read",
+        "answer": "a classic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BUSTED!",
+        "value": 800,
+        "question": "At the Louvre, you can see Bernini's bust of this French cardinal & statesman",
+        "answer": "Richelieu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE ENTERTAINMENT BUSINESS?",
+        "value": 800,
+        "question": "To try & catch the road runner, Wile E. Coyote buys rocket skates & a few other things from this company",
+        "answer": "Acme",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IT'S THE WURST",
+        "value": 800,
+        "question": "It's no surprise that Bierwurst is a specialty of this German state that's home to the original Oktoberfest",
+        "answer": "Bavaria",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WEAPONS IN THE BOARD GAME CLUE",
+        "value": 800,
+        "question": "If you do this to your ankle, you've given it a heavy strain",
+        "answer": "wrench",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "This mountain system stretches about 1,500 miles from Maine to Alabama",
+        "answer": "the Appalachians",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FROM \"C\" TO SHINING \"C\"",
+        "value": 800,
+        "question": "Last name of Antoine, the Colonial governor who founded Detroit in 1701",
+        "answer": "Cadillac",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BUSTED!",
+        "value": 1000,
+        "question": "The bust of this Egyptian queen has been called the ultimate symbol of female beauty",
+        "answer": "Nefertiti",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE ENTERTAINMENT BUSINESS?",
+        "value": 1000,
+        "question": "Rachel would be there for you, serving up java at this coffeehouse on \"Friends\"",
+        "answer": "Central Perk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IT'S THE WURST",
+        "value": 1000,
+        "question": "A 2013 Google doodle celebrated the 100th birthday of Herta Heuwer, inventor of this Indian-spiced Berlin specialty",
+        "answer": "Currywurst",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WEAPONS IN THE BOARD GAME CLUE",
+        "value": 1000,
+        "question": "When preceding \"cinch\", it means a virtual certainty",
+        "answer": "lead pipe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "Ponce de Leon named these \"Dry\" Florida islands for the abundance of sea turtles in the surrounding waters",
+        "answer": "the Dry Tortugas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FROM \"C\" TO SHINING \"C\"",
+        "value": 1000,
+        "question": "A person skeptical of others' motives, or a member of an ancient Greek sect founded by Antisthenes",
+        "answer": "a cynic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "A BILLION VIEWS ON YOUTUBE",
+      "EXPLORATION",
+      "BUGGY WORDS & PHRASES",
+      "U.S. FIRSTS",
+      "THE MIDDLE",
+      "LITERARY CHARACTERS' LAST WORDS"
+    ],
+    "clues": [
+      {
+        "category": "A BILLION VIEWS ON YOUTUBE",
+        "value": 400,
+        "question": "More than 1.1 billion heard this singer \"Roar\"",
+        "answer": "Katy Perry",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "EXPLORATION",
+        "value": 400,
+        "question": "Roald Amundsen reached this point in December 1911 & told the world 3 months later in a telegram from Australia",
+        "answer": "the South Pole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BUGGY WORDS & PHRASES",
+        "value": 400,
+        "question": "This adjective means timeworn as well as destroyed by certain lepidopterans",
+        "answer": "moth-eaten",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. FIRSTS",
+        "value": 400,
+        "question": "Launched in 1965 as the USA's first commercial satellite, it caught TV signals, not \"the worm\"",
+        "answer": "the Early Bird",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE MIDDLE",
+        "value": 400,
+        "question": "This non-metric race is the glamor event in middle distance running; a \"sub-four\" one is still notable",
+        "answer": "a mile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LITERARY CHARACTERS' LAST WORDS",
+        "value": 400,
+        "question": "\"Tomorrow, I'll think of some way to get him back.  After all, tomorrow is another day\"",
+        "answer": "Scarlett O'Hara",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "A BILLION VIEWS ON YOUTUBE",
+        "value": 800,
+        "question": "1.1 billion saw her sing, \"break break break break break\" & \"fake fake fake fake fake\"",
+        "answer": "Taylor Swift",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EXPLORATION",
+        "value": 800,
+        "question": "In the 1850s this Scot wrote the bestseller \"Missionary Travels\", an account of his explorations",
+        "answer": "(Dr. David) Livingstone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BUGGY WORDS & PHRASES",
+        "value": 800,
+        "question": "This high hairstyle created a \"buzz\" in the 1960s",
+        "answer": "a beehive",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. FIRSTS",
+        "value": 800,
+        "question": "In the 1810 case Fletcher v. Peck, the Supreme Court declared for the first time ever that a state law was this",
+        "answer": "unconstitutional",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE MIDDLE",
+        "value": 800,
+        "question": "About the size of Africa, Aphrodite Terra is a plateau region stretching across the middle of this planet",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LITERARY CHARACTERS' LAST WORDS",
+        "value": 800,
+        "question": "In a 1902 novella:\"The horror!  The horror!\"",
+        "answer": "Kurtz",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "A BILLION VIEWS ON YOUTUBE",
+        "value": 1200,
+        "question": "The son of a singing superstar from Spain, he got into the billion club with \"Bailando\"",
+        "answer": "Enrique Iglesias",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EXPLORATION",
+        "value": 1200,
+        "question": "While searching for a rich land named El Dorado in 1531, Diego de Ordaz explored this Venezuelan river",
+        "answer": "the Orinoco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BUGGY WORDS & PHRASES",
+        "value": 1200,
+        "question": "The ball is handed off, tossed back to the quarterback, then thrown downfield in this football play",
+        "answer": "the flea flicker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S. FIRSTS",
+        "value": 1200,
+        "question": "The first accurate date for a volcanic eruption in the U.S. was when this Washington State volcano erupted in 1842",
+        "answer": "Mount St. Helens",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE MIDDLE",
+        "value": 1200,
+        "question": "A documentary on music for the \"Lord of the Rings\" films told of \"A Composer's Journey Through\" this land",
+        "answer": "Middle-earth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LITERARY CHARACTERS' LAST WORDS",
+        "value": 1200,
+        "question": "\"Bob!  Make up the fires, and buy another coal-scuttle before you dot another I, Bob Cratchit!\"",
+        "answer": "(Ebenezer) Scrooge",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "A BILLION VIEWS ON YOUTUBE",
+        "value": 1600,
+        "question": "\"Baby, baby, baby, oh\", Justin Bieber & this rapper aka Chris Bridges got views a-plenty with \"Baby\"",
+        "answer": "Ludacris",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EXPLORATION",
+        "value": 1600,
+        "question": "To prove that pre-Inca voyagers could have settled Polynesia, in 1947 Thor Heyerdahl set sail from Peru on this balsa raft",
+        "answer": "the Kon-Tiki",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BUGGY WORDS & PHRASES",
+        "value": 1600,
+        "question": "A nice housewarming gift, it grows easily in baskets",
+        "answer": "a spider plant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S. FIRSTS",
+        "value": 1600,
+        "question": "On Sept. 6, 1870 Louisa Swain became the USA's first recorded female voter when she cast a ballot in this future state",
+        "answer": "Wyoming",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE MIDDLE",
+        "value": 1600,
+        "question": "This leg of the Triangular Trade route took African slaves across the Atlantic to the New World",
+        "answer": "the Middle Passage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LITERARY CHARACTERS' LAST WORDS",
+        "value": 1600,
+        "question": "In an 1851 novel:\"Thus, I give up the spear!\"",
+        "answer": "Ahab",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "A BILLION VIEWS ON YOUTUBE",
+        "value": 2000,
+        "question": "Count the views on \"Counting Stars\" by this group & it's north of a billion",
+        "answer": "OneRepublic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EXPLORATION",
+        "value": 2000,
+        "question": "In January 1643 this Dutchman left New Zealand & a month later became the first European to reach Fiji",
+        "answer": "(Abel) Tasman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BUGGY WORDS & PHRASES",
+        "value": 2000,
+        "question": "This phrase for a flaw that spoils something good has its origin in Ecclesiastes 10:1",
+        "answer": "a fly in the ointment",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S. FIRSTS",
+        "value": 2000,
+        "question": "Depicting the 5,400 stars visible to man, the USA's first planetarium was this one in Chicago that opened in 1930",
+        "answer": "the Adler Planetarium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE MIDDLE",
+        "value": 2000,
+        "question": "This 3-word Latin phrase means \"in the middle of things\"",
+        "answer": "in medias res",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LITERARY CHARACTERS' LAST WORDS",
+        "value": 2000,
+        "question": "Tessie Hutchinson, in this 1948 short story:\"It isn't fair, it isn't right\"",
+        "answer": "\"The Lottery\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "19th CENTURY DOCUMENTS",
+    "clue": "Its preamble substituted the words \"a permanent federal government\" for \"a more perfect union\"",
+    "answer": "the Confederate Constitution"
+  },
+  "gameId": "7255",
+  "gameDate": "Friday, March 11, 2016"
+}

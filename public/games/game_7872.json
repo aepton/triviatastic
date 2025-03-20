@@ -1,0 +1,574 @@
+{
+  "title": "Show #1442 - Tuesday, December 4, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "CRIME & PUNISHMENT",
+      "COUNTIES",
+      "WEATHER",
+      "HISTORICAL FILMS",
+      "MUSEUMS",
+      "TEA"
+    ],
+    "clues": [
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 100,
+        "question": "Elmyr de Hory was exposed as one in 1968 when buyers noticed wet paint on paintings he was selling",
+        "answer": "a forger",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COUNTIES",
+        "value": 100,
+        "question": "Nebraska has a Cherry County & this state a Peach County",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WEATHER",
+        "value": 100,
+        "question": "You're in them where the trade winds meet near the equator, even if you're not down in the dumps",
+        "answer": "the doldrums",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL FILMS",
+        "value": 100,
+        "question": "John Wayne's role as this macho Mongol in \"The Conqueror\" was perhaps the strangest of his career",
+        "answer": "Genghis Khan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 100,
+        "question": "This artist's original bird illustrations are exhibited in a museum near Henderson, Kentucky",
+        "answer": "Audubon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TEA",
+        "value": 100,
+        "question": "There's more tea in this large Asian country than all the tea in China",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 200,
+        "question": "In 1978 the stolen body of this film comedian who died in 1977 was found in a Swiss cornfield",
+        "answer": "Charlie Chaplin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COUNTIES",
+        "value": 200,
+        "question": "Glades County is in this state",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WEATHER",
+        "value": 200,
+        "question": "He was the first to propose a thermometer based on the centigrade scale",
+        "answer": "Anders Celsius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL FILMS",
+        "value": 200,
+        "question": "32 years apart, Errol Flynn and David Hemmings starred in films about \"The Charge of\" this",
+        "answer": "the Light Brigade",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 200,
+        "question": "The USS Yorktown is now a naval museum on the Cooper River near Charleston in this state",
+        "answer": "South Carolina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TEA",
+        "value": 200,
+        "question": "The first tea bags were made of this insect fiber",
+        "answer": "silk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 300,
+        "question": "The device a 17-year-old Cleveland boy used to get Richard Nixon's unlisted home phone number",
+        "answer": "a computer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COUNTIES",
+        "value": 300,
+        "question": "Missouri's Hickory County & its county seat Hermitage were both named in honor of this president",
+        "answer": "Jackson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WEATHER",
+        "value": 300,
+        "question": "A Fata Morgana is one of these, often in the form of castles & usually over water",
+        "answer": "a mirage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL FILMS",
+        "value": 300,
+        "question": "Sir Richard Attenborough won 1982's Best Director Oscar for this epic which also won Best Picture",
+        "answer": "Gandhi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 300,
+        "question": "There's a Boot Hill Museum on Wyatt Earp Boulevard in this Kansas town",
+        "answer": "Dodge City",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TEA",
+        "value": 300,
+        "question": "In this country tea was first sold publicly in 1657 in a coffee house",
+        "answer": "England",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 400,
+        "question": "After killing this outlaw in April 1882 Bob Ford went on a national tour",
+        "answer": "Jesse James",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COUNTIES",
+        "value": 400,
+        "question": "There's a Louisiana parish named for this Longfellow heroine",
+        "answer": "Evangeline",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WEATHER",
+        "value": 400,
+        "question": "From a Cantonese word, it's a severe tropical hurricane, especially one in the China Sea",
+        "answer": "a typhoon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL FILMS",
+        "value": 400,
+        "question": "In the 1936 Western \"The Plainsman\", Gary Cooper went wild in this role",
+        "answer": "Wild Bill Hickok",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 400,
+        "question": "The battleship Texas can be seen at the San Jacinto Museum of History in this major Texas city",
+        "answer": "Houston",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TEA",
+        "value": 400,
+        "question": "There are three major types of tea: oolong & the teas named for these 2 colors",
+        "answer": "green & black",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 500,
+        "question": "She planned the bank robberies for her boys Herman, Lloyd, Arthur & Fred",
+        "answer": "Ma Barker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COUNTIES",
+        "value": 500,
+        "question": "Lake of the Woods County is this state's newest county, as well as its least populous",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WEATHER",
+        "value": 1000,
+        "question": "The Greeks saw this as the sign of Iris, messenger of the gods",
+        "answer": "a rainbow",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HISTORICAL FILMS",
+        "value": 500,
+        "question": "Ethel Barrymore played this troubled Empress in the 1932 film \"Rasputin and the Empress\"",
+        "answer": "Alexandra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 500,
+        "question": "Van Gogh's \"Starry Night\" & some of Monet's water lily paintings hang here in Midtown Manhattan",
+        "answer": "the Museum of Modern Art",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TEA",
+        "value": 500,
+        "question": "The Lapsang grade of this tea is known for its smoky flavor",
+        "answer": "souchong",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AUSTRALIA",
+      "THE OLD TESTAMENT",
+      "LAW",
+      "OPERA",
+      "AMERICAN HISTORY",
+      "ENGLISH LITERATURE"
+    ],
+    "clues": [
+      {
+        "category": "AUSTRALIA",
+        "value": 200,
+        "question": "In 1967, the Constitution was amended to allow these native Australians to become citizens",
+        "answer": "Aborigines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OLD TESTAMENT",
+        "value": 200,
+        "question": "His brothers sold him into slavery, telling their father he'd been devoured by wild beasts",
+        "answer": "Joseph",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LAW",
+        "value": 200,
+        "question": "A military tribunal convened under government authority to try members of the armed forces",
+        "answer": "a court-martial",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OPERA",
+        "value": 200,
+        "question": "\"Iris\", a 19th century opera set in this country, features characters named Kyoto & Osaka",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 200,
+        "question": "The British Crown dismissed him as deputy postmaster general prior to the American Revolution",
+        "answer": "Franklin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 200,
+        "question": "Isaac Jaggard & Edward Blount printed the first folio of this playwright's works",
+        "answer": "Shakespeare",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AUSTRALIA",
+        "value": 400,
+        "question": "Australia has about 500 species of this tree, the most widespread on the continent",
+        "answer": "eucalyptus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OLD TESTAMENT",
+        "value": 400,
+        "question": "David sent her husband Uriah into battle to die & then married her",
+        "answer": "Bathsheba",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LAW",
+        "value": 400,
+        "question": "An infant, a child or any juvenile who has not yet reached the legal age of competence",
+        "answer": "a minor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OPERA",
+        "value": 400,
+        "question": "\"Lucia di Lammermoor\" is set in this country around 1700",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "This Quaker abolitionist & suffragist was burned in effigy by a New York City mob in the 1850s",
+        "answer": "Susan B. Anthony",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 400,
+        "question": "Don't be afraid to tell us that she's the lady who wrote \"Mrs. Dalloway\" & published it in 1925",
+        "answer": "Virginia Woolf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AUSTRALIA",
+        "value": 600,
+        "question": "Danish architect Jorn Utzon designed this Sydney landmark, which was completed in 1973",
+        "answer": "the Opera House",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OLD TESTAMENT",
+        "value": 600,
+        "question": "In 2 Kings 2, he went up to heaven in a chariot of fire",
+        "answer": "Elijah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LAW",
+        "value": 600,
+        "question": "Toleration Acts are concerned with this freedom",
+        "answer": "religion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OPERA",
+        "value": 600,
+        "question": "Of Tosca, Thais or Turandot, the one who doesn't die at the end of her opera",
+        "answer": "Turandot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 600,
+        "question": "By 1902, this traditional color of U.S. Army uniforms was changed to olive drab",
+        "answer": "blue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 600,
+        "question": "He emigrated to New Zealand & grew wealthy as a sheep farmer before writing \"Erewhon\"",
+        "answer": "(Samuel) Butler",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AUSTRALIA",
+        "value": 1600,
+        "question": "It's the only Australian state named for a man",
+        "answer": "Tasmania",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OLD TESTAMENT",
+        "value": 800,
+        "question": "Saul had this witch raise the spirit of Samuel, who then prophesied Saul's doom",
+        "answer": "the Witch of Endor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LAW",
+        "value": 800,
+        "question": "Literally meaning that you have the body, this writ requires an appearance in court",
+        "answer": "habeas corpus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OPERA",
+        "value": 800,
+        "question": "The Walpurgis Night orgy scene is often omitted from productions of this Gounod opera",
+        "answer": "Faust",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 800,
+        "question": "The State's Rights Democrats who opposed their party's civil rights plank in 1948 were known as this",
+        "answer": "the Dixiecrats",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 800,
+        "question": "His novel \"The Moon and Sixpence\" is based on Gauguin, but the hero is British, not French",
+        "answer": "Somerset Maugham",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AUSTRALIA",
+        "value": 1000,
+        "question": "Australia's first modern World's Fair, World Expo '88, was held in this capital of Queensland",
+        "answer": "Brisbane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OLD TESTAMENT",
+        "value": 2000,
+        "question": "Sorrowful prophet whose book follows Isaiah, he's also credited with the book of Lamentations",
+        "answer": "Jeremiah",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LAW",
+        "value": 1000,
+        "question": "In 1969, this Supreme Court justice resigned amid criticism of his financial dealings",
+        "answer": "(Abe) Fortas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OPERA",
+        "value": 1000,
+        "question": "Composer whose 1859 opera \"Un ballo in maschera\" depicts an assassination at a masked ball",
+        "answer": "Verdi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1000,
+        "question": "Victoria Woodhull, the first woman to run for president, lost to him in 1872",
+        "answer": "Grant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 1000,
+        "question": "Dinah Morris, a Methodist preacher, agrees to marry Adam Bede at the end of this author's novel",
+        "answer": "George Eliot",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BROADWAY MUSICALS",
+    "clue": "A jilted lover almost breaks a magic spell by running away from a village in this 1947 musical",
+    "answer": "Brigadoon"
+  },
+  "gameId": "1442",
+  "gameDate": "Tuesday, December 4, 1990"
+}

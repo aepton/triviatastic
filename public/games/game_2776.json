@@ -1,0 +1,574 @@
+{
+  "title": "Show #4282 - Tuesday, March 25, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "I LOVE NEW YORK",
+      "PEOPLE",
+      "GET REAL",
+      "2-LETTER WORDS",
+      "THE ANCIENTS SPEAK",
+      "YOU GIVE ME THE WILLIES"
+    ],
+    "clues": [
+      {
+        "category": "I LOVE NEW YORK",
+        "value": 200,
+        "question": "(Sofia of the Clue Crew in New York's Times Square)  It's not too crowded today, but around, oh, 11:30 on this day of the year, Times Square holds about 500,000 people",
+        "answer": "New Year's Eve",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 200,
+        "question": "Don't call us with your research questions; call this U.S. first lady who has a master's degree in library science",
+        "answer": "Laura Bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GET REAL",
+        "value": 200,
+        "question": "From a character in an 18th century play, to be genuine you're not Alvin-pure or Theodore-pure, but this",
+        "answer": "Simon-pure",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 200,
+        "question": "A person who has a selfish reason for doing something has this tool \"to grind\"",
+        "answer": "ax",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE ANCIENTS SPEAK",
+        "value": 200,
+        "question": "A line from the Aesop fable \"The Wolf in Sheep's Clothing\" says, \"Appearances often are\" this",
+        "answer": "deceiving",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "YOU GIVE ME THE WILLIES",
+        "value": 200,
+        "question": "\"Say Hey\" -- he was the National League's most valuable baseball player in 1954 & 1965",
+        "answer": "Willie Mays",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "I LOVE NEW YORK",
+        "value": 400,
+        "question": "(New York Yankees manager Joe Torre)  You'll find collections of roses & tulips in the New York Botanical Garden in this borough where I work",
+        "answer": "Bronx",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 400,
+        "question": "In 2002 this former Clinton cabinet member ran for governor of Florida",
+        "answer": "Janet Reno",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GET REAL",
+        "value": 400,
+        "question": "From the Latin for \"in good faith\", it's used to indicate authenticity",
+        "answer": "bona fide",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 400,
+        "question": "Oh, deer!  It's the first tone of the diatonic musical scale",
+        "answer": "do",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE ANCIENTS SPEAK",
+        "value": 400,
+        "question": "He told Ptolemy I, \"There is no royal road to geometry\"",
+        "answer": "Euclid",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "YOU GIVE ME THE WILLIES",
+        "value": 400,
+        "question": "He duetted with Waylon Jennings on the No. 1 country hit \"Mammas Don't Let Your Babies Grow Up to be Cowboys\"",
+        "answer": "Willie Nelson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "I LOVE NEW YORK",
+        "value": 600,
+        "question": "You get the item seen here on entering this palace of culture",
+        "answer": "Metropolitan Museum of Art",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 600,
+        "question": "He brought out his best when he introduced his pre-made mayo in jars around 1912",
+        "answer": "Richard Hellmann",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GET REAL",
+        "value": 600,
+        "question": "This phrase previously came from those referring to the true chief of a Scottish clan",
+        "answer": "real McCoy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 600,
+        "question": "In hyphenated terms, it comes before -go, -show & -brainer",
+        "answer": "no",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE ANCIENTS SPEAK",
+        "value": 600,
+        "question": "It reads, \"I will use treatment to help the sick according to my ability and judgment\"",
+        "answer": "the Hippocratic Oath",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "YOU GIVE ME THE WILLIES",
+        "value": 600,
+        "question": "In 1996 he was sworn in as San Francisco's first African-American mayor",
+        "answer": "Willie Brown",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "I LOVE NEW YORK",
+        "value": 800,
+        "question": "This area precedes \"Vanguard\" in the name of a NYC jazz club that's been swinging since 1935",
+        "answer": "Village",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 800,
+        "question": "Registered nurses take a pledge named for this woman",
+        "answer": "Florence Nightingale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GET REAL",
+        "value": 800,
+        "question": "Aussie slang for genuine, it's \"fair\" this, mate",
+        "answer": "dinkum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 800,
+        "question": "It can mean awake, cheerful, or at bat",
+        "answer": "up",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE ANCIENTS SPEAK",
+        "value": 800,
+        "question": "The 7 Sages said to \"not speak ill of\" this group",
+        "answer": "the dead",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "YOU GIVE ME THE WILLIES",
+        "value": 800,
+        "question": "All clowning aside, originally Emmett Kelly created this mournful hobo as a cartoon character",
+        "answer": "Weary Willie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "I LOVE NEW YORK",
+        "value": 1000,
+        "question": "This neighborhood is bounded on the south by 110th St. & on the north by the small river of the same name",
+        "answer": "Harlem",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PEOPLE",
+        "value": 1000,
+        "question": "Erich Maria Remarque was a pen name; he came up with it by spelling this, his real last name, backwards",
+        "answer": "Kramer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GET REAL",
+        "value": 1000,
+        "question": "From the followers of Jesus comes this adjective for authoritative",
+        "answer": "apostolic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 1000,
+        "question": "In an expression from Matthew 6:30, it's the word that immediately precedes \"of little faith\"",
+        "answer": "Ye",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE ANCIENTS SPEAK",
+        "value": 1000,
+        "question": "This Chinese philosopher, not Confucius, wrote, \"A journey of a thousand miles must begin with a single step\"",
+        "answer": "Lao-tzu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "YOU GIVE ME THE WILLIES",
+        "value": 1000,
+        "question": "This pocket billiards champ was an adviser for the movie \"The Hustler\"",
+        "answer": "Willie Mosconi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GETTING SCIENTIFIC",
+      "THE OLD WEST",
+      "ARCHITECTS NEED TO KNOW",
+      "MOVIE SONGS",
+      "THE FRENCH THEATRE",
+      "\"D\" TALKS"
+    ],
+    "clues": [
+      {
+        "category": "GETTING SCIENTIFIC",
+        "value": 400,
+        "question": "Air consists of about 78% nitrogen, 1% argon & 21% this gas",
+        "answer": "oxygen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 400,
+        "question": "Authors held off on unfavorable comments on this man & his \"Last Stand\" until his wife died; she lasted until 1933",
+        "answer": "George Custer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ARCHITECTS NEED TO KNOW",
+        "value": 400,
+        "question": "This poured material is strong in compression, but may have steel reinforcing it to increase the tensile strength",
+        "answer": "concrete",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 400,
+        "question": "\"Gonna Fly Now\"(1976)",
+        "answer": "Rocky",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE FRENCH THEATRE",
+        "value": 400,
+        "question": "The plague of flies in his play \"Les Mouches\" may make you feel like there's \"No Exit\"",
+        "answer": "Jean-Paul Sartre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"D\" TALKS",
+        "value": 400,
+        "question": "If someone gets seasick, tell him to take this brand of the anti-nausea drug dimenhydrinate",
+        "answer": "Dramamine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GETTING SCIENTIFIC",
+        "value": 800,
+        "question": "(Sofia of the Clue Crew)  With a lemon, a piece of copper wire, & a paper clip, we've made a simple one of these",
+        "answer": "battery",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 800,
+        "question": "He called his buffalo gun Lucrezia Borgia",
+        "answer": "Buffalo Bill Cody",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ARCHITECTS NEED TO KNOW",
+        "value": 800,
+        "question": "The underlying base of a building, a base of sand & gravel soil is best for it",
+        "answer": "foundation",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 800,
+        "question": "\"Hopelessly Devoted to You\"(1978)",
+        "answer": "Grease",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE FRENCH THEATRE",
+        "value": 800,
+        "question": "This powerful cardinal formed a company of 5 authors, including Corneille, to write plays for him",
+        "answer": "Richelieu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"D\" TALKS",
+        "value": 800,
+        "question": "Chicago FBI head Melvin Purvis helped engineer the killing of this man in 1934",
+        "answer": "John Dillinger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GETTING SCIENTIFIC",
+        "value": 1200,
+        "question": "The wood louse is one of the very few non-aquatic members of this group of hard-shelled arthropods",
+        "answer": "crustaceans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 1200,
+        "question": "Born of a Scottish father & a Cherokee mother, he blazed a trail from Kansas to Texas",
+        "answer": "Jesse Chisholm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ARCHITECTS NEED TO KNOW",
+        "value": 1200,
+        "question": "Gypsum wallboard is commonly known as this",
+        "answer": "sheetrock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 1200,
+        "question": "\"Moon River\"(1961)",
+        "answer": "Breakfast at Tiffany's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE FRENCH THEATRE",
+        "value": 1200,
+        "question": "This gory form of theatre that features thrills & chills traces its name to a Punch-like puppet called Guignol",
+        "answer": "Grand Guignol",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"D\" TALKS",
+        "value": 1200,
+        "question": "This 3-word phrase was coined during the Cold War as a schoolchild's defense against a nuclear attack",
+        "answer": "\"Duck and Cover\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GETTING SCIENTIFIC",
+        "value": 1600,
+        "question": "In the '60s, pilots were awarded astronaut wings if they flew this experimental rocket plane over 50 miles high",
+        "answer": "X-15",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 1600,
+        "question": "Jesse James had a vendetta out for this Chicago detective whose men had killed his 8-year-old half-brother",
+        "answer": "Allan Pinkerton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ARCHITECTS NEED TO KNOW",
+        "value": 1600,
+        "question": "These should be 34\" to 38\" above the tread nosing & have a 1 1/2\" to 2\" grip",
+        "answer": "handrail (when you're going up & down stairs)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 1600,
+        "question": "\"Lady Marmalade\"(2001)",
+        "answer": "Moulin Rouge!",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE FRENCH THEATRE",
+        "value": 1600,
+        "question": "He collapsed onstage in 1673 while playing the title role in his own play \"The Imaginary Invalid\", & died soon after",
+        "answer": "Moliere",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"D\" TALKS",
+        "value": 1600,
+        "question": "By talking with pebbles in his mouth, this ancient Greek was famous for getting over his speech impediment",
+        "answer": "Demosthenes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GETTING SCIENTIFIC",
+        "value": 2000,
+        "question": "(Sofia of the Clue Crew)  It's the process undergone by the moisture in your breath when it reaches cold air outside & becomes visible",
+        "answer": "condensation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 2000,
+        "question": "Frank Canton was elected sheriff of this Wyoming county in 1882; he later sided with the cattlemen in the \"war\" there",
+        "answer": "Johnson County",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ARCHITECTS NEED TO KNOW",
+        "value": 2000,
+        "question": "A parking stall should be 9' X 19' & a stall for this should be at least 30\" wide with a 24\" clearance in front",
+        "answer": "toilet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 2000,
+        "question": "\"Love on the Rocks\"(1980)",
+        "answer": "The Jazz Singer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE FRENCH THEATRE",
+        "value": 2000,
+        "question": "This \"Phedre\" playwright had a \"racy\" life: he was once accused of poisoning his mistress, actress Therese du Parc",
+        "answer": "Jean Racine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"D\" TALKS",
+        "value": 2000,
+        "question": "The \"Motor Wagon Company\" of these brothers produced 13 cars in 1896",
+        "answer": "Duryea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "20th CENTURY PRESIDENTS",
+    "clue": "He's the only U.S. president whose first, middle & last names each have the same number of letters",
+    "answer": "Ronald Wilson Reagan"
+  },
+  "gameId": "4282",
+  "gameDate": "Tuesday, March 25, 2003"
+}

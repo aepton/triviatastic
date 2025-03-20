@@ -1,0 +1,574 @@
+{
+  "title": "Show #2270 - Friday, June 17, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "COUNTIES",
+      "THE GRAMMYS",
+      "INVENTORS",
+      "CATS",
+      "SAUCES",
+      "SLANG"
+    ],
+    "clues": [
+      {
+        "category": "COUNTIES",
+        "value": 100,
+        "question": "Kauai,Maui,Honolulu",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE GRAMMYS",
+        "value": 100,
+        "question": "The making of this Michael Jackson video won Best Video album of 1984",
+        "answer": "\"Thriller\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "INVENTORS",
+        "value": 100,
+        "question": "In 1932 this wireless telegraphy inventor built one of the first microwave telephone systems",
+        "answer": "Marconi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CATS",
+        "value": 100,
+        "question": "One legend says this cat was late arriving on Noah's Ark & lost its tail as the door closed",
+        "answer": "the Manx cat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SAUCES",
+        "value": 100,
+        "question": "You need minced fillets of these tiny fish to make green goddess sauce",
+        "answer": "anchovies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 100,
+        "question": "If you're nervous, you can be said to have \"ants\" here",
+        "answer": "your pants",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUNTIES",
+        "value": 200,
+        "question": "Okaloosa,Osceola,Okeechobee",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE GRAMMYS",
+        "value": 200,
+        "question": "Although her \"Girls Just Want to Have Fun\" didn't win, she was named Best New Artist for 1984",
+        "answer": "Cyndi Lauper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "INVENTORS",
+        "value": 200,
+        "question": "In 1855 this manufacturer's reaper won the Grand Medal of Honor at the Paris Int'l Exposition",
+        "answer": "McCormick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CATS",
+        "value": 200,
+        "question": "The American Curl got its name because these body parts curl back",
+        "answer": "the ears",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SAUCES",
+        "value": 200,
+        "question": "Mousseline sauce is a light, airy sauce made by blending hollandaise with this kind of cream",
+        "answer": "whipped cream",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 200,
+        "question": "This device is called the boob tube or the idiot box—except when \"Jeopardy!\" is on, of course",
+        "answer": "television",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUNTIES",
+        "value": 300,
+        "question": "Wabaunsee,Pottawatomie,Leavenworth",
+        "answer": "Kansas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE GRAMMYS",
+        "value": 300,
+        "question": "This bandleader's 1931 release \"Mood Indigo\" was honored in 1975 with a Hall of Fame award",
+        "answer": "Ellington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "INVENTORS",
+        "value": 300,
+        "question": "In 1903, its first year of release, his invention sold 51 razors & 168 blades",
+        "answer": "(King Camp) Gillette",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CATS",
+        "value": 300,
+        "question": "The spotted ocicat is named for its resemblance to this wild cat",
+        "answer": "the ocelot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SAUCES",
+        "value": 300,
+        "question": "A sauce made from this fruity East Indian condiment is delicious on baked ham",
+        "answer": "chutney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 300,
+        "question": "Someone who flatters is a \"polisher\" of this fruit",
+        "answer": "an apple",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUNTIES",
+        "value": 400,
+        "question": "Allegheny,Delaware,Susquehanna",
+        "answer": "Pennsylvania",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE GRAMMYS",
+        "value": 400,
+        "question": "In 1990 this country star received his first Grammy nomination for his \"Friends in Low Places\" release",
+        "answer": "Garth Brooks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "INVENTORS",
+        "value": 400,
+        "question": "While working as a newsboy on the Grand Trunk Railway, he printed a newspaper, the Weekly Herald",
+        "answer": "Edison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CATS",
+        "value": 400,
+        "question": "Like this cat from which it was bred, the Balinese may be a seal, blue, chocolate or lilac point",
+        "answer": "Siamese",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SAUCES",
+        "value": 400,
+        "question": "Hot chilies & garlic go into rouille sauce, often served with this French fish stew",
+        "answer": "bouillabaisse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 400,
+        "question": "An iceman is a thief who steals these",
+        "answer": "diamonds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUNTIES",
+        "value": 500,
+        "question": "Frederick,Carroll,Calvert",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE GRAMMYS",
+        "value": 500,
+        "question": "With 30, this Chicago Symphony conductor has won more Grammys than anyone else",
+        "answer": "(Georg) Solti",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "INVENTORS",
+        "value": 1000,
+        "question": "In 1911 Ernest Rutherford & this German physicist developed a device to count alpha particles",
+        "answer": "Hans Geiger",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CATS",
+        "value": 500,
+        "question": "Though named for Ancient Ethiopia, it may have been the sacred cat of Ancient Egypt",
+        "answer": "the Abyssinian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SAUCES",
+        "value": 500,
+        "question": "Joy of Cooking's recipe for this Bloody Mary ingredient calls for 6 tablespoons of walnut catsup",
+        "answer": "Worcestershire sauce",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SLANG",
+        "value": 500,
+        "question": "Amount of money known as half a yard",
+        "answer": "$50",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE 1940s",
+      "GEOGRAPHY",
+      "FIRST NAMES",
+      "MYTHOLOGY",
+      "GOVERNMENT & POLITICS",
+      "BIOGRAPHIES"
+    ],
+    "clues": [
+      {
+        "category": "THE 1940s",
+        "value": 200,
+        "question": "In 1941 registration for this was extended in the U.S. to men 18-64",
+        "answer": "the draft",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 200,
+        "question": "James Bay in Canada is the shallowest part of this larger bay",
+        "answer": "Hudson Bay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FIRST NAMES",
+        "value": 200,
+        "question": "It's the English equivalent of the Spanish name Jorge",
+        "answer": "George",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "While Poseidon was the god of this, Pontus was the personification of it",
+        "answer": "the sea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 200,
+        "question": "In 1993 Dr. Joycelyn Elders replaced Antonia Novello in this post",
+        "answer": "Surgeon General",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 200,
+        "question": "\"Call Her Miss Ross\" is a tell-all biography of this singer",
+        "answer": "Diana Ross",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 400,
+        "question": "Last name of brothers Richard & Maurice, who operated a burger stand in California in the 1940s",
+        "answer": "McDonald",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 400,
+        "question": "Roughly 2/3 of the Italian peninsula is covered by these mountains",
+        "answer": "the Apennines",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FIRST NAMES",
+        "value": 400,
+        "question": "The Russian form of Natalie, it was Natalie Wood's original first name",
+        "answer": "Natasha",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "Hippolyta, queen of these warrior women, is also known as Antiope",
+        "answer": "the Amazons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 400,
+        "question": "This government \"service\" wasn't established until 1916, 44 years after Yellowstone",
+        "answer": "the National Park Service",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 400,
+        "question": "He's the subject of a 1955 biography subtitled \"Historian with a Camera\"",
+        "answer": "Mathew Brady",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 600,
+        "question": "As of 1949 phonograph records were available in these 3 standard speeds",
+        "answer": "33 1/3, 45 & 78",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 600,
+        "question": "The second smallest of South Africa's 4 provinces has this \"colorful\" name",
+        "answer": "Orange Free State",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FIRST NAMES",
+        "value": 600,
+        "question": "The heroine of \"The Little Foxes\" has this first name, Latin for \"queen\"",
+        "answer": "Regina",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 600,
+        "question": "Pleione was the mother of this group of seven sisters",
+        "answer": "the Pleiades",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 600,
+        "question": "It's the minimum number of electoral votes a state can have",
+        "answer": "Three",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 600,
+        "question": "This author of several unauthorized biographies is the subject of one herself: \"Poison Pen\"",
+        "answer": "Kitty Kelley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 800,
+        "question": "In 1945 FDR, Churchill & Stalin met in Yalta & Truman, Churchill & Stalin met here",
+        "answer": "Potsdam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 800,
+        "question": "Rouen, where Joan of Arc met her death, is located in this region of northern France",
+        "answer": "Normandy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FIRST NAMES",
+        "value": 800,
+        "question": "French for \"dainty\", it follows \"filet\" on menus",
+        "answer": "Mignon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1600,
+        "question": "Her encounter with Zeus in the form of a swan caused her to lay an egg",
+        "answer": "Leda",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 800,
+        "question": "In 1869, at a convention of nondrinkers, this political party was founded",
+        "answer": "the Prohibition Party",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 800,
+        "question": "In \"All His Jazz\", you can read all about this late choreographer",
+        "answer": "Bob Fosse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 1000,
+        "question": "Due to shortages in 1943, Tuesdays & Fridays were dubbed these kinds of days",
+        "answer": "meatless",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 1000,
+        "question": "These Danish islands are believed to be the remnants of a land bridge that connected Iceland & Scotland",
+        "answer": "The Faeroe Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FIRST NAMES",
+        "value": 1000,
+        "question": "This name that means \"loved\" was popularized by \"Little Women\"",
+        "answer": "Amy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1000,
+        "question": "Akin to Vulcan, this Greek god of fire's forge was believed to be on the Aegean island of Lemnos",
+        "answer": "Hephaestus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 2000,
+        "question": "In terms of the number of civilians employed, it's by far the largest cabinet department",
+        "answer": "the Department of Defense",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 1000,
+        "question": "\"Rebel Senator\" is a 1966 biography of this South Carolina politician",
+        "answer": "(Strom) Thurmond",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LANGUAGES",
+    "clue": "This island country's 2 official languages are Sinhalese & Tamil",
+    "answer": "Sri Lanka"
+  },
+  "gameId": "2270",
+  "gameDate": "Friday, June 17, 1994"
+}

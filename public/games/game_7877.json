@@ -1,0 +1,574 @@
+{
+  "title": "Show #1456 - Monday, December 24, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "COOKING \"P\"s",
+      "LANGUAGES",
+      "GOULASH",
+      "TREATIES",
+      "AUTO AD LINES",
+      "CHRISTMAS SONGS"
+    ],
+    "clues": [
+      {
+        "category": "COOKING \"P\"s",
+        "value": 100,
+        "question": "Suet pudding that contains currants & usually raisins, but never the fruit for which it's named",
+        "answer": "plum pudding",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 100,
+        "question": "Andean Equatorial is an Aborigine language family spoken on this continent",
+        "answer": "South America",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GOULASH",
+        "value": 100,
+        "question": "Archipelago off northern Scotland in which a famous pony & sheepdog originated",
+        "answer": "Shetland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TREATIES",
+        "value": 100,
+        "question": "In 1936, this country broke the Locarno Treaties by sending troops into the Rhineland",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AUTO AD LINES",
+        "value": 100,
+        "question": "\"Have you driven\" one of these \"lately\"?",
+        "answer": "a Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 100,
+        "question": "The Chipmunks sang \"Christmas, Christmas time is near, time for toys and time for\" this",
+        "answer": "cheer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COOKING \"P\"s",
+        "value": 200,
+        "question": "If you want to prepare these vegetables Duchess style, don't forget the egg yolks & butter",
+        "answer": "potatoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "Over 100 million people in this country speak languages of the Dravidian group",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GOULASH",
+        "value": 200,
+        "question": "When Ramsay & Travers discovered this gas in 1898, a red light went on over their heads",
+        "answer": "neon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TREATIES",
+        "value": 200,
+        "question": "In the 1814 Treaty of Kiel, Denmark gave Norway to this country",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AUTO AD LINES",
+        "value": 200,
+        "question": "\"We build excitement\"",
+        "answer": "Pontiac",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 200,
+        "question": "According to the song title, they're \"All I Want for Christmas\"",
+        "answer": "my two front teeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COOKING \"P\"s",
+        "value": 300,
+        "question": "Some people ferment this taro root dish for two or three days until it acquires a sour taste",
+        "answer": "poi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 600,
+        "question": "Most of the Indian dialects spoken in Guatemala originated from this language",
+        "answer": "Mayan",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GOULASH",
+        "value": 300,
+        "question": "During this century, the U.S. Constitution was amended just four times",
+        "answer": "the 19th century",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TREATIES",
+        "value": 300,
+        "question": "Of the Seven, 30 or 100 Years War, the one ended by the Peace of Westphalia",
+        "answer": "Thirty Years' War",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AUTO AD LINES",
+        "value": 300,
+        "question": "\"The heartbeat of America\"",
+        "answer": "Chevrolet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 300,
+        "question": "Line that follows \"Then how the reindeer loved him as they shouted out with glee\"",
+        "answer": "Rudolph the red-nosed reindeer, you'll go down in history",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COOKING \"P\"s",
+        "value": 400,
+        "question": "This dessert named for a ballerina has a meringue base & is usually topped with fruit",
+        "answer": "pavlova",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "It's the official language of Liberia, Sierra Leone & Papua New Guinea",
+        "answer": "English",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GOULASH",
+        "value": 400,
+        "question": "In the 1960s, a new group of minstrels used the name of this man who put together a group in 1842",
+        "answer": "Christie's Minstrels",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TREATIES",
+        "value": 400,
+        "question": "This treaty ended World War I & set up the League of Nations",
+        "answer": "Treaty of Versailles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AUTO AD LINES",
+        "value": 400,
+        "question": "\"Built for the human race\"",
+        "answer": "Nissan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 400,
+        "question": "Burl Ives urged us to have this type of Christmas; \"it's the best time of the year\"",
+        "answer": "\"A Holly Jolly Christmas\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COOKING \"P\"s",
+        "value": 500,
+        "question": "Some cooks add cheese to this cornmeal mush popular in Italy",
+        "answer": "polenta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 500,
+        "question": "The angular katakana characters of this written language are used for foreign words",
+        "answer": "Japanese",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GOULASH",
+        "value": 500,
+        "question": "First name shared by Count Basie & Captain Kidd",
+        "answer": "William",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TREATIES",
+        "value": 500,
+        "question": "Named for the palace where it was signed, this treaty established Vatican City as an independent state",
+        "answer": "the Lateran Treaty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AUTO AD LINES",
+        "value": 500,
+        "question": "\"The ultimate driving machine\"",
+        "answer": "BMW",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CHRISTMAS SONGS",
+        "value": 500,
+        "question": "The first line of this Christmas carol appears in \"Rockin' Around The Christmas Tree\"",
+        "answer": "\"Deck The Halls\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "NAME THE AUTHOR",
+      "MEDICAL TERMS",
+      "MARRIAGE",
+      "U.S. CITIES",
+      "BIBLICAL ZOO",
+      "DWIGHT EISENHOWER"
+    ],
+    "clues": [
+      {
+        "category": "NAME THE AUTHOR",
+        "value": 200,
+        "question": "\"Portnoy's Complaint\"",
+        "answer": "Philip Roth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL TERMS",
+        "value": 200,
+        "question": "Medically speaking, it's the opposite of malignant",
+        "answer": "benign",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MARRIAGE",
+        "value": 200,
+        "question": "In the wedding vow \"to love, honor & cherish\", it's the word \"cherish\" has replaced",
+        "answer": "obey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 200,
+        "question": "Britannica calls this Georgia capital the artistic center of the Southeast",
+        "answer": "Atlanta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BIBLICAL ZOO",
+        "value": 200,
+        "question": "Solomon compared a fair woman without discretion to a jewel of gold in this animal's snout",
+        "answer": "pig (or swine)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DWIGHT EISENHOWER",
+        "value": 200,
+        "question": "He switched this given first name with his middle name so he wouldn't be confused with his father",
+        "answer": "David",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NAME THE AUTHOR",
+        "value": 400,
+        "question": "\"The Beautiful and Damned\"",
+        "answer": "F. Scott Fitzgerald",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL TERMS",
+        "value": 400,
+        "question": "From the Latin for \"I shall please\", the doctor's dose for a hypochondriac",
+        "answer": "a placebo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MARRIAGE",
+        "value": 400,
+        "question": "In many states, living together a certain number of years constitutes this type of marriage",
+        "answer": "common-law",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 400,
+        "question": "This largest Delaware city was founded by the Swedes who called it Fort Christina",
+        "answer": "Wilmington",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BIBLICAL ZOO",
+        "value": 400,
+        "question": "It's easier for this to go through the eye of a needle than for a rich man to enter into the kingdom of God",
+        "answer": "a camel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DWIGHT EISENHOWER",
+        "value": 400,
+        "question": "Once Ike's protege, this man delivered the eulogy at his funeral",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NAME THE AUTHOR",
+        "value": 600,
+        "question": "\"Farewell, My Lovely\"",
+        "answer": "Raymond Chandler",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL TERMS",
+        "value": 600,
+        "question": "Not a slow flight, but the common name for circadian dysrhythmia",
+        "answer": "jet lag",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MARRIAGE",
+        "value": 600,
+        "question": "This sex symbol said \"Marriage is a great institution, but I'm not ready for an institution yet\"",
+        "answer": "Mae West",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 600,
+        "question": "Now a ghost town, in the 1870s this Nevada locale had a population of 30,000",
+        "answer": "Virginia City",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BIBLICAL ZOO",
+        "value": 600,
+        "question": "Proverbs calls it the \"strongest among beasts, and turneth not away for any\"",
+        "answer": "a lion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DWIGHT EISENHOWER",
+        "value": 600,
+        "question": "Ike's defense secretary is famous for saying \"What's good for\" this company \"is good for America\"",
+        "answer": "General Motors",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NAME THE AUTHOR",
+        "value": 800,
+        "question": "\"The Moon Is Down\"",
+        "answer": "John Steinbeck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL TERMS",
+        "value": 800,
+        "question": "More men than women suffer from Daltonism, commonly called this",
+        "answer": "colorblindness",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MARRIAGE",
+        "value": 800,
+        "question": "This actor not only married Zsa Zsa Gabor, he married her sister Magda, too",
+        "answer": "George Sanders",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 1600,
+        "question": "Texas city southeast of Dallas named for the 10th president of the United States",
+        "answer": "Tyler",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BIBLICAL ZOO",
+        "value": 1600,
+        "question": "Noah sent this bird from the ark first, but it did not return",
+        "answer": "raven",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DWIGHT EISENHOWER",
+        "value": 800,
+        "question": "In 1955, this event caused the sharpest drop in the stock market since the Great Crash",
+        "answer": "Eisenhower's heart attack",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NAME THE AUTHOR",
+        "value": 1000,
+        "question": "\"Cakes and Ale\"",
+        "answer": "Somerset Maugham",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL TERMS",
+        "value": 1000,
+        "question": "It's also called \"the royal disease\" since European royal families were afflicted with it",
+        "answer": "hemophilia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MARRIAGE",
+        "value": 1000,
+        "question": "Formerly, young English couples who wanted a quick marriage would elope to this Scottish village",
+        "answer": "Gretna Green",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 1000,
+        "question": "Alabama city on the Black Warrior River named for a Choctaw chief whose name meant \"black warrior\"",
+        "answer": "Tuscaloosa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BIBLICAL ZOO",
+        "value": 1000,
+        "question": "Samson caught 300 of them, tied torches to their tails & used them to burn the fields of the Philistines",
+        "answer": "foxes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DWIGHT EISENHOWER",
+        "value": 1000,
+        "question": "Though he was born in Denison, Texas, this Kansas town is home to his library",
+        "answer": "Abilene",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "The DuPont Company, which was founded in 1802, initially made only this product",
+    "answer": "gunpowder"
+  },
+  "gameId": "1456",
+  "gameDate": "Monday, December 24, 1990"
+}

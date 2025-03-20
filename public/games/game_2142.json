@@ -1,0 +1,574 @@
+{
+  "title": "Show #5317 - Tuesday, October 23, 2007",
+  "jeopardyRound": {
+    "categories": [
+      "NAME THAT CENTURY",
+      "ANIMATED MOVIES",
+      "THE CABINET",
+      "ALSO AN AIRLINE",
+      "THE OCCIDENTAL TOURIST",
+      "\"V\" ME"
+    ],
+    "clues": [
+      {
+        "category": "NAME THAT CENTURY",
+        "value": 200,
+        "question": "Ben Franklin flew a kite & invented the lightning rod",
+        "answer": "the 18th century",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 200,
+        "question": "Lightning McQueen crashes into Radiator Springs in this \"racy\" 2006 flick",
+        "answer": "Cars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 200,
+        "question": "The FBI is part of this cabinet department",
+        "answer": "the Justice Department",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ALSO AN AIRLINE",
+        "value": 200,
+        "question": "Washington, Oregon & Idaho, collectively",
+        "answer": "Northwest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE OCCIDENTAL TOURIST",
+        "value": 200,
+        "question": "Check out the 750-foot-tall Tower of the Americas in this \"Alamo City\" (you should probably see that, too)",
+        "answer": "San Antonio",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ME",
+        "value": 200,
+        "question": "For the absolut best cosmopolitan, use the Absolute Citron type of this liquor",
+        "answer": "vodka",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT CENTURY",
+        "value": 400,
+        "question": "The Impressionists exhibited their paintings for the first time",
+        "answer": "the 19th century",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 400,
+        "question": "Elijah Wood provided the voice for Mumble, a tap-dancing penguin, in this 2006 film",
+        "answer": "Happy Feet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 400,
+        "question": "Formerly part of the Treasury Dept., it's the bureau responsible for \"booze, chews & uz-ies\"",
+        "answer": "the ATF (Alcohol, Tobacco, & Firearms)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ALSO AN AIRLINE",
+        "value": 400,
+        "question": "Space is said to be the final one",
+        "answer": "Frontier",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE OCCIDENTAL TOURIST",
+        "value": 400,
+        "question": "Lots of history to see in this tiny country that's been independent from Italy since 1929",
+        "answer": "Vatican City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ME",
+        "value": 400,
+        "question": "This large family of snakes is identified by hollow fangs",
+        "answer": "vipers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT CENTURY",
+        "value": 600,
+        "question": "London experienced its deadly \"Great Fire\"",
+        "answer": "the 17th century",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 600,
+        "question": "Tom Hanks voiced 4 characters in this Christmas film that used motion-capture technology",
+        "answer": "The Polar Express",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 600,
+        "question": "The \"haunted\" presidential room formerly used for cabinet meetings in the White House is now known as this",
+        "answer": "the Lincoln Bedroom",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ALSO AN AIRLINE",
+        "value": 600,
+        "question": "The line that forms the apparent boundary between Earth & sky",
+        "answer": "Horizon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE OCCIDENTAL TOURIST",
+        "value": 600,
+        "question": "The Cass County historical society is in a suburb of this North Dakota city, you betcha; some super ladies live there",
+        "answer": "Fargo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ME",
+        "value": 600,
+        "question": "In Catholicism, this type of minor sin doesn't deprive you of divine grace",
+        "answer": "venial",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT CENTURY",
+        "value": 800,
+        "question": "Ferdinand & Isabella of Spain got married & united their kingdoms",
+        "answer": "the 15th century",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 800,
+        "question": "In a 2001 film, aliens kidnap Earth's adults & this title boy genius leads the rescue effort",
+        "answer": "Jimmy Neutron",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 800,
+        "question": "The last man to serve as Secretary of this as part of the cabinet was James V. Forrestal in 1947",
+        "answer": "the Navy",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ALSO AN AIRLINE",
+        "value": 800,
+        "question": "An alluvial plain of a river",
+        "answer": "Delta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE OCCIDENTAL TOURIST",
+        "value": 800,
+        "question": "While hobnobbing at this city's film festival, take time out for a hike up its Mont Chevalier",
+        "answer": "Cannes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ME",
+        "value": 800,
+        "question": "Named after \"nothing\", the first practical one of these appliances was invented in 1907",
+        "answer": "a vacuum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT CENTURY",
+        "value": 1000,
+        "question": "Rodent-borne plague killed off 1/3 of Europe's population",
+        "answer": "the 14th century",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 1000,
+        "question": "Elastigirl is living in the suburbs as Helen Parr in this action comedy",
+        "answer": "The Incredibles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 1000,
+        "question": "So far, the list of Secretaries of this includes a Heckler, a Schweiker & a Shalala",
+        "answer": "Health & Human Services",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ALSO AN AIRLINE",
+        "value": 1000,
+        "question": "In harmony, as an effort",
+        "answer": "United",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE OCCIDENTAL TOURIST",
+        "value": 1000,
+        "question": "Tour this city, birthplace of Spanish artist Barolome Murillo, & look for a good barber",
+        "answer": "Seville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ME",
+        "value": 1000,
+        "question": "This adjective for a scathing comment or review literally refers to sulfuric acid",
+        "answer": "vitriolic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "U.S. MUSEUMS",
+      "BROADWAY DEBUTS",
+      "AUTHORS ON AUTHORS",
+      "LADIES' DAY",
+      "DID YOU PLANET THAT WAY?",
+      "IN THE MIDDLE OF THE COUNTRY"
+    ],
+    "clues": [
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 400,
+        "question": "You can get customized gris-gris bags at the Historic Voodoo Museum on Dumaine Street in this city",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 400,
+        "question": "He made his debut as Katharine Hepburn's grandson in \"A Matter of Gravity\" before flying high as Superman",
+        "answer": "Christopher Reeve",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS ON AUTHORS",
+        "value": 400,
+        "question": "His \"A Moveable Feast\" calls Fitzgerald's talent as natural as the pattern of the dust on a butterfly's wings",
+        "answer": "Hemingway",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LADIES' DAY",
+        "value": 400,
+        "question": "The recording artist now billed simply as this said, \"People have so much emotion... toward the word Yoko\"",
+        "answer": "Ono",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DID YOU PLANET THAT WAY?",
+        "value": 400,
+        "question": "This planet averages about 67 million miles from the sun; Earth's in the 90 millions",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IN THE MIDDLE OF THE COUNTRY",
+        "value": 400,
+        "question": "Get out your dancing shoes and cut a \"rug\" in this South American country",
+        "answer": "Uruguay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 800,
+        "question": "(Sarah of the Clue Crew maps out the narrow hallway of a museum.)  As this society has a long history of publishing maps & sponsoring exploration, it makes sense that maps were the theme of a major 2007 exhibit at its museum, Explorer's Hall",
+        "answer": "National Geographic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 800,
+        "question": "(Hi, I'm Joely Fisher.)  In 1995 I made my Broadway debut as Rizzo in this musical; it's the word",
+        "answer": "Grease",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS ON AUTHORS",
+        "value": 800,
+        "question": "Edgar Lee Masters wrote that this \"genius from Missouri\" had \"affection for his fellows, yet... despised them\"",
+        "answer": "Mark Twain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LADIES' DAY",
+        "value": 800,
+        "question": "She's the world-famous dame seen here",
+        "answer": "Jane Goodall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DID YOU PLANET THAT WAY?",
+        "value": 800,
+        "question": "Its moon Ganymede is the largest in the solar system",
+        "answer": "Jupiter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IN THE MIDDLE OF THE COUNTRY",
+        "value": 800,
+        "question": "You've \"aced\" the category if you know that Albania lies on the Western border of this country",
+        "answer": "Macedonia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 1200,
+        "question": "You can ham it up at a museum in this Virginia Town; it houses a ham cured in 1902",
+        "answer": "Smithfield",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 1200,
+        "question": "In 2006, in her first big project since giving birth to twins, she starred on Broadway in \"Three Days of Rain\"",
+        "answer": "Julia Roberts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS ON AUTHORS",
+        "value": 1200,
+        "question": "T.S. Eliot wrote that this \"Tess of the d'Urbervilles\" author was \"unhampered by any ideas\"",
+        "answer": "(Thomas) Hardy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LADIES' DAY",
+        "value": 1200,
+        "question": "Radiation researcher Edith Quimby worked on this \"project\" that developed the atomic bomb",
+        "answer": "the Manhattan Project",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DID YOU PLANET THAT WAY?",
+        "value": 1200,
+        "question": "The least dense planet in the solar system, it would actually float if you could find a big enough tub to put it in",
+        "answer": "Saturn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IN THE MIDDLE OF THE COUNTRY",
+        "value": 1200,
+        "question": "You'll need a lot of \"gas\" to drive from Androka to Ambilobe in this African island country",
+        "answer": "Madagascar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 1600,
+        "question": "An arm of the Simon Wiesenthal Center, this L.A. museum teaches about bigotry & racism as well as the Holocaust",
+        "answer": "the Museum of Tolerance",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 1600,
+        "question": "(I'm Susan Lucci.)  In 1999 I took aim at Broadway, I made my debut as the title sharpshooter in this musical",
+        "answer": "Annie Get Your Gun",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS ON AUTHORS",
+        "value": 1600,
+        "question": "Reviewing \"An Ideal Husband\", G.B. Shaw said this fellow Irishman \"has the property of making his critics dull\"",
+        "answer": "Oscar Wilde",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LADIES' DAY",
+        "value": 1600,
+        "question": "Smashing Prince of Wales China with a hammer is one scene in \"The Diana Chronicles\" by this magazine editor",
+        "answer": "Tina Brown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DID YOU PLANET THAT WAY?",
+        "value": 1600,
+        "question": "In 2005 NASA experimented with a low-pressure greenhouse to grow plants on this carbon dioxide-rich planet",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IN THE MIDDLE OF THE COUNTRY",
+        "value": 1600,
+        "question": "I'll bet you a \"ten\" that this tiny country last fought in a war in 1866",
+        "answer": "Liechtenstein",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 2000,
+        "question": "The U.S. Space & Rocket Center in this Alabama city contains a vast collection of rockets & space memorabilia",
+        "answer": "Huntsville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 2000,
+        "question": "He made his debut starring opposite Natasha Richardson in \"Anna Christie\"; they were married soon after",
+        "answer": "Liam Neeson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS ON AUTHORS",
+        "value": 2000,
+        "question": "Byron on this poet: \"Strange, the mind, that very fiery particle / Should let itself be snuff'd out by an article\"",
+        "answer": "Keats",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LADIES' DAY",
+        "value": 2000,
+        "question": "Rina Messenger, Miss Universe of 1976, saw service in this country's army",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DID YOU PLANET THAT WAY?",
+        "value": 2000,
+        "question": "In 1781 it became the first planet discovered in modern times",
+        "answer": "Uranus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IN THE MIDDLE OF THE COUNTRY",
+        "value": 2000,
+        "question": "This country might \"tug\" at your heartstrings with its sad fado songs",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GEOMETRY",
+    "clue": "It's an ellipse with an eccentricity of zero",
+    "answer": "a circle"
+  },
+  "gameId": "5317",
+  "gameDate": "Tuesday, October 23, 2007"
+}

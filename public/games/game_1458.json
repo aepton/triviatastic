@@ -1,0 +1,574 @@
+{
+  "title": "Show #4103 - Wednesday, June 5, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE GUYS",
+      "HUMPTY DUMPTY",
+      "2-LETTER WORDS",
+      "CELEBRITY WEDDINGS",
+      "FLY ME",
+      "\"B\" THERE"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE GUYS",
+        "value": 200,
+        "question": "He's the \"Science Guy\" seen here",
+        "answer": "Bill Nye",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HUMPTY DUMPTY",
+        "value": 200,
+        "question": "Humpty Dumpty's perch",
+        "answer": "a wall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 200,
+        "question": "\"Ut\" used to be used for the first or keynote of the musical scale; this has replaced it",
+        "answer": "Do",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY WEDDINGS",
+        "value": 200,
+        "question": "This diva looked far from \"Puffy\" when she danced off with choreographer Cris Judd in 2001",
+        "answer": "Jennifer Lopez",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FLY ME",
+        "value": 200,
+        "question": "This automaker had tri-motor monoplanes going down his assembly line",
+        "answer": "Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"B\" THERE",
+        "value": 200,
+        "question": "Ocean City, Maryland is a favorite summer destination for the 650,000 people of this city",
+        "answer": "Baltimore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE GUYS",
+        "value": 400,
+        "question": "In 1888 this French bacteriologist founded an institute in Paris to continue his rabies research",
+        "answer": "Pasteur",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HUMPTY DUMPTY",
+        "value": 400,
+        "question": "After Humpty's fall, they tried to put him together again",
+        "answer": "all the king's horses & all the king's men",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 400,
+        "question": "In TV show titles this name has stood alone & followed \"Mister\"",
+        "answer": "Ed",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY WEDDINGS",
+        "value": 400,
+        "question": "This sitcom star had the \"Will & Grace\" to marry Daniel Zelman",
+        "answer": "Debra Messing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FLY ME",
+        "value": 400,
+        "question": "C.G. Taylor's partner, any good \"cub\" reporter knows him",
+        "answer": "Piper",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"B\" THERE",
+        "value": 400,
+        "question": "The Canadian Football League's Lions play in Vancouver but represent this entire province",
+        "answer": "British Columbia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE GUYS",
+        "value": 600,
+        "question": "He formulated universal laws of gravitation & motion & was the first scientist buried at Westminster Abbey",
+        "answer": "Newton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HUMPTY DUMPTY",
+        "value": 600,
+        "question": "\"Cornflake Girl\" who wrote a song in which \"Humpty Dumpty and Betty Louise... stole a Sony and some Camembert cheese\"",
+        "answer": "Tori Amos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 600,
+        "question": "(Jimmy of the Clue Crew plays a board game with Sarah.)  I'm trouncing Sarah in this classic Japanese game",
+        "answer": "Go",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY WEDDINGS",
+        "value": 600,
+        "question": "In Nov. 2001 it was one wedding & no funeral for this actress who wed her former high school pal Rhett Hartzog",
+        "answer": "(Andie) MacDowell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FLY ME",
+        "value": 600,
+        "question": "Actress Olivia knows this co.'s D.H.88 Comet, a monoplane racer, made its debut in 1934 & only 5 were ever made",
+        "answer": "de Havilland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"B\" THERE",
+        "value": 600,
+        "question": "It's the country immediately due south of Guyana",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE GUYS",
+        "value": 800,
+        "question": "Astronomer William Herschel wanted to call the seventh planet Georgium Sidus, or Georges Star",
+        "answer": "Uranus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HUMPTY DUMPTY",
+        "value": 800,
+        "question": "This comedian played Humpty Dumpty in the 1933 Paramount film \"Alice in Wonderland\"",
+        "answer": "W.C. Fields",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 800,
+        "question": "The Random House Dictionary gives one definition of it as \"at bat\"",
+        "answer": "up",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY WEDDINGS",
+        "value": 800,
+        "question": "Brooke Shields was the maid of honor when this \"Suddenly Susan\" co-star seen here got married in 2001",
+        "answer": "(Kathy) Griffin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FLY ME",
+        "value": 800,
+        "question": "This Donald was known for his DC, not Duck, line of commercial planes",
+        "answer": "Douglas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"B\" THERE",
+        "value": 800,
+        "question": "On Oct. 12, 1492 Columbus reached these islands; he marveled at the colorful fish",
+        "answer": "the Bahamas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE GUYS",
+        "value": 1000,
+        "question": "This Italian-born physicist first split the atom in 1934, although he didn't know it for 4 more years",
+        "answer": "(Enrico) Fermi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HUMPTY DUMPTY",
+        "value": 1000,
+        "question": "Alice had some of the unusual words in this Lewis Carroll poem explained to her by Humpty",
+        "answer": "\"Jabberwocky\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 1000,
+        "question": "Creature of the bovine ilk that the Chinese use to symbolize a year",
+        "answer": "an ox",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY WEDDINGS",
+        "value": 1000,
+        "question": "In 2000 this director tied the knot with Suzy Amis, who played Gloria Stuart's granddaughter in his film \"Titanic\"",
+        "answer": "(James) Cameron",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FLY ME",
+        "value": 1000,
+        "question": "His name rings true as the man whose company built copters & the X-1, the first aircraft to break the sound barrier",
+        "answer": "(Lawrence) Bell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"B\" THERE",
+        "value": 1000,
+        "question": "As its name suggests, this section of the Alps was once controlled by the capital of Switzerland",
+        "answer": "the Bernese Alps",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC AMERICANS",
+      "SOUPS OF THE WORLD",
+      "STEPHEN KING",
+      "THERE OUGHTA BE A LAW",
+      "MUSIC MAKERS",
+      "MNEMONICS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 400,
+        "question": "He built his revolver business using money from his traveling laughing-gas demonstration",
+        "answer": "Colt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SOUPS OF THE WORLD",
+        "value": 400,
+        "question": "Egg drop",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STEPHEN KING",
+        "value": 400,
+        "question": "The title character in this 1981 classic is a rabid Saint Bernard",
+        "answer": "Cujo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THERE OUGHTA BE A LAW",
+        "value": 400,
+        "question": "Consumers use chapter 7 or 13 of this code, a federal statute; businesses restructure under chapter 11",
+        "answer": "bankruptcy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MUSIC MAKERS",
+        "value": 400,
+        "question": "This Grateful Dead leader was named after \"Show Boat\" composer Jerome Kern",
+        "answer": "Jerry Garcia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MNEMONICS",
+        "value": 400,
+        "question": "It's the familiar rule, in rhyme, useful in spelling \"chief\" & \"receive\"",
+        "answer": "\"I\" before \"E,\" except after \"C\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 800,
+        "question": "The son & same-named great-grandson of this man, \"the Falstaff of Congress\", were both U.S. presidents",
+        "answer": "Benjamin Harrison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SOUPS OF THE WORLD",
+        "value": 800,
+        "question": "Menudo",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STEPHEN KING",
+        "value": 800,
+        "question": "In a 2002 TV miniseries horrifying secrets are revealed in a haunted mansion known by this colorful name",
+        "answer": "Rose Red",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THERE OUGHTA BE A LAW",
+        "value": 800,
+        "question": "(Judge Hatchett delivers the clue.)  Your neighbor's bad cooking odors may not be classified as one of these, but his annoying wind chimes may",
+        "answer": "a nuisance",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MUSIC MAKERS",
+        "value": 800,
+        "question": "The writer of \"Once In Love With\" her was married twice (one of them had to be the evil of 2 Loessers)",
+        "answer": "Amy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MNEMONICS",
+        "value": 800,
+        "question": "The Passover haggadah has a mnemonic to remember these, which the Egyptians would rather forget",
+        "answer": "the ten plagues",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 1200,
+        "question": "Nehemiah Ordway, governor of this territory, wanted it to become one big state, not a north & a south one",
+        "answer": "Dakota",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SOUPS OF THE WORLD",
+        "value": 1200,
+        "question": "Ribollita",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STEPHEN KING",
+        "value": 1200,
+        "question": "Anthony Hopkins is a mysterious boarder who befriends a young boy in this 2001 film adapted from a King book",
+        "answer": "Hearts in Atlantis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THERE OUGHTA BE A LAW",
+        "value": 1200,
+        "question": "This order allows a worker's wages to be withheld & paid to a third party to whom a debt is owed, as for child support",
+        "answer": "garnishing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MUSIC MAKERS",
+        "value": 1200,
+        "question": "A song by Joe Henry, heard here, became a hit recording by this sister-in-law of his\"Don't tell me to stop /Tell the rain not to drop /Tell the wind not to blow...\"",
+        "answer": "Madonna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MNEMONICS",
+        "value": 1200,
+        "question": "Completes the mnemonic used when working with screws or valves, \"Righty tighty...\"",
+        "answer": "lefty loosey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 1600,
+        "question": "Samuel Gompers, a main founder of this \"American\" workers' group, was born in England",
+        "answer": "the American Federation of Labor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SOUPS OF THE WORLD",
+        "value": 1600,
+        "question": "Gazpacho",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STEPHEN KING",
+        "value": 1600,
+        "question": "\"Coffey's Hands\" was the third installment of this novel that was published in serial form in 1996",
+        "answer": "The Green Mile",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THERE OUGHTA BE A LAW",
+        "value": 1600,
+        "question": "Mother of mercy!  Is this 1970 federal law the end of us wiseguys?",
+        "answer": "the RICO",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MUSIC MAKERS",
+        "value": 1600,
+        "question": "He wrote \"My Life\", \"Big Shot\" & the piano works on the recent album \"Op. 1-10 Fantasies & Delusions\"",
+        "answer": "Billy Joel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MNEMONICS",
+        "value": 1600,
+        "question": "In biology's \"King Philip came over from Germany Saturday\", K & P are kingdom & phylum; G & S are these",
+        "answer": "genus & species",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC AMERICANS",
+        "value": 2000,
+        "question": "(Sofia of the Clue Crew reports from the Minuteman National Historic Park.)  One of the two men who accompanied Paul Revere on his historic ride to warn Concord on the eve of the battle",
+        "answer": "(1 of) William Dawes & Samuel Prescott",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SOUPS OF THE WORLD",
+        "value": 2000,
+        "question": "Ozoni",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STEPHEN KING",
+        "value": 2000,
+        "question": "\"Needful Things\" was King's last story set in this fictional town, also the name of an entertainment company",
+        "answer": "Castle Rock, Maine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THERE OUGHTA BE A LAW",
+        "value": 2000,
+        "question": "(Hi.  I'm Catherine Crier.)  In law, this French phrase means an unexpected event that may excuse a party from a contract",
+        "answer": "a force majeure",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MUSIC MAKERS",
+        "value": 2000,
+        "question": "CS&N's hit \"Suite: Judy Blue Eyes\" was written by Stephen Stills for this singer, his girlfriend",
+        "answer": "Judy Collins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MNEMONICS",
+        "value": 2000,
+        "question": "The fates of this group go \"Divorced, beheaded, died, divorced, beheaded, survived\"",
+        "answer": "the wives of Henry VIII",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EUROPE",
+    "clue": "Among countries entirely within Europe, this nation has the highest percentage of Muslims",
+    "answer": "Albania"
+  },
+  "gameId": "4103",
+  "gameDate": "Wednesday, June 5, 2002"
+}

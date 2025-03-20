@@ -1,0 +1,574 @@
+{
+  "title": "Show #3637 - Tuesday, May 30, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "FAMOUS PAINTINGS",
+      "CLASSIC TV SHOWS BY CHARACTERS",
+      "THE ANIMAL KINGDOM",
+      "TRANSPORTATION",
+      "5-LETTER WORDS",
+      "TELL IT TO THE MARINES"
+    ],
+    "clues": [
+      {
+        "category": "FAMOUS PAINTINGS",
+        "value": 100,
+        "question": "In Grant Wood's \"American Gothic\", a farmer is holding this implement in his right hand",
+        "answer": "Pitchfork",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC TV SHOWS BY CHARACTERS",
+        "value": 100,
+        "question": "Buddy Sorrell,Sally Rogers,Rob Petrie",
+        "answer": "The Dick Van Dyke Show",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE ANIMAL KINGDOM",
+        "value": 100,
+        "question": "The USA's largest rodent, it has a flat tail that acts as a rudder in water",
+        "answer": "Beaver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 100,
+        "question": "On May 10, 1869 it became the first continent to have a rail line running from its east coast to its west coast",
+        "answer": "North America",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 100,
+        "question": "Something known to be feasible is this \"and true\"",
+        "answer": "Tried",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TELL IT TO THE MARINES",
+        "value": 100,
+        "question": "The Marine Corps motto, it means \"Always Faithful\"",
+        "answer": "Semper Fidelis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS PAINTINGS",
+        "value": 200,
+        "question": "Portraitist Gilbert Stuart produced over 1,100 paintings, 104 of which were likenesses of this man",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC TV SHOWS BY CHARACTERS",
+        "value": 200,
+        "question": "Don Hollinger,Lou Marie,Ann Marie",
+        "answer": "That Girl",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE ANIMAL KINGDOM",
+        "value": 200,
+        "question": "The black panther is actually this cat with a black coat through which traces of spots can still be seen",
+        "answer": "Leopard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "In the early 1990s the Ford Taurus overtook this model of Honda as No. 1 in U.S. auto sales",
+        "answer": "Accord",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 200,
+        "question": "Mount a picture, or contrive evidence to make an innocent person look guilty",
+        "answer": "Frame",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TELL IT TO THE MARINES",
+        "value": 200,
+        "question": "Ground troops are based at Camp Lejeune, North Carolina & this camp near San Diego",
+        "answer": "Camp Pendleton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS PAINTINGS",
+        "value": 300,
+        "question": "In the early 19th century, this Spaniard created a sensation with his \"Majas\" paintings, one clothed & one nude",
+        "answer": "Francisco Goya",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC TV SHOWS BY CHARACTERS",
+        "value": 300,
+        "question": "Jonas Grumby,Roy Hinkley,Mary Ann Summers",
+        "answer": "Gilligan's Island",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE ANIMAL KINGDOM",
+        "value": 300,
+        "question": "The Indian species of this large land mammal has only 1 horn; other species have 2",
+        "answer": "Rhinoceros",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 300,
+        "question": "This wheeled war vehicle was introduced to the Egyptians around 1600 B.C. by an invading people called the Hyksos",
+        "answer": "a chariot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 300,
+        "question": "This synonym for fast can also refer to all the ships in a navy",
+        "answer": "Fleet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TELL IT TO THE MARINES",
+        "value": 600,
+        "question": "In the Mexican War the Marines raised the flag over the National Palace, known by this phrase in their hymn",
+        "answer": "\"From The Halls of Montezuma\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS PAINTINGS",
+        "value": 400,
+        "question": "His 17th century work seen here is known as \"The Jewish Bride\":",
+        "answer": "Rembrandt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC TV SHOWS BY CHARACTERS",
+        "value": 400,
+        "question": "Murray Slaughter,Sue Ann Nivens,Ted Baxter",
+        "answer": "The Mary Tyler Moore Show",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE ANIMAL KINGDOM",
+        "value": 400,
+        "question": "The 2 species of alligator are the American & the Chinese, which inhabits the basin of this longest Asian river",
+        "answer": "Yangtze River",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "The SR.N4 MK III, one of the largest of these, crosses the English Channel on a cushion of air",
+        "answer": "a hovercraft",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 400,
+        "question": "Skip school, or the furrow on the side of the road",
+        "answer": "Ditch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TELL IT TO THE MARINES",
+        "value": 400,
+        "question": "During the Spanish-American War, the Marines were the first Americans to land in Cuba, seizing this bay",
+        "answer": "Guantanamo Bay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS PAINTINGS",
+        "value": 500,
+        "question": "This French fauvist's \"Joie De Vivre\" features naked women frolicking & lounging in a field",
+        "answer": "Henri Matisse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC TV SHOWS BY CHARACTERS",
+        "value": 500,
+        "question": "Princess,Bud & Kitten Anderson",
+        "answer": "Father Knows Best",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE ANIMAL KINGDOM",
+        "value": 500,
+        "question": "This deer's name is from a Canadian Indian word for \"snow shoveler\" because it paws for food in the snow",
+        "answer": "Caribou",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 500,
+        "question": "In 1993 this former Denver mayor became the first Hispanic-American Secretary of Transportation",
+        "answer": "Federico Pena",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 500,
+        "question": "A superlative form of little, it's an antonym of utmost",
+        "answer": "Least",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TELL IT TO THE MARINES",
+        "value": 500,
+        "question": "The conquest of this Pacific island in February & March 1945 was the largest all-Marine battle in U.S. history",
+        "answer": "Iwo Jima",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "\"HOTEL\"s",
+      "THE PLAZA",
+      "THE FOUR SEASONS",
+      "HOLIDAY IN...?",
+      "THE WRITS",
+      "MERRY YACHTS"
+    ],
+    "clues": [
+      {
+        "category": "\"HOTEL\"s",
+        "value": 200,
+        "question": "A suicide note that called life \"A lonely street\" helped inspire the lyrics to this No. 1 song from 1956",
+        "answer": "\"Heartbreak Hotel\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE PLAZA",
+        "value": 200,
+        "question": "When hanging around urban plazas, the rock dove is usually called this",
+        "answer": "a pigeon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE FOUR SEASONS",
+        "value": 200,
+        "question": "\"The Four Seasons\" consists of 4 concertos for this instrument & orchestra",
+        "answer": "Violin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAY IN...?",
+        "value": 200,
+        "question": "We hope you don't contract a virus on your scenic boating holiday in this country's Ebola River region",
+        "answer": "the Congo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE WRITS",
+        "value": 200,
+        "question": "A subpoena is a writ to call you to testify; this writ calls you to defend yourself in a lawsuit",
+        "answer": "a summons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MERRY YACHTS",
+        "value": 200,
+        "question": "He added a sleeping basket to the presidential yacht, the U.S.S. Potomac, for his dog Fala",
+        "answer": "Franklin D. Roosevelt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"HOTEL\"s",
+        "value": 400,
+        "question": "Rob Lowe & Jodie Foster starred in this 1984 movie based on a John Irving novel",
+        "answer": "The Hotel New Hampshire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE PLAZA",
+        "value": 400,
+        "question": "This capital city's Zocalo or Plaza de la Constitucion is on the former area of the main Aztec temple",
+        "answer": "Mexico City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE FOUR SEASONS",
+        "value": 400,
+        "question": "The concerto for this season depicts peasants celebrating the harvest",
+        "answer": "Fall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAY IN...?",
+        "value": 400,
+        "question": "An active holiday in this European nation might begin with becoming radioactive in its Kiev Reservoir region",
+        "answer": "Ukraine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE WRITS",
+        "value": 400,
+        "question": "(Hi, I'm Greg Gerrmann and I play Richard Fish on Ally McBeal.)  This name for a variety of legal writs comes from the Latin for \"you have the body\"",
+        "answer": "habeas corpus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MERRY YACHTS",
+        "value": 400,
+        "question": "This multimillionaire used to sail with dad Malcolm on the family yacht, The Highlander",
+        "answer": "Steve Forbes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"HOTEL\"s",
+        "value": 600,
+        "question": "\"Life In The Fast Lane\" & \"New Kid In Town\" are songs from this album",
+        "answer": "Hotel California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE PLAZA",
+        "value": 600,
+        "question": "The American People's Encyclopedia Yearbook called this type of place \"A 1960 neoglism\":",
+        "answer": "a toll plaza",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE FOUR SEASONS",
+        "value": 600,
+        "question": "This man who composed the work was very popular in his time & a major influence on Bach",
+        "answer": "Antonio Vivaldi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAY IN...?",
+        "value": 600,
+        "question": "Holiday in this Asian capital to visit a former U.S. embassy & the killing fields of Choeung Ek",
+        "answer": "Phnom Penh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE WRITS",
+        "value": 600,
+        "question": "When a writ of dower is issued, it normally follows a death & assigns property to this person",
+        "answer": "a widow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MERRY YACHTS",
+        "value": 1200,
+        "question": "Part of a 1997 opera named for this American woman is set on the yacht Christina",
+        "answer": "Jacqueline Kennedy Onassis",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"HOTEL\"s",
+        "value": 800,
+        "question": "Greta Garbo & John Barrymore are 2 of the guests in this 1932 movie blockbuster",
+        "answer": "Grand Hotel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE PLAZA",
+        "value": 1600,
+        "question": "Manhattan's Grand Army Plaza has a statue of this general, something probably not too common in Atlanta",
+        "answer": "William T. Sherman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE FOUR SEASONS",
+        "value": 800,
+        "question": "The excerpt heard here depicts this dental event caused by winter cold:",
+        "answer": "Teeth chattering",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAY IN...?",
+        "value": 800,
+        "question": "The Cite Soleil shantytown is not to be missed on a holiday in this Caribbean nation of 7 million",
+        "answer": "Haiti",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE WRITS",
+        "value": 800,
+        "question": "Land can be transferred with a writ of this, which we guess is 9/10 of a writ of law",
+        "answer": "possession",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MERRY YACHTS",
+        "value": 800,
+        "question": "In June 1999 Michael Douglas & this Welsh beauty were spotted, as a London paper put it, canoodling on his yacht",
+        "answer": "Catherine Zeta-Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"HOTEL\"s",
+        "value": 1000,
+        "question": "In a 1974 song, Leonard Cohen remembered you well in this hotel",
+        "answer": "Chelsea Hotel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE PLAZA",
+        "value": 1000,
+        "question": "In Barcelona, you can call it the Plaza del Rei, or you can translate it to this person's \"Square\"",
+        "answer": "King's Square",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE FOUR SEASONS",
+        "value": 1000,
+        "question": "\"The Four Seasons\" is part of a work titled \"Il Cimento Dell'armonia...\", \"The Test of\" this",
+        "answer": "Harmony",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAY IN...?",
+        "value": 1000,
+        "question": "On holiday in this disputed territory where you'll find K2, you might be served Indian food one day & Pakistani the next",
+        "answer": "Kashmir",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE WRITS",
+        "value": 1000,
+        "question": "The name of this writ ordering a specific action is Latin for \"we command\"",
+        "answer": "mandamus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MERRY YACHTS",
+        "value": 1000,
+        "question": "In 1988 Gary Hart had a merry time with Donna Rice aboard this yacht",
+        "answer": "Monkey Business",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ACTORS",
+    "clue": "While pregnant with him, the mother of this actor, gazing at the Uffizi's art, 1st felt him move, hence his 1st name",
+    "answer": "Leonardo DiCaprio"
+  },
+  "gameId": "3637",
+  "gameDate": "Tuesday, May 30, 2000"
+}

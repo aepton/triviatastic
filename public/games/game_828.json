@@ -1,0 +1,574 @@
+{
+  "title": "Show #3236 - Monday, October 5, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "THE 18th CENTURY",
+      "CORPORATE HISTORY",
+      "ST. PETER",
+      "WHAT FOODS THESE MORSELS BE",
+      "EX-BUNNIES",
+      "GEOGRAPHER'S DICTIONARY"
+    ],
+    "clues": [
+      {
+        "category": "THE 18th CENTURY",
+        "value": 100,
+        "question": "In the 1790s his gin was a tonic for the fortunes of cotton planters",
+        "answer": "Eli Whitney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CORPORATE HISTORY",
+        "value": 100,
+        "question": "Snapple's 1st flavor was this juice, carbonated",
+        "answer": "Apple",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ST. PETER",
+        "value": 100,
+        "question": "In Acts, Herod imprisons Peter but one of these beings appears & frees him",
+        "answer": "an angel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WHAT FOODS THESE MORSELS BE",
+        "value": 100,
+        "question": "Put a feather in your cap if you know that fischietti is a type of this hollow Italian pasta",
+        "answer": "macaroni",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EX-BUNNIES",
+        "value": 100,
+        "question": "When she became a bunny in 1963, Mary Hutton changed her name to this, after her father Laurence",
+        "answer": "Lauren Hutton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHER'S DICTIONARY",
+        "value": 100,
+        "question": "It's a narrow strip of land connecting 2 larger bodies of land; Panama, for example",
+        "answer": "Isthmus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 18th CENTURY",
+        "value": 200,
+        "question": "After \"hounding\" Iran's borders, these people from a country to the east took over in 1722",
+        "answer": "Afghans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CORPORATE HISTORY",
+        "value": 200,
+        "question": "This man's name is on the world's bestselling bourbon",
+        "answer": "Jim Beam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ST. PETER",
+        "value": 200,
+        "question": "As Jesus predicted, Peter did this thrice before the cock crowed twice",
+        "answer": "Denied him",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WHAT FOODS THESE MORSELS BE",
+        "value": 200,
+        "question": "In the South, hominy when ground is more popularly known as this",
+        "answer": "grits",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EX-BUNNIES",
+        "value": 200,
+        "question": "She was a bunny before she was a singing \"Blondie\"",
+        "answer": "Deborah Harry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHER'S DICTIONARY",
+        "value": 200,
+        "question": "These administrative subdivisions of Louisiana correspond to counties in other states",
+        "answer": "Parishes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 18th CENTURY",
+        "value": 300,
+        "question": "Sweden's major power status ended with defeat by this czar in the 1709 battle of Poltava",
+        "answer": "Peter the Great",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CORPORATE HISTORY",
+        "value": 600,
+        "question": "In 1851 this Fifth Avenue store introduced sterling silver to the U.S.",
+        "answer": "Tiffany's",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ST. PETER",
+        "value": 300,
+        "question": "Peter was a fisherman on this body of water when he was called from his nets by Jesus",
+        "answer": "Sea of Galilee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WHAT FOODS THESE MORSELS BE",
+        "value": 300,
+        "question": "Hummus is made with chickpeas, which are also known as these \"beans\"",
+        "answer": "garbanzos (or chichis)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EX-BUNNIES",
+        "value": 300,
+        "question": "A bunny at age 18, Jacklyn Zeman now works on this show that features Luke & Laura",
+        "answer": "General Hospital",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHER'S DICTIONARY",
+        "value": 300,
+        "question": "From an old Norse word, it's a long, narrow, deep inlet of the sea",
+        "answer": "Fjord",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 18th CENTURY",
+        "value": 400,
+        "question": "George Vancouver once went to the bow of this captain's ship to be the man the farthest south in the world",
+        "answer": "Captain James Cook",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CORPORATE HISTORY",
+        "value": 400,
+        "question": "Prior to autos, BMW  began as a company that made engines for these",
+        "answer": "Airplanes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ST. PETER",
+        "value": 400,
+        "question": "According to tradition & several paintings, Peter was crucified in this unusual manner",
+        "answer": "Upside down",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHAT FOODS THESE MORSELS BE",
+        "value": 400,
+        "question": "Hop in for some deep-fried \"lapin\" at restaurants in Paris & you'll learn it's this animal",
+        "answer": "Rabbit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EX-BUNNIES",
+        "value": 400,
+        "question": "Make no \"Ms.\"take, she donned the ears in 1963 as a journalistic assignment for Show Magazine",
+        "answer": "Gloria Steinem",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHER'S DICTIONARY",
+        "value": 400,
+        "question": "It's an old name for a Chinese seaport, or what the Swiss call their states",
+        "answer": "Canton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 18th CENTURY",
+        "value": 500,
+        "question": "Nickname of Haydn's Symphony No. 94, from a chord said to have been written \"to wake the ladies\"",
+        "answer": "\"Surprise\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CORPORATE HISTORY",
+        "value": 500,
+        "question": "Samsung means \"3 Stars\" in this language of the company's founder Byung-Chull Lee",
+        "answer": "Korean",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ST. PETER",
+        "value": 500,
+        "question": "Like Prince Charles, Peter had a brother named this, also an apostle",
+        "answer": "Andrew",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHAT FOODS THESE MORSELS BE",
+        "value": 500,
+        "question": "Fry up some of these insects & you can enjoy the Colombian treat \"Hormiga Culona\"",
+        "answer": "Ants",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EX-BUNNIES",
+        "value": 500,
+        "question": "Working her way through college as \"Bunny Sue\", she's now working as Dharma's mother-in-law",
+        "answer": "Susan Sullivan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GEOGRAPHER'S DICTIONARY",
+        "value": 500,
+        "question": "As in \"Bahia de Cochinos\", it's what the Spanish word bahia means in English",
+        "answer": "Bay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ODD NAMES IN SHAKESPEARE",
+      "EVERYDAY SYMBOLS",
+      "BIG RIVERS",
+      "BIRTHPLACES",
+      "MOVIE PEOPLE",
+      "TAKE \"TEN\""
+    ],
+    "clues": [
+      {
+        "category": "ODD NAMES IN SHAKESPEARE",
+        "value": 200,
+        "question": "Sir Toby's last name in \"Twelfth Night\", or what you shouldn't do at the dinner table",
+        "answer": "Belch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "EVERYDAY SYMBOLS",
+        "value": 200,
+        "question": "It's the U.S. political party associated with this symbol (donkey)",
+        "answer": "Democratic Party",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BIG RIVERS",
+        "value": 200,
+        "question": "On its trip through Egypt, this river has no tributaries",
+        "answer": "Nile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIRTHPLACES",
+        "value": 200,
+        "question": "Famous singers born in Melbourne, Australia include Samantha Sang & this \"strong\", \"invincible\" woman",
+        "answer": "Helen Reddy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 200,
+        "question": "He's the \"S\" in DreamWorks SKG",
+        "answer": "Steven Spielberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 200,
+        "question": "We won't spare you; it's the most popular form of bowling in the world",
+        "answer": "Ten pin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ODD NAMES IN SHAKESPEARE",
+        "value": 400,
+        "question": "Be \"Lear\"y of her -- she poisoned her sister Regan",
+        "answer": "Goneril",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EVERYDAY SYMBOLS",
+        "value": 400,
+        "question": "It's the \"happy\" nickname for the nautical flag seen here",
+        "answer": "\"Jolly Roger\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BIG RIVERS",
+        "value": 400,
+        "question": "While rowing down this river, you'll pass Oxford University & Windsor Castle",
+        "answer": "Thames",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIRTHPLACES",
+        "value": 400,
+        "question": "World capital where Ingrid Bergman was born in 1915",
+        "answer": "Stockholm, Sweden",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 400,
+        "question": "3 decades after appearing on the \"Amateur Hour\" as a dancer, she directed \"A League of Their Own\"",
+        "answer": "Penny Marshall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 400,
+        "question": "The emotional strain I feel until you ring in with the correct response",
+        "answer": "Tension",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ODD NAMES IN SHAKESPEARE",
+        "value": 600,
+        "question": "\"Much Ado About Nothing\" features a comical constable with this \"canine fruit\" name",
+        "answer": "Dogberry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EVERYDAY SYMBOLS",
+        "value": 600,
+        "question": "Often seen on bumpers, the symbol seen here represents faith in this religion (fish)",
+        "answer": "Christianity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BIG RIVERS",
+        "value": 600,
+        "question": "Lake St. Francis on the border of Ontario & Quebec is actually just a wide spot in this river",
+        "answer": "St. Lawrence",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIRTHPLACES",
+        "value": 600,
+        "question": "Janis Joplin, Robert Rauschenberg & Babe Didrikson were all born in Port Arthur in this state",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 600,
+        "question": "A staff photographer for Look Magazine, he went on to direct such films as \"Lolita\" & \"Dr. Strangelove\"",
+        "answer": "Stanley Kubrick",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 600,
+        "question": "You'll find them in chapter 5 of Deuteronomy & chapter 20 of Exodus",
+        "answer": "The Ten Commandments",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ODD NAMES IN SHAKESPEARE",
+        "value": 800,
+        "question": "Of Lord Poop of Pelham, Lord Scroop of Masham, or Lord Surly of Sneer, the one in \"Henry V\"",
+        "answer": "Lord Scroop of Masham",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EVERYDAY SYMBOLS",
+        "value": 800,
+        "question": "\"Weigh\" the evidence of this symbol (scales) & you'll know it signifies this profession",
+        "answer": "Law/legal profession",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BIG RIVERS",
+        "value": 800,
+        "question": "In 1960 India & Pakistan signed a treaty to deal with control of the waters of this river",
+        "answer": "Indus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIRTHPLACES",
+        "value": 1600,
+        "question": "Dig deep & you'll discover anthropologist Louis Leakey was born in this African country in 1903",
+        "answer": "Kenya",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 800,
+        "question": "This \"Casino\" director was a supervising editor on the 1970 \"Woodstock\" documentary",
+        "answer": "Martin Scorsese",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 1600,
+        "question": "This animal seen here is famous for its gait",
+        "answer": "a Tennessee walking horse",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ODD NAMES IN SHAKESPEARE",
+        "value": 1000,
+        "question": "An officer with the silly name of Silius shows up in the play named for these historic lovers",
+        "answer": "Antony & Cleopatra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EVERYDAY SYMBOLS",
+        "value": 1000,
+        "question": "You might get a \"kick\" out of this sport depicted by the symbol seen here",
+        "answer": "Soccer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BIG RIVERS",
+        "value": 1000,
+        "question": "The main drain of northern Italy, its delta at the Adriatic Sea has numerous mouths",
+        "answer": "the Po",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIRTHPLACES",
+        "value": 1000,
+        "question": "Gustave Flaubert was born in this French city where Joan of Arc was burned at the stake",
+        "answer": "Rouen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MOVIE PEOPLE",
+        "value": 1000,
+        "question": "In his home woodworking shop, this director of \"Lost Highway\" built a VCR case seen in that film",
+        "answer": "David Lynch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 1000,
+        "question": "We wonder if you know the name of this \"Wonderland\" illustrator whose work is seen here",
+        "answer": "Sir John Tenniel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "STATE SONGS",
+    "clue": "The titles of the state songs of Kansas & Kentucky both contain this word",
+    "answer": "Home"
+  },
+  "gameId": "3236",
+  "gameDate": "Monday, October 5, 1998"
+}

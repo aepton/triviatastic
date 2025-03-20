@@ -1,0 +1,574 @@
+{
+  "title": "Show #8364 - Thursday, March 25, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "ICONS OF TECHNOLOGY",
+      "THE PLAY'S THE THING",
+      "STATE PARKS",
+      "CELEBRITY SIBLING SURNAMES",
+      "IN A TEACUP",
+      "GOOD \"BI\""
+    ],
+    "clues": [
+      {
+        "category": "ICONS OF TECHNOLOGY",
+        "value": 200,
+        "question": "The icon of this button has a one & a zero to show its binary nature",
+        "answer": "a power switch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE PLAY'S THE THING",
+        "value": 200,
+        "question": "Estragon & Vladimir meet up with Lucky & Pozzo but not the title character of this play, a real Beckett of laughs",
+        "answer": "Waiting for Godot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 200,
+        "question": "Florida's Bahia Honda State Park covers an entire island in this chain in the Gulf of Mexico",
+        "answer": "the Keys",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY SIBLING SURNAMES",
+        "value": 200,
+        "question": "Goldie's kids Kate & Oliver",
+        "answer": "Hudson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IN A TEACUP",
+        "value": 200,
+        "question": "Studies show that drinking an herbal tea made from this flower may have heart-healthy benefits",
+        "answer": "hibiscus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GOOD \"BI\"",
+        "value": 200,
+        "question": "Around 1850 in Kenya, missionary Ludwig Krapf translated this book into Swahili",
+        "answer": "the Bible",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ICONS OF TECHNOLOGY",
+        "value": 400,
+        "question": "A 3-letter icon on a piece of technology says that it has been okayed by this government commission",
+        "answer": "the Federal Communications Commission",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE PLAY'S THE THING",
+        "value": 400,
+        "question": "What Willy Loman tries to sell for the Wagner Company is not specified in this drama",
+        "answer": "Death of a Salesman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 400,
+        "question": "Fort Griswold Battlefield State Park marks Conn.'s largest battle of the Revolution, with this traitor helping the Brits to victory",
+        "answer": "Benedict Arnold",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY SIBLING SURNAMES",
+        "value": 400,
+        "question": "Derek & Julianne, who danced their way to fame",
+        "answer": "Hough",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IN A TEACUP",
+        "value": 400,
+        "question": "In an idiom, a big to-do over a tiny matter is described as this \"in a teacup\" or  \"teapot\"",
+        "answer": "a tempest",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GOOD \"BI\"",
+        "value": 400,
+        "question": "Zoologists don't consider the American buffalo a buffalo; they use this word  instead",
+        "answer": "a bison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ICONS OF TECHNOLOGY",
+        "value": 600,
+        "question": "A series of three connected dots is an icon for this 7-letter action with files, not toys",
+        "answer": "sharing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE PLAY'S THE THING",
+        "value": 600,
+        "question": "He created strong female characters in \"Hedda Gabler\" & \"A Doll's House\"",
+        "answer": "(Henrik) Ibsen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 600,
+        "question": "With boating, camping & fishing, Alabama's Meaher State Park is on this bay that's an arm of the Gulf of Mexico",
+        "answer": "Mobile Bay",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY SIBLING SURNAMES",
+        "value": 600,
+        "question": "British stage & film stars Ralph & Joseph",
+        "answer": "Fiennes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IN A TEACUP",
+        "value": 600,
+        "question": "Yup, it's a teacup one of these terrier breeds in a teacup",
+        "answer": "a Yorkshire Terrier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GOOD \"BI\"",
+        "value": 600,
+        "question": "In 2009 the Supreme Court tackled a case on judicial this type of favoritism",
+        "answer": "bias",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ICONS OF TECHNOLOGY",
+        "value": 800,
+        "question": "On the road, the icon here means this 4-letter staple of modern life is available",
+        "answer": "Wi-Fi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE PLAY'S THE THING",
+        "value": 800,
+        "question": "James Earl Jones & Jason Robards have both played Hickey in this chilly play by Eugene O'Neill",
+        "answer": "The Iceman Cometh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 800,
+        "question": "Bothe-Napa Valley in California has the farthest inland groves of the giants called \"Coast\" these of any state park",
+        "answer": "redwoods",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY SIBLING SURNAMES",
+        "value": 800,
+        "question": "Race car drivers Kyle & Kurt",
+        "answer": "Busch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IN A TEACUP",
+        "value": 800,
+        "question": "Reese Witherspoon pays homage to her grandmother & her southern heritage in the lifestyle book called this booze \"in a Teacup\"",
+        "answer": "whiskey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GOOD \"BI\"",
+        "value": 800,
+        "question": "Tundra is an example of this unique type of habitat with a 5-letter name",
+        "answer": "a biome",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ICONS OF TECHNOLOGY",
+        "value": 1000,
+        "question": "In many systems, a machinery part is the icon for this basic function of customizing your device with your preferences",
+        "answer": "settings",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE PLAY'S THE THING",
+        "value": 1000,
+        "question": "In a 2016 Broadway revival, Diane Lane starred as the woman who must sell her family's estate in this Chekhov play",
+        "answer": "The Cherry Orchard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STATE PARKS",
+        "value": 1000,
+        "question": "First held in 1954, this annual jazz festival moved to Rhode Island's Fort Adams State Park in 1981",
+        "answer": "the Newport Jazz Festival",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY SIBLING SURNAMES",
+        "value": 1000,
+        "question": "Carnie & Wendy, 2/3 of a pop trio",
+        "answer": "Wilson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IN A TEACUP",
+        "value": 1000,
+        "question": "A house one of these birds enjoys some seeds & rest in a teacup bird feeder",
+        "answer": "a finch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GOOD \"BI\"",
+        "value": 1000,
+        "question": "From Latin for \"two-forked\", it means to divide into 2 branches, like a river",
+        "answer": "bifurcate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BORN DURING THE CIVIL WAR",
+      "GODS & GODDESSES",
+      "TV LOCALES",
+      "PUBLIC TRANSPORTATION",
+      "MY CHEMICAL ROMANCE",
+      "VOCABULARY"
+    ],
+    "clues": [
+      {
+        "category": "BORN DURING THE CIVIL WAR",
+        "value": 400,
+        "question": "Here's something to chew on--this Civil War baby would grow up to create a chewing gum empire",
+        "answer": "Wrigley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GODS & GODDESSES",
+        "value": 400,
+        "question": "Poseidon, the Greek god of the sea, is usually depicted holding this weapon",
+        "answer": "a trident",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TV LOCALES",
+        "value": 400,
+        "question": "While \"The Walking Dead\" takes place primarily in the South, \"Fear the Walking Dead\" started in this city",
+        "answer": "Los Angeles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PUBLIC TRANSPORTATION",
+        "value": 400,
+        "question": "It's the 4-letter nickname for London's subway system",
+        "answer": "the tube",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MY CHEMICAL ROMANCE",
+        "value": 400,
+        "question": "Queens of this \"sweet\" insect species emit a \"queen substance\" that attracts males from other hives",
+        "answer": "honeybees",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 400,
+        "question": "Alone or preceded by \"molly\", this verb means to treat in an overindulgent way",
+        "answer": "coddle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BORN DURING THE CIVIL WAR",
+        "value": 800,
+        "question": "Ernest Lawrence Thayer, who was born in 1863, would hit a home run with this poem published in 1888",
+        "answer": "\"Casey at the Bat\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GODS & GODDESSES",
+        "value": 800,
+        "question": "In Hawaiian religion, she is the goddess of volcanoes & fire",
+        "answer": "(Madame) Pele",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TV LOCALES",
+        "value": 800,
+        "question": "Like \"Breaking Bad\", \"Better Call Saul\" is set primarily in this U.S. state",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PUBLIC TRANSPORTATION",
+        "value": 800,
+        "question": "In Laughlin, Nevada water taxis will take you from one casino to the next along this river",
+        "answer": "the Colorado River",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MY CHEMICAL ROMANCE",
+        "value": 800,
+        "question": "A pheromone in the \"desert\" type of these insect pests leads to them forming swarms of biblical proportions",
+        "answer": "locusts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 800,
+        "question": "The Bible, including the book of Proverbs, gives us \"gird one's\" these",
+        "answer": "loins",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BORN DURING THE CIVIL WAR",
+        "value": 1200,
+        "question": "Across the pond Joseph Merrick developed deformities that cruelly earned him this nickname",
+        "answer": "the Elephant Man",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GODS & GODDESSES",
+        "value": 1200,
+        "question": "A top Mayan deity, Kukulkan is sometimes depicted as a feathered one of these real-life creatures, also the meaning of his name",
+        "answer": "snake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TV LOCALES",
+        "value": 1200,
+        "question": "The first season of \"Narcos\" tells the story of Pablo Escobar's rise to the top of the drug world in this country",
+        "answer": "Colombia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PUBLIC TRANSPORTATION",
+        "value": 1200,
+        "question": "Atlanta's metropolitan area has this rapid transit rail system, similar to the Bay Area's BART",
+        "answer": "MARTA",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MY CHEMICAL ROMANCE",
+        "value": 1200,
+        "question": "Some evidence indicates that androstadienone found in this human skin excretion boosts women's moods",
+        "answer": "sweat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 1200,
+        "question": "The name of this job that provides child care is a French phrase meaning \"equal\"",
+        "answer": "an au pair",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BORN DURING THE CIVIL WAR",
+        "value": 1600,
+        "question": "This president's first wife Alice & his second wife Edith were both born during the early days of the war in 1861",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GODS & GODDESSES",
+        "value": 1600,
+        "question": "All's fair in love & war, 2 things this Babylonian deity, Astarte's counterpart, is goddess of",
+        "answer": "Ishtar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TV LOCALES",
+        "value": 1600,
+        "question": "Amidst odd happenings on this show, agent Dale Cooper ate delicious cherry pie at the Double R Diner",
+        "answer": "Twin Peaks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PUBLIC TRANSPORTATION",
+        "value": 1600,
+        "question": "You & your car can travel by ferry from Washington State to the town of Sidney, British Columbia on this island",
+        "answer": "Vancouver Island",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MY CHEMICAL ROMANCE",
+        "value": 1600,
+        "question": "To attract mates female moths emit a plume of pheromones, which are in turn detected by this body part on males",
+        "answer": "antennae",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 1600,
+        "question": "Mawashi is the name for the garment worn by this athlete",
+        "answer": "a sumo wrestler",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BORN DURING THE CIVIL WAR",
+        "value": 2000,
+        "question": "The son of a Civil War officer, he would become famous for his Wild West artwork like \"The Bronco Buster\"",
+        "answer": "(Frederic) Remington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GODS & GODDESSES",
+        "value": 2000,
+        "question": "This Egyptian deity of mummification & the dead shared canine traits with the jackal god Wepwawet",
+        "answer": "Anubis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TV LOCALES",
+        "value": 2000,
+        "question": "Priyanka Chopra played an FBI recruit when this ABC drama with a place name title debuted in 2015",
+        "answer": "Quantico",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PUBLIC TRANSPORTATION",
+        "value": 2000,
+        "question": "A New York City tramway carries passengers between Manhattan & Roosevelt Island over this river",
+        "answer": "the East River",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MY CHEMICAL ROMANCE",
+        "value": 2000,
+        "question": "Pheromones of these eel-like fish are used to lure them into traps, helping curb their invasion of the Great Lakes",
+        "answer": "a lamprey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 2000,
+        "question": "This dish in which chicken is simmered with herbs gets its name from the Italian for \"hunter\"",
+        "answer": "cacciatore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LITERARY INSPIRATIONS",
+    "clue": "The now-debunked theories of Luigi Galvani influenced the science in this 1818 novel",
+    "answer": "Frankenstein"
+  },
+  "gameId": "8364",
+  "gameDate": "Thursday, March 25, 2021"
+}

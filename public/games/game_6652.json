@@ -1,0 +1,574 @@
+{
+  "title": "Show #2548 - Wednesday, October 4, 1995",
+  "jeopardyRound": {
+    "categories": [
+      "GEOLOGY",
+      "THE 1994 OSCARS",
+      "FOOD & DRINK",
+      "PROFESSORS",
+      "IRELAND",
+      "TAKE IN ORDER"
+    ],
+    "clues": [
+      {
+        "category": "GEOLOGY",
+        "value": 100,
+        "question": "This mountain range was formed by the Nazca Plate crashing into the South American Plate",
+        "answer": "the Andes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE 1994 OSCARS",
+        "value": 100,
+        "question": "Original Score & Original Song awards went to music from this \"roaring\" good animated film",
+        "answer": "The Lion King",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "The blackstrap kind of this syrup is also called mother liquor",
+        "answer": "molasses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PROFESSORS",
+        "value": 100,
+        "question": "In 1758 William Blackstone became the first professor of English law at this British university",
+        "answer": "Oxford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IRELAND",
+        "value": 100,
+        "question": "The Kerry blue breed of this common house pet originated in County Kerry",
+        "answer": "a terrier (dog)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TAKE IN ORDER",
+        "value": 100,
+        "question": "It's defined as emergency medical treatment given before professionals arrive",
+        "answer": "first aid",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 200,
+        "question": "As volcanologists study volcanoes, these specialists study earthquakes",
+        "answer": "seismologists",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE 1994 OSCARS",
+        "value": 200,
+        "question": "Best Original Screenplay went to this film's Roger Avary & Quentin Tarantino",
+        "answer": "Pulp Fiction",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "This Japanese alcoholic beverage is traditionally served warm in small porcelain cups",
+        "answer": "sake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PROFESSORS",
+        "value": 200,
+        "question": "In 1948 this discoverer of penicillin became professor emeritus at the University of London",
+        "answer": "(Alexander) Fleming",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IRELAND",
+        "value": 200,
+        "question": "It's believed that Big Doughty, whom this author saw lift a pony, was the basis for his Brobdingnag farmer",
+        "answer": "(Jonathan) Swift",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TAKE IN ORDER",
+        "value": 200,
+        "question": "This part of a watch shows you 1/60 of a minute",
+        "answer": "the second hand",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 300,
+        "question": "One of these moves by internal deformation or basal sliding, usually not more than 6' a day",
+        "answer": "a glacier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE 1994 OSCARS",
+        "value": 300,
+        "question": "She could hired a \"Blue Sky\" writer to announce her Best Actress win",
+        "answer": "Jessica Lange",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "In the U.S. the term \"blush wine\" has nearly replaced this French term for pinkish wines",
+        "answer": "rose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PROFESSORS",
+        "value": 300,
+        "question": "This author of \"The Wealth of Nations\" was a professor of logic, & later, of moral philosophy",
+        "answer": "Adam Smith",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IRELAND",
+        "value": 300,
+        "question": "In 1446 Cormac MacCarthy built this castle stone by stone",
+        "answer": "Blarney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TAKE IN ORDER",
+        "value": 300,
+        "question": "Rough questioning",
+        "answer": "the third degree",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 400,
+        "question": "Of the 3 types of rock, most of the earth's crust is made of this one",
+        "answer": "igneous",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE 1994 OSCARS",
+        "value": 400,
+        "question": "Lizzy Gardiner picked up her Costume Design award wearing a dress made out of 254 of these cards",
+        "answer": "American Express cards",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "This blue, French \"king of cheeses\" was supposedly a favorite of Charlemagne",
+        "answer": "Roquefort",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PROFESSORS",
+        "value": 800,
+        "question": "This inventor was professor of vocal physiology at Boston University",
+        "answer": "(Alexander Graham) Bell",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IRELAND",
+        "value": 400,
+        "question": "This type of horse race got its name from one in which riders kept the spire of a County Cork church in sight",
+        "answer": "a steeplechase",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TAKE IN ORDER",
+        "value": 400,
+        "question": "Journalists",
+        "answer": "the fourth estate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 500,
+        "question": "To find out this term for a deep ravine or gulch that's usually dry in summer, ask a \"grand dam\" in Washington",
+        "answer": "a coulee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE 1994 OSCARS",
+        "value": 500,
+        "question": "Tom Hanks became the first actor since this man in 1937-38 to win back-to-back Best Actor Oscars",
+        "answer": "Spencer Tracy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "To make this Italian rice dish properly, stir constantly & add the stock a little at a time",
+        "answer": "risotto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PROFESSORS",
+        "value": 500,
+        "question": "Before serving as surgeon general, Joycelyn Elders was a professor at this university's medical school",
+        "answer": "the University of Arkansas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IRELAND",
+        "value": 500,
+        "question": "This town in County Meath is famous for the ancient illuminated book created there",
+        "answer": "Kells",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TAKE IN ORDER",
+        "value": 500,
+        "question": "Franco's sympathizers in Madrid during the Spanish Civil War",
+        "answer": "the fifth column",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ASSASSINATION ATTEMPTS",
+      "CLASSICAL MUSIC",
+      "BLACK AMERICANS",
+      "U.S. STATES",
+      "PSEUDONYMS",
+      "THE QUEEN'S ENGLISH"
+    ],
+    "clues": [
+      {
+        "category": "ASSASSINATION ATTEMPTS",
+        "value": 200,
+        "question": "This Philippine first lady was stabbed in 1972",
+        "answer": "Imelda Marcos",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "This 1742 Handel oratorio uses biblical quotes gathered by Charles Jennens",
+        "answer": "The Messiah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 200,
+        "question": "His 1984 hit \"I Just Called To Say I Love You\" was his first to reach No. 1 in both the U.S. & U.K.",
+        "answer": "Stevie Wonder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 200,
+        "question": "In 1901 oil was discovered at Red Fork, near Tulsa in this state",
+        "answer": "Oklahoma",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PSEUDONYMS",
+        "value": 200,
+        "question": "Eric Arthur Blair was known by this pseudonym before & after 1984",
+        "answer": "(George) Orwell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE QUEEN'S ENGLISH",
+        "value": 200,
+        "question": "It's how the British pronounce the place in which Dr. Frankenstein experiments",
+        "answer": "a \"lah-bor-a-tory\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ASSASSINATION ATTEMPTS",
+        "value": 400,
+        "question": "In November 1970 a man with a knife tried to assault this pope in the Manila airport",
+        "answer": "Paul VI",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "From 1769 to 1781, he was in the service of the Archbishop of Salzburg",
+        "answer": "Mozart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 400,
+        "question": "This agriculturist's 1894 college thesis was entitled \"Plants as Modified by Man\"",
+        "answer": "George Washington Carver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 400,
+        "question": "Beaches on this state's Atlantic coast include windy Hill, Seabrook Island & Hilton Head Island",
+        "answer": "South Carolina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PSEUDONYMS",
+        "value": 400,
+        "question": "In August 1994 the French arrested terrorist Ilich Ramirez Sanchez, better known as this",
+        "answer": "Carlos (the Jackal)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE QUEEN'S ENGLISH",
+        "value": 400,
+        "question": "A flex is one of these items that runs between a lamp & the wall",
+        "answer": "an electrical cord",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ASSASSINATION ATTEMPTS",
+        "value": 600,
+        "question": "On Oct. 14, 1912 this former U.S. president was shot in Milwaukee",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 600,
+        "question": "Technically, this Vivaldi work is known as \"Opus 8, Nos. 1-4\"",
+        "answer": "The Four Seasons",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 600,
+        "question": "In 1973 this poet was nominated for a Tony for her role in the play \"Look Away\"",
+        "answer": "Maya Angelou",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 600,
+        "question": "Of the 6 New England states, it's the one farthest east",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PSEUDONYMS",
+        "value": 600,
+        "question": "Esther Lederer uses the pseudonym Ann Landers & Pauline Phillips, her sister, uses this name",
+        "answer": "Dear Abby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE QUEEN'S ENGLISH",
+        "value": 600,
+        "question": "A landlord may have tenants or may draw you a pint as the operator of one of these",
+        "answer": "a pub",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ASSASSINATION ATTEMPTS",
+        "value": 800,
+        "question": "This first president of Cyprus survived 4 assassination attempts",
+        "answer": "Makarios",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "This Russian wrote \"Flight Of The Bumblebee\" for his opera \"Tsar Saltan\"",
+        "answer": "Rimsky-Korsakov",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 800,
+        "question": "In 1972 this Brooklyn congresswoman campaigned for the Democratic presidential nomination",
+        "answer": "Shirley Chisholm",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 800,
+        "question": "Among this state's nicknames are \"Land of Steady Habits\", \"The Brownstone State\" & \"The Nutmeg State\"",
+        "answer": "Connecticut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PSEUDONYMS",
+        "value": 800,
+        "question": "The book of poetry published in 1846 by these sisters under the name Bell sold only 2 copies",
+        "answer": "the Brontes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE QUEEN'S ENGLISH",
+        "value": 800,
+        "question": "In England this American TV series would be \"CD\" for casualty department",
+        "answer": "ER",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ASSASSINATION ATTEMPTS",
+        "value": 1000,
+        "question": "Rebels using rockets, bazookas, grenades & rifles tried to kill this Chilean president in 1986",
+        "answer": "Pinochet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 2000,
+        "question": "In an 1829 letter from the Hebrides, he wrote the opening bars of the \"Hebrides Overture\"",
+        "answer": "Felix Mendelssohn",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 1000,
+        "question": "He served as executive director of the National Urban League from 1972 to 1981",
+        "answer": "Vernon Jordan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 1000,
+        "question": "With a population of less than 500,000, this Rocky Mountain state is the USA's least populous",
+        "answer": "Wyoming",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PSEUDONYMS",
+        "value": 2000,
+        "question": "Under the pseudonym Constant Reader, she wrote book reviews for The New Yorker 1827-1933",
+        "answer": "Dorothy Parker",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE QUEEN'S ENGLISH",
+        "value": 1000,
+        "question": "A pharmacist or druggist is called this",
+        "answer": "*a chemist (**apothecary)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FLOWERS",
+    "clue": "This flower's name comes from its use in scenting the ancient Romans' wash water",
+    "answer": "lavender"
+  },
+  "gameId": "2548",
+  "gameDate": "Wednesday, October 4, 1995"
+}

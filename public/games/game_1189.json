@@ -1,0 +1,574 @@
+{
+  "title": "Show #3102 - Tuesday, February 10, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "MUSEUMS",
+      "DON'T QUIT YOUR DAY JOB",
+      "THE LAW",
+      "REEL MOTHERS",
+      "COMMON BONDS",
+      "SOMETHING'S A \"FOOT\""
+    ],
+    "clues": [
+      {
+        "category": "MUSEUMS",
+        "value": 100,
+        "question": "This building in Philadelphia houses the inkstand used by the Declaration signers",
+        "answer": "Independence Hall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DON'T QUIT YOUR DAY JOB",
+        "value": 100,
+        "question": "He played outfield for the Birmingham Barons before returning to the Bulls",
+        "answer": "Michael Jordan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 100,
+        "question": "During the Civil War, Lincoln suspended this right not to be held in prison without court consent",
+        "answer": "Habeas corpus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "REEL MOTHERS",
+        "value": 100,
+        "question": "Kathleen Turner is a psychopathic housewife on a killing spree in this 1994 John Waters comedy",
+        "answer": "Serial Mom",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 100,
+        "question": "Some chairs,A toy horse,The cradle when the wind blows",
+        "answer": "Things that rock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING'S A \"FOOT\"",
+        "value": 100,
+        "question": "12 inches of hot dog",
+        "answer": "footlong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 200,
+        "question": "The Whizstreet \"Up In Smoke\" Museum is a web site exhibiting the art of these colorful cigar items",
+        "answer": "Cigar bands",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DON'T QUIT YOUR DAY JOB",
+        "value": 200,
+        "question": "This TV actor heard here is not really known for his singing:\"Picture yourself... in a boat... on a river...\"",
+        "answer": "William Shatner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 200,
+        "question": "From the Latin \"to refer\", it's the way by which laws proposed by a legislature are put to popular vote",
+        "answer": "Referendum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "REEL MOTHERS",
+        "value": 200,
+        "question": "Billy Crystal is meant to kill Danny DeVito's mother according to DeVito's plan in this 1987 comedy",
+        "answer": "Throw Momma From The Train",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 200,
+        "question": "Thunder,Ol' Man River,White House Easter Eggs",
+        "answer": "Things that are rolled",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING'S A \"FOOT\"",
+        "value": 200,
+        "question": "To pick up a check",
+        "answer": "Foot the bill",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 300,
+        "question": "Barry Goldwater donated his Kachina doll collection to the Heard Museum in this state capital",
+        "answer": "Phoenix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DON'T QUIT YOUR DAY JOB",
+        "value": 300,
+        "question": "This supermodel starred with William Baldwin in the film \"Fair Game\", which was fair game for critics",
+        "answer": "Cindy Crawford",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 300,
+        "question": "The first of these \"colorful\" laws was enacted in 1619 to punish failure to attend church",
+        "answer": "Blue laws",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "REEL MOTHERS",
+        "value": 600,
+        "question": "Title of the 1981 biopic about the woman seen here:\"I wouldn't turn against you if it meant my life.  You are my life.\"",
+        "answer": "Mommie Dearest",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 300,
+        "question": "Coconuts,Udders,Canaan",
+        "answer": "Things that give milk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING'S A \"FOOT\"",
+        "value": 300,
+        "question": "It's a small trunk kept at the foot of a soldier's bunk",
+        "answer": "Footlocker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 400,
+        "question": "The Eisenhower Center in this Kansas town houses numerous mementos of the president's life & career",
+        "answer": "Abilene",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DON'T QUIT YOUR DAY JOB",
+        "value": 400,
+        "question": "He quit as the Beatles' bass player to become a painter in 1961",
+        "answer": "Stuart Sutcliffe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 400,
+        "question": "Failure to pay a building contractor  may result in his leaning on you with this type of lien",
+        "answer": "Mechanic's lien",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "REEL MOTHERS",
+        "value": 400,
+        "question": "According to the theme song, this cat \"is a bad mother\" -- shut your mouth",
+        "answer": "Shaft",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 400,
+        "question": "A beaten wrestler,A frat brother's girlfriend,A dead butterfly",
+        "answer": "Things that are pinned",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING'S A \"FOOT\"",
+        "value": 400,
+        "question": "In tennis, it happens when the server steps over the baseline before hitting the ball",
+        "answer": "Foot fault",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 500,
+        "question": "A Brussels art & history museum has a giant statue from this Chilean island on exhibit",
+        "answer": "Easter Island",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DON'T QUIT YOUR DAY JOB",
+        "value": 500,
+        "question": "He gave up his cushy European royalty job to become emperor of Mexico, & was executed there in 1867",
+        "answer": "Maximillian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE LAW",
+        "value": 500,
+        "question": "Now a body of lawyers, it once referred to a rail separating spectators from courtroom proceedings",
+        "answer": "Bar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "REEL MOTHERS",
+        "value": 500,
+        "question": "Bill Cosby, Raquel Welch & Harvey Keitel play this title trio in a movie about an ambulance service",
+        "answer": "Mother, Jugs & Speed",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 500,
+        "question": "Hair,Punch,A volleyball",
+        "answer": "Things that are spiked",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING'S A \"FOOT\"",
+        "value": 500,
+        "question": "A person near death is said to have one",
+        "answer": "One foot in the grave",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HARRY GUYS",
+      "WE'RE MALAYSIA-BOUND",
+      "FETAL ATTRACTION",
+      "TOP 40 BONUS",
+      "FROM THE JAWS OF VICTORY",
+      "POETS' RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "HARRY GUYS",
+        "value": 200,
+        "question": "There's no doubt about it, he was born Harry, but we know him as \"Bing\"",
+        "answer": "(Harry Lillis) \"Bing\" Crosby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WE'RE MALAYSIA-BOUND",
+        "value": 200,
+        "question": "This capital whose name means \"muddy estuary\" was named for the 2 rivers that wind through it",
+        "answer": "Kuala Lumpur",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FETAL ATTRACTION",
+        "value": 200,
+        "question": "For the first 8 weeks after fertilization, an unborn child is called this, from the Greek for \"full\"",
+        "answer": "Embryo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TOP 40 BONUS",
+        "value": 400,
+        "question": "\"Proud Mary\"",
+        "answer": "Creedence Clearwater Revival & Ike & Tina Turner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FROM THE JAWS OF VICTORY",
+        "value": 200,
+        "question": "In the Aesop fable, he's so far ahead he takes a nap; what a loser!",
+        "answer": "Hare",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POETS' RHYME TIME",
+        "value": 200,
+        "question": "Sylvia's tub times",
+        "answer": "Plath's baths",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HARRY GUYS",
+        "value": 400,
+        "question": "Nickname of Robert E. Lee's dad",
+        "answer": "\"Lighthorse\" Harry Lee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WE'RE MALAYSIA-BOUND",
+        "value": 400,
+        "question": "Endau-Rompin Park is one of the last homes of the Sumatran species of this horned mammal",
+        "answer": "Rhinoceros",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FETAL ATTRACTION",
+        "value": 400,
+        "question": "Named for the sac surrounding the fetus, this fluid cushions the fetus from injury",
+        "answer": "Amniotic fluid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TOP 40 BONUS",
+        "value": 400,
+        "question": "\"Live And Let Die\"",
+        "answer": "Wings & Guns N' Roses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FROM THE JAWS OF VICTORY",
+        "value": 400,
+        "question": "He was the Democratic presidential frontrunner in 1987 until his \"Monkey Business\" did him in",
+        "answer": "Gary Hart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POETS' RHYME TIME",
+        "value": 400,
+        "question": "Ezra's Afghans",
+        "answer": "Pound's hounds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HARRY GUYS",
+        "value": 600,
+        "question": "He's the Harry heard here:  \"Dayyy....\"",
+        "answer": "Harry Belafonte",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WE'RE MALAYSIA-BOUND",
+        "value": 600,
+        "question": "Of proton, electron or neutron, with \"Saga\", it's Malaysia's national car",
+        "answer": "Proton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FETAL ATTRACTION",
+        "value": 600,
+        "question": "Pre-natal process that created the images seen here:",
+        "answer": "Ultrasound",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TOP 40 BONUS",
+        "value": 1200,
+        "question": "\"California Girls\"",
+        "answer": "The Beach Boys & David Lee Roth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FROM THE JAWS OF VICTORY",
+        "value": 600,
+        "question": "By allowing rebel forces to escape after Gettysburg, this Union general may have prolonged the war 2 more years",
+        "answer": "George Meade",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POETS' RHYME TIME",
+        "value": 600,
+        "question": "Alexander's expectations",
+        "answer": "Pope's hopes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HARRY GUYS",
+        "value": 1600,
+        "question": "Watergate-era chief of staff, his initial \"H\" stood for Harry",
+        "answer": "H.R. Haldeman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WE'RE MALAYSIA-BOUND",
+        "value": 800,
+        "question": "The states of Sarawak & Sabah on this island make up about 6% of Malaysia's land area",
+        "answer": "Borneo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FETAL ATTRACTION",
+        "value": 800,
+        "question": "From the Greek for \"flat cake\", this uterine wall organ connects to the fetus via the umbilical cord",
+        "answer": "Placenta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TOP 40 BONUS",
+        "value": 800,
+        "question": "\"Blue Bayou\"",
+        "answer": "Linda Ronstadt & Roy Orbison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FROM THE JAWS OF VICTORY",
+        "value": 800,
+        "question": "She became Texas' governor in 1990 when her frontrunner opponent kept blundering in interviews",
+        "answer": "Ann Richards",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POETS' RHYME TIME",
+        "value": 800,
+        "question": "William's anacondas",
+        "answer": "Blake's snakes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HARRY GUYS",
+        "value": 1000,
+        "question": "This trumpet-playing band-leader helped Sinatra get started, & lost him to the Tommy Dorsey band",
+        "answer": "Harry James",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WE'RE MALAYSIA-BOUND",
+        "value": 1000,
+        "question": "Go \"strait\" to this port & visit St. Paul's Church where St. Francis Xavier's body was held until moved to India",
+        "answer": "Malacca",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FETAL ATTRACTION",
+        "value": 1000,
+        "question": "Even at birth the skull isn't fully fused, leaving these, also called \"soft spots\"",
+        "answer": "fontanelles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TOP 40 BONUS",
+        "value": 1000,
+        "question": "\"Soul Man\"",
+        "answer": "The Blues Brothers & Sam & Dave",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FROM THE JAWS OF VICTORY",
+        "value": 2000,
+        "question": "Heavy armor & heavy rains defeated the large French army as much as Henry V's men at this 1415 battle",
+        "answer": "Agincourt",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POETS' RHYME TIME",
+        "value": 1000,
+        "question": "Sir Philip's renal organs",
+        "answer": "Sidney's kidneys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ENGLISH LITERATURE",
+    "clue": "The 5th edition of this work, published in 1676, included a section on fly fishing by Charles Cotton",
+    "answer": "The Compleat Angler (by Izaak Walton)"
+  },
+  "gameId": "3102",
+  "gameDate": "Tuesday, February 10, 1998"
+}

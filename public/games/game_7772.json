@@ -1,0 +1,574 @@
+{
+  "title": "Show #8831 - Monday, March 20, 2023",
+  "jeopardyRound": {
+    "categories": [
+      "STATE OF THE AIRPORT",
+      "GIFTS FOR THE SPORTS FAN?",
+      "QUITE THE FISH STORY",
+      "\"ME\"",
+      "MYSELF",
+      "& EYE"
+    ],
+    "clues": [
+      {
+        "category": "STATE OF THE AIRPORT",
+        "value": 200,
+        "question": "Ontario International, John Wayne Airport",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GIFTS FOR THE SPORTS FAN?",
+        "value": 200,
+        "question": "The little plane called a Piper this would be a perfect gift for a Chicago baseball fan",
+        "answer": "a Cub",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "QUITE THE FISH STORY",
+        "value": 200,
+        "question": "Fish argue whether a dentist is using a Hedstrom file or a K-Flex in this Pixar film; the DDS did use the Schilder technique",
+        "answer": "Finding Nemo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"ME\"",
+        "value": 200,
+        "question": "This adjective for something neither bad nor good is from Latin for \"of middle quality\"",
+        "answer": "mediocre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MYSELF",
+        "value": 200,
+        "question": "Her autobiography's dedication included \"Malia and Sasha\" & a man \"who always promised me an interesting journey\"",
+        "answer": "Michelle Obama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "& EYE",
+        "value": 200,
+        "question": "Attention, students! Anisocoria is where these eye parts are unequal in size, maybe due to a torn or blocked blood vessel in the neck",
+        "answer": "the pupils",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE AIRPORT",
+        "value": 400,
+        "question": "Ketchikan International, Wiley Post-Will Rogers",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GIFTS FOR THE SPORTS FAN?",
+        "value": 400,
+        "question": "This word for any cheap trinket sounds perfect for a Big Apple hoops lover",
+        "answer": "a knickknack",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "QUITE THE FISH STORY",
+        "value": 400,
+        "question": "\"Piranha 3D\" ate up the screen with Elisabeth Shue, Ving Rhames & great Scott!--this inventive \"Back to the Future\" actor",
+        "answer": "Christopher Lloyd",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"ME\"",
+        "value": 400,
+        "question": "Koplik's spots are associated with this contagious disease",
+        "answer": "the measles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MYSELF",
+        "value": 400,
+        "question": "His book \"iWoz\" is subtitled \"Computer Geek to Cult Icon\"",
+        "answer": "Steve Wozniak",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "& EYE",
+        "value": 400,
+        "question": "\"Avian\" term for the tiny wrinkles that form around the eyes as we age; we prefer to call them \"smile lines\"",
+        "answer": "crow's feet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE AIRPORT",
+        "value": 600,
+        "question": "Vero Beach Regional, Naples Airport",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GIFTS FOR THE SPORTS FAN?",
+        "value": 600,
+        "question": "A young Tampa hockey fan would probably dig a toy car depicting this cinematic speedster",
+        "answer": "Lightning McQueen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "QUITE THE FISH STORY",
+        "value": 600,
+        "question": "The force of Lasse Hallström was strong to pull in this Scot to play a fisheries expert in \"Salmon Fishing in the Yemen\"",
+        "answer": "Ewan McGregor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"ME\"",
+        "value": 600,
+        "question": "Metheglin is a variety of this fermented beverage",
+        "answer": "mead",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MYSELF",
+        "value": 600,
+        "question": "Part of the \"Life\" of this Rolling Stones guitarist: \"I am pulled over by police officers in Arkansas... and a standoff ensues\"",
+        "answer": "Keith Richards",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "& EYE",
+        "value": 600,
+        "question": "Everyone has a blind spot, as there are no photoreceptors--that is, rods or these--in the optic disk",
+        "answer": "cones",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE AIRPORT",
+        "value": 800,
+        "question": "Lewiston/ Nez Perce County, Pocatello Regional",
+        "answer": "Idaho",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GIFTS FOR THE SPORTS FAN?",
+        "value": 800,
+        "question": "This 1987 Tom Clancy novel would make even the most curmudgeonly Belichick fan happy",
+        "answer": "Patriot Games",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "QUITE THE FISH STORY",
+        "value": 800,
+        "question": "Michael Caine said he never saw himself in this 4: \"The Revenge\", \"but I've seen the house it bought for my mum. It's fantastic\"",
+        "answer": "Jaws",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"ME\"",
+        "value": 800,
+        "question": "To wander aimlessly",
+        "answer": "meander",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MYSELF",
+        "value": 800,
+        "question": "His autobio said in 1835 Mr. Freeland hired him from his master, but he wanted \"to live upon free land as well as with Freeland\"",
+        "answer": "Frederick Douglass",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "& EYE",
+        "value": 800,
+        "question": "It's a clouding of what was once a clear eye lens; seeing halos around lights is a sign of them",
+        "answer": "cataract",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE AIRPORT",
+        "value": 1000,
+        "question": "Cheboygan County, Grosse Ile Municipal",
+        "answer": "Michigan",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GIFTS FOR THE SPORTS FAN?",
+        "value": 1000,
+        "question": "This 2-word fungus that's used to make beer will be welcomed by your suds-crafting, baseball-loving bro in Milwaukee",
+        "answer": "brewer's yeast",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "QUITE THE FISH STORY",
+        "value": 1000,
+        "question": "Melissa Etheridge gave Brad Pitt lessons in fly-fishing so he could play Paul Maclean in this film",
+        "answer": "A River Runs Through It",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"ME\"",
+        "value": 1000,
+        "question": "A body part is found in this word describing one who refuses to tell the truth in plain language",
+        "answer": "mealymouthed",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MYSELF",
+        "value": 1000,
+        "question": "If we may get existential for a moment... in 1963 this thinker published \"Les Mots\", or \"The Words\" of his life",
+        "answer": "Sartre",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "& EYE",
+        "value": 1000,
+        "question": "Referring to the device used, these 2 words are the \"L-A\" in LASIK eye surgery",
+        "answer": "laser-assisted",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "UNESCO's INTANGIBLE CULTURAL HERITAGE",
+      "PRESIDENTIAL INAUGURATIONS",
+      "ALPHABETIC HOMOPHONES",
+      "SHORT STORY, SHORTER",
+      "WALK, THE LINE",
+      "CRY UNCLE"
+    ],
+    "clues": [
+      {
+        "category": "UNESCO's INTANGIBLE CULTURAL HERITAGE",
+        "value": 400,
+        "question": "The sericulture of China made UNESCO's list along with the skill of making this resulting fabric",
+        "answer": "silk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL INAUGURATIONS",
+        "value": 400,
+        "question": "Read at Clinton's inauguration, her poem \"On the Pulse of Morning\" contains the line \"lost in the gloom of dust and ages\"",
+        "answer": "Angelou",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ALPHABETIC HOMOPHONES",
+        "value": 400,
+        "question": "Between Tarrytown & Nyack, New York lies a watery section of river known as the Tappan this",
+        "answer": "the Zee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHORT STORY, SHORTER",
+        "value": 400,
+        "question": "Roderick, Madeline & their place itself don't make it to the end; after all, it is \"The Fall of\" this",
+        "answer": "the House of Usher",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WALK, THE LINE",
+        "value": 400,
+        "question": "Walk the Moon recounts a night at the disco: \"I said, 'you're holding back', she said\" this title",
+        "answer": "\"Shut Up And Dance\" with me",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CRY UNCLE",
+        "value": 400,
+        "question": "At her wedding to FDR in 1905, Eleanor was given away by this uncle, who happened to be president at the time",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "UNESCO's INTANGIBLE CULTURAL HERITAGE",
+        "value": 800,
+        "question": "Argentina & Uruguay were recognized for this dance developed in Buenos Aires & Montevideo",
+        "answer": "the tango",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL INAUGURATIONS",
+        "value": 800,
+        "question": "His second inaugural marked the first time African Americans had been included in the inaugural parade",
+        "answer": "Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ALPHABETIC HOMOPHONES",
+        "value": 800,
+        "question": "\"Every kiss begins with\" this jeweler",
+        "answer": "Kay",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHORT STORY, SHORTER",
+        "value": 800,
+        "question": "After a bad Hessian session, this schoolmaster is never seen in Sleepy Hollow again",
+        "answer": "(Ichabod) Crane",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WALK, THE LINE",
+        "value": 800,
+        "question": "Migos & this Canadian teamed up on the 2018 hit \"Walk It Talk It\"",
+        "answer": "Drake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CRY UNCLE",
+        "value": 800,
+        "question": "It was the last name of dancer & choreographer Agnes & her famous uncle Cecil B.",
+        "answer": "de Mille (DeMille)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "UNESCO's INTANGIBLE CULTURAL HERITAGE",
+        "value": 1200,
+        "question": "Castells, or human towers, are created by amateur groups at festivals in this Spanish region that includes Barcelona & Tarragona",
+        "answer": "Catalonia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL INAUGURATIONS",
+        "value": 1200,
+        "question": "FDR's 1st inaugural gave us this 10-word statement, a \"firm belief\" about \"nameless, unreasoning, unjustified terror\"",
+        "answer": "\"The only thing we have to fear is fear itself\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ALPHABETIC HOMOPHONES",
+        "value": 1200,
+        "question": "This word precedes \"England Slept\" in a 1940 book by JFK",
+        "answer": "Why",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHORT STORY, SHORTER",
+        "value": 1200,
+        "question": "Frank Stockton leaves it up to you--\"Which came out of the opened door--the lady or\" this?",
+        "answer": "the tiger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WALK, THE LINE",
+        "value": 1200,
+        "question": "Vanessa Carlton was nominated for 3 Grammys for her song that said, \"You know I'd walk\" this far to \"just see you tonight\"",
+        "answer": "a thousand miles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CRY UNCLE",
+        "value": 1200,
+        "question": "At the time of his 1914 assassination, Franz Ferdinand was heir to the throne occupied by this man, his uncle",
+        "answer": "Franz Joseph",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "UNESCO's INTANGIBLE CULTURAL HERITAGE",
+        "value": 1600,
+        "question": "In 2022 UNESCO honored this long French loaf of bread, the most popular kind eaten in France year round",
+        "answer": "a baguette",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL INAUGURATIONS",
+        "value": 1600,
+        "question": "His nearly 8,500-word address is by far the longest ever; he should have saved his energy",
+        "answer": "William Henry Harrison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ALPHABETIC HOMOPHONES",
+        "value": 1600,
+        "question": "The poem Amanda Gorman read at the U.N. General Assembly was titled \"An Ode We\" this",
+        "answer": "Owe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHORT STORY, SHORTER",
+        "value": 1600,
+        "question": "A \"Scrivener\" hired to copy legal documents, he's an early advocate of quiet quitting, then quits life itself",
+        "answer": "Bartleby",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WALK, THE LINE",
+        "value": 1600,
+        "question": "According to the Bangles, \"Slide your feet up the street, bend your back, shift your arm, then you pull it back\" to do this",
+        "answer": "walk like an Egyptian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CRY UNCLE",
+        "value": 1600,
+        "question": "Real name Ivan, he's the bitter, aging title character of a Chekhov play",
+        "answer": "Uncle Vanya",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "UNESCO's INTANGIBLE CULTURAL HERITAGE",
+        "value": 2000,
+        "question": "UNESCO referred to the duduk as Armenia's equivalent of this Western reed instrument",
+        "answer": "an oboe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL INAUGURATIONS",
+        "value": 2000,
+        "question": "He, his wife & 9-year-old daughter were the first first family to walk all the way from the Capitol to the White House",
+        "answer": "the Carters",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ALPHABETIC HOMOPHONES",
+        "value": 2000,
+        "question": "It's a term for the seat of authority of a bishop",
+        "answer": "a see",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHORT STORY, SHORTER",
+        "value": 2000,
+        "question": "A Bierce last line--\"Peyton Farquhar was dead; his body... swung gently... beneath the timbers of\" this title structure",
+        "answer": "Owl Creek Bridge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WALK, THE LINE",
+        "value": 2000,
+        "question": "Oddly, the official video for this '80s Katrina & The Waves hit showed the band strolling through a misty London in heavy coats",
+        "answer": "\"Walking On Sunshine\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CRY UNCLE",
+        "value": 2000,
+        "question": "In a letter to Tacitus, this man wrote of his elder uncle's death at Vesuvius from \"some gross and noxious vapor\"",
+        "answer": "Pliny",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COUNTRIES OF AFRICA",
+    "clue": "At one time a province of the Roman Empire, this kingdom is known to Arabic scholars as Al-Maghrib Al-Aqsa, \"the far west\"",
+    "answer": "Morocco"
+  },
+  "gameId": "8831",
+  "gameDate": "Monday, March 20, 2023"
+}

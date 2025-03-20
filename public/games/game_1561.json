@@ -1,0 +1,565 @@
+{
+  "title": "Show #3865 - Friday, May 25, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE & NATURE",
+      "HARD ROCK CAFE",
+      "A NOVEL CATEGORY",
+      "REMEMBER 1989?",
+      "RHYMES WITH RHYME",
+      "GAMING"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 100,
+        "question": "About one-millionth as bright as our sun, these small red stars are also known as flare stars",
+        "answer": "dwarfs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HARD ROCK CAFE",
+        "value": 100,
+        "question": "These rockers conquered the world with albums like \"High Voltage\", \"Highway to Hell\" & \"Back in Black\"",
+        "answer": "AC/DC",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "A NOVEL CATEGORY",
+        "value": 100,
+        "question": "Elias Canetti's \"Die Blendung\" has been published in English under the Biblical title \"The Tower of\" this",
+        "answer": "Babel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "REMEMBER 1989?",
+        "value": 100,
+        "question": "Based on a comic book & a campy '60s TV show, this movie was an immense hit in 1989",
+        "answer": "Batman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "RHYMES WITH RHYME",
+        "value": 100,
+        "question": "Unlawful activity",
+        "answer": "crime",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GAMING",
+        "value": 100,
+        "question": "One story credits 17th century mathematician Blaise Pascal with the invention of this ball-&-wheel game",
+        "answer": "roulette",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 200,
+        "question": "The mud eel is not really an eel, but a species of this tailed amphibian",
+        "answer": "a salamander",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HARD ROCK CAFE",
+        "value": 200,
+        "question": "At No. 4, this Robert Plant band's highest-charting U.S. hit was 1969's \"Whole Lotta Love\"",
+        "answer": "Led Zeppelin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "A NOVEL CATEGORY",
+        "value": 200,
+        "question": "This \"Don Quixote\" author wrote his first novel, \"La Galatea\", in 1585",
+        "answer": "Cervantes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "REMEMBER 1989?",
+        "value": 200,
+        "question": "Attracting widespread media coverage, this star of \"The Queen of Outer Space\" slapped a cop",
+        "answer": "Zsa Zsa Gabor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "RHYMES WITH RHYME",
+        "value": 200,
+        "question": "Sound of a bell",
+        "answer": "chime",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GAMING",
+        "value": 200,
+        "question": "Hazard is a centuries-old game using these, which Einstein thought God doesn't play with",
+        "answer": "dice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 300,
+        "question": "Of the 6 simple machines in physics, this one uses a spiral inclined plane",
+        "answer": "a screw",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HARD ROCK CAFE",
+        "value": 300,
+        "question": "On the Michael Jackson hit \"Beat It\" this virtuoso lead guitarist played a solo",
+        "answer": "Eddie Van Halen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "A NOVEL CATEGORY",
+        "value": 300,
+        "question": "\"The Plum in the Golden Vase\", a novel known for its eroticism, was written at the time of this Chinese dynasty",
+        "answer": "the Ming Dynasty",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "REMEMBER 1989?",
+        "value": 300,
+        "question": "Playing for the Texas Rangers, this man became the first pitcher to strike out 5,000 batters",
+        "answer": "Nolan Ryan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "RHYMES WITH RHYME",
+        "value": 300,
+        "question": "Slug & snail residue",
+        "answer": "slime",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GAMING",
+        "value": 300,
+        "question": "Wild Fruit Bars & Jackpot Party are popular types of these machines",
+        "answer": "slot machines",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 800,
+        "question": "The name of this Alpine flower is German for \"noble white\"",
+        "answer": "Edelweiss",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HARD ROCK CAFE",
+        "value": 400,
+        "question": "In the 1970s the man seen here fronted this \"colorful\" rock band:[Ozzy Osbourne]",
+        "answer": "Black Sabbath",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "A NOVEL CATEGORY",
+        "value": 400,
+        "question": "The 1803 book \"Thaddeus of\" this Polish city is called one of the first historical novels",
+        "answer": "Warsaw",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "REMEMBER 1989?",
+        "value": 400,
+        "question": "Echoing sports cars of the past, Mazda introduced this 2-seat roadster",
+        "answer": "Miata",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "RHYMES WITH RHYME",
+        "value": 400,
+        "question": "A Canadian coin",
+        "answer": "dime",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GAMING",
+        "value": 400,
+        "question": "Aussie mogul Kerry Packer reportedly lost $15 million in a weekend at this game that involves a banker",
+        "answer": "baccarat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 500,
+        "question": "All 6 noble gases were discovered on Earth between 1894 & 1900; this one, symbol Rn, was the last",
+        "answer": "radon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HARD ROCK CAFE",
+        "value": 500,
+        "question": "Known best for \"Rock You Like A Hurricane\", this metal band cut an album in 2000 with the Berlin Philharmonic",
+        "answer": "The Scorpions",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "A NOVEL CATEGORY",
+        "value": 500,
+        "question": "A relative of Chilean president Salvador Allende, she wrote the luminous novel \"Eva Luna\"",
+        "answer": "Isabel Allende",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "REMEMBER 1989?",
+        "value": 500,
+        "question": "In 1989 this Japanese corporation bought Columbia Pictures for $3.4 billion",
+        "answer": "Sony",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "RHYMES WITH RHYME",
+        "value": 500,
+        "question": "First in degree or rank",
+        "answer": "prime",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GAMING",
+        "value": 500,
+        "question": "Caesars Palace historians tell us this game with numbers marked on a ticket helped fund the Great Wall of China",
+        "answer": "keno (lottery accepted)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "DRAMA & DRAMATISTS",
+      "CAPITAL PUNISHMENT",
+      "THE RUSSIANS ARE COMING!",
+      "NESTLE'S",
+      "COUNTRY MUSIC",
+      "WORDS FROM CHINESE"
+    ],
+    "clues": [
+      {
+        "category": "DRAMA & DRAMATISTS",
+        "value": 200,
+        "question": "As a music critic, this playwright signed his essays first as \"Corno di Bassetto\", then as \"G.B.S.\"",
+        "answer": "George Bernard Shaw",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 200,
+        "question": "Monrovia",
+        "answer": "Liberia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING!",
+        "value": 200,
+        "question": "This leader in power from 1917 to 1924 founded Russia's Communist Party & the Soviet state",
+        "answer": "V.I. Lenin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NESTLE'S",
+        "value": 200,
+        "question": "Nestle's began making this in 1904; they claim to make the very best of it",
+        "answer": "chocolate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 200,
+        "question": "The originator of the Bakersfield sound, he once referred to himself in song as \"Ol' Buck\"",
+        "answer": "Buck Owens",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORDS FROM CHINESE",
+        "value": 200,
+        "question": "\"Great wind\", a tropical cyclone",
+        "answer": "typhoon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DRAMA & DRAMATISTS",
+        "value": 400,
+        "question": "In 1622 this French comedic playwright was born Jean-Baptiste Poquelin in Paris",
+        "answer": "Molière",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 400,
+        "question": "Kinshasa",
+        "answer": "Congo (formerly Zaire)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING!",
+        "value": 400,
+        "question": "Seen here, she's made a name for herself on & off the tennis courts",
+        "answer": "Anna Kournikova",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NESTLE'S",
+        "value": 400,
+        "question": "On Nestle's brand list, 1 of the 2 mineral waters filed under \"P\"",
+        "answer": "Perrier (or Poland Spring)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 400,
+        "question": "Country music fans often tune into TNN, which now stands for \"The National Network\", but used to stand for this",
+        "answer": "The Nashville Network",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORDS FROM CHINESE",
+        "value": 400,
+        "question": "The name of this game played with 144 tiles comes from a Chinese word meaning \"sparrows\"",
+        "answer": "Mah jongg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DRAMA & DRAMATISTS",
+        "value": 600,
+        "question": "This 1961 Tennessee Williams play takes place at the Costa Verde, a small Mexican hotel on a jungle-covered hilltop",
+        "answer": "Night of the Iguana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 600,
+        "question": "Muscat",
+        "answer": "Oman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING!",
+        "value": 600,
+        "question": "Court jeweler to Alexander III & Nicholas II, he was famous for his beautifully crafted eggs",
+        "answer": "Carl Faberge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NESTLE'S",
+        "value": 600,
+        "question": "Nestle's first non-milk product was an instant form of this in 1938",
+        "answer": "coffee (Nescafé)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 600,
+        "question": "In the 1970s this singer from Butcher Holler teamed with Conway Twitty for 5 No. 1 hits",
+        "answer": "Loretta Lynn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORDS FROM CHINESE",
+        "value": 600,
+        "question": "It's the sand-fur dog variety seen here",
+        "answer": "a shar-pei",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DRAMA & DRAMATISTS",
+        "value": 1600,
+        "question": "From 1851 to 1857 he served as writer-manager of the Norwegian Theatre in Bergen",
+        "answer": "Henrik Ibsen",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 800,
+        "question": "Dakar",
+        "answer": "Senegal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING!",
+        "value": 800,
+        "question": "A ballet by this composer features the piece heard here:[\"The Russian Dance\"]",
+        "answer": "Pyotr Tchaikovsky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NESTLE'S",
+        "value": 800,
+        "question": "In 1985 Nestle's bloomed when it acquired this American maker of evaporated milk from contented cows",
+        "answer": "Carnation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 800,
+        "question": "November 28, 1925 marked the debut of this station's \"Barn Dance\", which later became the \"Grand Ole Opry\"",
+        "answer": "WSM (\"World's Sweetest Music\")",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORDS FROM CHINESE",
+        "value": 1600,
+        "question": "\"Man herb\", an aromatic root used medicinally",
+        "answer": "ginseng",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DRAMA & DRAMATISTS",
+        "value": 1000,
+        "question": "In this Chekhov play, a merchant buys Madame Ranevsky's estate & plans to cut down its trees",
+        "answer": "The Cherry Orchard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 1000,
+        "question": "Central America's Belmopan",
+        "answer": "Belize",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE RUSSIANS ARE COMING!",
+        "value": 1000,
+        "question": "This Russian poet & author of the drama \"Boris Godunov\" died from wounds suffered in a duel in 1837",
+        "answer": "Alexander Pushkin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NESTLE'S",
+        "value": 1000,
+        "question": "Henri Nestle began his company in this country in the 1860s selling a cow's-milk food for babies",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORDS FROM CHINESE",
+        "value": 1000,
+        "question": "Gold-orange fruit seen here",
+        "answer": "a kumquat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "INTERNATIONAL STARS",
+    "clue": "Since 1978 the city of Paris has funded his Ecole Internationale de Mimodrame de Paris",
+    "answer": "Marcel Marceau"
+  },
+  "gameId": "3865",
+  "gameDate": "Friday, May 25, 2001"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #5674 - Thursday, April 16, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "THE COLD WAR",
+      "UNWRITTEN DINING-OUT RULES",
+      "COMMON BONDS",
+      "POPCORN COLONELS",
+      "THE NATURE OF THE BEAST",
+      "BODY ENGLISH"
+    ],
+    "clues": [
+      {
+        "category": "THE COLD WAR",
+        "value": 200,
+        "question": "The Cold War between the U.S. & the Soviet Union is said to have begun in this year a major hot war ended",
+        "answer": "1945",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "UNWRITTEN DINING-OUT RULES",
+        "value": 200,
+        "question": "This utensil serves a dual purpose--butter the bread & get the ketchup out of the bottle",
+        "answer": "a knife",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 200,
+        "question": "Fruit,measuring,loving",
+        "answer": "cup",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POPCORN COLONELS",
+        "value": 200,
+        "question": "He says, \"You either surf or you fight\" as Lt. Col. Kilgore in \"Apocalypse Now\"",
+        "answer": "Robert Duvall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE NATURE OF THE BEAST",
+        "value": 200,
+        "question": "Chewing & sucking are the 2 main types of these insects that cement their eggs onto feathers or hair",
+        "answer": "lice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BODY ENGLISH",
+        "value": 200,
+        "question": "\"Friends, Romans, countrymen, lend me your\" these",
+        "answer": "ears",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE COLD WAR",
+        "value": 400,
+        "question": "The USA's long involvement in this country included an effort to prop up President Diem in 1961",
+        "answer": "Vietnam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "UNWRITTEN DINING-OUT RULES",
+        "value": 400,
+        "question": "Since the syrup is on the restaurant's dime, be sure to fill up every square in the grid of this breakfast item",
+        "answer": "waffle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 400,
+        "question": "End,roulette,periodic",
+        "answer": "a table",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POPCORN COLONELS",
+        "value": 400,
+        "question": "It was Martin Mull's role in the 1985 movie \"Clue\"",
+        "answer": "Colonel Mustard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE NATURE OF THE BEAST",
+        "value": 400,
+        "question": "From its main diet of rodents & birds, you might guess a serval is a type of this animal",
+        "answer": "a (wild) cat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BODY ENGLISH",
+        "value": 400,
+        "question": "If you make your feelings known to all, you wear this \"on your sleeve\"",
+        "answer": "your heart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE COLD WAR",
+        "value": 600,
+        "question": "In a speech in Missouri in 1946, Winston Churchill declared that this division had fallen between East & West",
+        "answer": "an Iron Curtain",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "UNWRITTEN DINING-OUT RULES",
+        "value": 600,
+        "question": "Tell Grandma you will buy her some packets of Equal (they're mainly this color); there's no need to pocket them",
+        "answer": "blue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 600,
+        "question": "Bay,rose,dormer",
+        "answer": "a window",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POPCORN COLONELS",
+        "value": 600,
+        "question": "Anthony Quayle as Col. Brighton gives orders to this Peter O'Toole title character, who ignores them",
+        "answer": "Lawrence of Arabia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE NATURE OF THE BEAST",
+        "value": 600,
+        "question": "This \"hopping\" desert rodent is one of the few animals that never drink water directly",
+        "answer": "a kangaroo rat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BODY ENGLISH",
+        "value": 600,
+        "question": "Proverbially, if you take a firm stand, you've put this body part \"down\"",
+        "answer": "your foot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE COLD WAR",
+        "value": 800,
+        "question": "Declaring it permanently neutral, Western & Soviet forces withdrew in 1955 from this German-speaking nation",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "UNWRITTEN DINING-OUT RULES",
+        "value": 800,
+        "question": "If a pal offers to pay (like with this Tina Fey-endorsed charge card), say, \"You don't have to do that\" & secretly rejoice",
+        "answer": "American Express",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 800,
+        "question": "Staple,Tommy,hot glue",
+        "answer": "a gun",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POPCORN COLONELS",
+        "value": 800,
+        "question": "Al Pacino played blind ex-army colonel Frank Slade in this movie",
+        "answer": "Scent of a Woman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE NATURE OF THE BEAST",
+        "value": 800,
+        "question": "The Lamona & the Holland are popular American breeds of this bird",
+        "answer": "chickens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BODY ENGLISH",
+        "value": 800,
+        "question": "In games slang, dominoes & dice are known as these",
+        "answer": "bones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE COLD WAR",
+        "value": 1000,
+        "question": "Tool nickname for the Soviet flag, lowered for the last time over the Kremlin on December 25, 1991",
+        "answer": "hammer & sickle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "UNWRITTEN DINING-OUT RULES",
+        "value": 1000,
+        "question": "Use your own spoon if the whole table splits 1 dessert, like spumoni, a type of this treat",
+        "answer": "ice cream",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 1000,
+        "question": "Sand,salad,candy",
+        "answer": "bars",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POPCORN COLONELS",
+        "value": 1000,
+        "question": "Nick Nolte plays a colonel based on heroic Canadian Romeo Dallaire in this Africa-set 2004 film",
+        "answer": "Hotel Rwanda",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE NATURE OF THE BEAST",
+        "value": 1000,
+        "question": "A large game fish is nicknamed the muskie, which is short for this",
+        "answer": "a muskellunge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BODY ENGLISH",
+        "value": 1000,
+        "question": "6-letter slang term meaning to identify someone to the authorities",
+        "answer": "finger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE \"COLD\" WAR",
+      "BAND OF BROTHERS",
+      "SHAKESPEAREAN CHARACTERS",
+      "I LED THAT CABINET DEPARTMENT",
+      "A COUNTRY OF CENTRAL AMERICA",
+      "GIVE ME SOME DIRECTION"
+    ],
+    "clues": [
+      {
+        "category": "THE \"COLD\" WAR",
+        "value": 400,
+        "question": "Ponds is a popular brand of this product for softening & cleaning the skin",
+        "answer": "cold cream",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BAND OF BROTHERS",
+        "value": 400,
+        "question": "This band of brothers was featured in Disney Channel's 2008 movie \"Camp Rock\"",
+        "answer": "the Jonas Brothers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 400,
+        "question": "This gluttonous guy shows up in \"The Merry Wives of Windsor\" & both parts of \"Henry IV\"",
+        "answer": "Falstaff",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "I LED THAT CABINET DEPARTMENT",
+        "value": 400,
+        "question": "Robert McNamara,Donald Rumsfeld,Donald Rumsfeld (again)",
+        "answer": "Defense",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY OF CENTRAL AMERICA",
+        "value": 400,
+        "question": "On Jan. 7, 1914 the first ocean vessel passed completely through this country",
+        "answer": "Panama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME SOME DIRECTION",
+        "value": 400,
+        "question": "It's another name for the Aurora Borealis",
+        "answer": "the Northern lights",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE \"COLD\" WAR",
+        "value": 800,
+        "question": "Boundary between air masses characterized by changes in precipitation & temperature",
+        "answer": "cold front",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BAND OF BROTHERS",
+        "value": 800,
+        "question": "Identical twins Joel & Benji Madden formed this \"Good\" group in 1996",
+        "answer": "Good Charlotte",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 800,
+        "question": "This magic man is Miranda's dad",
+        "answer": "Prospero",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "I LED THAT CABINET DEPARTMENT",
+        "value": 800,
+        "question": "John Foster Dulles,Martin Van Buren,George Shultz",
+        "answer": "Secretary of State",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY OF CENTRAL AMERICA",
+        "value": 800,
+        "question": "Its national bird is the quetzal & so is its currency",
+        "answer": "Guatemala",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME SOME DIRECTION",
+        "value": 800,
+        "question": "Birds use these, also called thermal columns, to soar higher in a circular pattern",
+        "answer": "updrafts",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE \"COLD\" WAR",
+        "value": 1200,
+        "question": "The senseless, brutal murder of the Clutter family is at the heart of this work",
+        "answer": "In Cold Blood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BAND OF BROTHERS",
+        "value": 1200,
+        "question": "You might want to put a \"Wonderwall\" between this group's Liam & Noel Gallagher, who always fight",
+        "answer": "Oasis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 1200,
+        "question": "Thinking this man is the king, Hamlet kills him in Act III, Scene iv",
+        "answer": "Polonius",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "I LED THAT CABINET DEPARTMENT",
+        "value": 1200,
+        "question": "Alexander Hamilton,Lloyd Bentsen,George Shultz",
+        "answer": "Treasury",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY OF CENTRAL AMERICA",
+        "value": 1200,
+        "question": "Nobel Prize winner Oscar Arias Sanchez is its president",
+        "answer": "Costa Rica",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME SOME DIRECTION",
+        "value": 1200,
+        "question": "In Austin, Texas its boundaries are Martin Luther King Blvd., IH-35, Town Lake & Lamar Blvd.",
+        "answer": "downtown",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE \"COLD\" WAR",
+        "value": 1600,
+        "question": "The hypothetical mixing of atomic nuclei at a low pressure & near room temperature",
+        "answer": "cold fusion",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BAND OF BROTHERS",
+        "value": 1600,
+        "question": "An Australian band called the Farriss Brothers got this new name & hit the Top 40 with songs like \"Devil Inside\"",
+        "answer": "INXS",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 1600,
+        "question": "This friend of Romeo's declares, \"A plague on both your houses\"",
+        "answer": "Mercutio",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "I LED THAT CABINET DEPARTMENT",
+        "value": 1600,
+        "question": "Elizabeth Dole,Robert Reich,George Shultz",
+        "answer": "Labor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY OF CENTRAL AMERICA",
+        "value": 1600,
+        "question": "It's the only Central American country with English as an official language",
+        "answer": "Belize",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME SOME DIRECTION",
+        "value": 1600,
+        "question": "(Jon of the Clue Crew reports from a helicopter airfield at Marine Base Quantico.)  The aircraft of marine Helicopter Squadron 1 take off from here at Quantico to pick up the president at this area outside the White House",
+        "answer": "the South Lawn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE \"COLD\" WAR",
+        "value": 2000,
+        "question": "Pro wrestler Steve Austin's nickname",
+        "answer": "Stone Cold",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BAND OF BROTHERS",
+        "value": 2000,
+        "question": "Don of these \"Bye Bye Love\" bros is 2 years older than Phil",
+        "answer": "The Everly Brothers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 2000,
+        "question": "Later Richard III, the Duke of this refers to \"the winter of our discontent\"",
+        "answer": "Gloucester",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "I LED THAT CABINET DEPARTMENT",
+        "value": 2000,
+        "question": "Harold Ickes,Albert Fall,James Watt",
+        "answer": "the Department of the Interior",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY OF CENTRAL AMERICA",
+        "value": 2000,
+        "question": "In the 1980s its government fought a rebel group abbreviated FMLN",
+        "answer": "El Salvador",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GIVE ME SOME DIRECTION",
+        "value": 2000,
+        "question": "Directional name for about 220 million Christians, many in Greece & Russia",
+        "answer": "Eastern Orthodox",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN BUSINESS",
+    "clue": "On Sept. 29, 2008 every stock in the S&P 500 dropped except this maker of comforting food, founded in 1869",
+    "answer": "Campbell's"
+  },
+  "gameId": "5674",
+  "gameDate": "Thursday, April 16, 2009"
+}

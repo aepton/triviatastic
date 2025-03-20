@@ -1,0 +1,574 @@
+{
+  "title": "Show #7300 - Friday, May 13, 2016",
+  "jeopardyRound": {
+    "categories": [
+      "AN ORANGE FOR TEACHER",
+      "TV SHOWS BY EPISODE TITLE",
+      "THE QUOTABLE BEN FRANKLIN",
+      "EERIE",
+      "SUPERIOR",
+      "OTHER GREAT LAKES"
+    ],
+    "clues": [
+      {
+        "category": "AN ORANGE FOR TEACHER",
+        "value": 200,
+        "question": "Seville oranges are big in making this preserve, a word from the Portuguese",
+        "answer": "marmalade",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 200,
+        "question": "\"The Prince of Winterfell\"(2012)",
+        "answer": "Game of Thrones",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE QUOTABLE BEN FRANKLIN",
+        "value": 200,
+        "question": "His \"Advice to a Young Tradesman\": \"Remember that\" this \"is Money\"",
+        "answer": "Time",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EERIE",
+        "value": 200,
+        "question": "Ghostly sightings at Hampton Court Palace include one of Catherine Howard, wife of this monarch who had her executed",
+        "answer": "Henry VIII",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SUPERIOR",
+        "value": 200,
+        "question": "Money proved superior to this system of swapping goods, as it was hard walking around with a cow or a sack of pears",
+        "answer": "bartering",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OTHER GREAT LAKES",
+        "value": 200,
+        "question": "Great Sacandaga Lake in this state helps regulate the flow of the Hudson",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AN ORANGE FOR TEACHER",
+        "value": 400,
+        "question": "The outside of an orange is the peel; this 4-letter term also starting with \"P\" is the white substance between the peel & flesh",
+        "answer": "the pith",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 400,
+        "question": "\"The Ricardos Change Apartments\"(1953)",
+        "answer": "I Love Lucy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE QUOTABLE BEN FRANKLIN",
+        "value": 400,
+        "question": "\"In this world nothing can be... certain, except\" these 2 things",
+        "answer": "death & taxes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EERIE",
+        "value": 400,
+        "question": "A giant one of these 5-pointed stars showed up on a lakeside during a Google Earth map survey over Kazakhstan",
+        "answer": "a pentagram",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SUPERIOR",
+        "value": 400,
+        "question": "In 1797 Charles Newbold patented a cast-iron one--better than wood, but farmers worried it would poison the soil",
+        "answer": "a plow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OTHER GREAT LAKES",
+        "value": 400,
+        "question": "Great Lake is the name of one of the largest lakes in this Australian island state",
+        "answer": "Tasmania",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AN ORANGE FOR TEACHER",
+        "value": 600,
+        "question": "If I may be sanguine, Sicily is a major producer of this sweet-tart dessert orange",
+        "answer": "a blood orange",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 600,
+        "question": "\"Welcome to the Hellmouth\"(1997)",
+        "answer": "Buffy the Vampire Slayer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE QUOTABLE BEN FRANKLIN",
+        "value": 600,
+        "question": "\"There never was a good war or\" this",
+        "answer": "a bad peace",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EERIE",
+        "value": 600,
+        "question": "Using sonar, even deeper parts of this largest freshwater lake in Britain have been found; make room for plesiosaurs!",
+        "answer": "Loch Ness",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SUPERIOR",
+        "value": 600,
+        "question": "During the 17th c. this scientific instrument was improved by making it reflecting, starting with Zucchi's circa 1616",
+        "answer": "a telescope",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OTHER GREAT LAKES",
+        "value": 600,
+        "question": "In Utah it receives the Jordan & Weber Rivers",
+        "answer": "the Great Salt Lake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AN ORANGE FOR TEACHER",
+        "value": 800,
+        "question": "Milk, water, sugar, vanilla, ice cubes & of course, frozen O.J. are in food.com's recipe for this other \"O.J.\"",
+        "answer": "an Orange Julius",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 800,
+        "question": "\"The Separation Oscillation\"(2015)",
+        "answer": "The Big Bang Theory",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE QUOTABLE BEN FRANKLIN",
+        "value": 800,
+        "question": "These \"and visitors stink in three days\"",
+        "answer": "fish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EERIE",
+        "value": 800,
+        "question": "In the Southwest there've been reports of livestock being killed by this cryptid creature, Spanish for \"goat sucker\"",
+        "answer": "la chupacabra",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SUPERIOR",
+        "value": 800,
+        "question": "This method of printing, whose elements are seen here, was long superior in China with its pictorial writing",
+        "answer": "block printing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OTHER GREAT LAKES",
+        "value": 800,
+        "question": "Great Bitter Lake is a marshy lake in Egypt that forms part of this manmade waterway",
+        "answer": "the Suez Canal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AN ORANGE FOR TEACHER",
+        "value": 1000,
+        "question": "Loose-skinned oranges like the Clementine are this kind of orange, also the name of a language",
+        "answer": "mandarin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 1000,
+        "question": "\"Say My Name\"(2012)",
+        "answer": "Breaking Bad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE QUOTABLE BEN FRANKLIN",
+        "value": 1000,
+        "question": "From this game \"we may learn... foresight... circumspection... caution... and... the habit of not being discouraged\"",
+        "answer": "chess",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EERIE",
+        "value": 1000,
+        "question": "In Victorian times loved ones were often immortalized in death photos called these, Latin for \"remember that you must die\"",
+        "answer": "memento mori",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SUPERIOR",
+        "value": 1000,
+        "question": "In a slogan at the start of the Iraq War in 2003, U.S. air superiority was to instill these paired feelings in Iraqis",
+        "answer": "shock & awe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OTHER GREAT LAKES",
+        "value": 1000,
+        "question": "The fourth-largest lake in North America, it was named for the large mammals that inhabited its shores",
+        "answer": "Great Bear Lake",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ART & ARTISTS",
+      "COMMUNICATION",
+      "AFRICAN-AMERICAN AUTHORS",
+      "STUDY HALL",
+      "SAME FIRST & LAST LETTER",
+      "COUNTRY MUSIC"
+    ],
+    "clues": [
+      {
+        "category": "ART & ARTISTS",
+        "value": 400,
+        "question": "Born in 1577 & named for two saints, he's the Flemish master seen here in a self-portrait",
+        "answer": "Peter Paul Rubens",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COMMUNICATION",
+        "value": 400,
+        "question": "Harry Obst helped 7 presidents communicate with German leaders & wrote the book \"White House\" this job",
+        "answer": "Interpreter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AFRICAN-AMERICAN AUTHORS",
+        "value": 400,
+        "question": "The title character in Ralph Ellison's \"Invisible Man\" moves from the Deep South to this New York City district",
+        "answer": "Harlem",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STUDY HALL",
+        "value": 400,
+        "question": "Yale's Peabody Museum features \"The Great Hall of\" these mighty extinct creatures",
+        "answer": "Dinosaurs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SAME FIRST & LAST LETTER",
+        "value": 400,
+        "question": "It means pertaining to the tongue",
+        "answer": "lingual",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 400,
+        "question": "The Beatles,1968:\"Back In The ____\"",
+        "answer": "USSR",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 800,
+        "question": "His home & gardens in Giverny have been open to the public since 1980",
+        "answer": "Monet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COMMUNICATION",
+        "value": 800,
+        "question": "Sherlock Holmes often hears of new developments in a case via this, aka \"the Victorian Internet\"",
+        "answer": "telegraph",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AFRICAN-AMERICAN AUTHORS",
+        "value": 800,
+        "question": "In 1998 author Gloria Naylor revisited this title \"Place\", this time giving \"The Men\" a chance to be heard from",
+        "answer": "Brewster Place",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STUDY HALL",
+        "value": 800,
+        "question": "Jann Wenner of Rolling Stone helped to establish this in Cleveland in 1983",
+        "answer": "the Rock and Roll Hall of Fame",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SAME FIRST & LAST LETTER",
+        "value": 800,
+        "question": "A pointy part of a fishhook, or a pointedly unpleasant remark",
+        "answer": "a barb",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 800,
+        "question": "Chuck Berry,1959:\"Back In The ____\"",
+        "answer": "USA",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 1200,
+        "question": "He hadn't yet invented Pointillism when he did the painting seen here, his first large-scale work",
+        "answer": "Seurat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COMMUNICATION",
+        "value": 1200,
+        "question": "On film Ringo Starr played Atouk, this title type of \"man\", whose language included ool (\"food\") & haraka (\"fire\")",
+        "answer": "a caveman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AFRICAN-AMERICAN AUTHORS",
+        "value": 1200,
+        "question": "Walter Mosley's \"Devil in a Blue Dress\" saw the 1st appearance of this \"effortless\" detective in 1940s Los Angeles",
+        "answer": "Easy Rawlins",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STUDY HALL",
+        "value": 1200,
+        "question": "Royal Albert Hall had a record crowd of 9,000 in 1906 when folks listened to one of these newfangled inventions",
+        "answer": "a phonograph",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SAME FIRST & LAST LETTER",
+        "value": 1200,
+        "question": "A cabbie with an empty taxi may go to the airport to make this",
+        "answer": "a pickup",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 1200,
+        "question": "U2,2009:\"Cedars Of ____\"",
+        "answer": "Lebanon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 1600,
+        "question": "You can see his \"Jane Avril Leaving the Moulin Rouge\" at the Wadsworth Atheneum in Hartford",
+        "answer": "Toulouse-Lautrec",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COMMUNICATION",
+        "value": 1600,
+        "question": "From March to May of 1932, the Lindbergh family received 13 of these criminal communications",
+        "answer": "ransom notes",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AFRICAN-AMERICAN AUTHORS",
+        "value": 1600,
+        "question": "Anthony is the middle name of this award-winning author who released her 11th novel, \"God Help the Child\", in 2015",
+        "answer": "Toni Morrison",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STUDY HALL",
+        "value": 1600,
+        "question": "The Galerie des Glaces, or Hall of Mirrors, is quite a site at this onetime royal residence",
+        "answer": "Versailles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SAME FIRST & LAST LETTER",
+        "value": 1600,
+        "question": "It's the list of all the available players you can use in your team's lineup",
+        "answer": "the roster",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 1600,
+        "question": "David Bowie,1983:\"____ Girl\"",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 2000,
+        "question": "The painting seen here is one of eight scenes that make up this Brit's \"A Rake's Progress\"",
+        "answer": "(William) Hogarth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COMMUNICATION",
+        "value": 2000,
+        "question": "You won't be able to make out the message if there's too low an S/N ratio, S/N standing for this",
+        "answer": "signal-to-noise",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AFRICAN-AMERICAN AUTHORS",
+        "value": 2000,
+        "question": "Chester Himes explored racism in this book whose 6-word title is in the rhyme \"Eeny-Meeny-Miney-Mo\"",
+        "answer": "If He Hollers Let Him Go",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STUDY HALL",
+        "value": 2000,
+        "question": "The attempted coup d'etat known by this name began at the Burgerbraukeller on Nov. 8, 1923",
+        "answer": "the Beer Hall Putsch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SAME FIRST & LAST LETTER",
+        "value": 2000,
+        "question": "Used to help eliminate distortion, it's the type of map projection seen here",
+        "answer": "conic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 2000,
+        "question": "The Dead Kennedys,1980:\"Holiday In ____\"",
+        "answer": "Cambodia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "20th CENTURY PRESIDENTIAL CANDIDATES",
+    "clue": "He was awarded a DFC in WWII for a combat mission as pilot of the B-24 bomber he named the \"Dakota Queen\"",
+    "answer": "George McGovern"
+  },
+  "gameId": "7300",
+  "gameDate": "Friday, May 13, 2016"
+}

@@ -1,0 +1,565 @@
+{
+  "title": "Show #3771 - Monday, January 15, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "OKLAHOMA IS OK",
+      "COUNTRY MUSIC",
+      "PIG LIT",
+      "HOMOPHONES",
+      "THE CANDY COUNTER",
+      "PLEASE SIR, I WANT SOME MOORE"
+    ],
+    "clues": [
+      {
+        "category": "OKLAHOMA IS OK",
+        "value": 100,
+        "question": "Born in Shawnee, Oklahoma in 1963, he's People Magazine's Sexiest Man Alive for the second time",
+        "answer": "Brad Pitt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 100,
+        "question": "On March 16, 1974 this president played \"God Bless America\" on the piano at the dedication of the new Opry house",
+        "answer": "Richard M. Nixon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PIG LIT",
+        "value": 100,
+        "question": "This 1995 film is based on the book \"The Sheep-Pig\"",
+        "answer": "Babe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 100,
+        "question": "To wander, or a European capital",
+        "answer": "Roam/Rome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE CANDY COUNTER",
+        "value": 100,
+        "question": "While the Mounds bar was introduced in 1920, this nutty counterpart didn't appear until 1946",
+        "answer": "Almond Joy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PLEASE SIR, I WANT SOME MOORE",
+        "value": 100,
+        "question": "Brat Packer haunted by Patrick Swayze in \"Ghost\"",
+        "answer": "Demi Moore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA IS OK",
+        "value": 200,
+        "question": "This school in Stillwater opened in the 1890s as the Oklahoma Agricultural & Mechanical College",
+        "answer": "Oklahoma State University",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 200,
+        "question": "From 1980 through 1993, this \"stately\" group led by Randy Owen had 32 of its 42 charted singles reach No. 1",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PIG LIT",
+        "value": 200,
+        "question": "Piggy is one of the boys stranded on a desert island in his \"Lord of the Flies\"",
+        "answer": "William Golding",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 200,
+        "question": "A big gun, or a book of religious law",
+        "answer": "Cannon/canon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE CANDY COUNTER",
+        "value": 200,
+        "question": "These malted milk balls were first sold unwrapped, 2 for a penny; today they come in milk carton packaging",
+        "answer": "Whoppers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PLEASE SIR, I WANT SOME MOORE",
+        "value": 200,
+        "question": "The Lone Ranger",
+        "answer": "Clayton Moore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA IS OK",
+        "value": 600,
+        "question": "This Apache leader was a prisoner of war at Oklahoma's Fort Sill from 1894 until his death in 1909",
+        "answer": "Geronimo",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 300,
+        "question": "She's the famous fiddler & singer seen here",
+        "answer": "Alison Krauss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PIG LIT",
+        "value": 300,
+        "question": "In \"Charlotte's Web\", Charlotte helps keep this pig from becoming Christmas dinner",
+        "answer": "Wilbur",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 300,
+        "question": "A member of a royal family, or some photographs",
+        "answer": "Prince/prints",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE CANDY COUNTER",
+        "value": 300,
+        "question": "Fire Stix was the first flavor of this candy to be introduced",
+        "answer": "Jolly Rancher",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PLEASE SIR, I WANT SOME MOORE",
+        "value": 300,
+        "question": "A big screen Bond",
+        "answer": "Roger Moore",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA IS OK",
+        "value": 400,
+        "question": "Peter Sellers could tell you that the \"Pink Panther\" movies were produced & directed by this Oklahomie",
+        "answer": "Blake Edwards",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 400,
+        "question": "Released in May 1992, his debut album \"Some Gave All\" was certified triple platinum by July",
+        "answer": "Billy Ray Cyrus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PIG LIT",
+        "value": 400,
+        "question": "This author wrote about Piglet, a toy that had been a gift to his son from a neighbor",
+        "answer": "A.A. Milne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 400,
+        "question": "Large ocean mammals, or a small division of Great Britain",
+        "answer": "Whales/Wales",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE CANDY COUNTER",
+        "value": 400,
+        "question": "A little birdie told me these classic candies are simply licorice-flavored dots",
+        "answer": "Crows",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PLEASE SIR, I WANT SOME MOORE",
+        "value": 400,
+        "question": "A would-be Gerald Ford assassin",
+        "answer": "Sara Jane Moore",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA IS OK",
+        "value": 500,
+        "question": "As it crosses Oklahoma, U.S. Highway 81 follows or parallels this famous 1800s cattle trail",
+        "answer": "Chisholm Trail",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PIG LIT",
+        "value": 500,
+        "question": "Ferocious man-eating wild boars appear in this author's \"Hannibal\"",
+        "answer": "Thomas Harris",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 500,
+        "question": "Masticates, or select",
+        "answer": "Chews/choose",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE CANDY COUNTER",
+        "value": 500,
+        "question": "A baby's first words might be the name of this chocolate, peanut, marshmallow & caramel treat created in 1912",
+        "answer": "Goo Goo Cluster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PLEASE SIR, I WANT SOME MOORE",
+        "value": 500,
+        "question": "His handiwork is seen here(\"Locking Piece\")",
+        "answer": "Henry Moore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MARTIN LUTHER KING, JR.",
+      "OLD MOVIES",
+      "THE BIBLE",
+      "THE WEATHER FORECAST",
+      "GET TO WORK",
+      "BEGINS & ENDS WITH \"N\""
+    ],
+    "clues": [
+      {
+        "category": "MARTIN LUTHER KING, JR.",
+        "value": 200,
+        "question": "(Hi, I'm Yolanda King)  In 1963 my father delivered his \"I Have A Dream\" speech before this monument in Washington, D.C.",
+        "answer": "Lincoln Memorial",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OLD MOVIES",
+        "value": 200,
+        "question": "Jimmy Stewart fights kidnappers in \"The Man Who Knew\" this",
+        "answer": "Too Much",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "God actually told him to transport 7 pairs of each clean animal",
+        "answer": "Noah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE WEATHER FORECAST",
+        "value": 200,
+        "question": "Expect cloudy days when a cold one of these catches a warm one & forms an occluded one",
+        "answer": "Front",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GET TO WORK",
+        "value": 200,
+        "question": "A dentist may employ 1 or more of these licensed technicians to clean teeth & to provide other preventive care",
+        "answer": "Hygienist",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"N\"",
+        "value": 200,
+        "question": "On TV Sally Field played a flying one",
+        "answer": "Nun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MARTIN LUTHER KING, JR.",
+        "value": 400,
+        "question": "(Hi, I'm Reverend Bernice A. King)  As an advocate of nonviolence, my father, Martin Luther King, Jr., embraced the philosophy & teachings of this Indian leader",
+        "answer": "Mahatma Gandhi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OLD MOVIES",
+        "value": 400,
+        "question": "In \"Safari\", Victor Mature gets the girl played by this actress seen here",
+        "answer": "Janet Leigh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "Mary \"brought forth her firstborn son, and wrapped him in\" these, \"and laid him in a manger\"",
+        "answer": "Swaddling clothes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE WEATHER FORECAST",
+        "value": 400,
+        "question": "This type of air from above 66 degrees north latitude will send the mercury falling",
+        "answer": "Arctic air",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GET TO WORK",
+        "value": 400,
+        "question": "Apothecary is an old-fashioned term for this professional",
+        "answer": "Pharmacist",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"N\"",
+        "value": 400,
+        "question": "This automaker has asked you to \"Enjoy the Ride\" in its models that include the Sentra, Altima & Maxima",
+        "answer": "Nissan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MARTIN LUTHER KING, JR.",
+        "value": 600,
+        "question": "(Hi, I'm Christine King Farris)  As a student at Morehouse College, my brother was inspired by this writer's essay on \"Civil Disobedience\"",
+        "answer": "Henry David Thoreau",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OLD MOVIES",
+        "value": 600,
+        "question": "This musical opens at the premiere of a movie starring Gene Kelly's & Jean Hagen's characters",
+        "answer": "Singin' in the Rain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 1200,
+        "question": "Absalom was killed during a rebellion against this man, his father",
+        "answer": "David",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE WEATHER FORECAST",
+        "value": 600,
+        "question": "Don't worry about Ulka yet -- she's not a hurricane, just one of these \"storms\" with winds over 38 MPH",
+        "answer": "Tropical storm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GET TO WORK",
+        "value": 600,
+        "question": "From the Latin word for \"wine\", it's a person who makes or sells wine",
+        "answer": "Vintner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"N\"",
+        "value": 1200,
+        "question": "It's usually used to describe a treaty calling for the cessation of the spread of nuclear weapons",
+        "answer": "Non-proliferation",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MARTIN LUTHER KING, JR.",
+        "value": 800,
+        "question": "(Hi, I'm Martin Luther King III)  In 1998 I became president of this organization co-founded by my father & known as the SCLC for short",
+        "answer": "Southern Christian Leadership Conference",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OLD MOVIES",
+        "value": 800,
+        "question": "Norma Shearer played Elizabeth Barrett Browning in a 1934 film version of \"The Barretts of\" this street",
+        "answer": "Wimpole Street",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 800,
+        "question": "Shamgar the judge passed sentences on 600 Philistines by killing them with a goad for this animal",
+        "answer": "Ox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE WEATHER FORECAST",
+        "value": 800,
+        "question": "Brace yourself for storms -- we're in one of these elongated low-pressure areas, like a hungry pig",
+        "answer": "Trough",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GET TO WORK",
+        "value": 800,
+        "question": "The manager of a hotel or the headwaiter at a restaurant often goes by this French title",
+        "answer": "Maitre d'",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"N\"",
+        "value": 800,
+        "question": "A slang term for the head, it can also be a small mug or cup",
+        "answer": "Noggin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MARTIN LUTHER KING, JR.",
+        "value": 1000,
+        "question": "(Yolanda King speaking)  In 1960 my father, MLK Jr., joined my grandfather as co-pastor of this Baptist church in Atlanta",
+        "answer": "Ebenezer Baptist Church",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OLD MOVIES",
+        "value": 1000,
+        "question": "This director made a splash with the 1962 film \"Noz W Wodzie\" or \"Knife in the Water\"",
+        "answer": "Roman Polanski",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 1000,
+        "question": "While this king was boasting about Babylon, a voice from heaven said, \"The kingdom is departed from thee\"",
+        "answer": "Nebuchadnezzar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE WEATHER FORECAST",
+        "value": 1000,
+        "question": "Poor air quality will result from this layer in which the atmosphere warms as you go higher",
+        "answer": "Inversion layer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GET TO WORK",
+        "value": 1000,
+        "question": "It's a type of criminal, or a person who heats & hammers metal into shape",
+        "answer": "Forger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"N\"",
+        "value": 1000,
+        "question": "A 9-sided closed plane figure",
+        "answer": "Nonagon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "DESIGN",
+    "clue": "Introduced to desktops in 1950, it was designed by Arnold Neustadter & featured a ball-bearing clutch",
+    "answer": "Rolodex"
+  },
+  "gameId": "3771",
+  "gameDate": "Monday, January 15, 2001"
+}

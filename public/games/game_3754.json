@@ -1,0 +1,574 @@
+{
+  "title": "Show #6241 - Monday, November 7, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "ON A U.S. POSTAGE STAMP",
+      "SPORTS NUMBERS",
+      "HOMOPHONIC PAIRS",
+      "PLANET OF THE CORGIS",
+      "THE CARIBBEAN",
+      "SCIENCE \"K\"LASS"
+    ],
+    "clues": [
+      {
+        "category": "ON A U.S. POSTAGE STAMP",
+        "value": 200,
+        "question": "Ray Harroun driving No. 32, his Marmon Wasp, to commemorate the centennial of this race",
+        "answer": "the Indianapolis 500",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS NUMBERS",
+        "value": 200,
+        "question": "Points for a touchdown plus a 2-point conversion",
+        "answer": "8",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HOMOPHONIC PAIRS",
+        "value": 200,
+        "question": "Ongoing TV drama about Cap'n Crunch or Cheerios",
+        "answer": "a cereal serial",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PLANET OF THE CORGIS",
+        "value": 200,
+        "question": "People in Cardiff know that the 2 types of corgi each have this nationality in their names",
+        "answer": "Welsh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE CARIBBEAN",
+        "value": 200,
+        "question": "These areas not for the shy include parts of Jamaica's Seven Mile Beach & of course Booby Cay, just offshore",
+        "answer": "nudist beaches",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SCIENCE \"K\"LASS",
+        "value": 200,
+        "question": "Almost exactly equal to the mass of 1,000 cubic centimeters of water, it's a base unit in the metric system",
+        "answer": "a kilogram",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ON A U.S. POSTAGE STAMP",
+        "value": 400,
+        "question": "This ovine critter seen here on a 17-cent stamp",
+        "answer": "a bighorn sheep",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS NUMBERS",
+        "value": 400,
+        "question": "Number of RBIs credited to a batter who hits a grand slam",
+        "answer": "4",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HOMOPHONIC PAIRS",
+        "value": 400,
+        "question": "Adam & Eve's competent son",
+        "answer": "able Abel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PLANET OF THE CORGIS",
+        "value": 400,
+        "question": "This author who wrote about a rabid St. Bernard owns corgis & featured one in his novel \"Under the Dome\"",
+        "answer": "(Stephen) King",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE CARIBBEAN",
+        "value": 400,
+        "question": "The island of St. Eustatius has a holiday on Nov. 16, the date in this year it gave the 1st official salute to a U.S. ship",
+        "answer": "1776",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SCIENCE \"K\"LASS",
+        "value": 400,
+        "question": "Just add 273.15 to your Celsius reading to get this",
+        "answer": "kelvin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ON A U.S. POSTAGE STAMP",
+        "value": 600,
+        "question": "Oveta Culp Hobby, who helped form this, WAC for short",
+        "answer": "the Women's Army Corps",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS NUMBERS",
+        "value": 600,
+        "question": "Number of seconds in a full NBA shot clock",
+        "answer": "24",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HOMOPHONIC PAIRS",
+        "value": 600,
+        "question": "Bad-smelling chicken or turkey",
+        "answer": "foul fowl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PLANET OF THE CORGIS",
+        "value": 600,
+        "question": "Here's our friend the corgi taking this future world leader for a walk in Hyde Park around 1940",
+        "answer": "Queen Elizabeth II",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE CARIBBEAN",
+        "value": 600,
+        "question": "The Casals Festival in this Puerto Rican city is one of the Caribbean's best-known cultural events",
+        "answer": "San Juan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SCIENCE \"K\"LASS",
+        "value": 600,
+        "question": "This noble gas used in high-speed photography lamps takes its name from the Greek for \"hidden\"",
+        "answer": "krypton",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ON A U.S. POSTAGE STAMP",
+        "value": 800,
+        "question": "The dinnerware seen here with this Spanish name",
+        "answer": "Fiestaware",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS NUMBERS",
+        "value": 800,
+        "question": "An NHL team killing a penalty normally has this many guys on the ice",
+        "answer": "5",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HOMOPHONIC PAIRS",
+        "value": 800,
+        "question": "Monetary gain for a person who speaks for God",
+        "answer": "prophet profit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PLANET OF THE CORGIS",
+        "value": 800,
+        "question": "The dorgi is a dog produced when a corgi mates with this similar-looking breed",
+        "answer": "a dachshund",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE CARIBBEAN",
+        "value": 800,
+        "question": "The boulders seen here, known as \"the Baths\", are an attraction in this group, known as the BVI",
+        "answer": "the British Virgin Islands",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SCIENCE \"K\"LASS",
+        "value": 800,
+        "question": "A substance to start a fire, or the point that's the lowest temperature at which something will autoignite",
+        "answer": "the kindling point",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ON A U.S. POSTAGE STAMP",
+        "value": 1000,
+        "question": "This herb, Salvia officinalis",
+        "answer": "sage",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS NUMBERS",
+        "value": 1000,
+        "question": "If you win the first point of a tennis game, you have this number as your score",
+        "answer": "15",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HOMOPHONIC PAIRS",
+        "value": 1000,
+        "question": "A mixture of 2 languages spoken by a plentiful city bird",
+        "answer": "pigeon pidgin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PLANET OF THE CORGIS",
+        "value": 1000,
+        "question": "Once members of the AKC's working group, corgis are now classified in this group, as they were bred to handle cattle",
+        "answer": "herding dogs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE CARIBBEAN",
+        "value": 1000,
+        "question": "You might see Oscar de la Renta around Punta Cana, on the eastern tip of Hispaniola in this country",
+        "answer": "the Dominican Republic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SCIENCE \"K\"LASS",
+        "value": 1000,
+        "question": "Macrocystis, this type of seaweed, can be 200 feet long",
+        "answer": "kelp",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "VERSE CASE SCENARIO",
+      "CHARACTERS FROM MOVIES",
+      "WHAT'D YOU CATCH?",
+      "9-LETTER WORDS",
+      "NOTABLE WOMEN",
+      "TREASURES OF THE NEW-YORK HISTORICAL SOCIETY"
+    ],
+    "clues": [
+      {
+        "category": "VERSE CASE SCENARIO",
+        "value": 400,
+        "question": "This 2-letter word is the title & first word of Kipling's poem that ends, \"You'll be a man, my son!\"",
+        "answer": "if",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS FROM MOVIES",
+        "value": 400,
+        "question": "1987:Inigo Montoya,Prince Humperdinck,Fezzik",
+        "answer": "The Princess Bride",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHAT'D YOU CATCH?",
+        "value": 400,
+        "question": "A bullhead type of this, genus Ameiurus",
+        "answer": "a catfish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "9-LETTER WORDS",
+        "value": 400,
+        "question": "To pump, fade or hang ten, you'll need this piece of equipment",
+        "answer": "a surfboard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 400,
+        "question": "This first woman on the Supreme Court left the court in 2006",
+        "answer": "Sandra Day O'Connor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TREASURES OF THE NEW-YORK HISTORICAL SOCIETY",
+        "value": 400,
+        "question": "This man slept here--no, really--during the Revolutionary War",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "VERSE CASE SCENARIO",
+        "value": 800,
+        "question": "She wrote, \"Dying is an art, like everything else.  I do it exceptionally well.  I do it so it feels like hell\"",
+        "answer": "Sylvia Plath",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS FROM MOVIES",
+        "value": 800,
+        "question": "2008:Kirk Lazarus,Tugg Speedman",
+        "answer": "Tropic Thunder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHAT'D YOU CATCH?",
+        "value": 800,
+        "question": "After a struggle, not a fish, but an Eagle GT tire from this maker",
+        "answer": "Goodyear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "9-LETTER WORDS",
+        "value": 800,
+        "question": "Chemical weedkiller",
+        "answer": "an herbicide",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 800,
+        "question": "Her grave marker in Africa says, \"No one loved gorillas more\"",
+        "answer": "(Dian) Fossey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TREASURES OF THE NEW-YORK HISTORICAL SOCIETY",
+        "value": 800,
+        "question": "John J. Audubon never made it to California; he painted this vulture species from a dead specimen",
+        "answer": "a California condor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "VERSE CASE SCENARIO",
+        "value": 1200,
+        "question": "This Chilean poet wrote, \"I crave your mouth, your voice, your hair\"",
+        "answer": "(Pablo) Neruda",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS FROM MOVIES",
+        "value": 1200,
+        "question": "1978:Dean Vernon Wormer,Doug Neidermeyer",
+        "answer": "National Lampoon's Animal House",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHAT'D YOU CATCH?",
+        "value": 1200,
+        "question": "Not a starfish, but this heavenly one",
+        "answer": "a sunfish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "9-LETTER WORDS",
+        "value": 1200,
+        "question": "This removable footway connects a ship with a pier",
+        "answer": "a gangplank",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 1200,
+        "question": "Isak Dinesen wrote in both English & this, her native language",
+        "answer": "Danish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TREASURES OF THE NEW-YORK HISTORICAL SOCIETY",
+        "value": 1200,
+        "question": "John Jay's \"In Relation to Foreign Nations\" is one of just four extant manuscripts in the series known as these \"Papers\"",
+        "answer": "The Federalist Papers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "VERSE CASE SCENARIO",
+        "value": 1600,
+        "question": "She began a poem, \"What lips my lips have kissed, and where, and why, I have forgotten\"",
+        "answer": "Edna St. Vincent Millay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS FROM MOVIES",
+        "value": 1600,
+        "question": "1989:Lloyd Dobler,Diane Court",
+        "answer": "Say Anything...",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHAT'D YOU CATCH?",
+        "value": 1600,
+        "question": "A cold, while fishing nearly 200-square-mile Flathead Lake in this northern state",
+        "answer": "Montana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "9-LETTER WORDS",
+        "value": 1600,
+        "question": "This type of computer program is available for free on a trial basis; then a fee is paid for continued usage",
+        "answer": "shareware",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 1600,
+        "question": "This Italian-born woman was famous for her educational methods",
+        "answer": "(Maria) Montessori",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TREASURES OF THE NEW-YORK HISTORICAL SOCIETY",
+        "value": 1600,
+        "question": "New York City is the finish line of the 73-step board game called \"Round the World with\" this adventuress",
+        "answer": "Nellie Bly",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "VERSE CASE SCENARIO",
+        "value": 2000,
+        "question": "Longfellow: \"Behind the clouds is the sun still shining; thy fate is the common fate of all, into each life\" these 4 words",
+        "answer": "\"some rain must fall\"",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS FROM MOVIES",
+        "value": 2000,
+        "question": "1982:King Kaiser,Alan Swann",
+        "answer": "My Favorite Year",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHAT'D YOU CATCH?",
+        "value": 2000,
+        "question": "This fish with a beach city just south of Boca Raton named for it",
+        "answer": "a pompano",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "9-LETTER WORDS",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew rubs her finger on a glass.)  Rubbing your finger on the rim causes the glass to vibrate; the sound's pitch is due to this 9-letter term, the number of vibrations per second",
+        "answer": "frequency",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 2000,
+        "question": "Piloting Vostok 6, she orbited the Earth 48 times during her trip into space in 1963",
+        "answer": "(Valentina) Tereshkova",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TREASURES OF THE NEW-YORK HISTORICAL SOCIETY",
+        "value": 2000,
+        "question": "In November of 1776 more than 700 New Yorkers loyal to Britain signed what's known as the \"Declaration of\" this",
+        "answer": "Dependence",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FROM THE GREEK",
+    "clue": "The word for a song element you won't find in instrumentals comes from the name of this instrument",
+    "answer": "a lyre"
+  },
+  "gameId": "6241",
+  "gameDate": "Monday, November 7, 2011"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #8029 - Thursday, July 4, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "APPLE",
+      "GRANNY SMITH",
+      "GALA",
+      "JAZZ",
+      "FUJI",
+      "RED, DELICIOUS"
+    ],
+    "clues": [
+      {
+        "category": "APPLE",
+        "value": 200,
+        "question": "Steve Wozniak said this co-founder came up with the name Apple after working at an orchard in Oregon",
+        "answer": "Steve Jobs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GRANNY SMITH",
+        "value": 200,
+        "question": "Rosalynn Smith got married in Plains, Georgia in 1946, took this new surname & went on to have 12 grandkids",
+        "answer": "Carter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GALA",
+        "value": 200,
+        "question": "\"Evening in the Stacks\" galas, held in various communities, benefit local ones of these places",
+        "answer": "libraries",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "JAZZ",
+        "value": 200,
+        "question": "\"Miles Ahead\" is a classic 1957 album by this trumpeter",
+        "answer": "Miles Davis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FUJI",
+        "value": 200,
+        "question": "A cultural & spiritual symbol of its nation, Mt. Fuji appears on the Japanese banknote valued 1,000 of these",
+        "answer": "yen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RED, DELICIOUS",
+        "value": 200,
+        "question": "The shells of the Maine type of this crustacean turn bright red only after cooking",
+        "answer": "lobster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "APPLE",
+        "value": 400,
+        "question": "In a 2011 press conference, \"she\" called herself \"a humble personal assistant\"",
+        "answer": "Siri",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GRANNY SMITH",
+        "value": 400,
+        "question": "This dame went with one of her grandkids to the premier of \"Harry Potter and the Chamber of Secrets\", which she had a role in",
+        "answer": "Maggie Smith",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GALA",
+        "value": 400,
+        "question": "This Brit took from the rich & gave to the poor & a charity named for him does the same; its annual gala can bring in $50 million plus",
+        "answer": "Robin Hood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "JAZZ",
+        "value": 400,
+        "question": "Coleman Hawkins \"sang\" tenor, helping to turn this instrument from a novelty into a jazz mainstay",
+        "answer": "a saxophone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FUJI",
+        "value": 400,
+        "question": "Matching its name, which may come from ancient Ainu for \"fire mountain\", Mount Fuji is a composite of 3 of these",
+        "answer": "volcanoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RED, DELICIOUS",
+        "value": 400,
+        "question": "\"You can't be serious with\" this brand of red licorice",
+        "answer": "Twizzlers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "APPLE",
+        "value": 600,
+        "question": "Whether they wanted to or not, in 2014 millions of iTunes users received this band's album \"Songs of Innocence\"",
+        "answer": "U2",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GRANNY SMITH",
+        "value": 600,
+        "question": "In 1805 Lucy Mack Smith gave birth to this future religious leader who later made her a grandma",
+        "answer": "Joseph Smith",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GALA",
+        "value": 600,
+        "question": "\"Fashion's biggest night out\", the Met Gala in New York City is chaired by this magazine's Anna Wintour",
+        "answer": "Vogue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "JAZZ",
+        "value": 600,
+        "question": "Hef's gone, but this annual June event still jazzes up the Hollywood Bowl",
+        "answer": "the Playboy Festival",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FUJI",
+        "value": 600,
+        "question": "12,300-foot Mount Fuji is the highest point on this island",
+        "answer": "Honshu",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RED, DELICIOUS",
+        "value": 600,
+        "question": "Traditional borscht gets its vivid color from these deep red root veggies",
+        "answer": "beets",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "APPLE",
+        "value": 800,
+        "question": "It's the tech support & general hand-holding counter at Apple stores",
+        "answer": "the Genius Bar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GRANNY SMITH",
+        "value": 800,
+        "question": "This singer & poet was named Smith before marrying another Smith (musician Fred of the MC5) & becoming a mom & grandma",
+        "answer": "Patti Smith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GALA",
+        "value": 800,
+        "question": "There's plenty of caviar to go around at the post-Oscars Governors' Ball catered by this chef & restaurateur",
+        "answer": "Wolfgang Puck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "JAZZ",
+        "value": 800,
+        "question": "To \"be\" or not to \"be\" was the question for 1940s jazzers: Follow Dizzy & Bird into this new style--or not?",
+        "answer": "bebop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FUJI",
+        "value": 800,
+        "question": "The first woman to summit Everest, Junko Tabei, made Fuji her last summit, to support those hit by this 2011 disaster",
+        "answer": "the Fukushima disaster",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RED, DELICIOUS",
+        "value": 800,
+        "question": "The name of this Italian tomato sauce means \"in the style of a sailor\"",
+        "answer": "marinara",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "APPLE",
+        "value": 1000,
+        "question": "Ironically, the name of this iPhone video chat app means a chance to be in the same room",
+        "answer": "FaceTime",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GRANNY SMITH",
+        "value": 1000,
+        "question": "Betty Smith, who gained fame for this 1943 novel, would later plant a Chinese sumac for her children & their children",
+        "answer": "A Tree Grows in Brooklyn",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GALA",
+        "value": 1000,
+        "question": "In 2017 this country's government hosted a gala for King Harald's & Queen Sonja's 80th birthdays",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "JAZZ",
+        "value": 1000,
+        "question": "This Gypsy hot jazz genius had only 3 good fingers on his fretting hand, but he could still shred",
+        "answer": "Django Reinhardt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FUJI",
+        "value": 1000,
+        "question": "The mountain's base abounds with shrines of this religion, such as the Fujiyoshida Sengen shrine",
+        "answer": "Shinto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RED, DELICIOUS",
+        "value": 1000,
+        "question": "This 4-letter cherry variety has a deep garnet color & a sweet taste",
+        "answer": "Bing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "B.C. VIPs",
+      "BEFORE & AFTER ON THE TUBE",
+      "FLOATING HOLIDAYS",
+      "BRITISH LITERATURE",
+      "MEN OF SCIENCE",
+      "VERBI\"AGE\""
+    ],
+    "clues": [
+      {
+        "category": "B.C. VIPs",
+        "value": 400,
+        "question": "Rather than surrender to the Romans, this great Carthaginian general took his own life",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BEFORE & AFTER ON THE TUBE",
+        "value": 400,
+        "question": "On an Alec Baldwin-hosted game show, Tyrion Lannister & Jon Snow try to fill in the blanks",
+        "answer": "Match Game of Thrones",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FLOATING HOLIDAYS",
+        "value": 400,
+        "question": "Chinese New Year begins between January 21 & February 20, on this phase of the moon, so it might be pretty dark out",
+        "answer": "the new moon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 400,
+        "question": "\"All for Love\" by John Dryden looks at the tragic lives of this ancient couple Shakespeare also wrote about",
+        "answer": "Antony and Cleopatra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 400,
+        "question": "Gregor Mendel is referred to as the father of this field, the science of heredity",
+        "answer": "genetics",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "VERBI\"AGE\"",
+        "value": 400,
+        "question": "To go on a nautical journey, perhaps to the bottom of the sea",
+        "answer": "voyage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "B.C. VIPs",
+        "value": 800,
+        "question": "In 399 B.C. he told a jury, \"I am not grieved, men of Athens, at this vote of condemnation\"",
+        "answer": "Socrates",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BEFORE & AFTER ON THE TUBE",
+        "value": 800,
+        "question": "Freddie Highmore enters the TARDIS as the first Time Lord with autism on this drama",
+        "answer": "The Good Doctor Who",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FLOATING HOLIDAYS",
+        "value": 800,
+        "question": "Hindus perform this 4-letter physical discipline on the great night of Shiva, which is in February or March",
+        "answer": "yoga",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 800,
+        "question": "Dickens' first novel concerned a guy with this last name & the papers of his club",
+        "answer": "Pickwick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 800,
+        "question": "This developer of the periodic table of elements had his beard trimmed annually & maybe for his visits with the czar",
+        "answer": "Mendeleev",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "VERBI\"AGE\"",
+        "value": 800,
+        "question": "To send a text, maybe instantly",
+        "answer": "message",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "B.C. VIPs",
+        "value": 1200,
+        "question": "Ankhesenamun, one of the daughters of King Akhenaten & this beautiful queen, married King Tut",
+        "answer": "Nefertiti",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BEFORE & AFTER ON THE TUBE",
+        "value": 1200,
+        "question": "On a really zany sitcom, Uncle Fester & Lurch don't see politics the way Alex Keaton does",
+        "answer": "Addams Family Ties",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FLOATING HOLIDAYS",
+        "value": 1200,
+        "question": "The calendar seen here works well in 2019, when the first Sunday of this countdown period is December 1st",
+        "answer": "Advent",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 1200,
+        "question": "In 1894 he published a collection of stories featuring the characters Baloo & Bagheera",
+        "answer": "Kipling",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 1200,
+        "question": "He referred to his pupils Antonio Nardi, Raffaello Magiotti & Evangelista Torricelli as his Roman triumvirate",
+        "answer": "Galileo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "VERBI\"AGE\"",
+        "value": 1200,
+        "question": "To save something from the trash pile & put it to use",
+        "answer": "salvage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "B.C. VIPs",
+        "value": 1600,
+        "question": "Farmer/soldier Cincinnatus saved ancient Rome, then refused to stay on as a dictator, preserving this Roman form of govt.",
+        "answer": "the republic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BEFORE & AFTER ON THE TUBE",
+        "value": 1600,
+        "question": "Benedict Cumberbatch moves from a Showtime miniseries to a 1990s apartment complex with Heather Locklear & Grant Show",
+        "answer": "Patrick Melrose Place",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FLOATING HOLIDAYS",
+        "value": 1600,
+        "question": "Draw a bead on the first Sunday in October, the feast of this, used in prayer",
+        "answer": "the rosary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 1600,
+        "question": "In this controversial 1928 novel, passionate Constance is married to paralyzed Sir Clifford",
+        "answer": "Lady Chatterley's Lover",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 1600,
+        "question": "The \"system\" named for this Greek astronomer puts the Earth at the center of the universe",
+        "answer": "Ptolemy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "VERBI\"AGE\"",
+        "value": 1600,
+        "question": "To bleed profusely",
+        "answer": "hemorrhage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "B.C. VIPs",
+        "value": 2000,
+        "question": "One of the 7 wise men of Greece, his code of laws formed the foundation of Athens' democracy",
+        "answer": "Solon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BEFORE & AFTER ON THE TUBE",
+        "value": 2000,
+        "question": "An outdoor fishing competition show with 4-letter catches that snares researchers Lizzy Caplan & Michael Sheen",
+        "answer": "Bass Masters of Sex",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FLOATING HOLIDAYS",
+        "value": 2000,
+        "question": "Build the booths that give this Jewish holiday its name before Tishrei 15, the date the holiday begins",
+        "answer": "Sukkot",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 2000,
+        "question": "In this long 16th century poem, Queen Elizabeth I appears as Belphoebe & is represented by the title monarch",
+        "answer": "The Faerie Queene",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 2000,
+        "question": "His headstone in Germany reads \"Physiker\" with the dates 1901-1976; it does not say, \"He lies here...somewhere\"",
+        "answer": "Heisenberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "VERBI\"AGE\"",
+        "value": 2000,
+        "question": "To play a practice game against another team",
+        "answer": "scrimmage",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ON BROADWAY",
+    "clue": "This play opens in Vienna in 1823, 32 years after the death of its title character",
+    "answer": "Amadeus"
+  },
+  "gameId": "8029",
+  "gameDate": "Thursday, July 4, 2019"
+}

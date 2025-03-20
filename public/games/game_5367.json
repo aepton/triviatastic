@@ -1,0 +1,574 @@
+{
+  "title": "Show #1667 - Tuesday, November 26, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "THE HUMAN BODY",
+      "IOWA",
+      "BIRDS",
+      "FOREIGN CURRENCY",
+      "MIDDLE NAMES",
+      "\"HOUSE\"s"
+    ],
+    "clues": [
+      {
+        "category": "THE HUMAN BODY",
+        "value": 100,
+        "question": "The body makes you yawn when it needs more of this gas",
+        "answer": "oxygen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 100,
+        "question": "This state capital has a doll collection of First Ladies wearing their individual gowns",
+        "answer": "Des Moines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BIRDS",
+        "value": 100,
+        "question": "In Florida these birds were killed off in the wild for their beautiful pink feathers",
+        "answer": "flamingos",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 100,
+        "question": "On this country's standard coin you'll find the motto, \"Liberte, Egalite, Fraternite\"",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 100,
+        "question": "If you know \"The Rest of the Story\", tell us this middle name of radio commentator Paul Aurandt",
+        "answer": "Harvey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"HOUSE\"s",
+        "value": 100,
+        "question": "It's the elective, lower house of the British parliament",
+        "answer": "House of Commons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 200,
+        "question": "Gene splicing has produced humulin, a man-made version of this hormone",
+        "answer": "insulin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 200,
+        "question": "Mrs. Olsen of Folger's coffee fame grew up in Stanton, where the world's largest one of these stands",
+        "answer": "coffee pot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BIRDS",
+        "value": 200,
+        "question": "Though this southwestern bird can fly, it prefers to sprint at speeds up to 15 mph",
+        "answer": "roadrunner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 200,
+        "question": "This country's peseta features an engraving of Juan Carlos I",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 200,
+        "question": "Ronald Reagan's middle name, or the last name of our 28th President",
+        "answer": "Wilson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"HOUSE\"s",
+        "value": 200,
+        "question": "Abbreviated HUAC, it investigated communist influence inside & outside the U.S. government",
+        "answer": "House Un-American Activities Commission",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 300,
+        "question": "Even on a thick-skinned individual, the thinnest skin covers these",
+        "answer": "eyes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 300,
+        "question": "Pufferbilly Days, held each September in Boone, celebrates this means of transport",
+        "answer": "rail",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BIRDS",
+        "value": 300,
+        "question": "Some of these nocturnal birds have tufts of feathers on their heads called \"ears\" or \"horns\"",
+        "answer": "owls",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 300,
+        "question": "It's the monetary unit of New Zealand & Australia",
+        "answer": "dollar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 300,
+        "question": "Former Pinkerton detective Samuel Hammett wrote under this middle name",
+        "answer": "Dashiell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"HOUSE\"s",
+        "value": 300,
+        "question": "The Animals made this traditional New Orleans folk song a No. 1 hit",
+        "answer": "\"The House of the Rising Sun\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 800,
+        "question": "From Latin for \"basin\", 3 parts of this basin-shaped structure are the ilium, sacrum & coccyx",
+        "answer": "pelvis",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 400,
+        "question": "A 1945 Rodgers & Hammerstein film was set at this annual event in Iowa",
+        "answer": "state fair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BIRDS",
+        "value": 400,
+        "question": "These purplish-black Asian birds, that can imitate human speech, are types of starlings",
+        "answer": "mynah birds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 400,
+        "question": "Until the decimal system was approved in 1971, the British pound consisted of 240 of these",
+        "answer": "pence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 400,
+        "question": "Middle name of AFL-CIO president Joseph Kirkland",
+        "answer": "Lane",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"HOUSE\"s",
+        "value": 400,
+        "question": "A vengeful Vincent Price displayed dead bodies in this 1953 3-D thriller",
+        "answer": "House of Wax",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 500,
+        "question": "A mole is a group of cells containing an unusually high concentration of this pigment",
+        "answer": "melanin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 500,
+        "question": "Iowa's official rock, it may look plain on the outside, but inside there are crystals",
+        "answer": "geode",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BIRDS",
+        "value": 500,
+        "question": "The \"Arctic\" variety of this sea bird migrates farthest—about 22,000 miles back & forth in a year",
+        "answer": "tern",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 500,
+        "question": "Originally, it was a Hebrew unit of weight equal to about 1/2 ounce",
+        "answer": "Shekel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 500,
+        "question": "Harmenszoon was the middle name of this painter",
+        "answer": "Rembrandt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"HOUSE\"s",
+        "value": 500,
+        "question": "Thomas Jefferson served in this Virginia assembly from 1769 to 1774",
+        "answer": "House of Burgesses",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AUTHORS",
+      "U.S. HISTORY",
+      "AFRICA",
+      "THEATRE",
+      "PHYSICAL SCIENCE",
+      "MYTHOLOGICAL WORDS & PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "Etiquette expert who wrote in 1928 \"How to Behave Though a Debutante\"",
+        "answer": "Emily Post",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 200,
+        "question": "A U.S. team that played this sport met with Chinese premier Chou-En-lai in 1971",
+        "answer": "ping-pong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AFRICA",
+        "value": 200,
+        "question": "This ocean separates East Africa from Australia",
+        "answer": "Indian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 200,
+        "question": "A musical set during his final days was titled \"Are You Lonesome Tonight?\"",
+        "answer": "\"the King\", Elvis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 200,
+        "question": "While it makes up more of the earth's crust than iron, its ore, bauxite, is rarer than iron ore",
+        "answer": "aluminum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MYTHOLOGICAL WORDS & PHRASES",
+        "value": 200,
+        "question": "\"To cut\" this \"knot\" means to solve a difficult problem in an easy, decisive way",
+        "answer": "Gordian Knot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "Tolstoy lived by his own commandments & was eventually excommunicated by this church",
+        "answer": "(Russian) Orthodox",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "When this Vice President was Grand Marshal of the Rose Parade in 1959, the theme was \"Tall Tales and True\"",
+        "answer": "Nixon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AFRICA",
+        "value": 400,
+        "question": "This lake in East Central Africa is the largest source of the Nile River",
+        "answer": "Lake Victoria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 400,
+        "question": "In 1598 this playwright acted in Ben Jonson's 1st important play, \"Every Man in His Humour\"",
+        "answer": "Shakespeare",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 400,
+        "question": "Surgeons now use them to \"weld\" a detached retina or to remove tattoos",
+        "answer": "lasers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MYTHOLOGICAL WORDS & PHRASES",
+        "value": 400,
+        "question": "The expression \"hydra-headed\" is derived from the many-headed Hydra fought by this hero",
+        "answer": "Hercules",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 600,
+        "question": "Varina Davis, daughter of this famous man, wrote the 1895 novel \"The Veiled Doctor\"",
+        "answer": "Jefferson Davis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 600,
+        "question": "During WWI James Montgomery Flagg produced a series of about 45 posters for this purpose",
+        "answer": "recruiting for the military",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AFRICA",
+        "value": 1200,
+        "question": "Country in which you'd find the Booker T. Washington Institute",
+        "answer": "Liberia",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 600,
+        "question": "The leading characters in \"the Lisbon Traviata\" are obsessed with this Greek-American diva",
+        "answer": "Maria Callas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 600,
+        "question": "Willard Libby won a Nobel Prize for showing you can date fossils by the amount of this isotope in them",
+        "answer": "carbon (carbon 14)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MYTHOLOGICAL WORDS & PHRASES",
+        "value": 600,
+        "question": "If you stare at your own reflection constantly, this mythological word fits you perfectly",
+        "answer": "Narcissus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1600,
+        "question": "This Elizabethan courtier wrote the sonnet that's the preface to Spenser's \"The Faerie Queene\"",
+        "answer": "Sir Walter Raleigh",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 800,
+        "question": "It's estimated on May 11, 1934 the Great Plains lost 300 million tons of this",
+        "answer": "topsoil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AFRICA",
+        "value": 800,
+        "question": "Shaaban Robert of Tanzania was one of the best-known authors to write in this Bantu language",
+        "answer": "Swahili",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 800,
+        "question": "Jason Robards starred in the original 1960 production of her play \"Toys in the Attic\"",
+        "answer": "Lillian Hellman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 800,
+        "question": "The sun produces its energy through nuclear-fusion, changing hydrogen to this gas",
+        "answer": "helium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MYTHOLOGICAL WORDS & PHRASES",
+        "value": 800,
+        "question": "The name of this banquet hall has come to describe a final resting place for great men",
+        "answer": "Valhalla",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1000,
+        "question": "He was only 5 when the plague ravaged London; he wrote his \"Journal of the Plague Year\" 57 years later",
+        "answer": "Daniel Defoe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 1000,
+        "question": "Name given to the FDR administration's efforts to improve U.S.-Latin American relations",
+        "answer": "Good Neighbor Policy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AFRICA",
+        "value": 1000,
+        "question": "Portuguese explorers who found gold in what's now this country dubbed it the Gold Coast",
+        "answer": "Ghana",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THEATRE",
+        "value": 1000,
+        "question": "The 2 characters in this Englishman's 1957 play \"The Dumb Waiter\" are hired killers",
+        "answer": "Harold Pinter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 1000,
+        "question": "Alberto Santos-Dumont in 1906 was the 1st to do this in Europe, 3 years after it was done in the U.S.",
+        "answer": "undergo powered flight",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MYTHOLOGICAL WORDS & PHRASES",
+        "value": 1000,
+        "question": "The name of this rock on which a siren sat is now synonymous with \"siren\"",
+        "answer": "Lorelai",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS NAMES",
+    "clue": "In the late 1880s this engineer earned the nickname \"Magician of Iron\"",
+    "answer": "Alexandre Gustave Eiffel"
+  },
+  "gameId": "1667",
+  "gameDate": "Tuesday, November 26, 1991"
+}

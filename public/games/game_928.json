@@ -1,0 +1,574 @@
+{
+  "title": "Show #4123 - Wednesday, July 3, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "EMPIRES",
+      "THE HAYES CODE",
+      "CAR CHAT",
+      "THE 4th",
+      "THE DIGESTIVE SYSTEM",
+      "FEELING A BIT \"ILL\""
+    ],
+    "clues": [
+      {
+        "category": "EMPIRES",
+        "value": 200,
+        "question": "In 1936 George V's reported last words were \"How is the Empire?--we presume he meant this one",
+        "answer": "the British Empire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE HAYES CODE",
+        "value": 200,
+        "question": "This U.S. President was born in Delaware-- Delaware, Ohio, that is",
+        "answer": "Rutherford B. Hayes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CAR CHAT",
+        "value": 200,
+        "question": "(Sarah of the Clue Crew checks under the hood.)  Got me a four-barrel one of these to mix the air & fuel",
+        "answer": "a carburetor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE 4th",
+        "value": 200,
+        "question": "The 4th Gospel of the New Testament",
+        "answer": "John",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE DIGESTIVE SYSTEM",
+        "value": 200,
+        "question": "The smell of & even the thought of food can start the glands in your mouth producing this",
+        "answer": "saliva",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FEELING A BIT \"ILL\"",
+        "value": 200,
+        "question": "A photograph made from a single frame of film",
+        "answer": "a still photograph",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EMPIRES",
+        "value": 400,
+        "question": "The Canary Islands are just about all that's left of this empire that once held much of the Americas",
+        "answer": "the Spanish Empire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE HAYES CODE",
+        "value": 400,
+        "question": "John Michael Hayes wrote some of this director's finest films, including \"Rear Window\" & \"To Catch a Thief\"",
+        "answer": "Hitchcock",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CAR CHAT",
+        "value": 400,
+        "question": "You won't get a bad bounce with Bilstein, a leading maker of the gas pressure type of these",
+        "answer": "shocks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE 4th",
+        "value": 400,
+        "question": "The 4th dimension according to the theory of relativity",
+        "answer": "time",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE DIGESTIVE SYSTEM",
+        "value": 400,
+        "question": "The liver produces up to 2 pints of this a day, a concentrated 2 ounces of which can be stored in the gallbladder",
+        "answer": "bile",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FEELING A BIT \"ILL\"",
+        "value": 400,
+        "question": "A watery feed for hogs containing food byproducts",
+        "answer": "swill",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EMPIRES",
+        "value": 600,
+        "question": "This thousand-year empire was centered in Germany & its early emperors were crowned by the pope",
+        "answer": "the Holy Roman Empire",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE HAYES CODE",
+        "value": 600,
+        "question": "This great stage actress made her movie debut as a child in the 1910 silent film \"Jean and the Calico Doll\"",
+        "answer": "Helen Hayes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CAR CHAT",
+        "value": 600,
+        "question": "(Jimmy of the Clue Crew has a lead foot.) This dial measures how fast the engine is revving",
+        "answer": "the tachometer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE 4th",
+        "value": 600,
+        "question": "The 4th letter of the Greek alphabet",
+        "answer": "delta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE DIGESTIVE SYSTEM",
+        "value": 600,
+        "question": "Using one of these to drink your can of soda increases your air intake & makes you burp more",
+        "answer": "a straw",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FEELING A BIT \"ILL\"",
+        "value": 600,
+        "question": "A flavorful gherkin",
+        "answer": "dill (pickle)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EMPIRES",
+        "value": 800,
+        "question": "An empire was established in 1867 under Franz Josef, Emperor of Austria & king of this country",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE HAYES CODE",
+        "value": 800,
+        "question": "Sam & Dave's 1967 hit \"Soul Man\" was co-written by David Porter & this legendary soul man",
+        "answer": "Isaac Hayes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CAR CHAT",
+        "value": 800,
+        "question": "A throttle regulates the flow of fuel; this synonym for \"throttle\" regulates the flow of air",
+        "answer": "the choke",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE 4th",
+        "value": 800,
+        "question": "The 4th oldest college in the United States, it's found in New Jersey",
+        "answer": "Princeton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE DIGESTIVE SYSTEM",
+        "value": 800,
+        "question": "If you have trouble digesting dairy products, you have a condition called this",
+        "answer": "lactose intolerance",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FEELING A BIT \"ILL\"",
+        "value": 800,
+        "question": "A fleet of small sailing vessels",
+        "answer": "a flotilla",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EMPIRES",
+        "value": 1000,
+        "question": "Alpaca wool was a major commodity in this empire that peaked in the 1400s",
+        "answer": "the Inca Empire",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE HAYES CODE",
+        "value": 1000,
+        "question": "Ex-model Cybill Shepherd played this ex-model on \"Moonlighting\"",
+        "answer": "Maddie Hayes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CAR CHAT",
+        "value": 1000,
+        "question": "(Sarah of the Clue Crew stops to give the clue.)  I'm glad I have this 4-letter type of brakes that uses pads & rings for more stopping power than drum brakes",
+        "answer": "discs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE 4th",
+        "value": 1000,
+        "question": "The 4th most populous country in the world, it follows China, India & the U.S.",
+        "answer": "Indonesia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE DIGESTIVE SYSTEM",
+        "value": 1000,
+        "question": "Gravity isn't required to move food down to your stomach; this process moves it down the esophagus",
+        "answer": "peristalsis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FEELING A BIT \"ILL\"",
+        "value": 1000,
+        "question": "A formal ball for debutantes",
+        "answer": "a cotillion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE FIRTH OF FORTH",
+      "NOT REALLY MARRIED",
+      "CLINTON'S BILLS",
+      "SPORTSMEN",
+      "BOOKS OF THE '70s",
+      "\"DOUBLE\" TROUBLE"
+    ],
+    "clues": [
+      {
+        "category": "THE FIRTH OF FORTH",
+        "value": 400,
+        "question": "Of a person, a city or a river, what the forth in Firth of Forth refers to",
+        "answer": "a river",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NOT REALLY MARRIED",
+        "value": 400,
+        "question": "This kids' host dons sneakers & a cardigan to dance with this female star of \"Shall We Dance\" & \"Swing Time\"",
+        "answer": "Fred & Ginger Rogers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CLINTON'S BILLS",
+        "value": 400,
+        "question": "(Bill Clinton reads the clue.)  A bill I signed in 1994 banned several assault weapons & funded the hiring of 100,000 of these",
+        "answer": "police officers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPORTSMEN",
+        "value": 400,
+        "question": "In 2000 this Los Angeles Laker was named the NBA's MVP, receiving 120 of 121 first place votes",
+        "answer": "Shaquille O'Neal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOOKS OF THE '70s",
+        "value": 400,
+        "question": "Charles Berlitz of the language-teaching family put this plane-swallowing area of the Atlantic on the map",
+        "answer": "the Bermuda Triangle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"DOUBLE\" TROUBLE",
+        "value": 400,
+        "question": "2 consecutive baseball games are a doubleheader; this is 2 movies",
+        "answer": "a double bill (or double feature)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE FIRTH OF FORTH",
+        "value": 800,
+        "question": "Abundant in the Gulf of St. Lawrence & the Firth of Forth are gannets, which are these",
+        "answer": "(sea) birds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NOT REALLY MARRIED",
+        "value": 800,
+        "question": "This actress is in \"A League of her Own\" with this president of the CSA",
+        "answer": "Geena & Jefferson Davis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CLINTON'S BILLS",
+        "value": 800,
+        "question": "On this man's 87th birthday, Clinton signed a bill renaming Washington National Airport for him",
+        "answer": "Reagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPORTSMEN",
+        "value": 800,
+        "question": "A Heisman Trophy winner at Oklahoma State, he was the NFC's Rookie of the Year in 1989 with the Detroit Lions",
+        "answer": "Barry Sanders",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOOKS OF THE '70s",
+        "value": 800,
+        "question": "Not Peter Benchley but Hank Searls was on the bestseller list in 1978 with this follow-up",
+        "answer": "Jaws 2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"DOUBLE\" TROUBLE",
+        "value": 800,
+        "question": "Those big red buses in London are described as these",
+        "answer": "double-deckers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE FIRTH OF FORTH",
+        "value": 1200,
+        "question": "The firth in Firth of Forth is equivalent to this in Norwegian",
+        "answer": "a fjord",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NOT REALLY MARRIED",
+        "value": 1200,
+        "question": "This British comic had scantily clad women on his TV show; in 1991 this law professor testified about sexual harassment",
+        "answer": "Benny & Anita Hill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CLINTON'S BILLS",
+        "value": 1200,
+        "question": "(Bill Clinton reads the clue.)  Legislation I signed in 1996 lifted 8 million people off this type of government program",
+        "answer": "welfare",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPORTSMEN",
+        "value": 1200,
+        "question": "He's the multi-ringed Celtic legend seen here",
+        "answer": "Bill Russell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOOKS OF THE '70s",
+        "value": 1200,
+        "question": "Victor Henry of the U.S. Navy & his family are at the center of this 1971 Herman Wouk epic",
+        "answer": "The Winds of War",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"DOUBLE\" TROUBLE",
+        "value": 1200,
+        "question": "It's the common name for diplopia",
+        "answer": "double vision",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE FIRTH OF FORTH",
+        "value": 1600,
+        "question": "These people built the Antoine Wall from the Firth of Forth to the Firth of Clyde around 142 A.D.",
+        "answer": "the Romans",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NOT REALLY MARRIED",
+        "value": 1600,
+        "question": "Rhoda's mom on TV, she thinks that this \"Good TImes\" actor is \"Dy-no-mite!\"",
+        "answer": "Nancy & Jimmie Walker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CLINTON'S BILLS",
+        "value": 1600,
+        "question": "A Nov. 6, 2000 Clinton's signature helped protect the confidentiality of these 9 digits",
+        "answer": "a Social Security number",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPORTSMEN",
+        "value": 1600,
+        "question": "1 of 2 Canadian men to win the World Figure Skating title 3 or more times",
+        "answer": "Kurt Browning (or Elvis Stojko)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOOKS OF THE '70s",
+        "value": 1600,
+        "question": "Thousands of people got pushed around & bought Robert J. Ringer's \"Winning Through\" this",
+        "answer": "Intimidation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"DOUBLE\" TROUBLE",
+        "value": 1600,
+        "question": "2 bad serves in tennis are called this & you lose a point",
+        "answer": "a double fault",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE FIRTH OF FORTH",
+        "value": 2000,
+        "question": "Dunfermline, a town on the Firth, was the birthplace of this American industrialist, & benefited from his charity",
+        "answer": "(Andrew) Carnegie",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NOT REALLY MARRIED",
+        "value": 2000,
+        "question": "This British actress could put some \"Sense and Sensibility\" into this gonzo journalist",
+        "answer": "Emma & Hunter Thompson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CLINTON'S BILLS",
+        "value": 2000,
+        "question": "In 1996 Clinton signed a bill giving him this power to strike particular morsels of pork from spending bills",
+        "answer": "the line-item veto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPORTSMEN",
+        "value": 2000,
+        "question": "On July 31, 1994 this Ukranian set the world pole vault record at 20 feet, 1-3/4 inches",
+        "answer": "(Sergey) Bubka",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOOKS OF THE '70s",
+        "value": 2000,
+        "question": "William Shawcross' \"Sideshow\" was subtitled \"Kissinger, Nixon and the Destruction of\" this country",
+        "answer": "Cambodia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"DOUBLE\" TROUBLE",
+        "value": 2000,
+        "question": "A \"Match Game\" clue like \"Mike bought 2 owls because he wanted a pair of _____s\" tries to elicit one of these",
+        "answer": "a double-entendre",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. LANDMARKS",
+    "clue": "Opened in 1962, its paint included Astronaut White for the supports & Re-entry Red for the \"halo\"",
+    "answer": "the Space Needle (in Seattle)"
+  },
+  "gameId": "4123",
+  "gameDate": "Wednesday, July 3, 2002"
+}

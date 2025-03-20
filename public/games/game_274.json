@@ -1,0 +1,574 @@
+{
+  "title": "Show #1630 - Friday, October 4, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. CITIES",
+      "FOOD FACTS",
+      "SPORTS",
+      "BIOGRAPHIES",
+      "SAINTS",
+      "MAXIMS & MOTTOS"
+    ],
+    "clues": [
+      {
+        "category": "U.S. CITIES",
+        "value": 100,
+        "question": "Alaska's most populous city; it was founded in 1914 as a construction base for the Alaska Railroad",
+        "answer": "Anchorage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 100,
+        "question": "The edible portions of the cabbage palm tree are called these \"of palm\"",
+        "answer": "hearts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "In 1941 this heavyweight boxing champ successfully defended his title a record 7 times",
+        "answer": "Joe Louis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 100,
+        "question": "Anne Edwards' biography of this former child star is called \"American Princess\"",
+        "answer": "Shirley Temple",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SAINTS",
+        "value": 100,
+        "question": "In 1636 St. Philip of Moscow was canonized by this church, not the Roman Catholic Church",
+        "answer": "the Eastern Orthodox Church",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MAXIMS & MOTTOS",
+        "value": 100,
+        "question": "\"Absence makes the heart grow fonder\" is disputed by the proverb, \"Out of sight, out of\" this",
+        "answer": "mind",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 200,
+        "question": "The husbands of Ann Allen & Ann Rumsey named this Michigan city for their wives",
+        "answer": "Ann Arbor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 200,
+        "question": "Vegetables a la greque are usually cooked in lemon juice & this oil & served cold",
+        "answer": "olive oil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "The only NHL team from the U.S. to win the Stanley Cup in the 1980s was this Uniondale, NY based team",
+        "answer": "the New York Islanders",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 200,
+        "question": "A biography subtitled \"Patriot and Traitor\" tells why he turned to the British cause",
+        "answer": "Benedict Arnold",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SAINTS",
+        "value": 200,
+        "question": "Thomism is a theological school that follows the teachings of this 13th century saint",
+        "answer": "St. Thomas Aquinas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MAXIMS & MOTTOS",
+        "value": 200,
+        "question": "About 500 B.C., this Chinese said, \"What you do not want done to yourself, do not do to others\"",
+        "answer": "Confucius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 300,
+        "question": "12 miles NW of downtown Miami, this Florida city is famous for its thoroughbred racetrack",
+        "answer": "Hialeah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 300,
+        "question": "The sections of a garlic bulb are called these, not to be confused with the spice of the same name",
+        "answer": "cloves",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "Star, Flying Dutchman & Tornado are classes in this Olympic sport",
+        "answer": "yachting",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 300,
+        "question": "\"Mr. Lincoln's Cameraman\" is a biography of this photographer",
+        "answer": "Mathew Brady",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SAINTS",
+        "value": 300,
+        "question": "She gave the head of St. John the Baptist to her mother, Herodias",
+        "answer": "Salome",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MAXIMS & MOTTOS",
+        "value": 600,
+        "question": "Proverb in the title of the following:\"When I was just a little girl, I asked my mother 'What will I be? Will I be pretty, will I be rich?'...\"",
+        "answer": "\"que sera sera\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 400,
+        "question": "You'll find W.C. Handy Park & Elvis Presley Plaza near Beale Street in this city",
+        "answer": "Memphis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 400,
+        "question": "The Devonshire type of this is clotted, and can be served with berries",
+        "answer": "cream",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "In the 1960s & 1970s he was professional golf's leading money winner 8 times",
+        "answer": "Jack Nicklaus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 400,
+        "question": "William Wright delves into the life & death of this Greek heiress in \"All The Pain That Money Can Buy\"",
+        "answer": "Cristina Onassis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SAINTS",
+        "value": 400,
+        "question": "This \"Venerable\" British saint who died in 735 wasn't canonized until 1899",
+        "answer": "the Venerable Bede",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MAXIMS & MOTTOS",
+        "value": 400,
+        "question": "John Wilkes Booth called out this motto of Virginia after assassinating Lincoln",
+        "answer": "\"sic semper tyrannis\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 500,
+        "question": "White granite from quarries near this New England capital was used in the Library of Congress",
+        "answer": "Concord, New Hampshire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 500,
+        "question": "In France this sausage is called \"fromage de tete\"",
+        "answer": "head cheese",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "On June 16, 1987, for the first time in a single meet, 3 men cleared 28' in this field event",
+        "answer": "the long jump",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIOGRAPHIES",
+        "value": 500,
+        "question": "This network anchorwoman who died in 1983 is the subject of a biography called \"Golden Girl\"",
+        "answer": "Jessica Savitch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SAINTS",
+        "value": 500,
+        "question": "At his 1535 execution on Tower Hill, he called himself \"The king's good servant, but God's first\"",
+        "answer": "St. Thomas More",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MAXIMS & MOTTOS",
+        "value": 500,
+        "question": "The Romans first said, \"De gustibus non est disputandum\" meaning \"There is no disputing about\" this",
+        "answer": "taste",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POETS & POETRY",
+      "FLAGS",
+      "BIOLOGY",
+      "THE 1830s",
+      "BODIES OF WATER",
+      "MOVIE DEBUTS"
+    ],
+    "clues": [
+      {
+        "category": "POETS & POETRY",
+        "value": 200,
+        "question": "Richard Lovelace wrote, \"Stone walls do not a prison make, nor\"these \"a cage\"",
+        "answer": "Iron Bars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FLAGS",
+        "value": 200,
+        "question": "This man's expeditionary flag bore the initials \"F & Y\" for Ferdinand & Ysabel",
+        "answer": "Christopher Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 200,
+        "question": "These are made up of a racus, barbules, barbs & a quill",
+        "answer": "Feather",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE 1830s",
+        "value": 200,
+        "question": "She became a queen in 1837 after her uncle, King William IV, died",
+        "answer": "Victoria",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 200,
+        "question": "Father Louis L'Enfant, who accompanied LaSalle, was the first white man to view these falls in 1678",
+        "answer": "Niagara Falls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 200,
+        "question": "This \"Saturday Night Live\" star made his movie debut in \"48 HRS\"",
+        "answer": "Eddie Murphy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 400,
+        "question": "In this poem, there are two out, two on base, & the score is:Opponents, 4Mudville, 2",
+        "answer": "\"Casey at the Bat\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FLAGS",
+        "value": 400,
+        "question": "San Antonio's flag features this landmark pictured on a lone star",
+        "answer": "The Alamo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 400,
+        "question": "Houseflies & tsetse flies are true flies & have this many wings",
+        "answer": "2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE 1830s",
+        "value": 400,
+        "question": "In 1839, 35 years after Alexander Hamilton died, Congress made this illegal in the District of Columbia",
+        "answer": "Dueling",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 400,
+        "question": "This Canadian bay has the longest shoreline of any bay",
+        "answer": "Hudson Bay",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 400,
+        "question": "This actor debuted in \"Taps\" before going on to marry Madonna",
+        "answer": "Sean Penn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 600,
+        "question": "One of his sonnets begins, \"My mistress' eyes are nothing like the sun\"",
+        "answer": "William Shakespeare",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FLAGS",
+        "value": 600,
+        "question": "Though the French flag no longer features these flower designs, the flag of the province of Quebec does",
+        "answer": "Fleur-de-Lis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 600,
+        "question": "Hemolysis is the release of this protein pigment from blood cells",
+        "answer": "Hemoglobin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE 1830s",
+        "value": 600,
+        "question": "In 1837 in Machunk, Pennsylvania, this kind of coal was used to smelt iron for the first time",
+        "answer": "Anthracite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 600,
+        "question": "The island of Corregidor guards the entrance to this Phillippine bay",
+        "answer": "Manila Bay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 600,
+        "question": "His voice debuted in \"Wizards\", but his face was first seen as Luke Skywalker in \"Star Wars\"",
+        "answer": "Mark Hamill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 1600,
+        "question": "Edwin Arlington Robinson character who \"one calm summer night, went home and put a bullet through his head\"",
+        "answer": "Richard Cory",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FLAGS",
+        "value": 800,
+        "question": "Iraq's flag consists of stripes of red, white & black & three stars of this color",
+        "answer": "Green",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1600,
+        "question": "Coral, horse, oyster & parasol are types of this fungus",
+        "answer": "Mushrooms",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE 1830s",
+        "value": 800,
+        "question": "This Boston abolitionist began publication of \"The Liberator\" in 1831",
+        "answer": "William Lloyd Garrison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 800,
+        "question": "This largest tributary of the Columbia River rises in Yellowstone National Park",
+        "answer": "Snake River",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 800,
+        "question": "Her debut performance in \"Orca\" , in which a killer whale chomped off her leg, didn't rate a \"10\"",
+        "answer": "Bo Derek",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POETS & POETRY",
+        "value": 1000,
+        "question": "This Englishman published his translation of \"The Rubyyat\" anonymously in 1859",
+        "answer": "Edward Fitzgerald",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FLAGS",
+        "value": 1000,
+        "question": "Oddly enough, the cross in the corner of this Mediterranean island's flag is not the one named for it",
+        "answer": "Malta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1000,
+        "question": "This jelling agent prepared from seaweed is often used to grow microorganisms",
+        "answer": "Agar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE 1830s",
+        "value": 1000,
+        "question": "In 1832 an expedition led by Henry Schoolcraft discovered the source of the Mississippi at this Minnesota lake",
+        "answer": "Lake Itasca",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 1000,
+        "question": "The Gulf of Aden separates Somalia and this country on the Arabian Peninsula",
+        "answer": "Yemen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 1000,
+        "question": "Meryl Streep debuted in this 1977 adaptation of Lillian Hellmann's \"Pentimento\"",
+        "answer": "Julia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS NAMES",
+    "clue": "This future foreign prime minister attended Milwaukee Teachers Training College in 1916 & '17",
+    "answer": "Golda Meir"
+  },
+  "gameId": "1630",
+  "gameDate": "Friday, October 4, 1991"
+}

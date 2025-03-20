@@ -1,0 +1,574 @@
+{
+  "title": "Show #1690 - Friday, December 27, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "HEALTH & MEDICINE",
+      "SIGNS & SYMBOLS",
+      "'50s TELEVISION",
+      "THE SOUTH",
+      "INTERNATIONAL CLOTHING",
+      "NOSES"
+    ],
+    "clues": [
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 100,
+        "question": "Ampicillin is a semisynthetic form of this other antibiotic",
+        "answer": "penicillin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SIGNS & SYMBOLS",
+        "value": 100,
+        "question": "1 of these in Morse code is an E, 5 of them, a 5",
+        "answer": "a dots",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "'50s TELEVISION",
+        "value": 100,
+        "question": "Stan Freberg's \"St. George & the Dragonet\", a parody of this cop series, was a #1 record in 1953",
+        "answer": "Dragnet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 100,
+        "question": "There once was a Whooping Crane Conservancy on this South Carolina island named for Captain Wm. Hilton",
+        "answer": "Hilton Head Island",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL CLOTHING",
+        "value": 100,
+        "question": "These walking shorts are worn with knee socks by men in the island country of the same name",
+        "answer": "Bermudas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NOSES",
+        "value": 100,
+        "question": "\"Celebrity Register\" calls this comedian \"the superstar with the ski-jump nose\"",
+        "answer": "Bob Hope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 200,
+        "question": "This type of surgery uses grafts to circumvent blocked coronary arteries",
+        "answer": "bypass surgery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SIGNS & SYMBOLS",
+        "value": 200,
+        "question": "On public signs in the U.S., a large H indicates hospital & a large P, this",
+        "answer": "a parking facility",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "'50s TELEVISION",
+        "value": 200,
+        "question": "This series was later syndicated under the title \"Sergeant Bilko\"",
+        "answer": "The Phil Silvers Show",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 200,
+        "question": "Greenville, North Carolina is one of the largest markets in the world for the bright-leaf type of this crop",
+        "answer": "tobacco",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL CLOTHING",
+        "value": 200,
+        "question": "Traditionally, this Scottish cap has a pompon at the center of the crown",
+        "answer": "a tam-o'-shanter (a tam accepted)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NOSES",
+        "value": 200,
+        "question": "Woody Allen & Diane Keaton held a nose hostage in this futuristic film",
+        "answer": "Sleeper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 300,
+        "question": "You use a sphygmomanometer to measure this",
+        "answer": "hypertension (or blood pressure)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SIGNS & SYMBOLS",
+        "value": 300,
+        "question": "In 1991 this company modernized its Man-in- the-Moon logo, cutting off its curly locks",
+        "answer": "Procter & Gamble",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "'50s TELEVISION",
+        "value": 300,
+        "question": "On July 29, 1957 he succeeded Steve Allen as permanent host of \"The Tonight Show\"",
+        "answer": "Jack Paar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 300,
+        "question": "The Pontalba Buildings that flank Jackson Sq. in this La. city were built by a baroness circa 1850",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL CLOTHING",
+        "value": 300,
+        "question": "A simple, beltless dress was named for this London street known in the '60s for its mod fashions",
+        "answer": "Carnaby (Street)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NOSES",
+        "value": 300,
+        "question": "It's a \"canine\" synonym for a snub nose",
+        "answer": "a pug",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 400,
+        "question": "Also called hemicrania, these recurring vascular headaches are more common in women",
+        "answer": "migraines",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SIGNS & SYMBOLS",
+        "value": 400,
+        "question": "When curved, these word & phrase surrounders are called parentheses; when squared off, this",
+        "answer": "brackets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "'50s TELEVISION",
+        "value": 400,
+        "question": "This character's card read, \"Have gun, will travel\"",
+        "answer": "Paladin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 400,
+        "question": "Once a trading post called Le Fleur's Bluff, Jackson is now the largest city in this state",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL CLOTHING",
+        "value": 400,
+        "question": "The elaborately sequinned jacket of this matador costume can weigh 10 pounds by itself",
+        "answer": "traje de luces (suit of lights)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NOSES",
+        "value": 400,
+        "question": "Gerard Depardieu didn't win an Oscar for this Rostand role; we assume he lost by a nose",
+        "answer": "Cyrano de Bergerac",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 500,
+        "question": "A lipoma is a benign tumor that consists of this kind of tissue",
+        "answer": "fat (tissue)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SIGNS & SYMBOLS",
+        "value": 1000,
+        "question": "In Roman numerals, it's the first year of the 21st century",
+        "answer": "MMI",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "'50s TELEVISION",
+        "value": 500,
+        "question": "This host of \"See It Now\" won a 1953 Emmy for most outstanding personality",
+        "answer": "Ed Murrow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE SOUTH",
+        "value": 500,
+        "question": "This Georgia city is built on 7 hills, like the Italian city of the same name",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL CLOTHING",
+        "value": 500,
+        "question": "A geisha would wear her geta on this part of her body",
+        "answer": "her feet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NOSES",
+        "value": 500,
+        "question": "In \"The Owl and the Pussycat\", \"Piggy-wig stood with\" one of these \"at the end of his nose\"",
+        "answer": "a ring",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BOTANY",
+      "COLONIAL AMERICA",
+      "\"ISM\"s",
+      "THE ILIAD",
+      "\"R\"IVERS",
+      "BANKS & BANKING"
+    ],
+    "clues": [
+      {
+        "category": "BOTANY",
+        "value": 200,
+        "question": "The pileus is the proper term for the circular cap on one of these fungi",
+        "answer": "mushrooms",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 200,
+        "question": "In 1638 Delaware colonists from this Scandinavian country built the 1st log cabins in America",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 200,
+        "question": "Since its creation in 1935, A.A. has been devoted to battling this",
+        "answer": "alcoholism",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE ILIAD",
+        "value": 200,
+        "question": "A minor figure in \"The Iliad\", he's the main character of Homer's other epic",
+        "answer": "Odysseus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"R\"IVERS",
+        "value": 200,
+        "question": "By crossing this river in 49 B.C., Caesar violated Lex Cornelia Majestatis",
+        "answer": "the Rubicon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BANKS & BANKING",
+        "value": 200,
+        "question": "It's the original city in Citibank, part of Citicorp",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 400,
+        "question": "It's the term for the large, divided leaves found on ferns & certain palms",
+        "answer": "fronds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 400,
+        "question": "By 1775 it was the largest city in Colonial America",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 400,
+        "question": "Named for a senator, it refers to the investigations of Communist activities during the 1950s",
+        "answer": "McCarthyism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE ILIAD",
+        "value": 400,
+        "question": "Diomedes would have slain this Trojan, hero of a Virgil epic, but Aphrodite saved him",
+        "answer": "Aeneas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"R\"IVERS",
+        "value": 400,
+        "question": "This river is in California's Sonoma & Mendocino Counties, not in the USSR",
+        "answer": "the Russian River",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BANKS & BANKING",
+        "value": 400,
+        "question": "Security for a loan, it can be paper, trade goods, intangibles or business proceeds",
+        "answer": "collateral",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 600,
+        "question": "The spines on a cactus are modified leaves; the thorns on a bush are modified ones of these",
+        "answer": "branches",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 600,
+        "question": "The first book printed in Colonial America was a book of these from the Bible",
+        "answer": "psalms",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 600,
+        "question": "This often fatal food poisoning is caused by improperly canned or preserved food",
+        "answer": "botulism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE ILIAD",
+        "value": 600,
+        "question": "For settling a dispute in her favor, Aphrodite promises him the world's most beautiful woman as his wife",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"R\"IVERS",
+        "value": 600,
+        "question": "This river is navigable from the North Sea to Basel, Switzerland",
+        "answer": "the Rhine River",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BANKS & BANKING",
+        "value": 600,
+        "question": "In the 18th century, brothers in this family ran banks in London, Vienna, Frankfurt & Naples",
+        "answer": "the Rothschilds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 800,
+        "question": "All types of this grain belong to the botanic species Zea mays",
+        "answer": "maize (or corn)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 800,
+        "question": "A N.Y. court acquitted this weekly journal editor of libeling British gov. Cosby in 1735",
+        "answer": "John Peter Zenger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 1600,
+        "question": "It's the system of painting developed by Georges Seurat using tiny dots of color",
+        "answer": "pointillism",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE ILIAD",
+        "value": 800,
+        "question": "Like this woman, his sister, Helenus has the gift of second sight",
+        "answer": "Cassandra",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"R\"IVERS",
+        "value": 800,
+        "question": "This river shares its name with a nearby island where Sir Walter Raleigh founded a settlement",
+        "answer": "Roanoke",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BANKS & BANKING",
+        "value": 800,
+        "question": "A demand deposit account is more commonly known as this",
+        "answer": "a checking account",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 1000,
+        "question": "Like a sign of disgrace, the part of a flower's pistil that receives pollen is called this",
+        "answer": "the stigma",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 1000,
+        "question": "By the 1770s this British firm had a monopoly on the sale of tea in America",
+        "answer": "the British East India Company",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 1000,
+        "question": "In logic, it's the drawing of a conclusion from two statements or premises",
+        "answer": "a syllogism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE ILIAD",
+        "value": 1000,
+        "question": "Commander of the Greeks, he is the older brother of King Menelaus",
+        "answer": "King Agamemnon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"R\"IVERS",
+        "value": 1000,
+        "question": "The Rapidan is the main branch of this Virginia river, site of much civil war fighting",
+        "answer": "the Rappahannock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BANKS & BANKING",
+        "value": 2000,
+        "question": "Between 1982 & 1990 there were about 1100 bank failures in the U.S. & over 1/3 were in this state",
+        "answer": "Texas",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "19th CENTURY NOVELS",
+    "clue": "The heroines in this novel perform an original melodrama called \"The Witch's Curse\"",
+    "answer": "Little Women"
+  },
+  "gameId": "1690",
+  "gameDate": "Friday, December 27, 1991"
+}

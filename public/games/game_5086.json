@@ -1,0 +1,547 @@
+{
+  "title": "Show #2166 - Monday, January 24, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "MATH",
+      "BROADWAY SONGS",
+      "ANNUAL EVENTS",
+      "THE BIBLE",
+      "FOOD & DRINK",
+      "HOTELS BY CITY"
+    ],
+    "clues": [
+      {
+        "category": "MATH",
+        "value": 100,
+        "question": "It's the inverse operation of addition",
+        "answer": "subtraction",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY SONGS",
+        "value": 100,
+        "question": "Rogers & Hammerstein wrote that \"it's where the wind comes sweepin' down the plain\"",
+        "answer": "\"Oklahoma!\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 100,
+        "question": "This organization begins its annual Christmas bird count in mid-December",
+        "answer": "the Audubon Society",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 100,
+        "question": "\"The Lord set about a mark upon\" this son of Adam \"lest any finding him should kill him\"",
+        "answer": "Cain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "The \"pot\" type of this is very similar to the \"cottage\" type",
+        "answer": "cheese",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HOTELS BY CITY",
+        "value": 100,
+        "question": "The Mirage,Excalibur,Caesar's Palace",
+        "answer": "Las Vegas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 200,
+        "question": "It's the formula for the area of a circle",
+        "answer": "πr2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY SONGS",
+        "value": 200,
+        "question": "It's when \"you may see a stranger across a crowded room\"",
+        "answer": "\"Some Enchanted Evening\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 200,
+        "question": "Sadie Hawkins Day, held in November, was created by cartoonist Al Capp in this comic strip",
+        "answer": "Li'l Abner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "The publicans that Luke refers to aren't innkeepers, but collectors of these",
+        "answer": "taxes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "The amount of this stimulant in tea leaves is about 3%",
+        "answer": "caffeine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HOTELS BY CITY",
+        "value": 200,
+        "question": "Meridien Montparnasse,Balzac,George V",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 300,
+        "question": "Multiply 103 by 106 & you get 10 to this power",
+        "answer": "the 9th power",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY SONGS",
+        "value": 300,
+        "question": "A song in \"Peter Pan\" says, \"Look at me way up high, suddenly here am I\" doing this",
+        "answer": "flying",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 300,
+        "question": "Marylanders celebrate Defender's Day in September with a mock bombardment of this fort",
+        "answer": "Fort McHenry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 300,
+        "question": "David was afraid to handle this object after God smote Uzza for touching it",
+        "answer": "the Ark of the Covenant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "Of all the slings, this one with a geographical name is probably the best known",
+        "answer": "a Singapore Sling",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HOTELS BY CITY",
+        "value": 300,
+        "question": "Dorchester,Connaught,Cadogan",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 400,
+        "question": "If 2 of the interior angles of a triangle are 90o & 60o, the third one will measure this",
+        "answer": "30o",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY SONGS",
+        "value": 400,
+        "question": "The one referred to in the line \"You're looks are laughable, un-photographable\"",
+        "answer": "\"My Funny Valentine\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 800,
+        "question": "Each August this U.S. city hosts the Three Rivers Regatta",
+        "answer": "Pittsburgh",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "1 & 2 Corinthians both begin with this, their author's name",
+        "answer": "Paul",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "Creme de menthe & creme de cacao both come in this \"color\"",
+        "answer": "clear (or white)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HOTELS BY CITY",
+        "value": 400,
+        "question": "Brunelleschi,Monna Lisa,Villa Medici",
+        "answer": "Florence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 500,
+        "question": "Counting up from 1, it's the first whole number that's not a factor of 12",
+        "answer": "5",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY SONGS",
+        "value": 500,
+        "question": "\"She's got the banjoes strummin' and plunkin' out a tune to beat the band\"",
+        "answer": "Mame",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 500,
+        "question": "A midieval fair is held each March in Sarasota, Florida to raise funds for this art museum",
+        "answer": "the Ringling Museum of Art",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 500,
+        "question": "Naomi's Maobite daughter-in-law who traveled to Bethlehem with her",
+        "answer": "Ruth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "This leafy green vegetable is one of the many ingredients in spanakopita, a tasty Greek pie",
+        "answer": "spinach",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HOTELS BY CITY",
+        "value": 500,
+        "question": "Metropol,Rossiya,Intourist",
+        "answer": "Moscow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PATTON",
+      "BLOOD & GUTS",
+      "THE OLYMPICS",
+      "PAINTERS",
+      "FASHION HISTORY",
+      "'70s BESTSELLERS"
+    ],
+    "clues": [
+      {
+        "category": "THE OLYMPICS",
+        "value": 200,
+        "question": "At the 1992 Summer Games, Summer Sanders won 3 medals in this sport",
+        "answer": "swimming",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PAINTERS",
+        "value": 200,
+        "question": "You can see his painting of \"The Starry Night\" at New York City's Museum of Modern Art",
+        "answer": "van Gogh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 200,
+        "question": "This jacket named for an Indian prime minister had a mandarin-style collar",
+        "answer": "a Nehru jacket",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "'70s BESTSELLERS",
+        "value": 200,
+        "question": "James Clavell subtitled this 1975 bestseller \"A Novel of Japan\"",
+        "answer": "Shogun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BLOOD & GUTS",
+        "value": 400,
+        "question": "O can be a donor to all of these 3 other major blood groups",
+        "answer": "A, B & AB",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE OLYMPICS",
+        "value": 400,
+        "question": "Part of the Winter Olympics since 1924, it's steered by ropes or a steering wheel",
+        "answer": "a bobsled",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PAINTERS",
+        "value": 400,
+        "question": "In 1962 his filmmaker son Jean published a memoir about him",
+        "answer": "Renoir",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 400,
+        "question": "Some fashionable 19th century women wore the leg-of-mutton style of these",
+        "answer": "sleeves",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "'70s BESTSELLERS",
+        "value": 800,
+        "question": "The book so possessed its readers that it was the bestselling horror novel of the decade",
+        "answer": "The Exorcist",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PATTON",
+        "value": 600,
+        "question": "He went to Mexico in 1916 as an aide to this general nicknamed \"Black Jack\"",
+        "answer": "Pershing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BLOOD & GUTS",
+        "value": 600,
+        "question": "The esophagus leads into this organ; the duodenum leads out",
+        "answer": "the stomach",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE OLYMPICS",
+        "value": 600,
+        "question": "The first of the Olympic fencing weapons to be \"electrified\", it has no invalid target",
+        "answer": "the épée",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PAINTERS",
+        "value": 600,
+        "question": "After she moved to New Mexico, bare bones & desert flowers became frequent motifs in her paintings",
+        "answer": "Georgia O'Keeffe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 600,
+        "question": "In the 1700s, La Camargo, who was this type of dancer, set fashion trends in shoes & coiffures",
+        "answer": "ballet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "'70s BESTSELLERS",
+        "value": 600,
+        "question": "James Michener captured the history of Maryland's Eastern Shore in this 1978 bestseller",
+        "answer": "Chesapeake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PATTON",
+        "value": 800,
+        "question": "While a teacher at the Mounted Service School at Ft. Riley, he wrote the manual for this curved sword",
+        "answer": "saber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BLOOD & GUTS",
+        "value": 800,
+        "question": "It may be dangerous for a woman without this antigen factor to have a baby with a man who has it",
+        "answer": "the Rh factor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE OLYMPICS",
+        "value": 800,
+        "question": "This British pair's routine to \"Bolero\" won them the ice dancing gold in 1984",
+        "answer": "Torvill & Dean",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PAINTERS",
+        "value": 800,
+        "question": "He was born December 2, 1859 in Paris, if you get the \"point\"",
+        "answer": "Seurat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 800,
+        "question": "This bulky knot used  to tie four-in-hand neckties was named for an English duke",
+        "answer": "a Windsor knot",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "'70s BESTSELLERS",
+        "value": 800,
+        "question": "Dr. Herman Tarnower made the bestseller lists in 1979 with his book featuring this diet",
+        "answer": "the Scarsdale diet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PATTON",
+        "value": 1000,
+        "question": "In 1917 he was sent to France, where he set up a school to teach soldiers to drive these vehicles",
+        "answer": "tanks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BLOOD & GUTS",
+        "value": 1000,
+        "question": "When ruptured, this heart-sized organ that destroys old red blood cells has to be removed",
+        "answer": "the spleen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE OLYMPICS",
+        "value": 1000,
+        "question": "Bart Conner (1984) & George Eyser (1904) are the only Americans to win gold on this apparatus",
+        "answer": "parallel bars",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PAINTERS",
+        "value": 2000,
+        "question": "James Boswell dedicated his \"Life of Samuel Johnson\" to this British rival of Gainsborough",
+        "answer": "Sir Joshua Reynolds",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 1000,
+        "question": "This couturier's \"new look\" of 1947 featured narrow waistlines & padded hips",
+        "answer": "Christian Dior",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "'70s BESTSELLERS",
+        "value": 1000,
+        "question": "This author dedicated his 1972 bestseller \"to the real Jonathan Seagull, who lives within us all\"",
+        "answer": "(Richard) Bach",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS PAIRS",
+    "clue": "On radio, this pair was played by the creator's daughter, Joan Burroughs, & her husband",
+    "answer": "Tarzan & Jane"
+  },
+  "gameId": "2166",
+  "gameDate": "Monday, January 24, 1994"
+}

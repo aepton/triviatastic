@@ -1,0 +1,565 @@
+{
+  "title": "Show #5660 - Friday, March 27, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "MOUNTAINS",
+      "BROADWAY MUSICAL ADJECTIVES",
+      "MEDICATIONS",
+      "MARCH",
+      "IN LIKE A LION",
+      "OUT LIKE A \"LAM\""
+    ],
+    "clues": [
+      {
+        "category": "MOUNTAINS",
+        "value": 200,
+        "question": "The name of this Alp, the highest in Western Europe, means \"white mountain\"",
+        "answer": "Mont Blanc",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICAL ADJECTIVES",
+        "value": 200,
+        "question": "\"The ___ Mermaid\"",
+        "answer": "Little",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEDICATIONS",
+        "value": 200,
+        "question": "Pneumonia may be treated with oral antibiotics, but if you're hospitalized, you'll get the drugs this way",
+        "answer": "intravenously",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MARCH",
+        "value": 200,
+        "question": "Touching off the \"War of the Oranges\", Spain declared war on this neighbor on March 2, 1801",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IN LIKE A LION",
+        "value": 200,
+        "question": "Lion dances are entertainment during this country's New Year's Day celebrations--in 2009, January 26",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OUT LIKE A \"LAM\"",
+        "value": 200,
+        "question": "A formal public statement, like the one Abraham Lincoln made in early 1863",
+        "answer": "a proclamation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew reports from the University of Wisconsin-Madison.) As you can see on the relief globe, this volcano that takes up over half of the Big Island rises over 6 miles from the sea floor",
+        "answer": "Mauna Loa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICAL ADJECTIVES",
+        "value": 400,
+        "question": "\"The ___ Molly Brown\"",
+        "answer": "Unsinkable",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEDICATIONS",
+        "value": 400,
+        "question": "Several Excedrin products are for headache relief; another has the name of this body part that may ache",
+        "answer": "the back",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MARCH",
+        "value": 400,
+        "question": "In a runup to the revolution, deadly food riots broke out in this Russian city on March 8, 1917",
+        "answer": "St. Petersburg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IN LIKE A LION",
+        "value": 400,
+        "question": "After a kill, members of a pride crowd around the meat, trying to get this proverbial portion",
+        "answer": "the lion's share",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OUT LIKE A \"LAM\"",
+        "value": 400,
+        "question": "Adjective meaning alluring or beautiful, like a movie star",
+        "answer": "glamorous",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 600,
+        "question": "The name of this mountain range of Northeast New York comes from an Iroquois term meaning \"eater of tree bark\"",
+        "answer": "the Adirondack (Mountains)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICAL ADJECTIVES",
+        "value": 600,
+        "question": "\"Joseph and the ___ Technicolor Dreamcoat\"",
+        "answer": "Amazing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEDICATIONS",
+        "value": 600,
+        "question": "Enteric pills don't dissolve in the stomach, which they might injure, but in this organ for which enteric is the adjective",
+        "answer": "the intestine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MARCH",
+        "value": 600,
+        "question": "One of the first radio broadcasts of music took place March 5, 1907 when this opera overture was broadcast",
+        "answer": "the William Tell Overture",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IN LIKE A LION",
+        "value": 600,
+        "question": "For the stage there are kids' versions & a 1913 adult version of the story of this guy & a grateful lion",
+        "answer": "Androcles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OUT LIKE A \"LAM\"",
+        "value": 600,
+        "question": "Mythologically, these terrestrial amphibians were supposed to live in fire",
+        "answer": "salamanders",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 800,
+        "question": "This \"colorful\" eastern range of the Appalachians stretches from Pennsylvania to Georgia",
+        "answer": "the Blue Ridge Mountains",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICAL ADJECTIVES",
+        "value": 800,
+        "question": "\"___ Face\"or\"___ Girl\"",
+        "answer": "Funny",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEDICATIONS",
+        "value": 800,
+        "question": "It's the term for a disinfectant often applied topically, like Bactine",
+        "answer": "an antiseptic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MARCH",
+        "value": 800,
+        "question": "On March 14, 1558 Ferdinand I assumed this \"holy\" title, the first to do so without being crowned by a pope",
+        "answer": "Holy Roman Emperor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IN LIKE A LION",
+        "value": 800,
+        "question": "Lionsgate is a producer of these",
+        "answer": "films",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OUT LIKE A \"LAM\"",
+        "value": 800,
+        "question": "\"Fiery\" adjective used for statements that arouse angry action or rebellion",
+        "answer": "inflammatory",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 1000,
+        "question": "At 13,665 feet, Mount Toubkal is the highest peak in this range in Africa",
+        "answer": "the Atlas Mountains",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICAL ADJECTIVES",
+        "value": 1000,
+        "question": "\"The ___ Chaperone\"",
+        "answer": "Drowsy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEDICATIONS",
+        "value": 1000,
+        "question": "Amiodarone stabilizes a heartbeat undergoing this, specifically tachycardia",
+        "answer": "arrhythmia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MARCH",
+        "value": 1000,
+        "question": "Not a good sign: on March 11, 1824 this govt. bureau abbreviated B.I.A. began as a part of the War Department",
+        "answer": "the Bureau of Indian Affairs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IN LIKE A LION",
+        "value": 1000,
+        "question": "A tradition of this African country is that rulers were often called \"Conquering Lion of the Tribe of Judah\"",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OUT LIKE A \"LAM\"",
+        "value": 1000,
+        "question": "This jawless eel-like fish feeds on other fish by sucking their blood",
+        "answer": "the lamprey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE DEAD SEA SCROLLS",
+      "MOVIE TITLE TRANSLATIONS",
+      "OBSCURE NOBEL PRIZE-WINNING AUTHORS",
+      "TELLING THE MECHANIC",
+      "HALF A MYTHICAL PAIR",
+      "\"P.D.\" QUEUE"
+    ],
+    "clues": [
+      {
+        "category": "THE DEAD SEA SCROLLS",
+        "value": 400,
+        "question": "A host of sacred writings are in the Scrolls, including a commentary about this psalm writer",
+        "answer": "(King) David",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE TRANSLATIONS",
+        "value": 400,
+        "question": "In Spain, this Woody Harrelson film was \"White Men Don't Know How To Stick It In\"",
+        "answer": "White Men Can't Jump",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OBSCURE NOBEL PRIZE-WINNING AUTHORS",
+        "value": 400,
+        "question": "6 of the first 9 winners wore these; Giosuè Carducci's was the bristliest & pointiest",
+        "answer": "beards",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TELLING THE MECHANIC",
+        "value": 400,
+        "question": "After I start my car, it makes this noise--the name of the movie jalopy seen here",
+        "answer": "Chitty Chitty Bang Bang",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HALF A MYTHICAL PAIR",
+        "value": 400,
+        "question": "He abducted Helen",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"P.D.\" QUEUE",
+        "value": 400,
+        "question": "This Latin term refers to a daily allowance for living expenses while traveling",
+        "answer": "per diem",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE DEAD SEA SCROLLS",
+        "value": 800,
+        "question": "The Scrolls were found by a shepherd boy in this year, 2 years after the end of a major war",
+        "answer": "1947",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE TRANSLATIONS",
+        "value": 800,
+        "question": "In Mexico, Ben Affleck & Jennifer Lopez were in \"A Dangerous Relationship\", not this U.S. title",
+        "answer": "Gigli",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OBSCURE NOBEL PRIZE-WINNING AUTHORS",
+        "value": 800,
+        "question": "Like William Inge, Gao Xingjian wrote a play with this transport venue as its title, but his helped win him a Nobel Prize",
+        "answer": "a bus stop",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TELLING THE MECHANIC",
+        "value": 800,
+        "question": "When I turn the key, I hear cock-a-leekie... cock-a-leekie... which is a soup from this country",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HALF A MYTHICAL PAIR",
+        "value": 800,
+        "question": "This commoner fell in love with Isolde",
+        "answer": "Tristan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"P.D.\" QUEUE",
+        "value": 800,
+        "question": "Term for land owned by the government, or a work of art not under copyright",
+        "answer": "public domain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE DEAD SEA SCROLLS",
+        "value": 1200,
+        "question": "The Scrolls are written in Hebrew, Aramaic & this classical language",
+        "answer": "Greek",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE TRANSLATIONS",
+        "value": 1200,
+        "question": "In Hong Kong this Will Smith movie is \"Superhero Always Stand By You Whenever or Wherever You Need Help\"",
+        "answer": "Hancock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OBSCURE NOBEL PRIZE-WINNING AUTHORS",
+        "value": 1200,
+        "question": "Writers from Norway, Sweden & Denmark had already won; in 1939 it was the turn of someone from this country",
+        "answer": "Finland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TELLING THE MECHANIC",
+        "value": 1200,
+        "question": "The rhyming term for the boots seen here; driving on a flat tire sounded like it",
+        "answer": "mukluk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HALF A MYTHICAL PAIR",
+        "value": 1200,
+        "question": "She deserted Troilus for Diomedes",
+        "answer": "Cressida",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"P.D.\" QUEUE",
+        "value": 1200,
+        "question": "This 4th quarter defensive strategy that tries to stop big offensive gains can get groans from fans",
+        "answer": "the prevent defense",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE DEAD SEA SCROLLS",
+        "value": 1600,
+        "question": "The Scrolls reveal a rich & diversified literary tradition amongst the Jews of this ordinal temple period",
+        "answer": "the Second Temple Period",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE TRANSLATIONS",
+        "value": 1600,
+        "question": "In Latvia, this recent Patrick Dempsey film was titled \"I Am In Love With The Bride Too\"",
+        "answer": "Made Of Honor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OBSCURE NOBEL PRIZE-WINNING AUTHORS",
+        "value": 1600,
+        "question": "Only Dag Hammarskjold & Erik Karlfeldt have been awarded a Nobel Prize this way; it's not allowed anyore",
+        "answer": "posthumously",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TELLING THE MECHANIC",
+        "value": 1600,
+        "question": "Every few seconds I hear Pahrump, Pahrump, Pahrump... which is a town in Nye County in this state",
+        "answer": "Nevada",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HALF A MYTHICAL PAIR",
+        "value": 1600,
+        "question": "Psyche was loved by him, the love god",
+        "answer": "Eros (or Cupid)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"P.D.\" QUEUE",
+        "value": 1600,
+        "question": "Type Cleveland P.D. into Google & you'll get hits for the police department & this newspaper",
+        "answer": "The Plain Dealer",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE DEAD SEA SCROLLS",
+        "value": 2000,
+        "question": "Most scholars believe the Dead Sea Scrolls were written by this religious community of apocalyptic Jews",
+        "answer": "the Essenes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TITLE TRANSLATIONS",
+        "value": 2000,
+        "question": "In Latin America this 2008 horror remake was titled \"Bloody Graduation Night\"",
+        "answer": "Prom Night",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OBSCURE NOBEL PRIZE-WINNING AUTHORS",
+        "value": 2000,
+        "question": "The Asian travels of 1944 winner Johannes Jensen got him dubbed Denmark's this British writer who won in 1907",
+        "answer": "Rudyard Kipling",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HALF A MYTHICAL PAIR",
+        "value": 2000,
+        "question": "Leander swam the Hellespont to visit her",
+        "answer": "Hero",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"P.D.\" QUEUE",
+        "value": 2000,
+        "question": "This 2-step dance music is often played at bullfights",
+        "answer": "paso doble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "19th CENTURY CONSTRUCTION",
+    "clue": "It was first designed as \"Egypt carrying the light to Asia\", & its original intended site was Port Said in 1869",
+    "answer": "the Statue of Liberty"
+  },
+  "gameId": "5660",
+  "gameDate": "Friday, March 27, 2009"
+}

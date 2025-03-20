@@ -1,0 +1,574 @@
+{
+  "title": "Show #2189 - Thursday, February 24, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "THE BIBLE",
+      "THE OSCARS",
+      "19th CENTURY FASHION",
+      "NATURE",
+      "AMERICANA",
+      "\"UP\"s & \"DOWN\"s"
+    ],
+    "clues": [
+      {
+        "category": "THE BIBLE",
+        "value": 100,
+        "question": "When asked the whereabouts of Abel, he replied, \"I know not: am I my brother's keeper\"",
+        "answer": "Cain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 100,
+        "question": "This Steven Spielberg film about Peter Pan received a 1992 nomination for \"Best Costume Design\"",
+        "answer": "Hook",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY FASHION",
+        "value": 100,
+        "question": "Part of the body around which a cravat is worn",
+        "answer": "the neck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NATURE",
+        "value": 100,
+        "question": "Growing up to 65 feet these parts of a raffia palm are the longest on any plant",
+        "answer": "the leaves",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 100,
+        "question": "Nevada's Carson River is named for him",
+        "answer": "Kit Carson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"UP\"s & \"DOWN\"s",
+        "value": 100,
+        "question": "It's most often a nickname for Australia",
+        "answer": "Down Under",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "Before his ministry, Jesus is believed to have practiced this trade taught to him by Joseph",
+        "answer": "carpentry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 200,
+        "question": "In 1992 this Disney film became the first animated feature ever nominated for \"Best Picture\"",
+        "answer": "Beauty and the Beast",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY FASHION",
+        "value": 200,
+        "question": "One of the tallest of the top hats; honest Abe was known for his",
+        "answer": "stovepipe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NATURE",
+        "value": 200,
+        "question": "Among birds, hummingbirds are considered the most important in carrying out this process between plants",
+        "answer": "pollination",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 200,
+        "question": "There's an exhibit devoted to this late Muppeteer in Leland, Mississippi, near his birthplace",
+        "answer": "Jim Henson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"UP\"s & \"DOWN\"s",
+        "value": 200,
+        "question": "It's another term for a square dance",
+        "answer": "a hoedown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 300,
+        "question": "Some of these mentioned in the Bible are Horeb, Carmel & Olives",
+        "answer": "mounts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 300,
+        "question": "This actor won as \"Best Director\" for \"Dances with Wolves\", his directorial debut",
+        "answer": "Kevin Costner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY FASHION",
+        "value": 300,
+        "question": "He put the blue in blue jeans",
+        "answer": "(Levi) Strauss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NATURE",
+        "value": 600,
+        "question": "Developed from buried peat deposits, lignite is the first stage in the formation of this fuel",
+        "answer": "coal",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 300,
+        "question": "This city is home to the Doo Dah Parade & the Tournament of Roses Parade",
+        "answer": "Pasadena",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"UP\"s & \"DOWN\"s",
+        "value": 300,
+        "question": "Any article of clothing you might pass on to a younger sibling",
+        "answer": "a hand-me-down",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "In addition to 6 sons, Leah bore him a daughter, Dinah",
+        "answer": "Jacob",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 400,
+        "question": "\"Somewhere In My Memory\" from this 1990 Macaulay Culkin film was nominated for \"Best Song\"",
+        "answer": "Home Alone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY FASHION",
+        "value": 400,
+        "question": "A crinoline was used to stretch these garments to about 5 feet wide",
+        "answer": "skirts (*a dress)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NATURE",
+        "value": 400,
+        "question": "Most breeds of domestic duck are descended from this common wild variety",
+        "answer": "the mallard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 400,
+        "question": "Kellogg's cereals made this Michigan city the \"Breakfast Food City\"",
+        "answer": "Battle Creek",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"UP\"s & \"DOWN\"s",
+        "value": 400,
+        "question": "The Apache & Paiute Indians used brush & matting to make this simple hut",
+        "answer": "wickiup",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 500,
+        "question": "\"To every thing there is a season\", begins a famous passage from this book",
+        "answer": "Ecclesiastes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 500,
+        "question": "Bruce Joel Rubin won an Oscar for writing this 1990 film in which Whoopi Goldberg played a medium",
+        "answer": "Ghost",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY FASHION",
+        "value": 500,
+        "question": "Popular styles of these included Hessian, jockey & Wellington",
+        "answer": "boots",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NATURE",
+        "value": 500,
+        "question": "While weevils are a destructive type of this insect, the ladybird is considered beneficial",
+        "answer": "the beetle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 500,
+        "question": "The first English colony in what's now this state was the Popham Settlement near the mouth of the Kennebec River",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"UP\"s & \"DOWN\"s",
+        "value": 500,
+        "question": "\"Beacon Hill\" was similar to this British TV series about a wealthy family & its servants",
+        "answer": "Upstairs, Downstairs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HAIL TO THE CHIEF",
+      "COMPUTERS",
+      "CHILDREN'S LITERATURE",
+      "NEWSPAPERS & MAGAZINES",
+      "CANADA",
+      "GENERAL KNOWLEDGE"
+    ],
+    "clues": [
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 200,
+        "question": "His disputed electoral victory earned him the nickname \"Rutherfraud\"",
+        "answer": "Rutherford B. Hayes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 200,
+        "question": "Device you use to click & drag",
+        "answer": "a mouse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 200,
+        "question": "They're made of \"frogs and snails and puppy-dogs' tails\"",
+        "answer": "little boys",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEWSPAPERS & MAGAZINES",
+        "value": 200,
+        "question": "Read all about it! It's an unscheduled edition of a newspaper printed when big news breaks",
+        "answer": "an extra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CANADA",
+        "value": 200,
+        "question": "Canada produces millions of gallons of this sweet syrup every year, more than any other country",
+        "answer": "maple syrup",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GENERAL KNOWLEDGE",
+        "value": 200,
+        "question": "An outline of this sculpted monument appears on South Dakota license plates",
+        "answer": "Mount Rushmore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 400,
+        "question": "He succeeded Thomas Jefferson as president of the U.S. & as rector of the University of Virginia",
+        "answer": "James Madison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 400,
+        "question": "A monitor's resolution is measured in the number of these on the screen; a common one is 640 X 480",
+        "answer": "pixels",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 400,
+        "question": "\"Pease porridge hot, pease porridge cold, pease porridge in the pot\", this many \"days old\"",
+        "answer": "nine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEWSPAPERS & MAGAZINES",
+        "value": 400,
+        "question": "In 1993 this city's Herald won a Pulitzer gold medal for reporting on Hurricane Andrew",
+        "answer": "Miami",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CANADA",
+        "value": 400,
+        "question": "The musical ride is a spectacular display of horsemanship performed by these police",
+        "answer": "the Mounties",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GENERAL KNOWLEDGE",
+        "value": 400,
+        "question": "In the Roman calendar, this day fell on the 15th of March, May, July & Oct., & on the 13th of other months",
+        "answer": "the Ides",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 600,
+        "question": "For his efforts in founding the League of Nations, he was awarded the 1919 Nobel Peace Prize",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 600,
+        "question": "To turn a computer into a multimedia machine; one of these players is added",
+        "answer": "CD-ROM",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 600,
+        "question": "At the end of the Grimms' version of the story, pigeons peck out the eyes of her stepsisters",
+        "answer": "Cinderella",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEWSPAPERS & MAGAZINES",
+        "value": 600,
+        "question": "In 1974 this Radnor, Penn.-based magazine became the first weekly to sell a billion copies in a year",
+        "answer": "TV Guide",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CANADA",
+        "value": 600,
+        "question": "This city in British Columbia is Canada's busiest port",
+        "answer": "Vancouver",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GENERAL KNOWLEDGE",
+        "value": 600,
+        "question": "On Dec. 7, 1991 about 2,000 veterans of this event gathered for a 50th anniversary reunion",
+        "answer": "the bombing of Pearl Harbor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 800,
+        "question": "A few weeks after his birth, his mother wrote, \"He is very large of his age and grows fat every day\"",
+        "answer": "William Howard Taft",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 800,
+        "question": "It's considered fragmented when the spaces it allocates to a file are not contiguous, but scattered",
+        "answer": "a hard disk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 1600,
+        "question": "Born in a flower, her cradle was a polished walnut shell",
+        "answer": "Thumbelina",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NEWSPAPERS & MAGAZINES",
+        "value": 800,
+        "question": "Now edited by Helen Gurley Brown, this magazine began in Rochester, N.Y. in 1886",
+        "answer": "Cosmopolitan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CANADA",
+        "value": 800,
+        "question": "The annual Calgary Stampede in this province is world-famous for its chuck wagon races",
+        "answer": "Alberta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GENERAL KNOWLEDGE",
+        "value": 800,
+        "question": "On Oct. 31, 1961 his name was removed from Moscow's Red Square; his body was removed a day later",
+        "answer": "(Joseph) Stalin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 2000,
+        "question": "After his fiancee Anne Coleman died, he apparently vowed never to marry, & he never did",
+        "answer": "James Buchanan",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 1000,
+        "question": "The main or baseboard of most computers, it has expansion slots to extend the computer's capabilities",
+        "answer": "the motherboard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 1000,
+        "question": "This character created by Antoine de Saint-Exupery came to Earth from an asteroid",
+        "answer": "the Little Prince",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NEWSPAPERS & MAGAZINES",
+        "value": 1000,
+        "question": "Harrison Salisbury, once this newspaper's Moscow correspondent, died in July 1993",
+        "answer": "the New York Times",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CANADA",
+        "value": 1000,
+        "question": "Over 15 of the islands in the Northwest Territories are larger than this island, Canada's smallest province",
+        "answer": "Prince Edward Island",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GENERAL KNOWLEDGE",
+        "value": 1000,
+        "question": "This great king of the Franks was probably born in Aachen in what is now Germany in 742",
+        "answer": "Charlemagne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS WOMEN",
+    "clue": "A 1953 graduate of Mount St. Vincent College in NYC, she was a world leader 1986-1992",
+    "answer": "Corazon Aquino"
+  },
+  "gameId": "2189",
+  "gameDate": "Thursday, February 24, 1994"
+}

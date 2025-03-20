@@ -1,0 +1,484 @@
+{
+  "title": "Show #4545 - Friday, May 14, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "MEET THE PRESS",
+      "\"D.C.\"",
+      "CURRENT EVENTS",
+      "IT'S THE ECONOMY, STUPID!",
+      "WAAAAAAH!",
+      "I WANT MY ______E"
+    ],
+    "clues": [
+      {
+        "category": "MEET THE PRESS",
+        "value": 200,
+        "question": "In 1971 Daniel Ellsberg leaked the Pentagon Papers to this newspaper's Neil Sheehan",
+        "answer": "The New York Times",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "\"D.C.\"",
+        "value": 200,
+        "question": "This Dickens character is the first full name mentioned in J.D. Salinger's \"Catcher in the Rye\"",
+        "answer": "David Copperfield",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CURRENT EVENTS",
+        "value": 200,
+        "question": "The ocean current named for this most populous state flows south at a slow, you might also say mellow, pace",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IT'S THE ECONOMY, STUPID!",
+        "value": 200,
+        "question": "Of $3.75, $5.15 or $7.25, the current federal minimum hourly wage",
+        "answer": "$5.15",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WAAAAAAH!",
+        "value": 200,
+        "question": "This 4th century B.C. Macedonian king supposedly \"wept, for there were no more worlds to conquer\"",
+        "answer": "Alexander the Great",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "I WANT MY ______E",
+        "value": 200,
+        "question": "You might've noticed this 132-room building on an 18-acre plot a few doors down",
+        "answer": "the White House",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MEET THE PRESS",
+        "value": 400,
+        "question": "This 108-year-old magazine that covers hunting & fishing is \"The soul of the American outdoors\"",
+        "answer": "Field & Stream",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "\"D.C.\"",
+        "value": 400,
+        "question": "This legendary frontiersman's motto was \"Be always sure you're right--then go ahead!\"",
+        "answer": "Davy Crockett",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CURRENT EVENTS",
+        "value": 400,
+        "question": "Blend the north & south equatorial currents, add a splash from west of Florida & you've got this \"stream\"",
+        "answer": "the Gulf Stream",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IT'S THE ECONOMY, STUPID!",
+        "value": 400,
+        "question": "The value of all goods & services produced within a country during a year makes up this, the GDP",
+        "answer": "the gross domestic product",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WAAAAAAH!",
+        "value": 400,
+        "question": "In 1949 this country legend sang, \"The midnight train is whining low, I'm so lonesome I could cry\"",
+        "answer": "Hank Williams",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "I WANT MY ______E",
+        "value": 400,
+        "question": "\"Earthy\" term for an overwhelming election victory",
+        "answer": "landslide",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MEET THE PRESS",
+        "value": 600,
+        "question": "The logo of this humorous newspaper is seen here",
+        "answer": "The Onion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "\"D.C.\"",
+        "value": 600,
+        "question": "In terms of electricity, it flows steadily in one direction",
+        "answer": "direct current",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CURRENT EVENTS",
+        "value": 600,
+        "question": "A dip in the Arctic current named for this, the world's largest island, would certainly be invigorating",
+        "answer": "Greenland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IT'S THE ECONOMY, STUPID!",
+        "value": 600,
+        "question": "Created in 1914, this agency issues cease & desist orders against firms engaging in unlawful practices",
+        "answer": "the Federal Trade Commission",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEET THE PRESS",
+        "value": 800,
+        "question": "This magazine has been giving its seal of approval since 1909",
+        "answer": "Good Housekeeping",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "\"D.C.\"",
+        "value": 800,
+        "question": "This epic poem by Dante is divided into 3 sections: the Inferno, the Purgatorio & the Paradiso",
+        "answer": "the Divine Comedy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CURRENT EVENTS",
+        "value": 800,
+        "question": "Spanish for \"the child\", it's the warm back eddy of the chilly Peru Current",
+        "answer": "El Niño",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IT'S THE ECONOMY, STUPID!",
+        "value": 800,
+        "question": "Its past chairmen have included Thomas McCabe, Arthur Burns & Paul Volcker",
+        "answer": "the Federal Reserve",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEET THE PRESS",
+        "value": 1000,
+        "question": "It calls itself \"The newspaper of Capitol Hill since 1955\"",
+        "answer": "Roll Call",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CURRENT EVENTS",
+        "value": 1000,
+        "question": "The Falkland Current flows for hundreds of miles up the east coast of this country",
+        "answer": "Argentina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IT'S THE ECONOMY, STUPID!",
+        "value": 1000,
+        "question": "The full title of Adam Smith's monumental 1776 work is \"An Inquiry into the Nature and Causes of\" this",
+        "answer": "the Wealth of Nations",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MEET THE PREZ",
+      "WHAT EXIT ARE YA FROM?",
+      "THE \"HOT\" SEAT",
+      "FORBES' BILLIONAIRES",
+      "WHAT ARE YOU AFRAID OF?",
+      "NUCLEAR PHYSICS"
+    ],
+    "clues": [
+      {
+        "category": "MEET THE PREZ",
+        "value": 400,
+        "question": "In California, February 6, 2004 was proclaimed this president's \"Day\" in honor of his 93rd birthday",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WHAT EXIT ARE YA FROM?",
+        "value": 400,
+        "question": "Exit 61B: I may be conservative on the Supreme Court but take me hunting & I shoot liberally",
+        "answer": "Justice Scalia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE \"HOT\" SEAT",
+        "value": 400,
+        "question": "Sexy nickname of Major Margaret Houlihan on \"M*A*S*H\"",
+        "answer": "\"Hot Lips\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FORBES' BILLIONAIRES",
+        "value": 400,
+        "question": "Poised to unseat Bill Gates as numero uno is this Berkshire Hathaway man, now ranked No. 2",
+        "answer": "Warren Buffett",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHAT ARE YOU AFRAID OF?",
+        "value": 400,
+        "question": "If you're genuphobic, you're afraid of these lower body parts that bend",
+        "answer": "knees",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 400,
+        "question": "In 1905 at his house in Switzerland, this German physicist wrote his theory of relativity",
+        "answer": "Einstein",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MEET THE PREZ",
+        "value": 800,
+        "question": "He was the fifth Harvard grad to become president, & the first Roman Catholic",
+        "answer": "John Fitzgerald Kennedy",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WHAT EXIT ARE YA FROM?",
+        "value": 800,
+        "question": "I'm on first, Exit 102.  What's on second?  My partner Costello, Exit 155P",
+        "answer": "Abbott",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE \"HOT\" SEAT",
+        "value": 800,
+        "question": "When business is good, things are \"selling like\" these pan-fried foods",
+        "answer": "hotcakes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FORBES' BILLIONAIRES",
+        "value": 800,
+        "question": "The Donald tied for No. 205 with the Steven--this director",
+        "answer": "Steven Spielberg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT ARE YOU AFRAID OF?",
+        "value": 800,
+        "question": "If you've got musophobia, you may yell \"Eek!\" on seeing one of these small animals",
+        "answer": "mice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 800,
+        "question": "Splitting atoms to release energy is called fission; combining atoms to release energy is called this",
+        "answer": "fusion",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MEET THE PREZ",
+        "value": 1200,
+        "question": "His presidential library sells aprons with the motto \"If you can't stand the heat, get out of the kitchen\"",
+        "answer": "Harry Truman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WHAT EXIT ARE YA FROM?",
+        "value": 1200,
+        "question": "Born off the Ohio Pike:I invented so much stuff in N.J. they named a township for me (take Exit 10 & 287)",
+        "answer": "(Thomas) Edison",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE \"HOT\" SEAT",
+        "value": 1200,
+        "question": "As a verb, it means to perform difficult stunts; as a noun, it's something you eat at the ballpark",
+        "answer": "hot dog",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FORBES' BILLIONAIRES",
+        "value": 1200,
+        "question": "5 members of this retail family made the Top 10, including Jim & John (shouldn't that be Jim-Bob & John-Boy?)",
+        "answer": "the Waltons",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT ARE YOU AFRAID OF?",
+        "value": 1200,
+        "question": "Gephyrophobia is a fear of crossing these structures & we'll do it when we come to it",
+        "answer": "a bridge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 1200,
+        "question": "Chemical symbol U, this metallic element is used as a fuel in nuclear reactors & weapons",
+        "answer": "uranium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MEET THE PREZ",
+        "value": 1600,
+        "question": "At over 330 pounds, you might say this Wilson predecessor had a huge impact on the presidency",
+        "answer": "Howard Taft",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WHAT EXIT ARE YA FROM?",
+        "value": 1600,
+        "question": "Exit 100B down the shore: You're in for a beat-down if you don't know I'm the male actor with the most Oscar nominations",
+        "answer": "Jack Nicholson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE \"HOT\" SEAT",
+        "value": 1600,
+        "question": "To start a car by short-circuiting the ignition",
+        "answer": "hotwire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FORBES' BILLIONAIRES",
+        "value": 1600,
+        "question": "Ironically, Dhanin Chearavanont made a fortune with this kind of \"feed\", slang for a small amount of money",
+        "answer": "chicken feed",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT ARE YOU AFRAID OF?",
+        "value": 1600,
+        "question": "If you've got dendrophobia, a fear of these, you probably can't see the forest for them",
+        "answer": "trees",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MEET THE PREZ",
+        "value": 2000,
+        "question": "Of the first 5 U.S. presidents, he was the only one who wasn't born in Virginia",
+        "answer": "Adams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE \"HOT\" SEAT",
+        "value": 2000,
+        "question": "A heated building usually with glass walls where delicate plants are raised",
+        "answer": "the hot house",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FORBES' BILLIONAIRES",
+        "value": 2000,
+        "question": "There's no potter's field in the future for this creator of Harry Potter; she's No. 552",
+        "answer": "J.K. Rowling",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHAT ARE YOU AFRAID OF?",
+        "value": 2000,
+        "question": "Hopefully Noah didn't have antlophobia, a fear of these natural disasters",
+        "answer": "floods",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE U.S. SENATE",
+    "clue": "In the year 1958, the U.S. Senate was made up of this many members",
+    "answer": "96"
+  },
+  "gameId": "4545",
+  "gameDate": "Friday, May 14, 2004"
+}

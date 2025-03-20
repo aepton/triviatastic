@@ -1,0 +1,556 @@
+{
+  "title": "Show #1832 - Tuesday, July 14, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "PARIS",
+      "MOVIE SONGS",
+      "FAMOUS FIRSTS",
+      "FICTIONAL SENIORS",
+      "LIBRARIES",
+      "\"BIG\" & \"LITTLE\""
+    ],
+    "clues": [
+      {
+        "category": "PARIS",
+        "value": 100,
+        "question": "Unless flooding occurs, you can tour the Paris underground by way of les egouts, which are these",
+        "answer": "the sewers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 100,
+        "question": "Here, \"way up high, there's a land that I heard of once in a lullaby\"",
+        "answer": "somewhere over the rainbow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FIRSTS",
+        "value": 100,
+        "question": "The half eagle minted in 1795 was the first U.S. coin to bear this Latin motto",
+        "answer": "E pluribus unum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL SENIORS",
+        "value": 100,
+        "question": "This \"Christmas Carol\" curmudgeon is \"secret, and self-contained, and solitary as an oyster\"",
+        "answer": "(Ebenezer) Scrooge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 100,
+        "question": "The Department of Libraries in Montpelier has this state's best collection of early newspapers",
+        "answer": "Vermont",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"BIG\" & \"LITTLE\"",
+        "value": 100,
+        "question": "He's the tyrannical political leader in George Orwell's \"1984\"",
+        "answer": "Big Brother",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PARIS",
+        "value": 200,
+        "question": "The gleaming beauty of Paris has earned it the nickname \"City of\" this",
+        "answer": "Lights",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 200,
+        "question": "\"I'm an old cowhand from\" this river, \"but my legs ain't bowed and my cheeks ain't tanned\"",
+        "answer": "the Rio Grande",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FIRSTS",
+        "value": 200,
+        "question": "Completed in 1885, the 10-story Home Insurance Co. Building in Chicago was the 1st to be called this",
+        "answer": "a skyscraper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL SENIORS",
+        "value": 200,
+        "question": "The \"Alm-Uncle\", who lives on an Alpine peak called the Alm, is the grandfather of this Swiss miss",
+        "answer": "Heidi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 200,
+        "question": "This city's public library system is Wisconsin's largest with more than 1.5 million books",
+        "answer": "Milwaukee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"BIG\" & \"LITTLE\"",
+        "value": 200,
+        "question": "It sounds every hour on the hour outside London's houses of Parliament",
+        "answer": "Big Ben",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PARIS",
+        "value": 300,
+        "question": "The Sorbonne is located  in this quarter, the oldest part of the Left Bank",
+        "answer": "the Latin Quarter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 300,
+        "question": "\"Would you like to swing on a star, carry moonbeams home in\" one of these",
+        "answer": "a jar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FIRSTS",
+        "value": 300,
+        "question": "In 1973 Emily Howell became the 1st woman employed by a major U.S. airline in this capacity",
+        "answer": "a pilot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL SENIORS",
+        "value": 300,
+        "question": "The devoted housekeeper Nelly Dean narrates much of the story of this Bronte title house",
+        "answer": "Wuthering Heights",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 300,
+        "question": "This organization's Dag Hammarskjold Library specializes in books dealing with international affairs",
+        "answer": "the United Nations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"BIG\" & \"LITTLE\"",
+        "value": 300,
+        "question": "This baseball organization was founded in Williamsport, Pennsylvania, originally for boys aged 9 to 12",
+        "answer": "Little League",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PARIS",
+        "value": 400,
+        "question": "\"The Departure of the Volunteers\" is perhaps the best-known sculpture adorning this monument",
+        "answer": "the Arc de Triomphe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 400,
+        "question": "Title line preceding \"It's the April rose that only grows in the early spring\"",
+        "answer": "love is a many-splendored thing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FIRSTS",
+        "value": 400,
+        "question": "In Oct. 1967 he became the first black associate justice of the U.S. Supreme Court",
+        "answer": "Thurgood Marshall",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL SENIORS",
+        "value": 400,
+        "question": "In this novel Hugh Conway finds out that the High Lama is about 250 years old",
+        "answer": "Lost Horizon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"BIG\" & \"LITTLE\"",
+        "value": 400,
+        "question": "In 1928 Commander Richard E. Byrd established this U.S. base on Antarctica",
+        "answer": "Little America",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PARIS",
+        "value": 500,
+        "question": "Place Blanche in this artistic quarter is dominated by a moulin rouge or red windmill",
+        "answer": "Montmartre",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 500,
+        "question": "\"Secret Love\", from this 1953 Doris Day film about a famous frontierswoman, won an Oscar for Best Song",
+        "answer": "Calamity Jane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS FIRSTS",
+        "value": 500,
+        "question": "Located in Kansas, it was the 1st federal penitentiary authorized for construction",
+        "answer": "Leavenworth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL SENIORS",
+        "value": 500,
+        "question": "Laurie's wealthy grandfather gives Beth her own piano in this well-loved novel",
+        "answer": "Little Women",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"BIG\" & \"LITTLE\"",
+        "value": 500,
+        "question": "Directions like \"Get your girl & take a twirl\" were called out during this jitterbug dance of the 1930s",
+        "answer": "the Big Apple",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MARINE BIOLOGY",
+      "20th CENTURY POLITICS",
+      "CELEBRITY COUPLES",
+      "MYTHOLOGY",
+      "REVOLUTIONS & REBELLIONS",
+      "THE BLUES"
+    ],
+    "clues": [
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 200,
+        "question": "Types of this porous animal include red-beard & bath",
+        "answer": "a sponge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY POLITICS",
+        "value": 200,
+        "question": "In January 1992 this 1st elected black governor pulled out of the presidential race",
+        "answer": "Douglas Wilder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CELEBRITY COUPLES",
+        "value": 200,
+        "question": "In 1957 this crooner tied the knot with actress Kathryn Grant in Las Vegas",
+        "answer": "Bing Crosby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "The name of this principal river of the netherworld means \"abhorrent\"",
+        "answer": "the Styx",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REVOLUTIONS & REBELLIONS",
+        "value": 200,
+        "question": "This \"majority\" party led by Lenin won the October Revolution in 1917",
+        "answer": "the Bolsheviks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE BLUES",
+        "value": 200,
+        "question": "\"Infantile\" nickname for light blue eyes",
+        "answer": "baby blue",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 400,
+        "question": "Scientists call these boneless, umbrella-shaped sea animals medusas",
+        "answer": "jellyfish",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY POLITICS",
+        "value": 400,
+        "question": "In January 1992 Zviad Gamsakhurdia fled this ex-Soviet republic of which he was president",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CELEBRITY COUPLES",
+        "value": 400,
+        "question": "Laraine Day became known as \"The First Lady of Baseball\" after she married this Dodgers manager",
+        "answer": "Leo Durocher",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "Book II of Virgil's \"The Aeneid\" is about this famous \"gift\"",
+        "answer": "the Trojan Horse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REVOLUTIONS & REBELLIONS",
+        "value": 400,
+        "question": "Mao Tse-tung launched this \"Revolution\" in 1966",
+        "answer": "the Great Cultural Revolution",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE BLUES",
+        "value": 400,
+        "question": "This \"mood\"y blue color got its name because the dye was from India",
+        "answer": "indigo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 600,
+        "question": "The largest known shell of this bivalve was a 734-pound specimen found off Okinawa in 1956",
+        "answer": "a clam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY POLITICS",
+        "value": 1200,
+        "question": "In 1972 he headed the committee to re-elect the president; in 1977 he was in jail",
+        "answer": "John Mitchell",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CELEBRITY COUPLES",
+        "value": 600,
+        "question": "Alfred Steele was Pepsi-Cola's chairman of the board & this actress' husband",
+        "answer": "Joan Crawford",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 600,
+        "question": "In Scyros, Odysseus found this warrior disguised as a girl & his heels were killing him",
+        "answer": "Achilles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REVOLUTIONS & REBELLIONS",
+        "value": 600,
+        "question": "In England Wat Tyler was part of the Peasants' Revolt & James Watt was part of this \"Revolution\"",
+        "answer": "the Industrial Revolution",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE BLUES",
+        "value": 600,
+        "question": "Time of day that's a dark shade of blue",
+        "answer": "midnight blue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 1600,
+        "question": "Asterias vulgaris is the \"common\" species of this marine animal",
+        "answer": "a starfish",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY POLITICS",
+        "value": 800,
+        "question": "In 1964 he took over Hubert Humphrey's seat in the Senate",
+        "answer": "Mondale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CELEBRITY COUPLES",
+        "value": 800,
+        "question": "Chief Justice Earl Warren's daughter Virginia was married to this host of \"What's My Line\"",
+        "answer": "John Daly",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 800,
+        "question": "He was Antigone's half brother & father",
+        "answer": "Oedipus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "REVOLUTIONS & REBELLIONS",
+        "value": 800,
+        "question": "This Mexican general led the revolution under the slogan \"Land and Liberty\"",
+        "answer": "Zapata",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE BLUES",
+        "value": 800,
+        "question": "The blue he used in his  jasperware is now named for him",
+        "answer": "Wedgwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MARINE BIOLOGY",
+        "value": 1000,
+        "question": "American & European eels begin their lives in this huge seaweed area of the Atlantic Ocean",
+        "answer": "the Sargasso Sea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "20th CENTURY POLITICS",
+        "value": 1000,
+        "question": "Gerald Austin Gardiner set up this post in England for citizen complaints against the government",
+        "answer": "Ombudsman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CELEBRITY COUPLES",
+        "value": 1000,
+        "question": "Among this big band singer's wives were Joanne Dru & Rita Hayworth",
+        "answer": "Dick Haymes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1000,
+        "question": "On his ninth labor, Hercules was sent to get this queen's girdle",
+        "answer": "Hippolyta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "REVOLUTIONS & REBELLIONS",
+        "value": 1000,
+        "question": "In 1956 former premiere Imre Nagy led an anti-communist rebellion in this country",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE BLUES",
+        "value": 1000,
+        "question": "This gemstone can be crushed to make ultramarine, a blue pigment",
+        "answer": "lapis lazuli",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GERMAN AUTHORS",
+    "clue": "Composer Paul Dukas based \"The Sorcerer's Apprentice\" on a story by this poet, novelist & scientist",
+    "answer": "Goethe"
+  },
+  "gameId": "1832",
+  "gameDate": "Tuesday, July 14, 1992"
+}

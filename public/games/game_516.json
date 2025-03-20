@@ -1,0 +1,574 @@
+{
+  "title": "Show #1302 - Tuesday, April 10, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "FAMOUS NAMES",
+      "ADVERTISING SLOGANS",
+      "THE BIBLE",
+      "WEATHER",
+      "4-LETTER WORDS",
+      "PRESIDENTIAL ASTROLOGY"
+    ],
+    "clues": [
+      {
+        "category": "FAMOUS NAMES",
+        "value": 100,
+        "question": "This star of \"Kojak\" admits he shaves his head every morning",
+        "answer": "Telly Savalas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ADVERTISING SLOGANS",
+        "value": 100,
+        "question": "\"When you care enough to send the very best\", send one of these",
+        "answer": "Hallmark Card",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 100,
+        "question": "Among these tales told by Jesus were those \"of the net\", \"of the mustard seed\" & \"of the hidden treasures\"",
+        "answer": "parables",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 100,
+        "question": "Airplanes can trigger bolts of this when traveling through electrified clouds",
+        "answer": "lightning",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 100,
+        "question": "This word commonly follows cuff or missing",
+        "answer": "link",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL ASTROLOGY",
+        "value": 100,
+        "question": "Gerald Ford was the last president born under this \"crab\"by sign",
+        "answer": "Cancer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 200,
+        "question": "Creator of \"The Cisco Kid\", William Sidney Porter was better known by this name",
+        "answer": "O. Henry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ADVERTISING SLOGANS",
+        "value": 200,
+        "question": "\"Wouldn't you really rather have\" one of these cars",
+        "answer": "Buick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "I Corinthians 7:9 states, \"It is better to marry than to\" do this",
+        "answer": "burn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 200,
+        "question": "Air is described as supersaturated when the relative humidity is higher than this percent",
+        "answer": "100%",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 200,
+        "question": "From the Greek word for \"deep sleep\", it's a deep, prolonged unconsciousness",
+        "answer": "coma",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL ASTROLOGY",
+        "value": 200,
+        "question": "It's Jimmy Carter's sign, so don't tip his scales",
+        "answer": "Libra",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 300,
+        "question": "\"The First Time Ever\" she had a No. 1 album was \"First Take\" in 1972",
+        "answer": "Roberta Flack",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ADVERTISING SLOGANS",
+        "value": 300,
+        "question": "\"I like\" this lemon-lime soda \"in you\"",
+        "answer": "Sprite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 300,
+        "question": "It was like coriander seed, white; & the taste of it was like wafers made with honey",
+        "answer": "manna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 300,
+        "question": "Tornadoes that develop over water are called these",
+        "answer": "waterspouts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 300,
+        "question": "It can be part of your foot, your shoe, your stocking or your loaf of bread",
+        "answer": "heel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL ASTROLOGY",
+        "value": 300,
+        "question": "Appropriately, we've had 2 presidents born under this sign, Bush & Kennedy",
+        "answer": "Gemini",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 400,
+        "question": "George Bush pardoned this 91-year-old industrialist for his illegal contributions to Nixon's campaign",
+        "answer": "Armand Hammer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ADVERTISING SLOGANS",
+        "value": 400,
+        "question": "\"Tan, don't burn use\" this",
+        "answer": "Coppertone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 800,
+        "question": "Things saved from this city were the gold & silver, the iron & brass vessels & Rahab & her family",
+        "answer": "Jericho",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 400,
+        "question": "Season of the year when Arizona has its \"monsoons\"",
+        "answer": "Summer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 400,
+        "question": "A roue, or his garden implement",
+        "answer": "rake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL ASTROLOGY",
+        "value": 400,
+        "question": "Our last Sagittarian pres.; his last name sounds like something Sagittarius' arrows could do",
+        "answer": "(Franklin) Pierce",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 500,
+        "question": "Ines de la Fressange was a Chanel model when she was chosen to represent this French symbol",
+        "answer": "Marianne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ADVERTISING SLOGANS",
+        "value": 500,
+        "question": "This maker of pre-school toys says, \"Our work is child's play\"",
+        "answer": "Fisher-Price",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 500,
+        "question": "While carting this, Uzza touched it to right it after the oxen stumbled, & the Lord smote him",
+        "answer": "the Ark of the Covenant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 500,
+        "question": "An increase in air temperature at higher altitudes is unusual & is called this",
+        "answer": "inversion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 500,
+        "question": "A raisin can be called by this other fruit's name when it's added to a pudding or a cake",
+        "answer": "plum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL ASTROLOGY",
+        "value": 500,
+        "question": "With the exception of R. Reagan, all the presidents born under this sign died in office",
+        "answer": "Aquarius (W.H. Harrison, Lincoln, McKinley & FDR were the presidents who died in office)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SCIENCE & NATURE",
+      "WORLD GEOGRAPHY",
+      "PIRATE MOVIES",
+      "AUTHORS",
+      "AMERICAN HISTORY",
+      "WINE"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 200,
+        "question": "The iris is a flower & the ibis is one of these",
+        "answer": "bird",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "This country is named after the town of Oporto",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PIRATE MOVIES",
+        "value": 200,
+        "question": "In this 1935 film that made him a star, Errol Flynn was Dr. Peter Blood, a physician who turns to piracy",
+        "answer": "Captain Blood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "He wrote a non-baby book called \"Decent And Indecent: Our Personal And Political Behavior\"",
+        "answer": "Dr. Benjamin Spock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 200,
+        "question": "It became a U.S. territory in 1900 & a state 59 years later",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WINE",
+        "value": 200,
+        "question": "Malaga is a sweet dessert wine that originated in this country",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 400,
+        "question": "In a healthy mouth, this line separates the crown from the root of a tooth",
+        "answer": "gum line",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "The Sea of Galilee is just a broad basin of this river",
+        "answer": "the River Jordan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PIRATE MOVIES",
+        "value": 400,
+        "question": "Anthony Quinn was a pirate stuck with stowaway children in the film \"A High Wind In\" this place",
+        "answer": "Jamaica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "This author's home where he wrote \"To Have And Have Not\" is now a nat'l landmark in Key West, Fla.",
+        "answer": "Ernest Hemingway",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "Susan B. Anthony was arrested in 1872 for doing this",
+        "answer": "Voting",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WINE",
+        "value": 400,
+        "question": "On wine labels, this word which means \"estate\" precedes Lafite & Mouton-Rothschild",
+        "answer": "chateau",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 600,
+        "question": "Every summer thousands of these animals go to the Pribilof Islands in the north Pacific to breed",
+        "answer": "seals",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 600,
+        "question": "The surface of this lake in Siberia is about 1,490 ft. above sea level, the bottom over 5,300 ft. below",
+        "answer": "Lake Baikal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PIRATE MOVIES",
+        "value": 600,
+        "question": "Silent screen swashbuckler; his film \"The Black Pirate\" has been called \"a definitive pirate movie\"",
+        "answer": "Douglas Fairbanks, Sr.",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1200,
+        "question": "Oscar Wilde's only novel",
+        "answer": "The Picture of Dorian Gray",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 600,
+        "question": "In 1949 Henry H. Arnold became the first general of this branch of the armed forces",
+        "answer": "Air Force",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WINE",
+        "value": 600,
+        "question": "\"Anatomical\" term for a wine's bouquet",
+        "answer": "nose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 800,
+        "question": "Man-made metal 1st positively identified in 1958 & named for a Swedish inventor; it has no known use",
+        "answer": "Nobelium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 800,
+        "question": "Papua New Guinea is just off this country's Cape York Peninsula",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PIRATE MOVIES",
+        "value": 800,
+        "question": "Robert Newton played this pirate before Peter Ustinov played his ghost in a Disney film",
+        "answer": "Blackbeard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 800,
+        "question": "An eye ailment contracted at Eton School ended his plans to study biology, like his brother Julian",
+        "answer": "Aldous Huxley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 800,
+        "question": "In April 1984 this U.S. government agency admitted its role in the mining of Nicaraguan harbors",
+        "answer": "CIA",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WINE",
+        "value": 800,
+        "question": "The term for pouring wine into another container before serving; it helps clear it of sediments",
+        "answer": "decanting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 1000,
+        "question": "Take the fibrinogen out of blood plasma & you're left with a fluid called this",
+        "answer": "serum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 2000,
+        "question": "1 of the 2 Central American countries with only 1 sea coast",
+        "answer": "Belize & El Salvador",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PIRATE MOVIES",
+        "value": 1000,
+        "question": "Ingrid Bergman's husband in \"Casablanca\", he played a pirate captain in \"Pirates Of Tripoli\"",
+        "answer": "Paul Henreid",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1000,
+        "question": "A member of the Algonquin Round Table, this petite brunette wrote a story called \"Big Blonde\"",
+        "answer": "Dorothy Parker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1000,
+        "question": "John Hancock held this political position from 1780-85 & from 1787-93",
+        "answer": "Governor of Massachusetts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WINE",
+        "value": 1000,
+        "question": "The famous Moselle wines come from this country",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CABLE TELEVISION",
+    "clue": "The name of this channel can be traced back to a movie theater that opened in 1905 in McKeesport, Pa.",
+    "answer": "Nickelodeon"
+  },
+  "gameId": "1302",
+  "gameDate": "Tuesday, April 10, 1990"
+}

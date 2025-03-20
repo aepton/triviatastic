@@ -1,0 +1,574 @@
+{
+  "title": "Show #4739 - Thursday, March 24, 2005",
+  "jeopardyRound": {
+    "categories": [
+      "WAR STORIES",
+      "OLYMPIC BOXERS",
+      "CRUISIN' THE CARIBBEAN",
+      "STATE TREES",
+      "SMITH COLLEGE ALUMNAE",
+      "WORDS ABOUT WORDS"
+    ],
+    "clues": [
+      {
+        "category": "WAR STORIES",
+        "value": 200,
+        "question": "\"The Man Who Flew the Memphis Belle\",\"Slaughterhouse Five\"",
+        "answer": "World War II",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC BOXERS",
+        "value": 200,
+        "question": "With this name, Muhammad Ali won 1960 light-heavyweight gold",
+        "answer": "Cassius Clay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CRUISIN' THE CARIBBEAN",
+        "value": 200,
+        "question": "Princess Cruises shipped in tons of this to keep its private Caribbean island beach looking pristine",
+        "answer": "sand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE TREES",
+        "value": 200,
+        "question": "The glossy green leaves & red berries of this state tree of Delaware are used to make Christmas wreaths",
+        "answer": "a holly tree",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SMITH COLLEGE ALUMNAE",
+        "value": 200,
+        "question": "She went to Smith in 1918 hoping to become a doctor; her dream was \"Gone with the Wind\" when her mom died in 1919",
+        "answer": "Margaret Mitchell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 200,
+        "question": "\"The storm of protest was nipped in the bud\" is a \"mixed\" one of these",
+        "answer": "a metaphor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 400,
+        "question": "\"Gods and Generals\",\"Li'l Dan: The Drummer Boy\"",
+        "answer": "the Civil War",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC BOXERS",
+        "value": 400,
+        "question": "You'd be chillin' & grillin' if you knew that he won the heavyweight gold medal in 1968",
+        "answer": "(George) Foreman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CRUISIN' THE CARIBBEAN",
+        "value": 400,
+        "question": "As you'd expect, it was the first company to launch a fleet exclusively in the Caribbean",
+        "answer": "Royal Caribbean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE TREES",
+        "value": 400,
+        "question": "The seeds of the horse chestnut, Ohio's state tree, resemble the orb of a male deer, giving it this nickname",
+        "answer": "the buckeye",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SMITH COLLEGE ALUMNAE",
+        "value": 400,
+        "question": "This chef who died at age 91 in 2004 earned a history degree from Smith in 1934",
+        "answer": "(Julia) Child",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 400,
+        "question": "The more delicate and vague \"to pass away\" when used as a substitute for \"to die\"",
+        "answer": "a euphemism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 600,
+        "question": "\"A Farewell to Arms\",\"Goodbye to All That\"",
+        "answer": "World War I",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC BOXERS",
+        "value": 600,
+        "question": "Teofilo Stevenson of this country impressively won heavyweight gold in 1972, 1976 & 1980",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CRUISIN' THE CARIBBEAN",
+        "value": 600,
+        "question": "Destiny & Liberty are 2 of this line's \"Fun Ships\"",
+        "answer": "Carnival",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE TREES",
+        "value": 600,
+        "question": "Both Colorado & Utah chose the blue species of this",
+        "answer": "a spruce",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SMITH COLLEGE ALUMNAE",
+        "value": 600,
+        "question": "These 2 20th century First Ladies both attended Smith College in the 1940s",
+        "answer": "Barbara Bush & Nancy Reagan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 600,
+        "question": "Nick Lowe's \"cruel to be kind\" or Ahnold's \"girlie men\"",
+        "answer": "an oxymoron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 800,
+        "question": "\"The Splendid Little War\",\"The Rough Riders\"",
+        "answer": "The Spanish-American War",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC BOXERS",
+        "value": 800,
+        "question": "Both the 1972 & 1976 Olympic light-welterwight gold medalists had this \"sweet\" nickname",
+        "answer": "Sugar Ray",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CRUISIN' THE CARIBBEAN",
+        "value": 800,
+        "question": "If you're cruising on the Royal Clipper, it will most likely be under this power",
+        "answer": "wind",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE TREES",
+        "value": 800,
+        "question": "The fan-shaped leaves of this South Carolina state tree are sometimes used to make baskets",
+        "answer": "the palmetto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SMITH COLLEGE ALUMNAE",
+        "value": 800,
+        "question": "This 1956 grad co-founded the Ms. Foundation & the Women's Action Alliance",
+        "answer": "(Gloria) Steinem",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 800,
+        "question": "9-letter term for the deliberate exaggeration of \"to wait an eternity\"",
+        "answer": "a hyperbole",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 1000,
+        "question": "\"Hold Back the Night\",\"The Coldest War\"",
+        "answer": "The Korean War",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC BOXERS",
+        "value": 1000,
+        "question": "Last name of the brotherly pair who both won gold medals in Montreal",
+        "answer": "Spinks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CRUISIN' THE CARIBBEAN",
+        "value": 1000,
+        "question": "When you pull into Guadeloupe, you may have to change your dollars into this official currency",
+        "answer": "euros",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE TREES",
+        "value": 1000,
+        "question": "This nut pine is the state tree of New Mexico",
+        "answer": "the piñon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SMITH COLLEGE ALUMNAE",
+        "value": 1000,
+        "question": "Ann M. Martin (Smith, 1977) is the author of the book series about this \"Club\"",
+        "answer": "The Baby-sitters Club",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 1000,
+        "question": "\"A well-boiled icicle\" & \"a scoop of boy trouts\" are 2 of these transpositions",
+        "answer": "spoonerisms",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE ORCHESTRA",
+      "AROUND THE HORN",
+      "SYMBOLS",
+      "THE VIOLENCE",
+      "PLAYING THE BUFFOON",
+      "\"P\" AN' \"O\"s"
+    ],
+    "clues": [
+      {
+        "category": "THE ORCHESTRA",
+        "value": 400,
+        "question": "Orchestra section with the name of an alloy",
+        "answer": "the brass",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HORN",
+        "value": 400,
+        "question": "In August 1578 this English navigator sailed around Cape Horn",
+        "answer": "Drake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SYMBOLS",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew points to a chalkboard with linguistic symbols.)  Danish linguist Otto Jesperson first suggested what's now known as the IPA, short for this",
+        "answer": "the international phonetic alphabet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE VIOLENCE",
+        "value": 400,
+        "question": "Legal term for the burning of a building with malicious or criminal intent",
+        "answer": "arson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PLAYING THE BUFFOON",
+        "value": 400,
+        "question": "In a 1960 comedy, a bumbling Jerry Lewis has this title job at the Fontainebleau Hotel",
+        "answer": "The Bellboy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"P\" AN' \"O\"s",
+        "value": 400,
+        "question": "Temporary loss of electricity",
+        "answer": "a power outage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE ORCHESTRA",
+        "value": 800,
+        "question": "There's a special case, seen here, for this item used on the podium",
+        "answer": "a baton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HORN",
+        "value": 800,
+        "question": "Willem Schouten, who rounded the Horn, named it after his birthplace in this country",
+        "answer": "Holland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SYMBOLS",
+        "value": 800,
+        "question": "The long symbolic history of the pentacle includes representing Jesus' five of these",
+        "answer": "wounds (or stigmata)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE VIOLENCE",
+        "value": 800,
+        "question": "In 59 A.D. this Roman emperor went too far & had his mom Agrippina murdered",
+        "answer": "Nero",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PLAYING THE BUFFOON",
+        "value": 800,
+        "question": "He made us laugh as \"Tommy Boy\", the dimwitted heir to an auto parts factory",
+        "answer": "Chris Farley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"P\" AN' \"O\"s",
+        "value": 800,
+        "question": "Children's game of giving letters & receiving kisses in return",
+        "answer": "post office",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE ORCHESTRA",
+        "value": 1200,
+        "question": "For much of the 20th c., Gregor Piatigorsky was regarded as the world's second-greatest virtuoso on this instrument",
+        "answer": "the cello",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HORN",
+        "value": 1200,
+        "question": "In the 1830s this British ship visited the Patagonian Coast & the Falkland Islands & made a passage around Cape Horn",
+        "answer": "the Beagle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SYMBOLS",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew reviews some symbols on a chalkboard.)  An adscript, which goes directly to the right of a letter, is more rare than these two types of characters named for their positions",
+        "answer": "a subscript & a superscript",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE VIOLENCE",
+        "value": 1200,
+        "question": "This system for informing people about abductions is named for an unfortunate 9-year-old",
+        "answer": "Amber Alert",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PLAYING THE BUFFOON",
+        "value": 1200,
+        "question": "John Belushi played this most notorious Delta in \"Animal House\"",
+        "answer": "Bluto",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"P\" AN' \"O\"s",
+        "value": 1200,
+        "question": "Of the genus Rhus, it'll give you a rash if touched",
+        "answer": "poison oak",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE ORCHESTRA",
+        "value": 1600,
+        "question": "It was invented in the 18th century, & in the 19th Monsieur Sax developed it into the saxophone",
+        "answer": "a (bass) clarinet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HORN",
+        "value": 1600,
+        "question": "In 1910 he said he was sailing from Norway to the Arctic Ocean via Cape Horn, but he was really headed to the South Pole",
+        "answer": "Amundsen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SYMBOLS",
+        "value": 1600,
+        "question": "Delta, Alitalia & KLM are part of this \"Team\", whose symbol is seen here",
+        "answer": "SkyTeam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE VIOLENCE",
+        "value": 1600,
+        "question": "In WWII he headed the Gestapo in Lyons, France; in January 1983 he was arrested in South America",
+        "answer": "Klaus Barbie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PLAYING THE BUFFOON",
+        "value": 1600,
+        "question": "Luckily, Jim Carrey gave a more dastardly turn as this evil relative in \"A Series of Unfortunate Events\"",
+        "answer": "Uncle (or Count) Olaf",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"P\" AN' \"O\"s",
+        "value": 1600,
+        "question": "A drink of raw egg, Worcestershire sauce, salt & pepper, taken as a hangover cure",
+        "answer": "a prairie oyster",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE ORCHESTRA",
+        "value": 2000,
+        "question": "A gold \"concert grand pedal\" one of these instruments from Lyon & Healy costs $42,000",
+        "answer": "a harp",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE HORN",
+        "value": 2000,
+        "question": "This British naval captain \"Endeavour\"ed to sail around the Horn--& did in 1769",
+        "answer": "Cook",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SYMBOLS",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew reports from Abu Simbel, Egypt.)  Hieroglyphs can be phonograms, representing sounds, or these, representing concepts, like \"sun\"",
+        "answer": "ideographs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE VIOLENCE",
+        "value": 2000,
+        "question": "Assassinated by a naval officer in 1628, English nobleman George Villiers was the first duke of this \"palatial\" title",
+        "answer": "the Duke of Buckingham",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PLAYING THE BUFFOON",
+        "value": 2000,
+        "question": "This comic's \"Rush Hour\" character was billed as \"The Biggest Mouth in the West\"",
+        "answer": "Chris Tucker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"P\" AN' \"O\"s",
+        "value": 2000,
+        "question": "A time for the media to take pictures of a politician doing something newsworthy",
+        "answer": "a photo opportunity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HARVARD MEN",
+    "clue": "Books by this alumnus include 1957's \"Nuclear Weapons and Foreign Policy\" & 1994's \"Diplomacy\"",
+    "answer": "Henry Kissinger"
+  },
+  "gameId": "4739",
+  "gameDate": "Thursday, March 24, 2005"
+}

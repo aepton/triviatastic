@@ -1,0 +1,574 @@
+{
+  "title": "Show #3487 - Tuesday, November 2, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. CITIES",
+      "VOICES",
+      "THE BIBLE",
+      "UNIVERSAL STUDIOS ISLANDS OF ADVENTURE",
+      "REMEMBER THE '80s?",
+      "AS MOM SAYS..."
+    ],
+    "clues": [
+      {
+        "category": "U.S. CITIES",
+        "value": 100,
+        "question": "Stanford students know the name of this California city means \"tall tree\", referring to redwoods",
+        "answer": "Palo Alto",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "VOICES",
+        "value": 100,
+        "question": "Harry Shearer talks to himself a lot playing Mr. Burns & Smithers on this series",
+        "answer": "The Simpsons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 100,
+        "question": "The first 2 disciples Jesus called were Andrew & this man, his brother",
+        "answer": "Simon Peter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "UNIVERSAL STUDIOS ISLANDS OF ADVENTURE",
+        "value": 100,
+        "question": "If you like 3-D action, you'll love the amazing adventures of this webslinger",
+        "answer": "Spider-Man",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER THE '80s?",
+        "value": 100,
+        "question": "On May 13, 1981 a Turkish assailant made an assassination attempt on this man in the Vatican",
+        "answer": "Pope John Paul II",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AS MOM SAYS...",
+        "value": 100,
+        "question": "Don't judge a book...",
+        "answer": "By its cover",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 200,
+        "question": "Solomon Juneau was the first mayor of this largest Wisconsin city",
+        "answer": "Milwaukee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "VOICES",
+        "value": 200,
+        "question": "As this porcine character in a 1995 film, Christine Cavanaugh spoke English, not Pig Latin",
+        "answer": "Babe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "The Philistine king gave David this protection job for life; hey, Kevin Costner could play him in the movie",
+        "answer": "Bodyguard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "UNIVERSAL STUDIOS ISLANDS OF ADVENTURE",
+        "value": 200,
+        "question": "Sam-I-Am knows Universal has a cafe named for this \"colorful\" title breakfast",
+        "answer": "\"Green Eggs and Ham\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER THE '80s?",
+        "value": 200,
+        "question": "In this 1985 movie Michael J. Fox time-traveled from the 1980s to the 1950s to the 1980s",
+        "answer": "Back to the Future",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AS MOM SAYS...",
+        "value": 200,
+        "question": "Don't cross your eyes or...",
+        "answer": "They'll stay that way",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 300,
+        "question": "After the Twin Cities & Bloomington, Duluth is this state's next most populous city",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "VOICES",
+        "value": 300,
+        "question": "(Hi, I'm Michael McKean)  I worked with this \"Seinfeld\" actor in the animated series \"Duckman\" & co-starred with him on Broadway in \"Accomplice\"",
+        "answer": "Jason Alexander",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 300,
+        "question": "One given on taking leave is mentioned in Genesis 31; one of betrayal in Matthew 26",
+        "answer": "Kiss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "UNIVERSAL STUDIOS ISLANDS OF ADVENTURE",
+        "value": 300,
+        "question": "A T-rex attacks just before you take an 85-foot plunge on the ride named for this 1993 film",
+        "answer": "Jurassic Park",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER THE '80s?",
+        "value": 300,
+        "question": "Many books offered step-by-step solutions to this 6-sided plastic puzzle",
+        "answer": "Rubik's Cube",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AS MOM SAYS...",
+        "value": 300,
+        "question": "You can't make a silk purse...",
+        "answer": "Out of a sow's ear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 400,
+        "question": "Found on Absecon Island, it's famous for its Boardwalk (& Park Place)",
+        "answer": "Atlantic City",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "VOICES",
+        "value": 400,
+        "question": "She played Azteca in \"Antz\"",
+        "answer": "Jennifer Lopez",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "These structures mentioned included those of Penuel, Eder, Hananel & of course, of Babel",
+        "answer": "Towers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "UNIVERSAL STUDIOS ISLANDS OF ADVENTURE",
+        "value": 400,
+        "question": "Seuss Landing is home to a rollicking ride named for this famous feline",
+        "answer": "The Cat in the Hat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER THE '80s?",
+        "value": 400,
+        "question": "This 1997 movie starring Jodie Foster was based on Carl Sagan's bestselling 1985 book",
+        "answer": "Contact",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AS MOM SAYS...",
+        "value": 400,
+        "question": "Once bitten...",
+        "answer": "Twice shy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 1000,
+        "question": "About 25 miles north of Miami, it was named for a structure built during the 2nd Seminole War",
+        "answer": "Fort Lauderdale",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "VOICES",
+        "value": 500,
+        "question": "Heard as Ruth P. McDougal on \"Hey Arnold!\", she's seen as Claudia Salinger on \"Party of Five\"",
+        "answer": "Lacey Chabert",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 500,
+        "question": "Some say this object was actually a conjunction of Jupiter & Saturn in the constellation of Pisces",
+        "answer": "Star of Bethlehem",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "UNIVERSAL STUDIOS ISLANDS OF ADVENTURE",
+        "value": 500,
+        "question": "On Marvel's Superhero Island you may turn green when you ride the roller coaster named for him",
+        "answer": "The Incredible Hulk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER THE '80s?",
+        "value": 500,
+        "question": "In 1986 Chris Van Allsburg won the Caldecott Medal with his book about this \"Express\"",
+        "answer": "\"The Polar Express\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AS MOM SAYS...",
+        "value": 500,
+        "question": "Hope for the best...",
+        "answer": "Prepare for the worst",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT CHINA",
+      "WHEN THEY WERE TEENS",
+      "BOTANY",
+      "COMPUTER LITERACY",
+      "COLLEGES & UNIVERSITIES",
+      "DOUBLE TALK"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT CHINA",
+        "value": 200,
+        "question": "4,000 years ago, the first needles used in this Chinese medical procedure were made out of stone, not metal",
+        "answer": "Acupuncture",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WHEN THEY WERE TEENS",
+        "value": 200,
+        "question": "This \"Speed\" star, a cheerleader at her Arlington, VA. high school, also \"Net\"ted the title \"Class Clown\"",
+        "answer": "Sandra Bullock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BOTANY",
+        "value": 200,
+        "question": "This \"sugar\" tree is the state tree of New York, Vermont, West Virginia & Wisconsin",
+        "answer": "Maple",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COMPUTER LITERACY",
+        "value": 200,
+        "question": "Po Bronson's 1999 book tells of \"The Nudist on the Late Shift and Other True Tales\" of this hi-tech \"Valley\"",
+        "answer": "Silicon Valley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 200,
+        "question": "Wayne State College is in Wayne, Nebraska; Wayne State University is in this largest Michigan city",
+        "answer": "Detroit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 200,
+        "question": "Before you ever \"walked the dog\" in the U.S., this toy was a Filipino hunting weapon",
+        "answer": "Yo-yo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT CHINA",
+        "value": 400,
+        "question": "The Chinese signed legal documents by affixing one of these, something criminals leave as a clue",
+        "answer": "Fingerprint",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WHEN THEY WERE TEENS",
+        "value": 400,
+        "question": "She was 16 when she was cast to play Beverly Hills teenager Donna Martin",
+        "answer": "Tori Spelling",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BOTANY",
+        "value": 400,
+        "question": "Species of this plant include the jumping cholla, barrel & organ pipe",
+        "answer": "cactus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COMPUTER LITERACY",
+        "value": 400,
+        "question": "This executive has written of \"Business at the Speed of Thought\" & \"The Road Ahead\"",
+        "answer": "Bill Gates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 400,
+        "question": "David Byrne of the Talking Heads attended this Providence art school",
+        "answer": "Rhode Island School of Design",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 400,
+        "question": "In popular names it precedes \"Bean\" & \"Cool J\"",
+        "answer": "L.L.",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT CHINA",
+        "value": 600,
+        "question": "Ancient Persian courts would unravel this material from China & reweave it into their own designs",
+        "answer": "Silk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WHEN THEY WERE TEENS",
+        "value": 600,
+        "question": "This \"Good Will Hunting\" star was a teen when he made his feature film debut in a bit role in \"Mystic Pizza\"",
+        "answer": "Matt Damon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BOTANY",
+        "value": 600,
+        "question": "The largest seeds are the nuts of the coco-de-mer, a type of this tree that grows in the Seychelles",
+        "answer": "Coconut palm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COMPUTER LITERACY",
+        "value": 600,
+        "question": "This psychotic computer is repaired in Arthur C. Clarke's \"2010: Odyssey Two\"",
+        "answer": "HAL",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 600,
+        "question": "\"Pax et Lux\" (\"Peace and Light\") is the motto of this university located in Medford, Massachusetts",
+        "answer": "Tufts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 600,
+        "question": "If you're a swan in \"Swan Lake\", you're probably wearing one of these",
+        "answer": "Tutu",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT CHINA",
+        "value": 800,
+        "question": "The Chinese believed these occured when a dragon in the sky tried to swallow the sun",
+        "answer": "Solar eclipses",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WHEN THEY WERE TEENS",
+        "value": 800,
+        "question": "She was the teen star of the 1969 film \"A Walk with Love and Death\", directed by her dad, John Huston",
+        "answer": "Anjelica Huston",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BOTANY",
+        "value": 800,
+        "question": "The Egyptian lotus is actually a member of these \"water\" plants that grow on the surface of rivers & streams",
+        "answer": "Water lilies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COMPUTER LITERACY",
+        "value": 800,
+        "question": "A computer commits suicide after talking to Marvin the Robot in this first Douglas Adams novel",
+        "answer": "The Hitchhiker's Guide to the Galaxy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 800,
+        "question": "3 Baptist missionaries helped found this Waco school, Texas' oldest in continuing operation",
+        "answer": "Baylor University",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 800,
+        "question": "Said of something neither very good nor very bad; passable",
+        "answer": "So-so",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT CHINA",
+        "value": 1000,
+        "question": "Originally, Chinese mathematicians rounded off pi to this whole number",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WHEN THEY WERE TEENS",
+        "value": 1000,
+        "question": "While a student at Hot Springs High, he played tenor sax in a jazz combo called Three Blind Mice",
+        "answer": "Bill Clinton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BOTANY",
+        "value": 1000,
+        "question": "The stigma is the sticky area at the top of this female part of a flower",
+        "answer": "the pistil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COMPUTER LITERACY",
+        "value": 1000,
+        "question": "This computer-driven sci-fi subgenre includes works by William Gibson & Bruce Sterling",
+        "answer": "Cyberpunk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 2000,
+        "question": "This Ivy League college in upstate New York was founded by a man who built telegraph systems",
+        "answer": "Cornell",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 2000,
+        "question": "It's the once scandalous 19th century dance performed to the music heard here",
+        "answer": "Can-Can",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SCIENCE HISTORY",
+    "clue": "In 1672 Christiaan Huygens sketched its southern ice cap",
+    "answer": "Mars"
+  },
+  "gameId": "3487",
+  "gameDate": "Tuesday, November 2, 1999"
+}

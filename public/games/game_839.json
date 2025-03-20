@@ -1,0 +1,565 @@
+{
+  "title": "Show #3244 - Thursday, October 15, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "TROPICAL FOREST CREATURES",
+      "A HAIRY CATEGORY",
+      "TV DEMISES",
+      "MIDDLE-EARTH",
+      "HUNGARY?",
+      "WHAT'S FOR DINNER?"
+    ],
+    "clues": [
+      {
+        "category": "TROPICAL FOREST CREATURES",
+        "value": 100,
+        "question": "You should know from the get-go that a gecko can regenerate this body part",
+        "answer": "Tail",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A HAIRY CATEGORY",
+        "value": 100,
+        "question": "The man seen here helped add this hairy term to the English language (General Ambrose Burnside)",
+        "answer": "Sideburns",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TV DEMISES",
+        "value": 100,
+        "question": "This series' Det. Chin Ho Kelly was killed off in 1978, vainly waiting to hear \"Book 'em, Chin Ho!\"",
+        "answer": "Hawaii Five-O",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MIDDLE-EARTH",
+        "value": 100,
+        "question": "This type of creature supplies the title of a 1937 Tolkien work; Frodo Baggins is one",
+        "answer": "Hobbit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HUNGARY?",
+        "value": 100,
+        "question": "Hungary's main mineral resource is bauxite, the ore that yields this easily \"foil\"ed metal",
+        "answer": "Aluminum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S FOR DINNER?",
+        "value": 100,
+        "question": "I'm taking this, the usual basis of green salads, braising it & serving it au gratin",
+        "answer": "Lettuce",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "TROPICAL FOREST CREATURES",
+        "value": 200,
+        "question": "There are over 100 species of the poison arrow type of these amphibians",
+        "answer": "Frogs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A HAIRY CATEGORY",
+        "value": 200,
+        "question": "An animal lends its name to this slick \"tail\" style popular in the 1950s",
+        "answer": "Ducktail",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TV DEMISES",
+        "value": 200,
+        "question": "In a 1980 revamping, the sands ran through the hourglass for 3 characters on this soap",
+        "answer": "\"Days Of Our Lives\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MIDDLE-EARTH",
+        "value": 200,
+        "question": "Frodo has to destroy one of these to stop Sauron from becoming \"Lord Of\" them",
+        "answer": "Ring",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HUNGARY?",
+        "value": 200,
+        "question": "It's red on top, white in the middle & green on the bottom -- no, it's not goulash",
+        "answer": "Hungarian flag",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S FOR DINNER?",
+        "value": 200,
+        "question": "Beef pounded thin, dipped in batter & cooked in a skillet; it includes the name of another meat",
+        "answer": "Chicken-fried steak",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "TROPICAL FOREST CREATURES",
+        "value": 300,
+        "question": "It's found foraging on the forest floor",
+        "answer": "Tapir",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A HAIRY CATEGORY",
+        "value": 300,
+        "question": "Louis XV might have been attracted to you if you wore this style",
+        "answer": "Pompadour",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TV DEMISES",
+        "value": 300,
+        "question": "Sitcom character whose fiancee Susan died from licking toxic envelope glue",
+        "answer": "George Costanza (\"Seinfeld\")",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MIDDLE-EARTH",
+        "value": 300,
+        "question": "Smaug, a dreaded creature of this type, breathed not mere smog, but fire",
+        "answer": "Dragon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HUNGARY?",
+        "value": 300,
+        "question": "The 1956 Olympics featured a bloody water polo match between Hungary & this invader",
+        "answer": "Soviet Union",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S FOR DINNER?",
+        "value": 300,
+        "question": "Yes, we have no bananas, so we'll saute these starchier \"cooking bananas\"",
+        "answer": "Plantains",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TROPICAL FOREST CREATURES",
+        "value": 400,
+        "question": "The coat of the clouded species of this cat provides it with excellent camouflage in India's forests",
+        "answer": "Leopard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A HAIRY CATEGORY",
+        "value": 400,
+        "question": "It's the \"court\"ly cut seen here",
+        "answer": "Page boy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TV DEMISES",
+        "value": 800,
+        "question": "(",
+        "answer": "Melrose Place",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MIDDLE-EARTH",
+        "value": 400,
+        "question": "Like Camelot's Excalibur, Middle-earth's Sting is one of these",
+        "answer": "a sword",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HUNGARY?",
+        "value": 400,
+        "question": "Be sure to hear music by this ethnic group called Czigany, real strolling musicians",
+        "answer": "Gypsies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S FOR DINNER?",
+        "value": 400,
+        "question": "This is how I'll cook the cod; I hope it's not the way it was caught",
+        "answer": "poaching",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TROPICAL FOREST CREATURES",
+        "value": 500,
+        "question": "The \"black\" variety of this snake is the largest venomous snake in Africa",
+        "answer": "the mamba",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A HAIRY CATEGORY",
+        "value": 500,
+        "question": "Your \"honey\" might enjoy this style",
+        "answer": "Beehive",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TV DEMISES",
+        "value": 500,
+        "question": "This McLean Stevenson character perished in the last \"M*A*S*H\" of the 1974-75 season",
+        "answer": "Henry Blake",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HUNGARY?",
+        "value": 500,
+        "question": "Meaning \"famous ruler\", it's the first name of cinematographer Kovacs & painter Moholy-Nagy",
+        "answer": "Laszlo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S FOR DINNER?",
+        "value": 500,
+        "question": "I hope you're starving because I bought enough cornmeal to make a vat of this Italian porridge",
+        "answer": "Polenta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC WOMEN",
+      "JENNIFER & DAVID",
+      "CHEMISTRY",
+      "ROCK GOES POSTAL",
+      "MARTIN SCORSESE, ACTOR",
+      "\"ERE\"Y WORDS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 200,
+        "question": "Feroze, the man whom this future prime minister married in 1942, was not related to the Mahatma",
+        "answer": "Indira Gandhi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "JENNIFER & DAVID",
+        "value": 200,
+        "question": "On \"Friends\" Jennifer Aniston's Rachel was involved with Ross, played by this actor",
+        "answer": "David Schwimmer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CHEMISTRY",
+        "value": 200,
+        "question": "5-letter term for a compound of the NO2 group; with \"glycerine\", it's an explosive",
+        "answer": "nitro",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ROCK GOES POSTAL",
+        "value": 200,
+        "question": "A vote was held to pick which version of this singer, younger or older, would be on the stamp",
+        "answer": "Elvis Presley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MARTIN SCORSESE, ACTOR",
+        "value": 200,
+        "question": "Scorsese was one of this actor's fares in the movie \"Taxi Driver\"",
+        "answer": "Robert De Niro",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"ERE\"Y WORDS",
+        "value": 200,
+        "question": "King Arthur's wife, she was known as Guanhumara in \"Historia Regum Britanniae\"",
+        "answer": "Guinevere",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 400,
+        "question": "Berenice IV, this woman's sister, ruled Egypt from 58-55 B.C., until her father executed her",
+        "answer": "Cleopatra",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JENNIFER & DAVID",
+        "value": 400,
+        "question": "In a 1994 film David Gow was Round Table wit Donald Ogden Stewart; she was Dorothy Parker",
+        "answer": "Jennifer Jason Leigh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CHEMISTRY",
+        "value": 400,
+        "question": "K is a symbol; a designation like K2CO3 is one of these",
+        "answer": "a formula",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ROCK GOES POSTAL",
+        "value": 400,
+        "question": "He was sittin' on a 29-cent stamp as well as on \"The Dock Of The Bay\"",
+        "answer": "Otis Redding",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MARTIN SCORSESE, ACTOR",
+        "value": 400,
+        "question": "Scorsese played a sponsor of \"Twenty-One\" in this 1994 movie about a TV scandal",
+        "answer": "Quiz Show",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"ERE\"Y WORDS",
+        "value": 400,
+        "question": "In 1808 & 1809 this silversmith made copper plates for Robert Fulton's steamship boilers",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 600,
+        "question": "As her nation's last monarch, she championed the Oni Pa'a or \"Stand Firm\" movement",
+        "answer": "Queen Lili'uokalani (of Hawaii)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JENNIFER & DAVID",
+        "value": 600,
+        "question": "In \"Labyrinth\" the goblin king who kidnaps Jennifer Connelly's brother is played by this singer",
+        "answer": "David Bowie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CHEMISTRY",
+        "value": 600,
+        "question": "The table of elements is \"punctuated\" by these horizontal rows",
+        "answer": "periods",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ROCK GOES POSTAL",
+        "value": 600,
+        "question": "This stamp star was born Richard Valenzuela in Pacoima, California",
+        "answer": "Ritchie Valens",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MARTIN SCORSESE, ACTOR",
+        "value": 600,
+        "question": "In \"Guilty By Suspicion\" Scorsese played a director blacklisted for refusing to help this committee",
+        "answer": "the House Un-American Activities Committee (HUAC)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"ERE\"Y WORDS",
+        "value": 600,
+        "question": "Its surface area can be determined by using 4 pi r2",
+        "answer": "a sphere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 1600,
+        "question": "In 1997 Texas family physician Nancy Dickey became the first woman elected to head this organization",
+        "answer": "the American Medical Association (AMA)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JENNIFER & DAVID",
+        "value": 800,
+        "question": "David Geffen's record company released this \"Dreamgirl\"'s 1983 record \"Feel My Soul\"",
+        "answer": "Jennifer Holliday",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CHEMISTRY",
+        "value": 800,
+        "question": "Good news!  Ilya Prigogine showed that the 2nd law of this doesn't doom the universe to a slow \"heat death\"",
+        "answer": "thermodynamics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ROCK GOES POSTAL",
+        "value": 800,
+        "question": "Asked if he was alone on his stamp, this '50s \"R-O-C-K\" star would have \"no comet\"",
+        "answer": "Bill Haley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MARTIN SCORSESE, ACTOR",
+        "value": 800,
+        "question": "Scorsese played Van Gogh in a segment of this Japanese director's \"Dreams\"",
+        "answer": "Akira Kurosawa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"ERE\"Y WORDS",
+        "value": 800,
+        "question": "Cape Columbia on this large island is Canada's northernmost point",
+        "answer": "Ellesmere Island",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC WOMEN",
+        "value": 1000,
+        "question": "In 1923 this woman known for novels of high society became the first to get an honorary degree from Yale",
+        "answer": "Edith Wharton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JENNIFER & DAVID",
+        "value": 1000,
+        "question": "\"Boxing Helena\" was directed by this avant-garde director's daughter Jennifer",
+        "answer": "David Lynch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CHEMISTRY",
+        "value": 1000,
+        "question": "If you split this word for a solution with a pH over 7, you get a great Detroit Tigers outfielder",
+        "answer": "Alkaline/Al Kaline",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ROCK GOES POSTAL",
+        "value": 1000,
+        "question": "There was nothin' finer than this \"queen\" of the blues who partnered with Brook Benton",
+        "answer": "Dinah Washington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MARTIN SCORSESE, ACTOR",
+        "value": 1000,
+        "question": "Scorsese joined Ethan Hawke & this \"Easy Rider\" star in the cast of 1995's \"Search And Destroy\"",
+        "answer": "Dennis Hopper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"ERE\"Y WORDS",
+        "value": 2000,
+        "question": "French physicist who first showed that current in 2 parallel wires causes magnetic forces between the wires",
+        "answer": "Andre-Marie Ampere",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BRITISH AUTHORS",
+    "clue": "Among the poems this British novelist wrote in the 1920s were \"Men in New Mexico\" & \"Autumn at Taos\"",
+    "answer": "D.H. Lawrence"
+  },
+  "gameId": "3244",
+  "gameDate": "Thursday, October 15, 1998"
+}

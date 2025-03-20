@@ -1,0 +1,574 @@
+{
+  "title": "Show #3375 - Friday, April 16, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "\"NEWS\"WEEK",
+      "PC WORLD",
+      "COSMOPOLITAN",
+      "PEOPLE",
+      "LADIES HOME JOURNAL",
+      "TV GUIDE"
+    ],
+    "clues": [
+      {
+        "category": "\"NEWS\"WEEK",
+        "value": 100,
+        "question": "Canine term for an inquisitive news reporter",
+        "answer": "Newshound",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PC WORLD",
+        "value": 100,
+        "question": "Byzantine priests might know the name of the type of screen images seen here",
+        "answer": "Icons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COSMOPOLITAN",
+        "value": 100,
+        "question": "Large glaciers covering this island nation include Langjokull, Hofsjokull & Vatnajokull",
+        "answer": "Iceland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 100,
+        "question": "Genesis printer:1450s",
+        "answer": "Johannes Gutenberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LADIES HOME JOURNAL",
+        "value": 100,
+        "question": "It's the detachable part of an advertisement that entitles you to a discount at the supermarket",
+        "answer": "Coupon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TV GUIDE",
+        "value": 100,
+        "question": "You might leave a message on the machine of this actor who starred as Jim Rockford",
+        "answer": "James Garner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"NEWS\"WEEK",
+        "value": 200,
+        "question": "These short films of current events, such as \"The March of Time\" series, played in movie houses in the '40s",
+        "answer": "Newsreels",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PC WORLD",
+        "value": 200,
+        "question": "One of these is equal to 1,024 bytes",
+        "answer": "Kilobyte",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COSMOPOLITAN",
+        "value": 200,
+        "question": "The southern midsection of this nation is known as the Massif Central",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 200,
+        "question": "Great epic-writing Ionian:9th century B.C.",
+        "answer": "Homer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LADIES HOME JOURNAL",
+        "value": 200,
+        "question": "Examples of these include Dr. Atkins, the Macrobiotic & the Scarsdale",
+        "answer": "Diets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TV GUIDE",
+        "value": 200,
+        "question": "Nancy Cartwright is over 30 years older than this animated son of Marge she voices",
+        "answer": "Bart Simpson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"NEWS\"WEEK",
+        "value": 300,
+        "question": "This Long Island morning paper was founded in 1940",
+        "answer": "Newsday",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PC WORLD",
+        "value": 300,
+        "question": "To take fleas off your dog, or to detect, locate & correct errors in a computer program",
+        "answer": "Debug",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COSMOPOLITAN",
+        "value": 300,
+        "question": "The equator crosses more land in this South American nation than any other",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 300,
+        "question": "2 moonwalkers:July 20, 1969",
+        "answer": "Neil Armstrong & Buzz Aldrin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LADIES HOME JOURNAL",
+        "value": 300,
+        "question": "This mild antiseptic with the formula H2O2 can also be used to bleach hair & fabrics",
+        "answer": "Hydrogen peroxide",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TV GUIDE",
+        "value": 300,
+        "question": "This animated series based on a Scott Adams comic strip premiered on UPN in 1999",
+        "answer": "Dilbert",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"NEWS\"WEEK",
+        "value": 400,
+        "question": "It's the inexpensive paper made from wood pulp of which newspapers are made",
+        "answer": "Newsprint",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PC WORLD",
+        "value": 400,
+        "question": "\"Small\" term for a central processing unit on one integrated circuit",
+        "answer": "Microprocessor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COSMOPOLITAN",
+        "value": 400,
+        "question": "This country's northern border touches China, Bhutan & Nepal",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 400,
+        "question": "Inventive brothers at Kill Devil Hill:December 17, 1903",
+        "answer": "Wright Brothers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LADIES HOME JOURNAL",
+        "value": 400,
+        "question": "From the Latin for \"entering\", they're the listed things you need to prepare food from a recipe",
+        "answer": "Ingredients",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TV GUIDE",
+        "value": 400,
+        "question": "In the 1998 Christmas episode of this sitcom, David Spade played the Grinch",
+        "answer": "Just Shoot Me!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"NEWS\"WEEK",
+        "value": 500,
+        "question": "This Rupert Murdoch company owns the L.A. Dodgers, the New York Post & Fox Studios",
+        "answer": "News Corporation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PC WORLD",
+        "value": 500,
+        "question": "It's not a spider, it's the person responsible for maintaining an internet site",
+        "answer": "Webmaster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COSMOPOLITAN",
+        "value": 500,
+        "question": "With over 50 independent countries, this continent has more than any other",
+        "answer": "Africa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 500,
+        "question": "Vienna's first psychoanalyst:late 1800s",
+        "answer": "Sigmund Freud",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LADIES HOME JOURNAL",
+        "value": 500,
+        "question": "A housewife is also known as a homemaker or one of these \"engineers\"",
+        "answer": "Domestic engineer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TV GUIDE",
+        "value": 1000,
+        "question": "(Hi, I'm Renee Jones from \"Days of our Lives\")  I made my acting debut on this TV series about a white basketball coach at a tough inner-city school",
+        "answer": "The White Shadow",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CHARLEMAGNE",
+      "THE DIRECTOR'S CHAIR",
+      "TOUGH SHAKESPEARE",
+      "POTPOURRI",
+      "BOBs & JEFFs",
+      "LETTER AFTER F"
+    ],
+    "clues": [
+      {
+        "category": "CHARLEMAGNE",
+        "value": 200,
+        "question": "Charlemagne's first title was king of these people; he never was king of the beans",
+        "answer": "Franks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 200,
+        "question": "\"Macbeth\",\"The Trial\",\"The Magnificent Ambersons\"",
+        "answer": "Orson Welles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TOUGH SHAKESPEARE",
+        "value": 200,
+        "question": "On an episode of the TV show \"Moonlighting\", Cybill Shepherd was Kate in an adaptation of this play",
+        "answer": "The Taming of the Shrew",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "The 2 basic types of saddles are English & this type preferred by cowboys",
+        "answer": "Western",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOBs & JEFFs",
+        "value": 200,
+        "question": "He sang \"Thanks for the Memory\" in his first feature film, \"The Big Broadcast of 1938\"",
+        "answer": "Bob Hope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LETTER AFTER F",
+        "value": 200,
+        "question": "In the alphabet",
+        "answer": "G",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHARLEMAGNE",
+        "value": 400,
+        "question": "In subduing the Saxons, Charlemagne executed those who refused this Christian rite",
+        "answer": "Baptism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 400,
+        "question": "\"Once Upon a Time in the West\",\"For a Few Dollars More\",\"The Good, the Bad & the Ugly\"",
+        "answer": "Sergio Leone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TOUGH SHAKESPEARE",
+        "value": 400,
+        "question": "In this comedy's subplot, Sir Toby Belch & Maria play a trick on Malvolio, Olivia's steward",
+        "answer": "Twelfth Night",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "This chess piece that usually looks like part of a castle is sometimes called a castle",
+        "answer": "Rook",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOBs & JEFFs",
+        "value": 400,
+        "question": "He's the K in DreamWorks SKG",
+        "answer": "Jeffrey Katzenberg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LETTER AFTER F",
+        "value": 400,
+        "question": "In a radio broadcast band",
+        "answer": "M",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHARLEMAGNE",
+        "value": 600,
+        "question": "While serving in this post in 799, Leo III was attacked in Rome & took refuge in Charlemagne's court",
+        "answer": "Pope",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 600,
+        "question": "\"Nights of Cabiria\",\"Amarcord\",\"La Strada\"",
+        "answer": "Federico Fellini",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TOUGH SHAKESPEARE",
+        "value": 600,
+        "question": "Pursued by Demetrius & Helena, Hermia & Lysander elope to a wood near Athens in this comedy",
+        "answer": "A Midsummer Night's Dream",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 600,
+        "question": "Specifically, this 12-letter word describes a person between 90 & 100 years old",
+        "answer": "Nonagenarian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOBs & JEFFs",
+        "value": 600,
+        "question": "His engaging performance in \"The Last Picture Show\" earned him a Best Supporting Actor Oscar nomination",
+        "answer": "Jeff Bridges",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LETTER AFTER F",
+        "value": 600,
+        "question": "To abbreviate a state",
+        "answer": "L (as in FL: Florida)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CHARLEMAGNE",
+        "value": 800,
+        "question": "A scholarly king, Charlemagne enjoyed having this saint's \"City of God\" read to him",
+        "answer": "Saint Augustine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 800,
+        "question": "\"An Angel at my Table\",\"Peel',\"The Piano\"",
+        "answer": "Jane Campion",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TOUGH SHAKESPEARE",
+        "value": 1600,
+        "question": "Completes Sonnet 130's first line, \"My mistress' eyes are...\"",
+        "answer": "Nothing like the sun",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 800,
+        "question": "This Creole concoction of meat & seafood is so good Hank Williams wrote a song about it in 1952",
+        "answer": "\"Jambalaya\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOBs & JEFFs",
+        "value": 1600,
+        "question": "1979's \"Gotta Serve Somebody\" was this Minnesotan's last Top 40 single",
+        "answer": "Bob Dylan",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LETTER AFTER F",
+        "value": 800,
+        "question": "To get Angela Bassett's first film",
+        "answer": "X (as in \"F/X\")",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CHARLEMAGNE",
+        "value": 1000,
+        "question": "Charlemagne lost his rear guard, led by this legendary nephew, at the Battle of Roncesvalles",
+        "answer": "Roland (AKA Orlando)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 1000,
+        "question": "\"Broken Blossoms\",\"Intolerance\",\"Way Down East\"",
+        "answer": "D.W. Griffith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TOUGH SHAKESPEARE",
+        "value": 1000,
+        "question": "In \"King Lear\" the Earl of Gloucester boasts of this bastard son: \"There was good sport at his making\"",
+        "answer": "Edmund",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 1000,
+        "question": "Goto is the surname of the young Osaka-born violinist known by this single name",
+        "answer": "Midori",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOBs & JEFFs",
+        "value": 1000,
+        "question": "For his work on behalf of African famine victims, the Queen knighted this lead singer of the Boomtown Rats in 1986",
+        "answer": "Bob Geldof",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LETTER AFTER F",
+        "value": 1000,
+        "question": "In the complete initials of the president of South Africa in 1990",
+        "answer": "W (F.W. de Klerk)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AUTHORS",
+    "clue": "In January 1999 this author issued a public statement reminding the world the third millennium really begins Jan. 1, 2001",
+    "answer": "Arthur C. Clarke"
+  },
+  "gameId": "3375",
+  "gameDate": "Friday, April 16, 1999"
+}

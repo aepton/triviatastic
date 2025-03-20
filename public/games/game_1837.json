@@ -1,0 +1,565 @@
+{
+  "title": "Show #3694 - Thursday, September 28, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "THE WORLD BY THE NUMBERS",
+      "GOULASH",
+      "\"ISM\" NATION",
+      "EAT YOUR CARBOHYDRATES",
+      "FRENCH BRED",
+      "ROLES"
+    ],
+    "clues": [
+      {
+        "category": "THE WORLD BY THE NUMBERS",
+        "value": 100,
+        "question": "Of 0, 12 or 24, the number of hours of sunlight in the Arctic Circle on June 21",
+        "answer": "24",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GOULASH",
+        "value": 100,
+        "question": "As mentioned in \"The Beverly Hillbillies\" theme song, it's the colorful nickname for petroleum",
+        "answer": "\"Black Gold\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\" NATION",
+        "value": 100,
+        "question": "From the Latin for \"sausage\", it's a dangerous type of food poisoning",
+        "answer": "Botulism",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EAT YOUR CARBOHYDRATES",
+        "value": 100,
+        "question": "In Indonesia nasi goreng is the fried type of this staple grain",
+        "answer": "Rice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FRENCH BRED",
+        "value": 100,
+        "question": "Born in Dijon on December 15, 1832, this engineer \"towered\" over his contemporaries",
+        "answer": "Gustave Eiffel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ROLES",
+        "value": 100,
+        "question": "Fletcher Christian,Colonel Kurtz,Vito Corleone",
+        "answer": "Marlon Brando",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE WORLD BY THE NUMBERS",
+        "value": 200,
+        "question": "Of 2.5, 10.5 or 20.5, the width in miles of Korea's DMZ",
+        "answer": "2.5",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GOULASH",
+        "value": 200,
+        "question": "Splinter is this cartoon character's nephew; Knothead is his niece",
+        "answer": "Woody Woodpecker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\" NATION",
+        "value": 200,
+        "question": "\"Shapely\" early 20th century atristic style seen here",
+        "answer": "Cubism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EAT YOUR CARBOHYDRATES",
+        "value": 200,
+        "question": "Y'all can bulk up with this pie made from the nut of a type of hickory tree",
+        "answer": "Pecan pie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FRENCH BRED",
+        "value": 200,
+        "question": "This powerful 12th century queen was born in Aquitaine in 1122 A.D.",
+        "answer": "Eleanor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ROLES",
+        "value": 200,
+        "question": "Claudia Draper,Dolly Levi,Fanny Brice",
+        "answer": "Barbra Streisand",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE WORLD BY THE NUMBERS",
+        "value": 300,
+        "question": "Of 100 million, 300 million or 500 million, the population of the Soviet Union in 1990",
+        "answer": "300 million",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GOULASH",
+        "value": 300,
+        "question": "Ell, nail & bolt are units used primarily to measure lengths of this",
+        "answer": "Fabric/cloth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\" NATION",
+        "value": 300,
+        "question": "A bulge in an artery",
+        "answer": "Aneurysm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EAT YOUR CARBOHYDRATES",
+        "value": 300,
+        "question": "Type of pasta seen here, its name means \"striped\"",
+        "answer": "Rigatoni",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FRENCH BRED",
+        "value": 600,
+        "question": "Born in Besancon, France in 1802, life wasn't \"miserable\" for this author, seen here",
+        "answer": "Victor Hugo",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ROLES",
+        "value": 300,
+        "question": "Donnie Brasco,Ed Wood,Ichabod Crane",
+        "answer": "Johnny Depp",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE WORLD BY THE NUMBERS",
+        "value": 400,
+        "question": "Of 90, 190 or 590, the number of independent nations recognized by the U.S. State Department",
+        "answer": "190",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GOULASH",
+        "value": 400,
+        "question": "All U.S. paper currency bears the signatures of the holders of these 2 offices",
+        "answer": "The Treasurer & the Secretary of the Treasury",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\" NATION",
+        "value": 400,
+        "question": "A modern idea or invention wrongly placed in a historical drama",
+        "answer": "Anachronism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EAT YOUR CARBOHYDRATES",
+        "value": 400,
+        "question": "This name for a seasoned, stewed &/or stuffed mass of dough follows \"Diddle Diddle\" in a nursery rhyme",
+        "answer": "Dumpling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FRENCH BRED",
+        "value": 400,
+        "question": "On May 6, 1758 Arras, France hatched this politician who later hatched the Reign of Terror",
+        "answer": "Robespierre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ROLES",
+        "value": 400,
+        "question": "Tom Horn,Thomas Crown,Junior Bonner",
+        "answer": "Steve McQueen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE WORLD BY THE NUMBERS",
+        "value": 500,
+        "question": "Of 8,000, 28,000 or 128,000, the approximate diameter of the Earth in miles",
+        "answer": "8,000",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GOULASH",
+        "value": 500,
+        "question": "The roots of this largest producer of soy sauce date back to 17th century Japan",
+        "answer": "Kikkoman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"ISM\" NATION",
+        "value": 500,
+        "question": "This ancient religion founded in Persia is set forth in the \"Zend-Avesta\"",
+        "answer": "Zoroastrianism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EAT YOUR CARBOHYDRATES",
+        "value": 500,
+        "question": "The sugar type of this root vegetable is white; the table type is red",
+        "answer": "Beet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FRENCH BRED",
+        "value": 500,
+        "question": "After their births in 1740 & 1745 in Annonay, France, things were up, up & away for these brothers",
+        "answer": "Montgolfier Brothers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ROLES",
+        "value": 500,
+        "question": "Angie Scacciapensieri,Dottie Hinson,Thelma Dickinson",
+        "answer": "Geena Davis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PHYSICS",
+      "THE SIMPSONS",
+      "THE BALKAN SCENE",
+      "KISS, THE BAND",
+      "CONTEMPORARIES",
+      "INSERT (TEXT) HERE"
+    ],
+    "clues": [
+      {
+        "category": "PHYSICS",
+        "value": 200,
+        "question": "It was James Watt who determined an average one of these could pull 33,000 foot-pounds of coal",
+        "answer": "Horse (horsepower)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 200,
+        "question": "In 1937 she received the title Duchess of Windsor as a wedding present",
+        "answer": "Wallis Simpson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE BALKAN SCENE",
+        "value": 200,
+        "question": "Colonel George Papadopoulos led the junta that took power in this country in 1967",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "KISS, THE BAND",
+        "value": 200,
+        "question": "In Kiss' first Top 40 hit song, it's how long \"I Wanna Rock and Roll\"",
+        "answer": "All Night",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 200,
+        "question": "Young Ben Franklin couldn't wait for each new book by this \"Robinson Crusoe\" author",
+        "answer": "Daniel Defoe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "INSERT (TEXT) HERE",
+        "value": 200,
+        "question": "From Kipling:\"We know that the tail must ( ___ ) the dog\"",
+        "answer": "Wag",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 400,
+        "question": "One of the simple machines of physics, one type is added to buildings for handicap access",
+        "answer": "Inclined plane",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 400,
+        "question": "This \"I Wanna Love You Forever\" singer developed her singing skills in a local Baptist church",
+        "answer": "Jessica Simpson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BALKAN SCENE",
+        "value": 400,
+        "question": "[Former President Jimmy Carter speaks from the Carter Center in Atlanta]  In 1994, with Pres. Clinton's approval, I & Carter Center staffers brokered a cease-fire by this country's Muslims & Serbs",
+        "answer": "Bosnia-Herzegovina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "KISS, THE BAND",
+        "value": 400,
+        "question": "Gene Simmons speaks 4 languages: English, German, Hungarian & this one he learned in his native Haifa",
+        "answer": "Hebrew",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 400,
+        "question": "St. Francis of Assisi was already a missionary when this famous grandson of Genghis was born",
+        "answer": "Kublai Khan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "INSERT (TEXT) HERE",
+        "value": 400,
+        "question": "From Isaac Newton:\"If I have seen further, it is by ( ___ ) on the shoulders of giants\"",
+        "answer": "Standing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 600,
+        "question": "An example of the conservation of momentum in action is this felt by a person who fires a gun",
+        "answer": "Recoil",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 600,
+        "question": "Jerry Bruckheimer & this man produced such movies as \"Flashdance\", \"Top Gun\" & \"Days of Thunder\"",
+        "answer": "Don Simpson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BALKAN SCENE",
+        "value": 600,
+        "question": "1990s premiers of this small, isolated Balkan nation included Fatos Nano & Ylli Bufi",
+        "answer": "Albania",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "KISS, THE BAND",
+        "value": 600,
+        "question": "Kiss members donated this body fluid to be used in the ink dyes of the Kiss comic books",
+        "answer": "Blood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 600,
+        "question": "While Henry the Navigator's crews were finding their way around the Earth, this \"Birth of Venus\" artist was born on it",
+        "answer": "Sandro Botticelli",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "INSERT (TEXT) HERE",
+        "value": 600,
+        "question": "From Hamlet:\"O, what a rogue and ( ___ ) slave am I!\"",
+        "answer": "Peasant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 800,
+        "question": "Normally, your mass doesn't change, but your weight does, when this force changes",
+        "answer": "Gravity",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 800,
+        "question": "As a U.S. Senator from Wyoming he authored the Immigration Reform & Control Act",
+        "answer": "Alan Simpson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BALKAN SCENE",
+        "value": 800,
+        "question": "Franjo Tudjman, president of this country that fought Serbia in the early '90s, died in 1999",
+        "answer": "Croatia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "KISS, THE BAND",
+        "value": 800,
+        "question": "On stage, Gene's often been known to breathe this dangerous substance",
+        "answer": "Fire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 800,
+        "question": "While Bunyan was making progress with his Pilgrim, this Puritan was in charge of defending Providence",
+        "answer": "Roger Williams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "INSERT (TEXT) HERE",
+        "value": 800,
+        "question": "From Longfellow:\"By the ( ___ ) big-sea-water\"",
+        "answer": "Shining",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 2000,
+        "question": "Mix all the colors of light that \"Roy G. Biv\" stands for & you get this",
+        "answer": "White",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 1000,
+        "question": "This husband-&-wife team wrote the songs \"Ain't No Mountain High Enough\", \"I'm Every Woman\" & their own hit, \"Solid\"",
+        "answer": "Ashford & Simpson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BALKAN SCENE",
+        "value": 2000,
+        "question": "Gavrilo Princip sparked WWI when he killed Archduke Francis Ferdinand in this city in 1914",
+        "answer": "Sarajevo",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "KISS, THE BAND",
+        "value": 1000,
+        "question": "Training as an artist helped this Kiss lead guitarist design the Kiss logo",
+        "answer": "Ace Frehley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 1000,
+        "question": "This Italian anatomist could have helped some of Henry VIII's wives with their reproductive problems",
+        "answer": "Gabriel Fallopius",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "NOVELISTS",
+    "clue": "In the April 2000 National Geographic, he wrote an article dispelling myths about the great white shark",
+    "answer": "Peter Benchley"
+  },
+  "gameId": "3694",
+  "gameDate": "Thursday, September 28, 2000"
+}

@@ -1,0 +1,538 @@
+{
+  "title": "Show #1006 - Monday, January 9, 1989",
+  "jeopardyRound": {
+    "categories": [
+      "AMERICAN HEROES & LEGENDS",
+      "TRAVEL & TOURISM",
+      "FRUITS & VEGETABLES",
+      "NEW TESTAMENT",
+      "NAME CHANGES",
+      "10-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "AMERICAN HEROES & LEGENDS",
+        "value": 100,
+        "question": "Legend says that he dug Lake Michigan as a water hole for Babe, his Blue Ox",
+        "answer": "Paul Bunyan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 100,
+        "question": "You can climb it in Switzerland or ride through it in Fantasyland",
+        "answer": "the Matterhorn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 100,
+        "question": "Cole Slaw is made from cabbage, & the name of this cabbage-like vegetable is a variant of \"cole\"",
+        "answer": "kale",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEW TESTAMENT",
+        "value": 100,
+        "question": "The gospels say Jesus was crucified the day after he observed this holiday",
+        "answer": "Passover",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME CHANGES",
+        "value": 100,
+        "question": "Born Nellie Pauline Burgin in Knoxville, Tn., she played Robert Mitchum's wife in \"The Winds of War\"",
+        "answer": "Polly Bergen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 100,
+        "question": "Look in this book to find all the words, not just the 10-letter ones",
+        "answer": "a dictionary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HEROES & LEGENDS",
+        "value": 200,
+        "question": "She met her husband Frank Butler when she beat him at a shooting match",
+        "answer": "Annie Oakley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 200,
+        "question": "In St. Thomas, Virgin Islands, tourists can tour Davy Jones' locker in the Atlantis III, which is this",
+        "answer": "a submarine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 200,
+        "question": "Of the huckleberry, boysenberry or loganberry, the one not named after a person",
+        "answer": "the huckleberry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEW TESTAMENT",
+        "value": 200,
+        "question": "Completes the passage from Mark 10, \"What therefore God hath joined together, let no man...\"",
+        "answer": "put asunder (rend asunder accepted)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME CHANGES",
+        "value": 200,
+        "question": "Michael Sinnott, whose comedies were the \"keystone\" of silent films",
+        "answer": "Mack Sennett",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 200,
+        "question": "After their freshman year, all students at the U.S. Naval Academy all hold this rank",
+        "answer": "midshipman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HEROES & LEGENDS",
+        "value": 300,
+        "question": "A 1950 commemorative 3-cent stamp honoring railroad engineers bore his portrait & Engine No. 382",
+        "answer": "Casey Jones",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 300,
+        "question": "Stowe is one of the many ski resorts in this state that leads New England in skiing",
+        "answer": "Vermont",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 300,
+        "question": "We heard it through the grapevine that this is the top raisin-growing state",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEW TESTAMENT",
+        "value": 300,
+        "question": "It's said Paul wrote 13 of these, John 3, George & Ringo--none",
+        "answer": "letters (or epistles)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAME CHANGES",
+        "value": 300,
+        "question": "Sarah Jane Fulks, the First Lady of \"Falcon Crest\"",
+        "answer": "Jane Wyman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 300,
+        "question": "Boring",
+        "answer": "monotonous",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HEROES & LEGENDS",
+        "value": 800,
+        "question": "Legend says he staked out New Mexico, fenced in Arizona & dug the Rio Grande",
+        "answer": "Pecos Bill",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 400,
+        "question": "Moosehead Lake is one of this state's most popular attractions for hunters & fishermen",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NEW TESTAMENT",
+        "value": 400,
+        "question": "After Martha exclaimed \"He stinketh for he hath been dead 4 days,\" Jesus raised him",
+        "answer": "Lazarus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAME CHANGES",
+        "value": 400,
+        "question": "Alexandra Zuck, who was once married to Bobby Darin",
+        "answer": "Sandra Dee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 400,
+        "question": "The activity that serves as your regular source of income, or the conquest & control of a country",
+        "answer": "occupation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HEROES & LEGENDS",
+        "value": 500,
+        "question": "Called \"A cowboy gone bad\", this \"Robin Hood of Texas\" is the subject of a famous ballad",
+        "answer": "Sam Bass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL & TOURISM",
+        "value": 500,
+        "question": "You can tour a museum at the S.F. mint or actually watch folks make money at mints in these 2 cities",
+        "answer": "Denver & Philadelphia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NEW TESTAMENT",
+        "value": 500,
+        "question": "In Matthew chapter 1, he's the last man listed as having been begat",
+        "answer": "Joseph",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAME CHANGES",
+        "value": 500,
+        "question": "Francis Phillip Wupperman, the wonderful \"Wizard of Oz\"",
+        "answer": "Frank Morgan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 500,
+        "question": "In 1978 this group had their first No. 1 hit with \"Three Times A Lady\"",
+        "answer": "The Commodores",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MODERN LITERATURE",
+      "BERMUDA",
+      "HISTORY",
+      "GAMBLING",
+      "ART",
+      "GILBERT & SULLIVAN"
+    ],
+    "clues": [
+      {
+        "category": "MODERN LITERATURE",
+        "value": 200,
+        "question": "The last words of this novel are \"He had won the victory over himself. He loved Big Brother.\"",
+        "answer": "1984",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BERMUDA",
+        "value": 200,
+        "question": "It used to be St. George, but since 1815 it's Hamilton",
+        "answer": "the capital of Bermuda",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "An army of Chinese peasant rebels captures this imperial city in 1644",
+        "answer": "Peking",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GAMBLING",
+        "value": 200,
+        "question": "In 1895 Charles Fey of San Francisco invented this machine that has a lot of pull in Vegas",
+        "answer": "a slot machine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "Salt Lake City's \"This is the place\" monument was sculpted by his grandson Mahonri Young",
+        "answer": "Brigham Young",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GILBERT & SULLIVAN",
+        "value": 200,
+        "question": "An Oriental sword falling off Gilbert's wall helped inspire this work",
+        "answer": "The Mikado",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MODERN LITERATURE",
+        "value": 400,
+        "question": "Part II of this fantasy trilogy is entitled \"The Two Towers\"",
+        "answer": "The Lord of the Rings",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BERMUDA",
+        "value": 400,
+        "question": "Even in fine restaurants, the most elegant men in Bermuda often wear these \"Bermuda\" garments",
+        "answer": "shorts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "Exploration & settlement of this Russian area has been compared to the American taming of the old west",
+        "answer": "Siberia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GAMBLING",
+        "value": 400,
+        "question": "Country called the \"Home of the state lottery\", it financed its famous opera house that way",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "The French name for this Rodin statue is \"Le Penseur\"",
+        "answer": "The Thinker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GILBERT & SULLIVAN",
+        "value": 400,
+        "question": "To research this play, Gilbert visited the H.M.S. Victory in Portsmouth",
+        "answer": "H.M.S. Pinafore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MODERN LITERATURE",
+        "value": 1200,
+        "question": "British miniseries based on Paul Scott's \"The Raj Quartet\"",
+        "answer": "The Jewel in the Crown",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BERMUDA",
+        "value": 600,
+        "question": "Bermuda families are allowed to have only one of these, & tourists aren't allowed to rent them",
+        "answer": "automobiles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "It is said these 13th c. conquerors of China could live on mare's milk alone when necessary",
+        "answer": "the Mongols",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GAMBLING",
+        "value": 600,
+        "question": "Number that appears on American slot machines but not European ones",
+        "answer": "double zero",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 1200,
+        "question": "The Staatliche Museum in West Berlin boasts the most famous sculpture of this woman, seen here:",
+        "answer": "Nefertiti",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GILBERT & SULLIVAN",
+        "value": 600,
+        "question": "\"The Yeoman of the Guard\" opens at this British landmark, shortly before a beheading",
+        "answer": "The Tower of London",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MODERN LITERATURE",
+        "value": 800,
+        "question": "He dedicated \"Myra Breckinridge\" to author Christopher Isherwood",
+        "answer": "Gore Vidal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "This 17th c. cardinal was the 1st theologian to write religious material in French",
+        "answer": "Richelieu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GAMBLING",
+        "value": 800,
+        "question": "French for \"railroad\", it's a card game similar to baccarat",
+        "answer": "chemin de fer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "In Botticelli's \"Birth of Venus\", Venus is partially covering herself with her hands & with this",
+        "answer": "her hair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GILBERT & SULLIVAN",
+        "value": 800,
+        "question": "In a famous song from \"The Pirates of Penzance\", a character says \"I am the very model of\" this",
+        "answer": "a modern major general",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MODERN LITERATURE",
+        "value": 1000,
+        "question": "He wrote 3 books about the Prizzis, \"Prizzi's Honor\", \"Prizzi's Family\" & \"Prizzi's Glory\"",
+        "answer": "Richard Condon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HISTORY",
+        "value": 1000,
+        "question": "Now a beach resort of less than 30,000 people, it was capital of California under Spain & Mexico",
+        "answer": "Monterey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GAMBLING",
+        "value": 1000,
+        "question": "In horse racing, the kind of pool where the betting sets the odds",
+        "answer": "parimutuel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "Master Jonathan Buttall is the subject of this 1770 portrait by Thomas Gainsborough",
+        "answer": "The Blue Boy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GILBERT & SULLIVAN",
+        "value": 1000,
+        "question": "For a century this \"opera company\", known as the \"savoyards\", was famous for doing Gilbert & Sullivan",
+        "answer": "D'Oyly Carte",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PRESIDENTS",
+    "clue": "2 presidents who didn't go to college",
+    "answer": "(2 of) Washington, Jackson, Van Buren, Taylor, Fillmore, Lincoln, Andrew Johnson, Cleveland & Truman"
+  },
+  "gameId": "1006",
+  "gameDate": "Monday, January 9, 1989"
+}

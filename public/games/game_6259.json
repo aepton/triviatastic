@@ -1,0 +1,574 @@
+{
+  "title": "Show #7967 - Tuesday, April 9, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "BEER",
+      "STOUT",
+      "LOGGER",
+      "PALE AIL",
+      "LIGHT",
+      "\"PORTER\""
+    ],
+    "clues": [
+      {
+        "category": "BEER",
+        "value": 200,
+        "question": "In a 2019 Super Bowl ad, we learned about the corn syrup policy of Bud Light, Miller Lite & this Colorado light",
+        "answer": "Coors",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "STOUT",
+        "value": 200,
+        "question": "Season 7 had this animated TV dad go up to 300 pounds; his body ends up sealing a leak at the nuclear power plant",
+        "answer": "Homer Simpson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LOGGER",
+        "value": 200,
+        "question": "Also the surname of a Twain character, this term refers to someone who processes wood",
+        "answer": "a sawyer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PALE AIL",
+        "value": 200,
+        "question": "Women of centuries ago were pale & ailing due to this-based paint they used to whiten their skin",
+        "answer": "lead",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LIGHT",
+        "value": 200,
+        "question": "Mitch in \"A Streetcar Named Desire\" knows his classic similes, telling Blanche she's \"light as\" this bird part",
+        "answer": "a feather",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"PORTER\"",
+        "value": 200,
+        "question": "It's how Mr. Spock & Captain Kirk get from the ship to a planet's surface",
+        "answer": "a transporter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BEER",
+        "value": 400,
+        "question": "These bitter buds added for flavor belong to the Cannabaceae family, making them a cousin of marijuana",
+        "answer": "hops (hemp accepted)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "STOUT",
+        "value": 400,
+        "question": "Augustus Gloop, a finder of a golden ticket in this novel, \"looked as though he had been blown up with a powerful pump\"",
+        "answer": "Charlie and the Chocolate Factory",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LOGGER",
+        "value": 400,
+        "question": "Sharing its name with a Beatles tune, it's the title of Lars Mytting's book about chopping trees the \"Scandinavian way\"",
+        "answer": "Norwegian Wood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PALE AIL",
+        "value": 400,
+        "question": "Geographic name of this item that can protect the pale from too much sun",
+        "answer": "a Panama hat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LIGHT",
+        "value": 400,
+        "question": "For a boxer, to get light enough to compete in a given class is to \"make\" this",
+        "answer": "the weight",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"PORTER\"",
+        "value": 400,
+        "question": "Fourth estate occupation of folks like Seymour Hersh",
+        "answer": "a reporter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BEER",
+        "value": 600,
+        "question": "Instead of only using barley, Weissbier adds this grain into the mix",
+        "answer": "wheat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "STOUT",
+        "value": 600,
+        "question": "In Chapter 1 of this novel, Piggy is described as a fat boy with asthma who wears specs",
+        "answer": "the Lord of the Flies",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LOGGER",
+        "value": 600,
+        "question": "One story about this companion of Paul Bunyan says it would take a day for crows to fly from one horn to the other",
+        "answer": "Babe (the blue ox)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PALE AIL",
+        "value": 600,
+        "question": "If you're \"in\" this, defined as a lack of blood flow, perhaps due to trauma, you may be pale; treat by loosening tight clothes",
+        "answer": "shock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LIGHT",
+        "value": 600,
+        "question": "A motto was born when a boys town boy carrying another boy who had polio said, \"He ain't heavy..., he's\" this",
+        "answer": "my brother",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"PORTER\"",
+        "value": 600,
+        "question": "Want a real Omaha steak in Omaha? Try the 23-ounce one of these at Cascio's, founded in 1946",
+        "answer": "a porterhouse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BEER",
+        "value": 800,
+        "question": "Because it contains this natural type of alcohol, an antimicrobial, beer can be safer to drink than suspect water",
+        "answer": "ethanol",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "STOUT",
+        "value": 800,
+        "question": "In this documentary, Morgan Spurlock gained 5 pounds during a monthlong diet of only McDonald's",
+        "answer": "Super Size Me",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LOGGER",
+        "value": 800,
+        "question": "In the 1800s lumberjacks developed this fast-footed sport AKA birling",
+        "answer": "logrolling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PALE AIL",
+        "value": 800,
+        "question": "Fairer folk rejoice! REI offers UPF clothing, UPF short for this \"protection factor\"",
+        "answer": "ultraviolet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LIGHT",
+        "value": 800,
+        "question": "Scientists keep making new materials billed as 100 times lighter than this trademarked polystyrene packing material",
+        "answer": "Styrofoam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"PORTER\"",
+        "value": 800,
+        "question": "Walmart isn't just the USA's largest retailer, but also the largest of these companies that bring goods into a country",
+        "answer": "importer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BEER",
+        "value": 1000,
+        "question": "The 1st brewers may have been this Mesopotamian people c. 6000 B.C.; they even had a goddess of beer, Ninkasi",
+        "answer": "the Sumerians",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "STOUT",
+        "value": 1000,
+        "question": "Here's Herbert Beerbohm Tree as this Shakespeare character",
+        "answer": "Falstaff",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LOGGER",
+        "value": 1000,
+        "question": "The labor union IWW, known as these, actually was quite firm representing lumberjacks in the Pacific northwest",
+        "answer": "Wobblies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PALE AIL",
+        "value": 1000,
+        "question": "Malarial & iron deficiency are 2 types of this condition that can lead to paleness",
+        "answer": "anemia",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LIGHT",
+        "value": 1000,
+        "question": "In \"First Man\" an angry Janet Armstrong calls NASA \"a bunch of boys making models out of\" this light wood",
+        "answer": "balsa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"PORTER\"",
+        "value": 1000,
+        "question": "He was the songwriter behind classics like \"Night & Day\" & \"Love For Sale\"",
+        "answer": "Cole Porter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ASIAN CITIES",
+      "A SHORT STORY CATEGORY",
+      "CAT IDIOMS",
+      "INTERNATIONAL ARCHITECTURE & DESIGN",
+      "MUSIC FESTIVALS",
+      "AMERICAN HISTORY"
+    ],
+    "clues": [
+      {
+        "category": "ASIAN CITIES",
+        "value": 400,
+        "question": "A statue of a seated Genghis Khan graces an entrance to the government palace in Ulaanbaatar in this nation",
+        "answer": "Mongolia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A SHORT STORY CATEGORY",
+        "value": 400,
+        "question": "Surprisingly, a Richard Russo tale about a dismal road trip is titled this happy \"Ride\"",
+        "answer": "\"Joy Ride\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CAT IDIOMS",
+        "value": 400,
+        "question": "It's from the Latin for \"careful\" but it's what \"killed the cat\" who wasn't careful enough",
+        "answer": "curiosity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ARCHITECTURE & DESIGN",
+        "value": 400,
+        "question": "When entering a Japanese house, you traditionally leave these paired items in the genkan near the door",
+        "answer": "shoes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MUSIC FESTIVALS",
+        "value": 400,
+        "question": "For a 2018 festival Paul McCartney & Metallica were in the \"City Limits\" of this Texas \"Live Music Capital of the World\"",
+        "answer": "Austin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "It's believed that Scandinavians built the first log cabins in America on the Delaware River at Nya Sverige, or New this country",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ASIAN CITIES",
+        "value": 800,
+        "question": "This Israeli city was founded in 1909 as a suburb of the ancient Mediterranean port of Jaffa",
+        "answer": "Tel Aviv",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A SHORT STORY CATEGORY",
+        "value": 800,
+        "question": "Alice Munro set many stories like \"Royal Beatings\" in small towns in this country",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CAT IDIOMS",
+        "value": 800,
+        "question": "To appear bedraggled is to look like something that arrived this way",
+        "answer": "like something the cat dragged in",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ARCHITECTURE & DESIGN",
+        "value": 800,
+        "question": "In Andalusia Arabic calligraphy represents this style named for medieval visitors from Africa",
+        "answer": "Moorish",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MUSIC FESTIVALS",
+        "value": 800,
+        "question": "The 2001 edition of this city's Jazz Fest, commemorating Louis Armstrong's centennial, drew 650,000 fans",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 800,
+        "question": "Proof the U.S. had secretly bombed Cambodia was in these \"Papers\" that were first leaked on June 13, 1971",
+        "answer": "the Pentagon Papers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ASIAN CITIES",
+        "value": 1200,
+        "question": "The only big city in a nation of small towns & villages, this Asian capital is located on the delta of the Chao Phraya River",
+        "answer": "Bangkok",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A SHORT STORY CATEGORY",
+        "value": 1200,
+        "question": "\"A Boring Story\" is by this Russian playwright/story master",
+        "answer": "(Anton) Chekhov",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CAT IDIOMS",
+        "value": 1200,
+        "question": "If a secret has been exposed, it's where \"the cat\" is",
+        "answer": "out of the bag",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ARCHITECTURE & DESIGN",
+        "value": 1200,
+        "question": "Former Yankee catcher Jorge could tell you this Spanish word means \"inn\"",
+        "answer": "posada",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MUSIC FESTIVALS",
+        "value": 1200,
+        "question": "At the Montreux Jazz Festival, you might see smoke on the water of this Swiss lake's shoreline",
+        "answer": "Lake Geneva",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1200,
+        "question": "In 1976, more than 175 years after his death, this man was promoted by Congress to general of the armies of the United States",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ASIAN CITIES",
+        "value": 1600,
+        "question": "Also famous for its textiles, this traditional center of Japanese culture & Buddhism was the capital for 1,000 years",
+        "answer": "Kyoto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A SHORT STORY CATEGORY",
+        "value": 1600,
+        "question": "Competes the title of Susan Glaspell's 1917 tale with a feminist angle, \"A Jury of...\"",
+        "answer": "of her peers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CAT IDIOMS",
+        "value": 1600,
+        "question": "A fleeting rise in a stock's price after a fall is this type of \"bounce\"",
+        "answer": "dead cat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ARCHITECTURE & DESIGN",
+        "value": 1600,
+        "question": "Isfahan in this country is renowned for its religious architecture, like the Sheikh Lotfollah Mosque",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MUSIC FESTIVALS",
+        "value": 1600,
+        "question": "Tame Impala & Lauryn Hill headlined the 2018 edition of this \"pointed\" online music magazine's Chicago festival",
+        "answer": "Pitchfork",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1600,
+        "question": "In 1904 Oklahoma City policeman Joe Burnett killed Ed O'Kelley, who had killed Robert Ford, who had killed this outlaw",
+        "answer": "Jesse James",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ASIAN CITIES",
+        "value": 2000,
+        "question": "Bishkek, which began as a fortress in 1825, is today the leading city of this \"stan\"",
+        "answer": "Kyrgyzstan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A SHORT STORY CATEGORY",
+        "value": 2000,
+        "question": "J.D. Salinger paired \"Franny\" with a story about him",
+        "answer": "Zooey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CAT IDIOMS",
+        "value": 2000,
+        "question": "Act assertively! \"A cat in gloves\" has this inability",
+        "answer": "a cat in gloves catches no mice",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ARCHITECTURE & DESIGN",
+        "value": 2000,
+        "question": "Lukovitsa is the Russian name for this vegetable-shaped style of tower dome",
+        "answer": "onion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MUSIC FESTIVALS",
+        "value": 2000,
+        "question": "2018 was a \"fallow year\" for this \"G\"iant English festival, skipped to give its fields time to recover from the huge crowds",
+        "answer": "Glastonbury",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 2000,
+        "question": "As a young man Frederick Douglass heard if he learned to do this \"it would forever unfit him to be a slave\"--so he did",
+        "answer": "read and write",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PHYSICS TERMS",
+    "clue": "Ironically, it's a metaphor meaning a huge step forward, but this 2-word process only occurs on a subatomic scale",
+    "answer": "a quantum leap"
+  },
+  "gameId": "7967",
+  "gameDate": "Tuesday, April 9, 2019"
+}

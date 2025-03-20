@@ -1,0 +1,574 @@
+{
+  "title": "Show #7171 - Monday, November 16, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "WHICH CAME FIRST?",
+      "AMERICAN PLACE NAMES",
+      "NURSERY RHYME TIME",
+      "SPORTS DYNASTIES",
+      "SODA POP QUIZ",
+      "THE METROPOLITAN OPERA"
+    ],
+    "clues": [
+      {
+        "category": "WHICH CAME FIRST?",
+        "value": 200,
+        "question": "The Great Mosque of Mecca,the Great Pyramid of Cheops,the Great Wall of China",
+        "answer": "the Great Pyramid",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN PLACE NAMES",
+        "value": 200,
+        "question": "This state name originally honored the queen whom Sir Walter Raleigh served",
+        "answer": "Virginia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NURSERY RHYME TIME",
+        "value": 200,
+        "question": "Jack's hill-climbing companion's aspirins",
+        "answer": "Jill's pills",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPORTS DYNASTIES",
+        "value": 200,
+        "question": "They won 6 World Series titles in the 1950s",
+        "answer": "the Yankees",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 200,
+        "question": "Heads up!  It was launched as \"Bib-Label Lithiated Lemon-Lime Soda\" in 1929",
+        "answer": "7 Up",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE METROPOLITAN OPERA",
+        "value": 200,
+        "question": "The stage at the Metropolitan Opera is very big; no problem--with hundreds on stage & spectacular sets of the gates of Thebes, the Met's production of this opera is grand in both scope & scale",
+        "answer": "Aida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WHICH CAME FIRST?",
+        "value": 400,
+        "question": "Batman,Spider-Man,Superman",
+        "answer": "Superman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN PLACE NAMES",
+        "value": 400,
+        "question": "It's the only Great Lake whose name is not derived from a Native American language",
+        "answer": "Superior",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NURSERY RHYME TIME",
+        "value": 400,
+        "question": "Peck picker's venomous reptiles",
+        "answer": "Peter Piper's vipers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPORTS DYNASTIES",
+        "value": 400,
+        "question": "They won 5 NBA titles in the 1980s",
+        "answer": "the Lakers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 400,
+        "question": "With the most famous soda flavor from this brand, you get \"Real ginger. Real taste\"",
+        "answer": "Canada Dry (ginger ale)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE METROPOLITAN OPERA",
+        "value": 400,
+        "question": "In a small garret apartment, Rodolfo & Mimi sing a duet declaring their love for each other in this opera",
+        "answer": "La bohème",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WHICH CAME FIRST?",
+        "value": 600,
+        "question": "\"The Cask of Amontillado\",\"The Lady of Shalott\",\"The Rape of the Lock\"",
+        "answer": "The Rape of the Lock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN PLACE NAMES",
+        "value": 600,
+        "question": "This state's Motley County was named for a physician killed in the Battle of San Jacinto",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NURSERY RHYME TIME",
+        "value": 600,
+        "question": "Old king's desired outcomes",
+        "answer": "Cole's goals",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPORTS DYNASTIES",
+        "value": 600,
+        "question": "From 1956 to 1960 Real Madrid won 5 straight European Cup titles in this sport",
+        "answer": "soccer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 600,
+        "question": "In addition to root beer, A&W also sells this flavor of soda",
+        "answer": "cream soda",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE METROPOLITAN OPERA",
+        "value": 600,
+        "question": "Wotan strips Brunnhilde of her divinity & puts her into a magic sleep on the Met's state-of-the-art set for \"Die Walkure\", part of this composer's Ring Cycle",
+        "answer": "Wagner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WHICH CAME FIRST?",
+        "value": 800,
+        "question": "The Chevy Corvette,the Dodge Challenger,the Ford Thunderbird",
+        "answer": "the Corvette",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN PLACE NAMES",
+        "value": 800,
+        "question": "The name of this Minn. waterfall is Dakota for \"waterfall\"; Longfellow named a Native American woman for it",
+        "answer": "Minnehaha",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NURSERY RHYME TIME",
+        "value": 800,
+        "question": "Little Bo's mighty jumps",
+        "answer": "Peep's leaps",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPORTS DYNASTIES",
+        "value": 800,
+        "question": "They won 5 NFL titles in the 1960s",
+        "answer": "the Green Bay Packers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 800,
+        "question": "For much of the last decade, this fruity brand from Coca-Cola had its own colorful group of spokesmodels",
+        "answer": "Fanta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE METROPOLITAN OPERA",
+        "value": 800,
+        "question": "The Metropolitan Opera brought the splendor of ancient China to its stage with this Puccini opera about a princess of Peking",
+        "answer": "Turandot",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WHICH CAME FIRST?",
+        "value": 1000,
+        "question": "The Transcontinental Railroad,the Trans-Siberian Railroad,the Underground Railroad",
+        "answer": "the Underground Railroad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN PLACE NAMES",
+        "value": 1000,
+        "question": "This Ohio city is named for the Prussian who trained soldiers during the Revolutionary War",
+        "answer": "Steubenville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NURSERY RHYME TIME",
+        "value": 1000,
+        "question": "Fat-free Jack's pieces of neckwear",
+        "answer": "Sprat's cravats",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPORTS DYNASTIES",
+        "value": 1000,
+        "question": "They won 5 NHL titles between 1984 & 1990",
+        "answer": "the Edmonton Oilers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 1000,
+        "question": "In 1983 it added Ruby Red to its line of sodas",
+        "answer": "Squirt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE METROPOLITAN OPERA",
+        "value": 1000,
+        "question": "One of the greatest pieces for a baritone is the \"Largo al factotum\", a patter song that Figaro delivers with bravura as he enters this opera",
+        "answer": "The Barber of Seville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SONGS THAT GET STUCK IN YOUR HEAD",
+      "HE WAS THE POPE...",
+      "LA LITTERATURE FRANCAISE",
+      "WHAT A BEAST!",
+      "MORTAL MATTERS",
+      "\"CU\" LATER"
+    ],
+    "clues": [
+      {
+        "category": "SONGS THAT GET STUCK IN YOUR HEAD",
+        "value": 400,
+        "question": "Op, op, op, op, oppan--this Korean singer's \"Gangnam Style\" has 2.4 billion YouTube hits",
+        "answer": "Psy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HE WAS THE POPE...",
+        "value": 400,
+        "question": "When the Berlin Wall came down",
+        "answer": "John Paul II",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LA LITTERATURE FRANCAISE",
+        "value": 400,
+        "question": "In 1831 she & Jules Sandeau co-wrote the novel \"Red and White\" under the pseudonym Jules Sand",
+        "answer": "George Sand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WHAT A BEAST!",
+        "value": 400,
+        "question": "Here's a close-up of one of the 30,000 quills on this animal; they slide in easy, but back-facing barbs make removal difficult",
+        "answer": "a porcupine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MORTAL MATTERS",
+        "value": 400,
+        "question": "In the 1970s FBI investigator Robert Ressler coined this 2-word term for multiple murderers like Jeffrey Dahmer",
+        "answer": "serial killer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"CU\" LATER",
+        "value": 400,
+        "question": "Count on this ancient calculator",
+        "answer": "an abacus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SONGS THAT GET STUCK IN YOUR HEAD",
+        "value": 800,
+        "question": "\"Gimme a break\" from this candy bar's jingle that goes, \"Gimme a break, gimme a break\"",
+        "answer": "Kit Kat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HE WAS THE POPE...",
+        "value": 800,
+        "question": "When the Arab Spring pro-democracy protests began in Tunisia",
+        "answer": "Benedict XVI",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LA LITTERATURE FRANCAISE",
+        "value": 800,
+        "question": "Here's a depiction of this title character of an 1831 novel",
+        "answer": "The Hunchback of Notre Dame",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WHAT A BEAST!",
+        "value": 800,
+        "question": "Unlike the hippo, which has fully developed 4 of these, the rhino only has 3 with which to test water daintily",
+        "answer": "toes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MORTAL MATTERS",
+        "value": 800,
+        "question": "In \"Henry VI, Part 2\", Dick says, \"The first thing we do, let's kill all\" these professionals",
+        "answer": "the lawyers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"CU\" LATER",
+        "value": 800,
+        "question": "A fade or a shag, for example",
+        "answer": "a haircut",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SONGS THAT GET STUCK IN YOUR HEAD",
+        "value": 1200,
+        "question": "Hey, I just heard this 3-named singer's \"Call Me Maybe\" once, & this is crazy, but it's completely stuck in my head",
+        "answer": "Carly Rae Jepsen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HE WAS THE POPE...",
+        "value": 1200,
+        "question": "When Hozier released his self-titled debut album",
+        "answer": "Francis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LA LITTERATURE FRANCAISE",
+        "value": 1200,
+        "question": "This term for light, sophisticated literature is French for \"beautiful letters\"",
+        "answer": "belles-lettres",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WHAT A BEAST!",
+        "value": 1200,
+        "question": "A flap of skin & fur called a bell hangs from the throat of this largest member of the deer family",
+        "answer": "moose (elk accepted)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MORTAL MATTERS",
+        "value": 1200,
+        "question": "On this day, November 2, Catholic priests may celebrate 3 requiem masses for the departed",
+        "answer": "Day of the Dead (or All Souls' Day)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"CU\" LATER",
+        "value": 1200,
+        "question": "An error, especially with a billiards stick",
+        "answer": "a miscue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SONGS THAT GET STUCK IN YOUR HEAD",
+        "value": 1600,
+        "question": "\"Never Gonna Give You Up\" is what my brain says about the No. 1 hit of that name by this Brit",
+        "answer": "Rick Astley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HE WAS THE POPE...",
+        "value": 1600,
+        "question": "Who shook things up by calling the Second Vatican Council",
+        "answer": "John XXIII",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LA LITTERATURE FRANCAISE",
+        "value": 1600,
+        "question": "\"The Mysterious Island\" was a sequel to this 1870 submarine tale",
+        "answer": "Twenty Thousand Leagues Under the Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHAT A BEAST!",
+        "value": 1600,
+        "question": "This \"hairless\" breed of cat developed from a kitty born in Canada, not Egypt",
+        "answer": "Sphynx",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MORTAL MATTERS",
+        "value": 1600,
+        "question": "This word originally meant an all-night vigil with a body; the Irish party during that time came later",
+        "answer": "a wake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"CU\" LATER",
+        "value": 1600,
+        "question": "Jeans flared to fit over a pair of Tony Lamas",
+        "answer": "bootcut jeans",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SONGS THAT GET STUCK IN YOUR HEAD",
+        "value": 2000,
+        "question": "\"So I put my hands up, they're playin' my song\", this Miley Cyrus tune that is rattling around in my brain",
+        "answer": "\"Party In The U.S.A.\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HE WAS THE POPE...",
+        "value": 2000,
+        "question": "When Michelangelo painted the Sistine Chapel (II of that name)",
+        "answer": "Julius",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LA LITTERATURE FRANCAISE",
+        "value": 2000,
+        "question": "1919's prestigious Prix Goncourt went to \"Within a Budding Grove\", part of this man's swann song",
+        "answer": "Marcel Proust",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHAT A BEAST!",
+        "value": 2000,
+        "question": "Bigger than Jerseys, this U.K. cow breed from its own isle produces lots of slightly yellowish milk",
+        "answer": "a Guernsey",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MORTAL MATTERS",
+        "value": 2000,
+        "question": "There's a dispute over the where-abouts of this Hunkpapa Sioux medicine man--Fort Yates, N.D. or Mobridge, S.D.",
+        "answer": "Sitting Bull",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"CU\" LATER",
+        "value": 2000,
+        "question": "Lucy was an ancient African one discovered in 1974",
+        "answer": "an Australopithecus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CITIES OF THE EUROPEAN UNION",
+    "clue": "A Hanseatic city, this port of 1.8 million is the largest European Union city that's not a capital",
+    "answer": "Hamburg, Germany"
+  },
+  "gameId": "7171",
+  "gameDate": "Monday, November 16, 2015"
+}

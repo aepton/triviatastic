@@ -1,0 +1,565 @@
+{
+  "title": "Show #3431 - Monday, July 5, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "CONGRESSIONAL DISTRICTS",
+      "IT GROWS ON TREES",
+      "SCULPTURE",
+      "NAME THE MOVIE",
+      "SHOPPING SPREE",
+      "LET'S SPEAK SWAHILI!"
+    ],
+    "clues": [
+      {
+        "category": "CONGRESSIONAL DISTRICTS",
+        "value": 100,
+        "question": "Nevada's 1st district basically covers this city & its suburbs; the 2nd covers the other 99% of the state",
+        "answer": "Las Vegas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "IT GROWS ON TREES",
+        "value": 100,
+        "question": "Farmers would rather see a partridge in one of these than the destructive fire blight",
+        "answer": "pear tree",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SCULPTURE",
+        "value": 100,
+        "question": "This statue discovered in the Cyclades Islands in 1820 may have held her garment in her now lost right hand",
+        "answer": "Venus de Milo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 100,
+        "question": "1977:\"Use the force, Luke\"",
+        "answer": "Star Wars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING SPREE",
+        "value": 100,
+        "question": "Shop online at the Graceland Shopping Mall & you can buy a doorstop featuring him in a gold lame suit",
+        "answer": "Elvis Presley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPEAK SWAHILI!",
+        "value": 100,
+        "question": "Office workers in Africa might take a break for kahawa, this beverage",
+        "answer": "coffee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CONGRESSIONAL DISTRICTS",
+        "value": 200,
+        "question": "This state's 3rd district is a major shopping district; the Mall of America is there",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "IT GROWS ON TREES",
+        "value": 200,
+        "question": "This type of orange is so named because it has a small secondary fruit growing at the end",
+        "answer": "navel orange",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SCULPTURE",
+        "value": 200,
+        "question": "His work \"Balzac\" was refused by the society that commissioned it; they didn't think it looked like Balzac",
+        "answer": "Auguste Rodin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 200,
+        "question": "1942:\"Louis, I think this is going to be the beginning of a beautiful friendship\"",
+        "answer": "Casablanca",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING SPREE",
+        "value": 200,
+        "question": "You can't miss this state capital's Royal Hawaiian Shopping Center: it's 3 blocks long",
+        "answer": "Honolulu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPEAK SWAHILI!",
+        "value": 200,
+        "question": "Lala is not a Teletubby but this; you'll need some after a long, hard day on safari",
+        "answer": "sleep",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CONGRESSIONAL DISTRICTS",
+        "value": 600,
+        "question": "It's the main city in Ohio's 14th district, once a rubber center & now called \"Polymer Valley\"",
+        "answer": "Akron",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "IT GROWS ON TREES",
+        "value": 300,
+        "question": "Verjuice, a sort of medieval vinegar, was commonly made from these sour wild apples",
+        "answer": "crabapples",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SCULPTURE",
+        "value": 300,
+        "question": "Over 70 wax & clay works found in Degas' studio after his death were later cast in this alloy",
+        "answer": "bronze",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 300,
+        "question": "1950:\"Alright, Mr. DeMille, I'm ready for my closeup\"",
+        "answer": "Sunset Boulevard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING SPREE",
+        "value": 300,
+        "question": "If you're cuckoo for Coco's clothes, shop at this boutique at 400 N. Rodeo Drive",
+        "answer": "Chanel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPEAK SWAHILI!",
+        "value": 300,
+        "question": "Dudu is the generic term for this kind of 6-legged pest; the repellent for them is dawa ya wadudu",
+        "answer": "insects, bugs, etc.",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CONGRESSIONAL DISTRICTS",
+        "value": 400,
+        "question": "Limiting immigration is one of the main causes of Rep. Lamar Smith, from this state's 21st district",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "IT GROWS ON TREES",
+        "value": 400,
+        "question": "The Aztecs loved the fruit seen here (avocados) & gave us this word for a dip made from it",
+        "answer": "guacamole",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SCULPTURE",
+        "value": 400,
+        "question": "His \"Comin' Through the Rye\" features 4 cowboys on ponies whose hooves barely touch ground",
+        "answer": "Frederic Remington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 400,
+        "question": "1974:\"That's Fronk-en-steen!\"",
+        "answer": "Young Frankenstein",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING SPREE",
+        "value": 400,
+        "question": "Maud Frizon, Manolo Blahnik & Salvatore Ferragamo are best known for designing these",
+        "answer": "shoes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPEAK SWAHILI!",
+        "value": 400,
+        "question": "Elton John & Tim Rice found this term for \"no worries\" in a Swahili phrase book & wrote a song about it",
+        "answer": "\"Hakuna Matata\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CONGRESSIONAL DISTRICTS",
+        "value": 500,
+        "question": "North Carolina's long, meandering \"I-85 District\" has been called an example of this tactic named for a politician",
+        "answer": "gerrymandering",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "IT GROWS ON TREES",
+        "value": 500,
+        "question": "Though inedibly bitter when picked, 11 million tons of them are produced a year, most around the Mediterranean",
+        "answer": "olives",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SCULPTURE",
+        "value": 500,
+        "question": "From the Latin for \"embroidery\", the Greeks carved these decorative horizontal bands on the sides of temples...brrr!",
+        "answer": "friezes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NAME THE MOVIE",
+        "value": 500,
+        "question": "1968:\"I'm sorry, Dave, I'm afraid I can't do that\"",
+        "answer": "2001: A Space Odyssey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING SPREE",
+        "value": 500,
+        "question": "This designer's flagship store on Madison Avenue is across the street from his Polo Sport Store",
+        "answer": "Ralph Lauren",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LET'S SPEAK SWAHILI!",
+        "value": 500,
+        "question": "Moja is the number one, kumi is ten, & kumi na moja is this",
+        "answer": "11",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GEMS & MINERALS",
+      "\"HOUSE\" MUSIC",
+      "PARTY LIKE IT'S 1899",
+      "WALLACES",
+      "RELATIVE LIT",
+      "ANAGRAMMED EXISTENTIAL PHILOSOPHERS"
+    ],
+    "clues": [
+      {
+        "category": "GEMS & MINERALS",
+        "value": 200,
+        "question": "Old masters could grind up hematite or cinnabar to make shades of this primary color",
+        "answer": "red",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "\"HOUSE\" MUSIC",
+        "value": 200,
+        "question": "Graham Nash did a very, very, very fine job writing this Crosby, Stills, Nash & Young song",
+        "answer": "\"Our House\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PARTY LIKE IT'S 1899",
+        "value": 200,
+        "question": "This Wild Bunch leader & the Sundance Kid were partying after robbing a Union Pacific train of over $30,000",
+        "answer": "Butch Cassidy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WALLACES",
+        "value": 200,
+        "question": "Lurleen Burns married this man when she was 16 & later succeeded him as governor of Alabama",
+        "answer": "George Wallace",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "RELATIVE LIT",
+        "value": 200,
+        "question": "This guardian of Tom Sawyer was based on Mark Twain's mother",
+        "answer": "Aunt Polly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED EXISTENTIAL PHILOSOPHERS",
+        "value": 200,
+        "question": "Starer",
+        "answer": "Sartre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEMS & MINERALS",
+        "value": 400,
+        "question": "The ancients called jade lapis nephriticus, as they thought it a stone that could cure this organ's ailments",
+        "answer": "Kidneys",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "\"HOUSE\" MUSIC",
+        "value": 400,
+        "question": "It was the Talking Heads' biggest U.S. hit",
+        "answer": "\"Burning Down the House\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PARTY LIKE IT'S 1899",
+        "value": 400,
+        "question": "Toes were tapping to this composer's wildly popular \"Maple Leaf Rag\"",
+        "answer": "Scott Joplin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WALLACES",
+        "value": 400,
+        "question": "Before \"Braveheart\" his story was told in the 15th century by Henry the Minstrel",
+        "answer": "William Wallace",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "RELATIVE LIT",
+        "value": 400,
+        "question": "Richard Wright's 1940 tale about Bigger Thomas",
+        "answer": "\"Native Son\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED EXISTENTIAL PHILOSOPHERS",
+        "value": 400,
+        "question": "A scum",
+        "answer": "Camus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEMS & MINERALS",
+        "value": 600,
+        "question": "You can find caledonite in this country that lent its ancient name to the mineral",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "\"HOUSE\" MUSIC",
+        "value": 600,
+        "question": "Finishing the title of the 1991 Garth Brooks hit \"Two of a Kind, Workin' On...\"",
+        "answer": "a full house",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PARTY LIKE IT'S 1899",
+        "value": 600,
+        "question": "This borough celebrated its new children's museum, the USA's first, & its National League champion Superbas",
+        "answer": "Brooklyn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WALLACES",
+        "value": 600,
+        "question": "(Hi, I'm Wallace Langham)  Mike's son, this broadcaster became NBC News White House Correspondent in 1982",
+        "answer": "Chris Wallace",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "RELATIVE LIT",
+        "value": 600,
+        "question": "Howard Garis wrote the Tom Swift adventure books & created this character whose last name is Longears",
+        "answer": "Uncle Wiggily",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED EXISTENTIAL PHILOSOPHERS",
+        "value": 1200,
+        "question": "Zinc sheet",
+        "answer": "Nietzsche",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEMS & MINERALS",
+        "value": 1600,
+        "question": "A beryl named for a New York financier isn't johnite or pierpontite, but this",
+        "answer": "Morganite",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "\"HOUSE\" MUSIC",
+        "value": 800,
+        "question": "This song was a hit for John Mellencamp in 1984: ain't that America?",
+        "answer": "\"Pink Houses\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PARTY LIKE IT'S 1899",
+        "value": 800,
+        "question": "This Dutch city, now the home of the World Court, hosted one of the first major international peace conferences",
+        "answer": "The Hague",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WALLACES",
+        "value": 800,
+        "question": "He & his wife Lila launched Reader's Digest in 1922 with a press run of 5,000",
+        "answer": "DeWitt Wallace",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "RELATIVE LIT",
+        "value": 800,
+        "question": "Title question a baby bird asks of everything in sight in a P.D. Eastman \"Beginner Book\"",
+        "answer": "\"Are you my mother?\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED EXISTENTIAL PHILOSOPHERS",
+        "value": 800,
+        "question": "Rake, dig, rake",
+        "answer": "Kierkegaard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEMS & MINERALS",
+        "value": 1000,
+        "question": "Antimony is the usual base of this dark eye shadow used by Middle Eastern women",
+        "answer": "kohl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "\"HOUSE\" MUSIC",
+        "value": 1000,
+        "question": "In 1968 Glen Campbell sang of \"The Dreams of\" this woman",
+        "answer": "the everyday housewife",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WALLACES",
+        "value": 1000,
+        "question": "\"The Emperor of Ice-Cream\" is a famous work by this poet whose day job was VP of an insurance company",
+        "answer": "Wallace Stevens",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "RELATIVE LIT",
+        "value": 1000,
+        "question": "Robert Anderson's play title with a \"musical\" regret; the 1970 film version starred Gene Hackman",
+        "answer": "I Never Sang for My Father",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ANAGRAMMED EXISTENTIAL PHILOSOPHERS",
+        "value": 1000,
+        "question": "Gee, dig her!",
+        "answer": "Heidegger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD LEADERS",
+    "clue": "Francois Mitterand said this world leader \"has the lips of Marilyn Monroe and the eyes of Caligula\"",
+    "answer": "Margaret Thatcher"
+  },
+  "gameId": "3431",
+  "gameDate": "Monday, July 5, 1999"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #2614 - Thursday, January 4, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "U.S.A.",
+      "FASHION HISTORY",
+      "SANDRA BULLOCK MOVIES",
+      "ANIMALS",
+      "INVENTIONS",
+      "FOREIGN WORDS & PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "U.S.A.",
+        "value": 100,
+        "question": "This \"Sunshine State\" is also known as \"The Alligator State\"",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 100,
+        "question": "Low-waisted dresses & bobbed hair typified the flapper look of this decade",
+        "answer": "the 1920s",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SANDRA BULLOCK MOVIES",
+        "value": 100,
+        "question": "In \"Demolition Man\", future cop Sandra came on like Rambo with this, well... film Rambo",
+        "answer": "Sylvester Stallone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "The robber species of this crustacean will drown in water",
+        "answer": "a crab",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 100,
+        "question": "If, as some say, Gen. Han Hsin invented this c. 200 B.C., he was the 1st to tell someone to go fly one",
+        "answer": "a kite",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 100,
+        "question": "In German these 2 relatives are der bruder & die schwester",
+        "answer": "your brother & your sister",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S.A.",
+        "value": 200,
+        "question": "This Alabama capital is named for a Revolutionary War hero",
+        "answer": "Montgomery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 200,
+        "question": "After the Jacobite Rebellion, these Scottish plaid patterns were banned by British law",
+        "answer": "tartans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SANDRA BULLOCK MOVIES",
+        "value": 200,
+        "question": "As Angela Bennett in this 1995 film, Sandra found her identity deleted \"from the information superhighway",
+        "answer": "The Net",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "The condor is a bird & the conger is one of these",
+        "answer": "an eel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 200,
+        "question": "In 1947 Arthur Samuel designed a computer that could play this game; chess on the same board came later",
+        "answer": "checkers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 200,
+        "question": "On a Dutch beach a sign reading \"verboden te zwemmen\" would indicate this",
+        "answer": "swimming is forbidden",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S.A.",
+        "value": 300,
+        "question": "The Atchafalaya Floodway & the Bonnet Carre Spillway help control flooding in this state",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 300,
+        "question": "This men's headdress made by winding fabric around the head inspired a draped hat worn by women",
+        "answer": "a turban",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SANDRA BULLOCK MOVIES",
+        "value": 600,
+        "question": "1992 film based on & named for the following golden oldie:\"I held my nose, I closed my eyes /I took a drink\"",
+        "answer": "\"Love Potion No. 9\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "This very slo-o-o-w creature can turn its head 270\", likes to hang upside down & is three-toed",
+        "answer": "a sloth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 300,
+        "question": "In 1901 the first Mercedes introduced Wilhelm Maybach's honeycomb design for this cooling system",
+        "answer": "the radiator",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 300,
+        "question": "French for \"in fashion\", it's the phrase used when ordering ice cream on top of pie",
+        "answer": "a la mode",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S.A.",
+        "value": 400,
+        "question": "This state is the site of the annual Makawao Rodeo",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 400,
+        "question": "In ancient Rome freeborn boys wore the toga praetexta, which was white with a border of this color",
+        "answer": "purple",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SANDRA BULLOCK MOVIES",
+        "value": 400,
+        "question": "Sandra waitressed at the Sweetwater Cafe in the Robert Duvall-Richard Harris film \"Wrestling\" this author",
+        "answer": "Hemingway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "A shrimp has 2 pairs of these, with one pair as long as its body",
+        "answer": "an antenna",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 400,
+        "question": "The first mechanical one of these was invented in 1915 & marketed under the Ever-Sharp name",
+        "answer": "a pencil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 400,
+        "question": "In Greece a doctor would refer to your liver as sikoti & this organ as nefro",
+        "answer": "your kidney",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S.A.",
+        "value": 500,
+        "question": "This city the starting point of the Santa Fe Trail & the home of President Truman",
+        "answer": "Independence",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FASHION HISTORY",
+        "value": 500,
+        "question": "A broad necktie & a broad scarf were named for this fashionable English racetrack",
+        "answer": "Ascot",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SANDRA BULLOCK MOVIES",
+        "value": 500,
+        "question": "Sandra fell for Peter Gallagher, who fell into a coma, in this \"sleeper\" hit of 1995",
+        "answer": "While You Were Sleeping",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "The blue whale is this type of toothless whale that strains its food",
+        "answer": "baleen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 500,
+        "question": "The World Almanac's list of inventions runs from A for adding machine to Z for this device",
+        "answer": "zipper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 500,
+        "question": "Japanese for \"exalted gate\", it was the title formerly used for the emperor of Japan",
+        "answer": "mikado",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AMERICAN HISTORY",
+      "RELIGION",
+      "AWARDS",
+      "MOUNTAINS",
+      "WORLD UNIVERSITIES",
+      "20th CENTURY AUTHORS"
+    ],
+    "clues": [
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 200,
+        "question": "This island near San Francisco ceased being a military prison & became a federal prison in 1934",
+        "answer": "Alcatraz",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "The person who holds this religious office is the primate of all England",
+        "answer": "the Archbishop of Canterbury",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AWARDS",
+        "value": 200,
+        "question": "The 1994 Nobel Peace Prize was shared by Israeli leaders Shimon Peres & Yitzhak Rabin, & this PLO leader",
+        "answer": "Yasser Arafat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 200,
+        "question": "10 mountains in this South American chain exceed a height of 22,000 feet",
+        "answer": "the Andes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD UNIVERSITIES",
+        "value": 200,
+        "question": "For several decades the University of Leipzig was named for this founder of communism",
+        "answer": "Karl Marx",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 200,
+        "question": "He published his first novel, \"A Daughter of the Snows\", the year before \"The Call of the Wild\"",
+        "answer": "Jack London",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "The steeple of this Boston church, where lanterns were hung April 18, 1775, blew down in 1804",
+        "answer": "the Old North Church",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 400,
+        "question": "Statues of foxes are found at the inari shrines of this Japanese religion",
+        "answer": "Shinto",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AWARDS",
+        "value": 400,
+        "question": "In 1993 this tennis great was awarded a Medal of Freedom posthumously",
+        "answer": "Arthur Ashe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 400,
+        "question": "This highest Greek mountain lies on the border of Macedonia & Thessaly",
+        "answer": "Mount Olympus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD UNIVERSITIES",
+        "value": 400,
+        "question": "The university of this capital city is the largest university in Algeria",
+        "answer": "Algiers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 400,
+        "question": "Sportswriter & \"Poseidon Adventure\" author Paul Gallico helped begin this amateur boxing event",
+        "answer": "the Golden Gloves",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 600,
+        "question": "In 1921 she founded the American Birth Control League, which later became Planned Parenthood",
+        "answer": "Margaret Sanger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 600,
+        "question": "The Tantric form of this religion is also called Mantrayana, which means \"vehicle of the mantra\"",
+        "answer": "Buddhism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AWARDS",
+        "value": 600,
+        "question": "This reggae singer was en route to Jamaica to receive the Order of Merit when he died in 1981",
+        "answer": "Bob Marley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 600,
+        "question": "Known as Peak XV, it was renamed in 1865 for the Surveyor General of India",
+        "answer": "Mount Everest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD UNIVERSITIES",
+        "value": 600,
+        "question": "The most recent British prime minister who studied at Oxford",
+        "answer": "Margaret Thatcher",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 600,
+        "question": "Her novel \"Ship of Fools\" was inspired by a 28-day voyage she made from Mexico to Germany in 1931",
+        "answer": "Katherine Anne Porter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 800,
+        "question": "Maine entered the Union in 1820 as a part of this compromise",
+        "answer": "the Missouri Compromise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 800,
+        "question": "In this religion the god Shiva is often depicted as Nataraja, the cosmic dancer",
+        "answer": "Hinduism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AWARDS",
+        "value": 1600,
+        "question": "This late Russian-born pianist won over 20 Grammys & a 1972 Royal Philharmonic Society Gold Medal",
+        "answer": "Vladimir Horowitz",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 800,
+        "question": "The base of this highest Alpine peak extends into France, Italy & Switzerland",
+        "answer": "Mont Blanc",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD UNIVERSITIES",
+        "value": 800,
+        "question": "The National Autonomous University of Honduras was founded in this city in 1847",
+        "answer": "Tegucigalpa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 800,
+        "question": "In 1962, the year he published \"Travels with Charley\", he won the Nobel Prize for Literature",
+        "answer": "John Steinbeck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1000,
+        "question": "In 1968 vast oil deposits were discovered at this bay, an arm of the Beaufort Sea",
+        "answer": "Prudhoe Bay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 1000,
+        "question": "In 1739 this Methodist wrote in his journal, \"I look upon all the world as my parish\"",
+        "answer": "John Wesley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AWARDS",
+        "value": 1000,
+        "question": "In 1985 Steven Jobs & this partner were recipients of the National Medal of Technology",
+        "answer": "(Steve) Wozniak",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 2000,
+        "question": "When St. Pierre, Martinique was destroyed by this volcano in 1902, only one man, a prisoner, survived",
+        "answer": "Mount Pelée",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD UNIVERSITIES",
+        "value": 1000,
+        "question": "Laval University is named for the first Roman Catholic bishop of this Canadian city",
+        "answer": "Quebec",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 1000,
+        "question": "This author of 1985's \"The Two Mrs. Grenvilles\" was once a stage manager for the \"Howdy Doody\" show",
+        "answer": "Dominick Dunne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "NAMES IN THE NEWS",
+    "clue": "He was born Newton Leroy McPherson in Harrisburg, Pennsylvania on June 17, 1943",
+    "answer": "Newt Gingrich"
+  },
+  "gameId": "2614",
+  "gameDate": "Thursday, January 4, 1996"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #8010 - Friday, June 7, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "ARTIFACTS",
+      "IT'S HARBOR DAY!",
+      "LITERARY CHARACTERS",
+      "FOREIGN RELATIONS",
+      "REALITY & GAME SHOW CATCHPHRASES",
+      "ORDER IN THE FOOD COURT"
+    ],
+    "clues": [
+      {
+        "category": "ARTIFACTS",
+        "value": 200,
+        "question": "To help find the Ark of the Covenant, Indiana Jones used the headpiece to the staff of this Egyptian sun god",
+        "answer": "Ra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "IT'S HARBOR DAY!",
+        "value": 200,
+        "question": "There's a 225-ton lady eternally greeting visitors at the entrance to this harbor",
+        "answer": "New York Harbor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 200,
+        "question": "In the epilogue to \"Harry Potter and the Deathly Hallows\", she's married to Ron & they have 2 kids, Rose & Hugo",
+        "answer": "Hermione",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN RELATIONS",
+        "value": 200,
+        "question": "In French a frere is this, whether in the monastery or the family",
+        "answer": "brother",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REALITY & GAME SHOW CATCHPHRASES",
+        "value": 200,
+        "question": "\"Come on down!\"",
+        "answer": "The Price is Right",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ORDER IN THE FOOD COURT",
+        "value": 200,
+        "question": "Do you plead the fifth on ordering a side of chips & this mashed avocado dip from Chipotle?",
+        "answer": "guacamole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ARTIFACTS",
+        "value": 400,
+        "question": "What's called the this of Ashurbanipal in what was Nineveh has yielded thousands of clay tablets written in cuneiform",
+        "answer": "the library",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "IT'S HARBOR DAY!",
+        "value": 400,
+        "question": "Darwin Harbor was named in 1839 by John Stokes, a surveyor aboard this ship",
+        "answer": "the Beagle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 400,
+        "question": "J.R.R. Tolkien said he envisioned this wizard as an \"odinic wanderer\"",
+        "answer": "Gandalf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN RELATIONS",
+        "value": 400,
+        "question": "Depending on where you are speaking Spanish, this relative could be a nana or an abuela",
+        "answer": "grandmother",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REALITY & GAME SHOW CATCHPHRASES",
+        "value": 400,
+        "question": "\"The tribe has spoken\"",
+        "answer": "Survivor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ORDER IN THE FOOD COURT",
+        "value": 400,
+        "question": "Your request for French fries has been overruled; I'm ordering you a Greek salad with kalamata these",
+        "answer": "olives",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ARTIFACTS",
+        "value": 600,
+        "question": "Located at Windsor Castle, the locket seen here contains the bullet that killed this admiral in an 1805 battle",
+        "answer": "Nelson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "IT'S HARBOR DAY!",
+        "value": 600,
+        "question": "On Dec. 16, 1773 the locals decided to give this harbor an unusual bit of pollution, & the world would never be the same",
+        "answer": "Boston Harbor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 600,
+        "question": "In 2017's \"Origin\", this symbology professor treks through Spain on a quest to find a cryptic password",
+        "answer": "Robert Langdon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN RELATIONS",
+        "value": 600,
+        "question": "In Swedish a brorsdotter is this",
+        "answer": "niece",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REALITY & GAME SHOW CATCHPHRASES",
+        "value": 600,
+        "question": "\"Will you accept this rose?\"",
+        "answer": "The Bachelor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ORDER IN THE FOOD COURT",
+        "value": 600,
+        "question": "I concur with Justices Ginsburg & Sotomayor, who ruled that this, Nathan's specialty, can be considered a sandwich",
+        "answer": "a hot dog",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ARTIFACTS",
+        "value": 800,
+        "question": "Artifacts were recovered from a Song Dynasty ship that sank along what's called the \"Maritime\" this Chinese trade route",
+        "answer": "the Silk Road",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "IT'S HARBOR DAY!",
+        "value": 800,
+        "question": "About 400 miles at its widest point, this sea has harbors in Riga, Latvia & Klaipeda, Lithuania",
+        "answer": "the Baltic Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 800,
+        "question": "In \"A Study in Scarlet\", he tells us \"in the year 1878 I took my degree of Doctor of Medicine of the University of London\"",
+        "answer": "(Dr.) Watson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN RELATIONS",
+        "value": 800,
+        "question": "This older relative is a grosstante in German",
+        "answer": "great-aunt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "REALITY & GAME SHOW CATCHPHRASES",
+        "value": 800,
+        "question": "\"Please pack your knives and go\"",
+        "answer": "Top Chef",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ORDER IN THE FOOD COURT",
+        "value": 800,
+        "question": "We are about to hear testimony from Rick Wetzel, co-founder of a bakery that hand-rolls & bakes these in flavors like Sinful Cinnamon",
+        "answer": "pretzels",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ARTIFACTS",
+        "value": 1000,
+        "question": "Algonquin for \"beads\", also a type of currency strung on belts that could be used to declare war, or to signal peace",
+        "answer": "wampum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "IT'S HARBOR DAY!",
+        "value": 1000,
+        "question": "Here's a view from this bridge named for the water below",
+        "answer": "Sydney Harbor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERARY CHARACTERS",
+        "value": 1000,
+        "question": "John the Savage is a central character in this classic novel set in the year 632 AF (After Ford)",
+        "answer": "Brave New World",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN RELATIONS",
+        "value": 1000,
+        "question": "In Portuguese irma means this & cidade irma is this kind of city",
+        "answer": "sister",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "REALITY & GAME SHOW CATCHPHRASES",
+        "value": 1000,
+        "question": "\"Big bucks, no whammies!\"",
+        "answer": "Press Your Luck",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ORDER IN THE FOOD COURT",
+        "value": 1000,
+        "question": "As it's cheat day, I'll allow testimony regarding a trip to this \"shack\" for its namesake drink--or we can make it a malt",
+        "answer": "Shake (Shack)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ARTY FACTS",
+      "AROUND THE BODY",
+      "RISE TO THE OCCASION",
+      "TOUGH LITTLE CROSSWORD CLUES",
+      "AMERICAN HISTORY",
+      "IF THEY MARRIED..."
+    ],
+    "clues": [
+      {
+        "category": "ARTY FACTS",
+        "value": 400,
+        "question": "In 2014 a very big blossom by this American set a record for a female artist when it sold for $44.4 million",
+        "answer": "Georgia O'Keeffe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE BODY",
+        "value": 400,
+        "question": "The \"Hyster-\" in hysterectomy indicates that it's the removal of this body part",
+        "answer": "the uterus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RISE TO THE OCCASION",
+        "value": 400,
+        "question": "For Valentine's Day this Chicago skyscraper's Skydeck, outside the 103rd floor, hosts an event called \"Love on the Ledge\"",
+        "answer": "Willis Tower (Sears Tower accepted)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TOUGH LITTLE CROSSWORD CLUES",
+        "value": 400,
+        "question": "Away from the wind (4)",
+        "answer": "alee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "In August 1963 Martin Luther King gave his \"I Have A Dream\" speech at this Washington, D.C. landmark",
+        "answer": "the Lincoln Memorial",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IF THEY MARRIED...",
+        "value": 400,
+        "question": "Ms. Headey, Cersei on \"Game of Thrones\", marries John, wrestler & \"Trainwreck\" actor, & gets this rhyming name",
+        "answer": "Lena Cena",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ARTY FACTS",
+        "value": 800,
+        "question": "(Jimmy of the Clue Crew presents the clue): A 15th-century Madonna has gained 21st-century notice for its possible depiction of one of these mysterious objects",
+        "answer": "a UFO (flying saucer)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE BODY",
+        "value": 800,
+        "question": "These arteries that supply blood to the heart itself take their name from the Latin for \"crown\"",
+        "answer": "the coronary arteries",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RISE TO THE OCCASION",
+        "value": 800,
+        "question": "At the end of this film, Tom Hanks & Meg Ryan finally meet on the observation deck of the Empire State Building",
+        "answer": "Sleepless in Seattle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TOUGH LITTLE CROSSWORD CLUES",
+        "value": 800,
+        "question": "Japanese sash (3)",
+        "answer": "obi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 800,
+        "question": "Around 1849 stagecoach mail delivery began on this trail between Missouri & New Mexico",
+        "answer": "the Santa Fe Trail",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IF THEY MARRIED...",
+        "value": 800,
+        "question": "Broadcaster Jane takes a Sunday morning off to marry the brother of tennis star Steffi & undergoes a test with this name",
+        "answer": "Jane Pauley Graf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ARTY FACTS",
+        "value": 1200,
+        "question": "In 2014 stolen paintings worth $12 million were recovered in L.A., including \"Mexican Peasant\" by this muralist",
+        "answer": "Rivera",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE BODY",
+        "value": 1200,
+        "question": "A full set of adult human teeth includes this many canines",
+        "answer": "four",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RISE TO THE OCCASION",
+        "value": 1200,
+        "question": "A champagne reception & amazing views greeted those who did this city's Gherkin Challenge, climbing 1,038 stairs for charity",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TOUGH LITTLE CROSSWORD CLUES",
+        "value": 1200,
+        "question": "Recess in a church (4)",
+        "answer": "apse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1200,
+        "question": "Ratified in 1913, the 17th amendment gave the selection of these to voters",
+        "answer": "U.S. senators",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IF THEY MARRIED...",
+        "value": 1200,
+        "question": "Olympic gold medal skater Tara weds the actor who plays Jim from \"The Office\" & gets this long & rhyming hyphenated name",
+        "answer": "Tara Lipinski-Krasinski",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ARTY FACTS",
+        "value": 1600,
+        "question": "\"The Great Wave\" by the Japanese artist Hokusai inspired this 1905 piece of music by Claude Debussy",
+        "answer": "\"La Mer\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE BODY",
+        "value": 1600,
+        "question": "This long bone between the acetabulum & the patella can resist a force of 2,500 pounds",
+        "answer": "the femur",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RISE TO THE OCCASION",
+        "value": 1600,
+        "question": "This film is set in a high rise, Nakatomi Plaza, during an employee Christmas party; Hans Gruber & co. crash the party",
+        "answer": "Die Hard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TOUGH LITTLE CROSSWORD CLUES",
+        "value": 1600,
+        "question": "A small case for sewing needles (4)",
+        "answer": "etui",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1600,
+        "question": "1996's Personal Responsibility & Work Opportunity Reconciliation Act was part of the reform of this social program",
+        "answer": "welfare",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IF THEY MARRIED...",
+        "value": 1600,
+        "question": "Becky from the novel \"Vanity Fair\" marries \"Sideways\" director Alexander & hyphenates to get this last name",
+        "answer": "Becky Sharp-Payne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ARTY FACTS",
+        "value": 2000,
+        "question": "This \"Naked\" Goya work was put on a Spanish stamp in 1930, but the U.S. Post Office refused any mail using it",
+        "answer": "Naked Maja",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AROUND THE BODY",
+        "value": 2000,
+        "question": "The second-largest part of the human brain, it's involved with balance",
+        "answer": "the cerebellum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RISE TO THE OCCASION",
+        "value": 2000,
+        "question": "To ring in the New Year of 2018, a laser light show lit up this tallest skyscraper in Dubai",
+        "answer": "Burj Khalifa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TOUGH LITTLE CROSSWORD CLUES",
+        "value": 2000,
+        "question": "British submachine gun (4)",
+        "answer": "sten",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 2000,
+        "question": "Accused Salem witch Giles Corey was executed with big stones in the method that's called this in \"The Crucible\"",
+        "answer": "pressing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IF THEY MARRIED...",
+        "value": 2000,
+        "question": "'90s singer Tori of \"Cornflake Girl\" fame joins actor John in his \"Full House\" & hyphenates her name to this",
+        "answer": "Tori Amos-Stamos",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CANADIAN CITIES",
+    "clue": "City Hall in this Western provincial capital is on Victoria Avenue near the corner of Albert Street",
+    "answer": "Regina"
+  },
+  "gameId": "8010",
+  "gameDate": "Friday, June 7, 2019"
+}

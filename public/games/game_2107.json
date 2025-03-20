@@ -1,0 +1,511 @@
+{
+  "title": "Show #5307 - Tuesday, October 9, 2007",
+  "jeopardyRound": {
+    "categories": [
+      "THE CONTINENTS",
+      "THE SUMMER OLYMPICS",
+      "OUT OF THIS WORLD",
+      "YOUR NEW CLASS SCHEDULE",
+      "AMERICANA",
+      "NOT A VERB"
+    ],
+    "clues": [
+      {
+        "category": "THE CONTINENTS",
+        "value": 200,
+        "question": "This continent is the largest in area",
+        "answer": "Asia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 200,
+        "question": "You might have to get as high as 20 feet off the ground to win a medal in this \"vaulting\" Olympic event",
+        "answer": "the pole vault",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OUT OF THIS WORLD",
+        "value": 200,
+        "question": "The gravitational pull of this object is the main force holding the solar system together",
+        "answer": "the sun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "YOUR NEW CLASS SCHEDULE",
+        "value": 200,
+        "question": "History:Study up on this ship that anchored in Plymouth Harbor on Dec. 26, 1620",
+        "answer": "the Mayflower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 200,
+        "question": "On July 8, 1776 it was rung to proclaim the first public reading of the Declaration of Independence",
+        "answer": "the Liberty Bell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NOT A VERB",
+        "value": 200,
+        "question": "Capable,succeed,accomplish",
+        "answer": "capable",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE CONTINENTS",
+        "value": 400,
+        "question": "Early explorers called parts of this continent Vinland",
+        "answer": "North America",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 400,
+        "question": "At 26.2 miles, it's the longest running event in the Summer Olympics",
+        "answer": "the marathon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OUT OF THIS WORLD",
+        "value": 400,
+        "question": "Galileo was the first person to see the rings around this planet",
+        "answer": "Saturn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "YOUR NEW CLASS SCHEDULE",
+        "value": 400,
+        "question": "Home ec.:Make this breakfast dish of battered & fried bread, called pain perdu in France",
+        "answer": "French toast",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 400,
+        "question": "Suffragettes were women who wanted the right to do this (& got to with the 19th Amendement)",
+        "answer": "vote",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NOT A VERB",
+        "value": 400,
+        "question": "Paint,brush,easel",
+        "answer": "easel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE CONTINENTS",
+        "value": 600,
+        "question": "This continent has a lot of marsupials, like the native wombat",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 600,
+        "question": "In the Olympic 400-meter relay final, this many runners compete together as a team",
+        "answer": "4",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OUT OF THIS WORLD",
+        "value": 600,
+        "question": "Not the first but this second planet is the hottest, because its atmosphere causes a severe greenhouse effect",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "YOUR NEW CLASS SCHEDULE",
+        "value": 600,
+        "question": "Spanish:You'll have to use your cabeza, this body part, to pass the class",
+        "answer": "your head",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 600,
+        "question": "Check out exotic marine life at one of these, like the National one in Baltimore",
+        "answer": "an aquarium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NOT A VERB",
+        "value": 600,
+        "question": "Wind,wander,wonderful",
+        "answer": "wonderful",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE CONTINENTS",
+        "value": 800,
+        "question": "This continent has the longest mountain chain",
+        "answer": "South America",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 800,
+        "question": "Throwing events include this one, the hurling of a spearlike shaft",
+        "answer": "the javelin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OUT OF THIS WORLD",
+        "value": 800,
+        "question": "It was last seen in the skies in 1986 & won't return until 2061",
+        "answer": "Halley's Comet",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "YOUR NEW CLASS SCHEDULE",
+        "value": 800,
+        "question": "Math:(Cheryl of the Clue Crew shows two hexagons on the monitor.)  A polygon may be considered convex, or this, meaning \"having at least 1 interior angle greater than 180 degrees\"",
+        "answer": "concave",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 800,
+        "question": "Tulsa's newspaper is called The World; Boston's is named for this object that depicts the world",
+        "answer": "a globe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NOT A VERB",
+        "value": 800,
+        "question": "Salt,pepper,sage",
+        "answer": "sage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE CONTINENTS",
+        "value": 1000,
+        "question": "In 1957 countries on this continent signed a treaty creating an economic community, or common market",
+        "answer": "Europe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 1000,
+        "question": "In 2004 the USA's Bryan Clay, with 8,820 points, took the silver in this 10-event contest",
+        "answer": "the decathlon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "YOUR NEW CLASS SCHEDULE",
+        "value": 1000,
+        "question": "Science:Discover animal anatomy, starting with Ursidae, this animal family",
+        "answer": "the bear family",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICANA",
+        "value": 1000,
+        "question": "The name of this Texas city is Spanish for \"yellow\"",
+        "answer": "Amarillo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NOT A VERB",
+        "value": 1000,
+        "question": "Candor,center,canter",
+        "answer": "candor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CHRISTOPHER COLUMBUS",
+      "MOVIE MUSIC",
+      "LITERATURE FOR KIDS",
+      "ANNUAL EVENTS",
+      "ART",
+      "WHERE WORDS COME FROM"
+    ],
+    "clues": [
+      {
+        "category": "CHRISTOPHER COLUMBUS",
+        "value": 400,
+        "question": "There's no truth to the story that she had to pawn her jewels to finance Columbus' first voyage",
+        "answer": "Queen Isabella",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MUSIC",
+        "value": 400,
+        "question": "5-letter word for a group that sings exalting music, like the Bulgarian women's one heard in \"Brother Bear\"",
+        "answer": "choir",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE FOR KIDS",
+        "value": 400,
+        "question": "\"We looked!  Then we saw him step in on the mat!  We looked!  And we saw him!\"  This famous cat",
+        "answer": "the Cat in the Hat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 400,
+        "question": "Several different islands choose their own kings & queens as part of this state's Aloha festivals",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Ceramics is the art of making objects, even dreidels, out of this material",
+        "answer": "clay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WHERE WORDS COME FROM",
+        "value": 400,
+        "question": "Chinese or Malay:This tomato condiment that's put on French fries",
+        "answer": "ketchup",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHRISTOPHER COLUMBUS",
+        "value": 800,
+        "question": "This flagship of Columbus' first voyage was chartered from Juan de la Cosa & was his largest ship",
+        "answer": "the Santa Maria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MUSIC",
+        "value": 800,
+        "question": "Caetano Veloso & Mr. Loco are among artists on the soundtrack of this Jack Black wrestling movie",
+        "answer": "Nacho Libre",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE FOR KIDS",
+        "value": 800,
+        "question": "In a fairy tale by this Danish author, the Snow Queen takes little Kay away in her sleigh to her icy palace",
+        "answer": "Hans Christian Andersen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 800,
+        "question": "Stand clear of the seed-spitting contest at the Hope, Arkansas festival for these huge picnic fruits",
+        "answer": "watermelons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "Someone tearing the L.A. Times into strips may be practicing this art form with a hyphenated French name",
+        "answer": "papier-mâché",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WHERE WORDS COME FROM",
+        "value": 800,
+        "question": "Latin:This device you open when it's precipitating",
+        "answer": "an umbrella",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHRISTOPHER COLUMBUS",
+        "value": 1200,
+        "question": "Christopher Columbus was born in this Italian seaport where his father was a merchant & wool weaver",
+        "answer": "Genoa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MUSIC",
+        "value": 1200,
+        "question": "Julie Andrews sings \"A Spoonful Of Sugar\" in this movie",
+        "answer": "Mary Poppins",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE FOR KIDS",
+        "value": 1200,
+        "question": "In \"Little Women\", Margaret March is better known by this nickname",
+        "answer": "\"Meg\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 1200,
+        "question": "Dancers clomp around in wooden shoes at the Holland, Michigan festival honoring this flower",
+        "answer": "the tulip",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 1200,
+        "question": "The name of this type of paint that contains egg yolks almost sounds like a Japanese dish, but don't eat it",
+        "answer": "tempera",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CHRISTOPHER COLUMBUS",
+        "value": 1600,
+        "question": "On Oct. 12, 1492 Columbus reached the New World & landed at an island he called this, Spanish for \"holy savior\"",
+        "answer": "San Salvador",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MUSIC",
+        "value": 1600,
+        "question": "In \"Raise Your Voice\", Hilary Duff sings this Handel oratorio about the Savior",
+        "answer": "Messiah",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE FOR KIDS",
+        "value": 1600,
+        "question": "This loving relative who takes care of Tom Sawyer was inspired by Mark Twain's own mother",
+        "answer": "Aunt Polly",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 1600,
+        "question": "Stockton, Calif. doesn't have a festival for Britney Spears, but it does have one for these green spears",
+        "answer": "asparagus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CHRISTOPHER COLUMBUS",
+        "value": 2000,
+        "question": "One of the only 2 current U.S. territories visited by Columbus, who reached both in 1493",
+        "answer": "Puerto Rico (or the Virgin Islands)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE MUSIC",
+        "value": 2000,
+        "question": "She sings \"Cry\" & \"Only Hope\" on the soundtrack of her movie \"A Walk to Remember\"",
+        "answer": "Mandy Moore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE FOR KIDS",
+        "value": 2000,
+        "question": "This author who wrote about \"The Princess Who Could Not Laugh\" made us smile with \"Winnie-the-Pooh\"",
+        "answer": "A.A. Milne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. PRESIDENTS",
+    "clue": "He's the only U.S. president who never lived in the District of Columbia",
+    "answer": "George Washington"
+  },
+  "gameId": "5307",
+  "gameDate": "Tuesday, October 9, 2007"
+}

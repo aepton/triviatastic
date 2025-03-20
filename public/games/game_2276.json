@@ -1,0 +1,556 @@
+{
+  "title": "Show #3776 - Monday, January 22, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "AFTER THE WHITE HOUSE",
+      "NETWORKING",
+      "WILD KINGDOM",
+      "IN THE BOOKSTORE",
+      "WE'RE OFF TO SEA",
+      "THE WIZARD OF \"O\"s"
+    ],
+    "clues": [
+      {
+        "category": "AFTER THE WHITE HOUSE",
+        "value": 100,
+        "question": "In 1999 he celebrated his 75th birthday by jumping from a plane over the grounds of his Texas library",
+        "answer": "George H.W. Bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NETWORKING",
+        "value": 100,
+        "question": "\"Movies in Time\",\"Time Lab 2000\",\"History Undercover\"",
+        "answer": "The History Channel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WILD KINGDOM",
+        "value": 100,
+        "question": "This bird of prey is the national symbol of 2 North American countries",
+        "answer": "Eagle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 100,
+        "question": "\"A Killing on\" this \"Street: An Investment Mystery\" is part financial advice & part whodunit",
+        "answer": "Wall Street",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WE'RE OFF TO SEA",
+        "value": 100,
+        "question": "To get underway we'll \"weigh\" this large metal device that's been holding our ship in place",
+        "answer": "Anchor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE WIZARD OF \"O\"s",
+        "value": 100,
+        "question": "Jack Ruby fatally shot him November 24, 1963",
+        "answer": "Lee Harvey Oswald",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AFTER THE WHITE HOUSE",
+        "value": 200,
+        "question": "He not only designed the buildings for the University of Virginia, he also chose the faculty & curriculum",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NETWORKING",
+        "value": 200,
+        "question": "\"Up Close\",\"Sportscenter\",\"NBA 2Night\"",
+        "answer": "ESPN",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WILD KINGDOM",
+        "value": 200,
+        "question": "Thought to be reincarnations of Hindu saints, rats roam free in a temple in this country's city of Deshnoke",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 200,
+        "question": "She called her book \"Vittorio the Vampire\" a vampire version of \"Romeo and Juliet\"",
+        "answer": "Anne Rice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WE'RE OFF TO SEA",
+        "value": 200,
+        "question": "This record of our ship's journey sounds like a large section of a tree trunk",
+        "answer": "Log",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE WIZARD OF \"O\"s",
+        "value": 200,
+        "question": "It's Rhode Island's watery nickname",
+        "answer": "\"The Ocean State\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AFTER THE WHITE HOUSE",
+        "value": 300,
+        "question": "An avid golfer, he scored a hole-in-one during a round in Palm Springs in 1968",
+        "answer": "Dwight D. Eisenhower",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NETWORKING",
+        "value": 300,
+        "question": "\"Jailbait\",\"120 Minutes\",\"Celebrity Deathmatch\"",
+        "answer": "MTV",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WILD KINGDOM",
+        "value": 300,
+        "question": "Since it's only 1 inch in length, \"taming\" the Etruscan type of this animal might be difficult",
+        "answer": "Shrew",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 300,
+        "question": "\"In Our Humble Opinion\" collects the rants & raves of Click & Clack, the motormouth hosts of this NPR show",
+        "answer": "Car Talk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WE'RE OFF TO SEA",
+        "value": 300,
+        "question": "It's the person who gives detailed information on our course ahead; Abel Tasman was a famous one",
+        "answer": "Navigator",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE WIZARD OF \"O\"s",
+        "value": 300,
+        "question": "It's the last name of NBA great Hakeem",
+        "answer": "Olajuwon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AFTER THE WHITE HOUSE",
+        "value": 400,
+        "question": "In 1913 he headed to the Brazilian jungle for a 7-month-long expedition",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NETWORKING",
+        "value": 400,
+        "question": "\"Inside NASCAR\",\"Grand Ole Opry Live\",\"Bill Dance Outdoors\"",
+        "answer": "TNN (The Nashville Network)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WILD KINGDOM",
+        "value": 400,
+        "question": "The white-headed variety of this high-flying scavenger is seen here",
+        "answer": "Vulture",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 800,
+        "question": "The title of William F. Buckley's novel \"The Redhunter\" refers to this man who made some see red in the '50s",
+        "answer": "Senator Joseph McCarthy",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WE'RE OFF TO SEA",
+        "value": 400,
+        "question": "If we get bored, on board, we can always play this classic board game seen here(\"You sunk my...\")",
+        "answer": "Battleship",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE WIZARD OF \"O\"s",
+        "value": 400,
+        "question": "These native North American people are also known as the Chippewa",
+        "answer": "Ojibwa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AFTER THE WHITE HOUSE",
+        "value": 500,
+        "question": "He went on to preside over the American Bar Association & over the Supreme Court of the U.S.",
+        "answer": "William Howard Taft",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NETWORKING",
+        "value": 500,
+        "question": "\"First Wave\",\"Farscape\",\"Lexx\"",
+        "answer": "Sci Fi Channel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WILD KINGDOM",
+        "value": 500,
+        "question": "The greater wax & lesser wax types of this insect are major enemies of bees; their larvae eat the hive!",
+        "answer": "Moths",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 500,
+        "question": "This author's \"Original Whistle Stop Cafe Cookbook\" tells how to make fried green tomatoes",
+        "answer": "Fannie Flagg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WE'RE OFF TO SEA",
+        "value": 500,
+        "question": "On our trip we'll be entering one of these gated canal sections in which water levels are raised & lowered",
+        "answer": "Lock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE WIZARD OF \"O\"s",
+        "value": 500,
+        "question": "He's best-known for his plays \"Waiting for Lefty\" & \"Golden Boy\"",
+        "answer": "Clifford Odets",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SCIENTISTS & INVENTORS",
+      "\"A\" IN COLLEGE",
+      "WISH I'D SEEN THAT MUSICAL!",
+      "FAMOUS ARTS",
+      "IT'S OUR ISLAND",
+      "SPEAK OF THE DEAD"
+    ],
+    "clues": [
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 200,
+        "question": "Time Magazine named him the \"Person of the Century\"",
+        "answer": "Albert Einstein",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "\"A\" IN COLLEGE",
+        "value": 200,
+        "question": "On its Tempe campus, you'll find the Herberger Center for Design Excellence & Sun Devil Stadium",
+        "answer": "Arizona State University",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WISH I'D SEEN THAT MUSICAL!",
+        "value": 200,
+        "question": "Orson Welles, Cole Porter songs & a train wreck were highlights of \"Around the World\", based on this novel",
+        "answer": "Around the World in Eighty Days",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS ARTS",
+        "value": 200,
+        "question": "In 1992 this columnist won a lawsuit which held that his idea was the basis for the movie \"Coming to America\"",
+        "answer": "Art Buchwald",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IT'S OUR ISLAND",
+        "value": 200,
+        "question": "Hong Kong",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPEAK OF THE DEAD",
+        "value": 200,
+        "question": "An ancient belief says this bird \"sings before death\" (& maybe dances by the lake)",
+        "answer": "Swan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 400,
+        "question": "Astronomer Pierre Janssen discovered this element while studying a solar eclipse",
+        "answer": "Helium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "\"A\" IN COLLEGE",
+        "value": 400,
+        "question": "(Here's former NFL star Kevin Greene)  I played for the Tigers of this Alabama school whose name is also a color",
+        "answer": "Auburn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WISH I'D SEEN THAT MUSICAL!",
+        "value": 400,
+        "question": "\"Her First Roman\" starred Richard Kiley as Julius Caesar & Leslie Uggams as this captivating queen",
+        "answer": "Cleopatra",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS ARTS",
+        "value": 400,
+        "question": "This game show host didn't put guests in \"Jeopardy!\" as an usher at David Eisenhower & Julie Nixon's wedding",
+        "answer": "Art Fleming",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IT'S OUR ISLAND",
+        "value": 400,
+        "question": "Elba",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPEAK OF THE DEAD",
+        "value": 400,
+        "question": "Oscar Wilde's reported last words, \"One of us must go\", meant him or this",
+        "answer": "The wallpaper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 600,
+        "question": "If you know he's \"The Father of the Kodak\", say Cheese!",
+        "answer": "George Eastman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "\"A\" IN COLLEGE",
+        "value": 600,
+        "question": "In 1986 gunmen abducted the acting comptroller at this school -- the one in Beirut, not in Washington, D.C.",
+        "answer": "American University",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WISH I'D SEEN THAT MUSICAL!",
+        "value": 1200,
+        "question": "Saints alive!  Ann Reinking starred as this saint in \"Goodtime Charley\", opposite Joel Grey as the Dauphin",
+        "answer": "Saint Joan of Arc",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS ARTS",
+        "value": 1200,
+        "question": "Born in 1895, he made the diagram seen here part of American culture(dance steps)",
+        "answer": "Arthur Murray",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IT'S OUR ISLAND",
+        "value": 600,
+        "question": "Pitcairn",
+        "answer": "United Kingdom",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPEAK OF THE DEAD",
+        "value": 600,
+        "question": "Completes the Stevie Smith line, \"I was much further out than you thought/and not waving but\" this",
+        "answer": "Drowning",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 800,
+        "question": "His supercomputer earned him a place in the National Inventors Hall of Fame",
+        "answer": "Seymour Cray",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "\"A\" IN COLLEGE",
+        "value": 800,
+        "question": "It follows \"Gustavus\" in the name of a St. Peter, Minnesota school",
+        "answer": "Adolphus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WISH I'D SEEN THAT MUSICAL!",
+        "value": 800,
+        "question": "TV's Herman Munster, he co-starred with Stephen Collins & Meat Loaf in the 1974 musical \"More Than You Deserve\"",
+        "answer": "Fred Gwynne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS ARTS",
+        "value": 800,
+        "question": "In 1992 this Washington Redskin became the NFL's career receptions leader with his 820th catch",
+        "answer": "Art Monk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SPEAK OF THE DEAD",
+        "value": 800,
+        "question": "\"The great thing about the dead, they make space\", he wrote in \"Rabbit is Rich\"",
+        "answer": "John Updike",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 1000,
+        "question": "The company founded by this plow maker is today the world's leading producer of agricultural equipment",
+        "answer": "John Deere",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "\"A\" IN COLLEGE",
+        "value": 1000,
+        "question": "The Delphian is the student newspaper of this Garden City, New York university",
+        "answer": "Adelphi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WISH I'D SEEN THAT MUSICAL!",
+        "value": 1000,
+        "question": "The 1969 musical \"Come Summer\" reunited Ray Bolger with this Wicked Witch co-star from \"The Wizard of Oz\"",
+        "answer": "Margaret Hamilton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS ARTS",
+        "value": 1000,
+        "question": "He's the jazz pianist heard here",
+        "answer": "Art Tatum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SPEAK OF THE DEAD",
+        "value": 1000,
+        "question": "Poet who implored you, \"Do not go gentle into that good night/old age should burn and rave at close of day\"",
+        "answer": "Dylan Thomas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD MONUMENTS",
+    "clue": "A statue of Chang & Eng Bunker stands in Samut Songkram in this country",
+    "answer": "Thailand"
+  },
+  "gameId": "3776",
+  "gameDate": "Monday, January 22, 2001"
+}

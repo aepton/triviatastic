@@ -1,0 +1,574 @@
+{
+  "title": "Show #8369 - Thursday, April 1, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "APRIL FOOL!",
+      "U.S. GEOGRAPHY",
+      "SCIENCE & SCIENTISTS",
+      "TV & FILM",
+      "SAFE AT HOME",
+      "\"OUT\" AT FIRST"
+    ],
+    "clues": [
+      {
+        "category": "APRIL FOOL!",
+        "value": 200,
+        "question": "In 1998 Burger King ran an ad touting its new \"left-handed\" version of this signature burger",
+        "answer": "the Whopper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "If you've revisited Highway 61, you know it takes you into the heart of this city in the southwest corner of Tennessee",
+        "answer": "Memphis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & SCIENTISTS",
+        "value": 200,
+        "question": "Cultures of microorganisms are grown in this shallow vessel named for a bacteriologist",
+        "answer": "a Petri dish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TV & FILM",
+        "value": 200,
+        "question": "The 3 original judges on \"American Idol\" were Simon Cowell, Randy Jackson & this woman",
+        "answer": "Paula Abdul",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SAFE AT HOME",
+        "value": 200,
+        "question": "The Sentry S6770 safe is U.L. classified to protect valuables for 1 hour during one of these",
+        "answer": "a fire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"OUT\" AT FIRST",
+        "value": 200,
+        "question": "A loss of electrical power",
+        "answer": "an outage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "APRIL FOOL!",
+        "value": 400,
+        "question": "We hope math teachers weren't fooled by the rumor that Alabama voted to change this to 3.0, a \"biblical value\"",
+        "answer": "pi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "About 275 miles due west of the famous Four Corners, the Three Corners where Utah, Arizona & this state meet has its own monument",
+        "answer": "Nevada",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & SCIENTISTS",
+        "value": 400,
+        "question": "C/1847 T1 is the formal name of one of these astronomical objects",
+        "answer": "a comet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TV & FILM",
+        "value": 400,
+        "question": "Played by Ben Stiller, the character Greg had this last name in the movie \"Meet the Parents\"",
+        "answer": "Focker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SAFE AT HOME",
+        "value": 400,
+        "question": "redcross.org says hire a pro to make sure your home is securely anchored to its foundation for safety in one of these",
+        "answer": "earthquake (a tornado) (a hurricane)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"OUT\" AT FIRST",
+        "value": 400,
+        "question": "A discount store devoted to a single retail brand",
+        "answer": "an outlet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "APRIL FOOL!",
+        "value": 600,
+        "question": "In 1996 Taco Bell claimed it bought this historic landmark in Philadelphia & was renaming it appropriately",
+        "answer": "the Liberty Bell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "Virginia's largest river, the James empties into this body of water",
+        "answer": "the Chesapeake Bay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & SCIENTISTS",
+        "value": 600,
+        "question": "The element lawrencium & a lab at this California university are named for Nobel Prize winner Ernest Lawrence",
+        "answer": "UC Berkeley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TV & FILM",
+        "value": 600,
+        "question": "Lady Whistledown reveals the secrets of the Ton in this Netflix series about love & marriage in Regency England",
+        "answer": "Bridgerton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SAFE AT HOME",
+        "value": 600,
+        "question": "P.I.R. stands for passive these sensors, which detect an intruder's heat energy",
+        "answer": "infrared",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"OUT\" AT FIRST",
+        "value": 600,
+        "question": "This word for a criminal comes from early Scandinavian",
+        "answer": "outlaw",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "APRIL FOOL!",
+        "value": 800,
+        "question": "In 1980 the BBC (those cheeky Brits!) said this landmark, to keep up with the times, would be given a digital readout",
+        "answer": "Big Ben",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "Washington state is split by I-90 which goes through these mountains that form a curtain not as rigid as the Iron Curtain",
+        "answer": "the Cascades",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & SCIENTISTS",
+        "value": 800,
+        "question": "The color of the iris comes from this brownish-black pigment--the more there is, the darker the iris' color",
+        "answer": "melanin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TV & FILM",
+        "value": 800,
+        "question": "This \"sanguine\" HBO series was based on the Sookie Stackhouse books by Charlaine Harris",
+        "answer": "True Blood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SAFE AT HOME",
+        "value": 800,
+        "question": "The safety siren PR04 series detector continuously monitors home air for this dangerous 5-letter gas",
+        "answer": "radon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"OUT\" AT FIRST",
+        "value": 800,
+        "question": "Let's get things straight from this, the very beginning of something",
+        "answer": "the outset",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "APRIL FOOL!",
+        "value": 1000,
+        "question": "This inventor's reputation was high in 1878 when a newspaper said his new machine turned soil into cereal & water into wine",
+        "answer": "Edison",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "This hilly region of western Massachusetts is home to the Tanglewood Music & Jacob's Pillow dance festivals",
+        "answer": "the Berkshires",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & SCIENTISTS",
+        "value": 1000,
+        "question": "In mammals, eggs move from the ovaries to the uterus via these tubes named for an Italian anatomist",
+        "answer": "the Fallopian tubes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TV & FILM",
+        "value": 1000,
+        "question": "Sergei Eisenstein directed the 1925 Russian silent film about this title battleship & its revolting crew",
+        "answer": "Battleship Potemkin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SAFE AT HOME",
+        "value": 1000,
+        "question": "Never mix bleach with cleansers containing this other strong-smelling stuff, NH3; together, they make toxic gas",
+        "answer": "ammonia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"OUT\" AT FIRST",
+        "value": 1000,
+        "question": "A rock formation that projects from the ground",
+        "answer": "an outcrop",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "1971: 50 YEARS AGO",
+      "BROADWAY MUSICALS",
+      "EXPLORING AUSTRALIA",
+      "IMMORAL LINE",
+      "CURRENCIES",
+      "OVERLAPS"
+    ],
+    "clues": [
+      {
+        "category": "1971: 50 YEARS AGO",
+        "value": 400,
+        "question": "Popularly known by this name, a report presented to the Secretary of Defense in 1969 appeared in newspapers in 1971",
+        "answer": "the Pentagon Papers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 400,
+        "question": "\"Private Dancer\" & \"Nutbush City Limits\" are songs in a 2019 Broadway musical about this singer",
+        "answer": "Tina Turner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EXPLORING AUSTRALIA",
+        "value": 400,
+        "question": "In 1616 Dutch sailors sighted Australia when they ended up too far east after rounding this cape",
+        "answer": "the Cape of Good Hope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IMMORAL LINE",
+        "value": 400,
+        "question": "In \"Paradise Lost\", not Santa but this guy says, \"better to reign in hell, than serve in heav'n\"",
+        "answer": "Satan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CURRENCIES",
+        "value": 400,
+        "question": "Costa Rica uses a currency bearing the last name of this sailor in Spanish",
+        "answer": "Christopher Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OVERLAPS",
+        "value": 400,
+        "question": "Tube for transporting petroleum that plays defense on the gridiron",
+        "answer": "a pipelinebacker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "1971: 50 YEARS AGO",
+        "value": 800,
+        "question": "The USSR's Salyut 1 was the first of these aloft; sadly, its only residents perished on the return trip",
+        "answer": "space stations",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 800,
+        "question": "Julie Taymor felt the love in 1998 when she became the first woman to win a Tony for directing a musical--this one",
+        "answer": "The Lion King",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EXPLORING AUSTRALIA",
+        "value": 800,
+        "question": "In 1770 this then-lieutenant mapped Australia's east coast & claimed it for Britain",
+        "answer": "Cook",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IMMORAL LINE",
+        "value": 800,
+        "question": "Of this title 5-score-plus-one group, the villain says, \"I don't care how... hang them, suffocate them, drop them off the roof\"",
+        "answer": "the 101 Dalmatians",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CURRENCIES",
+        "value": 800,
+        "question": "The currency of this nation of 59 million features wildlife commonly found there",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OVERLAPS",
+        "value": 800,
+        "question": "A car crash-induced set of false teeth",
+        "answer": "accidentures",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "1971: 50 YEARS AGO",
+        "value": 1200,
+        "question": "This lead singer of The Doors was found dead in a Paris bathtub",
+        "answer": "Jim Morrison",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 1200,
+        "question": "Oprah was one of the original producers of this musical based on an Alice Walker novel",
+        "answer": "The Color Purple",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EXPLORING AUSTRALIA",
+        "value": 1200,
+        "question": "In 1873 the first European expedition crossed the Great this Desert (almost a stupid answer)",
+        "answer": "the Great Sandy Desert",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IMMORAL LINE",
+        "value": 1200,
+        "question": "This title shock doc says, \"Signore Pazzi, I must confess to you: I'm giving serious thought to eating your wife\"",
+        "answer": "Hannibal Lecter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CURRENCIES",
+        "value": 1200,
+        "question": "Latin for \"pound\" gives us this name of the former currency of Italy & current currency of Turkey",
+        "answer": "lira",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OVERLAPS",
+        "value": 1200,
+        "question": "Ontario capital city's long narrow sled",
+        "answer": "Torontoboggan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "1971: 50 YEARS AGO",
+        "value": 1600,
+        "question": "This first daughter with a name close to her mom's was a June bride",
+        "answer": "Tricia Nixon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 1600,
+        "question": "As Effie White in this show, Jennifer Holliday brought the house down with \"And I Am Telling You I'm Not Going\"",
+        "answer": "Dreamgirls",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EXPLORING AUSTRALIA",
+        "value": 1600,
+        "question": "This Dutchman charted the coast of North Australia in 1644 & got a sea & an island named for him",
+        "answer": "Tasman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IMMORAL LINE",
+        "value": 1600,
+        "question": "This Bard royal says he must kill his brother's sons & marry the daughter, as he's \"so far in blood that sin will pluck on sin\"",
+        "answer": "Richard III",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CURRENCIES",
+        "value": 1600,
+        "question": "This unit of currency with a 4-letter name seen here became one of the IMF's reserve currencies in 2015",
+        "answer": "the yuan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OVERLAPS",
+        "value": 1600,
+        "question": "St. Patrick's 3-lobed plant that's a musical style revived by bands like the Stray Cats",
+        "answer": "shamrockabilly",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "1971: 50 YEARS AGO",
+        "value": 2000,
+        "question": "This general seized power in Uganda",
+        "answer": "Idi Amin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 2000,
+        "question": "With music by Duncan Sheik, this coming-of-age musical is based on the German play \"Fruhlings Erwachen\"",
+        "answer": "Spring Awakening",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EXPLORING AUSTRALIA",
+        "value": 2000,
+        "question": "In the 1830s Thomas Livingstone Mitchell named parts of what would soon be this southeast state Australia Felix, or Happy Australia",
+        "answer": "Victoria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IMMORAL LINE",
+        "value": 2000,
+        "question": "Judge Holden in \"Blood Meridian\" by this author advises, \"Every child knows that play is nobler than work\"",
+        "answer": "Cormac McCarthy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CURRENCIES",
+        "value": 2000,
+        "question": "The ruble was the first currency to be decimalized, as part of 1704 reforms by this ruler",
+        "answer": "Peter the Great",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OVERLAPS",
+        "value": 2000,
+        "question": "Atlantic food fish that runs the circus",
+        "answer": "herringmaster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ANTIDIS-ESTABLISHMENT-ARIANISM",
+    "clue": "A real-life antidisestablishmentarian, William Bridgeman opposed the 1920 disestablishment of this in Wales",
+    "answer": "church"
+  },
+  "gameId": "8369",
+  "gameDate": "Thursday, April 1, 2021"
+}

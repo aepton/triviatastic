@@ -1,0 +1,547 @@
+{
+  "title": "Show #4373 - Wednesday, September 17, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "SAINTS",
+      "MOVIE COMEDIES",
+      "THINK TWICE",
+      "TURIN",
+      "\"UR\" HEAD",
+      "KAFKA"
+    ],
+    "clues": [
+      {
+        "category": "SAINTS",
+        "value": 200,
+        "question": "He's the patron of Scotland & of fishermen",
+        "answer": "St. Andrew",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE COMEDIES",
+        "value": 200,
+        "question": "Jack Nicholson teamed up with Adam Sandler for this 2003 film",
+        "answer": "Anger Management",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THINK TWICE",
+        "value": 200,
+        "question": "At Mach 2, a plane is traveling at twice the speed of this",
+        "answer": "sound",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TURIN",
+        "value": 200,
+        "question": "Duke Emanuele Filberto brought it to Turin in 1578; it's now housed in the Cathedral of San Giovanni",
+        "answer": "the Shroud of Turin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"UR\" HEAD",
+        "value": 200,
+        "question": "Willam Herschel also discovered 2 moons orbiting this planet that he had discovered in 1781",
+        "answer": "Uranus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "KAFKA",
+        "value": 200,
+        "question": "When Kafka was born in this city in 1883, it was the capital of Bohemia",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SAINTS",
+        "value": 400,
+        "question": "This marytyr who was cooked to death on a gridiron has a river, gulf & seaway named for him",
+        "answer": "St. Lawrence",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE COMEDIES",
+        "value": 400,
+        "question": "Mel Gibson got in touch with his feminine side in this 2000 comedy",
+        "answer": "What Women Want",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THINK TWICE",
+        "value": 400,
+        "question": "According to author James M. Cain, it's who \"always rings twice\"",
+        "answer": "the postman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TURIN",
+        "value": 400,
+        "question": "While touring Turin, stop into the Biblioteca Reale, and you'll be drawn to this artist's self-portrait",
+        "answer": "da Vinci",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"UR\" HEAD",
+        "value": 400,
+        "question": "Look, up in the sky, it's not a bird or a plane, it's this constellation, also known as the Little Bear",
+        "answer": "Ursa Minor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "KAFKA",
+        "value": 400,
+        "question": "After discovering his religious roots, Kafka began studying this language in 1917",
+        "answer": "Hebrew",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SAINTS",
+        "value": 600,
+        "question": "Born a Jew, he became the \"Apostle of the Gentiles\"",
+        "answer": "Paul",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE COMEDIES",
+        "value": 600,
+        "question": "She returned as Elle Woods in \"Legally Blonde 2: Red, White & Blonde\"",
+        "answer": "Reese Witherspoon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THINK TWICE",
+        "value": 600,
+        "question": "Number of horses who have won the Kentucky Derby twice",
+        "answer": "zero",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TURIN",
+        "value": 600,
+        "question": "This opera that made its debut in Turin in 1896 probably helped Puccini pay his \"rent\"",
+        "answer": "La Boheme",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"UR\" HEAD",
+        "value": 600,
+        "question": "Last time we checked, Jorge Batlle was still this country's leader",
+        "answer": "Uruguay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "KAFKA",
+        "value": 600,
+        "question": "Kafka called those who inspired him, like this \"Karamazov\" author, his \"blood relatives\"",
+        "answer": "Dostoevsky",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SAINTS",
+        "value": 800,
+        "question": "There are women saints named this of Bologna, of Genoa & of Siena",
+        "answer": "Catherine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE COMEDIES",
+        "value": 800,
+        "question": "Sandra Bullock calls it quits as Hugh Grant's attorney in this 2002 romantic comedy",
+        "answer": "Two Weeks Notice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THINK TWICE",
+        "value": 800,
+        "question": "The 22nd Amendment puts a limit of twice on this",
+        "answer": "presidential terms",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TURIN",
+        "value": 800,
+        "question": "Turin's Egyptian Museum has a well-known statue of this \"Let my people go\" pharaoh",
+        "answer": "Ramses II (Ramses the Great)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"UR\" HEAD",
+        "value": 800,
+        "question": "Since the VIII in 1644, the Popes have let this name lapse; it must be up for \"renewal\" by now",
+        "answer": "Urban",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "KAFKA",
+        "value": 800,
+        "question": "In \"Wedding Preparations in the Country\", Raban turns into one of these insects, yeah, yeah, yeah ...",
+        "answer": "a beetle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SAINTS",
+        "value": 1000,
+        "question": "Saints from this country include 2 11th century kings, Stephen & Ladislas the First",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE COMEDIES",
+        "value": 1000,
+        "question": "In this 1979 comedy Bill Murray says, \"It just doesn't matter if we win or if we lose. It just doesn't matter\"",
+        "answer": "Meatballs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THINK TWICE",
+        "value": 1000,
+        "question": "Majolica, a type of this, is fired twice",
+        "answer": "pottery",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TURIN",
+        "value": 1000,
+        "question": "For most of the time, from 1720 to 1861, Turin was capital of this fishy-sounding kingdom",
+        "answer": "Sardinia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"UR\" HEAD",
+        "value": 1000,
+        "question": "This author who had his Genesis August 3, 1924 published his \"Exodus\" in 1958",
+        "answer": "Leon Uris",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "KAFKA",
+        "value": 1000,
+        "question": "Kafka used this special initial for the land surveyor in \"The Castle\" & the last name of Joseph in \"The Trial\"",
+        "answer": "K",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CHINESE HISTORY",
+      "THE SUMMER OLYMPICS",
+      "LIFE ON THE TITANIC",
+      "GEMS & JEWELS",
+      "QUOTES FROM THE 1920s",
+      "CAN I HAVE A WORD?"
+    ],
+    "clues": [
+      {
+        "category": "CHINESE HISTORY",
+        "value": 400,
+        "question": "This now autonomous region of China got its first Buddhist monastery around 775",
+        "answer": "Tibet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 400,
+        "question": "I cannot tell a lie, he's the only George to take home a gold heavyweight boxing medal",
+        "answer": "George Foreman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LIFE ON THE TITANIC",
+        "value": 400,
+        "question": "First class passengers got to sample this beverage, & some bottles of Cliquot 1900 were recovered",
+        "answer": "champagne",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GEMS & JEWELS",
+        "value": 400,
+        "question": "Siberian jasper has alternating bands of these 2 yuletide colors",
+        "answer": "red & green",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "QUOTES FROM THE 1920s",
+        "value": 400,
+        "question": "In 1920 he said that \"The Italian proletariat needs a blood bath for its force to be renewed\"",
+        "answer": "Mussolini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CAN I HAVE A WORD?",
+        "value": 400,
+        "question": "Potamic means of these, such as the Rio Negro & the Cuyahoga",
+        "answer": "rivers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHINESE HISTORY",
+        "value": 800,
+        "question": "The Sui Dynasty cemented the system of exams to qualify for the coveted jobs in this service",
+        "answer": "the civil service",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 800,
+        "question": "You lose a point in this game if your team makes more than 3 contacts with the ball in succession",
+        "answer": "volleyball",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LIFE ON THE TITANIC",
+        "value": 800,
+        "question": "(Jimmy of the Clue Crew presents from the California Science Center Titanic Artifact Exhibit.)  In a third class cabin, the sound of the 29 of these was constant; when they stopped, it meant bad news",
+        "answer": "boilers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GEMS & JEWELS",
+        "value": 800,
+        "question": "The largest of the Cullinan diamonds is currently in her scepter",
+        "answer": "Queen Elizabeth II",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "QUOTES FROM THE 1920s",
+        "value": 800,
+        "question": "In \"The Jazz Singer\", he ad-libbed, \"You ain't heard nothin' yet, folks\"",
+        "answer": "Al Jolson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CAN I HAVE A WORD?",
+        "value": 800,
+        "question": "Groats & groschens are old ones of these used in Europe",
+        "answer": "coins",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 1200,
+        "question": "Of the 2 main types of softball, Olympic women's softball is this type",
+        "answer": "fast pitch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LIFE ON THE TITANIC",
+        "value": 1200,
+        "question": "The orchestra had a repertoire of some 350 pieces, including this tune they're said to have played near the end",
+        "answer": "\"Nearer, My God, To Thee\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GEMS & JEWELS",
+        "value": 1200,
+        "question": "An opal is silicon dioxide & this, which explains why they tend to dry out",
+        "answer": "water",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "QUOTES FROM THE 1920s",
+        "value": 1200,
+        "question": "In a 1925 book, Anita Loos wrote, \"Gentlemen always seem to remember\" these people",
+        "answer": "blondes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CAN I HAVE A WORD?",
+        "value": 1200,
+        "question": "The corbicula is the small pollen basket below the knees on these",
+        "answer": "bees",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 1600,
+        "question": "At the 1924 games Finland barred him from defending his 10,000 m gold to give teammate Ville Ritola a chance",
+        "answer": "Paavo Nurmi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LIFE ON THE TITANIC",
+        "value": 1600,
+        "question": "(Sofia of the Clue Crew presents from the California Science Center Titanic Artifact Exhibit.)  Some of the dishware brought up from the deep bore the logo of this, the Titanic's shipping line",
+        "answer": "White Star",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GEMS & JEWELS",
+        "value": 1600,
+        "question": "An emerald is a beryl colored by this metal, which some people take to try to build muscle & lose fat",
+        "answer": "chromium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "QUOTES FROM THE 1920s",
+        "value": 1600,
+        "question": "Architect Le Corbusier said that this \"is a machine for living\"",
+        "answer": "house",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CAN I HAVE A WORD?",
+        "value": 1600,
+        "question": "Add one letter to etiquette to get this word for acceptable online behavior",
+        "answer": "netiquette",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE SUMMER OLYMPICS",
+        "value": 2000,
+        "question": "This \"seasonal\" swimmer qualified for 5 events at the 1992 games & swam away with 4 medals",
+        "answer": "Summer Sanders",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LIFE ON THE TITANIC",
+        "value": 2000,
+        "question": "One artifact brought up was this type of bag, named for a Prime Minister, Disraeli's rival",
+        "answer": "a Gladstone bag",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GEMS & JEWELS",
+        "value": 2000,
+        "question": "On seeing this large diamond, Nadir Shah said this, meaning \"mountain of light\", & the name stuck",
+        "answer": "Koh-i-Noor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "QUOTES FROM THE 1920s",
+        "value": 2000,
+        "question": "In 1925 he told a Dayton, Tenn. courtroom that it wasn't an insult, but a \"compliment to be called an agnostic\"",
+        "answer": "Clarence Darrow",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CAN I HAVE A WORD?",
+        "value": 2000,
+        "question": "From the Greek kolpos, \"the bosom\", comes this term for an indentation in a coast",
+        "answer": "gulf",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ACADEMY AWARD HISTORY",
+    "clue": "\"Chicago\" was the first musical to win the Best Picture Oscar since this film won for 1968",
+    "answer": "Oliver!"
+  },
+  "gameId": "4373",
+  "gameDate": "Wednesday, September 17, 2003"
+}

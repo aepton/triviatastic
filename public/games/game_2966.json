@@ -1,0 +1,574 @@
+{
+  "title": "Show #5657 - Tuesday, March 24, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "A LITTLE LIT",
+      "VEGAS FILMS",
+      "AT THE BUFFET",
+      "FLOORING",
+      "REBELLIONS: SHAYS' & WHISKEY",
+      "POETIC WORDS"
+    ],
+    "clues": [
+      {
+        "category": "A LITTLE LIT",
+        "value": 200,
+        "question": "Dickens' mother was probably the inspiration for Mrs. Micawber in this very autobiographical novel",
+        "answer": "David Copperfield",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "VEGAS FILMS",
+        "value": 200,
+        "question": "In \"Casino\" he played Ace Rothstein, the mobster who ran The Tangiers",
+        "answer": "(Robert) De Niro",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 200,
+        "question": "You might start off with the peel-&-eat these; the cocktail sauce is on the left",
+        "answer": "shrimp",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FLOORING",
+        "value": 200,
+        "question": "Grout & a special saw are tools for installing this type of floor",
+        "answer": "tile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REBELLIONS: SHAYS' & WHISKEY",
+        "value": 200,
+        "question": "Both Shays' Rebellion & the Whiskey Rebellion were protests against these",
+        "answer": "taxes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POETIC WORDS",
+        "value": 200,
+        "question": "E'er is a poetic form of this adverb",
+        "answer": "ever",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE LIT",
+        "value": 400,
+        "question": "Up, up & away with Jules Verne's classic adventure \"Five Weeks in\" one of these",
+        "answer": "a Balloon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "VEGAS FILMS",
+        "value": 400,
+        "question": "He directed the 2001 Vegas caper film \"Ocean's Eleven\"",
+        "answer": "(Steven) Soderbergh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 400,
+        "question": "I noticed the Lorraine type of this eggy dish, but I didn't see any real men eating it",
+        "answer": "quiche",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FLOORING",
+        "value": 400,
+        "question": "Also the surface of bulletin boards, this material makes warm, sound-insulating flooring",
+        "answer": "cork",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REBELLIONS: SHAYS' & WHISKEY",
+        "value": 400,
+        "question": "Shays' Rebellion in this state in 1786-87 included an attack on the Springfield armory",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POETIC WORDS",
+        "value": 400,
+        "question": "E'en is a poetic form of this adverb",
+        "answer": "even",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE LIT",
+        "value": 600,
+        "question": "If you love stories with surprise endings, pick up his 1906 collection \"The Four Million\"",
+        "answer": "O. Henry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "VEGAS FILMS",
+        "value": 600,
+        "question": "The title of this 2008 Cameron Diaz-Ashton Kutcher film was inspired by a Sin City slogan",
+        "answer": "What Happens in Vegas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 600,
+        "question": "There's an outstandingpasta salad made with these stuffed rings seen here",
+        "answer": "tortellini",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FLOORING",
+        "value": 600,
+        "question": "This durable material almost synonymous with mid-20th c. flooring was patented in 1863",
+        "answer": "linoleum",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REBELLIONS: SHAYS' & WHISKEY",
+        "value": 600,
+        "question": "This Treasury Sec. helped form, & then tagged along with, the army sent to suppress the Whiskey Rebellion",
+        "answer": "Hamilton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POETIC WORDS",
+        "value": 600,
+        "question": "In \"To Celia\", this possessive case of thou precedes the word \"eyes\"",
+        "answer": "thine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE LIT",
+        "value": 800,
+        "question": "A.A. Milne wrote a book of verse called \"Now We Are\" this age--a bit younger than you",
+        "answer": "Six",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "VEGAS FILMS",
+        "value": 800,
+        "question": "One review said this 1995 Elizabeth Berkley film was \"'42nd Street' meets 'All About Eve' meets soft-core porn\"",
+        "answer": "Showgirls",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 800,
+        "question": "I can't stay away from these appetizers: bacon wrapped around a water chestnut & a piece of liver",
+        "answer": "rumaki",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FLOORING",
+        "value": 800,
+        "question": "In forestry, it's a synonym for \"dicot\"; in real estate ads, it makes mouths water when seen before \"floors\"",
+        "answer": "hardwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "REBELLIONS: SHAYS' & WHISKEY",
+        "value": 800,
+        "question": "Though put down swiftly, Shays' Rebellion exposed the military weakness of this 1781 document",
+        "answer": "the Articles of Confederation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POETIC WORDS",
+        "value": 800,
+        "question": "\"L'allegro\" by Milton uses this 4-letter word for a deep shade of black, a shortening of the name of a wood",
+        "answer": "ebon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE LIT",
+        "value": 1000,
+        "question": "Prosper Merimee was just 19 when he wrote his first play, about this lord protector of England",
+        "answer": "Cromwell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "VEGAS FILMS",
+        "value": 1000,
+        "question": "In a 2003 film he played \"The Cooler\", a Vegas casino's gambling jinx",
+        "answer": "William H. Macy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 1000,
+        "question": "Get your fill of this British-sounding \"steak\", a seasoned ground beef patty with onions & gravy",
+        "answer": "Salisbury steak",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FLOORING",
+        "value": 1000,
+        "question": "1 letter off from \"flat stones\", they make good flooring for your castle",
+        "answer": "flagstones",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "REBELLIONS: SHAYS' & WHISKEY",
+        "value": 1000,
+        "question": "Thousands of Whiskey Rebels marched to \"The Point\" in this Penn. city, but were persuaded not to burn the town",
+        "answer": "Pittsburgh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POETIC WORDS",
+        "value": 1000,
+        "question": "A poem by Robert Burns taught us that \"gang aft\" this means \"often go wrong\"",
+        "answer": "agley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "TOUGH CAPITAL CITIES",
+      "THINK YOU KNOW BASEBALL?",
+      "CHAMPIONS OF TOURNAMENTS",
+      "MEET THE BEADLES",
+      "ADJECTIVES TO USE IN VEGAS",
+      "A VISIT TO BROOKHAVEN NATIONAL LABORATORY"
+    ],
+    "clues": [
+      {
+        "category": "TOUGH CAPITAL CITIES",
+        "value": 400,
+        "question": "One of the \"Stan\"s:Tashkent",
+        "answer": "Uzbekistan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THINK YOU KNOW BASEBALL?",
+        "value": 400,
+        "question": "He hit the first home run in All-Star game history (take a wild guess)",
+        "answer": "Babe Ruth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS OF TOURNAMENTS",
+        "value": 400,
+        "question": "In 2006 in Berlin, Italy won this sports tourney by beating France, 1-1 (technically, that was the final score)",
+        "answer": "the World Cup",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEET THE BEADLES",
+        "value": 400,
+        "question": "\"Beadle\", meaning a minor official, comes from Middle English for one of these old-time announcer guys--hark!",
+        "answer": "a herald",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ADJECTIVES TO USE IN VEGAS",
+        "value": 400,
+        "question": "Your bold, audacious bets could be called this, perhaps from a blend of \"bold\" & \"audacious\"",
+        "answer": "bodacious",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "A VISIT TO BROOKHAVEN NATIONAL LABORATORY",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew reports from outside Brookhaven National Laboratory, Long Island, New York.)  Work done at Brookhaven, which is run by this Cabinet department, has produced six Nobel Prizes, including one for work on solar neutrinos",
+        "answer": "Energy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "TOUGH CAPITAL CITIES",
+        "value": 800,
+        "question": "Island country in the Indian ocean:Port Louis",
+        "answer": "Mauritius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THINK YOU KNOW BASEBALL?",
+        "value": 800,
+        "question": "Their home parks have included the Union Grounds, Crosley Field & Riverfront Stadium",
+        "answer": "the (Cincinnati) Reds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS OF TOURNAMENTS",
+        "value": 800,
+        "question": "As world champ of this Parker Bros. game, Antonio Fernandez won $15,140, the total amount of \"cash\" in the game",
+        "answer": "Monopoly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEET THE BEADLES",
+        "value": 800,
+        "question": "In hunting season, Beadle County, South Dakota is a bad place to be a ring-necked one of these, the state bird",
+        "answer": "a pheasant",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ADJECTIVES TO USE IN VEGAS",
+        "value": 800,
+        "question": "I expect to be treated like a VIP, so remember that the \"I\" stands for this adjective",
+        "answer": "important",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "A VISIT TO BROOKHAVEN NATIONAL LABORATORY",
+        "value": 800,
+        "question": "(Kelly of the Clue Crew reports from a lab at Brookhaven National Laboratory, Long Island, NY.)  Conditions milliseconds after this event are replicated on a microscopic scale by creating a superhot fireball in this 3-D camera",
+        "answer": "the Big Bang",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "TOUGH CAPITAL CITIES",
+        "value": 1200,
+        "question": "A former Soviet republic: Chisinau",
+        "answer": "Moldova",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THINK YOU KNOW BASEBALL?",
+        "value": 1200,
+        "question": "The New York Yankees have won 26 World Series titles; these N.L. birds are a distant second, with 10",
+        "answer": "the Cardinals",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS OF TOURNAMENTS",
+        "value": 1200,
+        "question": "In 2007 Nigel Richards took home $15,000 as the letter-perfect world champ of this Hasbro game",
+        "answer": "Scrabble",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEET THE BEADLES",
+        "value": 1200,
+        "question": "In this Sondheim musical, Beadle Bamford gets sliced up for pie filling (don't worry, he wasn't a good guy)",
+        "answer": "Sweeney Todd",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ADJECTIVES TO USE IN VEGAS",
+        "value": 1200,
+        "question": "Also a type of fabric, this synonym for lavish describes my suite (& it rhymes with lush)",
+        "answer": "plush",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "A VISIT TO BROOKHAVEN NATIONAL LABORATORY",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew reports from the clean room at Brookhaven National Laboratory, Long Island, NY.)  The etcher used in the Center for Functional Nanomaterials' clean room uses this highly ionized state of matter to work on tiny circuits",
+        "answer": "plasma",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TOUGH CAPITAL CITIES",
+        "value": 1600,
+        "question": "In western Africa:Yamoussoukro",
+        "answer": "Cote d'Ivoire (The Ivory Coast)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THINK YOU KNOW BASEBALL?",
+        "value": 1600,
+        "question": "Researchers have knocked a point off his record lifetime batting average, reducing it to .366",
+        "answer": "(Ty) Cobb",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS OF TOURNAMENTS",
+        "value": 1600,
+        "question": "In 2007 16-year-old Ayan Tariq bested 31 others to win $100,000 playing this title ex-coach's football video game",
+        "answer": "(John) Madden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEET THE BEADLES",
+        "value": 1600,
+        "question": "George Beadle won a Nobel Prize for studying the genetics of a bread type of this fuzzy fungus",
+        "answer": "mold",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ADJECTIVES TO USE IN VEGAS",
+        "value": 1600,
+        "question": "I must see the \"O\" show--it boasts this type of swimming, also an artistic Olympic event",
+        "answer": "synchronized",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "A VISIT TO BROOKHAVEN NATIONAL LABORATORY",
+        "value": 1600,
+        "question": "(Sarah of the Clue Crew reports from a particle accelerator at Brookhaven National Laboratory, Long Island, NY.)  Cooled magnets at the Relativistic Heavy Ion Collider facilitate this super phenomenon; current shows no resistance, & gold ions travel at nearly light speed",
+        "answer": "superconductivity",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TOUGH CAPITAL CITIES",
+        "value": 2000,
+        "question": "In the Pacific:Honiara",
+        "answer": "the Solomon Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THINK YOU KNOW BASEBALL?",
+        "value": 2000,
+        "question": "\"Avian\" nickname of 1960s reliever Phil Regan, notorious for \"stealing\" wins from starting pitchers",
+        "answer": "\"The Vulture\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CHAMPIONS OF TOURNAMENTS",
+        "value": 2000,
+        "question": "In 1972 \"Amarillo Slim\" won this annual event",
+        "answer": "the World Series of Poker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEET THE BEADLES",
+        "value": 2000,
+        "question": "In this author's \"Night\", Moshe the Beadle warns the Jews of Sighet about the looming holocaust, but they don't listen",
+        "answer": "(Elie) Wiesel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ADJECTIVES TO USE IN VEGAS",
+        "value": 2000,
+        "question": "From the Latin for \"great-souled\", it will describe your immense generosity after you win big bucks",
+        "answer": "magnanimous",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "A VISIT TO BROOKHAVEN NATIONAL LABORATORY",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew reports from inside a supercomputer room at Brookhaven National Laboratory, Long Island, NY)  NY Blue is an 18-rack supercomputer at Brookhaven that processes in terms of this speed--one trillion floating operations per second",
+        "answer": "a teraflop",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BRITISH ROYALTY",
+    "clue": "Born in 1683, the second British king of this name was the last one not born in the British Isles",
+    "answer": "George"
+  },
+  "gameId": "5657",
+  "gameDate": "Tuesday, March 24, 2009"
+}

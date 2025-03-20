@@ -1,0 +1,574 @@
+{
+  "title": "Show #1622 - Tuesday, September 24, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "CLASSICAL MUSIC",
+      "FOLKLORE",
+      "FILMS OF THE '40s",
+      "ITALY",
+      "TRANSPORTATION",
+      "WILDE"
+    ],
+    "clues": [
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 100,
+        "question": "Appropriately, \"The Blue Danube\" debuted in this city",
+        "answer": "Vienna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOLKLORE",
+        "value": 100,
+        "question": "Couples lucky enough to have new babies could tell you these long-legged birds are considered lucky",
+        "answer": "storks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FILMS OF THE '40s",
+        "value": 100,
+        "question": "While he didn't do one of his Road pictures in 1944, he did do \"Going My Way\"",
+        "answer": "Bing Crosby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ITALY",
+        "value": 100,
+        "question": "If the boot that is Italy were to kick, its tow would touch this island",
+        "answer": "Sicily",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 100,
+        "question": "These San Francisco vehicles run at a steady pace of 9 1/2 miles per hour",
+        "answer": "cable cars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WILDE",
+        "value": 100,
+        "question": "\"Of course America had often been discovered before\" him, \"but it had always been hushed up\"",
+        "answer": "Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "This famous group was founded in 1847, a few weeks after its members reached Utah",
+        "answer": "the Mormon Tabernacle Choir",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOLKLORE",
+        "value": 200,
+        "question": "A nerve running from the left hand's 4th finger to the heart is the folklore reason for this",
+        "answer": "putting your wedding ring on that finger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FILMS OF THE '40s",
+        "value": 200,
+        "question": "In 1940 titles Brian Donlevy was \"The Great McGinty\" & Charlie Chaplin was \"The Great\" this",
+        "answer": "dictator",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ITALY",
+        "value": 200,
+        "question": "Nazi stormtroopers wore brown shirts & the fascists in Italy wore these shirts",
+        "answer": "black",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "3 types of these are rescue trucks, pumpers & ladder trucks",
+        "answer": "fire engines (or fire trucks)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WILDE",
+        "value": 200,
+        "question": "\"There is only one thing in the world worse than being talked about, and that is\" this",
+        "answer": "not being talked about",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 300,
+        "question": "The second movement of this DeBussy work is \"Games Of The Waves\"",
+        "answer": "La mer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOLKLORE",
+        "value": 300,
+        "question": "According to Reader's Digest, the reason witches do this is they're afraid of horses",
+        "answer": "ride on broomsticks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FILMS OF THE '40s",
+        "value": 300,
+        "question": "1941's \"Two-Faced Woman\" was her last film; she then retired from the business",
+        "answer": "Greta Garbo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ITALY",
+        "value": 300,
+        "question": "Italy was one of the 6 original members of this 12-nation group",
+        "answer": "the European Community",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 300,
+        "question": "These were nicknamed \"blubber ships\"",
+        "answer": "whalers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WILDE",
+        "value": 300,
+        "question": "\"No woman should ever be quite accurate about\" this",
+        "answer": "her age",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "He composed his 1st symphony at age 8 in 1764, his last, No. 41, in 1788, 3 years before his death",
+        "answer": "Wolfgang Amadeus Mozart",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOLKLORE",
+        "value": 400,
+        "question": "Dragging his spiked lumberjack pole behind him he cut out the Grand Canyon",
+        "answer": "Paul Bunyan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FILMS OF THE '40s",
+        "value": 400,
+        "question": "He directed \"My Darling Clementine\" & \"She Wore a Yellow Ribbon\"",
+        "answer": "John Ford",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ITALY",
+        "value": 400,
+        "question": "Named for a Renaissance figure, this airport near Rome is Italy's largest",
+        "answer": "Leonardo da Vinci",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "This nickname for early cars pointed out they were not pulled by equines",
+        "answer": "horseless carriages",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WILDE",
+        "value": 400,
+        "question": "\"I can resist everything except\" this",
+        "answer": "temptation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 500,
+        "question": "In a Beethoven opera Leonora disguises herself as this title man",
+        "answer": "Fidelio",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOLKLORE",
+        "value": 500,
+        "question": "In the folklore of flowers, the peony stands for this; gosh it's perfect for a Disney dwarf",
+        "answer": "bashfulness",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FILMS OF THE '40s",
+        "value": 500,
+        "question": "A series of films featuring this farm couple spun off of 1947's \"The Egg and I\"",
+        "answer": "Ma & Pa Kettle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ITALY",
+        "value": 500,
+        "question": "The farmland of this valley of the north is said to be Italy's most important natural resource",
+        "answer": "the Po",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 500,
+        "question": "He named the first Bell X-rocket plane for his wife, Glennis",
+        "answer": "(Chuck) Yeager",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WILDE",
+        "value": 500,
+        "question": "\"A man cannot be too careful in the choice of\" these",
+        "answer": "his enemies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AMERICAN POETRY",
+      "WORLD WAR II",
+      "PARKS",
+      "DESIGN",
+      "MYTHOLOGY",
+      "NATIONAL COATS OF ARMS"
+    ],
+    "clues": [
+      {
+        "category": "AMERICAN POETRY",
+        "value": 200,
+        "question": "Longfellow wrote, \"\"O. Caesar, we who are about to die, salute you!' was\" their \"cry\"",
+        "answer": "the gladiator",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 200,
+        "question": "In 1958 Congress authorized the building of a memorial for this battleship sunk at Pearl Harbor",
+        "answer": "the Arizona",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PARKS",
+        "value": 200,
+        "question": "An area in this park near NYC's Dakota apartments was named Strawberry Fields in honor of John Lennon",
+        "answer": "Central Park",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DESIGN",
+        "value": 200,
+        "question": "The motif called \"tete d'ange\" represents the head of 1 of these beings with wings attached",
+        "answer": "an angel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "When twins Castor & Pollux died, they were placed in the heavens as this constellation",
+        "answer": "Gemini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL COATS OF ARMS",
+        "value": 200,
+        "question": "The symbols on its coat of arms represent Aragon, Castile & other historic kingdoms",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN POETRY",
+        "value": 400,
+        "question": "It completes Robert Frost's line, \"Some say the world will end in fire, some say in...\"",
+        "answer": "ice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 400,
+        "question": "In June 1942 this German tank commander captured Tobruk in Libya",
+        "answer": "Rommel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PARKS",
+        "value": 400,
+        "question": "Exhibits of his life & wild west show can be found in a historical park near North Platte, Nebraska",
+        "answer": "Buffalo Bill Cody",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DESIGN",
+        "value": 400,
+        "question": "The Museum of Fine Arts, Boston, sells a replica of a thimble this silversmith made for his daughter Maria",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "The Maenads were frenzied women who celebrated the rites of this god of wine",
+        "answer": "Bacchus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL COATS OF ARMS",
+        "value": 400,
+        "question": "The center of the shield on its coat of arms represents a canal between the Atlantic & Pacific Oceans",
+        "answer": "Panama",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN POETRY",
+        "value": 600,
+        "question": "According to Emily Dickinson, it \"is counted sweetest by those who ne'er succeed",
+        "answer": "success",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 1200,
+        "question": "He wrote \"Any Bonds Today?\" for the U.S. war bond drive as well as the following:",
+        "answer": "Irving Berlin",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PARKS",
+        "value": 600,
+        "question": "The Edison Memorial Tower is in Edison State Park in Menlo Park in this state",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DESIGN",
+        "value": 600,
+        "question": "Paloma Picasso designed her first jewelry collection for this 5th Avenue firm in 1980",
+        "answer": "Tiffany's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 600,
+        "question": "Ceto, a goddess of the sea, was the mother of these three frightful sisters",
+        "answer": "the Gorgons",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL COATS OF ARMS",
+        "value": 600,
+        "question": "A European woman & a Maori warrior appear on this nation's coat of arms",
+        "answer": "New Zealand",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN POETRY",
+        "value": 800,
+        "question": "The author of \"The Concord Hymn\", who immortalized \"The shot heard round the world\"",
+        "answer": "Ralph Waldo Emerson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 800,
+        "question": "Also known as the Ardennes Offensive, it was the Germans' last major assault of the war",
+        "answer": "the Battle of the Bulge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PARKS",
+        "value": 800,
+        "question": "A national park in Wyoming is named for this mountain near Jackson Hole",
+        "answer": "Grand Teton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DESIGN",
+        "value": 800,
+        "question": "Her illustrations are reproduced on Wedgwood's Peter Rabbit children's tea set",
+        "answer": "Beatrix Potter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 800,
+        "question": "Some legends say it was near Cyprus that she rose from the ocean's foam",
+        "answer": "Aphrodite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL COATS OF ARMS",
+        "value": 800,
+        "question": "The key on this island nation's coat of arms symbolizes that it's \"The key to the Gulf of Mexico\"",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN POETRY",
+        "value": 1000,
+        "question": "The humorist who wrote \"Portrait of the Artist as a Prematurely Old Man\"",
+        "answer": "Ogden Nash",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 1000,
+        "question": "Code name of Sir William Stephenson, the chief British Intelligence Network in N.Y.",
+        "answer": "Intrepid",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PARKS",
+        "value": 2000,
+        "question": "Canada's National Park System began in 1885 with the establishment of this park in Alberta",
+        "answer": "Banff (National Park)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DESIGN",
+        "value": 1000,
+        "question": "Represented in colonial woodwork, this large tropical fruit was a symbol of hospitality",
+        "answer": "a pineapple",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1000,
+        "question": "On his way home from the Trojan War, Odysseus spent 7 years with Calypso & 1 year with this enchantress",
+        "answer": "Circe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL COATS OF ARMS",
+        "value": 1000,
+        "question": "The eagle on Egypt's coat of arms is a symbol of this 12th century Muslim warrior",
+        "answer": "Saladin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE PULITZER PRIZE",
+    "clue": "In 1991 he won his second Pulitzer for fiction, with a book that was a sequel to his first winner",
+    "answer": "John Updike"
+  },
+  "gameId": "1622",
+  "gameDate": "Tuesday, September 24, 1991"
+}

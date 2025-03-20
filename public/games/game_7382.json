@@ -1,0 +1,574 @@
+{
+  "title": "Show #1646 - Monday, October 28, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "AMERICANA",
+      "AWARDS",
+      "ODDS & ENDS",
+      "DINOSAURS",
+      "FAMOUS GRANTS",
+      "COLORFUL WORDS & PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "AMERICANA",
+        "value": 100,
+        "question": "His family supplied the dueling pistols used July 11, 1804 by himself & Burr",
+        "answer": "(Alexander) Hamilton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 100,
+        "question": "In 1960 Leona Schnuelle's dilly casserole bread won the $25,000 top prize in this competition",
+        "answer": "the Pillsbury Bake-Off",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 100,
+        "question": "This teenage sister of Elroy Jetson loves to dance the Solar Swivel",
+        "answer": "Judy Jetson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 100,
+        "question": "Dinosaur National Monument is in northeastern Utah & this \"Centennial State\"",
+        "answer": "Colorado",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS GRANTS",
+        "value": 100,
+        "question": "His real first name was Hiram, but in a mix-up at West Point this future president dropped it",
+        "answer": "Ulysses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COLORFUL WORDS & PHRASES",
+        "value": 100,
+        "question": "It's what you \"give\" someone when you permit him to go ahead with a plan or project",
+        "answer": "green light",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AMERICANA",
+        "value": 200,
+        "question": "Originally a slang term for the ranch's cook, it's now a cattle thief",
+        "answer": "a rustler",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 200,
+        "question": "Betty Buckley's Tony for Best Actress came in 1983 for playing Grizabella in this musical",
+        "answer": "Cats",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 200,
+        "question": "This company's Selectric typewriter was the 1st to use a typing element instead of type bars",
+        "answer": "IBM",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 200,
+        "question": "The Apatosaurus, formerly called this, was an herbivore that weighed up to 30 tons",
+        "answer": "a Brontosaurus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS GRANTS",
+        "value": 200,
+        "question": "If he hadn't changed his name this \"Charade\" star would be under famous Archies or Leaches",
+        "answer": "Cary Grant",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COLORFUL WORDS & PHRASES",
+        "value": 200,
+        "question": "It may amuse you to know that this phrase means to be delighted or overjoyed",
+        "answer": "tickled pink",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AMERICANA",
+        "value": 300,
+        "question": "In the 1920s Shipwreck Kelly achieved fame for his endurance records in this fad",
+        "answer": "flagpole sitting",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 300,
+        "question": "From 1948 to 1966, she received 30 Oscar nominations for Best Costume Design",
+        "answer": "(Edith) Head",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 300,
+        "question": "The oldest part of this palace is a small chateau built for Louis XIII in 1624",
+        "answer": "Versailles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 300,
+        "question": "This dinosaur was the largest carnivore ever to live on land",
+        "answer": "Tyrannosaurus rex",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS GRANTS",
+        "value": 600,
+        "question": "In 1991 this singer made it onto the pop charts with the following: \"Baby, baby / I'm taken with the notion...\"",
+        "answer": "Amy Grant",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COLORFUL WORDS & PHRASES",
+        "value": 300,
+        "question": "It describes an executive or a crime he might commit, like embezzlement",
+        "answer": "white collar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AMERICANA",
+        "value": 400,
+        "question": "Perturbed that his name was left out of the tittle of the new electric co., he sold his stock",
+        "answer": "Edison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 400,
+        "question": "Jay Sandrich won a 1986 Emmy for directing the \"Denise's Friend\" episode of this series",
+        "answer": "The Cosby Show",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 400,
+        "question": "Hormones secreted by these glands on top of the kidneys help the body adjust to sudden stress",
+        "answer": "the adrenaline glands (adrenal glands)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 400,
+        "question": "Some scientists believe that dinosaurs, unlike modern reptiles, were homeothermic, which means this",
+        "answer": "warm-blooded",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS GRANTS",
+        "value": 400,
+        "question": "With his then wife Mary Tyler Moore, he helped created the \"Mary Tyler Moore Show\"",
+        "answer": "Grant Tinker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COLORFUL WORDS & PHRASES",
+        "value": 400,
+        "question": "Elaborate or ornate writing that calls attention to itself is often termed this",
+        "answer": "purple prose",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AMERICANA",
+        "value": 500,
+        "question": "After Noah Webster's death his heirs sold the dictionary rights to this Springfield, Mass. company",
+        "answer": "Merriam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AWARDS",
+        "value": 500,
+        "question": "This writer's 2 Pulitzer Prizes for Fiction were given for \"A Fable\" & \"The Reivers\"",
+        "answer": "Faulkner",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 500,
+        "question": "Because its wood sharpens easily, the incense variety of this tree is the best for making pencils",
+        "answer": "cedar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DINOSAURS",
+        "value": 500,
+        "question": "This dinosaur had 2 staggered rows of large triangular bony plates along its backbone",
+        "answer": "Stegosaurus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FAMOUS GRANTS",
+        "value": 500,
+        "question": "As head coach he led the Minnesota Vikings into 4 Super Bowls but lost them all",
+        "answer": "Bud Grant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COLORFUL WORDS & PHRASES",
+        "value": 500,
+        "question": "A broad, flat cap often worn by Scottish soldiers, or the state flower of Texas",
+        "answer": "the bluebonnet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EUROPE",
+      "TRANSPORTATION",
+      "BATTLES",
+      "NATIONAL PARKS",
+      "AUTHORS",
+      "GOVERNORS"
+    ],
+    "clues": [
+      {
+        "category": "EUROPE",
+        "value": 200,
+        "question": "New Year's Day in this country include a Strauss concert by the Wiener Philharmoniker",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "In the 1930s this country introduced the Flying Hamburger, a high-speed railcar",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BATTLES",
+        "value": 200,
+        "question": "Teddy Roosevelt's Rough Riders won this battle of the Spanish-American War July 1, 1898",
+        "answer": "the Battle of San Juan Hill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 200,
+        "question": "More than 1/3 of this Florida park is under salt water",
+        "answer": "the Everglades",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "\"A View from the Bench\" is a book of memoirs by this \"People's Court\" judge",
+        "answer": "Wapner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GOVERNORS",
+        "value": 200,
+        "question": "This Maryland governor was the son of a Greek immigrant whose name originally was Anagnostopoulos",
+        "answer": "Spiro Agnew",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EUROPE",
+        "value": 400,
+        "question": "This country's principal newspapers include Svenska Dagbladet & Expressen",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "The derailleur gear system was invented for this vehicle around the turn of the century",
+        "answer": "bicycle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BATTLES",
+        "value": 400,
+        "question": "William the Conqueror became king of England after defeating Harold in this battle",
+        "answer": "the Battle of Hastings",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 400,
+        "question": "This N.M. park was discovered in 1901 by Jim White, who mistook swarms of bats for a cloud of smoke",
+        "answer": "Carlsbad Caverns",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "In 1961 his short stories \"Franny\" & \"Zooey\" were published together in book form",
+        "answer": "Salinger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GOVERNORS",
+        "value": 400,
+        "question": "Though seriously wounded when Pres. Kennedy was shot, he was able to resume his duties as gov. of Texas",
+        "answer": "Connally",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EUROPE",
+        "value": 600,
+        "question": "The tiny principality whose monetary unit is the Swiss franc",
+        "answer": "Liechtenstein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 600,
+        "question": "The pair of \"sister\" ocean liners launched by the British, one in 1934, one in 1938",
+        "answer": "the Queen Elizabeth & the Queen Mary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BATTLES",
+        "value": 600,
+        "question": "Mexico's victory in the Battle of Puebla is celebrated on this national holiday",
+        "answer": "the Cinco de Mayo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 600,
+        "question": "Port Angeles is headquarters for Olympic National Park in this state",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 600,
+        "question": "This author dedicated his latest George Smiley book, \"The Secret Pilgrim\", to Alec Guinness",
+        "answer": "le Carré",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GOVERNORS",
+        "value": 600,
+        "question": "In 1929 the Louisiana House of Representatives voted to impeach him on charges of misusing funds",
+        "answer": "Huey Long",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EUROPE",
+        "value": 1600,
+        "question": "This peninsula accounts for nearly 70% of Denmark's land area",
+        "answer": "the Jutland Peninsula",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "Between 1921 & 1924 Knud Rasmussen became the 1st person to cross the Northwest Passage by this",
+        "answer": "by dog sled",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BATTLES",
+        "value": 800,
+        "question": "Fought in Maryland on Sept. 17, 1862, it was the bloodiest 1-day battle of the Civil War",
+        "answer": "Antietam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 800,
+        "question": "Virginia's Shenandoah National Park is located in these mountains",
+        "answer": "the Blue Ridge Mountains",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1600,
+        "question": "James Joyce spent the last 17 years of his life writing this novel about the sleeping Earwickers",
+        "answer": "Finnegans Wake",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GOVERNORS",
+        "value": 800,
+        "question": "Between 1780 & 1793 he was elected to nine terms as governor of Massachusetts",
+        "answer": "John Hancock",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EUROPE",
+        "value": 1000,
+        "question": "Greece is officially known as this republic",
+        "answer": "the Hellenic Republic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1000,
+        "question": "In 1834 this Englishman designed a cab with a covered body slung between 2 large wheels",
+        "answer": "Hansom",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BATTLES",
+        "value": 1000,
+        "question": "Henri Petain became a nat'l hero of France after halting German troops in this WWI battle",
+        "answer": "Verdun",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 1000,
+        "question": "Denali National Park in Alaska was formerly known by this name",
+        "answer": "Mount McKinley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1000,
+        "question": "Harper Lee's novel \"To Kill a Mockingbird\" is set in this state where she grew up",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GOVERNORS",
+        "value": 1000,
+        "question": "In 1948 he was elected governor of Illinois by the largest majority in the states history",
+        "answer": "Adlai Stevenson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "This Minneapolis company was incorporated in 1928 when 5 flour-making firms merged",
+    "answer": "General Mills"
+  },
+  "gameId": "1646",
+  "gameDate": "Monday, October 28, 1991"
+}

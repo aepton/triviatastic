@@ -1,0 +1,574 @@
+{
+  "title": "Show #3153 - Wednesday, April 22, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "COUGH, COUGH",
+      "MMMMMM",
+      "\"I\", \"AY\", \"EYE\"",
+      "BRONX CHEER",
+      "WOLF WHISTLE",
+      "FORTS"
+    ],
+    "clues": [
+      {
+        "category": "COUGH, COUGH",
+        "value": 100,
+        "question": "Common name of pertussis",
+        "answer": "Whooping cough",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MMMMMM",
+        "value": 100,
+        "question": "U.S. city noted for its cream cheese & cheese steaks",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"I\", \"AY\", \"EYE\"",
+        "value": 100,
+        "question": "Portugal's peninsula",
+        "answer": "Iberian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BRONX CHEER",
+        "value": 100,
+        "question": "Babe Ruth hit the first home run in this stadium when it opened April 18, 1923",
+        "answer": "Yankee Stadium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WOLF WHISTLE",
+        "value": 100,
+        "question": "People's Sexiest Man for 1997, he dates nurse Hathaway on TV & Celine Balitran in real life",
+        "answer": "George Clooney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FORTS",
+        "value": 100,
+        "question": "This Kentucky fort includes the Patton Museum of Cavalry & Armor in addition to all that gold",
+        "answer": "Fort Knox",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUGH, COUGH",
+        "value": 200,
+        "question": "We're name dropping & cough dropping: last name of the men seen here",
+        "answer": "Smith (Smith Brothers)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MMMMMM",
+        "value": 200,
+        "question": "Elmer Doolin bought the recipe for these fried corn meal chips for $100 & built an empire",
+        "answer": "Fritos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"I\", \"AY\", \"EYE\"",
+        "value": 200,
+        "question": "Bart Simpson's foreign catch phrase",
+        "answer": "\"Ay Caramba!\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BRONX CHEER",
+        "value": 200,
+        "question": "This poet & author's last home was a cottage in the Bronx; you can \"quoth\" me on that",
+        "answer": "Edgar Allan Poe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WOLF WHISTLE",
+        "value": 200,
+        "question": "At first Teri Hatcher's Lois Lane ignored Clark Kent & pined for Superman, both played by this actor",
+        "answer": "Dean Cain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FORTS",
+        "value": 200,
+        "question": "This Indiana city reconstructed its namesake log stockade in the 1970s",
+        "answer": "Fort Wayne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUGH, COUGH",
+        "value": 300,
+        "question": "A short, dry cough or a trite writer for hire",
+        "answer": "Hack",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MMMMMM",
+        "value": 300,
+        "question": "This former talent agent founded his cookie empire in 1975, 2 years before Mrs. Fields",
+        "answer": "Wally \"Famous\" Amos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"I\", \"AY\", \"EYE\"",
+        "value": 300,
+        "question": "Mr. Merchant's movie partner",
+        "answer": "James Ivory",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BRONX CHEER",
+        "value": 300,
+        "question": "It's where you can explore Jungle World & the Himalayan Highlands without ever leaving New York",
+        "answer": "Bronx Zoo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WOLF WHISTLE",
+        "value": 300,
+        "question": "Lara Flynn Boyle likes Dylan McDermott's legal briefs on this ABC legal drama",
+        "answer": "The Practice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FORTS",
+        "value": 300,
+        "question": "This aptly-named fort in Pittsburgh was built in 1758 over the ruins of the French Fort Duquesne",
+        "answer": "Fort Pitt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUGH, COUGH",
+        "value": 800,
+        "question": "The men's malady a doctor is usually checking for after he asks the patient to \"turn your head and cough\"",
+        "answer": "a hernia",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MMMMMM",
+        "value": 400,
+        "question": "In 1989 this company introduced its Symphony bar",
+        "answer": "Hershey's",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"I\", \"AY\", \"EYE\"",
+        "value": 400,
+        "question": "On the Cuban Missile Crisis, Dean Rusk said \"We're\" this \"and the other fellow just blinked\"",
+        "answer": "Eyeball to eyeball",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BRONX CHEER",
+        "value": 400,
+        "question": "It's a small, but \"Grand Old Flag\" that adorns his mausoleum at Woodlawn Cemetery in the Bronx",
+        "answer": "George M. Cohan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WOLF WHISTLE",
+        "value": 400,
+        "question": "Actress seen here with Scott Wolf:",
+        "answer": "Neve Campbell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FORTS",
+        "value": 400,
+        "question": "Home of the XVIII Airbone Corps, this N.C. fort can boast it was named for a Confederate general",
+        "answer": "Fort Bragg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUGH, COUGH",
+        "value": 500,
+        "question": "This cough suppressant is an opium derivative",
+        "answer": "Codeine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MMMMMM",
+        "value": 500,
+        "question": "1948 saw the introduction of this brand, the first major U.S. aerosol food product",
+        "answer": "Reddi-wip",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"I\", \"AY\", \"EYE\"",
+        "value": 500,
+        "question": "Title for a scholar in Islamic law & religion; he may be a young up & \"Khomeini\"",
+        "answer": "Ayatollah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BRONX CHEER",
+        "value": 500,
+        "question": "In 1935 the convicts of Welfare Island were moved to this Bronx island & its new penitentiary",
+        "answer": "Rikers Island",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WOLF WHISTLE",
+        "value": 500,
+        "question": "Salma Hayek & this Spaniard were muy caliente in 1995's \"Desperado\"",
+        "answer": "Antonio Banderas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FORTS",
+        "value": 500,
+        "question": "Fort Necessity was built by this future general & was the site of his only surrender",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GUYS WHO FOUND THINGS",
+      "PHONY EXPRESS",
+      "GEE, YOUR HOUSE SMELLS NICE",
+      "CONTEMPORARIES",
+      "UNSEEN TITLE CHARACTERS",
+      "TAKE \"TEN\""
+    ],
+    "clues": [
+      {
+        "category": "GUYS WHO FOUND THINGS",
+        "value": 200,
+        "question": "In the 1570s this British circumnavigator attacked many Spanish ships as a pirate in the Caribbean",
+        "answer": "Sir Francis Drake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PHONY EXPRESS",
+        "value": 200,
+        "question": "The term \"con man\" is short for this",
+        "answer": "Confidence man",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GEE, YOUR HOUSE SMELLS NICE",
+        "value": 200,
+        "question": "Scent these by adding pieces of mint or a few drops of essential oil to the melted wax before molding",
+        "answer": "Candles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 200,
+        "question": "Burnt at the stake in 1431, she was probably a pin-up girl for 11-year-old Torquemada",
+        "answer": "Joan of Arc",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "UNSEEN TITLE CHARACTERS",
+        "value": 200,
+        "question": "A 1993 film about chess prodigy Josh Waitzkin is titled \"Searching for\" this man",
+        "answer": "Bobby Fischer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 200,
+        "question": "She shared \"Muskrat Love\" with the Captain",
+        "answer": "Toni Tennille",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GUYS WHO FOUND THINGS",
+        "value": 400,
+        "question": "This naval commander discovered a mountain range in Antarctica while aboard the plane seen here:",
+        "answer": "Richard Byrd",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PHONY EXPRESS",
+        "value": 400,
+        "question": "It's not Au, it's FeS",
+        "answer": "fool's gold (iron pyrite)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GEE, YOUR HOUSE SMELLS NICE",
+        "value": 400,
+        "question": "A mixture of fragrant flowers & leaves in a bowl, its name is French for \"rotten pot\"",
+        "answer": "Potpourri",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 400,
+        "question": "While James Watt was getting steamed up in Scotland, she was heating up the throne in Russia",
+        "answer": "Catherine the Great",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "UNSEEN TITLE CHARACTERS",
+        "value": 400,
+        "question": "Paul Benedict is credited as \"not Guffman\" in this mockumentary about small-town theater",
+        "answer": "Waiting for Guffman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 400,
+        "question": "An athlete with this inflammation that affects a certain arm joint may make quite a \"racket\"",
+        "answer": "Tennis elbow/tendonitis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GUYS WHO FOUND THINGS",
+        "value": 600,
+        "question": "This man who sought the source of the Nile was knighted in 1886",
+        "answer": "Sir Richard Burton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PHONY EXPRESS",
+        "value": 600,
+        "question": "Posing as Arabs with lots of cash, the FBI caught 7 members of Congress in this 1970s sting operation",
+        "answer": "Abscam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GEE, YOUR HOUSE SMELLS NICE",
+        "value": 600,
+        "question": "SC Johnson Wax, who makes Raid, also makes this rhyming air freshener",
+        "answer": "Glade",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 600,
+        "question": "While Copernicus was staring up at the stars, this emperor was staring down Cortez",
+        "answer": "Montezuma",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "UNSEEN TITLE CHARACTERS",
+        "value": 600,
+        "question": "Unseen for most of the film, he's the title character of a 1950 Jimmy Stewart movie",
+        "answer": "Harvey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 1200,
+        "question": "Title shared by a Jazz Age novel & the Jackson Browne song heard here:",
+        "answer": "\"Tender Is The Night\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GUYS WHO FOUND THINGS",
+        "value": 800,
+        "question": "This priest first met Louis Joliet when Joliet arrived at his mission at St. Ignace in December 1672",
+        "answer": "Marquette",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PHONY EXPRESS",
+        "value": 800,
+        "question": "He served time for fraud after writing a fake Howard Hughes biography",
+        "answer": "Clifford Irving",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GEE, YOUR HOUSE SMELLS NICE",
+        "value": 800,
+        "question": "From French for \"little bag\", rose petals may fill this in your lingerie drawer",
+        "answer": "Sachet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 800,
+        "question": "While Leif Ericsson had his first look at the New World, this man was sitting as first king of Hungary",
+        "answer": "St. Stephen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "UNSEEN TITLE CHARACTERS",
+        "value": 800,
+        "question": "This movie star never comes back to the 5 & dime",
+        "answer": "Jimmy Dean",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 800,
+        "question": "Notable Nepalese Norgay",
+        "answer": "Tenzing Norgay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GUYS WHO FOUND THINGS",
+        "value": 1000,
+        "question": "In 1497 this Venetian sailing for England became the first European since the Vikings to reach N. America",
+        "answer": "John Cabot",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PHONY EXPRESS",
+        "value": 1000,
+        "question": "Dummkopfs!  This German newsmagazine paid millions for forged diaries of Adolf Hitler in 1983",
+        "answer": "Stern",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GEE, YOUR HOUSE SMELLS NICE",
+        "value": 1000,
+        "question": "To make one of these, begin by pressing cloves into the skin of an orange",
+        "answer": "Pomander",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CONTEMPORARIES",
+        "value": 2000,
+        "question": "In 1850, Hawthorne wrote of Hester Prynne's crime, & this Scot opened his Chicago detective agency",
+        "answer": "Allan Pinkerton",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "UNSEEN TITLE CHARACTERS",
+        "value": 1000,
+        "question": "In a 1940 film, this deceased title character haunts Joan Fontaine",
+        "answer": "Rebecca",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TAKE \"TEN\"",
+        "value": 1000,
+        "question": "If you want to peek at Spain's highest peak, look for El Teide on this Canary Island",
+        "answer": "Tenerife",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PSYCHOLOGY",
+    "clue": "This 1973 book & subsequent TV movie popularized the study of multiple personality disorder",
+    "answer": "Sybil"
+  },
+  "gameId": "3153",
+  "gameDate": "Wednesday, April 22, 1998"
+}

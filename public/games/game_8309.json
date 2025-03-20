@@ -1,0 +1,574 @@
+{
+  "title": "Show #2253 - Wednesday, May 25, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "HISTORY",
+      "THE OSCARS",
+      "SHIPS & BOATS",
+      "GEORGIA",
+      "HERE COMES THE BRIDE",
+      "COMMON BONDS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORY",
+        "value": 100,
+        "question": "It's believed that this country's first clans arose c. 1000 A.D. during the reign of King Malcolm II",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 100,
+        "question": "In 1988 this former James Bond was named \"Best Supporting Actor\" for \"The Untouchables\"",
+        "answer": "Sean Connery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SHIPS & BOATS",
+        "value": 100,
+        "question": "It's a large, square- ended, flat boat used to carry sand, coal or even garbage",
+        "answer": "a barge (scow)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GEORGIA",
+        "value": 100,
+        "question": "In 1868 this city succeeded Milledgeville as the state capital",
+        "answer": "Atlanta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HERE COMES THE BRIDE",
+        "value": 100,
+        "question": "Sometimes the man who catches this places it on the leg of the woman who catches the bouquet",
+        "answer": "the garter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 100,
+        "question": "Gun, curry, talcum",
+        "answer": "powders",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "On a 1967 visit to Canada, Charles de Gaulle voiced support for this province's independence movement",
+        "answer": "Quebec",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 200,
+        "question": "This 1991 \"Best Picture\" winner starring Jodie Foster was the first to appear on home video prior to its win",
+        "answer": "The Silence of the Lambs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SHIPS & BOATS",
+        "value": 200,
+        "question": "We wonder how many miles the Spanish got to one of these 16th century treasure ships",
+        "answer": "a galleon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GEORGIA",
+        "value": 200,
+        "question": "This Protestant group constitutes Georgia's largest religious denomination",
+        "answer": "Baptists",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HERE COMES THE BRIDE",
+        "value": 200,
+        "question": "If your wedding is canceled, you should do this with the gifts you've received",
+        "answer": "return them",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 200,
+        "question": "Bull, pig, ballpoint",
+        "answer": "pens",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 300,
+        "question": "In 1899, 26 nations took part in the 1st of 2 peace conferences held in this Dutch seat of government",
+        "answer": "The Hague",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 300,
+        "question": "On March 26, 1990, this revered Japanese director received an honorary Oscar for his body of work",
+        "answer": "Kurosawa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SHIPS & BOATS",
+        "value": 300,
+        "question": "In this popular strategy game, it takes 5 direct hits to sink an aircraft carrier",
+        "answer": "Battleship",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GEORGIA",
+        "value": 300,
+        "question": "Tourists can visit this president's home, the Little White House, at Warm Springs",
+        "answer": "FDR",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HERE COMES THE BRIDE",
+        "value": 300,
+        "question": "They're expected to seat the guests & escort the bridesmaids",
+        "answer": "the ushers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 300,
+        "question": "Sweat, rubber, marching",
+        "answer": "bands",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "In 1908 Bulgaria's King Ferdinand declared his country's full independence from this empire",
+        "answer": "the Ottoman Empire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 400,
+        "question": "This director received Oscar nominations for his first 2 films, winning for \"The Graduate\"",
+        "answer": "(Mike) Nichols",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SHIPS & BOATS",
+        "value": 400,
+        "question": "It's a ship with no regular schedule that takes hauling jobs as it finds them",
+        "answer": "a tramp",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GEORGIA",
+        "value": 800,
+        "question": "The USA's oldest orphanage, the Bethesda Home for Boys, opened in 1740 in this port city",
+        "answer": "Savannah",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HERE COMES THE BRIDE",
+        "value": 400,
+        "question": "Styles of these worn by brides include blusher, fly-away & birdcage",
+        "answer": "veils",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 400,
+        "question": "Black, flea, stock",
+        "answer": "markets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 500,
+        "question": "Founded in 1392, the Yi Dynasty ruled this country for over 500 years",
+        "answer": "Korea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 500,
+        "question": "Keith Carradine won a 1975 Oscar for composing \"I'm Easy\" for this Robert Altman film",
+        "answer": "Nashville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SHIPS & BOATS",
+        "value": 500,
+        "question": "The term for this small boat that's often towed hails from Hindi",
+        "answer": "a dinghy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GEORGIA",
+        "value": 500,
+        "question": "Gutzon Borglum was the first sculptor to work on this 90-foot-high memorial east of Atlanta",
+        "answer": "Stone Mountain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HERE COMES THE BRIDE",
+        "value": 500,
+        "question": "Bride's magazine suggests using the \"Spring\" part of this Vivaldi work for the processional",
+        "answer": "The Four Seasons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 500,
+        "question": "Jackknife, swan, a disreputable bar",
+        "answer": "dives",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LITERATURE",
+      "ROCKS & MINERALS",
+      "1976",
+      "RELIGIOUS LEADERS",
+      "ART",
+      "WORLD OF SWEETS"
+    ],
+    "clues": [
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "\"The Farther Adventures of\" this Defoe character was released just 4 months after the original book",
+        "answer": "Robinson Crusoe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 200,
+        "question": "This soft variety of calcium carbonate created the white cliffs of Dover",
+        "answer": "chalk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "1976",
+        "value": 200,
+        "question": "This Californian lost the GOP presidential nomination to Ford by 117 delegate votes",
+        "answer": "Reagan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RELIGIOUS LEADERS",
+        "value": 200,
+        "question": "From the 1600s until 1959, Tibet was under the rule of this religious leader",
+        "answer": "the Dalai Lama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "In 1992 this \"Phantom\" composer bought a view of London by Canaletto for $17.8 million",
+        "answer": "(Andrew Lloyd) Webber",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORLD OF SWEETS",
+        "value": 200,
+        "question": "Zabaglione",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "Among his Christmas books are \"The Chimes\" & \"The Cricket on the Hearth\"",
+        "answer": "Dickens",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 400,
+        "question": "Nonskid stair treads are commonly made of this substance that's also found on nail files",
+        "answer": "emery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "1976",
+        "value": 400,
+        "question": "The North & South parts of this nation were officially reunited July 2, after 22 years of separation",
+        "answer": "Vietnam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RELIGIOUS LEADERS",
+        "value": 400,
+        "question": "In 1979 he was named Iran's supreme religious leader for life",
+        "answer": "the Ayatollah Khomeini",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "At age 36 Rembrandt finished painting \"The Night Watch\" & he finished painting \"The Starry Night\"",
+        "answer": "van Gogh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORLD OF SWEETS",
+        "value": 400,
+        "question": "Gateau Saint-Honore",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "This Truman Capote novel is narrated by Holly Golightly's neighbor, a writer she calls Fred",
+        "answer": "Breakfast at Tiffany's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 600,
+        "question": "The most abundant sedimentary rock is this layered variety made of silt & clay",
+        "answer": "shale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "1976",
+        "value": 600,
+        "question": "In July commandos from this country rescued 103 hostages at Uganda's Entebbe Airport",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RELIGIOUS LEADERS",
+        "value": 600,
+        "question": "John Carroll, the first Roman Catholic bishop in the U.S., founded this Washington, D.C. university",
+        "answer": "Georgetown",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "In 1986 the Detroit Inst. of Arts celebrated 2 centennials, its own & this Mexican muralist's",
+        "answer": "(Diego) Rivera",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORLD OF SWEETS",
+        "value": 600,
+        "question": "Banbury cakes",
+        "answer": "England",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "In a Larry McMurtry novel, Augustus McCrae & Woodrow Call own a livery stable in this Texas town",
+        "answer": "Lonesome Dove",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 800,
+        "question": "This black volcanic glass was used by the ancient Maya for mirrors",
+        "answer": "obsidian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "1976",
+        "value": 800,
+        "question": "On May 31 he signed a decree transferring the Philippine capital from Quezon City to Manila",
+        "answer": "(Ferdinand) Marcos",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RELIGIOUS LEADERS",
+        "value": 1600,
+        "question": "Under the leadership of this reformer, Geneva became the center of Protestantism",
+        "answer": "John Calvin",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "Art & Antiques magazine broke the story on this artist's secret cache of Helga paintings",
+        "answer": "Andrew Wyeth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORLD OF SWEETS",
+        "value": 800,
+        "question": "Schaum Torte",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "This author of \"The Secret Life of Walter Mitty\" was blind for the last 15 years of his life",
+        "answer": "(James) Thurber",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 1000,
+        "question": "It's a spherical, hollow stone lined with crystals",
+        "answer": "a geode",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "1976",
+        "value": 1000,
+        "question": "Hundreds were killed in racial violence that began in this Black Township near Johannesburg",
+        "answer": "Soweto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RELIGIOUS LEADERS",
+        "value": 1000,
+        "question": "This preacher's \"Hour of Power\" is telecast weekly from the Crystal Cathedral in Garden Grove, California",
+        "answer": "Robert Schuller",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 2000,
+        "question": "His \"Sunday Afternoon on the Island of La Grande Jatte\" is on display at the Art Inst. of Chicago",
+        "answer": "Seurat",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORLD OF SWEETS",
+        "value": 1000,
+        "question": "Kulich",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WOMEN IN TELEVISION",
+    "clue": "Joan Ganz Cooney was president of this company 1970-1990",
+    "answer": "the Children's Television Workshop"
+  },
+  "gameId": "2253",
+  "gameDate": "Wednesday, May 25, 1994"
+}

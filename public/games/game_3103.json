@@ -1,0 +1,574 @@
+{
+  "title": "Show #3700 - Friday, October 6, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "MATH",
+      "MUSICAL INSTRUMENTS",
+      "YOU'RE HISTORY!",
+      "SPEAKING OF LANGUAGE",
+      "A COUNTRY IN EUROPE",
+      "CARTOON NETWORK"
+    ],
+    "clues": [
+      {
+        "category": "MATH",
+        "value": 100,
+        "question": "It's the square root of 81",
+        "answer": "9",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 100,
+        "question": "Seen here, this is a real \"hands-on\" instrument",
+        "answer": "bongo drums",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE HISTORY!",
+        "value": 100,
+        "question": "In December 1620, 3 months after leaving Plymouth, England, this ship arrived at Plymouth, Massachusetts",
+        "answer": "the Mayflower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 100,
+        "question": "Of 270, 2,700 or 27,000, the one closest to the total number of languages in the world",
+        "answer": "2,700",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY IN EUROPE",
+        "value": 100,
+        "question": "Major cities in this country include Marseilles, Orleans & Lyon",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CARTOON NETWORK",
+        "value": 100,
+        "question": "Ranger Smith works in this park",
+        "answer": "Jellystone Park",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 200,
+        "question": "156 divided by 6",
+        "answer": "26",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 200,
+        "question": "The name of this small guitar-like instrument popular in Hawaii is Hawaiian for \"jumping flea\"",
+        "answer": "ukulele",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE HISTORY!",
+        "value": 200,
+        "question": "From the type of animal that he hunted, wild west legend William Cody was better known by this nickname",
+        "answer": "\"Buffalo Bill\" Cody",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 200,
+        "question": "1 of the 2 official languages of Israel",
+        "answer": "Hebrew (or Arabic)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY IN EUROPE",
+        "value": 200,
+        "question": "Most ruins of the civilizations of the ancient Spartans & Athenians can be found in this European nation",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CARTOON NETWORK",
+        "value": 200,
+        "question": "He was brought into \"The Flintstones\" to give Pebbles a playmate",
+        "answer": "Bamm-Bamm",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 300,
+        "question": "5 cubed",
+        "answer": "125",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 300,
+        "question": "You need a lot of hot air to play this instrument",
+        "answer": "the bagpipes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE HISTORY!",
+        "value": 300,
+        "question": "A great gold rush in 1848 sent thousands of people rushing to this state",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 300,
+        "question": "Ello-hay is the way to say hello in this funny form of \"Latin\"",
+        "answer": "Pig Latin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY IN EUROPE",
+        "value": 300,
+        "question": "The Apennines mountain chain occupies the center of this European nation's boot-like peninsula",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CARTOON NETWORK",
+        "value": 300,
+        "question": "Daphne & Velma are the women in this dog's gang",
+        "answer": "Scooby-Doo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 400,
+        "question": "They're all of the factors of 8",
+        "answer": "1, 2, 4 & 8",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 400,
+        "question": "This orchestral giant can have up to 48 strings & measure nearly 6 feet tall",
+        "answer": "harp",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE HISTORY!",
+        "value": 400,
+        "question": "More lives were lost in this war that began in 1939 than in any other war in history",
+        "answer": "World War II",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 400,
+        "question": "This is the universally accepted international language on international airline flights",
+        "answer": "English",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY IN EUROPE",
+        "value": 400,
+        "question": "The University of Limerick is a leading educational institution in this European nation",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CARTOON NETWORK",
+        "value": 400,
+        "question": "This boy genius would prefer his sister Dee Dee stay out of his laboratory",
+        "answer": "Dexter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 500,
+        "question": "1/3 plus 1/4",
+        "answer": "7/12",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 500,
+        "question": "This string quartet instrument that's deeply pitched & slightly larger than a violin has a similar name",
+        "answer": "viola",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE HISTORY!",
+        "value": 500,
+        "question": "He was searching for the island of Bimini & the Fountain of Youth when he landed off Florida in 1513",
+        "answer": "Ponce de Leon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 1000,
+        "question": "Portuguese is the official language of this largest South American country",
+        "answer": "Brazil",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "A COUNTRY IN EUROPE",
+        "value": 500,
+        "question": "King Juan Carlos I is the reigning monarch of this European nation of about 40 million people",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CARTOON NETWORK",
+        "value": 500,
+        "question": "The network's website has new adventures of this group made up of Fleegle, Bingo, Drooper & Snorky",
+        "answer": "the Banana Splits",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "U.S. GEOGRAPHY",
+      "THE CIRCUS",
+      "A LITTLE LIGHT READING",
+      "PERSON, PLACE OR THING",
+      "GARDENING",
+      "THAT'S AMAZING!"
+    ],
+    "clues": [
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "Idaho's capital; it's the state's largest city as well",
+        "answer": "Boise",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 200,
+        "question": "For the Big Apple Circus, it takes a crew of 35 5 hours to set this up, & 3 hours to take it down",
+        "answer": "the (big) tent",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "A LITTLE LIGHT READING",
+        "value": 200,
+        "question": "A popular series of books by Madeleine L'Engle kicks off with \"A Wrinkle in\" this",
+        "answer": "Time",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PERSON, PLACE OR THING",
+        "value": 200,
+        "question": "The thing is a cut of beef near the neck; the person is TV host Woolery",
+        "answer": "Chuck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 200,
+        "question": "Fruit grown in a vineyard",
+        "answer": "grapes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THAT'S AMAZING!",
+        "value": 200,
+        "question": "During liftoff, these reusable spacecraft, like the Atlantis, reach speeds over 3,000 MPH",
+        "answer": "the space shuttles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "The name of this U.S.-Mexico river is Spanish for \"large river\"",
+        "answer": "the Rio Grande",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 400,
+        "question": "The Flying Gaonas are famous for performing on this \"flying\" apparatus",
+        "answer": "the trapeze",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "A LITTLE LIGHT READING",
+        "value": 400,
+        "question": "Of ride a bike, learn the alphabet or perform open-heart surgery, what Curious George never did",
+        "answer": "perform open-heart surgery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PERSON, PLACE OR THING",
+        "value": 400,
+        "question": "The place is an Asian country; the thing is cups & plates made from ceramic materials",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 400,
+        "question": "They're defined as \"plants in the wrong place\"; ideally, they should be pulled out of your garden weekly",
+        "answer": "weeds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THAT'S AMAZING!",
+        "value": 400,
+        "question": "In 1983 a record low temperature, -128.6 degrees F., was recorded at Vostok on this icy continent",
+        "answer": "Antarctica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1200,
+        "question": "It's both the farthest north & the farthest west of the Great Lakes",
+        "answer": "Lake Superior",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 600,
+        "question": "Cirque du Soleil's Mystere show, seen here, is a highlight of the Treasure Island resort in this desert city",
+        "answer": "Las Vegas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "A LITTLE LIGHT READING",
+        "value": 600,
+        "question": "In her \"Files\" & \"Mysteries\" she solves crimes in a format for older teens; her \"Notebooks\" are for kids",
+        "answer": "Nancy Drew",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PERSON, PLACE OR THING",
+        "value": 600,
+        "question": "The place is part of a city enclosed by 4 streets; the thing is a small cube kids use in building",
+        "answer": "block",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 600,
+        "question": "Knowing that some irises start as these, not seeds, should make a light go on above your head",
+        "answer": "bulbs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THAT'S AMAZING!",
+        "value": 600,
+        "question": "This large bird can grow up to 8 feet tall, weigh 345 pounds & have eyeballs 2 inches in diameter",
+        "answer": "ostrich",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "Sometimes called the \"Tip of the Continent\", it's the only U.S. mountain whose peak exceeds 20,000 feet",
+        "answer": "Mount McKinley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 800,
+        "question": "You might learn to juggle or even ride an elephant at the Circus World Museum in Baraboo in this dairy state",
+        "answer": "Wisconsin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "A LITTLE LIGHT READING",
+        "value": 800,
+        "question": "Milo meets a watchdog named Tock on his journey in this classic book",
+        "answer": "\"The Phantom Tollbooth\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PERSON, PLACE OR THING",
+        "value": 1600,
+        "question": "The person is a famous car manufacturer; the place is a spot shallow enough to cross a river",
+        "answer": "Ford",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 800,
+        "question": "The yellow & white flower seen here; Donald might \"duck\" out to get some as a gift",
+        "answer": "daisy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THAT'S AMAZING!",
+        "value": 800,
+        "question": "This country that has Helsinki as its capital has almost one cell phone for every 2 people",
+        "answer": "Finland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "This vast southern California desert is a chief source of boron, which is used in nuclear reactors",
+        "answer": "the Mojave Desert",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE CIRCUS",
+        "value": 1000,
+        "question": "In a 1999 TV miniseries, Beau Bridges played this great circus showman",
+        "answer": "P.T. Barnum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "A LITTLE LIGHT READING",
+        "value": 1000,
+        "question": "The Reverend Awdry's tales of this tank engine began as bedtime stories for his kids",
+        "answer": "Thomas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PERSON, PLACE OR THING",
+        "value": 1000,
+        "question": "The person is a policeman in slang; the thing is a reddish-brown metal",
+        "answer": "copper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 1000,
+        "question": "It's a miniature garden in a glass container",
+        "answer": "terrarium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THAT'S AMAZING!",
+        "value": 1000,
+        "question": "The Goliath bird-eating variety of this arachnid can grow up to 11 inches across",
+        "answer": "spider",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS LANDMARKS",
+    "clue": "Its nose is 4 1/2 feet long, its right arm stretches 42 feet & its torch is 21 feet tall",
+    "answer": "the Statue of Liberty"
+  },
+  "gameId": "3700",
+  "gameDate": "Friday, October 6, 2000"
+}

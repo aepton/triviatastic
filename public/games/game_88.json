@@ -1,0 +1,574 @@
+{
+  "title": "Show #3141 - Monday, April 6, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "PUDDING",
+      "LAST NAME'S THE SAME",
+      "PITCHES FROM THE CRYPT",
+      "THEY'RE HISTORY!",
+      "THE DEVIL'S MUSIC",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "PUDDING",
+        "value": 100,
+        "question": "It's traditional to serve plum pudding on this holiday, but don't put any plums in it",
+        "answer": "Christmas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 100,
+        "question": "Faith,Glenn,Harrison",
+        "answer": "Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PITCHES FROM THE CRYPT",
+        "value": 100,
+        "question": "10 years after his death, he can be seen on TV dancing with Dirt Devil vacuum cleaners",
+        "answer": "Fred Astaire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THEY'RE HISTORY!",
+        "value": 100,
+        "question": "This \"Scourge of God\" was a real Hun-y; he had his brother Bleda killed in 445",
+        "answer": "Attila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE DEVIL'S MUSIC",
+        "value": 100,
+        "question": "According to the title of a song by Mitch Ryder & the Detroit Wheels, it's what the Devil had on",
+        "answer": "a blue dress",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 100,
+        "question": "The one-time flying nun who lands on a magical baseball diamond on your farm",
+        "answer": "Sally Field of Dreams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PUDDING",
+        "value": 200,
+        "question": "In \"Through the Looking-Glass\", the pudding reprimands this girl for cutting a slice of him",
+        "answer": "Alice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 200,
+        "question": "Vanessa,Treat,Anson",
+        "answer": "Williams",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PITCHES FROM THE CRYPT",
+        "value": 200,
+        "question": "The National Cattlemen's Beef Assn. continued to use this actor's voice in ads after his July 1997 death",
+        "answer": "Robert Mitchum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THEY'RE HISTORY!",
+        "value": 200,
+        "question": "Having lost about half his troops whil crossing the Alps, he recruited about 15,000 Gauls",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE DEVIL'S MUSIC",
+        "value": 200,
+        "question": "This man's band had a hit with the song heard here:\"Johnny, rosin up your bow and play your fiddle hard / 'Cause hell's...",
+        "answer": "Charlie Daniels",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 200,
+        "question": "Vampire Lestat creator who's a \"San Francisco treat\"",
+        "answer": "Anne Rice-A-Roni",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PUDDING",
+        "value": 300,
+        "question": "Some cooks butter slices of this staple before making pudding from it",
+        "answer": "bread",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 300,
+        "question": "Andy,Melanie,D.W.",
+        "answer": "Griffith",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PITCHES FROM THE CRYPT",
+        "value": 300,
+        "question": "Known for introducing acts on his '50s variety show, he introduced the new Mercedes S.U.V. in 1997",
+        "answer": "Ed Sullivan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THEY'RE HISTORY!",
+        "value": 300,
+        "question": "Known for his long wall, he also built Rome's magnificent Athenaeum",
+        "answer": "Hadrian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE DEVIL'S MUSIC",
+        "value": 300,
+        "question": "This Australian band's 1987 album \"Kick\" had the \"Devil Inside\", which peaked at No. 2 in 1988",
+        "answer": "INXS",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 300,
+        "question": "Disaffected group born after 1965 who are investigated by Mulder & Scully",
+        "answer": "the Generation X-Files",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PUDDING",
+        "value": 400,
+        "question": "Of Spotted Dick, Spotted Darwin or Spotted Dudley, the one that really is an English pudding",
+        "answer": "Spotted Dick",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 400,
+        "question": "Timothy,Lauren,E.F.",
+        "answer": "Hutton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PITCHES FROM THE CRYPT",
+        "value": 400,
+        "question": "The footage of Humphrey Bogart in this soda's commercial was shot decades before the soda's 1982 debut",
+        "answer": "Diet Coke",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THEY'RE HISTORY!",
+        "value": 400,
+        "question": "During his long reign, this Egyptian king built temples at many sites, including Abu Simbel",
+        "answer": "Ramses II (or Ramses the Great)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE DEVIL'S MUSIC",
+        "value": 800,
+        "question": "Title that completes the lyrics heard here:\"You look like an angel (look like an angel) /Walk like an angel (walk like an angel) /Talk like an angel /But I got wise...\"",
+        "answer": "\"(You're The) Devil In Disguise\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "The lead singer of the Miracles who was stranded on a desert island",
+        "answer": "Smokey Robinson Crusoe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PUDDING",
+        "value": 500,
+        "question": "Luckily, this \"pudding\" served with roast beef doesn't contain the terriers of the same name",
+        "answer": "Yorkshire pudding",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 500,
+        "question": "Pam,David Alan,Roosevelt",
+        "answer": "Grier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PITCHES FROM THE CRYPT",
+        "value": 500,
+        "question": "This brewery runs commercials featuring John Wayne & the cast of \"Bonanza\"",
+        "answer": "Coors",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THEY'RE HISTORY!",
+        "value": 500,
+        "question": "A little birdie \"ptold\" me: after Alexander the Great's death, this general took control of Egypt",
+        "answer": "Ptolemy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE DEVIL'S MUSIC",
+        "value": 500,
+        "question": "This Rolling Stones song says, \"Pleased to meet you, hope you guess my name\"",
+        "answer": "\"Sympathy For The Devil\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 500,
+        "question": "A Baskin-Robbins treat used for top secret discussion on \"Get Smart\"",
+        "answer": "Ice Cream Cone of Silence",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MEET AL GORE",
+      "PUNCHY WRITERS",
+      "BROOKLYN NEIGHBORHOODS",
+      "WE, THE JURY",
+      "BUFF ACTORS",
+      "SNOW WHITE'S UNKNOWN DWARFS"
+    ],
+    "clues": [
+      {
+        "category": "MEET AL GORE",
+        "value": 200,
+        "question": "Enlisting in 1969, Gore served as an Army reporter in this foreign country",
+        "answer": "Vietnam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PUNCHY WRITERS",
+        "value": 200,
+        "question": "\"By George\" is an appropriate title for this boxer's 1995 autobiography",
+        "answer": "George Foreman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BROOKLYN NEIGHBORHOODS",
+        "value": 200,
+        "question": "In 1968 this area called \"Bed-Stuy\" elected Shirley Chisholm, the first black woman in Congress",
+        "answer": "Bedford-Stuyvesant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WE, THE JURY",
+        "value": 200,
+        "question": "In 1970 the Supreme Court declared this standard number of jurors a \"historical accident\"",
+        "answer": "12",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BUFF ACTORS",
+        "value": 200,
+        "question": "45 seconds of Sharon Stone & this naked actor were cut from \"Basic Instinct\" to get an R rating",
+        "answer": "Michael Douglas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SNOW WHITE'S UNKNOWN DWARFS",
+        "value": 200,
+        "question": "The name of this dwarf, a cousin of Happy, is also associated with a Green Giant",
+        "answer": "Jolly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MEET AL GORE",
+        "value": 400,
+        "question": "This film star was Al's roommate at Harvard around the time Will Smith was born:\"I'm talkin' to you!  You know how many of your kind I've swatted with a newspaper?  You're nothing but a smear on the sports page to me, you slimy, gut-sucking, intestinal parasite!\"",
+        "answer": "Tommy Lee Jones",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PUNCHY WRITERS",
+        "value": 400,
+        "question": "In this Hemingway story, the title thugs come to Henry's diner looking to bump off a prizefighter",
+        "answer": "\"The Killers\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BROOKLYN NEIGHBORHOODS",
+        "value": 400,
+        "question": "Created in 1903, Luna Park in this amusement area was sort of an early version of Fantasyland",
+        "answer": "Coney Island",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WE, THE JURY",
+        "value": 400,
+        "question": "What a jury does when it can't agree, or what it may sentence a murderer to",
+        "answer": "hang",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BUFF ACTORS",
+        "value": 400,
+        "question": "In his 1995 film \"Braveheart\", this actor-director showed us what Scotsmen wear under their kilts",
+        "answer": "Mel Gibson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SNOW WHITE'S UNKNOWN DWARFS",
+        "value": 400,
+        "question": "This weak & ineffectual dwarf shares his name with a hamburger-loving friend of Popeye's",
+        "answer": "Wimpy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MEET AL GORE",
+        "value": 600,
+        "question": "Author Erich Segal says Oliver Barrett IV in this 1970 novel was partly based on Al",
+        "answer": "Love Story",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PUNCHY WRITERS",
+        "value": 1200,
+        "question": "He discussed Ali vs. Foreman in his book \"The Fight\" & in the 1996 film \"When We Were Kings\"",
+        "answer": "Norman Mailer",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BROOKLYN NEIGHBORHOODS",
+        "value": 600,
+        "question": "A street gang in a 1974 film was called \"The Lords of\" this large Brooklyn neighborhood",
+        "answer": "Flatbush",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WE, THE JURY",
+        "value": 600,
+        "question": "In a personal injury lawsuit, the jury may calculate both punitive & compensatory types of these",
+        "answer": "damages",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BUFF ACTORS",
+        "value": 600,
+        "question": "Holly Hunter was speechless when Harvey Keitel exposed himself in this 1993 film",
+        "answer": "The Piano",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SNOW WHITE'S UNKNOWN DWARFS",
+        "value": 600,
+        "question": "The name of this dazed dwarf comes from the Royal Navy's word for rum",
+        "answer": "Groggy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MEET AL GORE",
+        "value": 800,
+        "question": "Al's 1992 treatise on the environment was titled this \"in the Balance\"",
+        "answer": "Earth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PUNCHY WRITERS",
+        "value": 800,
+        "question": "He was boxing editor for Sports Illustrated before writing the script for \"On the Waterfront\"",
+        "answer": "Budd Schulberg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BROOKLYN NEIGHBORHOODS",
+        "value": 800,
+        "question": "As the setting for \"The Honeymooners\", this area is SW Brooklyn could be called Kramdenhurst",
+        "answer": "Bensonhurst",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WE, THE JURY",
+        "value": 800,
+        "question": "The right to have a jury of these, meaning one's equals, not lords, is mentioned in the Magna Carta",
+        "answer": "peers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BUFF ACTORS",
+        "value": 800,
+        "question": "Killer Schwarzenegger cyborg whose time travel device can't send his clothes with him",
+        "answer": "the Terminator",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SNOW WHITE'S UNKNOWN DWARFS",
+        "value": 800,
+        "question": "One of the smaller dwarfs dislikes hearing his name in the expression, \"Cut off my legs and call me\" this",
+        "answer": "Shorty (or Stumpy)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MEET AL GORE",
+        "value": 1000,
+        "question": "On his way to defeat in the heated 1992 campaign, this man called Al \"Mr. Ozone\" & a \"Bozo\"",
+        "answer": "George Bush",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PUNCHY WRITERS",
+        "value": 1000,
+        "question": "Based on a play by Clifford Odets, it's the 1939 boxing film seen here:\"Well, I've made up my mind to win the middleweight crown.\"\"But your heart's in music!\"",
+        "answer": "Golden Boy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BROOKLYN NEIGHBORHOODS",
+        "value": 1000,
+        "question": "These \"Heights\" populated by African Americans & Hasidic Jews were the site of rioting in 1991",
+        "answer": "Crown Heights",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WE, THE JURY",
+        "value": 2000,
+        "question": "A lawyer's rejection of a prospective juror, it may be \"for cause\" or \"peremptory\"",
+        "answer": "a challenge",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BUFF ACTORS",
+        "value": 1000,
+        "question": "Jaye Davidson surprised movie audiences when he slipped out of his clothes in this 1992 film",
+        "answer": "The Crying Game",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SNOW WHITE'S UNKNOWN DWARFS",
+        "value": 1000,
+        "question": "The dwarf formerly known as \"swollen\" changed his name to this adjective, after rap artist Sean Combs",
+        "answer": "Puffy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COUNTRIES OF THE WORLD",
+    "clue": "This island nation is the only country in the world named for a biblical king",
+    "answer": "the Solomon Islands"
+  },
+  "gameId": "3141",
+  "gameDate": "Monday, April 6, 1998"
+}

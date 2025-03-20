@@ -1,0 +1,574 @@
+{
+  "title": "Show #7716 - Monday, March 12, 2018",
+  "jeopardyRound": {
+    "categories": [
+      "THE 7 ANCIENT WONDERS",
+      "THIS IS NOT A DRILL (OR IS IT?)",
+      "REVERSIBLE COMPOUND WORDS",
+      "\"M\"TERTAINMENT",
+      "BEAUTY TRENDS",
+      "QUOTH THE AMENDMENT"
+    ],
+    "clues": [
+      {
+        "category": "THE 7 ANCIENT WONDERS",
+        "value": 200,
+        "question": "They're the oldest & best preserved of the 7 ancient wonders",
+        "answer": "the pyramids",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THIS IS NOT A DRILL (OR IS IT?)",
+        "value": 200,
+        "question": "New recruits at Parris Island get whipped into shape by a D.I., short for this",
+        "answer": "a drill instructor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "REVERSIBLE COMPOUND WORDS",
+        "value": 200,
+        "question": "An apple pastry & to reverse a legal decision",
+        "answer": "turnover and overturn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"M\"TERTAINMENT",
+        "value": 200,
+        "question": "Ariel Winter was the title Dunphy in \"The Day Alex Left for College\", a 2015 episode of this sitcom",
+        "answer": "Modern Family",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BEAUTY TRENDS",
+        "value": 200,
+        "question": "When overlining to make these look fuller, Khloe Kardashian says do it top & bottom but not at the sides",
+        "answer": "lips",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "QUOTH THE AMENDMENT",
+        "value": 200,
+        "question": "\"A well regulated militia, being necessary to the security of a free state...\"",
+        "answer": "the Second Amendment",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 7 ANCIENT WONDERS",
+        "value": 400,
+        "question": "The fire at its top guided ships for over a thousand years",
+        "answer": "the Lighthouse at Alexandria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THIS IS NOT A DRILL (OR IS IT?)",
+        "value": 400,
+        "question": "The more fashionable amongst us know that espadrilles are a type of these",
+        "answer": "shoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "REVERSIBLE COMPOUND WORDS",
+        "value": 400,
+        "question": "An unexpected victory by a lesser team & a plan that makes use of an unsuspecting person",
+        "answer": "upset and setup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"M\"TERTAINMENT",
+        "value": 400,
+        "question": "You can play with blocks in creative mode or fight monsters in survival mode in this video game",
+        "answer": "Minecraft",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BEAUTY TRENDS",
+        "value": 400,
+        "question": "This vacuum brand reversed the flow with its \"supersonic\" hair dryer",
+        "answer": "Dyson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "QUOTH THE AMENDMENT",
+        "value": 400,
+        "question": "\"Congress shall make no law...\"",
+        "answer": "the First Amendment",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 7 ANCIENT WONDERS",
+        "value": 600,
+        "question": "Standing over 100 feet tall, the Colossus of Rhodes was a huge bronze statue of this sun god whose name mean \"sun\"",
+        "answer": "Helios",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THIS IS NOT A DRILL (OR IS IT?)",
+        "value": 600,
+        "question": "It's a 1 followed by 15 zeroes",
+        "answer": "a quadrillion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "REVERSIBLE COMPOUND WORDS",
+        "value": 600,
+        "question": "The sound of a firearm & a firearm used to ensure a pregnant daughter gets married",
+        "answer": "a gunshot and a shotgun",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"M\"TERTAINMENT",
+        "value": 600,
+        "question": "In a 2016 hit a hospitable Flo Rida offered a \"welcome to\" this title place",
+        "answer": "my house",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BEAUTY TRENDS",
+        "value": 600,
+        "question": "This word for \"shape\" can mean using makeup to create a new shape for your face",
+        "answer": "contouring",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "QUOTH THE AMENDMENT",
+        "value": 600,
+        "question": "\"No person shall... be subject for the same offence to be twice put in jeopardy of life or limb\"",
+        "answer": "the Fifth Amendment",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 7 ANCIENT WONDERS",
+        "value": 800,
+        "question": "Her temple at Ephesus was destroyed by invading Goths in 262",
+        "answer": "Artemis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THIS IS NOT A DRILL (OR IS IT?)",
+        "value": 800,
+        "question": "The Lafayette Escadrille in World War I was made up of men who operated these",
+        "answer": "airplanes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "REVERSIBLE COMPOUND WORDS",
+        "value": 800,
+        "question": "Food sold to be eaten elsewhere & a film clip left on the editing room floor",
+        "answer": "takeout and outtake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"M\"TERTAINMENT",
+        "value": 800,
+        "question": "Simon Baker must have had a vision that he'd be a hit as Patrick Jane on this series",
+        "answer": "The Mentalist",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BEAUTY TRENDS",
+        "value": 800,
+        "question": "Skip the glue--One Two lashes attach to your real lashes using tiny these to hold them in place",
+        "answer": "magnets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "QUOTH THE AMENDMENT",
+        "value": 800,
+        "question": "\"The right of the people to be secure in their persons... shall not be violated\"",
+        "answer": "the Fourth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 7 ANCIENT WONDERS",
+        "value": 1000,
+        "question": "Fragments of sculpture from this tomb are in the British Museum",
+        "answer": "the Mausoleum at Halicarnassus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THIS IS NOT A DRILL (OR IS IT?)",
+        "value": 1000,
+        "question": "Here's this distinctive monkey of the African rainforest",
+        "answer": "a mandrill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "REVERSIBLE COMPOUND WORDS",
+        "value": 1000,
+        "question": "Chores around the domicile & a Dickensian institution where the poor exchanged labor for lodging",
+        "answer": "housework and a workhouse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"M\"TERTAINMENT",
+        "value": 1000,
+        "question": "Her acclaimed roles range from Roseanne's sister Jackie to the mom in \"Lady Bird\"",
+        "answer": "Laurie Metcalf",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BEAUTY TRENDS",
+        "value": 1000,
+        "question": "Add some bling to your fingers with Swarovski Pixie--crushed these to sprinkle on wet nails",
+        "answer": "crystals",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "QUOTH THE AMENDMENT",
+        "value": 1000,
+        "question": "\"The powers not delegated to the United States... are reserved to the states respectively, or to the people\"",
+        "answer": "the Tenth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "STRANGE BEDFELLOWS",
+      "LITERARY L.A.",
+      "MOVIE WORDS",
+      "THE LAKE SHOW",
+      "EDUCATION",
+      "\"SHOW\" & \"TELL\""
+    ],
+    "clues": [
+      {
+        "category": "STRANGE BEDFELLOWS",
+        "value": 400,
+        "question": "When they met in 1959, Marilyn Monroe said this Soviet premier looked at her the way a man looks at a woman",
+        "answer": "Khrushchev",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LITERARY L.A.",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew presents the clue from The Last Bookstore in Los Angeles.) Living in Los Angeles when he wrote \"Fahrenheit 451\", this author took the title from the temperature at which paper burns",
+        "answer": "(Ray) Bradbury",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MOVIE WORDS",
+        "value": 400,
+        "question": "An actor playing a role vastly different from other roles he's known for is \"cast against\" this",
+        "answer": "type",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE LAKE SHOW",
+        "value": 400,
+        "question": "Lake Uri is where this Swiss hero is said to have leaped from a prison-bound boat & escaped Gessler",
+        "answer": "William Tell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EDUCATION",
+        "value": 400,
+        "question": "19th c. teacher James Pillans boasted of being among the first to have students make chalk markings on this",
+        "answer": "a slate (or blackboard)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\" & \"TELL\"",
+        "value": 400,
+        "question": "Groucho Marx called \"military\" this \"a contradiction in terms\"",
+        "answer": "intelligence",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STRANGE BEDFELLOWS",
+        "value": 800,
+        "question": "Pam Anderson's trips to London's Ecuadorian embassy had People magazine asking if she was dating this man",
+        "answer": "(Julian) Assange",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LITERARY L.A.",
+        "value": 800,
+        "question": "\"I'm Losing You\", \"I'll Let You Go\" & 2003's \"Still Holding\" are Bruce Wagner's showbiz trilogy named for this device",
+        "answer": "a cell phone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MOVIE WORDS",
+        "value": 800,
+        "question": "It's the \"circular\" term for redoing dialogue of a low sound quality",
+        "answer": "looping",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE LAKE SHOW",
+        "value": 800,
+        "question": "The Uda & Chikoy are among the 300-plus rivers & streams that flow into this huge Siberian lake",
+        "answer": "Baikal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EDUCATION",
+        "value": 800,
+        "question": "24 states mandate this kind of education; 22 of them say to include HIV in the curriculum",
+        "answer": "sex education",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\" & \"TELL\"",
+        "value": 800,
+        "question": "To ostentatiously display ability, like your knowledge of Edna Ferber's works",
+        "answer": "show off (or showboat)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STRANGE BEDFELLOWS",
+        "value": 1200,
+        "question": "When this Italian director & fan met Stan Lee, Lee's receptionist pronounced his name like a serious type of crime",
+        "answer": "Fellini",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LITERARY L.A.",
+        "value": 1200,
+        "question": "In this author's \"The Long Goodbye\", Philip Marlowe is living on Yucca Ave. & drinking at Victor's",
+        "answer": "Raymond Chandler",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MOVIE WORDS",
+        "value": 1200,
+        "question": "Fittingly, given what his name means, Joe Pesci starred as \"My Cousin Vinny\", this kind of tale of culture shock",
+        "answer": "a fish out of water",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE LAKE SHOW",
+        "value": 1200,
+        "question": "Take a look & we'll Clooney you into this lake, 25 miles north of Milan",
+        "answer": "Lake Como",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EDUCATION",
+        "value": 1200,
+        "question": "There was a 21st C. boom in boot camps for this activity, a less scary version of computer programming",
+        "answer": "coding",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\" & \"TELL\"",
+        "value": 1200,
+        "question": "Originally, it was a series of pictures viewed through a hole in a box--P.S., it now has a seedier meaning",
+        "answer": "a peep show",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STRANGE BEDFELLOWS",
+        "value": 1600,
+        "question": "Sir Arthur Conan Doyle hosted a seance to contact this magician's mother; it didn't go well & the 2 friends parted ways",
+        "answer": "Houdini",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LITERARY L.A.",
+        "value": 1600,
+        "question": "L.A. foster homes & poisoning with the white plant of the title are part of this Janet Fitch novel",
+        "answer": "White Oleander",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MOVIE WORDS",
+        "value": 1600,
+        "question": "\"Above the\" this refers to the budgeted cost associated with the major talent",
+        "answer": "above the line",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE LAKE SHOW",
+        "value": 1600,
+        "question": "Every little breeze seems to whisper this Alberta lake, so named to honor the daughter of Queen Victoria",
+        "answer": "Louise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EDUCATION",
+        "value": 1600,
+        "question": "In 2017 this N.J. city regained local control over its schools & 55,000 students, taken over by the state in 1995",
+        "answer": "Newark",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\" & \"TELL\"",
+        "value": 1600,
+        "question": "A piece of fabric on a boat mast to show wind direction, or a Poe title adjective",
+        "answer": "a telltale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STRANGE BEDFELLOWS",
+        "value": 2000,
+        "question": "This one-time POTUS hopeful once had a drinking session with unlikely pal Hunter S. Thompson",
+        "answer": "Pat Buchanan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LITERARY L.A.",
+        "value": 2000,
+        "question": "Michael Connelly says this cop & \"Hollywood Station\" author \"took crime fiction to a whole new level\"",
+        "answer": "Joseph Wambaugh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MOVIE WORDS",
+        "value": 2000,
+        "question": "Term for a sought-after item that drives a plot; Hitchcock said the word originated as a device to trap lions in Scotland",
+        "answer": "MacGuffin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE LAKE SHOW",
+        "value": 2000,
+        "question": "In 1802 Matthew Flinders discovered the rather unusual-looking & very salty Lake Hillier in this nation",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EDUCATION",
+        "value": 2000,
+        "question": "A 1988 law boosting research & new strategies is named for these 2 qualities, 1 of a math whiz & 1 of a violin prodigy",
+        "answer": "gifted and talented",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\" & \"TELL\"",
+        "value": 2000,
+        "question": "Colorado ski resort & film festival locale",
+        "answer": "Telluride",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FIRST LADY FACTS",
+    "clue": "In 1982, when Bess Truman died, she had been enrolled in this government program for about 17 years, longer than anyone else",
+    "answer": "Medicare"
+  },
+  "gameId": "7716",
+  "gameDate": "Monday, March 12, 2018"
+}

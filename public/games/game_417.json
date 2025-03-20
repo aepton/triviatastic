@@ -1,0 +1,574 @@
+{
+  "title": "Show #1198 - Wednesday, November 15, 1989",
+  "jeopardyRound": {
+    "categories": [
+      "JOURNALISM",
+      "CITY NICKNAMES",
+      "PHYSICAL SCIENCE",
+      "U.S. HISTORY",
+      "SINGERS",
+      "12-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "JOURNALISM",
+        "value": 100,
+        "question": "The public may subscribe to this paper which features a daily transcript of the activities of Congress",
+        "answer": "the Congressional Record",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CITY NICKNAMES",
+        "value": 100,
+        "question": "\"The Big Apple\"",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 100,
+        "question": "Every year Australia moves 2 in. away from this nearest U.S. state & Japan moves 3 in. closer",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 100,
+        "question": "Century in which the most states, 29, were admitted to the Union",
+        "answer": "the 19th century",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SINGERS",
+        "value": 100,
+        "question": "When he got his star on Hollywood's Walk of Fame, this Welshman tossed garters to his fans",
+        "answer": "Tom Jones",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 100,
+        "question": "From the Greek for \"fire\" & \"craft\", it's a fancy word for a fireworks display",
+        "answer": "pyrotechnics",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 200,
+        "question": "This CBS newsman once petitioned Churchill to let him broadcast outdoors so people could hear the Blitz",
+        "answer": "Edward R. Murrow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CITY NICKNAMES",
+        "value": 200,
+        "question": "\"The Cradle of Texas Liberty\"",
+        "answer": "San Antonio",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 200,
+        "question": "France derives a higher percentage of its electricity from this energy source than any other country",
+        "answer": "nuclear power",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 200,
+        "question": "John Q. Adams & Henry Clay were among those who negotiated the Treaty of Ghent that ended this war",
+        "answer": "the War of 1812",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SINGERS",
+        "value": 200,
+        "question": "Katey Sagal of \"Married... with Children\" used to be one of the Harlettes, who sang back-up for this star",
+        "answer": "Bette Midler",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 200,
+        "question": "Stereophonic times 2",
+        "answer": "quadraphonic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 300,
+        "question": "Sime Silverman, editor of this weekly trade paper, coined the headline \"Sticks Nix Hick Pix\"",
+        "answer": "Variety",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CITY NICKNAMES",
+        "value": 300,
+        "question": "\"The Crescent City\"",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 300,
+        "question": "Carbohydrates, such as sugars & starch, contain these 3 elements",
+        "answer": "carbon, hydrogen, & oxygen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 300,
+        "question": "The 1st English settlement in Maine occured in this same year as the settlement of Jamestown",
+        "answer": "1607",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SINGERS",
+        "value": 300,
+        "question": "He played a sleazy TV evangelist in the James Bond film \"Licence to Kill\"",
+        "answer": "Wayne Newton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 300,
+        "question": "In other words this exclamation can be \"violin bows!\"",
+        "answer": "fiddlesticks!",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 800,
+        "question": "Born in Hungary, he ran the St. Louis Post-Dispatch before buying the New York World",
+        "answer": "Joseph Pulitzer",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CITY NICKNAMES",
+        "value": 400,
+        "question": "\"Kodak City\"",
+        "answer": "Rochester, New York",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 400,
+        "question": "-273.15 degrees C.",
+        "answer": "absolute zero",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "This disease transmitted by the Aedes aegypti mosquto was brought to America on slave ships",
+        "answer": "yellow fever",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SINGERS",
+        "value": 400,
+        "question": "Emmy-winning TV hostess whose hometown, Winchester, Tenn., renamed its main street in her honor",
+        "answer": "Dinah Shore",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 400,
+        "question": "Kids could tell the post office the dinosaur called this on a stamp is actually an Apatosaurus",
+        "answer": "Brontosaurus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "JOURNALISM",
+        "value": 500,
+        "question": "UPI journalist who's the senior member of the White House press corps",
+        "answer": "Helen Thomas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CITY NICKNAMES",
+        "value": 500,
+        "question": "\"The Athens of the South\"",
+        "answer": "Nashville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 500,
+        "question": "A space telescope to be launched by the space shuttle in 1990 is named for this 20th century astronomer",
+        "answer": "Edwin Hubble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 500,
+        "question": "In 1954 he was elected to the senate from South Carolina by a write-in vote",
+        "answer": "Strom Thurmond",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SINGERS",
+        "value": 500,
+        "question": "This Aussie singer was once a commissioner of parks & recreation for the state of California",
+        "answer": "Helen (\"I Am Woman\") Reddy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 500,
+        "question": "Literary term for words like hiss, fizz, kerflop, kerplunk & kerflooey",
+        "answer": "onomatopoeia (or onomatopoeic)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ABBREV.",
+      "SCOTLAND",
+      "BALLET",
+      "MEDICINES",
+      "POETRY",
+      "FAMOUS EDUCATORS"
+    ],
+    "clues": [
+      {
+        "category": "ABBREV.",
+        "value": 200,
+        "question": "Abbreviated hdbk., a Boy Scout might consult one",
+        "answer": "Handbook",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCOTLAND",
+        "value": 200,
+        "question": "This term for the extended family comes from the Gaelic for \"children\"",
+        "answer": "clan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BALLET",
+        "value": 200,
+        "question": "Tamara Karsavina was the 1st to dance the role of this Stravinsky bird, in 1910",
+        "answer": "The Firebird",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 200,
+        "question": "Dramamine or Phenergan taken about 1/2 hour before traveling will help prevent this",
+        "answer": "motion sickness",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "POETRY",
+        "value": 200,
+        "question": "5-line humorous verse named for an Irish county",
+        "answer": "Limerick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS EDUCATORS",
+        "value": 200,
+        "question": "In 1978 this future baseball commissioner became the youngest pres. of Yale in 2 centuries",
+        "answer": "A. Bartlett Giamatti",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ABBREV.",
+        "value": 400,
+        "question": "Artistic field in which you'd find abbreviations such as \"sfz\", \"pp\" & 'ff\"",
+        "answer": "Music",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCOTLAND",
+        "value": 400,
+        "question": "The Scots word for \"twilight\"; Sir Harry Lauder used to sing about \"roamin' in\" it",
+        "answer": "gloamin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BALLET",
+        "value": 400,
+        "question": "This dame, born Margaret Hookham, has been called \"The greatest British ballerina of all time\"",
+        "answer": "Margot Fonteyn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 400,
+        "question": "Miles Laboratories has been selling this analgesic antacid tablet since 1931",
+        "answer": "Alka-Seltzer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "POETRY",
+        "value": 400,
+        "question": "His poem \"Mending Wall\" 1st appeared in \"North of Boston\", a collection of poems he wrote in England",
+        "answer": "Robert Frost",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS EDUCATORS",
+        "value": 400,
+        "question": "In 1925 this Dayton, Tenn. biology teacher was arrested for teaching evolution in his class",
+        "answer": "John Scopes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ABBREV.",
+        "value": 600,
+        "question": "The abbreviation for manager is mgr. whereas msgr. stands for this",
+        "answer": "Monsignor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCOTLAND",
+        "value": 600,
+        "question": "Silly-sounding name for the estuary of the river Forth",
+        "answer": "Firth of Forth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BALLET",
+        "value": 1200,
+        "question": "Tchaikovsky's favorite of his own ballets, it features a wedding & the following:",
+        "answer": "Sleeping Beauty (\"Sleeping Beauty Waltz\")",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 600,
+        "question": "On March 20, 1987 this drug became the 1st approved by the FDA for use in combating the AIDS virus",
+        "answer": "AZT",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "POETRY",
+        "value": 600,
+        "question": "Not only did he write \"Don Juan\", he proved it was possible to swim the Hellespont by doing it himself",
+        "answer": "Lord Byron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS EDUCATORS",
+        "value": 600,
+        "question": "Both John R. Gregg & Sir Isaac Pitman are famous for developing & teaching systems of this",
+        "answer": "shorthand writing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ABBREV.",
+        "value": 800,
+        "question": "If you reverse this month's 3-letter abbrev., you get the symbol of 1 of its astrological signs",
+        "answer": "March (mar./ram)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCOTLAND",
+        "value": 1600,
+        "question": "Scotland's national flag displays the cross of this man, its patron saint",
+        "answer": "St. Andrew",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BALLET",
+        "value": 800,
+        "question": "Mental illness ended his career after he choreographed his last ballet, \"Till Eulenspiegel\"",
+        "answer": "Vaclav Nijinsky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 800,
+        "question": "In 1988 this prescription acne cream was found to reverse the effects of sun-induced wrinkles",
+        "answer": "Retin-A",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "POETRY",
+        "value": 800,
+        "question": "He wrote, \"I hope to see my pilot face to face when I have crost the bar\"",
+        "answer": "Tennyson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS EDUCATORS",
+        "value": 800,
+        "question": "This Swiss child psychologist was a professor at the University of Geneva from 1929 until his death in 1980",
+        "answer": "Jean Piaget",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ABBREV.",
+        "value": 1000,
+        "question": "Of the 4 main compass points these 3 are also symbols of elements",
+        "answer": "N (Nitrogen), S (Sulphur) & W(Tungsten)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCOTLAND",
+        "value": 1000,
+        "question": "Range of hills that was home to Sir Walter Scott's \"Bride\" & Donizetti's \"Lucia\"",
+        "answer": "Lammermoor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BALLET",
+        "value": 1000,
+        "question": "Balanchine's ballet \"Le Bourgeois Gentilhomme\" is based on a 17th c. play by this Frenchman",
+        "answer": "Moliere",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 1000,
+        "question": "1st used for high blood pressure, this drug, the key ingredient in Rogaine, can stimulate hair growth",
+        "answer": "minoxidil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "POETRY",
+        "value": 1000,
+        "question": "In \"The Baite\" he wrote \"Come live with mee, & bee my love\"",
+        "answer": "John Donne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS EDUCATORS",
+        "value": 1000,
+        "question": "Though it caused much indignation in the South, Teddy Roosevelt invited this educator to the White House",
+        "answer": "Booker T. Washington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "VICE PRESIDENTS",
+    "clue": "At 39 he was the youngest man to take the office of vice president",
+    "answer": "Richard Nixon (in 1953)"
+  },
+  "gameId": "1198",
+  "gameDate": "Wednesday, November 15, 1989"
+}

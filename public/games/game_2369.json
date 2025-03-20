@@ -1,0 +1,574 @@
+{
+  "title": "Show #5420 - Friday, March 14, 2008",
+  "jeopardyRound": {
+    "categories": [
+      "THE SOLAR SYSTEM",
+      "1960s SPORTS LEGENDS",
+      "WE PREDICT THE FUTURE!",
+      "NAME THE NOVEL",
+      "THE TOOL SHED",
+      "\"ARG\"!"
+    ],
+    "clues": [
+      {
+        "category": "THE SOLAR SYSTEM",
+        "value": 200,
+        "question": "It's the mission that landed in the Mare Tranquillitatis in 1969",
+        "answer": "Apollo 11",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "1960s SPORTS LEGENDS",
+        "value": 200,
+        "question": "Between May 1965 & March 1967, he defended his heavyweight boxing title an amazing 9 times",
+        "answer": "Muhammad Ali",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WE PREDICT THE FUTURE!",
+        "value": 200,
+        "question": "On Jan. 20, 2009 this man will lose his $400,000-a-year (plus 50 grand in expenses) federal government job",
+        "answer": "George W. Bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NAME THE NOVEL",
+        "value": 200,
+        "question": "1937:\"I have chosen Mr. Baggins and that ought to be enough for all of you\"",
+        "answer": "The Hobbit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE TOOL SHED",
+        "value": 200,
+        "question": "Dremel makes a 14,000-rpm tool for cutting these, a traditional October activity",
+        "answer": "pumpkins",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"ARG\"!",
+        "value": 200,
+        "question": "It's any ban imposed on commerce by edict; there was an oil one in the 1970s",
+        "answer": "an embargo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE SOLAR SYSTEM",
+        "value": 400,
+        "question": "Its moon Triton was first seen in 1846; a second satellite around this planet wasn't found until 1949",
+        "answer": "Neptune",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "1960s SPORTS LEGENDS",
+        "value": 400,
+        "question": "The most points an NFL player has scored in a game in the last 50 years is 36 by this Bears halfback on Dec. 12, 1965",
+        "answer": "Gale Sayers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WE PREDICT THE FUTURE!",
+        "value": 400,
+        "question": "On March 1, 2022 we'll be celebrating \"Fat Tuesday\", this celebration, y'all",
+        "answer": "Mardi Gras",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NAME THE NOVEL",
+        "value": 400,
+        "question": "1813: \"Happy for all her maternal feelings was the day...Mrs. Bennet got rid of her 2 most deserving daughters\"",
+        "answer": "Pride and Prejudice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE TOOL SHED",
+        "value": 400,
+        "question": "The kerf is the groove being cut; if this tool gets pinched in the kerf, deadly kickback can result",
+        "answer": "a table saw",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"ARG\"!",
+        "value": 400,
+        "question": "Member of the royal family who was reputedly planning to marry Peter Townshend",
+        "answer": "(Princess) Margaret",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE SOLAR SYSTEM",
+        "value": 600,
+        "question": "As seen from Earth, these 2 planets show lunar-type phases",
+        "answer": "Mercury & Venus",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "1960s SPORTS LEGENDS",
+        "value": 600,
+        "question": "In the 1960s, 2 NBA players won MVP awards 4 times: Wilt Chamberlain & this Boston Celtics center",
+        "answer": "Bill Russell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WE PREDICT THE FUTURE!",
+        "value": 600,
+        "question": "By Dec. 31, 2010 this Bureau will have submitted state population totals to the president (well, it better have)",
+        "answer": "the Census",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NAME THE NOVEL",
+        "value": 600,
+        "question": "1932:\"In the 4,000 rooms of the Centre the 4,000 electric clocks simultaneously struck four\"",
+        "answer": "Brave New World",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE TOOL SHED",
+        "value": 600,
+        "question": "Seen here is the tool called a cutter for this fastener",
+        "answer": "a bolt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"ARG\"!",
+        "value": 600,
+        "question": "Jason led this famous group of sailors",
+        "answer": "the Argonauts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE SOLAR SYSTEM",
+        "value": 800,
+        "question": "This largest moon of Saturn is the only one in the solar system with a reasonably dense atmosphere",
+        "answer": "Titan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "1960s SPORTS LEGENDS",
+        "value": 800,
+        "question": "In 1963 she appeared in her first Wimbledon singles title match under her maiden name, Moffitt",
+        "answer": "Billie Jean King",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WE PREDICT THE FUTURE!",
+        "value": 800,
+        "question": "On July 20, 2010 this S. American country will kick back with some good coffee to celebrate 200 years of indep.",
+        "answer": "Colombia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NAME THE NOVEL",
+        "value": 800,
+        "question": "1902:\"The horror!The horror!\"",
+        "answer": "Heart of Darkness",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE TOOL SHED",
+        "value": 800,
+        "question": "The Hercules model Swiss Army knife includes a pair of these with itty-bitty jaws & wire crimper",
+        "answer": "pliers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"ARG\"!",
+        "value": 800,
+        "question": "Be a cheapskate and tell us this word that can precede \"basement\" or \"counter\"",
+        "answer": "bargain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE SOLAR SYSTEM",
+        "value": 1000,
+        "question": "On March 10, 1977 astronomers discovered this 7th planet from the sun also had rings",
+        "answer": "Uranus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "1960s SPORTS LEGENDS",
+        "value": 1000,
+        "question": "On August 1, 1964 this man nicknamed \"Big Daddy\" became the first in drag racing history to exceed 200 mph",
+        "answer": "Don Garlits",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WE PREDICT THE FUTURE!",
+        "value": 1000,
+        "question": "On July 27, 2012 the Summer Olympics will open in this world capital",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NAME THE NOVEL",
+        "value": 1000,
+        "question": "1961:\"Once upon a time there was a Martian named Valentine Michael Smith\"",
+        "answer": "Stranger In A Strange Land",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE TOOL SHED",
+        "value": 1000,
+        "question": "(Jimmy of the Clue Crew demonstrates his tool.) I'm determining a horizontal line using this type of level whose name comes from an old word for the alcoholic liquid inside",
+        "answer": "a spirit level",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"ARG\"!",
+        "value": 1000,
+        "question": "This diamond-shaped pattern is named for a clan whose tartan it was patterned after",
+        "answer": "argyle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AFRICA",
+      "MUSICAL INSTRUMENT MOVIES",
+      "A SCHOOL OF DAUPHINS",
+      "GEEK SPEAK",
+      "LOCKE",
+      "\"KEY\""
+    ],
+    "clues": [
+      {
+        "category": "AFRICA",
+        "value": 400,
+        "question": "In 1985 the Ivory Coast declared that its official name in all languages would be this French Version",
+        "answer": "Cote D'Ivoire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENT MOVIES",
+        "value": 400,
+        "question": "Bing was going Ingrid Bergman's way:\"The _____ Of St. Mary's\"",
+        "answer": "Bells",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "A SCHOOL OF DAUPHINS",
+        "value": 400,
+        "question": "Title character of the 1884 novel that also includes 'The Dauphin\" & Jim, a runaway slave",
+        "answer": "Huckleberry Finn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GEEK SPEAK",
+        "value": 400,
+        "question": "Intel's chips can now process instructions in this unit of time, a billionth of a second",
+        "answer": "a nanosecond",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LOCKE",
+        "value": 400,
+        "question": "The English philosopher John Locke lived most of his life in the latter part of this century",
+        "answer": "the 17th Century",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"KEY\"",
+        "value": 400,
+        "question": "Steve Cauthen & Kent Descormeaux are in the Hall of Fame reserved for this profession",
+        "answer": "jockeys",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 800,
+        "question": "(Cheryl of the Clue Crew shows a map on a screen) Cabinda Province is an exclave belonging neither to the Congo nor the Democratic Republic of the Congo which surround it, but to this large country just to the south",
+        "answer": "Angola",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENT MOVIES",
+        "value": 800,
+        "question": "Henry Fonda goes Colonial:\"_____ Along 'The Mohawk\"",
+        "answer": "Drums",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "A SCHOOL OF DAUPHINS",
+        "value": 800,
+        "question": "Found at the entrance to Mobile Bay, Dauphin Island is a coastal island belonging to this state",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GEEK SPEAK",
+        "value": 800,
+        "question": "(Alex delivers the clue from the Sony Headquarters in Tokyo, Japan) Sony has screens that range in size from the 70-inch Bravia to the 2-inch on this DMP, which stands for digital this",
+        "answer": "media player",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LOCKE",
+        "value": 800,
+        "question": "Locke was educated at this University's Christ Church College & later lectured in Greek, rhetoric & philosophy there",
+        "answer": "Oxford",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"KEY\"",
+        "value": 800,
+        "question": "Its name is from the Gaelic for \"water of life\"",
+        "answer": "whiskey",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 1200,
+        "question": "The Mossi people of Africa carve these from ceiba wood, & some worn in ceremonies are over 6 feet high",
+        "answer": "masks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENT MOVIES",
+        "value": 1200,
+        "question": "A string instrument with a secret:\"The Red _____\"",
+        "answer": "Violin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "A SCHOOL OF DAUPHINS",
+        "value": 1200,
+        "question": "In 1770 Marie Antoinette married the Dauphin who would become this king of France 4 years later",
+        "answer": "Louis XVI",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GEEK SPEAK",
+        "value": 1200,
+        "question": "To fight martian demons, the 3rd version of this Id Software game includes a pistol, shotgun, machine gun & chain gun",
+        "answer": "Doom",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LOCKE",
+        "value": 1200,
+        "question": "In his \"Two Treatises of Government\", Locke argued vigorously against this \"right\" of kings",
+        "answer": "the Divine Right",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"KEY\"",
+        "value": 1200,
+        "question": "Something through which a nosy person might peek, there's a nebula named for it",
+        "answer": "a keyhole",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 1600,
+        "question": "\"Moor\" can refer to the Muslims who conquered Spain or to people from this country whose capital is Nouakchott",
+        "answer": "Mauritania",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENT MOVIES",
+        "value": 1600,
+        "question": "Joan Crawford vs. Mercedes McCambridge (Stand back!):\"Johnny _____\"",
+        "answer": "Guitar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "A SCHOOL OF DAUPHINS",
+        "value": 1600,
+        "question": "Some relatives of this \"Birds of America\" naturalist claimed he was the Lost Dauphin of France",
+        "answer": "Audubon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GEEK SPEAK",
+        "value": 1600,
+        "question": "Make films like the Coen Brothers' \"No Country for Old Men\" using this Apple film-editing software",
+        "answer": "Final Cut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LOCKE",
+        "value": 1600,
+        "question": "Locke was a major philosophic leader in the \"Age of\" this",
+        "answer": "Reason (or Enlightenment)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"KEY\"",
+        "value": 1600,
+        "question": "This scientist is seen here with one of his important discoveries",
+        "answer": "(Louis) Leakey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 2000,
+        "question": "Around age 15, boys in this largest tribe in Kenya begin warrior training; at 30, they reach the rank of Elder",
+        "answer": "the Maasai",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL INSTRUMENT MOVIES",
+        "value": 2000,
+        "question": "Bix Biederbecke's bio:\"Young Man With A ____\"",
+        "answer": "Horn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "A SCHOOL OF DAUPHINS",
+        "value": 2000,
+        "question": "In the 15th Century, Joan of Arc fought to restore this Dauphin of France to the throne",
+        "answer": "Charles VII",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GEEK SPEAK",
+        "value": 2000,
+        "question": "This 4-letter type of new electronic output offers the best quality uncompressed digital video & audio",
+        "answer": "HDMI",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LOCKE",
+        "value": 2000,
+        "question": "In his \"Essay Concerning Human Understanding\", Locke described the mind at birth as a clean slate, this in Latin",
+        "answer": "Tabula Rasa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"KEY\"",
+        "value": 2000,
+        "question": "Early machine for computer inputting, such as the IBM 29",
+        "answer": "a keypunch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FOOD & DRINK",
+    "clue": "In 2001 a 5,861-gallon version of this drink was served up at a Jimmy Buffett-owned place in Orlando",
+    "answer": "a margarita"
+  },
+  "gameId": "5420",
+  "gameDate": "Friday, March 14, 2008"
+}

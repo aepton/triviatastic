@@ -1,0 +1,574 @@
+{
+  "title": "Show #2861 - Monday, January 27, 1997",
+  "jeopardyRound": {
+    "categories": [
+      "BIRDS",
+      "SAINTS",
+      "WORLD CAPITALS",
+      "U.S. MUSEUMS",
+      "GOOD THINKING",
+      "TV THEME SONGS"
+    ],
+    "clues": [
+      {
+        "category": "BIRDS",
+        "value": 100,
+        "question": "Not only do these birds hover, they're the only ones capable of flying backwards",
+        "answer": "hummingbirds",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 100,
+        "question": "Saint Adalbert, the \"Apostle of the Prussians\", became bishop of this Czech capital in 982",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 100,
+        "question": "This Swiss capital is the headquarters for the International Copyright Union",
+        "answer": "Bern",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 100,
+        "question": "The National Air & Space Museum in Washington is the largest museum of this institution",
+        "answer": "Smithsonian Institution",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GOOD THINKING",
+        "value": 100,
+        "question": "With little wind resistance, these domes housed the radar equipment along the DEW line",
+        "answer": "Geodesic Domes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 100,
+        "question": "\"Come'n listen to my story 'bout a man named Jed\"",
+        "answer": "The Beverly Hillbillies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BIRDS",
+        "value": 200,
+        "question": "This tallest Australian bird stands 5 to 6 feet high",
+        "answer": "an emu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 200,
+        "question": "This archangel is the patron saint of messengers",
+        "answer": "Gabriel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 200,
+        "question": "The name of this capital of Bosnia & Herzegovina is from the Turkish for \"palace\"",
+        "answer": "Sarajevo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 200,
+        "question": "A southwestern Pennsylvania museum is devoted entirely to this 1889 disaster",
+        "answer": "the Johnstown Flood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GOOD THINKING",
+        "value": 200,
+        "question": "Sales were slow for cellophane Scotch Tape until John Borden invented one of these for the roll",
+        "answer": "a dispenser",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 200,
+        "question": "\"Making your way in the world today takes everything you've got\"",
+        "answer": "Cheers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIRDS",
+        "value": 300,
+        "question": "The young of this \"wandering\" seabird have brown plumage which becomes white as they grow",
+        "answer": "an albatross",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 300,
+        "question": "Saint Victor I replaced this language with Latin as the official language of the church",
+        "answer": "Greek",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 300,
+        "question": "The street that runs along this city's western dike is known as Nieuwendijk, or New Dike",
+        "answer": "Amsterdam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 300,
+        "question": "This Chicago museum houses more than 19 million artifacts & specimens",
+        "answer": "the Field Museum of Natural History",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GOOD THINKING",
+        "value": 300,
+        "question": "After his 3-year-old was impatient to see the photo he'd taken, he set out to invent an \"instant\" camera",
+        "answer": "Edwin Land",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 300,
+        "question": "\"Just sit right back and you'll hear a tale\"",
+        "answer": "Gilligan's Island",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIRDS",
+        "value": 400,
+        "question": "In some parts of the U.S. the \"ruffed\" species of this bird is referred to as a pheasant or partridge",
+        "answer": "grouse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 400,
+        "question": "Legend says Saint Sylvester I cured this first Christian Roman emperor of leprosy",
+        "answer": "Constantine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 400,
+        "question": "During the Roman & Byzantine Empires, this Jordanian capital was known as Philadelphia",
+        "answer": "Amman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 400,
+        "question": "Paducah in this state is home to the Museum of American Quilters",
+        "answer": "Kentucky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GOOD THINKING",
+        "value": 400,
+        "question": "In 1892 Henry Perky invented a machine to shred this grain & form it into little pillow-shaped biscuits",
+        "answer": "wheat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 400,
+        "question": "\"Boy the way Glenn Miller played songs that made The Hit Parade\"",
+        "answer": "All in the Family",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIRDS",
+        "value": 500,
+        "question": "Nutcrackers & magpies belong to this bird family",
+        "answer": "crow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SAINTS",
+        "value": 500,
+        "question": "She immigrated to New York from Italy in 1889 & in 1946 was the first U.S. citizen canonized",
+        "answer": "Mother Cabrini",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 500,
+        "question": "It's located on Liberia's Bushrod Island & Cape Mesurado",
+        "answer": "Monrovia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S. MUSEUMS",
+        "value": 1000,
+        "question": "Wesley Peters, Frank Lloyd Wright's son-in-law, designed a 4-story annex to this NYC art museum",
+        "answer": "the Guggenheim",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GOOD THINKING",
+        "value": 500,
+        "question": "In 1949 he created a machine to shave an ice rink, scoop up debris & spread fresh water",
+        "answer": "Frank Zamboni",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TV THEME SONGS",
+        "value": 500,
+        "question": "\"Meet Cathy who's lived most everywhere, from Zanzibar to Berkeley Square\"",
+        "answer": "The Patty Duke Show",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WEST VIRGINIANS",
+      "MOVIE DEBUTS",
+      "19th CENTURY AMERICA",
+      "ASTRONOMY",
+      "FOOD & DRINK",
+      "BRITISH AUTHORS"
+    ],
+    "clues": [
+      {
+        "category": "WEST VIRGINIANS",
+        "value": 200,
+        "question": "Arthur I. Boreman was the first to hold this office after West Virginia's admission to the Union",
+        "answer": "governor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 200,
+        "question": "He was 21 when he debuted as Jean Simmons' boyfriend in \"The Actress\"; 7 years later, he went \"Psycho\"",
+        "answer": "Anthony Perkins",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 200,
+        "question": "This island in New York Harbor began operating as an immigration station January 1, 1892",
+        "answer": "Ellis Island",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 200,
+        "question": "A seismometer aboard the Viking 2 lander failed to detect any quakes on this red planet",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "The \"Olympia\" variety of this seafood is a favorite for eating on the half shell",
+        "answer": "a oyster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 200,
+        "question": "She introduced Hercule Poirot in her very first novel, \"The Mysterious Affair At Styles\"",
+        "answer": "Agatha Christie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WEST VIRGINIANS",
+        "value": 400,
+        "question": "This first person to fly faster than the speed of sound was a fighter ace during WWII",
+        "answer": "Chuck Yeager",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 400,
+        "question": "His burning desire to act led to his debut in \"The Burning\" in 1981, 9 years before he played George Costanza",
+        "answer": "Jason Alexander",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 400,
+        "question": "In 1856 John C. Fremont became this political party's first presidential nominee",
+        "answer": "Republican",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 400,
+        "question": "The total mass of these minor planets in the solar system is less than that of our moon",
+        "answer": "asteroids",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "The Maui & Vidalia are 2 of the sweeter varieties of this vegetable",
+        "answer": "onions",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 400,
+        "question": "This \"Lord of the Flies\" author was awarded a Nobel Prize in 1983",
+        "answer": "William Golding",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WEST VIRGINIANS",
+        "value": 600,
+        "question": "Jerry West played in 932 regular-season NBA games, all for this team",
+        "answer": "the Los Angeles Lakers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 600,
+        "question": "Meg Tilly made her screen debut in a bit role in this film about NYC's High School for the Performing Arts",
+        "answer": "Fame",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 600,
+        "question": "By 1857 he was producing 10,000 steel plows per year",
+        "answer": "John Deere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 1200,
+        "question": "In 1610 he published his discovery of 4 moons of Jupiter in \"The Starry Messenger\"",
+        "answer": "Galileo",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 600,
+        "question": "This \"steak\" is basically a seasoned hamburger without the bun & sometimes served with gravy",
+        "answer": "Salisbury Steak",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 600,
+        "question": "In 1990 this \"Satanic Verses\" author published the children's book \"Haroun & the Sea of Stories\"",
+        "answer": "Salman Rushdie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WEST VIRGINIANS",
+        "value": 800,
+        "question": "Labor leaders from the state include UMW head Arnold Miller & Walter Reuther, who headed this group",
+        "answer": "the UAW (United Auto Workers)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 800,
+        "question": "This \"Indochine\" actress was just 13 when she made her film debut in 1956 in \"Les Collegiennes\"",
+        "answer": "Catherine Deneuve",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 800,
+        "question": "The Black Hawk War of 1832 was an attempt by the Fox & this Indian tribe to regain land in Illinois",
+        "answer": "Sauk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 800,
+        "question": "In 1572 this Danish astronomer discovered a supernova in the constellation Cassiopeia",
+        "answer": "Tycho Brahe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 800,
+        "question": "This Mexican dish made with seafood, chilies & tomatoes is marinated in lime juice rather than cooked",
+        "answer": "ceviche",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 800,
+        "question": "This \"A Passage to India\" author co-wrote the libretto for Benjamin Britten's opera \"Billy Budd\"",
+        "answer": "E.M. Forster",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WEST VIRGINIANS",
+        "value": 1000,
+        "question": "This Carter Secretary of State had been deputy chief delegate to the Vietnam peace talks",
+        "answer": "Cyrus Vance",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE DEBUTS",
+        "value": 1000,
+        "question": "He bounced onto the big screen in \"The Big Bounce\" in 1969, the year his TV series \"Peyton Place\" ended",
+        "answer": "Ryan O'Neal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1000,
+        "question": "This religion that promotes a universal faith was introduced to the U.S. from Persia around 1893",
+        "answer": "the Bahá'í Faith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ASTRONOMY",
+        "value": 1000,
+        "question": "Famous ones of these include the Perseids in August & the Leonids in November",
+        "answer": "meteor showers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 1000,
+        "question": "Goldschlager, a spicy schnapps of this flavor, contains flakes of 24 karat gold leaf",
+        "answer": "cinnamon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BRITISH AUTHORS",
+        "value": 2000,
+        "question": "She was famous for her mystery novels featuring Lord Peter Wimsey",
+        "answer": "Dorothy Sayers",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "POLITICIANS",
+    "clue": "His rise began when he upset Robert M. La Follette, Jr. in a 1946 Senate primary",
+    "answer": "Joseph McCarthy"
+  },
+  "gameId": "2861",
+  "gameDate": "Monday, January 27, 1997"
+}

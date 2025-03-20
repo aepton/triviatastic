@@ -1,0 +1,574 @@
+{
+  "title": "Show #4565 - Friday, June 11, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "'60s POTPOURRI",
+      "COLLEGE BASKETBALL",
+      "FOR THE KID IN YOU",
+      "MEDICAL ABBREV.",
+      "CULINARY QUOTES",
+      "\"TOUCH\" ME"
+    ],
+    "clues": [
+      {
+        "category": "'60s POTPOURRI",
+        "value": 200,
+        "question": "This \"Funny Girl\" was just 19 when she made her Broadway debut in \"I Can Get It for You Wholesale\" in 1962",
+        "answer": "Streisand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE BASKETBALL",
+        "value": 200,
+        "question": "(Hi, I'm James Worthy.)  In 1982 I led this school, the Tar Heels, to the NCAA title & was named MVP of the Final Four",
+        "answer": "the University of North Carolina",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOR THE KID IN YOU",
+        "value": 200,
+        "question": "At Six Flags Over Texas, you must be 3'6\" to ride in these, 4'6\" to drive one",
+        "answer": "the bumper cars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL ABBREV.",
+        "value": 200,
+        "question": "It occurs during sleep:REM",
+        "answer": "rapid eye movement",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CULINARY QUOTES",
+        "value": 200,
+        "question": "Fran Lebowitz jokingly said, \"My favorite animal is\" this, but she didn't specify Porterhouse or T-bone",
+        "answer": "steak",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"TOUCH\" ME",
+        "value": 200,
+        "question": "A landing made by an aircraft or a space vehicle",
+        "answer": "a touchdown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "'60s POTPOURRI",
+        "value": 400,
+        "question": "Sleep-eze mogul (& movie fan) Allen Parkinson founded this state's Movieland Wax Museum in 1962",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE BASKETBALL",
+        "value": 400,
+        "question": "The dames from this Indiana university won the women's NCAA basketball title in 2001",
+        "answer": "Notre Dame",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOR THE KID IN YOU",
+        "value": 400,
+        "question": "The laser type of this game was inspired by \"Star Wars\" & popularized in the 1980s",
+        "answer": "(laser) tag",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL ABBREV.",
+        "value": 400,
+        "question": "Pertaining to childbirth:L&D",
+        "answer": "labor & delivery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CULINARY QUOTES",
+        "value": 400,
+        "question": "This breakfast goody has been described as \"an unsweetened doughnut with rigor mortis\"",
+        "answer": "a bagel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"TOUCH\" ME",
+        "value": 400,
+        "question": "Eliot Ness' team of lawmen",
+        "answer": "the Untouchables",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "'60s POTPOURRI",
+        "value": 600,
+        "question": "In 1969 this Surrealist created the logo for Chupa Chups, a Spanish brand of lollipops",
+        "answer": "Dalí",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE BASKETBALL",
+        "value": 600,
+        "question": "(Hi, I'm Sue Bird.)  Before joining the WNBA, I led this university's Huskies to the NCAA championships in 2000 & 2002",
+        "answer": "the University of Connecticut (UConn)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOR THE KID IN YOU",
+        "value": 600,
+        "question": "Nabisco says that consumers chose the koala as the newest member of this menagerie",
+        "answer": "animal crackers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL ABBREV.",
+        "value": 600,
+        "question": "Referring to the stomach & part of the digestive tract:GI",
+        "answer": "gastrointestinal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CULINARY QUOTES",
+        "value": 600,
+        "question": "Mark Twain said that cauliflower \"is nothing but\" this vegetable \"with a college education\"",
+        "answer": "cabbage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"TOUCH\" ME",
+        "value": 600,
+        "question": "Named for a Phrygian king, someone has this if he's got the ability to make lots of money with little effort",
+        "answer": "the Midas touch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "'60s POTPOURRI",
+        "value": 800,
+        "question": "(Cheryl of the Clue Crew walks through a TV room times three at Graceland in Memphis, TN.)  Elvis probably got the idea to put 3 TVs in a row from this president, who was famous for watching 3 news shows at once",
+        "answer": "Johnson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE BASKETBALL",
+        "value": 800,
+        "question": "Later a coach, she was the first basketball player at USC to have a jersey number retired",
+        "answer": "Cheryl Miller",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOR THE KID IN YOU",
+        "value": 800,
+        "question": "A party here, \"Where a kid can be a kid\", goes:playtime--pizza--performance--cake--open gifts--90 minutes are up",
+        "answer": "Chuck E. Cheese's",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL ABBREV.",
+        "value": 800,
+        "question": "Cardiac operation:OHS",
+        "answer": "open heart surgery",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CULINARY QUOTES",
+        "value": 800,
+        "question": "Woody Allen says he won't eat this shellfish because \"I want my food dead. Not sick, not wounded, dead\"",
+        "answer": "oysters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"TOUCH\" ME",
+        "value": 800,
+        "question": "The ability to appeal to the interests & sensibilities of the ordinary person",
+        "answer": "the common touch (or the human touch)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "'60s POTPOURRI",
+        "value": 1000,
+        "question": "Claude Brown called his autobiographical 1965 novel about growing up in Harlem \"Manchild in\" this place",
+        "answer": "The Promised Land",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COLLEGE BASKETBALL",
+        "value": 1000,
+        "question": "(I'm Jalen Rose of the NBA.)  I was part of this school's \"Fab Five\" that played in 2 NCAA finals in the '90s",
+        "answer": "the University of Michigan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOR THE KID IN YOU",
+        "value": 1000,
+        "question": "In stories by Laura Lee Hope, it's the last name of twins Bert & Nan &Freddie & Flossie",
+        "answer": "Bobbsey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL ABBREV.",
+        "value": 1000,
+        "question": "A component of the blood:Hb",
+        "answer": "hemoglobin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CULINARY QUOTES",
+        "value": 1000,
+        "question": "Thackeray's \"Ballad of\" this dish calls it \"A sort of soup or broth... or hotchpotch of all sorts of fishes\"",
+        "answer": "bouillabaisse",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"TOUCH\" ME",
+        "value": 1000,
+        "question": "An Orson Welles thriller",
+        "answer": "Touch of Evil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AFRICAN-AMERICAN PLAYWRIGHTS",
+      "LEADING MEN",
+      "SEATTLE'S SISTER CITIES",
+      "PUMP AND CIRCUMSTANCE",
+      "ART \"C\"",
+      "FIX THE SIMILE"
+    ],
+    "clues": [
+      {
+        "category": "AFRICAN-AMERICAN PLAYWRIGHTS",
+        "value": 400,
+        "question": "Playwright Langston Hughes formed the Suitcase Theater in Harlem & the New Negro Theater in this Calif. city",
+        "answer": "L.A. (Los Angeles)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LEADING MEN",
+        "value": 400,
+        "question": "The A&E \"Biography\" show on the man seen here includes his stint as mayor of this city",
+        "answer": "Carmel-by-the-Sea, California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE'S SISTER CITIES",
+        "value": 400,
+        "question": "In 1987 Seattle gave a sea otter to its oldest sister city, Kobe in this country",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PUMP AND CIRCUMSTANCE",
+        "value": 400,
+        "question": "Ride over a nail & you might need Schwinn's Airdriver, one of these",
+        "answer": "a tire pump",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ART \"C\"",
+        "value": 400,
+        "question": "This printer & lithographer joined forces with James Ives in the 1850s",
+        "answer": "Currier",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FIX THE SIMILE",
+        "value": 400,
+        "question": "Pit as a piddle",
+        "answer": "fit as a fiddle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AFRICAN-AMERICAN PLAYWRIGHTS",
+        "value": 800,
+        "question": "With its strong political message, Amiri Baraka's play \"Dutchman\" won one of these off-Broadway awards in 1964",
+        "answer": "an OBIE",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LEADING MEN",
+        "value": 800,
+        "question": "He plays Inman, who struggles to get home to Cold Mountain",
+        "answer": "Jude Law",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE'S SISTER CITIES",
+        "value": 800,
+        "question": "With Seattle's coffee & this from sister city Perugia, Italy, they can make mocha",
+        "answer": "chocolate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PUMP AND CIRCUMSTANCE",
+        "value": 800,
+        "question": "If you're lucky & this is gushing in your back yard, call for one of Lufkin Industries' pumping units",
+        "answer": "oil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ART \"C\"",
+        "value": 800,
+        "question": "Some consider the painting seen here to be the first in this modern style",
+        "answer": "Cubism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FIX THE SIMILE",
+        "value": 800,
+        "question": "Call as a cree",
+        "answer": "tall as a tree",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AFRICAN-AMERICAN PLAYWRIGHTS",
+        "value": 1200,
+        "question": "This play about a family moving to the suburbs was the first Broadway play written & directed by African Americans",
+        "answer": "A Raisin in the Sun",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LEADING MEN",
+        "value": 1200,
+        "question": "The first syllable of his last name rhymes with \"mood\", not \"mud\"",
+        "answer": "Billy Crudup",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE'S SISTER CITIES",
+        "value": 1200,
+        "question": "Seattle can flaunt the fact, or maybe flute the fact, it's a sister to this Irish city",
+        "answer": "Galway",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PUMP AND CIRCUMSTANCE",
+        "value": 1200,
+        "question": "Light bulb makers use a special pump to create this inside the bulb",
+        "answer": "a vacuum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ART \"C\"",
+        "value": 1200,
+        "question": "Degas portrayed this American woman & fellow Impressionist in several of his works",
+        "answer": "Mary Cassatt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FIX THE SIMILE",
+        "value": 1200,
+        "question": "Lad as a larch hare",
+        "answer": "mad as a March hare",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AFRICAN-AMERICAN PLAYWRIGHTS",
+        "value": 1600,
+        "question": "James Baldwin loosely based his play \"Blues for Mister Charlie\" on the '55 murder of Emmitt Till in this southern state",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LEADING MEN",
+        "value": 1600,
+        "question": "This romantic actor appeared in \"Marriage Italian Style\", \"Divorce Italian Style\" & \"Ghosts Italian Style\"",
+        "answer": "Marcello Mastroianni",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE'S SISTER CITIES",
+        "value": 1600,
+        "question": "This Norwegian sister city should be a favorite of Murphy Brown",
+        "answer": "Bergen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PUMP AND CIRCUMSTANCE",
+        "value": 1600,
+        "question": "To lift water, try this basic type of pump, a cylinder with a piston inside",
+        "answer": "a suction [or reciprocating] pump",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ART \"C\"",
+        "value": 1600,
+        "question": "This 19th century British landscape artist painted \"Cloud Studies\" & \"The Haywain\"",
+        "answer": "John Constable",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FIX THE SIMILE",
+        "value": 1600,
+        "question": "Rod as a boot",
+        "answer": "red as a beet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AFRICAN-AMERICAN PLAYWRIGHTS",
+        "value": 2000,
+        "question": "This playwright of \"Fences\" & \"Ma Rainey's Black Bottom\" founded Pittsburgh's Black Horizon Theatre Company",
+        "answer": "August Wilson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LEADING MEN",
+        "value": 2000,
+        "question": "Seen here near the end of his career, his last name is a synonym for \"strength\"\"I want only the strong, who can row 1500 miles to Africa and walk ashore alive!\"",
+        "answer": "Tyrone Power",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE'S SISTER CITIES",
+        "value": 2000,
+        "question": "A port city, Seattle is a sister to this port city of Kenya",
+        "answer": "Mombasa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PUMP AND CIRCUMSTANCE",
+        "value": 2000,
+        "question": "It's a pit or well where water collects; the pump named for it gets the water out",
+        "answer": "a sump",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ART \"C\"",
+        "value": 2000,
+        "question": "This Italian term meaning the balance of light & shade is often used of Rembrandt's paintings",
+        "answer": "chiaroscuro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FIX THE SIMILE",
+        "value": 2000,
+        "question": "Gold as grass",
+        "answer": "bold as brass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "UNITED NATIONS HISTORY",
+    "clue": "In 1960 this new national leader made the longest speech in United Nations history, 4 hours & 29 minutes",
+    "answer": "Fidel Castro"
+  },
+  "gameId": "4565",
+  "gameDate": "Friday, June 11, 2004"
+}

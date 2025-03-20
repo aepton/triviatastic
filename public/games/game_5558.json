@@ -1,0 +1,538 @@
+{
+  "title": "Show #7488 - Wednesday, March 15, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "PRO TEAMS ARE FOR THE BIRDS",
+      "BASIC GEOGRAPHY",
+      "THICK AS A BRICK",
+      "WE'VE GOT COMPANY",
+      "WALK, THIS WAY",
+      "\"B\"OOK REPLACEMENTS"
+    ],
+    "clues": [
+      {
+        "category": "PRO TEAMS ARE FOR THE BIRDS",
+        "value": 200,
+        "question": "This city is bird-brained, boasting the Falcons & the Hawks (the Thrashers flew off to Winnipeg)",
+        "answer": "Atlanta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BASIC GEOGRAPHY",
+        "value": 200,
+        "question": "This northeast African river flows for more than 4,100 miles",
+        "answer": "the Nile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THICK AS A BRICK",
+        "value": 200,
+        "question": "Spanish for \"brick\", it's sun-dried brick made of clay & straw but you don't have to update that today",
+        "answer": "adobe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WE'VE GOT COMPANY",
+        "value": 200,
+        "question": "Today the official supplier of tires to NASCAR, this company was founded in Ohio in 1898",
+        "answer": "Goodyear",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WALK, THIS WAY",
+        "value": 200,
+        "question": "To trudge; Charlie Chaplin was \"The Little\" one",
+        "answer": "tramp",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PRO TEAMS ARE FOR THE BIRDS",
+        "value": 400,
+        "question": "Jose Bautista went north to become Joey Bats, author of an iconic 2016 bat flip for this team",
+        "answer": "the Toronto Blue Jays",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BASIC GEOGRAPHY",
+        "value": 400,
+        "question": "From here in southern California, do you know the way to this Central American capital city? We'll show you",
+        "answer": "San Jose",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THICK AS A BRICK",
+        "value": 400,
+        "question": "This 3-word phrase is often used to differentiate physical stores from online-only businesses",
+        "answer": "brick and mortar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WE'VE GOT COMPANY",
+        "value": 400,
+        "question": "In 1980 69-year-old IBM had this 5-year-old software company create the operating system to run its PCs",
+        "answer": "Microsoft",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WALK, THIS WAY",
+        "value": 400,
+        "question": "Go away-- that's right, take a this, which can be done to prices or to your shorts",
+        "answer": "a hike",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PRO TEAMS ARE FOR THE BIRDS",
+        "value": 600,
+        "question": "Go, Pinocchios! Nope...yay, Bambis! No...as far as we can tell, it's the only NHL team that got its name from a Disney film",
+        "answer": "the (Anaheim) Ducks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BASIC GEOGRAPHY",
+        "value": 600,
+        "question": "It's the capital of Montana; also, it's illegal to annoy passersby on sidewalks with a revolving water sprinkler there",
+        "answer": "Helena",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THICK AS A BRICK",
+        "value": 600,
+        "question": "As Dorothy & her friends walked this byway, it \"began to be rough\" & some of the items it was named for were missing",
+        "answer": "the Yellow Brick Road",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WE'VE GOT COMPANY",
+        "value": 600,
+        "question": "Reese's & Kit Kat are brand names owned by this company",
+        "answer": "Hershey",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WALK, THIS WAY",
+        "value": 600,
+        "question": "\"Ain't nothin' gonna break my\" this, long steps walked with vitality, \"Nobody gonna slow me down,  oh no\"",
+        "answer": "stride",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"B\"OOK REPLACEMENTS",
+        "value": 600,
+        "question": "\"B is for Grafton\"",
+        "answer": "B is for Burglar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRO TEAMS ARE FOR THE BIRDS",
+        "value": 800,
+        "question": "In 2005 Larry Fitzgerald caught 103 passes, including 10 TDs, for this team",
+        "answer": "the Arizona Cardinals",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BASIC GEOGRAPHY",
+        "value": 800,
+        "question": "You may get lightheaded in Gar, a town about 15,000 feet above sea level, in this autonomous region of China",
+        "answer": "Tibet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WE'VE GOT COMPANY",
+        "value": 800,
+        "question": "Les Paul designed the solid-body guitar this company introduced in 1952",
+        "answer": "Gibson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WALK, THIS WAY",
+        "value": 800,
+        "question": "These 2 walking words rhyme; the first also means to talk aimlessly & the second, to stroll or saunter",
+        "answer": "ramble and amble",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"B\"OOK REPLACEMENTS",
+        "value": 800,
+        "question": "\"The Red and the Stendhal\"",
+        "answer": "The Red and the Black",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRO TEAMS ARE FOR THE BIRDS",
+        "value": 1000,
+        "question": "Until 2010 this Metropolitan Division team played its NHL home games in an arena known as the Igloo",
+        "answer": "the Pittsburgh Penguins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BASIC GEOGRAPHY",
+        "value": 1000,
+        "question": "Canada's easternmost province is Newfoundland & this",
+        "answer": "Labrador",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THICK AS A BRICK",
+        "value": 1000,
+        "question": "Suetonius wrote that this emperor said he \"found Rome a city of bricks and left it a city of marble\"",
+        "answer": "Augustus Caesar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WE'VE GOT COMPANY",
+        "value": 1000,
+        "question": "This companySTOPsent its last telegramSTOPon Jan. 27, 2006FULL STOP",
+        "answer": "Western Union",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WALK, THIS WAY",
+        "value": 1000,
+        "question": "Now do this move with your square dance partner, do-si-do, like guests into a ballroom for a formal event",
+        "answer": "promenade",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"B\"OOK REPLACEMENTS",
+        "value": 1000,
+        "question": "\"A Naipaul in the River\"",
+        "answer": "Bend in the River",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ART",
+      "THE 1940s",
+      "MOVIE TITLE PLACES",
+      "\"P\" SOUP",
+      "SHE BLINDED ME",
+      "WITH SCIENCE"
+    ],
+    "clues": [
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "She was already a centenarian in 1961 when she painted \"Making Horseshoes\", seen here",
+        "answer": "Grandma Moses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE 1940s",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew shows a map on the monitor.) In 1948, Harry Truman began his 30,000-mile whistle-stop tour on a train called the \"Ferdinand Magellan\" and was aboard in St. Louis when the famous photo of the president holding up a paper saying this man \"Defeats Truman\" was snapped",
+        "answer": "(Thomas) Dewey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MOVIE TITLE PLACES",
+        "value": 400,
+        "question": "Catherine Zeta-Jones sang \"I Can't Do It Alone\" in this 2002 musical",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"P\" SOUP",
+        "value": 400,
+        "question": "It's from the Greek for \"falsely named\"",
+        "answer": "pseudonym",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHE BLINDED ME",
+        "value": 400,
+        "question": "In Judges 16 she sets the Philistines on the shorn Samson; they blind him",
+        "answer": "Delilah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WITH SCIENCE",
+        "value": 400,
+        "question": "From the Latin for \"sun stoppage\" comes this type of event that happens twice a year",
+        "answer": "a solstice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "\"Der Schrei der Natur\" was the original German title that Edvard Munch gave to this painting",
+        "answer": "The Scream",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE 1940s",
+        "value": 800,
+        "question": "On July 4, 1946 the U.S. granted independence to this Asian country we had controlled since 1898",
+        "answer": "the Philippines",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MOVIE TITLE PLACES",
+        "value": 800,
+        "question": "Here are a few stars of this 2001 WWII flick: Ben Affleck, Kate Beckinsale & Jennifer Garner",
+        "answer": "Pearl Harbor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"P\" SOUP",
+        "value": 800,
+        "question": "Bone china is one type of this material",
+        "answer": "porcelain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHE BLINDED ME",
+        "value": 800,
+        "question": "It's Marge's fault she goes blind on a \"Simpsons\" episode, as she looked at one of these without a viewer",
+        "answer": "an eclipse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WITH SCIENCE",
+        "value": 800,
+        "question": "Molecular motion doesn't stop at zero Kelvin, AKA this temperature; quantum mechanical motion remains",
+        "answer": "absolute zero",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ART",
+        "value": 1200,
+        "question": "Art imitates life in Andy Warhol's boxes of this brand of steel wool pads",
+        "answer": "Brillo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE 1940s",
+        "value": 1200,
+        "question": "This Shakespeare-sourced Cole Porter classic won the Tony Award for Best Musical in 1949",
+        "answer": "Kiss Me, Kate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MOVIE TITLE PLACES",
+        "value": 1200,
+        "question": "The title establishment of this Wes Anderson film isn't in Hungary but in the fictional Zubrowka",
+        "answer": "Grand Budapest Hotel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"P\" SOUP",
+        "value": 1200,
+        "question": "Willie Stargell for 21 seasons, or any freebooter",
+        "answer": "a Pirate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHE BLINDED ME",
+        "value": 1200,
+        "question": "Alison, played by Courtney Thorne-Smith, went blind at this TV title residence after Kimberly tried to blow it up",
+        "answer": "Melrose Place",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WITH SCIENCE",
+        "value": 1200,
+        "question": "These \"tides\" form the building blocks of RNA & have nothing to do with the rise & fall of the ocean",
+        "answer": "nucleotides",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ART",
+        "value": 1600,
+        "question": "The name of this nihilistic art style of Marcel Duchamp was picked at random from a French-German dictionary",
+        "answer": "Dadaism",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE 1940s",
+        "value": 1600,
+        "question": "U.S. Army general Lucius D. Clay directed the 1948-49 airlift to resupply this blockaded city",
+        "answer": "Berlin",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MOVIE TITLE PLACES",
+        "value": 1600,
+        "question": "Snake Plissken hits the Big Apple --& by that I mean he really beats the bejeezus out of it--in this 1981 action pic",
+        "answer": "Escape from New York",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"P\" SOUP",
+        "value": 1600,
+        "question": "Life is hell for this unwilling mythological miss, at least for a portion of every year",
+        "answer": "Persephone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHE BLINDED ME",
+        "value": 1600,
+        "question": "After her husband gouges out Gloucester's eye in this play, Regan says to do the other one too, for balance",
+        "answer": "King Lear",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WITH SCIENCE",
+        "value": 1600,
+        "question": "(Neil deGrasse Tyson presents the clue.) We astrophysicists talk of the CMB, or \"cosmic\" this \"background\", referencing the nearly 14-billion-year-old-phtons that have cooled to their current wavelength",
+        "answer": "microwave",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 2000,
+        "question": "In 1949 this U.N. diplomat & future Nobel Peace Prize winner was awarded the NAACP's Spingarn Medal",
+        "answer": "Ralph Bunche",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MOVIE TITLE PLACES",
+        "value": 2000,
+        "question": "Benicio Del Toro played Dr. Gonzo & Tobey Maguire a hitchhiker in this 1998 film based on a Hunter S. Thompson book",
+        "answer": "Fear and Loathing in Las Vegas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"P\" SOUP",
+        "value": 2000,
+        "question": "A group that met in the Kremlin, it can still mean a high decision-making body even post-USSR",
+        "answer": "the Politburo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHE BLINDED ME",
+        "value": 2000,
+        "question": "In \"Eyes of the Gorgon\", Wonder Woman blinds herself to defeat the deadly gaze of this mythic she-creature",
+        "answer": "Medusa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WITH SCIENCE",
+        "value": 2000,
+        "question": "The 15 metallic elements at the bottom of the periodic table are \"L\"abeled these",
+        "answer": "the lanthanides",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD AIRPORTS",
+    "clue": "This city's international airport is named for Antonio Carlos Jobim, who co-wrote a 1964 hit song",
+    "answer": "Rio de Janeiro"
+  },
+  "gameId": "7488",
+  "gameDate": "Wednesday, March 15, 2017"
+}

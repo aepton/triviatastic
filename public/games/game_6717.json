@@ -1,0 +1,574 @@
+{
+  "title": "Show #2008 - Wednesday, May 5, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "THE PENGUIN",
+      "JOKERS",
+      "\"HOLY\"",
+      "COTTON",
+      "UNDERWEAR",
+      "BATMAN"
+    ],
+    "clues": [
+      {
+        "category": "THE PENGUIN",
+        "value": 100,
+        "question": "Expert swimmers, penguins use these parts of their bodies as paddles or flippers",
+        "answer": "their wings",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "JOKERS",
+        "value": 100,
+        "question": "On May 16 1992 she again joined Robin Williams & Billy Crystal to host Comic Relief",
+        "answer": "Whoopi Goldberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"HOLY\"",
+        "value": 100,
+        "question": "\"Moo\"ving expression for \"wow!\"",
+        "answer": "Holy cow!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COTTON",
+        "value": 100,
+        "question": "Corn is measured in bushels; cotton is measured in these",
+        "answer": "bales",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "UNDERWEAR",
+        "value": 100,
+        "question": "During the 1992 L.A. riots, this rock star's bustier was stolen from Frederick's of Hollywood",
+        "answer": "Madonna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BATMAN",
+        "value": 100,
+        "question": "While Superman calls Metropolis home, Batman has this city",
+        "answer": "Gotham City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE PENGUIN",
+        "value": 200,
+        "question": "This \"royal\" species is the largest penguin; the King penguin is second largest",
+        "answer": "the Emperor penguin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JOKERS",
+        "value": 200,
+        "question": "He claims he gets mail that says \"You may already be a loser\"; now that's getting no respect",
+        "answer": "Rodney Dangerfield",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"HOLY\"",
+        "value": 200,
+        "question": "A badly behaved child is described as one of these",
+        "answer": "a holy terror",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COTTON",
+        "value": 200,
+        "question": "This oil is used in making margarine, soap & paint",
+        "answer": "cottonseed oil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "UNDERWEAR",
+        "value": 200,
+        "question": "This Funky Bunch leader helped popularize the boxer short waistband sticking over the top of the pants look",
+        "answer": "Marky Mark",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BATMAN",
+        "value": 200,
+        "question": "On the TV series, this batvehicle had several different batlicense plates, including BAT-1",
+        "answer": "the Batmobile",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE PENGUIN",
+        "value": 300,
+        "question": "The Fiordland penguin is confined mostly to this kiwi country's South Island",
+        "answer": "New Zealand",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JOKERS",
+        "value": 300,
+        "question": "He tooled his standup act into a  prime time series, \"Home Improvement\"",
+        "answer": "Tim Allen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"HOLY\"",
+        "value": 300,
+        "question": "Member of the Trinity responsible for speaking in tongues",
+        "answer": "the Holy Ghost",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COTTON",
+        "value": 600,
+        "question": "A cotton thread was used for this part of the first practical incandescent light",
+        "answer": "the filament",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "UNDERWEAR",
+        "value": 300,
+        "question": "This Romanian gymnast has received a lot of attention with her \"Jockey For Her\" ads",
+        "answer": "Nadia Comaneci",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BATMAN",
+        "value": 300,
+        "question": "Tim Drake, the 3rd person to be this partner of Batman lives with his father next door to Wayne Manor",
+        "answer": "Robin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE PENGUIN",
+        "value": 400,
+        "question": "The world's rarest penguin is named for & confined to these Ecuadoran islands",
+        "answer": "the Galapagos",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JOKERS",
+        "value": 400,
+        "question": "Critics are cheering over his portrayal of talk show host Larry Sanders on HBO",
+        "answer": "Garry Shandling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"HOLY\"",
+        "value": 400,
+        "question": "This empire came into existence on Christmas Day, 800A.D.",
+        "answer": "the Holy Roman Empire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COTTON",
+        "value": 400,
+        "question": "Eli Whitney could tell you that this process determines the smoothness of the cotton",
+        "answer": "the ginning",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "UNDERWEAR",
+        "value": 400,
+        "question": "For \"Days of Thunder\", Tom Cruise wore a pair of $100 long johns treated to be this",
+        "answer": "fireproof",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BATMAN",
+        "value": 400,
+        "question": "Among other things, it holds gas pellets, lasers & batarangs",
+        "answer": "the utility belt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE PENGUIN",
+        "value": 500,
+        "question": "The penguin's chief predator at sea is the leopard species of this mammal",
+        "answer": "leopard seals",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JOKERS",
+        "value": 500,
+        "question": "This hostess of VH1's \"Stand-Up Spotlight\" played third base in \"A League of Their Own\"",
+        "answer": "Rosie O'Donnell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"HOLY\"",
+        "value": 500,
+        "question": "The place in the Jewish temple in which the Ark of the Covenant was kept",
+        "answer": "the Holy of Holies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COTTON",
+        "value": 500,
+        "question": "This capital of the Tamil Nadu state in India has given its name to a bleeding cotton fabric",
+        "answer": "Madras",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "UNDERWEAR",
+        "value": 500,
+        "question": "The Fruit of the Loom quartet has a fig leaf, an apple & 2 different types of this fruit",
+        "answer": "grapes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BATMAN",
+        "value": 500,
+        "question": "This batvillain changed his name from Eddie Nashton to Edward or E. Nigma",
+        "answer": "the Riddler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE 20th CENTURY",
+      "COOKING",
+      "WORLD GEOGRAPHY",
+      "COLLEGES & UNIVERSITIES",
+      "SCIENTISTS & INVENTORS",
+      "AMERICAN LITERATURE"
+    ],
+    "clues": [
+      {
+        "category": "THE 20th CENTURY",
+        "value": 200,
+        "question": "This general was wounded twice in Vietnam before leading the Allies in the Persian Gulf War",
+        "answer": "(General) Schwarzkopf",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 200,
+        "question": "This animal's knuckles are often simmered with sauerkraut",
+        "answer": "pig's knuckles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "This African river's seasonal floods are the result of rains in the Ethiopian highlands",
+        "answer": "the Nile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 200,
+        "question": "Its athletic teams are known as the Seminoles",
+        "answer": "Florida State",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 200,
+        "question": "In 1914 this Frenchwoman became the first director of the Radium Institute",
+        "answer": "Marie Curie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 200,
+        "question": "This Hemingway novella about an aging fisherman was based on a true story he'd heard from his Cuban boatman",
+        "answer": "The Old Man and the Sea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 400,
+        "question": "In 1928 WGY in Schenectady, N.Y. became the first scheduled broadcaster in this medium",
+        "answer": "television",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 400,
+        "question": "This cooking method can be \"shallow\" or \"deep\"",
+        "answer": "frying",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "St. George's Channel separates Wales from this country",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 400,
+        "question": "The Clements Library in this Ann Arbor school is known for its Revolutionary War collection",
+        "answer": "(University of) Michigan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 400,
+        "question": "In 1839 this rubber pioneer discovered the process of vulcanization",
+        "answer": "Goodyear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 400,
+        "question": "Among the pseudonyms this author used were Diedrich Knickerbocker & Geoffrey Crayon",
+        "answer": "Washington Irving",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 600,
+        "question": "In Sept. 1992 Steven McAuliffe, husband of this Challenger explosion victim, was nominated to be a judge",
+        "answer": "Christa McAuliffe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 600,
+        "question": "When making pie dough, flour your rolling pin lightly to keep the dough from doing this",
+        "answer": "sticking to the pin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 600,
+        "question": "Marco Polo may have been the first European to cross this desert in Mongolia & northern China",
+        "answer": "the Gobi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 600,
+        "question": "This Indiana university's school of law was the first at a Roman Catholic university in the U.S.",
+        "answer": "Notre Dame",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 600,
+        "question": "Edison's stock printer was invented for this telegraph company",
+        "answer": "Western Union",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 600,
+        "question": "In this Poe short story, a watch ticking beneath a floorboard drives a man to confess to murder",
+        "answer": "\"The Tell-Tale Heart\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 1600,
+        "question": "Barbara Bush, Michael Jackson & Elton John attended the 1990 funeral of this teenage AIDS activist",
+        "answer": "Ryan White",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 800,
+        "question": "Pastry bags are often used to do this to cakes",
+        "answer": "frost them (decorate them)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 800,
+        "question": "The August 1883 explosion of this Indonesian volcano was heard about 3,000 miles away",
+        "answer": "Krakatoa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 800,
+        "question": "Founded in 1693, this college in Williamsburg is Virginia's oldest & the second oldest in the U.S.",
+        "answer": "William & Mary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 800,
+        "question": "A temperature scale is named for this scientist who initiated the use of mercury in thermometers c. 1715",
+        "answer": "Fahrenheit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 800,
+        "question": "This 1952 novel by John Steinbeck is based on the biblical story of Cain & Abel",
+        "answer": "East of Eden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 1000,
+        "question": "Also called the Labor Management Relations Act, this act was passed over Truman's veto in 1947",
+        "answer": "the Taft-Hartley Act",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 1000,
+        "question": "This grated cheese is the traditional topping for Caesar salad",
+        "answer": "Parmesan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 1000,
+        "question": "This Alpine lake, called Lac Leman by the French, is formed by a natural damming of the Rhone River",
+        "answer": "Lake Geneva",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 1000,
+        "question": "Pulitzer Prizes are bestowed annually by this university's school of journalism",
+        "answer": "Columbia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SCIENTISTS & INVENTORS",
+        "value": 2000,
+        "question": "The National Accelerator Lab near Batavia, Illinois is named for this Italian-American physicist",
+        "answer": "(Enrico) Fermi",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 1000,
+        "question": "In a story by Bret Harte, John Oakhurst & Mother Shipton are among \"The Outcasts of\" this mining town",
+        "answer": "Poker Flat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "IN THE NEWS",
+    "clue": "In January 1993 he was elected president of a country 2/3 the size of the one he led 7 months earlier",
+    "answer": "Vaclav Havel"
+  },
+  "gameId": "2008",
+  "gameDate": "Wednesday, May 5, 1993"
+}

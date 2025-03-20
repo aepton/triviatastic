@@ -1,0 +1,574 @@
+{
+  "title": "Show #6143 - Wednesday, May 4, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "AN APPLE FOR TEACHER",
+      "THE NEW YORK TIMES MOVIES",
+      "BILLIONS & BILLIONS",
+      "SHOW & TELL",
+      "JOB DESCRIPTION",
+      "\"Y\"s UP"
+    ],
+    "clues": [
+      {
+        "category": "AN APPLE FOR TEACHER",
+        "value": 200,
+        "question": "Most apple flowers require \"cross-\" this for fertilization",
+        "answer": "pollination",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE NEW YORK TIMES MOVIES",
+        "value": 200,
+        "question": "Manohla Dargis reviewed this 2009 Pixar film under the headline \"The House that Soared\"",
+        "answer": "Up",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BILLIONS & BILLIONS",
+        "value": 200,
+        "question": "In 1994 it began boasting of \"billions and billions served\"",
+        "answer": "McDonald's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHOW & TELL",
+        "value": 200,
+        "question": "This artist headed to Tahiti in 1891 & soon painted the work seen here",
+        "answer": "(Paul) Gauguin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "JOB DESCRIPTION",
+        "value": 200,
+        "question": "This doctor ministers to the health of your Maltese",
+        "answer": "a veterinarian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"Y\"s UP",
+        "value": 200,
+        "question": "It's 3-letter slang for mouth, as in \"shut your...\"",
+        "answer": "yap",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AN APPLE FOR TEACHER",
+        "value": 400,
+        "question": "Apples are an excellent source of dietary this, which Brits spell with an \"-re\" at the end",
+        "answer": "fiber",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE NEW YORK TIMES MOVIES",
+        "value": 400,
+        "question": "A.O. Scott said this film about Aron Ralston \"pins you down, shakes you up, and leaves you glad to be alive\"",
+        "answer": "127 Hours",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BILLIONS & BILLIONS",
+        "value": 400,
+        "question": "To the nearest billion, the world's population",
+        "answer": "7 billion",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHOW & TELL",
+        "value": 400,
+        "question": "The valuable culinary substance seen here is produced by this 8-letter fish",
+        "answer": "sturgeon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "JOB DESCRIPTION",
+        "value": 400,
+        "question": "A 6-letter waitress who brings burgers to your vehicle",
+        "answer": "a carhop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"Y\"s UP",
+        "value": 400,
+        "question": "In 2005 co-founder Jawed Karim's \"Me at the Zoo\" was the first video to play on this website",
+        "answer": "YouTube",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AN APPLE FOR TEACHER",
+        "value": 600,
+        "question": "You can bob for apples because they're 25% this, which allows them to float",
+        "answer": "air",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE NEW YORK TIMES MOVIES",
+        "value": 600,
+        "question": "Reviews at nytimes. com include Renata Adler's look at this 1968 Kubrick film: the special F/X \"are the best I have ever seen\"",
+        "answer": "2001: A Space Odyssey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BILLIONS & BILLIONS",
+        "value": 600,
+        "question": "A PBS \"American Experience\" film about his family describes him as \"history's first billionaire\"",
+        "answer": "(John D.) Rockefeller",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHOW & TELL",
+        "value": 600,
+        "question": "Prince Llewellyn's livery colors are used on the flag of this UK country",
+        "answer": "Wales",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "JOB DESCRIPTION",
+        "value": 600,
+        "question": "Wal-Mart welcomer",
+        "answer": "a greeter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"Y\"s UP",
+        "value": 600,
+        "question": "Yes, deer, it's an animal between 365 & 730 days old",
+        "answer": "a yearling",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AN APPLE FOR TEACHER",
+        "value": 800,
+        "question": "Apples fall into 3 broad categories: dessert, cooking & the kind named for this juice of the apple",
+        "answer": "cider",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE NEW YORK TIMES MOVIES",
+        "value": 800,
+        "question": "In 1991 Vincent Canby said this character, \"grandly played by Mr. Hopkins, is a most seductive psychopath\"",
+        "answer": "Hannibal Lecter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BILLIONS & BILLIONS",
+        "value": 800,
+        "question": "A gamma ray burst that was briefly visible to the naked eye in 2008 took place at a distance of 7.5 billion these",
+        "answer": "light years",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHOW & TELL",
+        "value": 800,
+        "question": "This dog's coat protects it from frigid temperatures",
+        "answer": "Afghan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "JOB DESCRIPTION",
+        "value": 800,
+        "question": "The biblical Habakkuk was a \"minor\" one",
+        "answer": "a prophet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"Y\"s UP",
+        "value": 800,
+        "question": "If I'm kibbitzing or kvetching & saying things that are just plain schmaltzy, I'm using words from this language",
+        "answer": "Yiddish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AN APPLE FOR TEACHER",
+        "value": 1000,
+        "question": "This apple with a crustacean in its name is the only type native to North America",
+        "answer": "a crabapple",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE NEW YORK TIMES MOVIES",
+        "value": 1000,
+        "question": "The 1st rule of this film is, you do not talk about it, but Janet Maslin said \"Mr. Pitt struts through (it) with rekindled brio\"",
+        "answer": "Fight Club",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BILLIONS & BILLIONS",
+        "value": 1000,
+        "question": "A Kraft foods \"healthy living\" primer notes that billions of these \"live naturally in everyone's digestive system\"",
+        "answer": "bacteria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHOW & TELL",
+        "value": 1000,
+        "question": "The name of this wedge-shaped piece in an arch signifies its place of importance",
+        "answer": "keystone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "JOB DESCRIPTION",
+        "value": 1000,
+        "question": "3-letter para-paramedic",
+        "answer": "an EMT",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"Y\"s UP",
+        "value": 1000,
+        "question": "It's right below Saudi Arabia",
+        "answer": "Yemen",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE EARLY 20th CENTURY",
+      "SCHOOL OF ROCK",
+      "SISTER CITIES",
+      "DO ASK",
+      "REED-ING",
+      "\"RITE\"-ING"
+    ],
+    "clues": [
+      {
+        "category": "THE EARLY 20th CENTURY",
+        "value": 400,
+        "question": "The modern racing of these dogs began in 1907 when a stuffed rabbit skin was attached to a motorcycle",
+        "answer": "greyhounds",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCHOOL OF ROCK",
+        "value": 400,
+        "question": "Michael Jackson in this alphabet song: \"Reading & writing, arithmetic are the branches of the learning tree\"",
+        "answer": "\"ABC\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 400,
+        "question": "Nashville's sisters include Caen, France & this capital of Northern Ireland",
+        "answer": "Belfast",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DO ASK",
+        "value": 400,
+        "question": "This title character thought, \"I must stop this Christmas from coming!...but how?\"",
+        "answer": "The Grinch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REED-ING",
+        "value": 400,
+        "question": "The reed warbler is this type of creature",
+        "answer": "a bird",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"RITE\"-ING",
+        "value": 400,
+        "question": "Hackneyed or boring from overuse",
+        "answer": "trite",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE EARLY 20th CENTURY",
+        "value": 800,
+        "question": "On May 19, 1910 a headline read, this \"brushes earth with its tail\"",
+        "answer": "Halley's Comet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCHOOL OF ROCK",
+        "value": 800,
+        "question": "Nabokov is namechecked in this Police song about a nervous teacher",
+        "answer": "\"Don't Stand So Close To Me\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 800,
+        "question": "Most of New York's sisters are world capitals--but not this largest South African city",
+        "answer": "Johannesburg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DO ASK",
+        "value": 800,
+        "question": "The muses taught this creature the riddle that it asked passers-by: Oedipus answered correctly",
+        "answer": "the Sphinx",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REED-ING",
+        "value": 800,
+        "question": "Sir Carol Reed directed this 1968 movie musical based on a Dickens tale",
+        "answer": "Oliver!",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"RITE\"-ING",
+        "value": 800,
+        "question": "One of these may have led to the extinction of the dinosaurs",
+        "answer": "a meteorite",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE EARLY 20th CENTURY",
+        "value": 1200,
+        "question": "The 1913 Owen-Glass Act established this central banking system forcing all national banks to join",
+        "answer": "the Federal Reserve",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCHOOL OF ROCK",
+        "value": 1200,
+        "question": "The title tutor in this Swedish group's \"When I Kissed The Teacher\" was just trying to help with geometry",
+        "answer": "ABBA",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew stands in front of the Sydney Opera House and Harbour Bridge in Sydney, Australia.)  In less than 13 1/2 hours, Qantas flies direct from Sydney, the home of the Harbour Bridge, to this U.S. sister city that also has a famous bridge",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DO ASK",
+        "value": 1200,
+        "question": "This 1858 poem asks, \"Why don't you speak for yourself, John?\"",
+        "answer": "The Courtship of Miles Standish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REED-ING",
+        "value": 1200,
+        "question": "In 1920 American communist & author John Reed died of typhus in this foreign capital",
+        "answer": "Moscow",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"RITE\"-ING",
+        "value": 1200,
+        "question": "From the Greek for \"decision\", this plural means standards used for comparison",
+        "answer": "criteria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE EARLY 20th CENTURY",
+        "value": 1600,
+        "question": "On Nov. 16, 1907 this 46th state was admitted to the Union",
+        "answer": "Oklahoma",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCHOOL OF ROCK",
+        "value": 1600,
+        "question": "The Ramones, about this title institute of learning: \"Well, I don't care about history\"",
+        "answer": "\"Rock 'n' Roll High School\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 1600,
+        "question": "Albuquerque, New Mexico is sister to this capital of Jalisco, old Mexico",
+        "answer": "Guadalajara",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DO ASK",
+        "value": 1600,
+        "question": "The answer to this poetic question: \"To the depth and breadth and height my soul can reach\"",
+        "answer": "How do I love thee?",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "REED-ING",
+        "value": 1600,
+        "question": "During the Spanish-American War, he led a committee to investigate the spread of disease in U.S. Army camps",
+        "answer": "Walter Reed",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"RITE\"-ING",
+        "value": 1600,
+        "question": "Iron disulfide",
+        "answer": "pyrite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE EARLY 20th CENTURY",
+        "value": 2000,
+        "question": "In 1915 this birth control advocate was arrested for obscenity for her pamphlet \"Family Limitation\"",
+        "answer": "(Margaret) Sanger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCHOOL OF ROCK",
+        "value": 2000,
+        "question": "Sam Cooke didn't \"know much trigonometry\", nor \"what\" this non-electronic calculating device \"is for\"",
+        "answer": "a slide rule",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SISTER CITIES",
+        "value": 2000,
+        "question": "Charlotte, North Carolina's sisters include Baoding, China & this French town known for its porcelain",
+        "answer": "Limoges",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DO ASK",
+        "value": 2000,
+        "question": "Byron asked, \"think you, if Laura had been\" his \"wife, he would have written sonnets all his life?\"",
+        "answer": "Petrarch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "REED-ING",
+        "value": 2000,
+        "question": "In this post in the late 19th c.,  Thomas Reed introduced the \"Reed Rules\" ensuring majority party control of Congress' agenda",
+        "answer": "Speaker of the House",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"RITE\"-ING",
+        "value": 2000,
+        "question": "A typical neuron is made up of an axon, a nucleus & one or more of these",
+        "answer": "a dendrite",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS SPEECHES",
+    "clue": "Just 10 sentences, this speech is wrong on one point: it is long remembered",
+    "answer": "the Gettysburg Address"
+  },
+  "gameId": "6143",
+  "gameDate": "Wednesday, May 4, 2011"
+}

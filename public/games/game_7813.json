@@ -1,0 +1,574 @@
+{
+  "title": "Show #1515 - Friday, March 15, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "FLOWERS & TREES",
+      "NAME'S THE SAME",
+      "THE COMICS",
+      "WORLD HISTORY",
+      "BOWLING",
+      "THOMAS EDISON"
+    ],
+    "clues": [
+      {
+        "category": "FLOWERS & TREES",
+        "value": 100,
+        "question": "The jonquil is often mistaken for this yellow narcissus to which it is related",
+        "answer": "the daffodil",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 100,
+        "question": "An order to a private, or a month of the year",
+        "answer": "march",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE COMICS",
+        "value": 100,
+        "question": "Called the first beagle on the Moon in comics, his picture was beamed back from space by Apollo 10",
+        "answer": "Snoopy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 100,
+        "question": "The 2 largest battleships ever built, Japan's Yamato & Musashi, were sunk during this war",
+        "answer": "World War II",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOWLING",
+        "value": 100,
+        "question": "Number of strikes needed for a perfect 300 game",
+        "answer": "12",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THOMAS EDISON",
+        "value": 100,
+        "question": "Edison's first one recorded the sound on a cylinder covered with a sheet of tin foil",
+        "answer": "phonograph",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FLOWERS & TREES",
+        "value": 400,
+        "question": "Second to the rose in commercial value, it's called the clove pink because of its spicy fragrance",
+        "answer": "the carnation",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 200,
+        "question": "An allergic reaction to shellfish, or homes for honeymakers",
+        "answer": "hives",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE COMICS",
+        "value": 200,
+        "question": "Harold Gray never explained why he gave her blank eyes",
+        "answer": "Little Orphan Annie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 200,
+        "question": "In 1621 the Dutch formed this companion to their other company to trade in the Atlantic region",
+        "answer": "Dutch West India Company (Dutch West Indies Company accepted)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOWLING",
+        "value": 200,
+        "question": "Bowling balls used in leagues can't exceed 27 inches in circumference nor weigh more than this",
+        "answer": "16 pounds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THOMAS EDISON",
+        "value": 200,
+        "question": "As a tribute to the late Edison, Hoover ordered all Americans to do this the night of October 21, 1931",
+        "answer": "turn out their lights",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FLOWERS & TREES",
+        "value": 300,
+        "question": "Of annual, biennial, or perennial, the one that describes the growing life of trees",
+        "answer": "perennial",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 300,
+        "question": "Nickname shared by Jay Dean & John Gillespie",
+        "answer": "Dizzy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE COMICS",
+        "value": 300,
+        "question": "Tess Trueheart is true to him",
+        "answer": "Dick Tracy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 300,
+        "question": "He was speaker of Iran's parliament when he became the country's president in August 1989",
+        "answer": "Rafsanjani",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOWLING",
+        "value": 300,
+        "question": "The introduction of this machine in 1952 put a lot of young boys out of work",
+        "answer": "the automatic pinsetter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THOMAS EDISON",
+        "value": 300,
+        "question": "As a boy he was called Al, which was short for this, his middle name",
+        "answer": "Alva",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FLOWERS & TREES",
+        "value": 400,
+        "question": "Found on the California & Oregon coast, this huge tree rarely occurs more than 50 miles inland",
+        "answer": "the redwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 400,
+        "question": "Oscar-winning 1963 film, or singer of the Oscar-nominated 1965 song \"What's New, Pussycat?\"",
+        "answer": "Tom Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE COMICS",
+        "value": 400,
+        "question": "This comic strip character with the goo-goo-googly eyes inspired a 1920s song",
+        "answer": "Barney Google",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 400,
+        "question": "When the Treaty of Ghent was signed ending this war, Ghent belonged to the Netherlands",
+        "answer": "the War of 1812",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOWLING",
+        "value": 400,
+        "question": "The Firestone Tournament of Champions, one of bowling's premier events, is held in this city",
+        "answer": "Akron, Ohio",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THOMAS EDISON",
+        "value": 400,
+        "question": "Edison invented a simpler mouthpiece for this, eliminating the need to shout into it",
+        "answer": "the telephone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FLOWERS & TREES",
+        "value": 500,
+        "question": "Term for an herbicide that causes the leaves to fall off of trees & bushes",
+        "answer": "defoliant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 500,
+        "question": "The man who gave us the terms \"mesozoic\" & \"cenozoic\", or a Papa in The Mamas & The Papas",
+        "answer": "John Phillips",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE COMICS",
+        "value": 500,
+        "question": "Andy Capp's \"pet\" is named this",
+        "answer": "Flo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 500,
+        "question": "The English Civil Wars of 1642-51 led to the defeat & execution of this King",
+        "answer": "Charles I",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOWLING",
+        "value": 500,
+        "question": "This bowler & his son Pete are only father & son to have led the PBA in yearly earnings",
+        "answer": "Dick Weber",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THOMAS EDISON",
+        "value": 500,
+        "question": "Henry Ford moved the Invention Factory Edison set up in Menlo Park, N.J. to this city",
+        "answer": "Dearborn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE 1930s",
+      "MUSICIANS",
+      "BOOKS & AUTHORS",
+      "IRELAND",
+      "SHIPS",
+      "WORDS ABOUT BIRDS"
+    ],
+    "clues": [
+      {
+        "category": "THE 1930s",
+        "value": 200,
+        "question": "In 1937 the Lincoln Tunnel was opened under the Hudson & this was opened over San Francisco Bay",
+        "answer": "the Golden Gate Bridge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSICIANS",
+        "value": 200,
+        "question": "John Blow, Orlando Gibbons & Henry Purcell are buried in this London building where they were organists",
+        "answer": "Westminster Abbey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "Jeanne Larson's historical novel \"Silk Road\" is set in this Asian country in the 8th century",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IRELAND",
+        "value": 200,
+        "question": "MacGillycuddy's Reeks are famous for being the highest of these in Ireland",
+        "answer": "a mountain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 200,
+        "question": "As a result of this ship's sinking, the 1st International Convention for the Safety of Life at Sea was convened in 1913",
+        "answer": "the Titanic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT BIRDS",
+        "value": 200,
+        "question": "The answer to this nursery rhyme query is \"the sparrow\"",
+        "answer": "Who killed Cock Robin?",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 1930s",
+        "value": 400,
+        "question": "In his 1st inaugural address, FDR said this was the only thing the country had to fear",
+        "answer": "fear itself",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSICIANS",
+        "value": 400,
+        "question": "\"Siegfrieds Tod\", \"Siegfried's Death\", was his original title for \"Gotterdammerung\"",
+        "answer": "Wagner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 400,
+        "question": "In 1989 at age 70, this famous Iris published her 24th novel, \"The Message to the Planet\"",
+        "answer": "Iris Murdoch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IRELAND",
+        "value": 400,
+        "question": "There once was a city in Ireland, & still is, that gave its name to funny 5-line poems",
+        "answer": "Limerick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 400,
+        "question": "Named for the dog star, it became the 1st to cross the Atlantic totally under steam power in 1838",
+        "answer": "the Sirius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT BIRDS",
+        "value": 400,
+        "question": "Poe describes one whose \"eyes have all the seeming of a demon that is dreaming\"",
+        "answer": "\"The Raven\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 1930s",
+        "value": 600,
+        "question": "Louisiana senator who proposed a \"Share the Wealth\" program",
+        "answer": "Huey Long",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSICIANS",
+        "value": 600,
+        "question": "This American composer & conductor wrote the 1-act opera \"Trouble in Tahiti\"",
+        "answer": "Leonard Bernstein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 600,
+        "question": "\"Falconer\" author whose last published novel was \"Oh What a Paradise It Seems\" in 1982",
+        "answer": "(John) Cheever",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IRELAND",
+        "value": 600,
+        "question": "Prior to this 1845-47 tragedy, Ireland's population was 8 million, far more than it is today",
+        "answer": "the potato famine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 600,
+        "question": "The nuts, bolts & bell used in the Constitution, Old Ironsides, were made by this Boston craftsman",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT BIRDS",
+        "value": 600,
+        "question": "Dixon Merritt was amazed that this bird can take in his beak \"food enough for a week\"",
+        "answer": "a pelican",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 1930s",
+        "value": 800,
+        "question": "In 1932 the U.S. Army booted this expeditionary force out of Washington, D.C.",
+        "answer": "the Bonus Army",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSICIANS",
+        "value": 800,
+        "question": "John Cage has written pieces for prepared & toy versions of this instrument",
+        "answer": "the piano",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 800,
+        "question": "John Updike's 3rd Rabbit novel, which won him a Pulitzer Prize, is titled \"Rabbit is\" this",
+        "answer": "Rabbit is Rich",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IRELAND",
+        "value": 1600,
+        "question": "The Irish airline, its name is Gaelic for \"air fleet\"",
+        "answer": "Aer Lingus",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 800,
+        "question": "In 1968 Cunard launched this ship, the last trans-Atlantic superliner to be built",
+        "answer": "the QE2",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT BIRDS",
+        "value": 800,
+        "question": "It completes the lines \"Her beauty was sold for an old man's gold, she's a...\"",
+        "answer": "a bird in a gilded cage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 1930s",
+        "value": 1000,
+        "question": "Detroit priest who took to the airwaves with tirades against the government",
+        "answer": "Father (Charles) Coughlin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSICIANS",
+        "value": 2000,
+        "question": "With Brecht & Hindemith, this composer wrote a radio cantata commemorating Lindbergh's flight",
+        "answer": "Kurt Weill",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1000,
+        "question": "In 1981 she made the cover of \"Newsweek\" with \"Tar Baby\", her 4th novel",
+        "answer": "Toni Morrison",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IRELAND",
+        "value": 1000,
+        "question": "Ireland has only 1 native species of this class of animals",
+        "answer": "reptiles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 1000,
+        "question": "Though warned of attacks, few of the 1,258 passengers on this ship's May 1, 1915 trip cancelled",
+        "answer": "the Lusitania",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT BIRDS",
+        "value": 1000,
+        "question": "In a Tennyson poem, he \"clasped the crag with crooked hands\"",
+        "answer": "the eagle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ELECTIONS",
+    "clue": "A Democratic slogan in the 1800s went \"We Polked 'em in '44, we'll\" do this to \"'em in '52\"",
+    "answer": "Pierce"
+  },
+  "gameId": "1515",
+  "gameDate": "Friday, March 15, 1991"
+}

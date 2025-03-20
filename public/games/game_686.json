@@ -1,0 +1,547 @@
+{
+  "title": "Show #4904 - Thursday, December 29, 2005",
+  "jeopardyRound": {
+    "categories": [
+      "NATIONAL GEOGRAPHIC",
+      "PREMIERE",
+      "BETTER HOMES & GARDENS",
+      "BON APPETIT",
+      "PLAY \"BOY\"",
+      "MAGAZINES"
+    ],
+    "clues": [
+      {
+        "category": "NATIONAL GEOGRAPHIC",
+        "value": 200,
+        "question": "1 of the 2 landlocked countries of South America, its judicial capital is Sucre",
+        "answer": "Bolivia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PREMIERE",
+        "value": 200,
+        "question": "This Beatles film premiered in London on July 6, 1964",
+        "answer": "A Hard Day's Night",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BETTER HOMES & GARDENS",
+        "value": 200,
+        "question": "What's now its South Lawn was purchased in the 1790s from tobacco planter Davy Burns",
+        "answer": "the White House",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BON APPETIT",
+        "value": 200,
+        "question": "Often paired with a grilled cheese sandwich, it was the most popular of Campbell's original 21 soups in 1897",
+        "answer": "tomato",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PLAY \"BOY\"",
+        "value": 200,
+        "question": "An accomplished young man, like Batman's Robin",
+        "answer": "a boy wonder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "The women's version of this magazine also has a swimsuit edition",
+        "answer": "Sports Illustrated",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC",
+        "value": 400,
+        "question": "This nation is composed of 4 provinces: Sind, Baluchistan, the NW Frontier province & Punjab",
+        "answer": "Pakistan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PREMIERE",
+        "value": 400,
+        "question": "When this 1995 film premiered in Scotland, director Mel Gibson wore a kilt & danced the Highland Fling",
+        "answer": "Braveheart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BETTER HOMES & GARDENS",
+        "value": 400,
+        "question": "This U.S. city is home to the Flemish Renaissance revival mansion of beer baron Capt. Frederick Pabst",
+        "answer": "Milwaukee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BON APPETIT",
+        "value": 400,
+        "question": "This \"dirty\" Cajun grain specialty is so-named because chopped poultry livers & gizzards are added for flavor",
+        "answer": "dirty rice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PLAY \"BOY\"",
+        "value": 400,
+        "question": "To refuse to buy a company's products as a means of coercion",
+        "answer": "boycott",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "In the 1980s a well-publicized ban on Playboy occurred when this convenience store chain removed it",
+        "answer": "7-Eleven",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC",
+        "value": 600,
+        "question": "This Northeast Asian country came into being in 1948 & 2 years later the U.S. helped fight for its survival",
+        "answer": "South Korea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PREMIERE",
+        "value": 600,
+        "question": "On Dec. 14, 1961 this Spencer Tracy courtroom drama had its world premiere in Berlin",
+        "answer": "Judgement at Nuremberg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BETTER HOMES & GARDENS",
+        "value": 600,
+        "question": "\"Fair Lane\" was the magnificent Dearborn estate of this tycoon & his family until the 1950s",
+        "answer": "(Henry) Ford",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BON APPETIT",
+        "value": 600,
+        "question": "From the French for \"jump\", it means to cook food quickly & lightly in a little butter or oil",
+        "answer": "sauté",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PLAY \"BOY\"",
+        "value": 600,
+        "question": "Still being published today, this adventure magazine for Boy Scouts debuted in 1911",
+        "answer": "Boys' Life",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 600,
+        "question": "Founded in 1846, this magazine with an urban/rural title covers tastes in fashion, travel & antiques",
+        "answer": "Town & Country",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC",
+        "value": 800,
+        "question": "This Western Hemisphere nation of about 31 million has 10 provinces",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PREMIERE",
+        "value": 800,
+        "question": "When this 1974 comedy premiered at a California drive-in, all the guests had to ride in on horseback",
+        "answer": "Blazing Saddles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BETTER HOMES & GARDENS",
+        "value": 800,
+        "question": "In 1947 he retired to a Beverly Hills mansion with longtime mistress Marion Davies",
+        "answer": "(William) Randolph Hearst",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BON APPETIT",
+        "value": 800,
+        "question": "Don't be insulted when you're served this type of Jamaican grilled meat, a blend of chiles and other spices",
+        "answer": "jerk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PLAY \"BOY\"",
+        "value": 800,
+        "question": "Botanical bramble pictured here",
+        "answer": "boysenberry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 800,
+        "question": "Eric Johnson's '57 Fender Strat made the cover of the September 2005 issue of this magazine",
+        "answer": "Guitar Player",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC",
+        "value": 1000,
+        "question": "This West African country is semi-arid except for areas near its namesake river in the southwest",
+        "answer": "Niger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PREMIERE",
+        "value": 1000,
+        "question": "Later to win multiple Oscars, this film premiered in November 1982 in New Delhi",
+        "answer": "Gandhi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BETTER HOMES & GARDENS",
+        "value": 1000,
+        "question": "The former home of Speaker of the House James G. Blaine is now this state's governor's mansion",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BON APPETIT",
+        "value": 1000,
+        "question": "When making your special fruitcake for the holidays, be sure to add the Muscat or Thompson variety of these",
+        "answer": "raisins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PLAY \"BOY\"",
+        "value": 1000,
+        "question": "A class of the old Russian nobility ranking below the princes",
+        "answer": "the boyars",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1000,
+        "question": "Ray Bradbury & Ogden Nash were among the non-food writers featured in this magazine founded in 1941",
+        "answer": "Gourmet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MATH & SCIENCE",
+      "TV DRAMA MAMAS",
+      "ROBERT LOUIS STEVENSON",
+      "MUSICAL INSTRUMENTS",
+      "NOT A BRITISH PRIME MINISTER",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "MATH & SCIENCE",
+        "value": 400,
+        "question": "His experiments in the mid-1660s showed that the colors produced by a prism were due to different refraction rates",
+        "answer": "Newton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV DRAMA MAMAS",
+        "value": 400,
+        "question": "In Season 1 of this series, Tony's mom Livia put a hit out on him; nice, huh?",
+        "answer": "The Sopranos",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ROBERT LOUIS STEVENSON",
+        "value": 400,
+        "question": "Stevenson had a dream about this character being pressed in a cabinet, drinking a drug & becoming another person",
+        "answer": "Dr. Jekyll",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 400,
+        "question": "This small 4-stringed instrument comes from the machete, a guitar immigrants brought to Hawaii",
+        "answer": "the ukulele",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NOT A BRITISH PRIME MINISTER",
+        "value": 400,
+        "question": "Churchill,Chandler,Chamberlain",
+        "answer": "Chandler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "\"Boss\" Tweed's politically corrupt society that had a No. 1 hit with \"Kiss on my List\"",
+        "answer": "Tammany Hall & Oates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MATH & SCIENCE",
+        "value": 800,
+        "question": "Often occurring in oily rags or hay, it's the self-burning of materials due to chemical changes",
+        "answer": "spontaneous combustion",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV DRAMA MAMAS",
+        "value": 800,
+        "question": "This actress balances the duties of mom, wife & U.S. president on \"Commander in Chief\"",
+        "answer": "Geena Davis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ROBERT LOUIS STEVENSON",
+        "value": 800,
+        "question": "Stevenson wrote that one of these should \"always say what's true and speak when he is spoken to\"",
+        "answer": "a child",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 800,
+        "question": "Before taking up the trumpet, Louis Armstrong specialized in this trumpet relative",
+        "answer": "the cornet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NOT A BRITISH PRIME MINISTER",
+        "value": 800,
+        "question": "Heath,Buckingham,Eden",
+        "answer": "Buckingham",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 800,
+        "question": "Choreographer of \"Appalachian Spring\" who teamed up with Crosby & Stills",
+        "answer": "Martha Graham Nash",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MATH & SCIENCE",
+        "value": 1200,
+        "question": "The photosphere, the visible surface of this, is actually the innermost layer of its atmosphere",
+        "answer": "the Sun",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ROBERT LOUIS STEVENSON",
+        "value": 1200,
+        "question": "When Stevenson wrote this tale in 1881, it was called \"The Sea-Cook\"",
+        "answer": "Treasure Island",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew holds a stringed musical instrument with a triangular body in Russia.)  In a Russian marketplace, you can get a good deal on this item that's mentioned in \"Back In The U.S.S.R.\"",
+        "answer": "a balalaika",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NOT A BRITISH PRIME MINISTER",
+        "value": 1200,
+        "question": "Balmoral,Bentinck,Baldwin",
+        "answer": "Balmoral",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1200,
+        "question": "\"Bronco Buster\" sculptor who was a TV detective played by Pierce Brosnan",
+        "answer": "Frederic Remington Steele",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MATH & SCIENCE",
+        "value": 1600,
+        "question": "(Jon of the Clue Crew shows a % sign on a video monitor as it changes to have one more 0 in the denominator.)  You know percent, but how about this similar term that indicates parts in 1,000",
+        "answer": "per mil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ROBERT LOUIS STEVENSON",
+        "value": 1600,
+        "question": "Stevenson gave an address to the chiefs on the opening of the Road of Gratitude in what's now this island country",
+        "answer": "Samoa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 1600,
+        "question": "This instrument of tuned wooden bars is a Central American xylophone that originated in Africa",
+        "answer": "a marimba",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NOT A BRITISH PRIME MINISTER",
+        "value": 1600,
+        "question": "Peel,Palmerston,Pecket",
+        "answer": "Pecket",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1600,
+        "question": "Noted designer of bridal elegance who hit the pop charts with \"Everybody Have Fun Tonight\"",
+        "answer": "Vera Wang Chung",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MATH & SCIENCE",
+        "value": 2000,
+        "question": "The name of this force that can compel an object to move in a circular path is from the Latin for \"seek the center\"",
+        "answer": "centripetal force",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ROBERT LOUIS STEVENSON",
+        "value": 2000,
+        "question": "Stevenson's mother's maiden name, Balfour, was also the last name of the young hero of this novel",
+        "answer": "Kidnapped",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 2000,
+        "question": "This type of accordion has hexagonal or octagonal ends & button keys",
+        "answer": "a concertina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NOT A BRITISH PRIME MINISTER",
+        "value": 2000,
+        "question": "MacMillan,MacDonald,McHenry",
+        "answer": "McHenry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 2000,
+        "question": "Wild-haired boxing promoter who's the world's largest venomous snake",
+        "answer": "Don King Cobra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SOVIET HISTORY",
+    "clue": "He died in Moscow September 11, 1971 following nearly 7 years of house arrest",
+    "answer": "Nikita Khrushchev"
+  },
+  "gameId": "4904",
+  "gameDate": "Thursday, December 29, 2005"
+}

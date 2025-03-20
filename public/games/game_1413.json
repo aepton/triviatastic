@@ -1,0 +1,574 @@
+{
+  "title": "Show #4017 - Tuesday, February 5, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "THE OTHER PLANETS",
+      "TV",
+      "AROUND THE U.S.A.",
+      "ORDER, PLEASE",
+      "SPEAKING OF LANGUAGE",
+      "RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "THE OTHER PLANETS",
+        "value": 200,
+        "question": "(Sarah of the Clue Crew presents in front of a chalkboard showing the planets' orbits.)  In our solar system this innermost planet travels around the Sun the fastest",
+        "answer": "Mercury",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV",
+        "value": 200,
+        "question": "California-born James Marsters plays Spike, a British goth vampire on this series",
+        "answer": "Buffy the Vampire Slayer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE U.S.A.",
+        "value": 200,
+        "question": "The New Mexico Military Institute is in this city (wonder if anyone from outer space is enrolled)",
+        "answer": "Roswell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ORDER, PLEASE",
+        "value": 200,
+        "question": "From smallest to largest: gallon, pint, quart",
+        "answer": "pint, quart, gallon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 200,
+        "question": "It's the official language of the provinces of North & South Holland",
+        "answer": "Dutch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 200,
+        "question": "The person who shows up after the agreed upon time to take you to the movies",
+        "answer": "a late date",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER PLANETS",
+        "value": 400,
+        "question": "The greenhouse effect is in effect on this planet that gets twice as much sunlight as the Earth",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV",
+        "value": 400,
+        "question": "Megan Mullally is Debra Messing's wacky socialite assistant Karen on this sitcom",
+        "answer": "Will & Grace",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE U.S.A.",
+        "value": 400,
+        "question": "The state bird of Idaho is the \"mountain\" type of this symbol of happiness",
+        "answer": "bluebird",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ORDER, PLEASE",
+        "value": 400,
+        "question": "From least to greatest number of dice used: Yahtzee, Hi Ho Cherry-O, Trivial Pursuit",
+        "answer": "Hi Ho Cherry-O, Trivial Pursuit, Yahtzee (0, 1 and 5)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 400,
+        "question": "In the USA, over 18,000,000 speak this non-English language",
+        "answer": "Spanish",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 400,
+        "question": "A feline run over by a steamroller",
+        "answer": "a flat cat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER PLANETS",
+        "value": 600,
+        "question": "Winter in the northern hemisphere lasts about 150 days on this planet noted for its ice caps",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV",
+        "value": 600,
+        "question": "After a failed sitcom, The Lone Gunman returned to this show",
+        "answer": "The X-Files",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE U.S.A.",
+        "value": 600,
+        "question": "(Sarah of the Clue Crew presents from New Orleans.)  New Orleans is world-famous for decorative art made from this metal, as you can see here at the Fataba Apartments",
+        "answer": "(cast) iron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ORDER, PLEASE",
+        "value": 600,
+        "question": "From youngest to oldest: Taylor, Zac & Isaac Hanson",
+        "answer": "Zac, Taylor & Isaac Hanson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 600,
+        "question": "\"Hakuna matata\" means \"no worries\" in this widely-spoken language of Tanzania",
+        "answer": "Swahili",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 600,
+        "question": "A distant Sun-like object",
+        "answer": "a far star",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER PLANETS",
+        "value": 800,
+        "question": "KX76, a Kuiper belt object discovered in 2001, is about half the size of this smallest planet",
+        "answer": "Pluto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV",
+        "value": 800,
+        "question": "This WB drama about a young Clark Kent is basically \"Dawson's Creek\" with superpowers",
+        "answer": "Smallville",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE U.S.A.",
+        "value": 800,
+        "question": "This first lady's portrait hangs in the White House bedroom named for her husband",
+        "answer": "Mary Todd Lncoln",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ORDER, PLEASE",
+        "value": 800,
+        "question": "The 5 vowels in reverse alphabetical order",
+        "answer": "U, O, I, E, A",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 800,
+        "question": "Franz Bopp demonstrated the link between modern languages and this classical Indian one",
+        "answer": "Sanskrit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 800,
+        "question": "A shy Athenian who will inherit the Earth",
+        "answer": "a meek Greek",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER PLANETS",
+        "value": 1000,
+        "question": "Callisto, a satellite of this planet, has a rock heart, not a Flockhart",
+        "answer": "Jupiter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV",
+        "value": 1000,
+        "question": "Jennifer Garner plays a double agent on this spy drama",
+        "answer": "Alias",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AROUND THE U.S.A.",
+        "value": 1000,
+        "question": "If you want to see the International Museum of the Horse, trot over to Lexington in this state",
+        "answer": "Kentucky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ORDER, PLEASE",
+        "value": 1000,
+        "question": "By when they were first awarded: Emmy, Nobel Prize, Oscar",
+        "answer": "Nobel Prize, Oscar, Emmy",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SPEAKING OF LANGUAGE",
+        "value": 1000,
+        "question": "The Berbers, mainly found on this continent, rarely use a written form of their native language",
+        "answer": "Africa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 1000,
+        "question": "A eating utensil for hog meat",
+        "answer": "a pork fork",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PLAY TIME",
+      "McPEOPLE",
+      "STUFF THAT HAPPENED",
+      "EARTH TONES",
+      "MECHANICAL PROBLEMS",
+      "CALL TRIPLE \"A\""
+    ],
+    "clues": [
+      {
+        "category": "PLAY TIME",
+        "value": 400,
+        "question": "The romance of Emily Webb & George Gibbs from their schooldays is the focus of this play",
+        "answer": "Our Town",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "McPEOPLE",
+        "value": 400,
+        "question": "Poor guy! He finished the 2001 baseball season with 29 fewer homers, 41 fewer than in 1998",
+        "answer": "Mark McGwire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STUFF THAT HAPPENED",
+        "value": 400,
+        "question": "The upper & lower portions of this country united in 1840",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EARTH TONES",
+        "value": 400,
+        "question": "It describes worked leather or someone who has sat in the sun",
+        "answer": "tanned",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MECHANICAL PROBLEMS",
+        "value": 400,
+        "question": "You can determine the period of this object (the time of 1 swing) from the length of its string",
+        "answer": "a pendulum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CALL TRIPLE \"A\"",
+        "value": 400,
+        "question": "Mohandas Gandhi was called this, meaning \"great soul\"",
+        "answer": "Mahatma",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PLAY TIME",
+        "value": 800,
+        "question": "Laura collects glass animal figurines in this play by Tennessee Williams",
+        "answer": "The Glass Menagerie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "McPEOPLE",
+        "value": 800,
+        "question": "This star of \"The Practice\" has also appeared on several episodes of \"Ally McBeal\"",
+        "answer": "Dylan McDermott",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STUFF THAT HAPPENED",
+        "value": 800,
+        "question": "In 1964 Dorothy Hodgkin became the third woman to win a Nobel in chemistry & the first without this last name",
+        "answer": "Curie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EARTH TONES",
+        "value": 800,
+        "question": "To get just one or a latte of this shade of brown at Starbucks, first take an umber",
+        "answer": "coffee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MECHANICAL PROBLEMS",
+        "value": 800,
+        "question": "Ironically, this event in 1923 destroyed H. Nakano's manuscripts on the representation of seismic waves",
+        "answer": "an earthquake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CALL TRIPLE \"A\"",
+        "value": 800,
+        "question": "If your eyelashes are blond, try using this in brown",
+        "answer": "mascara",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PLAY TIME",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew presents from the Witch Dungeon Museum in Salem, Massachusetts.)  John Proctor & other characters in this 1953 play were based on real people in the Salem witch trials",
+        "answer": "The Crucible",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "McPEOPLE",
+        "value": 1200,
+        "question": "He gave his name to America's tallest mountain",
+        "answer": "(William) McKinley",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STUFF THAT HAPPENED",
+        "value": 1200,
+        "question": "As Europe & Asia had the Silk Road, North & Central America had a \"road\" for this bluish stone",
+        "answer": "turquoise",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EARTH TONES",
+        "value": 1200,
+        "question": "A stoat is a brown animal; this anagram of stoat is also brown in color",
+        "answer": "toast",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MECHANICAL PROBLEMS",
+        "value": 1200,
+        "question": "Paul Dirac used math to describe subatomic activity in his 1930 book \"The Principles of \" this type of \"Mechanics\"",
+        "answer": "quantum mechanics",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CALL TRIPLE \"A\"",
+        "value": 1200,
+        "question": "The oldest forage crop grown for fodder, its sprouts are popular in salads & sandwiches",
+        "answer": "alfalfa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PLAY TIME",
+        "value": 1600,
+        "question": "Jason's first mistake: Leaving this woman, a sorceress & his wife, in this Euripides play named for her",
+        "answer": "Medea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "McPEOPLE",
+        "value": 1600,
+        "question": "Don't fear the reaper; at least not the one patented by this inventor in 1834",
+        "answer": "(Cyrus) McCormick",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STUFF THAT HAPPENED",
+        "value": 1600,
+        "question": "During a September 26, 1687 battle, the roof of this landmark on Athens' Acropolis was blown off",
+        "answer": "the Parthenon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EARTH TONES",
+        "value": 1600,
+        "question": "(Cheryl of the Clue Crew presents holding a pot.)  The pot I have here is an example of this, Italian for \"big dirt\"",
+        "answer": "terra cotta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MECHANICAL PROBLEMS",
+        "value": 1600,
+        "question": "To plot a bullet's trajectory, you'll need to know the MV, this \"velocity\" when it leaves the gun",
+        "answer": "the muzzle velocity",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CALL TRIPLE \"A\"",
+        "value": 1600,
+        "question": "In studying geometry you don't want to take this curve too fast",
+        "answer": "the parabola",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PLAY TIME",
+        "value": 2000,
+        "question": "Roxanne loves the handsome Christian, a soldier who's no good at writing love letters, in this 1897 play",
+        "answer": "Cyrano de Bergerac",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "McPEOPLE",
+        "value": 2000,
+        "question": "In 1861 he was appointed general in chief of the Union Army",
+        "answer": "McClellan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STUFF THAT HAPPENED",
+        "value": 2000,
+        "question": "Ancient areas with legal codes include Greece with Draco's & this land with Hammurabi's",
+        "answer": "Babylon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EARTH TONES",
+        "value": 2000,
+        "question": "It's the shade of reddish brown in the name of the baking potato",
+        "answer": "russet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MECHANICAL PROBLEMS",
+        "value": 2000,
+        "question": "A Machine's ratio of output to input is called this, a related synonym of \"effectiveness\"",
+        "answer": "efficiency",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CALL TRIPLE \"A\"",
+        "value": 2000,
+        "question": "This body of Jewish mystical teaching seeks hidden meaning in scripture",
+        "answer": "the Kabbalah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FADS",
+    "clue": "A '50s fad still popular today, this toy was inspired by a Connecticut bakery's pie tins",
+    "answer": "frisbee"
+  },
+  "gameId": "4017",
+  "gameDate": "Tuesday, February 5, 2002"
+}

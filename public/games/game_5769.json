@@ -1,0 +1,538 @@
+{
+  "title": "Show #1414 - Thursday, October 25, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "THE CIVIL WAR",
+      "FRENCH CLASS",
+      "FACTS & FIGURES",
+      "COUNTRY SONGS",
+      "TOYS & GAMES",
+      "IT'S QUESTIONABLE"
+    ],
+    "clues": [
+      {
+        "category": "THE CIVIL WAR",
+        "value": 100,
+        "question": "In 1975 Congress restored this Confederate general's U.S. citizenship",
+        "answer": "Robert E. Lee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CLASS",
+        "value": 100,
+        "question": "French for \"evening\", it now refers to a party held in the evening",
+        "answer": "soirée",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY SONGS",
+        "value": 100,
+        "question": "Merle Haggard was \"proud to be an Okie from\" this town, \"a place where even squares can have a ball\"",
+        "answer": "Muskogee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 100,
+        "question": "The Aztecs played with bouncing balls made of this material long before Europeans did",
+        "answer": "rubber",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT'S QUESTIONABLE",
+        "value": 100,
+        "question": "In the 1940 cartoon \"A Wild Hare\", Bugs Bunny said this tag line for the first time",
+        "answer": "What's up doc?",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 200,
+        "question": "It was the first Union fort taken by the Confederates in the Civil War",
+        "answer": "Fort Sumter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CLASS",
+        "value": 200,
+        "question": "When the French cook with champignons, they're adding these to the dish",
+        "answer": "mushrooms",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY SONGS",
+        "value": 400,
+        "question": "Heard here, it was the first country song to win a Grammy: \"One night a wild young cowboy came in / Wild as the West Texas wind\"",
+        "answer": "\"El Paso\"",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 200,
+        "question": "Also called lotto, this game is often legal for church groups in states that outlaw most gambling",
+        "answer": "bingo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT'S QUESTIONABLE",
+        "value": 200,
+        "question": "Today's the catcher & Tomorrow's the pitcher in this routine by Abbott & Costello",
+        "answer": "\"Who's on First?\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 300,
+        "question": "The North usually named battles after the nearest body of water, the South after these",
+        "answer": "settlements",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CLASS",
+        "value": 300,
+        "question": "From \"chanter\", to sing, it's a female singer",
+        "answer": "chanteuse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 300,
+        "question": "These originated in England as teaching devices for geography & are named for the way they were cut",
+        "answer": "jigsaw puzzles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT'S QUESTIONABLE",
+        "value": 300,
+        "question": "It was Cain's response when the Lord asked him, \"Where is thy brother Abel?\"",
+        "answer": "Am I my brother's keeper?",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 400,
+        "question": "This ex-slave, known as the \"Moses of Her People\", helped more than 300 slaves escape to freedom",
+        "answer": "Harriet Tubman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CLASS",
+        "value": 400,
+        "question": "When you ask someone to \"Fermez la bouche\", you want him to do this",
+        "answer": "shut his mouth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FACTS & FIGURES",
+        "value": 400,
+        "question": "This southernmost New England state has an 8% state sales tax, the highest in the U.S.",
+        "answer": "Connecticut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COUNTRY SONGS",
+        "value": 400,
+        "question": "In this song Roger Miller told us, \"They oughta take a rope & hang me high from the highest tree\"",
+        "answer": "\"Dang Me\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 400,
+        "question": "Card game that uses a 48-card deck with 2 of each card from 9s to aces",
+        "answer": "pinochle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT'S QUESTIONABLE",
+        "value": 400,
+        "question": "In 1965 Ronald Reagan published this book of memoirs",
+        "answer": "Where's the Rest of Me?",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE CIVIL WAR",
+        "value": 500,
+        "question": "Although only 11 states actually joined the Confederacy, its flag had this many stars",
+        "answer": "13",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRENCH CLASS",
+        "value": 500,
+        "question": "The 2-word phrase meaning \"by airplane\" often found on int'l air mail envelopes",
+        "answer": "par avion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FACTS & FIGURES",
+        "value": 500,
+        "question": "In 1989 Kohlberg Kravis Roberts acquired this company for $32 billion",
+        "answer": "RJR Nabisco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COUNTRY SONGS",
+        "value": 500,
+        "question": "It begins \"The old home town looks the same as I step down from the train\"",
+        "answer": "\"Green, Green Grass of Home\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 500,
+        "question": "Alfred M. Butts called his game \"Criss Cross\", but it was redesigned in 1948 & sold under this name",
+        "answer": "Scrabble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT'S QUESTIONABLE",
+        "value": 500,
+        "question": "Richard Dreyfuss played a paralyzed sculptor in this 1981 film",
+        "answer": "Whose Life Is It Anyway?",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "IN THE NEWS",
+      "COUNTRIES OF THE WORLD",
+      "WOMEN",
+      "PHYSICAL SCIENCE",
+      "LITERATURE",
+      "FAMOUS HOMES"
+    ],
+    "clues": [
+      {
+        "category": "IN THE NEWS",
+        "value": 200,
+        "question": "The House Banking Comm. recently heard testimony from this Bush on the collapse of Silverado S & L",
+        "answer": "Neil Bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 200,
+        "question": "This country was originally formed out of the Turkish provinces of Basra, Mosul & Baghdad",
+        "answer": "Iraq",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WOMEN",
+        "value": 200,
+        "question": "She was the first female regular news anchor on network TV",
+        "answer": "Barbara Walters",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 200,
+        "question": "This is the force that hold a galaxy together",
+        "answer": "gravity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "Lew Wallace novel subtitled \"A Tale of the Christ\"",
+        "answer": "Ben-Hur",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS HOMES",
+        "value": 200,
+        "question": "Graceland in Memphis, Tennessee",
+        "answer": "Elvis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 400,
+        "question": "While Gorbachev was headed for Washington, this man was elected President of the Russian Republic",
+        "answer": "Boris Yeltsin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 400,
+        "question": "Most of its people are descended from Slavic tribes that settled on the Vistula & Warta Rivers",
+        "answer": "Poland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WOMEN",
+        "value": 400,
+        "question": "This American painter had her first one-woman show in the U.S. in 1940, when she was 80 years old",
+        "answer": "Grandma Moses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 400,
+        "question": "Submarines raise these optical instruments to see the ocean's surface",
+        "answer": "periscope",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "Last name of American poets Laura, William Rose & Stephen Vincent",
+        "answer": "Benét",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS HOMES",
+        "value": 400,
+        "question": "Pilaster House in Hannibal, Missouri",
+        "answer": "Mark Twain (Samuel Clemens)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 600,
+        "question": "A gun battle erupted over a gambling casino on this tribe's reservation on the New York-Canada border",
+        "answer": "Mohawk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 600,
+        "question": "This country's state emblem shows the Gate of Heavenly Peace framed by grains of wheat and rice",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WOMEN",
+        "value": 600,
+        "question": "In 1981 this actress-turned-politician became Greece's Minister of Culture",
+        "answer": "Melina Mercouri",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 600,
+        "question": "Solid carbon dioxide",
+        "answer": "dry ice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "In an essay titled \"The Philosophy of Composition\", Poe tells how he wrote this, his best-known poem",
+        "answer": "\"The Raven\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS HOMES",
+        "value": 600,
+        "question": "The Oaks in Tuskegee, Alabama",
+        "answer": "Booker T. Washington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 800,
+        "question": "In 1990, 14,000 people each held only 1 share in this company, due to the nude on the certificate",
+        "answer": "Playboy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 800,
+        "question": "Until 1957 the area that is now Malaysia was ruled by this western power",
+        "answer": "Britain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WOMEN",
+        "value": 800,
+        "question": "Lines from her poem \"The New Colossus\" are inscribed on the Statue of Liberty's pedestal",
+        "answer": "Emma Lazarus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 800,
+        "question": "It is this phenomenon which causes white light to break into colors in a prism",
+        "answer": "refraction",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1600,
+        "question": "Tho many called his \"The Age of Reason\" the \"Atheist's Bible\", it states, \"I believe in one God\"",
+        "answer": "Thomas Paine",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS HOMES",
+        "value": 1600,
+        "question": "Hatchet Hall in Eureka Springs, Arkansas",
+        "answer": "Carry Nation",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 1000,
+        "question": "Despite his communist background, this man won a landslide victory in Romania in May 1990",
+        "answer": "Iliescu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 1000,
+        "question": "The name of this neighbor to Mexico is Mayan from \"land of many trees\"",
+        "answer": "Guatemala",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WOMEN",
+        "value": 1000,
+        "question": "With Dick Rutan she copiloted the Voyager on its historic nonstop flight around the world",
+        "answer": "(Jeana) Yeager",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 1000,
+        "question": "During an eclipse, the area thrown into total darkness is called this",
+        "answer": "umbra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "He wrote \"The Day Christ Died\", \"The Day Lincoln was Shot\" & \"The Day Kennedy was Shot\"",
+        "answer": "Jim Bishop",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS HOMES",
+        "value": 1000,
+        "question": "Rowan Oak in Oxford, Mississippi",
+        "answer": "William Faulkner",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORY",
+    "clue": "It was the first elected legislative body in the New World",
+    "answer": "House of Burgesses"
+  },
+  "gameId": "1414",
+  "gameDate": "Thursday, October 25, 1990"
+}

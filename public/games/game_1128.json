@@ -1,0 +1,574 @@
+{
+  "title": "Show #3334 - Thursday, February 18, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "\"N\" THE ATLAS",
+      "JAZZ NICKNAMES",
+      "WEIRD NATURE",
+      "TEA TIME",
+      "ELECTIONS",
+      "(5,5)"
+    ],
+    "clues": [
+      {
+        "category": "\"N\" THE ATLAS",
+        "value": 100,
+        "question": "Ask any monster how to get to this loch just southwest of Inverness",
+        "answer": "Loch Ness",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 100,
+        "question": "The Aristocrat of Swing, or The Duke",
+        "answer": "Duke Ellington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WEIRD NATURE",
+        "value": 100,
+        "question": "These ungulates have a third eyelid to protect their eyes from blowing sand",
+        "answer": "camels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TEA TIME",
+        "value": 100,
+        "question": "Koicha is a thick tea served during the Cha-No-Yu, this country's famous tea ceremony",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ELECTIONS",
+        "value": 100,
+        "question": "In 1997 all but 10 Republican congressmen voted to re-elect this House speaker",
+        "answer": "Newt Gingrich",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "(5,5)",
+        "value": 100,
+        "question": "Very, very, very, very dark, like tar",
+        "answer": "pitch black",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"N\" THE ATLAS",
+        "value": 200,
+        "question": "This French region takes its name from invading Norsemen of the mid-9th century",
+        "answer": "Normandy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 200,
+        "question": "Yardbird",
+        "answer": "Charlie Parker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WEIRD NATURE",
+        "value": 200,
+        "question": "A giraffe can clean its ears with this up to 18-inch-long appendage",
+        "answer": "its tongue",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TEA TIME",
+        "value": 200,
+        "question": "Ironically, it was an Englishman who introduced tea served this way, at the St. Louis World's Fair",
+        "answer": "iced tea",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ELECTIONS",
+        "value": 200,
+        "question": "While this man was preparing for space, George Voinovich & Mary Boyle were campaigning for his Senate seat",
+        "answer": "John Glenn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "(5,5)",
+        "value": 200,
+        "question": "Savviness, or \"stable\"-mindedness",
+        "answer": "horse sense",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"N\" THE ATLAS",
+        "value": 300,
+        "question": "This city was bombed by \"Bock's Car\" on August 9, 1945",
+        "answer": "Nagasaki",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 300,
+        "question": "Sassy",
+        "answer": "Sarah Vaughan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WEIRD NATURE",
+        "value": 300,
+        "question": "Named for the Welsh for \"white head\", this bird can swim, but not fly",
+        "answer": "a penguin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TEA TIME",
+        "value": 300,
+        "question": "Fictional girl who says, \"It's the stupidest tea-party I ever was at in all my life!\"",
+        "answer": "Alice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ELECTIONS",
+        "value": 300,
+        "question": "In 1996, at age 74, Cecil Underwood became the oldest governor ever elected in this \"Mountain State\"",
+        "answer": "West Virginia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "(5,5)",
+        "value": 300,
+        "question": "Mine are vibrating even as I speak",
+        "answer": "vocal cords",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"N\" THE ATLAS",
+        "value": 400,
+        "question": "You'll find Fiordland National Park & Abel Tasman National Park in this country",
+        "answer": "New Zealand",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 400,
+        "question": "The First Lady of Jazz",
+        "answer": "Ella Fitzgerald",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WEIRD NATURE",
+        "value": 400,
+        "question": "Call a cop!  You're born with 300 of these, but by the time you grow up you only have 206",
+        "answer": "bones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TEA TIME",
+        "value": 400,
+        "question": "Tea is also grown on this island, whose name is synonymous with coffee",
+        "answer": "Java",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ELECTIONS",
+        "value": 400,
+        "question": "This year was \"The Year of the Woman\" with 11 major party Senate candidates who were women",
+        "answer": "1992",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "(5,5)",
+        "value": 400,
+        "question": "The best thing to win; it's blue ribbon level",
+        "answer": "first place",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"N\" THE ATLAS",
+        "value": 500,
+        "question": "This ancient Assyrian city on the Tigris River was destroyed by Babylonians, Medes & Scythians in 612 B.C.",
+        "answer": "Nineveh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 500,
+        "question": "The Empress of the Blues",
+        "answer": "Bessie Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WEIRD NATURE",
+        "value": 500,
+        "question": "A fungus gets mighty cozy when it teams up with one of these organisms to live symbiotically as a lichen",
+        "answer": "algae",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TEA TIME",
+        "value": 500,
+        "question": "Deborah Kerr served more than tea in this 1956 film based on a play",
+        "answer": "Tea and Sympathy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ELECTIONS",
+        "value": 1000,
+        "question": "In 1994 George W. Bush won Texas' gubernatorial race on the day brother Jeb lost this state's race",
+        "answer": "Florida",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "(5,5)",
+        "value": 500,
+        "question": "Term for a periodical published by a business for its employees",
+        "answer": "house organ",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ILLUSTRATORS",
+      "MOVIE NOSTALGIA",
+      "NAME THE POET",
+      "LEGAL LINGO",
+      "YO, POPE ADRIAN!",
+      "SPELL THE LAST NAME"
+    ],
+    "clues": [
+      {
+        "category": "ILLUSTRATORS",
+        "value": 200,
+        "question": "In the early 1820s, before publishing his bird drawings, he worked as a taxidermist",
+        "answer": "John J. Audubon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE NOSTALGIA",
+        "value": 200,
+        "question": "Great silent film director Mack Sennett said, \"A mother never gets hit with a custard\" one of these",
+        "answer": "pie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 200,
+        "question": "\"I think that I shall never see a poem lovely as a tree\"",
+        "answer": "Joyce Kilmer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 200,
+        "question": "It can precede \"with a deadly weapon\", \"with intent to commit murder\" or \"and battery\"",
+        "answer": "assault",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "YO, POPE ADRIAN!",
+        "value": 200,
+        "question": "Born Nicolas Breakspear, Adrian IV is still the only man from this country to have been pope",
+        "answer": "Great Britain (England)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 200,
+        "question": "French emperor Napoleon (I)...",
+        "answer": "B-O-N-A-P-A-R-T-E",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ILLUSTRATORS",
+        "value": 400,
+        "question": "Last name of \"Treasure Island\" illustrator N.C., the father & teacher of painter Andrew",
+        "answer": "Wyeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE NOSTALGIA",
+        "value": 400,
+        "question": "In \"Good News\", Peter Lawford's last line to June Allyson, \"They sure are blue\", refers to these",
+        "answer": "her eyes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 400,
+        "question": "\"Tyger! Tyger! burning bright, in the forests of the night\"",
+        "answer": "William Blake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 400,
+        "question": "Term for the exhibits, objects, documents, testimony, etc. used in court to prove or disprove facts",
+        "answer": "evidence",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "YO, POPE ADRIAN!",
+        "value": 400,
+        "question": "Adrian VI in 1522 was the last non-Italian Pope until this man",
+        "answer": "John Paul II",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 400,
+        "question": "Indian prime minister Indira...",
+        "answer": "G-A-N-D-H-I",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ILLUSTRATORS",
+        "value": 1200,
+        "question": "He illustrated his own works like \"There was a young lady whose chin, resembled the point of a pin\"",
+        "answer": "Edward Lear",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE NOSTALGIA",
+        "value": 600,
+        "question": "\"Splish Splash\", he sang the title tune for the Hayley Mills film \"That Darn Cat!\"",
+        "answer": "Bobby Darin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 600,
+        "question": "\"She walks in beauty, like the night of cloudless climes and starry skies\"",
+        "answer": "Lord Byron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 600,
+        "question": "Baseball term for laws demanding a mandatory sentence for successive felony convictions",
+        "answer": "\"three strikes\" law",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "YO, POPE ADRIAN!",
+        "value": 600,
+        "question": "This would be the holy sea, S-E-A, for all the Pope Adrians; the name Adrian means from its coast",
+        "answer": "the Adriatic Sea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 600,
+        "question": "Czech-born retired tennis star Martina...",
+        "answer": "N-A-V-R-A-T-I-L-O-V-A",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ILLUSTRATORS",
+        "value": 800,
+        "question": "The ALA's medal for the artist of the best children's picture book of the year bears his name",
+        "answer": "Randolph Caldecott",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE NOSTALGIA",
+        "value": 800,
+        "question": "Nat King Cole sang \"When I Fall In Love\" in the Errol Flynn film named for this Turkish city",
+        "answer": "Istanbul",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 800,
+        "question": "\"Death, be not proud, though some have called thee mighty and dreadful, for thou are not so\"",
+        "answer": "John Donne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 800,
+        "question": "Acts that lower the dignity of the trial may bring a fine or a jail sentence if you're held in this",
+        "answer": "contempt of court",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "YO, POPE ADRIAN!",
+        "value": 800,
+        "question": "Adrian III died on his way to the Diet of this, not from a diet of these",
+        "answer": "Worms",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 800,
+        "question": "Florentine author of \"The Prince\" Niccolo...",
+        "answer": "M-A-C-H-I-A-V-E-L-L-I",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ILLUSTRATORS",
+        "value": 1000,
+        "question": "His name is a homophone of an adjective that describes some of his works",
+        "answer": "Edward Gorey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE NOSTALGIA",
+        "value": 1000,
+        "question": "This 1971 film set in a Siberian labor camp is based on a novel by Aleksandr Solzhenitsyn",
+        "answer": "One Day in the Life of Ivan Denisovich",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NAME THE POET",
+        "value": 1000,
+        "question": "\"That's my last duchess painted on the wall, looking as if she were alive.  I call that piece a wonder, now\"",
+        "answer": "Robert Browning",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LEGAL LINGO",
+        "value": 2000,
+        "question": "(Hi, I'm Star Jones of The View.  As a lawyer I can tell you:) This Latin phrase meaning \"of unsound mind\" is often used to indicate permanent or temporary insanity",
+        "answer": "non compos mentis",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "YO, POPE ADRIAN!",
+        "value": 1000,
+        "question": "Adrian II approved the Slavic liturgy in the new script invented by Methodius & this saint",
+        "answer": "Cyril (his brother)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 1000,
+        "question": "\"Finlandia\" composer Jean...",
+        "answer": "S-I-B-E-L-I-U-S",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MODERN AFRICAN HISTORY",
+    "clue": "Africa's newest independent state, it was an Italian colony until WWII, & later incorporated into another country",
+    "answer": "Eritrea (formerly part of Ethiopia)"
+  },
+  "gameId": "3334",
+  "gameDate": "Thursday, February 18, 1999"
+}

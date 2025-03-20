@@ -1,0 +1,574 @@
+{
+  "title": "Show #1573 - Wednesday, June 5, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "CLASSICAL MUSICIANS",
+      "CELEBRITY BOOKS",
+      "COOKING",
+      "HODGEPODGE",
+      "SPORT OF KINGS",
+      "____ THE ____"
+    ],
+    "clues": [
+      {
+        "category": "CLASSICAL MUSICIANS",
+        "value": 100,
+        "question": "Born Maria Kalogeropoulos, this temperamental star soprano died of a heart attack in 1977",
+        "answer": "Maria Callas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY BOOKS",
+        "value": 100,
+        "question": "\"Call Her Miss Ross\" is an unauthorized biography of this woman",
+        "answer": "Diana Ross",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 100,
+        "question": "Recipes for souffles often tell you to beat these until stuff but not dry",
+        "answer": "egg whites",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 100,
+        "question": "In mid-August 1977, a Soviet nuclear-powered ship became the 1st surface ship to reach this point",
+        "answer": "the North Pole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SPORT OF KINGS",
+        "value": 100,
+        "question": "In horse racing it can be fast, heavy or sloppy",
+        "answer": "the track",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 100,
+        "question": "It's where you don't want to be without a paddle",
+        "answer": "up the creek",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSICIANS",
+        "value": 200,
+        "question": "Yehudi Menuhin is a virtuoso on this instrument",
+        "answer": "violin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY BOOKS",
+        "value": 200,
+        "question": "Roxanne Pulitzer's 1st book wasn't called \"The Pulitzer Prize\" but this",
+        "answer": "The Prize Pulitzer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 200,
+        "question": "Mix ginger, coriander, cardamom, cayenne & turmeric for a simple version of this powder",
+        "answer": "curry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 200,
+        "question": "Of Front St., Back St. or Side St., the major shopping street in Bermuda",
+        "answer": "Front St.",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SPORT OF KINGS",
+        "value": 200,
+        "question": "The Run for the Roses",
+        "answer": "the Kentucky Derby",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 200,
+        "question": "Remarks made to a reporter prefaced by this phrase can't be printed",
+        "answer": "off the record",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSICIANS",
+        "value": 300,
+        "question": "Most beautiful baby of 1932, in Brooklyn, this opera diva is nicknamed \"Bubbles\"",
+        "answer": "Beverly Sills",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY BOOKS",
+        "value": 300,
+        "question": "Part 7 of his autobiography is titled \"On the Road Again\"",
+        "answer": "Willie Nelson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 300,
+        "question": "An entree served a la Florentine contains this vegetable, but Florentine cookies don't",
+        "answer": "spinach",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 300,
+        "question": "It's the official language of Antigua & Barbuda",
+        "answer": "English",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SPORT OF KINGS",
+        "value": 300,
+        "question": "In 1977, at the age of 17, he became the 1st jockey to win more than $6 million in one year",
+        "answer": "Steve Cauthen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 300,
+        "question": "Shake hands with the voters while campaigning",
+        "answer": "press the flesh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSICIANS",
+        "value": 400,
+        "question": "In 1989, 11 years after retiring, & 30 years after winning the Tchaikovsky Competition, he made a comeback",
+        "answer": "Van Cliburn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY BOOKS",
+        "value": 400,
+        "question": "\"Growing Up Happy\" is an advice book by this kid's show star known for jangling his keys",
+        "answer": "Bob Keeshan (Captain Kangaroo)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 400,
+        "question": "The liquid left after cooking meat, greens or other vegetables is known as this kind of liquor",
+        "answer": "pop liquor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 400,
+        "question": "Many houses in this Icelandic capital are made of concrete to withstand earthquakes",
+        "answer": "Reykjavik",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SPORT OF KINGS",
+        "value": 400,
+        "question": "He became the only jockey to ride two Triple Crown winners, on Whirlaway in 1941 & Citation in 1948",
+        "answer": "Eddie Arcaro",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 800,
+        "question": "Title of the following, one of the biggest hits of the big band era:",
+        "answer": "\"In The Mood\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSICIANS",
+        "value": 500,
+        "question": "2 of 3 tenors whose \"In Concert\" album hit an unprecedented No. 1 on Britain's pop chart in 1990",
+        "answer": "(2 of) Luciano Pavarotti & Plácido Domingo (or José Carreras)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY BOOKS",
+        "value": 500,
+        "question": "Madonna said of this comedienne's \"Confessions of a Pretty Lady\", \"This book saved my life\"",
+        "answer": "Sandra Bernhard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COOKING",
+        "value": 500,
+        "question": "All you need to make a basic fondant is sugar, water & cream of this",
+        "answer": "tartar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HODGEPODGE",
+        "value": 500,
+        "question": "This Italian city is of Etruscan origin & its name may have come from the Etruscan god Manto",
+        "answer": "Mantua",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SPORT OF KINGS",
+        "value": 500,
+        "question": "The English org. formed around 1750 that wrote the complete rules for horse racing",
+        "answer": "the Jockey Club",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 500,
+        "question": "Make a solemn promise not to drink alcoholic beverages or steal furniture polish",
+        "answer": "take the pledge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE OLD WEST",
+      "THE MIDDLE EAST",
+      "MYTHOLOGY",
+      "NEW JERSEYIANS",
+      "ARCHITECTS",
+      "2-CHARACTER PLAYS"
+    ],
+    "clues": [
+      {
+        "category": "THE OLD WEST",
+        "value": 200,
+        "question": "The Book of the American West says most of these pack animals seem to come from Missouri",
+        "answer": "mules",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE MIDDLE EAST",
+        "value": 200,
+        "question": "In 1973 this Hashemite kingdom finally gave women the right to vote",
+        "answer": "Jordan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "In Norse mythology Fenrir is a huge one these lupine animals",
+        "answer": "a wolf",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEYIANS",
+        "value": 200,
+        "question": "Born in what's now Trenton, this explorer never reached the top of the Colorado peak that bears his name",
+        "answer": "Pike",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTS",
+        "value": 200,
+        "question": "Thomas Walter designed an iron dome to replace this D.C. building's original one",
+        "answer": "the Capitol",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "2-CHARACTER PLAYS",
+        "value": 200,
+        "question": "Alan Alda personified this title bird captured by a pussycat in the 1964 Broadway hit",
+        "answer": "The Owl and the Pussycat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 400,
+        "question": "The Sharps rifles preacher Henry Ward Beecher sent to Kansas settlers were nicknamed this",
+        "answer": "Beecher's Bibles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE MIDDLE EAST",
+        "value": 400,
+        "question": "The Gulf of Oman is connected with the Persian Gulf by this strategic strait",
+        "answer": "the Strait of Hormuz",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "We assume that Themis, a consort of Zeus, was destined to the mother of this trio",
+        "answer": "the Fates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEYIANS",
+        "value": 400,
+        "question": "His large estate in Hopewell was the site of the famous 1932 kidnapping",
+        "answer": "Charles Lindbergh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTS",
+        "value": 400,
+        "question": "Buckminster Fuller designed this type of dome for the U.S. Pavilion at Expo 67",
+        "answer": "a geodesic dome",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "2-CHARACTER PLAYS",
+        "value": 400,
+        "question": "Anne Bancroft won a Tony for her Broadway debut as 1 of the \"Two for\" this playground toy",
+        "answer": "a seesaw",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 600,
+        "question": "In 1858 Lt. Joseph Ives led the 1st party 1 mile down to the bottom of this",
+        "answer": "the Grand Canyon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE MIDDLE EAST",
+        "value": 600,
+        "question": "Tabriz is the largest city in this country's part of Azerbaijan",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 600,
+        "question": "Greek goddess of wisdom who invented the flute but didn't like the way it puffed out her cheeks",
+        "answer": "Athena",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEYIANS",
+        "value": 600,
+        "question": "This senator spent two years at Oxford on a Rhodes Scholarship before playing for the N.Y. Knicks",
+        "answer": "Bill Bradley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTS",
+        "value": 600,
+        "question": "This Doric temple on the Acropolis was built by Ictinus & Callicrates",
+        "answer": "the Parthenon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "2-CHARACTER PLAYS",
+        "value": 600,
+        "question": "In Willy Russell's play Frank is an English tutor who tried educating this hairdresser",
+        "answer": "Miss Rita",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 800,
+        "question": "With a band playing \"Garryowen\" he led the 7th Cavalry against Black Kettle in 1868",
+        "answer": "George Armstrong Custer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE MIDDLE EAST",
+        "value": 1600,
+        "question": "When this Saudi king was assassinated by a nephew in March 1975 he was succeeded by his brother Khalid",
+        "answer": "King Faisal",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 800,
+        "question": "It was the name of the Acadian goddess of fertility engaging ancient Babylon & a 1987 film flop",
+        "answer": "Ishtar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEYIANS",
+        "value": 800,
+        "question": "This scientist lived at 112 Mercer St. in Princeton from 1935 until his death in 1955",
+        "answer": "Albert Einstein",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTS",
+        "value": 800,
+        "question": "Ludwig Mies appended this, his mother's surname, to his own",
+        "answer": "van der Rohe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "2-CHARACTER PLAYS",
+        "value": 1600,
+        "question": "The entire action of this 1951 play takes place in a bedroom & much of it on the title bed",
+        "answer": "The Fourposter",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 1000,
+        "question": "Nevada town that was the business center for the Comstock Mine",
+        "answer": "Virginia City",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE MIDDLE EAST",
+        "value": 1000,
+        "question": "The Beqaa Valley is this small country's main agricultural region",
+        "answer": "Lebanon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1000,
+        "question": "For a time Creon thought that both Ismene & this sister were guilty of burying Polynices",
+        "answer": "Antigone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEYIANS",
+        "value": 1000,
+        "question": "This poet died at 330 Mickle St. in Camden in 1892",
+        "answer": "Walt Whitman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTS",
+        "value": 1000,
+        "question": "\"Inside the Third Reich\" is a memoir by this man, Hitler's chief architect",
+        "answer": "Albert Speer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "2-CHARACTER PLAYS",
+        "value": 1000,
+        "question": "Hume Cronyn & Jessica Tandy got to know each other over the title pastime in this 1977 play",
+        "answer": "The Gin Game",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "VICE PRESIDENTS",
+    "clue": "He was the last vice president who didn't serve a full 4-year term",
+    "answer": "Nelson Rockefeller"
+  },
+  "gameId": "1573",
+  "gameDate": "Wednesday, June 5, 1991"
+}

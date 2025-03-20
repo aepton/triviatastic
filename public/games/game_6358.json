@@ -1,0 +1,538 @@
+{
+  "title": "Show #1702 - Tuesday, January 14, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "ANIMALS",
+      "LANDMARKS",
+      "POOL",
+      "MUSIC",
+      "FASHION ACCESSORIES",
+      "SPELL THAT NAME"
+    ],
+    "clues": [
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "The spectacled or Andean bear is native to this continent",
+        "answer": "South America",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 100,
+        "question": "The state house in Philadelphia is now called this",
+        "answer": "Independence Hall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POOL",
+        "value": 100,
+        "question": "This substance is applied to the tip of the cue to keep it from slipping off the ball",
+        "answer": "chalk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MUSIC",
+        "value": 100,
+        "question": "Samuel Barber's \"Adagio For Strings\" was played at the 1982 funeral of this princess",
+        "answer": "Grace Kelly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FASHION ACCESSORIES",
+        "value": 100,
+        "question": "Bracelets shaped like these reptiles have coiled around arms since ancient times",
+        "answer": "snakes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPELL THAT NAME",
+        "value": 100,
+        "question": "Ms. Foster, who won an Oscar for \"The Accused\"",
+        "answer": "J-O-D-I-E",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "Distinguished from its seal relatives by its tusks, it's the largest of the fin-footed mammals",
+        "answer": "a walrus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 200,
+        "question": "The Chateau Frontenac in this, Canada's oldest city, is a hotel built to look like a French chateau",
+        "answer": "Quebec",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POOL",
+        "value": 200,
+        "question": "The spin imparted on the cue ball by hitting it off center is called this",
+        "answer": "English",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MUSIC",
+        "value": 200,
+        "question": "Part of Gyorgy Ligeti's \"Requiem\" is on the soundtrack of this Stanley Kubrick space film",
+        "answer": "2001: A Space Odyssey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FASHION ACCESSORIES",
+        "value": 200,
+        "question": "A glove with a wide cuff above the wrist that you might want to \"throw down\"",
+        "answer": "a gauntlet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPELL THAT NAME",
+        "value": 200,
+        "question": "This Smith may not be a TV \"Angel\" anymore, but she still looks like one",
+        "answer": "J-A-C-L-Y-N",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "The scientific name of this largest deer is from a Greek word meaning \"elk\"",
+        "answer": "a moose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 300,
+        "question": "The Temple of the Giant Jaguar is part of this civilization's ruins in Guatemala",
+        "answer": "Maya",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POOL",
+        "value": 300,
+        "question": "This is the term for the pocketing of the cue ball",
+        "answer": "to scratch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MUSIC",
+        "value": 300,
+        "question": "Art Blakey, Gene Krupa & Buddy Rich all played this instrument",
+        "answer": "the drums",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FASHION ACCESSORIES",
+        "value": 300,
+        "question": "The beads hippies wore in the '60s had this \"romantic\" name",
+        "answer": "love beads",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPELL THAT NAME",
+        "value": 300,
+        "question": "Mouseketeer Annette",
+        "answer": "F-U-N-I-C-E-L-L-O",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "This marsupial has 50 teeth, more than any other North American mammal",
+        "answer": "a possum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 400,
+        "question": "726 feet tall, this structure stands in the Black Canyon of the Colorado River",
+        "answer": "the Hoover Dam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POOL",
+        "value": 400,
+        "question": "The top of a table is often made of this rock & can weigh over 300 pounds",
+        "answer": "slate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MUSIC",
+        "value": 400,
+        "question": "Argentine Carlos Gardel is still considered the world's most famous singer in this style",
+        "answer": "the tango style",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FASHION ACCESSORIES",
+        "value": 400,
+        "question": "A synonym for onlookers, or the type of white pumps with contrasting trim they might wear",
+        "answer": "spectators",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPELL THAT NAME",
+        "value": 400,
+        "question": "Late Ballerina Dame Margot",
+        "answer": "F-O-N-T-E-Y-N",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "The name of this Tibetan dog is Chinese for \"lion dog\"",
+        "answer": "shih tzu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 500,
+        "question": "Tyn Church & a monument to reformer Jan Hus are in this Czech capital's old town",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POOL",
+        "value": 500,
+        "question": "For the game of 8-ball, this many balls, not 8, are racked",
+        "answer": "15",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MUSIC",
+        "value": 1000,
+        "question": "\"Heavenly\" keyboard instrument heard in the \"Dance Of The Sugar Plum Fairy\"",
+        "answer": "celeste",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FASHION ACCESSORIES",
+        "value": 500,
+        "question": "A reticule is a small drawstring one of these",
+        "answer": "a purse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPELL THAT NAME",
+        "value": 500,
+        "question": "Last name of the political theorist who wrote \"The Prince\"",
+        "answer": "M-A-C-H-I-A-V-E-L-L-I",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CAPTAIN COOK",
+      "STATE CAPITALS",
+      "1942",
+      "THE BODY HUMAN",
+      "OLD GLORY",
+      "NOVELS"
+    ],
+    "clues": [
+      {
+        "category": "CAPTAIN COOK",
+        "value": 200,
+        "question": "Captain Cook's first name",
+        "answer": "James",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "The only home Abraham Lincoln ever owned is in this capital city",
+        "answer": "Springfield (Illinois)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "1942",
+        "value": 200,
+        "question": "The Army bombed lava flows that endangered the city of Hilo on this island",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 200,
+        "question": "The scientific name for the breastbone",
+        "answer": "the sternum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 200,
+        "question": "We don't know what year the next star will be added, but we do know it will be on this date",
+        "answer": "July 4th",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 200,
+        "question": "Chapter XX of this novel is \"Lorna Begins Her Story\"; Chapter XXI is \"Lorna Ends Her Story\"",
+        "answer": "Lorna Doone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CAPTAIN COOK",
+        "value": 400,
+        "question": "On his third voyage, he sailed the Arctic, looking for this",
+        "answer": "the Northwest Passage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "Lying at the southern end of Puget Sound, it was named for the nearby mountains",
+        "answer": "Olympia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 400,
+        "question": "This cone-shaped tube connects the nose & mouth with the voice box & esophagus",
+        "answer": "the pharynx",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 400,
+        "question": "The only time you should display the flag with the stars down",
+        "answer": "in times of distress",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 400,
+        "question": "The French title of this Albert Camus novel is \"L'Etranger\"",
+        "answer": "The Stranger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CAPTAIN COOK",
+        "value": 600,
+        "question": "He won the Copley Medal for preventing this disease by giving his crew sauerkraut",
+        "answer": "scurvy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 600,
+        "question": "This state capital is the seat of Leon County, which was named for Ponce de Leon",
+        "answer": "Tallahassee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 600,
+        "question": "The trapezius & latissimus dorsi muscles are located in this part of the body",
+        "answer": "upper back",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 600,
+        "question": "It was first planted in this sea July 20, 1969",
+        "answer": "the Sea of Tranquility (on the moon)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 600,
+        "question": "His book \"North and South\" ends with a 1787 antislavery quote by George Mason of Virginia",
+        "answer": "(John) Jakes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CAPTAIN COOK",
+        "value": 800,
+        "question": "Cook named the east coast of Australia this after a part of Britain",
+        "answer": "New South Wales",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 800,
+        "question": "Sky Harbor International Airport is located in this southwestern capital",
+        "answer": "Phoenix, Arizona",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 800,
+        "question": "Term for the 4 veins from the lungs that supply blood to the heart's left atrium",
+        "answer": "the pulmonary veins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 1600,
+        "question": "When Flag Day was made a national holiday, the flag had this many stars",
+        "answer": "48",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 800,
+        "question": "Lady Dedlock disappears and dies in Dickens' novel about this depressing domicile",
+        "answer": "Bleak House",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CAPTAIN COOK",
+        "value": 2000,
+        "question": "The new U.S. space shuttle is named after this ship Cook took on an astronomy mission in 1768",
+        "answer": "the Endeavour",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 1000,
+        "question": "Fort Benjamin Harrison, just northeast of this midwest capital, houses the U.S. Army Finance Center",
+        "answer": "Indianapolis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 1000,
+        "question": "From a word meaning \"tree\", these threadlike branches of a neuron carry signals to a nerve cell body",
+        "answer": "dendrites",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 1000,
+        "question": "A flag is flown at half-mast for 10 days on a vice president's death & this long for a president's",
+        "answer": "30 days",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 1000,
+        "question": "The first line of this Betty Smith novel is \"Serene was a word you could put to Brooklyn, New York\"",
+        "answer": "A Tree Grows in Brooklyn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "The New York Stock Exchange symbol of this Montreal-based company is \"VO\"",
+    "answer": "Seagram"
+  },
+  "gameId": "1702",
+  "gameDate": "Tuesday, January 14, 1992"
+}

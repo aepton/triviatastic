@@ -1,0 +1,574 @@
+{
+  "title": "Show #5060 - Friday, September 15, 2006",
+  "jeopardyRound": {
+    "categories": [
+      "AROUND SWEDEN",
+      "DISNEY MOVIE TAGLINES",
+      "AMERICAN LIT",
+      "NOTABLE NAMES",
+      "FASHION",
+      "SILENT K"
+    ],
+    "clues": [
+      {
+        "category": "AROUND SWEDEN",
+        "value": 200,
+        "question": "At Malmo, the Oresund Bridge joins Denmark & Sweden for the 1st time since 7,000 years ago during one of these ages",
+        "answer": "an ice age",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIE TAGLINES",
+        "value": 200,
+        "question": "\"Still the fairest of them all\"",
+        "answer": "Snow White and the Seven Dwarfs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN LIT",
+        "value": 200,
+        "question": "A Twain tale celebrated a jumping frog of this title county",
+        "answer": "Calaveras County",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 200,
+        "question": "About 100,000 people were on hand to greet him at Le Bourget Airfield when he landed there in 1927",
+        "answer": "(Charles) Lindbergh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 200,
+        "question": "He began printing his double-G motif on luggage & purses after WWII; his famous loafers came later",
+        "answer": "(Guccio) Gucci",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SILENT K",
+        "value": 200,
+        "question": "To interlock yarn loops to make a garment",
+        "answer": "knit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AROUND SWEDEN",
+        "value": 400,
+        "question": "A sort of museum of children's books, Junibacken re-creates the cottage of this beloved fictional Swedish girl",
+        "answer": "Pippi Longstocking",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIE TAGLINES",
+        "value": 400,
+        "question": "\"The toys are back in town\"",
+        "answer": "Toy Story 2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN LIT",
+        "value": 400,
+        "question": "This 1906 novel was intended as a companion piece to \"The Call of the Wild\"",
+        "answer": "White Fang",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 400,
+        "question": "At 81, he was the oldest man to sign the U.S. Constitution",
+        "answer": "(Benjamin) Franklin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 400,
+        "question": "This waist-length, sleeveless women's jacket was inspired by a Spanish bullfighter's emroidered jacket",
+        "answer": "a bolero",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SILENT K",
+        "value": 400,
+        "question": "Super soul sister backed up by The Pips",
+        "answer": "Gladys Knight",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AROUND SWEDEN",
+        "value": 600,
+        "question": "The world's first open-air museum, Skansen, shows how people live in Sweden & has a camp of these people AKA Sami",
+        "answer": "Laplanders",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIE TAGLINES",
+        "value": 600,
+        "question": "\"She's high-society...he's back-alley...and it's a doggone wonderful world!\"",
+        "answer": "Lady and the Tramp",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN LIT",
+        "value": 600,
+        "question": "He won National Book Awards for \"Goodbye, Columbus\" & \"Sabbath's Theater\"",
+        "answer": "Philip Roth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 600,
+        "question": "Maryville Wood, an Iowa farmer, gave this name to his artistically gifted son",
+        "answer": "Grant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 600,
+        "question": "This long, narrow scarf that's looped or knotted in the front was named for a British racetrack",
+        "answer": "an ascot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SILENT K",
+        "value": 600,
+        "question": "Literally German for \"crack sausage\", it's like a shorter, thicker frankfurter",
+        "answer": "knackwurst",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AROUND SWEDEN",
+        "value": 800,
+        "question": "(Jon of the Clue Crew reports from Stockholm, Sweden.) Sweden has more than 2500 of these carved stones, many commemorating fallen Viking heroes",
+        "answer": "rune stones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIE TAGLINES",
+        "value": 800,
+        "question": "\"Pure enjoyment...with no strings attached\"",
+        "answer": "Pinocchio",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN LIT",
+        "value": 800,
+        "question": "A telegram in this Hemingway novel says, \"Lady Ashley Hotel Montana Madrid arriving Sud  Express...love Jake\"",
+        "answer": "The Sun Also Rises",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 800,
+        "question": "He led revolts in South America before helping unify Italy, making him the \"Hero of Two Worlds\"",
+        "answer": "(Giuseppe) Garibaldi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 800,
+        "question": "A traditional trench coat features these accessories, from the Latin for \"shoulder blade\"",
+        "answer": "an epaulet",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SILENT K",
+        "value": 800,
+        "question": "President Polk's middle name",
+        "answer": "Knox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AROUND SWEDEN",
+        "value": 1000,
+        "question": "The grave of this Swedish prime minister who was assassinated in 1986 is in the Adolf Fredrik's Churchyard",
+        "answer": "Olof Palme",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIE TAGLINES",
+        "value": 1000,
+        "question": "\"Awaken to a world of wonders\"",
+        "answer": "Sleeping Beauty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN LIT",
+        "value": 1000,
+        "question": "Dupin figures out that the title object of this Poe story is hidden in plain sight",
+        "answer": "The Purloined Letter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 1000,
+        "question": "This 1970s Philly mayor & police comm. once said, \"The streets are safe...it's only the people who make them unsafe\"",
+        "answer": "(Frank) Rizzo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 1000,
+        "question": "The Montecristi Fino is a top-of-the-line roll-up-able type of this hat made in Ecuador",
+        "answer": "a Panama hat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SILENT K",
+        "value": 1000,
+        "question": "Ancient capital of the Minoan civilization on Crete",
+        "answer": "Knossos",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FRANZ FERDINAND",
+      "GREEN DAY",
+      "COLD PLAY",
+      "50 CENT",
+      "SYSTEM OF A \"DOWN\"",
+      "THE KIDS LOVE THEIR MUSIC"
+    ],
+    "clues": [
+      {
+        "category": "FRANZ FERDINAND",
+        "value": 400,
+        "question": "The year Franz Ferdinand was assassinated, leading to World War I",
+        "answer": "1914",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GREEN DAY",
+        "value": 400,
+        "question": "You might feel a little green on March 17, this Saint's feast day",
+        "answer": "(St.) Patrick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COLD PLAY",
+        "value": 400,
+        "question": "For 1923's \"Icebound\", about Maine, Owen Davis was the fifth winner of this prize for drama",
+        "answer": "the Pulitzer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "50 CENT",
+        "value": 400,
+        "question": "1 of the 2 items the Eagle clutches on the reverse side of the current JFK half dollar",
+        "answer": "arrows (or an olive branch)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SYSTEM OF A \"DOWN\"",
+        "value": 400,
+        "question": "2-word slang for the smallest continent",
+        "answer": "Down Under",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE KIDS LOVE THEIR MUSIC",
+        "value": 400,
+        "question": "Completes the title of a 2003 50 Cent album & a 2005 50 Cent film \"Get Rich Or...\"",
+        "answer": "Die Trying",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FRANZ FERDINAND",
+        "value": 800,
+        "question": "The title by which Franz Ferdinand is commonly known; in German, it's Erzherzog",
+        "answer": "Archduke",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GREEN DAY",
+        "value": 800,
+        "question": "To receive one of these means to be given the go-ahead, especially if you're driving",
+        "answer": "a green light",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COLD PLAY",
+        "value": 800,
+        "question": "In a 1963 play Shelley Winters reminisced, \"I'd lay ...on my back, and swish my arms up and down\" & make this title item",
+        "answer": "snow angels",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "50 CENT",
+        "value": 800,
+        "question": "The 1964 JFK half dollar was 90% this transition metal, symbol Ag",
+        "answer": "silver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SYSTEM OF A \"DOWN\"",
+        "value": 800,
+        "question": "When you descend a steep grade, it helps to do this instead of braking to save wear on your car's brakes",
+        "answer": "downshift",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE KIDS LOVE THEIR MUSIC",
+        "value": 800,
+        "question": "A Coldplay song says, \"Look at the stars, look how they shine for you... yeah they were all\" this color",
+        "answer": "yellow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FRANZ FERDINAND",
+        "value": 1200,
+        "question": "The European capital city where he fell to his assassin's bullets",
+        "answer": "Sarajevo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GREEN DAY",
+        "value": 1200,
+        "question": "Colorful term for the gases in our atmosphere that let the sun's rays through but stop the heat from escaping",
+        "answer": "greenhouse gases",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COLD PLAY",
+        "value": 1200,
+        "question": "This Scandinavian's \"John Gabriel Borkman\" takes place on a winter night in a snowstorm",
+        "answer": "Ibsen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "50 CENT",
+        "value": 1200,
+        "question": "Built between 1732 & 1756, this Philadelphia building is on the reverse of the Bicentennial half dollar",
+        "answer": "Independence Hall",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SYSTEM OF A \"DOWN\"",
+        "value": 1200,
+        "question": "Olympic event mastered by Jean-Claude Killy & Franz Klammer",
+        "answer": "downhill skiing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE KIDS LOVE THEIR MUSIC",
+        "value": 1200,
+        "question": "This 2004 concept album by Green Day is about a character known as Saint Jimmy",
+        "answer": "American Idiot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FRANZ FERDINAND",
+        "value": 1600,
+        "question": "The empire to which Franz Ferdinand became heir in 1896",
+        "answer": "the Austro-Hungarian Empire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GREEN DAY",
+        "value": 1600,
+        "question": "A southern U.S. journalism award is named for this traditional forehead accoutrement of editors",
+        "answer": "Green Eyeshade",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COLD PLAY",
+        "value": 1600,
+        "question": "\"Go where the snow never melts away\" is from the song \"Lost Horizon\" in the musical named for this place",
+        "answer": "Shangri-La",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "50 CENT",
+        "value": 1600,
+        "question": "From 1948 to 1963 the half dollar had Ben Franklin on the front & this iconic symbol on the back",
+        "answer": "the Liberty Bell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SYSTEM OF A \"DOWN\"",
+        "value": 1600,
+        "question": "Where the actors are during a theater performance when they're closest to the audience",
+        "answer": "downstage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE KIDS LOVE THEIR MUSIC",
+        "value": 1600,
+        "question": "System of a Down played off a book title by this '60s activist with its 2002 CD \"Steal This Album!\"",
+        "answer": "Abbie Hoffman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FRANZ FERDINAND",
+        "value": 2000,
+        "question": "The Royal Family to which he belonged",
+        "answer": "the Hapsburgs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GREEN DAY",
+        "value": 2000,
+        "question": "This shiny \"Asian\" green insect has become a major destructive pest in the Eastern United States",
+        "answer": "a Japanese beetle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COLD PLAY",
+        "value": 2000,
+        "question": "This James Goldman play is set in a castle at Christmas, 1183",
+        "answer": "\"The Lion In Winter\"",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "50 CENT",
+        "value": 2000,
+        "question": "He was the first African American on a U.S. coin; the reverse of his half dollar read, \"from slave cabin to hall of fame\"",
+        "answer": "Booker T. Washington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SYSTEM OF A \"DOWN\"",
+        "value": 2000,
+        "question": "This group was responsible for the accolade seen here",
+        "answer": "the Downtown Athletic Club",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE KIDS LOVE THEIR MUSIC",
+        "value": 2000,
+        "question": "Alt rock band Franz Ferdinand formed in this largest Scottish city",
+        "answer": "Glasgow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. STATES",
+    "clue": "Of the 4 U.S. states that are officially called commonwealths, this one was not 1 of the original 13 Colonies",
+    "answer": "Kentucky"
+  },
+  "gameId": "5060",
+  "gameDate": "Friday, September 15, 2006"
+}

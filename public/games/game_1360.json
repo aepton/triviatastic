@@ -1,0 +1,574 @@
+{
+  "title": "Show #4319 - Thursday, May 15, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD CAPITALS",
+      "THE OLYMPIC GAMES",
+      "LITERARY TERMS",
+      "RUM FOR YOUR LIFE",
+      "SCANDINAVIANS",
+      "TRUE & FALSE"
+    ],
+    "clues": [
+      {
+        "category": "WORLD CAPITALS",
+        "value": 200,
+        "question": "Proverbially, it's where \"all roads lead\"",
+        "answer": "to Rome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 200,
+        "question": "In 1998 at age 15 she became the youngest person ever to win a gold medal for ladies' figure skating",
+        "answer": "Tara Lipinski",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 200,
+        "question": "This term for stories about larger-than-life characters is most appropriate for the towering Paul Bunyan",
+        "answer": "tall tales",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RUM FOR YOUR LIFE",
+        "value": 200,
+        "question": "Have a cigar & a Cuba Libre: a drink of rum, ice, lime wedges & this",
+        "answer": "Coca-Cola",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SCANDINAVIANS",
+        "value": 200,
+        "question": "Somehow a pulp & paper concern begun by Finn Frederik Idestam in 1865 evolved into this cell phone giant",
+        "answer": "Nokia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TRUE & FALSE",
+        "value": 200,
+        "question": "You have 7 true pairs of these & 5 false pairs (2 of which are floating)",
+        "answer": "ribs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 400,
+        "question": "It's where the government of India meets",
+        "answer": "New Delhi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 400,
+        "question": "When this U.S. speedskater raced at the 2002 Olympics, his fans sported fake whiskers under their bottom lips",
+        "answer": "Apolo Anton Ohno",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 400,
+        "question": "A Robinsonade, an adventure that's often about a marooned person, is named for a character created by this author",
+        "answer": "Daniel Defoe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RUM FOR YOUR LIFE",
+        "value": 400,
+        "question": "After one of these cocktails using 3 different kinds of rum, you might feel like the voodoo victim it's named for",
+        "answer": "Zombie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SCANDINAVIANS",
+        "value": 400,
+        "question": "Bjorn Borg won Wimbledon in 1980; this Swedish man won it in 1990",
+        "answer": "Stefan Edberg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TRUE & FALSE",
+        "value": 400,
+        "question": "The true morel variety of these is okay to eat; the false morels are poisonous",
+        "answer": "mushrooms",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 600,
+        "question": "After the Khmer Rouge came to power, this city's population dropped from about 2 million to 20,000",
+        "answer": "Phnom Penh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 600,
+        "question": "In 1988 he won a gold medal boxing for Canada; 5 years later he won the pro heavyweight title",
+        "answer": "Lennox Lewis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 600,
+        "question": "Don't call Gertrude Stein a \"block\"head, though she played with the literary form of this Braque art style",
+        "answer": "Cubism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RUM FOR YOUR LIFE",
+        "value": 600,
+        "question": "The logo seen here, for this brand, was based on a suggestion by Dona Amalia, the founder's wife",
+        "answer": "Bacardi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SCANDINAVIANS",
+        "value": 600,
+        "question": "In 2000 this seventysomething Swede became head of the U.N.'s weapons inspectors for Iraq",
+        "answer": "Hans Blix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TRUE & FALSE",
+        "value": 600,
+        "question": "In digital logic circuits, 1 is true & this number is false",
+        "answer": "0",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 800,
+        "question": "Physicist Niels Bohr was born in this capital in 1885",
+        "answer": "Copenhagen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 800,
+        "question": "Through 2000, Jenny Thompson has won 8 gold medals in this sport, the most by any U.S. woman in any sport",
+        "answer": "swimming",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 800,
+        "question": "This adjective referring to the works of GBS is derived from the Latinized form of his surname",
+        "answer": "Shavian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RUM FOR YOUR LIFE",
+        "value": 800,
+        "question": "It's the Jamaican coffee-flavored rum liqueur whose name means \"Aunt Mary\"",
+        "answer": "Tia Maria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SCANDINAVIANS",
+        "value": 800,
+        "question": "We wouldn't call ourselves Homo sapiens without the work of this 18th C. Swedish naturalist",
+        "answer": "Carl Linnaeus",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TRUE & FALSE",
+        "value": 800,
+        "question": "\"True and False: Heresy and Common Sense for the Actor\" is by this \"Speed-the-Plow\" playwright",
+        "answer": "David Mamet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 1000,
+        "question": "The name of this South African capital means \"fountain of flowers\"",
+        "answer": "Bloemfontein",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 1000,
+        "question": "In 1968 this Frenchman became only the second man in history to win 3 skiing events in the same Olympics",
+        "answer": "Jean-Claude Killy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 1000,
+        "question": "Real people & events are thinly disguised in this type of work, French for \"novel with a key\"",
+        "answer": "roman a clef",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RUM FOR YOUR LIFE",
+        "value": 1000,
+        "question": "Mount Gay Rum has been made in this West Indies island nation off northeastern South America for 300 years",
+        "answer": "Barbados",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SCANDINAVIANS",
+        "value": 1000,
+        "question": "Amundsen was a pup in 1888 when this Norwegian explorer schlepped across the Greenland ice cap",
+        "answer": "Fridtjof Nansen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TRUE & FALSE",
+        "value": 1000,
+        "question": "Folk song writer who gave us \"False from True\" & \"Turn, Turn, Turn\"",
+        "answer": "Pete Seeger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "INVERTEBRATES",
+      "AUTHORS ON FILM",
+      "LISTEN TO THE EXPERTS -- NOT!",
+      "OCCUPATIONAL HAZARDS",
+      "PRESIDENTIAL MEDICAL RECORDS",
+      "CRUSH UP YOUR SHAKESPEARE"
+    ],
+    "clues": [
+      {
+        "category": "INVERTEBRATES",
+        "value": 400,
+        "question": "While this spiny-skinned sea creature can have 40 arms or more, most have 5",
+        "answer": "starfish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS ON FILM",
+        "value": 400,
+        "question": "Nicole Kidman (in a prosthetic nose) portrayed \"The Hours\" of this author",
+        "answer": "Virginia Woolf",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LISTEN TO THE EXPERTS -- NOT!",
+        "value": 400,
+        "question": "In 1929 engineer George Gillette remarked, \"By 1940\" this physics theory \"will be considered a joke\"",
+        "answer": "Theory of relativity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATIONAL HAZARDS",
+        "value": 400,
+        "question": "Logically, this occupation (not postal clerk) is exposed to the highest incidence of workplace violent crime",
+        "answer": "police officer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PRESIDENTIAL MEDICAL RECORDS",
+        "value": 400,
+        "question": "His wife is often called the first woman president because many believed she called all the shots after his stroke",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CRUSH UP YOUR SHAKESPEARE",
+        "value": 400,
+        "question": "Female spot remover:CHAT ME BADLY",
+        "answer": "Lady Macbeth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "INVERTEBRATES",
+        "value": 800,
+        "question": "A Fred Astaire movie, or the spider relative seen here",
+        "answer": "daddy long legs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS ON FILM",
+        "value": 800,
+        "question": "Meryl Streep played this author of \"Shadows on the Grass\" in 1985's \"Out of Africa\"",
+        "answer": "Isak Dinesen (Karen Blixen)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LISTEN TO THE EXPERTS -- NOT!",
+        "value": 800,
+        "question": "In 1911 the New York Times reported, \"Vast Engineering Works Accomplished by Our Planetary Neighbors\" here",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATIONAL HAZARDS",
+        "value": 800,
+        "question": "In game 3 of the Stanley Cup finals, Red Wing Steve Duchesne lost 6 of these, 2 of them original",
+        "answer": "his teeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PRESIDENTIAL MEDICAL RECORDS",
+        "value": 800,
+        "question": "This president showed off his gall bladder surgery scar in the photo seen here",
+        "answer": "Lyndon B. Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CRUSH UP YOUR SHAKESPEARE",
+        "value": 800,
+        "question": "\"Hamlet\" site:NILE ROSE",
+        "answer": "Elsinore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "INVERTEBRATES",
+        "value": 1200,
+        "question": "When this crab waves the larger of its front claws, it's said to resemble the movements of a violinist",
+        "answer": "fiddler crab",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS ON FILM",
+        "value": 1200,
+        "question": "Meryl Streep played this author of \"The Orchid Thief\" in 2002's \"Adaptation\"",
+        "answer": "Susan Orlean",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LISTEN TO THE EXPERTS -- NOT!",
+        "value": 1200,
+        "question": "Killed in the Montana Territory in 1876, this man had declared that \"The Army is the Indian's best friend\"",
+        "answer": "George A. Custer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATIONAL HAZARDS",
+        "value": 1200,
+        "question": "Metal fumes & oily floors trouble workers in these shops where you go after a fender-bender",
+        "answer": "auto repair shops",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PRESIDENTIAL MEDICAL RECORDS",
+        "value": 1200,
+        "question": "He kept secret the fact that he lost sight in his left eye during a boxing match with a White House aide",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CRUSH UP YOUR SHAKESPEARE",
+        "value": 1200,
+        "question": "\"Prospero\"us girl:IN DRAMA",
+        "answer": "Miranda",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "INVERTEBRATES",
+        "value": 1600,
+        "question": "Like African sleeping sickness, nagana, a disease fatal to cattle, is carried by this insect",
+        "answer": "tsetse fly",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS ON FILM",
+        "value": 1600,
+        "question": "\"Cross Creek\" is a biography of this author of \"The Yearling\"",
+        "answer": "Marjorie Kinnan Rawlings",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LISTEN TO THE EXPERTS -- NOT!",
+        "value": 1600,
+        "question": "In 1940 Gandhi said, \"I don't consider\" this man \"to be as bad as depicted...his victories\" are gained \"without much bloodshed\"",
+        "answer": "Adolf Hitler",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATIONAL HAZARDS",
+        "value": 1600,
+        "question": "As our writers know, eyestrain is one hazard of working at a VDT, short for this",
+        "answer": "video display terminal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PRESIDENTIAL MEDICAL RECORDS",
+        "value": 1600,
+        "question": "George & Barbara Bush were both diagnosed with this thyroid disorder",
+        "answer": "Graves' disease",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CRUSH UP YOUR SHAKESPEARE",
+        "value": 1600,
+        "question": "Big \"Kat\" tamer:HIP TO CURE",
+        "answer": "Petruchio",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "INVERTEBRATES",
+        "value": 2000,
+        "question": "This tentacled squid relative seen here is the source of the brown pigment called sepia",
+        "answer": "cuttlefish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AUTHORS ON FILM",
+        "value": 2000,
+        "question": "1995's \"Carrington\" also portrays the life & loves of this Bloomsbury Group member who wrote \"Eminent Victorians\"",
+        "answer": "Lytton Strachey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LISTEN TO THE EXPERTS -- NOT!",
+        "value": 2000,
+        "question": "In the 4th century B.C., this Greek philosopher declared that \"The brain is an organ of minor importance\"",
+        "answer": "Aristotle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATIONAL HAZARDS",
+        "value": 2000,
+        "question": "People who work with this type of truck have to be careful not to fall off a tine",
+        "answer": "forklift truck",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PRESIDENTIAL MEDICAL RECORDS",
+        "value": 2000,
+        "question": "JFK suffered from this disease caused by the insufficient production of hormones by the adrenal glands",
+        "answer": "Addison's disease",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CRUSH UP YOUR SHAKESPEARE",
+        "value": 2000,
+        "question": "Richard's battleground:SHOW TOLD BRIEF",
+        "answer": "Bosworth Field",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GOVERNORS",
+    "clue": "In 1967 she became the first woman governor of a state east of the Mississippi River",
+    "answer": "Lurleen B. Wallace (of Alabama)"
+  },
+  "gameId": "4319",
+  "gameDate": "Thursday, May 15, 2003"
+}

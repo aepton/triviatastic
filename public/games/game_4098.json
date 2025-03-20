@@ -1,0 +1,574 @@
+{
+  "title": "Show #6556 - Monday, March 4, 2013",
+  "jeopardyRound": {
+    "categories": [
+      "CHESS? YES!",
+      "3-LETTER WORDS",
+      "EXILED",
+      "SHOPPING ABBREV.",
+      "CELEBRITIES LOVE TV",
+      "\"V\" ARE THE WORLD"
+    ],
+    "clues": [
+      {
+        "category": "CHESS? YES!",
+        "value": 200,
+        "question": "This piece that starts off in the corner is generally worth about 5 pawns",
+        "answer": "a rook",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 200,
+        "question": "A female goat can be referred to as a nanny goat or this, just like a female deer",
+        "answer": "a doe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EXILED",
+        "value": 200,
+        "question": "After declaring Napoleon III a traitor to France, this \"Les Miserables\" author went into exile for 19 years",
+        "answer": "Victor Hugo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHOPPING ABBREV.",
+        "value": 200,
+        "question": "It revamped its stores in 2012:JCP",
+        "answer": "J.C. Penney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CELEBRITIES LOVE TV",
+        "value": 200,
+        "question": "(I'm CNN correspondent Lizzie O'Leary.)  Just like a lot of people, I'm watching this AMC show created by Matthew Weiner, who writes great characters like Betty Draper & Roger Sterling",
+        "answer": "Mad Men",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ARE THE WORLD",
+        "value": 200,
+        "question": "The highest point in this country is Pico Bolivar",
+        "answer": "Venezuela",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHESS? YES!",
+        "value": 400,
+        "question": "To earn this title, a player must attain a minimum of 2500 rating points",
+        "answer": "Grandmaster",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 400,
+        "question": "Cheers to you if you know that London dry is a common type of this",
+        "answer": "gin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EXILED",
+        "value": 400,
+        "question": "In 1302 this poet was exiled from Florence by political enemies & faced being burnt at the stake if he returned",
+        "answer": "Dante",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHOPPING ABBREV.",
+        "value": 400,
+        "question": "Take flight with this patriotic-sounding clothing store: AE",
+        "answer": "American Eagle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CELEBRITIES LOVE TV",
+        "value": 400,
+        "question": "(I'm BBC news anchor Katty Kay.)  I can't get enough of Maggie Smith's dowager countess on this PBS show with lines like \"Don't be defeatist, dear, it's very middle class\"",
+        "answer": "Downton Abbey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ARE THE WORLD",
+        "value": 400,
+        "question": "Stanley Park occupies 1,000 acres of this British Columbia city",
+        "answer": "Vancouver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHESS? YES!",
+        "value": 600,
+        "question": "To fianchetto one of these pieces is to move it onto one of the board's long diagonals",
+        "answer": "a bishop",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 600,
+        "question": "In a patriotic song Columbia is the this \"of the ocean\"",
+        "answer": "\"Columbia, Gem of the Ocean\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EXILED",
+        "value": 600,
+        "question": "In the '70s this Oscar-nominated \"Chinatown\" director fled the United States",
+        "answer": "Roman Polanski",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHOPPING ABBREV.",
+        "value": 600,
+        "question": "It has a line called pink: VS",
+        "answer": "Victoria's Secret",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CELEBRITIES LOVE TV",
+        "value": 600,
+        "question": "(I'm columnist Clarence Page.)  I like to watch this NBC sitcom, which I think is an inspired satire of small-town governance & political ambition",
+        "answer": "Parks & Recreation",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ARE THE WORLD",
+        "value": 600,
+        "question": "This major city on the Adriatic is vulnerable to floods, as was the case in 2008",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CHESS? YES!",
+        "value": 800,
+        "question": "A game in which each player is allotted 5 minutes or less is called this type, German for \"lightning\"",
+        "answer": "blitz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 800,
+        "question": "This Hawaiian dish made from cooked taro root that's pounded to a paste is eaten with the fingers",
+        "answer": "poi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EXILED",
+        "value": 800,
+        "question": "He's been in exile since 1959 after a failed Tibetan uprising against Chinese occupation",
+        "answer": "the Dalai Lama",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHOPPING ABBREV.",
+        "value": 800,
+        "question": "Clothes for the working woman: AT",
+        "answer": "Ann Taylor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CELEBRITIES LOVE TV",
+        "value": 800,
+        "question": "(I'm CNBC reporter David Faber.)  I enjoy getting a look at commerce far from Wall Street on this drama from David Simon about Baltimore's inner city drug trade",
+        "answer": "The Wire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ARE THE WORLD",
+        "value": 800,
+        "question": "Of Austria's 9 states, it's the smallest in area",
+        "answer": "Vienna",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CHESS? YES!",
+        "value": 1000,
+        "question": "One of black's most popular defenses is called this, a term for a person from a Mediterranean island",
+        "answer": "Sicilian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 1000,
+        "question": "A unit of energy, it has also been used in slang to mean cool, great, wonderful",
+        "answer": "rad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EXILED",
+        "value": 1000,
+        "question": "The government of Russia didn't like Peter Kropotkin's being lead thinker of this no-government philosophy",
+        "answer": "anarchy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHOPPING ABBREV.",
+        "value": 1000,
+        "question": "There's one at 5th & 58th in NYC: BG",
+        "answer": "Bergdorf Goodman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CELEBRITIES LOVE TV",
+        "value": 1000,
+        "question": "(I'm Lewis Black.)  I'm watching this gritty drama based on the works of Elmore Leonard & starring Timothy Olyphant as an old-school U.S. Marshal  in the 21st century",
+        "answer": "Justified",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"V\" ARE THE WORLD",
+        "value": 1000,
+        "question": "This \"City\" was created in 1929 by the Lateran treaty",
+        "answer": "Vatican City",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PARDON THE ERUPTION",
+      "OLYMPIC FACT SHEET",
+      "AMERICAN ARCHITECTS",
+      "EDIBLE BEFORE & AFTER",
+      "GEOGRAPHIC TITLES",
+      "2 LETTERS, 1 WORD"
+    ],
+    "clues": [
+      {
+        "category": "PARDON THE ERUPTION",
+        "value": 400,
+        "question": "In the 1780s fumes & lava from the Laki volcano in this North Atlantic nation killed most of its livestock",
+        "answer": "Iceland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC FACT SHEET",
+        "value": 400,
+        "question": "This was changed from 25 to 26.2 miles at London's 1908 Games so it would end in front of the royal family's box",
+        "answer": "the marathon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARCHITECTS",
+        "value": 400,
+        "question": "The Senate & house wings as we know them of this D.C. building were added by Thomas Walter in the 1850s",
+        "answer": "the Capitol",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EDIBLE BEFORE & AFTER",
+        "value": 400,
+        "question": "Boy George's group that's a double-decker creation with bacon, lettuce, tomato & turkey on 3 slices of bread",
+        "answer": "Culture Club sandwich",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHIC TITLES",
+        "value": 400,
+        "question": "Agatha Christie: \"Death on the _____\"",
+        "answer": "Nile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "2 LETTERS, 1 WORD",
+        "value": 400,
+        "question": "It's not difficult",
+        "answer": "easy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PARDON THE ERUPTION",
+        "value": 800,
+        "question": "Cleveland Volcano in this Alaskan island group just keeps on erupting; a June 19, 2012 belch sent ash 35,000 feet up",
+        "answer": "the Aleutians",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC FACT SHEET",
+        "value": 800,
+        "question": "Including 1952's \"Magnificent Magyars\", it has won more men's soccer medals than any other current country",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARCHITECTS",
+        "value": 800,
+        "question": "Michael Graves, a leader of the post-modernism movement, designed hotels for this Orlando-area theme park",
+        "answer": "Disney World",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EDIBLE BEFORE & AFTER",
+        "value": 800,
+        "question": "Dairy-filled pastry that frolicked in the autumn mist in a land called Honah Lee",
+        "answer": "cream Puff the Magic dragon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHIC TITLES",
+        "value": 800,
+        "question": "Peter Mayle: \"A Year in _____\"",
+        "answer": "Provence",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "2 LETTERS, 1 WORD",
+        "value": 800,
+        "question": "A tent used by Native Americans",
+        "answer": "teepee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PARDON THE ERUPTION",
+        "value": 1200,
+        "question": "When this volcano in the Sunda Strait erupted Aug. 27, 1883, the shock wave traveled around the world 7 times",
+        "answer": "Krakatoa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC FACT SHEET",
+        "value": 1200,
+        "question": "After teams from China, South Korea & Indonesia were disqualified in 2012, this sport mulled format changes",
+        "answer": "badminton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARCHITECTS",
+        "value": 1200,
+        "question": "In 1904 in Buffalo he designed one of the USA's first all air-conditioned office buildings",
+        "answer": "Frank Lloyd Wright",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EDIBLE BEFORE & AFTER",
+        "value": 1200,
+        "question": "A fried Asian appetizer that you use for personal grooming like Ban or Dry Idea",
+        "answer": "egg roll-on deodorant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHIC TITLES",
+        "value": 1200,
+        "question": "Paula McLain's portrait of the lost generation: \"The _____ Wife\"",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "2 LETTERS, 1 WORD",
+        "value": 1200,
+        "question": "A short non-fiction literary composition, or to try",
+        "answer": "essay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PARDON THE ERUPTION",
+        "value": 1600,
+        "question": "Materials in the atmosphere from the 1991 eruption of this volcano on Luzon caused the world's temp. to drop by 1 degree",
+        "answer": "Mount Pinatubo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC FACT SHEET",
+        "value": 1600,
+        "question": "In 1952 Lis Hartel, a paralyzed entrant in this sport, won silver with help from a friend named Jubilee",
+        "answer": "equestrian",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARCHITECTS",
+        "value": 1600,
+        "question": "His projects in the country of his birth include  the Suzhou Museum",
+        "answer": "I.M. Pei",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EDIBLE BEFORE & AFTER",
+        "value": 1600,
+        "question": "Charlie Brown's gal pal is a hamburger with Swiss cheese & onions served on grilled rye",
+        "answer": "Peppermint Patty melt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHIC TITLES",
+        "value": 1600,
+        "question": "Mary Ann Shaffer & Annie Barrows:\"The ____ Literary and Potato Peel Pie Society\"",
+        "answer": "Guernsey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "2 LETTERS, 1 WORD",
+        "value": 1600,
+        "question": "Shabby & rundown, or like a watermelon",
+        "answer": "seedy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PARDON THE ERUPTION",
+        "value": 2000,
+        "question": "It sounds morelike Italian food,but this volcanoon an island north of Sicilyis known as the Lighthouseof the Mediterranean",
+        "answer": "Mount Stromboli",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OLYMPIC FACT SHEET",
+        "value": 2000,
+        "question": "The numbered gates in the canoe slalom have 2 colors, red & green, which stand for these 2 directions on a river",
+        "answer": "upstream & downstream",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARCHITECTS",
+        "value": 2000,
+        "question": "California's first licensed female architect, Julia Morgan, designed this tycoon's castle",
+        "answer": "Hearst",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EDIBLE BEFORE & AFTER",
+        "value": 2000,
+        "question": "Bourbon-&-peach liqueur that's a cozy dish from childhood, like meatloaf or macaroni & cheese",
+        "answer": "Southern Comfort food",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHIC TITLES",
+        "value": 2000,
+        "question": "Ken Follett: \"The Man from _____ _____\"",
+        "answer": "St. Petersburg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "2 LETTERS, 1 WORD",
+        "value": 2000,
+        "question": "Before \"one\" it means this one, that one, whatever one",
+        "answer": "any",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COLLEGES & UNIVERSITIES",
+    "clue": "One of its mascots is a restored 1930 Sport Coupe that's been in use at the school since 1961",
+    "answer": "Georgia Tech"
+  },
+  "gameId": "6556",
+  "gameDate": "Monday, March 4, 2013"
+}

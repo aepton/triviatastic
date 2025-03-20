@@ -1,0 +1,574 @@
+{
+  "title": "Show #8573 - Wednesday, February 9, 2022",
+  "jeopardyRound": {
+    "categories": [
+      "ALPHABETICALLY FIRST",
+      "BOOKS FOR YOUNG READERS",
+      "THE BUSINESS OF TELEVISION",
+      "SPORTY LINGO",
+      "ISLE \"B\"",
+      "THE JUDGE OF THAT"
+    ],
+    "clues": [
+      {
+        "category": "ALPHABETICALLY FIRST",
+        "value": 200,
+        "question": "Of the days of the week",
+        "answer": "Friday",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BOOKS FOR YOUNG READERS",
+        "value": 200,
+        "question": "This story of a fawn is subtitled \"A Life in the Woods\"",
+        "answer": "Bambi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE BUSINESS OF TELEVISION",
+        "value": 200,
+        "question": "Fans of \"The Office\" could buy Dunder Mifflin 20-pound branded this that had slogans like \"Our motto is, 'quabity first' \"",
+        "answer": "paper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPORTY LINGO",
+        "value": 200,
+        "question": "The best pitcher on a baseball team is known as this playing card",
+        "answer": "the ace",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ISLE \"B\"",
+        "value": 200,
+        "question": "When the British settled these islands between Florida & Haiti, they were deserted",
+        "answer": "the Bahamas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE JUDGE OF THAT",
+        "value": 200,
+        "question": "Judges belonging to courts of these hear those cases, reviewing procedures & decisions of trial courts",
+        "answer": "appeals",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ALPHABETICALLY FIRST",
+        "value": 400,
+        "question": "Of chess pieces",
+        "answer": "bishop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BOOKS FOR YOUNG READERS",
+        "value": 400,
+        "question": "First published in 1931, \"The Story of\" this elephant includes his escape to the city where he becomes cultured & educated",
+        "answer": "Babar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BUSINESS OF TELEVISION",
+        "value": 400,
+        "question": "Think back, & remember a time when Don Draper made a beautiful & poignant pitch about Kodak's Carousel on this drama",
+        "answer": "Mad Men",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPORTY LINGO",
+        "value": 400,
+        "question": "A practice opponent who makes you better, like Harvey Cody Jones for Muhammad Ali",
+        "answer": "a sparring partner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ISLE \"B\"",
+        "value": 400,
+        "question": "Captain William Bligh discovered a group of South Pacific islands in 1788 & named them for this ship",
+        "answer": "the Bounty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE JUDGE OF THAT",
+        "value": 400,
+        "question": "District court judges conduct trials & manage the selection & instruction of these",
+        "answer": "juries",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ALPHABETICALLY FIRST",
+        "value": 600,
+        "question": "Of the 4 Teenage Mutant Ninja Turtles",
+        "answer": "Donatello",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BOOKS FOR YOUNG READERS",
+        "value": 600,
+        "question": "In this Frances Hodgson Burnett book, Mary Lennox is determined to find the title place, locked off for years",
+        "answer": "The Secret Garden",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BUSINESS OF TELEVISION",
+        "value": 600,
+        "question": "On \"The Simpsons\" varieties of this beer brand include Raspberry this, Lady this & Tartar-Control this",
+        "answer": "Duff",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPORTY LINGO",
+        "value": 600,
+        "question": "There's a cozy word in this term for a player or a person who sits around waiting to go in",
+        "answer": "a benchwarmer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ISLE \"B\"",
+        "value": 600,
+        "question": "Recent surveys have found that the soil on this atoll has plutonium concentrations vastly higher than Chernobyl's",
+        "answer": "the Bikini Atoll",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE JUDGE OF THAT",
+        "value": 600,
+        "question": "An experienced attorney may act as a temporary judge in this type of court that hears cases involving limited dollar amounts",
+        "answer": "small claims court",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ALPHABETICALLY FIRST",
+        "value": 800,
+        "question": "Of the New England states",
+        "answer": "Connecticut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BOOKS FOR YOUNG READERS",
+        "value": 800,
+        "question": "In 2004 Kate DiCamillo won a Newbery Medal for \"The Tale of\" this inquisitive mouse",
+        "answer": "Despereaux",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BUSINESS OF TELEVISION",
+        "value": 800,
+        "question": "Now boarding Oceanic Air Flight 815 for this drama; objects may shift through time & don't expect a happy landing",
+        "answer": "Lost",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPORTY LINGO",
+        "value": 800,
+        "question": "In 2021 the U.S. Secretary of State used this tennis expression to say it's North Korea's turn to make a move on nuclear talks",
+        "answer": "the ball is in their court",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ISLE \"B\"",
+        "value": 800,
+        "question": "About 4.6 million people every year take the 35-minute ferry ride from Seattle to this island in Puget Sound",
+        "answer": "Bainbridge Island",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE JUDGE OF THAT",
+        "value": 800,
+        "question": "Federal magistrate judges consider pretrial these, such as for summary judgment",
+        "answer": "motions",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ALPHABETICALLY FIRST",
+        "value": 1000,
+        "question": "Of U.S. first ladies' first names",
+        "answer": "Abigail",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BOOKS FOR YOUNG READERS",
+        "value": 1000,
+        "question": "In \"From the Mixed Up Files of\" this woman, a girl named Claudia & her brother run away from home & hide out at the Met Museum",
+        "answer": "Mrs. Basil E. Frankweiler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BUSINESS OF TELEVISION",
+        "value": 1000,
+        "question": "Los Pollos Hermanos is run by this \"Better Call Saul\" man played by Giancarlo Esposito, but he has another job, too",
+        "answer": "Gus Fring",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPORTY LINGO",
+        "value": 1000,
+        "question": "Sporty term for the action here that's deliberately, perhaps sarcastically, restrained",
+        "answer": "a golf clap",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ISLE \"B\"",
+        "value": 1000,
+        "question": "Drop an \"A\" from a colorful plant to get this Frenchman who also gave his name to an island in the Solomon Sea",
+        "answer": "Louis-Antoine de Bougainville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE JUDGE OF THAT",
+        "value": 1000,
+        "question": "Makes sense that Texas leads the nation with more than 100 judges assigned to its 11 courts of this; California is second",
+        "answer": "immigration courts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "VICE PRESIDENTS",
+      "MISMATCHED PAIRS",
+      "3-LETTER ANIMALS",
+      "20th CENTURY HISTORY & THE MOVIES",
+      "IN AUTHORS' FOOTSTEPS",
+      "IT'S TIME FOR A WORD"
+    ],
+    "clues": [
+      {
+        "category": "VICE PRESIDENTS",
+        "value": 400,
+        "question": "In 1832 he missed Senate confirmation to be minister to the U.K. by one vote but he'd soon get Jackson's MVB vote as veep",
+        "answer": "Martin Van Buren",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MISMATCHED PAIRS",
+        "value": 400,
+        "question": "Evangelist with a Tulsa university & current Supreme supreme",
+        "answer": "Oral Roberts & John Roberts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER ANIMALS",
+        "value": 400,
+        "question": "58 million years ago, a thankfully extinct relative of this constrictor could reach 2,500 pounds & 40 feet in length",
+        "answer": "boa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "20th CENTURY HISTORY & THE MOVIES",
+        "value": 400,
+        "question": "\"Charlie Wilson's War\" is about a Texas congressman's covert dealings to arm anti-soviet rebels fighting in this country",
+        "answer": "Afghanistan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IN AUTHORS' FOOTSTEPS",
+        "value": 400,
+        "question": "Ray Bradbury's favorite place in his boyhood home of Waukegan, Illinois was this building at 1 Sheridan Road",
+        "answer": "the library",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT'S TIME FOR A WORD",
+        "value": 400,
+        "question": "This period of time is a homophone for a word meaning lacking strength",
+        "answer": "week",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "VICE PRESIDENTS",
+        "value": 800,
+        "question": "Before Biden he was the last veep to later ascend to the presidency",
+        "answer": "George H.W. Bush",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MISMATCHED PAIRS",
+        "value": 800,
+        "question": "\"Beantown\" rotisserie restaurant chain & unregulated economic system in which business is lightly taxed",
+        "answer": "Boston Market & free market",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER ANIMALS",
+        "value": 800,
+        "question": "This species of deer crossed into North America about 12,000 years ago using the Bering land bridge",
+        "answer": "elk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "20th CENTURY HISTORY & THE MOVIES",
+        "value": 800,
+        "question": "A monarch working to overcome his stammer is central to the plot of this Oscar winner",
+        "answer": "The King's Speech",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IN AUTHORS' FOOTSTEPS",
+        "value": 800,
+        "question": "This author of fantasy novels & of \"Mere Christianity\" worshiped at Holy Trinity Church in Oxford & you can too",
+        "answer": "(C.S.) Lewis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT'S TIME FOR A WORD",
+        "value": 800,
+        "question": "Pronounced one way, it's a unit of time; another, a very small amount",
+        "answer": "minute",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "VICE PRESIDENTS",
+        "value": 1200,
+        "question": "33 days after taking the oath to be the veep, he took another one to not be the veep",
+        "answer": "Tyler",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MISMATCHED PAIRS",
+        "value": 1200,
+        "question": "360 guy on CNN & \"Leatherstocking Tales\" teller",
+        "answer": "Anderson Cooper & James Fenimore Cooper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER ANIMALS",
+        "value": 1200,
+        "question": "Related to sharks, this cartilaginous fish has more than 500 species, including the blue-spotted ribbontail",
+        "answer": "a ray",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "20th CENTURY HISTORY & THE MOVIES",
+        "value": 1200,
+        "question": "The title characters of this 2020 film set in the 1960s are an FBI informant & Black Panther leader Fred Hampton",
+        "answer": "Judas and the Black Messiah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IN AUTHORS' FOOTSTEPS",
+        "value": 1200,
+        "question": "The Globe Inn, with a vast selection of single malt scotches, was a hangout of this 18th century poet & can be yours",
+        "answer": "(Robert) Burns",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT'S TIME FOR A WORD",
+        "value": 1200,
+        "question": "In parliamentary procedure, to endorse a nomination another person has just made",
+        "answer": "to second",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "VICE PRESIDENTS",
+        "value": 1600,
+        "question": "Failing to report nearly $30,000 on his income tax return led to the resignation of this vice president",
+        "answer": "Spiro Agnew",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MISMATCHED PAIRS",
+        "value": 1600,
+        "question": "Sophocles play about a Theban king & a real king of the dinosaurs",
+        "answer": "Oedipus Rex & Tyrannosaurus rex",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER ANIMALS",
+        "value": 1600,
+        "question": "As a source of food & as a pack animal, this bovine has long been essential to the people of the Tibetan Plateau",
+        "answer": "a yak",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "20th CENTURY HISTORY & THE MOVIES",
+        "value": 1600,
+        "question": "Peter O'Toole played \"the most shameless exhibitionist since Barnum & Bailey\" in this epic film set in the Mideast",
+        "answer": "Lawrence of Arabia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IN AUTHORS' FOOTSTEPS",
+        "value": 1600,
+        "question": "Seen as a dangerous atheist, Voltaire bought a chateau near the border of these two countries so he could hop over the border as needed",
+        "answer": "France & Switzerland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT'S TIME FOR A WORD",
+        "value": 1600,
+        "question": "It's not a special pet accessory, it's naval duty from 4 to 6 or 6 to 8",
+        "answer": "dogwatch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "VICE PRESIDENTS",
+        "value": 2000,
+        "question": "This alliterative Lincoln vice president was a heavy smoker, but his grandson said he took it up on doctor's orders",
+        "answer": "Hannibal Hamlin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MISMATCHED PAIRS",
+        "value": 2000,
+        "question": "Tall Emirati building & \"See You Again\" rapper",
+        "answer": "the Burj Khalifa & Wiz Khalifa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER ANIMALS",
+        "value": 2000,
+        "question": "Native to the southern U.S., the \"alligator\" this can grow 10' long, making it one of the largest freshwater fish",
+        "answer": "a gar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "20th CENTURY HISTORY & THE MOVIES",
+        "value": 2000,
+        "question": "Andrew Garfield played pacifist & Medal of Honor winner Desmond Doss in this movie set in part at the Battle of Okinawa",
+        "answer": "Hacksaw Ridge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IN AUTHORS' FOOTSTEPS",
+        "value": 2000,
+        "question": "Pay your respects to the bronze Gerald & Lawrence Durrell on this Greek island where they spent much of their youth",
+        "answer": "Corfu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT'S TIME FOR A WORD",
+        "value": 2000,
+        "question": "\"Back in a\" this 5-letter word! here's a flash--it's how long light takes to go 1 femtometer, a millionth of a millionth of a mm",
+        "answer": "a jiffy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN CITIES",
+    "clue": "Recorded on a visit to this California city, YouTube's first video featured a man saying, \"They have really, really, really long trunks\"",
+    "answer": "San Diego"
+  },
+  "gameId": "8573",
+  "gameDate": "Wednesday, February 9, 2022"
+}

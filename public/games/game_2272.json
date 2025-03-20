@@ -1,0 +1,574 @@
+{
+  "title": "Show #5373 - Wednesday, January 9, 2008",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD FACTS",
+      "SITCOM SIBLINGS",
+      "HOW MUCH IS THAT DOGGIE IN THE WINDOW?",
+      "ANAGRAMMED FOOD & DRINK",
+      "WORDS IN HARRY POTTER TITLES",
+      "\"INT\"Y FRESH"
+    ],
+    "clues": [
+      {
+        "category": "WORLD FACTS",
+        "value": 200,
+        "question": "Lots of peridot has been found on the island of Zebirget in this \"colorful\" sea off Africa",
+        "answer": "the Red Sea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SITCOM SIBLINGS",
+        "value": 200,
+        "question": "Jodie Sweetin,Candace Cameron,Mary-Kate & Ashley Olsen",
+        "answer": "Full House",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HOW MUCH IS THAT DOGGIE IN THE WINDOW?",
+        "value": 200,
+        "question": "The name of this dog breed is also a slang term for a boxer",
+        "answer": "a pug",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED FOOD & DRINK",
+        "value": 200,
+        "question": "Let's shop for this beer ingredient",
+        "answer": "hops",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORDS IN HARRY POTTER TITLES",
+        "value": 200,
+        "question": "A non-reigning male member of a royal family who may prefer to drive a \"little red corvette\"",
+        "answer": "a prince",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"INT\"Y FRESH",
+        "value": 200,
+        "question": "Hue or dye",
+        "answer": "tint",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 400,
+        "question": "Quite simply, this semolina favorite is the national dish of Algeria",
+        "answer": "couscous",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SITCOM SIBLINGS",
+        "value": 400,
+        "question": "Justin Berfield,Erik Per Sullivan,Frankie Muniz",
+        "answer": "Malcolm in the Middle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HOW MUCH IS THAT DOGGIE IN THE WINDOW?",
+        "value": 400,
+        "question": "It's the regional Canadian breed seen here, eh?",
+        "answer": "a labrador retriever",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED FOOD & DRINK",
+        "value": 400,
+        "question": "I'll dine on this English custard & cake dessert, then let it filter through my body",
+        "answer": "trifle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORDS IN HARRY POTTER TITLES",
+        "value": 400,
+        "question": "A person deprived of liberty (you didn't think we'd actually go for Azkaban, did you?)",
+        "answer": "prisoner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"INT\"Y FRESH",
+        "value": 400,
+        "question": "A thin piece of rigid material to maintain a body part in a fixed position",
+        "answer": "a splint",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 600,
+        "question": "1/3 of the people in this South American country live in Montevideo; most of its 15 million sheep don't",
+        "answer": "Uruguay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SITCOM SIBLINGS",
+        "value": 600,
+        "question": "Taran Noah Smith,Zachery Ty Bryan,Jonathan Taylor Thomas",
+        "answer": "Home Improvement",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HOW MUCH IS THAT DOGGIE IN THE WINDOW?",
+        "value": 600,
+        "question": "One of the rarest breeds is this Asian variety",
+        "answer": "a shar-pei",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED FOOD & DRINK",
+        "value": 600,
+        "question": "Put on your cords & munch on this Boston fish",
+        "answer": "scrod",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORDS IN HARRY POTTER TITLES",
+        "value": 600,
+        "question": "A southwest city founded in 1870, & remember, \"Harry Potter & the Wonders of Yuma\" was never written",
+        "answer": "Phoenix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"INT\"Y FRESH",
+        "value": 600,
+        "question": "A short race at full speed",
+        "answer": "a sprint",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 800,
+        "question": "Mount Shkhara in these mountains is the highest peak in Georgia (the country, not the state)",
+        "answer": "the Caucasus Mountains",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SITCOM SIBLINGS",
+        "value": 800,
+        "question": "Jason Bateman,Will Arnett,Portia de Rossi",
+        "answer": "Arrested Development",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HOW MUCH IS THAT DOGGIE IN THE WINDOW?",
+        "value": 800,
+        "question": "This tall breed of the British Isles almost went extinct when its namesake prey began to decline",
+        "answer": "Irish wolfhounds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED FOOD & DRINK",
+        "value": 800,
+        "question": "There is nothing like a dame who drinks this liquor made by fermenting honey & water",
+        "answer": "mead",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORDS IN HARRY POTTER TITLES",
+        "value": 800,
+        "question": "A private room in a house, or a John Grisham novel about a death row prisoner",
+        "answer": "a chamber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"INT\"Y FRESH",
+        "value": 800,
+        "question": "5-letter word for gleaming brightness or luster",
+        "answer": "glint",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 1000,
+        "question": "Once a slave-trading center established by the Portuguese, Bissau is now the proud capital of this country",
+        "answer": "Guinea-Bissau",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SITCOM SIBLINGS",
+        "value": 1000,
+        "question": "Jeremy Licht,Luis Daniel Ponce,Jason Bateman",
+        "answer": "The Hogan Family",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HOW MUCH IS THAT DOGGIE IN THE WINDOW?",
+        "value": 1000,
+        "question": "This popular terrier variety seen here was developed for hunting in the 19th century",
+        "answer": "a Jack Russell terrier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED FOOD & DRINK",
+        "value": 1000,
+        "question": "When you boil this frilly-leafed green veggie, don't let the liquid leak out of the pot",
+        "answer": "kale",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORDS IN HARRY POTTER TITLES",
+        "value": 1000,
+        "question": "Last name of U.S. Chief Justice Harlan or biographer Irving",
+        "answer": "stone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"INT\"Y FRESH",
+        "value": 1000,
+        "question": "To look with the eyes partly closed",
+        "answer": "squint",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT TIMES",
+      "A CHARLIE IN THE BOX",
+      "PLAYWRIGHTS",
+      "THE MATERIAL WORLD",
+      "AMERICAN ART & ARTISTS",
+      "5-SYLLABLE WORDS"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT TIMES",
+        "value": 400,
+        "question": "The astronomer Hipparchus is famed for cataloging more than 800 of these (That's even more than MGM had)",
+        "answer": "stars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A CHARLIE IN THE BOX",
+        "value": 400,
+        "question": "He played a tipsy dancer in the 1914 film \"Tango Tangles\"",
+        "answer": "(Charlie) Chaplin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 400,
+        "question": "His father, James O'Neill, was a 19th century actor whose famous role was the Count of Monte Cristo",
+        "answer": "Eugene O'Neill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE MATERIAL WORLD",
+        "value": 400,
+        "question": "In ancient times, the Pentelic quarries were a major source of this building material for Athens",
+        "answer": "marble",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN ART & ARTISTS",
+        "value": 400,
+        "question": "While living abroad in Chelsea, Whistler painted a series of scenes set along this river",
+        "answer": "the Thames",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "5-SYLLABLE WORDS",
+        "value": 400,
+        "question": "Mollie Katzen popularized this kind of diet with the \"Moosewood Cookbook\"",
+        "answer": "vegetarian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 800,
+        "question": "I dew declare, Tefnut was this ancient civilization's goddess of the dew",
+        "answer": "the Egyptians",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A CHARLIE IN THE BOX",
+        "value": 800,
+        "question": "Occasionally called Chuck, this comics character had violent battles with his local \"kite-eating tree\"",
+        "answer": "Charlie Brown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 800,
+        "question": "Public disgust over his play \"Ghosts\" caused this Norwegian to retaliate in his \"An Enemy of the People\"",
+        "answer": "Ibsen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE MATERIAL WORLD",
+        "value": 800,
+        "question": "Rodin first gained attention for a lifelike statue later called \"The Age of\" this, the metal in which it was later cast",
+        "answer": "bronze",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN ART & ARTISTS",
+        "value": 800,
+        "question": "In 2003 the gallery in Vegas' Bellagio featured a show of this pop artist's works with an audio narration by Liza",
+        "answer": "(Andy) Warhol",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "5-SYLLABLE WORDS",
+        "value": 800,
+        "question": "(Jon of the Clue Crew shows a diagram on the monitor.)  Because the geometric shape here has all right angles, it's called a rectangle; when they're not right angles, it becomes this type of quadrilateral",
+        "answer": "a parallelogram",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 1200,
+        "question": "Darius I of this empire claimed that Bardiya, the king he killed & replaced, had been an impostor",
+        "answer": "Persia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A CHARLIE IN THE BOX",
+        "value": 1200,
+        "question": "In 1986, the same year he starred in \"Platoon\", he was the \"boy in police station\" in \"Ferris Beuller's Day Off\"",
+        "answer": "Charlie Sheen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 1200,
+        "question": "This Pulitzer Prize-winning playwright was related to John Sevier, the first governor of the \"Volunteer State\"",
+        "answer": "Tennessee Williams",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE MATERIAL WORLD",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew reports from Texas A&M University.)  Steel cables are inefficient for marine deep-water drilling platforms, so Texas A&M is testing this polymer developed by DuPont; some thought it went out with the '70s",
+        "answer": "polyester",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN ART & ARTISTS",
+        "value": 1200,
+        "question": "Henriette, eldest child of this illustrator, was a portrait artist when brother Andrew was just beginning to draw",
+        "answer": "N.C. Wyeth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "5-SYLLABLE WORDS",
+        "value": 1200,
+        "question": "It's what's symbolized by \"X\" in the \"10X\" on a microscope",
+        "answer": "magnification",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 1600,
+        "question": "The Celtic town of Vindobona became a military post for the Romans; it later evolved into this capital on the Danube",
+        "answer": "Vienna",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A CHARLIE IN THE BOX",
+        "value": 1600,
+        "question": "The IMDb lists \"Charlie\" as a nickname for this Oscar-winning \"Monster\" actress",
+        "answer": "Charlize Theron",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 1600,
+        "question": "Novelist Edna Ferber collaborated with this playwright on 6 plays, including \"Dinner at Eight\" & \"Stage Door\"",
+        "answer": "George S. Kaufman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE MATERIAL WORLD",
+        "value": 1600,
+        "question": "By definition, cordwainers make shoes from this material",
+        "answer": "leather",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN ART & ARTISTS",
+        "value": 1600,
+        "question": "This American impressionist was beloved for her affectionate maternal paintings as seen here",
+        "answer": "(Mary) Cassatt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "5-SYLLABLE WORDS",
+        "value": 1600,
+        "question": "A publication, such as a magazine, that doesn't come out every day",
+        "answer": "periodical",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 2000,
+        "question": "\"If I were not Alexander,\" said Alexander the Great, \"I would be\" this philosopher who lived in a tub",
+        "answer": "Diogenes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A CHARLIE IN THE BOX",
+        "value": 2000,
+        "question": "Candice Bergen said, \"You knew he wasn't real, & yet he was treated so much better than most humans. He had his own room.\"",
+        "answer": "Charlie McCarthy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 2000,
+        "question": "A 1934 NYC taxi drivers' strike led him to write \"Waiting for Lefty\", the first of his plays to be produced",
+        "answer": "Clifford Odets",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE MATERIAL WORLD",
+        "value": 2000,
+        "question": "Developed in the 1930s, this synthetic rubber is waterproof & slightly buoyant, making it ideal for wetsuits",
+        "answer": "neoprene",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN ART & ARTISTS",
+        "value": 2000,
+        "question": "Some of his pen-&-ink drawings of his famous \"girl\" were modeled on his wife, a sister of Lady Astor",
+        "answer": "Charles Dana Gibson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "5-SYLLABLE WORDS",
+        "value": 2000,
+        "question": "Moe & Larry agree; now if Curly would just go along, we'd have this condition",
+        "answer": "unanimity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE CATHOLIC CHURCH",
+    "clue": "First mentioned in a letter by Clement IV in 1265, this item worn by the Pope features an image of St. Peter in a boat",
+    "answer": "a ring"
+  },
+  "gameId": "5373",
+  "gameDate": "Wednesday, January 9, 2008"
+}

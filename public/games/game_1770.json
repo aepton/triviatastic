@@ -1,0 +1,574 @@
+{
+  "title": "Show #5184 - Thursday, March 8, 2007",
+  "jeopardyRound": {
+    "categories": [
+      "COUNTRIES OF THE WORLD",
+      "A SET OF CHINA",
+      "TALKING TURKEY",
+      "MICHAEL JORDAN",
+      "GEORGIA ON MY MIND",
+      "\"DEN\"MARK"
+    ],
+    "clues": [
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 200,
+        "question": "Lace up your sneakers & run with the bulls through the streets of Pamplona in this country",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A SET OF CHINA",
+        "value": 200,
+        "question": "I'm a little this, short & stout; a Nantucket basket one goes for over $100",
+        "answer": "a teapot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TALKING TURKEY",
+        "value": 200,
+        "question": "Female turkeys are called hens; males are called toms or this voracious word from the sound they make",
+        "answer": "gobblers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MICHAEL JORDAN",
+        "value": 200,
+        "question": "Magic, Bird, Barkley, Malone & Michael Jordan played for this rhyming squad in the 1992 Olympics",
+        "answer": "the Dream Team",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GEORGIA ON MY MIND",
+        "value": 200,
+        "question": "In Georgia in 1842, Dr. Crawford Long performed the first successful surgery using this inhaled anesthetic",
+        "answer": "ether",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"DEN\"MARK",
+        "value": 200,
+        "question": "A heavy twill fabric for work or leisure garments",
+        "answer": "denim",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 400,
+        "question": "In February 2006 a coup attempted to overthrow President Gloria Arroyo of this country",
+        "answer": "the Philippines",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A SET OF CHINA",
+        "value": 400,
+        "question": "Are you having coffee with dessert? Then please pass this item seen here",
+        "answer": "a creamer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TALKING TURKEY",
+        "value": 400,
+        "question": "This founding father wrote that the eagle was a coward but the turkey was respectable & a Native American",
+        "answer": "Benjamin Franklin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MICHAEL JORDAN",
+        "value": 400,
+        "question": "During his first retirement, Michael played minor league baseball for the Barons of this Alabama city",
+        "answer": "Birmingham",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GEORGIA ON MY MIND",
+        "value": 400,
+        "question": "In 1793 the invention of this device on a farm near Savannah revolutionized the economy of Georgia & beyond",
+        "answer": "cotton gin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"DEN\"MARK",
+        "value": 400,
+        "question": "It was made a territorial capital in 1867",
+        "answer": "Denver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 600,
+        "question": "Discovered in 1650, the 787-carat Great Mogul Diamond is the largest ever found in this country",
+        "answer": "India",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A SET OF CHINA",
+        "value": 600,
+        "question": "This type of boat is going to be making another run; it contains the fat & juices that drip from cooking meat",
+        "answer": "a gravy boat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TALKING TURKEY",
+        "value": 600,
+        "question": "This ragtime dance step resembles the wing & foot movement of the bird",
+        "answer": "the turkey trot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MICHAEL JORDAN",
+        "value": 600,
+        "question": "Jordan hit the basketball court with Bugs Bunny & pals in this 1996 flick",
+        "answer": "Space Jam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GEORGIA ON MY MIND",
+        "value": 600,
+        "question": "In 1943 Georgia became the first state in the U.S. to allow these people the right to vote",
+        "answer": "18-year-olds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"DEN\"MARK",
+        "value": 600,
+        "question": "A name for a class of things, like a religious group or a unit of currency",
+        "answer": "a denomination",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 800,
+        "question": "Its first king is known in English as St. Stephen & locally as Szent Istvan",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A SET OF CHINA",
+        "value": 800,
+        "question": "We prefer this small, round shallow dish that holds a cup to the flying kind",
+        "answer": "a saucer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TALKING TURKEY",
+        "value": 800,
+        "question": "Seen here, the turkey symbolizes Freedom from Want in this illustrator's Four Freedoms series",
+        "answer": "Norman Rockwell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MICHAEL JORDAN",
+        "value": 800,
+        "question": "It was Jordan's number with the Bulls & the Wizards",
+        "answer": "23",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GEORGIA ON MY MIND",
+        "value": 800,
+        "question": "On January 19th of this year, Georgia became the fifth Southern state to secede from the Union",
+        "answer": "1861",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"DEN\"MARK",
+        "value": 800,
+        "question": "From the Latin for \"to blacken\", it means to sully or to defame",
+        "answer": "denigrate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 1000,
+        "question": "The Internet country code for this country near Florida is .bs",
+        "answer": "the Bahamas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A SET OF CHINA",
+        "value": 1000,
+        "question": "It's the item seen here; a game of the same name has been played since 1935",
+        "answer": "sugar bowl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TALKING TURKEY",
+        "value": 1000,
+        "question": "Though this amino acid in turkey is reputed to make you doze off on Thanksgiving, carbs & booze do at least as much",
+        "answer": "tryptophan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MICHAEL JORDAN",
+        "value": 1000,
+        "question": "While at UNC in 1984, MJ won these 2 awards, named for basketball's inventor & for one of its best coaches",
+        "answer": "the Naismith (Award) & the Wooden (Award)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GEORGIA ON MY MIND",
+        "value": 1000,
+        "question": "The first U.S. newspaper to use an Indian language was published in Georgia in 1828 using this language",
+        "answer": "Cherokee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"DEN\"MARK",
+        "value": 1000,
+        "question": "An inhabitant or resident of a particular area",
+        "answer": "a denizen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "OMAHA'S HENRY DOORLY ZOO",
+      "PLACES IN SONG",
+      "FOR BETTER OR VERSE",
+      "OH, \"MAN\"!",
+      "BODY PARTS BY PREFIX",
+      "FROM THE LATIN"
+    ],
+    "clues": [
+      {
+        "category": "OMAHA'S HENRY DOORLY ZOO",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew plays with a jaguar cub.)  Whether black or not, jaguars are among the felines sometimes called by this general term, very similar to a genus name",
+        "answer": "panther",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PLACES IN SONG",
+        "value": 400,
+        "question": "This show tune says, \"All through my wild days, my mad existence, I kept my promise, don't keep your distance\"",
+        "answer": "\"Don't Cry For Me Argentina\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOR BETTER OR VERSE",
+        "value": 400,
+        "question": "This Lake Poet \"wandered lonely as a cloud... when all at once I saw a crowd, a host of golden daffodils\"",
+        "answer": "Wordsworth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OH, \"MAN\"!",
+        "value": 400,
+        "question": "The Manx cat is native to this landmass in the Irish Sea",
+        "answer": "the Isle of Man",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BODY PARTS BY PREFIX",
+        "value": 400,
+        "question": "Ophthalmo-",
+        "answer": "the eye",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FROM THE LATIN",
+        "value": 400,
+        "question": "This term for a medical institution is from the Latin for \"of the guest\"",
+        "answer": "hospital",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OMAHA'S HENRY DOORLY ZOO",
+        "value": 800,
+        "question": "(Cheryl of the Clue Crew presents from inside a zoo exhibit in Henry Doorly Zoo, Omaha, NE.)  I'm in the world's largest indoor desert, which is under the world's largest glazed structure of this type",
+        "answer": "a geodesic dome",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PLACES IN SONG",
+        "value": 800,
+        "question": "The song standard \"You Belong To Me\" begins, \"See\" these \"along the Nile, watch the sunrise on a tropic isle\"",
+        "answer": "the pyramids",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOR BETTER OR VERSE",
+        "value": 800,
+        "question": "Tennyson wrote, \"Back from the mouth of hell, all that was left of them, left of\" this number",
+        "answer": "six hundred",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OH, \"MAN\"!",
+        "value": 800,
+        "question": "In a '60s song lyric, \"in the jingle jangle morning I'll come followin'\" this title guy",
+        "answer": "(Mr.) Tambourine Man",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BODY PARTS BY PREFIX",
+        "value": 800,
+        "question": "Osteo-",
+        "answer": "bone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FROM THE LATIN",
+        "value": 800,
+        "question": "From the Latin for \"assembly\", it's a religious community of nuns",
+        "answer": "a convent",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OMAHA'S HENRY DOORLY ZOO",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew presents from inside a jungle pavilion in Henry Doorly Zoo, Omaha, NE.) To create the Lied Jungle, one of the nation's largest indoor rainforests, a team travelled to this country between Nicaragua & Panama to study the real thing",
+        "answer": "Costa Rica",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PLACES IN SONG",
+        "value": 1200,
+        "question": "Though it disses him, Neil Young admits this Lynyrd Skynyrd song is a great one & he's even performed it live",
+        "answer": "\"Sweet Home Alabama\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOR BETTER OR VERSE",
+        "value": 1200,
+        "question": "She wrote, \"'Faith' is a fine invention when gentlemen can see-- but microscopes are prudent in an emergency\"",
+        "answer": "Emily Dickinson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OH, \"MAN\"!",
+        "value": 1200,
+        "question": "This annual event takes place on an empty lakebed in the Black Rock Desert, 90 miles north of Reno",
+        "answer": "Burning Man",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BODY PARTS BY PREFIX",
+        "value": 1200,
+        "question": "Glosso-",
+        "answer": "the tongue",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FROM THE LATIN",
+        "value": 1200,
+        "question": "These typographical symbols take their name from the Latin for \"to bring to a point\"",
+        "answer": "punctuation",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OMAHA'S HENRY DOORLY ZOO",
+        "value": 1600,
+        "question": "(Sarah of the Clue Crew sits with a baby orangutan in Henry Doorly Zoo, Omaha, NE.)  With this little guy's own mom unable to care for him, it's hoped that another female orangutan will step in to act as this type of substitute mom",
+        "answer": "surrogate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PLACES IN SONG",
+        "value": 1600,
+        "question": "Their 1988 hit \"Kokomo\" mentions \"Aruba, Jamaica, ooo I wanna take you to Bermuda, Bahama...\"",
+        "answer": "The Beach Boys",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOR BETTER OR VERSE",
+        "value": 1600,
+        "question": "A Stephen Vincent Benet poem ends, \"You may bury my tongue at Champmedy... bury my heart at\" this place",
+        "answer": "Wounded Knee",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OH, \"MAN\"!",
+        "value": 1600,
+        "question": "Leonardo's \"Proportions of Man\" is also called this, after a 1st century B.C. architect",
+        "answer": "Vitruvian Man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BODY PARTS BY PREFIX",
+        "value": 1600,
+        "question": "Chiro-",
+        "answer": "hand",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FROM THE LATIN",
+        "value": 1600,
+        "question": "(I'm Carson Kressley from Queer Eye for the Straight Guy.)  As a former member of the U.S. World Cup team in this sport, I know that its name comes from the Latin for \"horse\"",
+        "answer": "equestrian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OMAHA'S HENRY DOORLY ZOO",
+        "value": 2000,
+        "question": "(Kelly of the Clue Crew presents from a penguin exhibit in Henry Doorly Zoo, Omaha, NE.)  In the wild, penguins live south of the equator, with the northernmost ones being from this South American island group",
+        "answer": "Galapagos Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PLACES IN SONG",
+        "value": 2000,
+        "question": "In \"South Pacific\" this mysterious & exotic island \"may call you, any night, any day\"",
+        "answer": "Bali Ha'i",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOR BETTER OR VERSE",
+        "value": 2000,
+        "question": "One of Robert Browning's dramatic poems concerned this little mill-girl who \"Passes\" by",
+        "answer": "Pippa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OH, \"MAN\"!",
+        "value": 2000,
+        "question": "Works by this author include \"Buddenbrooks\" & \"The Magic Mountain\"",
+        "answer": "Thomas Mann",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BODY PARTS BY PREFIX",
+        "value": 2000,
+        "question": "Phlebo-",
+        "answer": "blood vessel (or vein)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FROM THE LATIN",
+        "value": 2000,
+        "question": "Derived from plant & animal wastes, this alt. energy source takes its name from the Latin for \"living cake\"",
+        "answer": "biomass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GOING TO THE DOGS",
+    "clue": "Their name comes from their being bred to crouch in front of prey that the hunter then captured with a net",
+    "answer": "setters"
+  },
+  "gameId": "5184",
+  "gameDate": "Thursday, March 8, 2007"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #4430 - Friday, December 5, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "AUTHORS",
+      "FOLK SONGS",
+      "COUNTRY COOKING",
+      "DISEASES",
+      "RABBITS, RABBITS, RABBITS",
+      "ISN'T THAT \"SPECIAL\"?"
+    ],
+    "clues": [
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "\"The Hamlet\" is 1/3 of his trilogy about the Snopes family",
+        "answer": "William Faulkner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOLK SONGS",
+        "value": 200,
+        "question": "According to the folk song, it's what the top of Old Smokey was covered with",
+        "answer": "snow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY COOKING",
+        "value": 200,
+        "question": "Kung Pao chicken",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DISEASES",
+        "value": 200,
+        "question": "Dogs with this desease may \"foam at the mouth\" because saliva builds up in their paralyzed throats",
+        "answer": "rabies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "RABBITS, RABBITS, RABBITS",
+        "value": 200,
+        "question": "Going into Mr. McGregor's garden gets him into trouble",
+        "answer": "Peter Rabbit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ISN'T THAT \"SPECIAL\"?",
+        "value": 200,
+        "question": "It's an international competition for physically or mentally challenged athletes",
+        "answer": "the Special Olympics",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "William Styron took 12 years between his previous novel & this one about a female Auschwitz survivor",
+        "answer": "Sophie's Choice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOLK SONGS",
+        "value": 400,
+        "question": "This 2003 mockumentary directed by Christopher Guest features The Folksmen",
+        "answer": "A Mighty Wind",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY COOKING",
+        "value": 400,
+        "question": "Wiener schnitzel",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DISEASES",
+        "value": 400,
+        "question": "Pneumoconiosis mainly affects these organs",
+        "answer": "the lungs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "RABBITS, RABBITS, RABBITS",
+        "value": 400,
+        "question": "He's \"framed\" in Toontown",
+        "answer": "Roger Rabbit",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ISN'T THAT \"SPECIAL\"?",
+        "value": 400,
+        "question": "Extraordinary visual images artificially created for a movie or TV show",
+        "answer": "special effects",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 600,
+        "question": "His \"Hike and the Aeroplane\" of 1912 didn't exactly put him on the Main Street of success",
+        "answer": "Sinclair Lewis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOLK SONGS",
+        "value": 600,
+        "question": "In \"Animal House\" Bluto breaks the guitar of a guy singing \"I Gave My Love\" this",
+        "answer": "a cherry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY COOKING",
+        "value": 600,
+        "question": "Coq au vin",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DISEASES",
+        "value": 600,
+        "question": "Oliver Hazard Perry died of this now-tamed \"colorful\" disease after a diplomatic mission in Venezuela",
+        "answer": "yellow fever",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "RABBITS, RABBITS, RABBITS",
+        "value": 600,
+        "question": "He wears sunglasses & flip-flops & keeps going & going & going ...",
+        "answer": "the Energizer Bunny",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ISN'T THAT \"SPECIAL\"?",
+        "value": 600,
+        "question": "A limited print run of a newspaper to mark an important event",
+        "answer": "a special edition",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 800,
+        "question": "The history of this present-day country is the subject of James Michener's 1965 book \"The Source\"",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOLK SONGS",
+        "value": 800,
+        "question": "A line in a Russian novel, \"Where are the flowers, the girls have plucked them\", inspired Pete Seeger to write this song",
+        "answer": "\"Where Have All the Flowers Gone\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY COOKING",
+        "value": 800,
+        "question": "Paella",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DISEASES",
+        "value": 800,
+        "question": "Ashkenazi Jews are exceptionally prone to the disease named for Warren Tay & this doctor",
+        "answer": "Bernard Sachs",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "RABBITS, RABBITS, RABBITS",
+        "value": 800,
+        "question": "This friend of the Skin Horse wants to become a real rabbit",
+        "answer": "the Velveteen Rabbit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ISN'T THAT \"SPECIAL\"?",
+        "value": 800,
+        "question": "In 1885 the U.S. mail introduced this distinctive service",
+        "answer": "special delivery",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1000,
+        "question": "This 4-time Pulitzer Prize-winning poet was born March 26, 1874",
+        "answer": "Robert Frost",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOLK SONGS",
+        "value": 1000,
+        "question": "This song asks a lot of important questions like \"How many times must a man look up before he can see the sky\"",
+        "answer": "\"Blowin' in the Wind\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY COOKING",
+        "value": 1000,
+        "question": "Dhal",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DISEASES",
+        "value": 1000,
+        "question": "Blindness can result from trachoma, a serious form of this inflammation also called pinkeye",
+        "answer": "conjunctivitis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "RABBITS, RABBITS, RABBITS",
+        "value": 1000,
+        "question": "He's a 6-foot-tall invisible rabbitlike pooka",
+        "answer": "Harvey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ISN'T THAT \"SPECIAL\"?",
+        "value": 1000,
+        "question": "The job of Independent Counsel, created by Congress in 1978, was also called this",
+        "answer": "Special Prosecutor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "NEW DEAL PROGRAMS",
+      "THE MOVIES",
+      "STATE YOUR CASE",
+      "'90s NAMES IN THE NEWS",
+      "AFRICAN LANGUAGES",
+      "CROSSWORD CLUES \"L\""
+    ],
+    "clues": [
+      {
+        "category": "NEW DEAL PROGRAMS",
+        "value": 400,
+        "question": "The 3 initial requirements for adults 18-25 to be in the CCC were to be male, unemployed & this",
+        "answer": "single",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 400,
+        "question": "It's the familial title of the recent hit comedy seen here",
+        "answer": "Daddy Day Care",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STATE YOUR CASE",
+        "value": 400,
+        "question": "In area it's the largest U.S. state that begins & ends with the same letter",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "'90s NAMES IN THE NEWS",
+        "value": 400,
+        "question": "In 1997 China appointed Tung Chee-Hwa Chief Executive Officer of this newly acquired region",
+        "answer": "Hong Kong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AFRICAN LANGUAGES",
+        "value": 400,
+        "question": "The Nubian languages are mostly spoken along this river (between cataracts 1 & 4)",
+        "answer": "Nile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"L\"",
+        "value": 400,
+        "question": "Happy songbird (4)",
+        "answer": "a lark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NEW DEAL PROGRAMS",
+        "value": 800,
+        "question": "Of 25 cents, $1.10 or $1.60, the hourly wage minimum set by the 1938 Fair Labor Standards Act",
+        "answer": "25 cents",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 800,
+        "question": "In one of Burt Lancaster's last films, a boat originally called \"Rock of\" this becomes \"Rocket\" this",
+        "answer": "Gibraltar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STATE YOUR CASE",
+        "value": 800,
+        "question": "We freely volunteer the information that at 6,643 feet, Clingman's Dome is this state's highest point",
+        "answer": "Tennessee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "'90s NAMES IN THE NEWS",
+        "value": 800,
+        "question": "In August 1999 this Russian President fired his fourth Prime Minister in 18 months",
+        "answer": "Boris Yeltsin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AFRICAN LANGUAGES",
+        "value": 800,
+        "question": "Hausa, one of the few Chadic languages with a written form, switched from the Arabic alphabet to this one",
+        "answer": "Roman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"L\"",
+        "value": 800,
+        "question": "Lion's den (4)",
+        "answer": "a lair",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NEW DEAL PROGRAMS",
+        "value": 1200,
+        "question": "In 1935 the REA was set up to supply cheap this (indicated by its \"E\") to some rural areas",
+        "answer": "electricity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew presents from a Fedex facility)In a 2000 film, playing Fedex employee Chuck Noland, this actor said, \"We live or we die by the clock.\"",
+        "answer": "Tom Hanks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STATE YOUR CASE",
+        "value": 1200,
+        "question": "This state was admitted to the Union on Valentine's Day 1912",
+        "answer": "Arizona",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "'90s NAMES IN THE NEWS",
+        "value": 1200,
+        "question": "In 1992 Ron Carey, an ex-UPS driver, was elected president of this organization in its first secret ballot",
+        "answer": "the Teamsters Union",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AFRICAN LANGUAGES",
+        "value": 1200,
+        "question": "The dialect of Lamu in Kenya has produced classic poetry in this Bantu language",
+        "answer": "Swahili",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"L\"",
+        "value": 1200,
+        "question": "Odysseus' father, or Ophelia's brother (7)",
+        "answer": "Laertes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NEW DEAL PROGRAMS",
+        "value": 1600,
+        "question": "When it began in 1933, it protected bank accounts up to a whopping $5,000!",
+        "answer": "the FDIC (Federal Deposit Insurance Corporation)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 1600,
+        "question": "Steve Martin was a lip-synch & dance man in this 1981 movie musical",
+        "answer": "Pennies From Heaven",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STATE YOUR CASE",
+        "value": 1600,
+        "question": "During the 1980s this large southern state had the highest-percentage growth in the Union",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "'90s NAMES IN THE NEWS",
+        "value": 1600,
+        "question": "This artist, who began with wrapping bottles & a tree, wrapped the old German Parliament building in 1995",
+        "answer": "Christo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AFRICAN LANGUAGES",
+        "value": 1600,
+        "question": "Semitic languages are named for Shem; this group of languages, for another of Noah's sons",
+        "answer": "Hamitic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"L\"",
+        "value": 1600,
+        "question": "Noah Webster, for example (13)",
+        "answer": "lexicographer",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NEW DEAL PROGRAMS",
+        "value": 2000,
+        "question": "The Farm Security Administration's pictorial record of rural America includes this woman's photo of the migrant mother seen here",
+        "answer": "Dorothea Lange",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 2000,
+        "question": "This seasonal 1971 film with Jennifer O'Neill tapped into nostalgia for the WWII era",
+        "answer": "Summer of '42",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STATE YOUR CASE",
+        "value": 2000,
+        "question": "Vidalia onions, some of the world's sweetest, hail from this U.S. state",
+        "answer": "Georgia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "'90s NAMES IN THE NEWS",
+        "value": 2000,
+        "question": "Born Faith Plotkin, this Nostradamus of marketing burst on the scene in 1991",
+        "answer": "Faith Popcorn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AFRICAN LANGUAGES",
+        "value": 2000,
+        "question": "A disapproving sound using the tongue is a version of this sound for which some Afr. tongues are named",
+        "answer": "the click",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"L\"",
+        "value": 2000,
+        "question": "Shirley Jackson's game (7)",
+        "answer": "lottery",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE U.S. NAVY",
+    "clue": "It's the only U.S. battleship ever to have a one-syllable name",
+    "answer": "the Maine"
+  },
+  "gameId": "4430",
+  "gameDate": "Friday, December 5, 2003"
+}

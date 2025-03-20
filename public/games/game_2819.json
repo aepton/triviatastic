@@ -1,0 +1,574 @@
+{
+  "title": "Show #5581 - Monday, December 8, 2008",
+  "jeopardyRound": {
+    "categories": [
+      "RED STATES",
+      "THE OLYMPIC GAMES",
+      "MIDDLE NAMES",
+      "PLANTS",
+      "A NUMBER FROM 1 TO 10",
+      "AD \"LIB\""
+    ],
+    "clues": [
+      {
+        "category": "RED STATES",
+        "value": 200,
+        "question": "Like Grosse Pointe, Redford is a suburb of the largest city in this state",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 200,
+        "question": "The first Olympic Games were established to honor this \"king of the gods\"",
+        "answer": "Zeus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 200,
+        "question": "Commander of the Army of Northern Virginia:Edward",
+        "answer": "(Robert E.) Lee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PLANTS",
+        "value": 200,
+        "question": "In 2006 the city of L.A. Iimited its planting of this tall tree because it's disease-prone, non-native & gives little shade",
+        "answer": "the palm",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "A NUMBER FROM 1 TO 10",
+        "value": 200,
+        "question": "American Express Card numbers start with 3; MasterCard numbers, with this digit",
+        "answer": "5",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AD \"LIB\"",
+        "value": 200,
+        "question": "It rang for the last time in February 1846",
+        "answer": "the Liberty Bell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RED STATES",
+        "value": 400,
+        "question": "Red is one of the many colors in the palette of this state's \"Painted Desert\"",
+        "answer": "Arizona",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 400,
+        "question": "The Winter Games are always held, all or in part, in this month",
+        "answer": "February",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 400,
+        "question": "An MGM studio founder & executive: Burt",
+        "answer": "Louis Mayer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PLANTS",
+        "value": 400,
+        "question": "This plant family native to America originally had leaves, but they evolved into spines",
+        "answer": "the cactus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "A NUMBER FROM 1 TO 10",
+        "value": 400,
+        "question": "Ballplayers in a battery",
+        "answer": "2 (pitcher & catcher)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AD \"LIB\"",
+        "value": 400,
+        "question": "This moniker for Simon Bolivar is ironic, as he became a dictator after defeating the Spanish",
+        "answer": "the Liberator",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RED STATES",
+        "value": 600,
+        "question": "Redwood City, Redding & Redlands are all cities in this state",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 600,
+        "question": "Sprinter Merlene Ottey, an 8-time Olympic medalist, represented this Caribbean nation in competition",
+        "answer": "Jamaica",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 600,
+        "question": "A Jacksonian Democrat: Knox",
+        "answer": "(James K.) Polk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PLANTS",
+        "value": 600,
+        "question": "Archaeologists have found that varieties of this grain, like Emmer & Einkorn, were grown in the 7th millennium B.C.",
+        "answer": "wheat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "A NUMBER FROM 1 TO 10",
+        "value": 600,
+        "question": "Number of times a person today can be elected president of Mexico",
+        "answer": "once",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AD \"LIB\"",
+        "value": 600,
+        "question": "This Freudian term refers to all the instinctual desires & energies from the id, not just the sexual ones",
+        "answer": "the libido",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RED STATES",
+        "value": 800,
+        "question": "If you're visiting Glacier National Park in this state, be sure to check out Red Mountain & Red Eagle Mountain",
+        "answer": "Montana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 800,
+        "question": "Hugo Wieslander was in the record books as 1912 decathlon champ until 1982, when this man was reinstated",
+        "answer": "Jim Thorpe",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 800,
+        "question": "Had a real standard when it came to oil:Davison",
+        "answer": "(John D.) Rockefeller",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PLANTS",
+        "value": 800,
+        "question": "Whether Anaheim or Poblano, these are technically fruits because they develop from the ovary of a flower",
+        "answer": "a chili pepper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "A NUMBER FROM 1 TO 10",
+        "value": 800,
+        "question": "When writing, many Europeans cross it; most Americans don't",
+        "answer": "7",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AD \"LIB\"",
+        "value": 800,
+        "question": "It can be the text of an oratorio or an opera",
+        "answer": "the libretto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RED STATES",
+        "value": 1000,
+        "question": "2 of the 3 states whose borders are partially formed by the Red River of the South",
+        "answer": "Texas & Oklahoma (& Arkansas)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OLYMPIC GAMES",
+        "value": 1000,
+        "question": "Her winning streak with Kerri Walsh hit 108 en route to Olympic gold but \"Dancing with the Stars\" proved an Achilles heel",
+        "answer": "Misty May-Treanor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 1000,
+        "question": "A civilly disobedient leader:Karamchand",
+        "answer": "(Mohandas K.) Gandhi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PLANTS",
+        "value": 1000,
+        "question": "This tree's name comes from the Hindi word for \"trader\" because people displayed their wares in its shade",
+        "answer": "the banyan tree",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "A NUMBER FROM 1 TO 10",
+        "value": 1000,
+        "question": "In the 1930s Harlan F. Stone & Owen J. Roberts were 2 of the group called this many \"old men\"",
+        "answer": "9",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AD \"LIB\"",
+        "value": 1000,
+        "question": "Noun for one who lives a wild, hedonistic life without moral restraint",
+        "answer": "a libertine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "OTHER RED STATES",
+      "BEETHOVEN'S GOTTA LOTTA SONATAS",
+      "MY TV TOWN",
+      "THE LITTLE DRAMA BOY",
+      "TIMELINE 1600S",
+      "BRICKMAKING"
+    ],
+    "clues": [
+      {
+        "category": "OTHER RED STATES",
+        "value": 400,
+        "question": "It's blood rushing to the face that causes this alliterative term for a newly married gal",
+        "answer": "blushing bride",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BEETHOVEN'S GOTTA LOTTA SONATAS",
+        "value": 400,
+        "question": "This nickname of a Beethoven sonata comes from a reviewer who said it reminded him of Lake Lucerne at night",
+        "answer": "Moonlight Sonata",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MY TV TOWN",
+        "value": 400,
+        "question": "Bartender Sam Malone",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE LITTLE DRAMA BOY",
+        "value": 400,
+        "question": "In \"Brighton Beach Memoirs\", this playwright introduced young Brooklynite Eugene Jerome",
+        "answer": "Neil Simon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TIMELINE 1600S",
+        "value": 400,
+        "question": "Tokugawa Ieayasu took this title in 1603 & later turned the village of Edo into his capital",
+        "answer": "Shogun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BRICKMAKING",
+        "value": 400,
+        "question": "(Jon of the Clue Crew reports from the Beldin Brick Factory in Canton, OH.)  The patterns in which the bricks are set on the kiln car determines their final appearance after this 2,000-degree process",
+        "answer": "firing",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OTHER RED STATES",
+        "value": 800,
+        "question": "After saying I knew the words to \"30 Days In The Hole\", I turned red & had this, the band who sang the song",
+        "answer": "Humble Pie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BEETHOVEN'S GOTTA LOTTA SONATAS",
+        "value": 800,
+        "question": "Beethoven's piano sonata in D minor, Op. 31 No. 2, has this name for its stormy character, not the Shakespeare play",
+        "answer": "Tempest",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MY TV TOWN",
+        "value": 800,
+        "question": "Sheriff Andy Taylor",
+        "answer": "Mayberry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE LITTLE DRAMA BOY",
+        "value": 800,
+        "question": "No wonder he's out to kill Macbeth, after his little son is shish-kebabbed",
+        "answer": "Macduff",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TIMELINE 1600S",
+        "value": 800,
+        "question": "This British king was executed at Whitehall Palace on Jan. 30, 1649",
+        "answer": "Charles I",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BRICKMAKING",
+        "value": 800,
+        "question": "(Kelly of the Clue Crew reports from the Beldin Brick Factory in Canton, OH.)  A brick commonly turns out red because of the oxidation of this metallic element in the earth",
+        "answer": "iron",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OTHER RED STATES",
+        "value": 1200,
+        "question": "\"Much to my\" this 7-letter word, I find that when I look carefully at the word, I find a little smile",
+        "answer": "chagrin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BEETHOVEN'S GOTTA LOTTA SONATAS",
+        "value": 1200,
+        "question": "The violin sonata in F, Op. 24, has a happy, relaxed mood, earning it this seasonal nickname",
+        "answer": "the Spring Sonata",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MY TV TOWN",
+        "value": 1200,
+        "question": "Teenager Clark Kent",
+        "answer": "Smallville",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE LITTLE DRAMA BOY",
+        "value": 1200,
+        "question": "7-year-old Brandon de Wilde, later of \"Shane\", debuted on stage in this \"marital\" Carson McCullers play",
+        "answer": "Member of the Wedding",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TIMELINE 1600S",
+        "value": 1200,
+        "question": "In 1618,  2 Catholic officials were thrown out of a window in this European city, sparking the 30 Years' War",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BRICKMAKING",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew reports from the Beldin Brick Factory in Canton, OH.)  This uneventful process you're looking at takes 20 to 72 hours; for history's first brickmakers, it was the final process",
+        "answer": "drying",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OTHER RED STATES",
+        "value": 1600,
+        "question": "This word meaning \"extremely embarrassed\" has lethal undertones; it's derived from the Latin for \"death\"",
+        "answer": "mortified",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BEETHOVEN'S GOTTA LOTTA SONATAS",
+        "value": 1600,
+        "question": "This name for Beethoven's piano sonata No. 8 in C minor, Op. 13, is just sad",
+        "answer": "Pathetique",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MY TV TOWN",
+        "value": 1600,
+        "question": "Arthur \"Fonzie\" Fonzarelli",
+        "answer": "Milwaukee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE LITTLE DRAMA BOY",
+        "value": 1600,
+        "question": "In a play set at boarding school, a teacher's wife offers more to young Tom than the title \"tea and\" this",
+        "answer": "sympathy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TIMELINE 1600S",
+        "value": 1600,
+        "question": "The Company of 100 Associates was established by this country in 1627 to develop New World interests",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BRICKMAKING",
+        "value": 1600,
+        "question": "(Jon of the Clue Crew reports from the Beldin Brick Factory in Canton, OH.)  Bricks are often made with holes in them; in addition to saving on raw material, it leaves spaces where this substance, brick's partner, can enter",
+        "answer": "mortar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OTHER RED STATES",
+        "value": 2000,
+        "question": "This term for an awkward, unforeseen event comes from the French for \"against time\"",
+        "answer": "a contretemps",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BEETHOVEN'S GOTTA LOTTA SONATAS",
+        "value": 2000,
+        "question": "Beethoven's piano sonata in F Minor, Op. 57, has this nickname, Italian for \"with intense feeling\"",
+        "answer": "Appassionata",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MY TV TOWN",
+        "value": 2000,
+        "question": "\"Green Acres\" attorney Oliver Wendell Douglas",
+        "answer": "Hooterville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE LITTLE DRAMA BOY",
+        "value": 2000,
+        "question": "When \"The Diary of Anne Frank\" debuted on Broadway in 1955, David Levin played this boy who's in hiding with Anne",
+        "answer": "Peter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TIMELINE 1600S",
+        "value": 2000,
+        "question": "Construction of the Potala Palace began in this mountainous Asian capital in 1645",
+        "answer": "Lhasa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BRICKMAKING",
+        "value": 2000,
+        "question": "(Kelly of the Clue Crew reports from the Beldin Brick Factory in Canton, OH.)  Molding bricks produces a looser texture; they're more solid if this process is used, forcing the materials through a die to produce a desired shape",
+        "answer": "extrusion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ACTOR-DIRECTORS",
+    "clue": "The only woman to win a Golden Globe for directing, she won for a 1983 film that she had also co-written",
+    "answer": "Barbra Streisand"
+  },
+  "gameId": "5581",
+  "gameDate": "Monday, December 8, 2008"
+}

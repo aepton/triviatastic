@@ -1,0 +1,574 @@
+{
+  "title": "Show #1833 - Wednesday, July 15, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "FAMOUS SENIORS",
+      "ECONOMICS",
+      "BROADWAY LYRICS",
+      "ANIMALS",
+      "GEMS & JEWELRY",
+      "VOCABULARY"
+    ],
+    "clues": [
+      {
+        "category": "FAMOUS SENIORS",
+        "value": 100,
+        "question": "This retiree founded Kentucky Fried Chicken at age 66 & was an ambassador for the firm when he died at 90",
+        "answer": "Colonel Sanders",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ECONOMICS",
+        "value": 100,
+        "question": "The strong desire for a product by consumers, it's what \"supply\" tries to fill",
+        "answer": "demand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY LYRICS",
+        "value": 100,
+        "question": "\"There is nothin' you can name that is anythin' like\" one of these",
+        "answer": "a dame",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "These members of the squirrel family live in \"towns\", which may consist of thousands of them",
+        "answer": "prairie dogs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 100,
+        "question": "The Spaniards named this metal used in jewelry platina for its resemblance to silver",
+        "answer": "platinum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 100,
+        "question": "The plant & animal life of a certain region are given the corresponding terms flora & this",
+        "answer": "fauna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS SENIORS",
+        "value": 200,
+        "question": "Known as the \"Ol' Perfesser\", he became the 1st manager of the New York Mets in 1962 at age 70",
+        "answer": "Casey Stengel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ECONOMICS",
+        "value": 200,
+        "question": "From 1934 to 1971 the price of this was fixed at $35 a Troy ounce; now its rate floats",
+        "answer": "gold",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY LYRICS",
+        "value": 200,
+        "question": "\"Well ya got trouble, my friend—right here I say trouble right here in\" this place",
+        "answer": "River City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "This breed of rabbit is raised for its long, white fur which is spun into yarn",
+        "answer": "angora",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 200,
+        "question": "In the early 1900s Kokichi Mikimoto invented a process to culture these gems",
+        "answer": "pearls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 200,
+        "question": "An open-handed blow, or a turned-up fold on a trouser leg",
+        "answer": "cuff",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS SENIORS",
+        "value": 300,
+        "question": "When she was 75, this educator of the blind published the book \"Teacher\" about Anne Sullivan",
+        "answer": "Helen Keller",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ECONOMICS",
+        "value": 300,
+        "question": "The Dow Jones Industrial Average is quoted in these, not dollars",
+        "answer": "points",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY LYRICS",
+        "value": 300,
+        "question": "Title that follows \"It's delightful, it's delicious...\"",
+        "answer": "\"It's De-Lovely\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "The mehari, a special breed of this desert mammal, is noted for its swiftness",
+        "answer": "a camel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 300,
+        "question": "Jet, a type of coal made into buttons & costume jewelry, is this color",
+        "answer": "black",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 300,
+        "question": "It's the name of the device that helps a musician keep the beat, like clockwork",
+        "answer": "a metronome",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS SENIORS",
+        "value": 400,
+        "question": "He wrote his last play, \"Buoyant Billions\", at age 91, 35 years after \"Pygmalion\"",
+        "answer": "George Bernard Shaw",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ECONOMICS",
+        "value": 400,
+        "question": "Named for a video game, this anti-takeover defense has the target company trying to gobble up the acquirer",
+        "answer": "the Pac-Man defense",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY LYRICS",
+        "value": 400,
+        "question": "Mame asks, \"Would I be there when he called, if he walked into\" this \"today?\"",
+        "answer": "my life",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "It's been speculated that the Aztecs bred ancestors of this small dog breed",
+        "answer": "the Chihuahua",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 400,
+        "question": "Deep green beryl is called emerald & light blue-green beryl is called this",
+        "answer": "aquamarine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 400,
+        "question": "It can describe a fast & furious courtship or a spiraling current of air",
+        "answer": "a whirlwind",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS SENIORS",
+        "value": 500,
+        "question": "He used his Nobel Prize winnings to improve his hospital in Gabon & set up a leper colony",
+        "answer": "Albert Schweitzer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ECONOMICS",
+        "value": 500,
+        "question": "It's a stock transaction by a person who has information not available to the general public",
+        "answer": "insider trading",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY LYRICS",
+        "value": 500,
+        "question": "Sondheim wrote, \"Good times and bum times, I've seen 'em all and my dear, I'm\" this",
+        "answer": "still here",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 1000,
+        "question": "The name of this large deer of the North American tundra is of French-Canadian derivation",
+        "answer": "caribou",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 500,
+        "question": "From Latin for \"thread\" & \"grain\", this style of jewelry is made by twisting fine wires into patterns",
+        "answer": "filigree",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "VOCABULARY",
+        "value": 500,
+        "question": "In business it's defined as the practice of giving better jobs & higher pay to relatives",
+        "answer": "nepotism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BOTANY",
+      "WORLD FLAGS",
+      "OPERA",
+      "THE 17th CENTURY",
+      "LITERATURE",
+      "POLITICIANS"
+    ],
+    "clues": [
+      {
+        "category": "BOTANY",
+        "value": 200,
+        "question": "The U.S.' largest one of these legumes was a 3 11/16\" specimen grown in Georgia",
+        "answer": "a peanut",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 200,
+        "question": "This symbol of the Christian faith appears on the flag of the South Pacific kingdom of Tonga",
+        "answer": "a cross",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 200,
+        "question": "\"Madama Butterfly\" was 1st performed on February 17, 1904 in this Milan opera house",
+        "answer": "La Scala",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE 17th CENTURY",
+        "value": 200,
+        "question": "\"His\" authorized version of the Bible, published in 1611, was the work of 47 scholars",
+        "answer": "King James",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "She wrote \"Jane Eyre\" under the pseudonym Currer Bell",
+        "answer": "Charlotte Brontë",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POLITICIANS",
+        "value": 200,
+        "question": "In the 1950s this current New York governor played minor league baseball with the Brunswick Pirates",
+        "answer": "Mario Cuomo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 400,
+        "question": "The bald cypress is not a true cypress, but is related to this giant California tree",
+        "answer": "a sequoia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 400,
+        "question": "The flag of Cyprus has a field of this color, symbolic of peace",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 400,
+        "question": "Set entirely at the Tower of London, \"The Yeomen of the Guard\" is about these spiffy soldiers",
+        "answer": "the Beefeaters",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE 17th CENTURY",
+        "value": 400,
+        "question": "In 1663 this architect began his first major building, a chapel at Pembroke College, Cambridge",
+        "answer": "Christopher Wren",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "In \"The Jungle Book\" this Indian boy learns jungle lore from Baloo, the bear",
+        "answer": "Mowgli",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POLITICIANS",
+        "value": 400,
+        "question": "He won 6 4-year terms as Chicago's mayor, more than any other person in the city's history",
+        "answer": "Richard Daley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 600,
+        "question": "At his Santa Rosa, California farm, this plant breeder developed a spineless cactus",
+        "answer": "Luther Burbank",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 600,
+        "question": "This British crown colony's flag has a castle denoting its strategic position on the Mediterranean",
+        "answer": "Gibraltar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 600,
+        "question": "Opera in which you'd find Canio, his wife, Nedda & the clowns Tonio & Beppe",
+        "answer": "Pagliacci",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE 17th CENTURY",
+        "value": 600,
+        "question": "In 1608 this explorer founded Quebec & a year later discovered the lake now named for him",
+        "answer": "Champlain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "Muley Graves is the only sharecropper to remain in Oklahoma in this John Steinbeck novel",
+        "answer": "The Grapes of Wrath",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POLITICIANS",
+        "value": 600,
+        "question": "In 1991 Ann Richards became the second woman to be sworn in as governor of this state",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 800,
+        "question": "Turkey red, a variety of this grain, was brought to Kansas in the 1870s by Russian Mennonites",
+        "answer": "wheat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 800,
+        "question": "The red & white on this country's flag are the traditional colors of Bohemia",
+        "answer": "Czechoslovakia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 800,
+        "question": "In this Verdi opera, the Duke of Mantua seduces Gilda, the daughter of a court jester",
+        "answer": "Rigoletto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE 17th CENTURY",
+        "value": 800,
+        "question": "Born Armand Jean du Plessis, he was chief minister to Louis XIII from 1624 to 1642",
+        "answer": "Richelieu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "This C.S. Forester character was commander of H.M.S. Lydia, a 36-gun frigate",
+        "answer": "Horatio Hornblower",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POLITICIANS",
+        "value": 800,
+        "question": "This North Carolina senator once gave conservative editorials on WRAL-TV in Raleigh",
+        "answer": "Jesse Helms",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 1000,
+        "question": "Popular as a boutonniere, the scarlet variety of this perennial is Ohio's state flower",
+        "answer": "a carnation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 1000,
+        "question": "Its flag combined components of the flags of Zanzibar & Tanganyika",
+        "answer": "Tanzania",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 2000,
+        "question": "This Humperdinck opera often opens with a young boy binding brooms & his sister knitting",
+        "answer": "Hansel and Gretel",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE 17th CENTURY",
+        "value": 1000,
+        "question": "In his 1619 \"Harmonies of the World\", this Ger. astronomer published his 3rd law of planetary motion",
+        "answer": "(Johannes) Kepler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "Evelyn Waugh novel subtitled \"The Sacred and Profane Memories of Captain Charles Ryder\"",
+        "answer": "Brideshead Revisited",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POLITICIANS",
+        "value": 2000,
+        "question": "1 of 2 Republicans who represent Oregon in the U.S. Senate",
+        "answer": "(1 of) (Bob) Packwood (Mark Hatfield)",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD WAR II",
+    "clue": "During WWII this Mediterranean island was called Britain's \"only unsinkable aircraft carrier\"",
+    "answer": "Malta"
+  },
+  "gameId": "1833",
+  "gameDate": "Wednesday, July 15, 1992"
+}

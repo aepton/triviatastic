@@ -1,0 +1,574 @@
+{
+  "title": "Show #5857 - Tuesday, February 16, 2010",
+  "jeopardyRound": {
+    "categories": [
+      "COUNTRY OF ORIGIN",
+      "WOMEN'S SPORTS HISTORY",
+      "THE \"S\" FILES",
+      "SEWARD'S FOLLIES",
+      "ALASKA",
+      "ASSEMBLY LINE"
+    ],
+    "clues": [
+      {
+        "category": "COUNTRY OF ORIGIN",
+        "value": 200,
+        "question": "San Pellegrino, as in sparkling natural mineral water",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOMEN'S SPORTS HISTORY",
+        "value": 200,
+        "question": "Around 1875, this woman beats her future husband, marksman Frank Butler, in a shooting match",
+        "answer": "Annie Oakley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE \"S\" FILES",
+        "value": 200,
+        "question": "This plant is one of the symbols of Ireland",
+        "answer": "the shamrock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SEWARD'S FOLLIES",
+        "value": 200,
+        "question": "In 1867 William Seward negotiated the purchase of Alaska from this nation for $7.2 million",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ALASKA",
+        "value": 200,
+        "question": "About half of Alaska's 600,000 residents live within this city's metropolitan area",
+        "answer": "Anchorage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ASSEMBLY LINE",
+        "value": 200,
+        "question": "(Alex looks over the assembly line at the Ford Motor Company in Dearborn, MI.)  I know it looks like a scene from a sci-fi film, but these robots are doing this important but hazardous job that helps keep some of the metal parts together",
+        "answer": "welding",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY OF ORIGIN",
+        "value": 400,
+        "question": "Birkenstock, as in shoes",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOMEN'S SPORTS HISTORY",
+        "value": 400,
+        "question": "1950:12 year-old Kathryn Johnston becomes the first girl to play in this sports organization",
+        "answer": "Little League (Baseball)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE \"S\" FILES",
+        "value": 400,
+        "question": "Augustin Edouard was a prolific French artist specializing in this type of picture seen here",
+        "answer": "a silhouette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SEWARD'S FOLLIES",
+        "value": 400,
+        "question": "Seward was elected to the Senate in 1848 as a member of this now-defunct political party",
+        "answer": "the Whigs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ALASKA",
+        "value": 400,
+        "question": "They're the Canadian province & the Canadian territory that border Alaska",
+        "answer": "British Columbia & the Yukon Territory",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ASSEMBLY LINE",
+        "value": 400,
+        "question": "(Alex walks the assembly line at the Ford Motor Company in Dearborn, MI.)  This Ford plant turns out one vehicle every minute; Henry Ford's original streamlined plant in the early 1900s turned out one of this famous model every 90 minutes",
+        "answer": "the Model T",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY OF ORIGIN",
+        "value": 600,
+        "question": "Baccarat, as in crystal",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WOMEN'S SPORTS HISTORY",
+        "value": 600,
+        "question": "1567:She is said to have been the first woman to play golf",
+        "answer": "Mary, Queen of Scots",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE \"S\" FILES",
+        "value": 600,
+        "question": "It's believed that this highly infectious disease killed Pocahontas",
+        "answer": "smallpox",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SEWARD'S FOLLIES",
+        "value": 600,
+        "question": "Devout abolitionists, Seward & his wife sheltered fugitive slaves as a part of this network",
+        "answer": "the underground railroad",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ALASKA",
+        "value": 600,
+        "question": "This archipelago of more than 300 islands stretches 1,200 miles from Alaska towards the Kamchatka Peninsula",
+        "answer": "the Aleutians",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ASSEMBLY LINE",
+        "value": 600,
+        "question": "(Jimmy of the Clue Crew reports from the assembly line at the Ford Motor Company in Dearborn, MI.)  In 2009, Ford's Dearborn truck assembly line added an extra shift of workers to restock inventories depleted by the success of this federal program",
+        "answer": "Cash for Clunkers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY OF ORIGIN",
+        "value": 800,
+        "question": "Burberry, as in fashion",
+        "answer": "Britain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WOMEN'S SPORTS HISTORY",
+        "value": 800,
+        "question": "1937:Entering a mostly male domain, Conchita Cintron begins her career as one of these in Mexico",
+        "answer": "a bullfighter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE \"S\" FILES",
+        "value": 800,
+        "question": "Bordering Arizona, it's Mexico's second largest state in area",
+        "answer": "Sonora",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SEWARD'S FOLLIES",
+        "value": 800,
+        "question": "Seward served both Lincoln & Johnson in this cabinet post",
+        "answer": "Secretary of State",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ALASKA",
+        "value": 800,
+        "question": "More than half of all fish consumed in the U.S. are caught in this sea between Siberia & Alaska",
+        "answer": "the Bering Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ASSEMBLY LINE",
+        "value": 800,
+        "question": "(Alex leans against a partly completed car  at the Ford Motor Company in Dearborn, MI.)  Here's something you definitely want to have in your home workshop--it's a power assist arm to do the heavy lifting; today it's being used to install over 100 pound instrument clusters; it also helps prevent job-related injuries like RSS, which is this kind of stress syndrome",
+        "answer": "repetitive",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY OF ORIGIN",
+        "value": 1000,
+        "question": "CITGO, as in gas (go south)",
+        "answer": "Venezuela",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WOMEN'S SPORTS HISTORY",
+        "value": 1000,
+        "question": "1932:At the AAU National Track & Field Meet, she wins the team championship single-handedly",
+        "answer": "(Babe Didrikson) Zaharias",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE \"S\" FILES",
+        "value": 1000,
+        "question": "(Jimmy of the Clue Crew shows an illustration of a prism.)  When light passes through a prism & is bent by refraction, it splits into its various colors, the visible one of these",
+        "answer": "the spectrum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SEWARD'S FOLLIES",
+        "value": 1000,
+        "question": "Before his time on the national stage, Seward was born in, attended Union College in & was governor of this state",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ALASKA",
+        "value": 1000,
+        "question": "Northeast Alaska is dominated by ANWR, short for the Arctic this, which covers 19 million acres",
+        "answer": "the National Wildlife Refuge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ASSEMBLY LINE",
+        "value": 1000,
+        "question": "(Alex reports from the line at the Ford Motor Company in Dearborn, MI.)  To increase manufacturing efficiency, the engine will fit not only the truck here, but a whole variety of others, which makes it this kind of interchangeable part, from the Latin for \"unit of measurement\"",
+        "answer": "modular",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE UNITED NATIONS",
+      "DIRECT TV",
+      "BOOK OF...",
+      "MEN OF SCIENCE",
+      "FOOD NAMED FOR PEOPLE",
+      "ANTONYMS"
+    ],
+    "clues": [
+      {
+        "category": "THE UNITED NATIONS",
+        "value": 400,
+        "question": "The 1st formal U.N. peacekeeping force was formed in 1956 to deal with a dispute over this Middle Eastern waterway",
+        "answer": "the Suez Canal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DIRECT TV",
+        "value": 400,
+        "question": "Cast members Mike Farrell & David Ogden Stiers both directed episodes of this hit show",
+        "answer": "M*A*S*H",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BOOK OF...",
+        "value": 400,
+        "question": "A 19th century Egyptologist gave the title \"Book of\" this to a collection of spells written to be put in tombs",
+        "answer": "The Book of the Dead",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 400,
+        "question": "In 1986 Dr. Alec Jeffreys became the first scientist to use this to identify suspected criminals",
+        "answer": "DNA",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD NAMED FOR PEOPLE",
+        "value": 400,
+        "question": "This lettuce is named for the horticulturist, not the garment that protects babies from spills",
+        "answer": "Bibb",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ANTONYMS",
+        "value": 400,
+        "question": "Paired antonyms in a rhyme mandating wedding attire",
+        "answer": "something old, something new",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE UNITED NATIONS",
+        "value": 800,
+        "question": "On the United Nations' flag, a wreath of these symbolizes peace",
+        "answer": "olive branches",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DIRECT TV",
+        "value": 800,
+        "question": "Richard Schiff directed 2 episodes of this political series on which he played Toby Ziegler",
+        "answer": "The West Wing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BOOK OF...",
+        "value": 800,
+        "question": "E.L. Doctorow wrote a novel titled \"The Book of\" him, like a biblical book set in Babylon",
+        "answer": "Daniel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 800,
+        "question": "Albert Hoffman, who died aged 102 in 2008, was best known for synthesizing this 3-letter hallucinogen",
+        "answer": "LSD",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD NAMED FOR PEOPLE",
+        "value": 800,
+        "question": "This fettucine dish became famous when Mary Pickford & Douglas Fairbanks crowned the chef the King of the Noodles",
+        "answer": "fettucine Alfredo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ANTONYMS",
+        "value": 800,
+        "question": "Resource-conscious fishermen practice catch & this",
+        "answer": "release",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE UNITED NATIONS",
+        "value": 1200,
+        "question": "Meeting at The Hague, it's the U.N.'s judicial organ",
+        "answer": "the World Court",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DIRECT TV",
+        "value": 1200,
+        "question": "Pamela Fryman directed \"A Lungful of Alan\", an episode of this sitcom that co-stars Jon Cryer",
+        "answer": "Two and a Half Men",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BOOK OF...",
+        "value": 1200,
+        "question": "First published in 1830, it tells of a migration from Jerusalem to America led by the prophet Lehi",
+        "answer": "The Book of Mormon",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 1200,
+        "question": "Rocket pioneer Robert Goddard discovered the best liquid fuel was a combination of gasoline and this, aka LOx",
+        "answer": "liquid oxygen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD NAMED FOR PEOPLE",
+        "value": 1200,
+        "question": "In the late 1800s a doctor created this ground steak, which he said was a prescription for good health",
+        "answer": "Salisbury",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANTONYMS",
+        "value": 1200,
+        "question": "This cheese-shredding son of Zebedee was taller than St. James the Less",
+        "answer": "St. James the Greater",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE UNITED NATIONS",
+        "value": 1600,
+        "question": "The newest member of the United Nations is this country that separated from Serbia in 2006",
+        "answer": "Montenegro",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DIRECT TV",
+        "value": 1600,
+        "question": "Both parts of the 2004 pilot of this enigmatic ABC show were directed by creator J.J. Abrams",
+        "answer": "Lost",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BOOK OF...",
+        "value": 1600,
+        "question": "Once almost as popular as the Bible was John Foxe's \"Book of\" these people who suffered for their (Protestant) faith",
+        "answer": "The Book of Martyrs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 1600,
+        "question": "The flask that this British scientist invented in the 1890s was a predecessor of the Thermos",
+        "answer": "James Dewar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD NAMED FOR PEOPLE",
+        "value": 1600,
+        "question": "Escoffier created & named an exceedingly thin & dry toast for this Australian opera singer",
+        "answer": "(Nellie) Melba",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ANTONYMS",
+        "value": 1600,
+        "question": "This 4-letter antonym of \"deranged\" comes from the Latin for \"healthy\"",
+        "answer": "sane",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE UNITED NATIONS",
+        "value": 2000,
+        "question": "The signing of the U.N. Charter took place in this West Coast city in June 1945",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DIRECT TV",
+        "value": 2000,
+        "question": "\"The Nerdvana Annihilation\" & \"The Loobenfeld Decay\" episodes of this sitcom were directed by Mark Cendrowski",
+        "answer": "Big Bang Theory",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BOOK OF...",
+        "value": 2000,
+        "question": "In 1528 Castiglione described the perfect royal attendant in \"Libro del Cortegiano\", \"Book of\" this person",
+        "answer": "(the) Courtier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEN OF SCIENCE",
+        "value": 2000,
+        "question": "The first mention of this scientist's theoretical cat was in 1935's \"The Present Situation in Quantum Physics\"",
+        "answer": "Schrödinger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD NAMED FOR PEOPLE",
+        "value": 2000,
+        "question": "This raw, thinly sliced beef is named for a Renaissance painter whose red colors were deep & rich",
+        "answer": "Carpaccio",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ANTONYMS",
+        "value": 2000,
+        "question": "A Hemingway character says he went bankrupt \"gradually and then\" this way",
+        "answer": "suddenly",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE AFI's 50 GREATEST FILM HEROES",
+    "clue": "Of the 50 on the list, the only character that wasn't portrayed by a human",
+    "answer": "Lassie"
+  },
+  "gameId": "5857",
+  "gameDate": "Tuesday, February 16, 2010"
+}

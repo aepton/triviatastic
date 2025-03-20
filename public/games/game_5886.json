@@ -1,0 +1,565 @@
+{
+  "title": "Show #2558 - Wednesday, October 18, 1995",
+  "jeopardyRound": {
+    "categories": [
+      "BAYS & GULFS",
+      "CELEBRITY CHEERLEADERS",
+      "DANCE",
+      "GRAVESITES",
+      "ZOOLOGY",
+      "RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "BAYS & GULFS",
+        "value": 100,
+        "question": "This country's Peter the Great Bay is an inlet of the Sea of Japan",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY CHEERLEADERS",
+        "value": 100,
+        "question": "One of the L.A. stories this wild & crazy guy may tell is of cheerleading at Garden Grove High",
+        "answer": "Steve Martin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "DANCE",
+        "value": 100,
+        "question": "Serge Lifar's abstract ballet \"Suite en Blanc\" is danced in costumes of this color",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GRAVESITES",
+        "value": 100,
+        "question": "This \"Believe It or Not\" creator is buried in an Odd Fellows cemetery in Santa Rosa, Calif.",
+        "answer": "(Robert) Ripley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 100,
+        "question": "Some trace the origins of this smallest dog to ones that accompanied Cortes in 1519",
+        "answer": "the Chihuahua",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 100,
+        "question": "A humorous rabbit",
+        "answer": "a funny bunny",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BAYS & GULFS",
+        "value": 200,
+        "question": "Tampa Bay is an arm of this gulf",
+        "answer": "the Gulf of Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY CHEERLEADERS",
+        "value": 200,
+        "question": "We wonder what accent this \"Sophie's Choice\" star used when shouting her high school cheers",
+        "answer": "Meryl Streep",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "DANCE",
+        "value": 200,
+        "question": "Music for this French court dance became the standardized third movement of symphonies by Haydn & Mozart",
+        "answer": "the minuet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GRAVESITES",
+        "value": 200,
+        "question": "It's true; Sojourner Truth is buried in this Michigan cereal city",
+        "answer": "Battle Creek",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 200,
+        "question": "Anthonomus grandis is the scientific name of this cotton pest",
+        "answer": "the boll weevil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 200,
+        "question": "An intelligent Simpson",
+        "answer": "a smart Bart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BAYS & GULFS",
+        "value": 300,
+        "question": "It was the center of naval action in the 1991 Gulf War",
+        "answer": "the Persian Gulf",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY CHEERLEADERS",
+        "value": 300,
+        "question": "This comedienne was a cheerleader at Cass Tech in Detroit, & that's the truth",
+        "answer": "Lily Tomlin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "DANCE",
+        "value": 300,
+        "question": "In 1933 Charles Weidman based a full-length modern dance work on this Voltaire novel",
+        "answer": "Candide",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GRAVESITES",
+        "value": 300,
+        "question": "The grave of the creator of Poor RIchard's Almanack is at this city's Christ Church",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 300,
+        "question": "The thresher type of this fish in names for its long, driving tail fin",
+        "answer": "a shark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 300,
+        "question": "Young ladies' ringlets",
+        "answer": "girls' curls",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BAYS & GULFS",
+        "value": 400,
+        "question": "Sugar Loaf Mountain in this country rises above Guanabara Bay",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY CHEERLEADERS",
+        "value": 400,
+        "question": "This \"Today\" show host is as perky as a cheerleader because she was one",
+        "answer": "Katie Couric",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "DANCE",
+        "value": 400,
+        "question": "The tango evolved in the Buenos Aires area during the latter part of this century",
+        "answer": "the nineteenth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GRAVESITES",
+        "value": 400,
+        "question": "This American Indian woman's gravesite is in Gravesend, England; she died there in 1617",
+        "answer": "Pocohontas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 400,
+        "question": "Reaching over 20 feet in length, this snake of the boa family is the longest snake in the Western Hemisphere",
+        "answer": "an anaconda",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 400,
+        "question": "A tiny legume",
+        "answer": "a wee pea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BAYS & GULFS",
+        "value": 500,
+        "question": "In 1994 the U.S. reopened a refugee processing center at the naval base on this Cuban bay",
+        "answer": "Guantanamo Bay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY CHEERLEADERS",
+        "value": 500,
+        "question": "She went from cheerleading at Van Nuys High to the Laker Girls to the Top 40 charts",
+        "answer": "Paula Abdul",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "DANCE",
+        "value": 500,
+        "question": "After he ran away with gypsies as a teenager, Vicente Escudero became famous for this type of dance",
+        "answer": "flamenco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GRAVESITES",
+        "value": 500,
+        "question": "This 1930s criminal pair is buried in Dallas, but he's in one cemetery, she's in another",
+        "answer": "Bonnie & Clyde",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ZOOLOGY",
+        "value": 1000,
+        "question": "Found on Madagascar, the indri is the largest surviving member of these primates",
+        "answer": "lemurs",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 500,
+        "question": "Lewis Carroll's \"egg\"head",
+        "answer": "Humpty Dumpty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "KINGS & QUEENS",
+      "MYTHS & LEGENDS",
+      "U.S. GEOGRAPHY",
+      "MISC.",
+      "AUTHORS",
+      "\"ISM\"s"
+    ],
+    "clues": [
+      {
+        "category": "KINGS & QUEENS",
+        "value": 200,
+        "question": "Henry V's widow, Catherine of Valois, remarried & started this line that included Henry VIII",
+        "answer": "the Tudors",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 200,
+        "question": "Nox, a daughter of Chaos, is the personification of this time of day",
+        "answer": "night",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "Hinds County, Mississippi has 2 seats: Raymond & this capital",
+        "answer": "Jackson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MISC.",
+        "value": 200,
+        "question": "Though it's a form of this card game, spite & malice calls for 2 players, not one",
+        "answer": "solitaire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "This author's grandfather, Major Thomas Melville, participated in the Boston Tea Party",
+        "answer": "Herman Melville",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 200,
+        "question": "Russia's flag, adopted in 1991, no longer features the gold-edged star that stood for this",
+        "answer": "communism",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "KINGS & QUEENS",
+        "value": 400,
+        "question": "This current king's residence, the Palacio de la Zarzuela, is just outside Madrid",
+        "answer": "Juan Carlos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 400,
+        "question": "Huitzilopochtli, a god of these people, was born after his mother picked up a ball of brightly colored feathers",
+        "answer": "the Aztecs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "This Oregon lake occupies the base of an exploded volcano known as Mount Mazama",
+        "answer": "Crater Lake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MISC.",
+        "value": 400,
+        "question": "Paranoid people often have these false beliefs, which can be \"of grandeur\" or \"of persecution\"",
+        "answer": "delusions",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "6 years before \"Call of the WIld\" was published, he searched for gold in the Klondike",
+        "answer": "Jack London",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 400,
+        "question": "It's the outlook associated with rose-colored glasses",
+        "answer": "optimism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "KINGS & QUEENS",
+        "value": 600,
+        "question": "In 1881 Carol I became the first king of this country that now includes Transylvania",
+        "answer": "Romania",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 600,
+        "question": "Born brandishing a golden sword, Chrysaor was the son of Poseidon & this Gorgon",
+        "answer": "Medusa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "Montana's Fort Peck Dam, one of the world's largest earth-fill dams, lies on this river",
+        "answer": "the Missouri River",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AUTHORS",
+        "value": 600,
+        "question": "In 1969 this \"The Naked and the Dead\" author ran for NYC mayor, proposing statehood for the city",
+        "answer": "Norman Mailer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 600,
+        "question": "Karl Jaspers & Jean-Paul Sartre were exponents of this philosophical movement",
+        "answer": "existentialism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "KINGS & QUEENS",
+        "value": 800,
+        "question": "Fort Christina, built in North America in 1638, was named for a queen of this country",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 800,
+        "question": "In Medieval folklore, this weasel with a white winter coat was a symbol of chastity",
+        "answer": "an ermine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1600,
+        "question": "The Savannah River provides much of this state's boundary with Georgia",
+        "answer": "South Carolina",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MISC.",
+        "value": 800,
+        "question": "This common term for stalling or hanging tough calls to mind a Civil War general",
+        "answer": "stonewalling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 800,
+        "question": "In 1959 this \"Farewell My Lovely\" author became president of the Mystery Writers of America",
+        "answer": "Raymond Chandler",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 800,
+        "question": "The idea that life is suffering is the first of this religion's Four Noble Truths",
+        "answer": "Buddhism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "KINGS & QUEENS",
+        "value": 1000,
+        "question": "The full name of this county's queen is Margrethe Alexandrine Thorhildur Ingrid",
+        "answer": "Denmark",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 1000,
+        "question": "Fish were flung into the fire during this Roman fire god's chief festival on August 23",
+        "answer": "Vulcan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "This state's Mesabi Range has produced more iron ore than any other area in the U.S.",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MISC.",
+        "value": 1000,
+        "question": "Chartered in 1925, this Vermont college emphasizes individual programs of study",
+        "answer": "Bennington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1000,
+        "question": "While growing up in Oxford, Mississippi, he was called Billy or \"Memmie\" by his family",
+        "answer": "(William) Faulkner",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"ISM\"s",
+        "value": 2000,
+        "question": "Used in writing, it's the attributing of human characteristic to animals or inanimate objects",
+        "answer": "anthropomorphism",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE CARIBBEAN",
+    "clue": "Its peso is symbolized R.D.$",
+    "answer": "the Dominican Republic"
+  },
+  "gameId": "2558",
+  "gameDate": "Wednesday, October 18, 1995"
+}

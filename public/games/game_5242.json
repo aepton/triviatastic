@@ -1,0 +1,574 @@
+{
+  "title": "Show #7276 - Monday, April 11, 2016",
+  "jeopardyRound": {
+    "categories": [
+      "WHO WANTS A BEER?",
+      "AUTOBIOGRAPHIES",
+      "FRENCH OCCUPATION",
+      "ENTOMOLOGIST'S DICTIONARY",
+      "BIG BATS OF BASEBALL",
+      "\"D.H.\""
+    ],
+    "clues": [
+      {
+        "category": "WHO WANTS A BEER?",
+        "value": 200,
+        "question": "Clydesdales are true draft horses, appearing with this beer since 1933",
+        "answer": "Budweiser",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AUTOBIOGRAPHIES",
+        "value": 200,
+        "question": "Central to his autobiography \"Timebends\" was his 4-year marriage to Marylin Monroe",
+        "answer": "Arthur Miller",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FRENCH OCCUPATION",
+        "value": 200,
+        "question": "Chanteuse",
+        "answer": "a singer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ENTOMOLOGIST'S DICTIONARY",
+        "value": 200,
+        "question": "6-letter word for a community of insects that live & work together",
+        "answer": "colony",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BIG BATS OF BASEBALL",
+        "value": 200,
+        "question": "In 2015 this \"Big Papi\" with 500+ homers & a .455 World Series batting average said 2016 would be his final season",
+        "answer": "(David) Ortiz",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"D.H.\"",
+        "value": 200,
+        "question": "In the '50s, cake mixes were first sold under his name; they're \"So moist. So delicious. And so much more\"",
+        "answer": "Duncan Hines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WHO WANTS A BEER?",
+        "value": 400,
+        "question": "This Dutch beer was honored with a Diplome de Grand Prix at the 1889 World's Fair in Paris",
+        "answer": "Heineken",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AUTOBIOGRAPHIES",
+        "value": 400,
+        "question": "It's the Greta Garbo-esque title of Vanna White's 1987 autobiography",
+        "answer": "Vanna Speaks!",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FRENCH OCCUPATION",
+        "value": 400,
+        "question": "Bibliothecaire",
+        "answer": "librarian",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ENTOMOLOGIST'S DICTIONARY",
+        "value": 400,
+        "question": "Clavate, meaning \"club-shaped\" is one type of these paired sensory appendages",
+        "answer": "Antenna",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BIG BATS OF BASEBALL",
+        "value": 400,
+        "question": "A San Diego Padre from 1982 to 2001, this outfielder won 8 batting titles",
+        "answer": "Tony Gwynn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"D.H.\"",
+        "value": 400,
+        "question": "This singer from Philadelphia says of his rich career that he was in the right place at the right time",
+        "answer": "Daryl Hall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WHO WANTS A BEER?",
+        "value": 600,
+        "question": "This \"cerveza mas fina\" has been brewed & bottled in Mexico since 1925",
+        "answer": "Corona",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AUTOBIOGRAPHIES",
+        "value": 600,
+        "question": "1-word title of Cheryl Strayed's memoir subtitled \"From Lost to Found on the Pacific Crest Trail\"",
+        "answer": "Wild",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FRENCH OCCUPATION",
+        "value": 600,
+        "question": "Boulanger",
+        "answer": "a baker (a breadmaker accepted)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ENTOMOLOGIST'S DICTIONARY",
+        "value": 600,
+        "question": "Chitin is the main component of this tough, outer supporting structure of an insect",
+        "answer": "the exoskeleton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BIG BATS OF BASEBALL",
+        "value": 600,
+        "question": "This Yankee outfielder hit 52 home runs in 1956 & 54 in 1961",
+        "answer": "Mickey Mantle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"D.H.\"",
+        "value": 600,
+        "question": "This Swede was the second Secretary-General of the United Nations",
+        "answer": "Dag Hammarskjöld",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WHO WANTS A BEER?",
+        "value": 800,
+        "question": "Appropriately, this beer brand makes a Rebel IPA",
+        "answer": "Sam Adams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AUTOBIOGRAPHIES",
+        "value": 800,
+        "question": "This first memoir of Maya Angelou became a bestseller",
+        "answer": "I Know Why the Caged Bird Sings",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FRENCH OCCUPATION",
+        "value": 800,
+        "question": "Avocat",
+        "answer": "a lawyer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ENTOMOLOGIST'S DICTIONARY",
+        "value": 800,
+        "question": "Helpful in identification & classification, venation is the arrangement of veins in this part",
+        "answer": "the wings",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BIG BATS OF BASEBALL",
+        "value": 800,
+        "question": "In 1980 this Kansas City Royal batted .390",
+        "answer": "George Brett",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"D.H.\"",
+        "value": 800,
+        "question": "In \"The Best and the Brightest\", this historian chronicled the failings of the U.S. military in Vietnam",
+        "answer": "David Halberstam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WHO WANTS A BEER?",
+        "value": 1000,
+        "question": "Here's the logo of this beer that also comes in dark & non-alcoholic versions",
+        "answer": "St. Pauli Girl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AUTOBIOGRAPHIES",
+        "value": 1000,
+        "question": "In this 1956 autobiography, Billie Holiday wrote of her career & the hardships of her childhood",
+        "answer": "Lady Sings the Blues",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FRENCH OCCUPATION",
+        "value": 1000,
+        "question": "Pompier",
+        "answer": "firefighter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ENTOMOLOGIST'S DICTIONARY",
+        "value": 1000,
+        "question": "7-letter term for the imitation by harmless insect species of poisonous ones to fool predators",
+        "answer": "mimicry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BIG BATS OF BASEBALL",
+        "value": 1000,
+        "question": "In the '50s and '60s, he was a true giant, becoming one of the greatest players of all time",
+        "answer": "Willie Mays",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"D.H.\"",
+        "value": 1000,
+        "question": "His 1961 N.Y. Times obituary called him \"The dean of the so-called 'hard-boiled' school of detective fiction\"",
+        "answer": "Dashiell Hammett",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "A LITTLE TV",
+      "JUDEAN HISTORY",
+      "STATE SONG LYRICS",
+      "1940s LIT",
+      "GARDENING",
+      "THE WAY WE \"WOR\""
+    ],
+    "clues": [
+      {
+        "category": "A LITTLE TV",
+        "value": 400,
+        "question": "There was baby news upstairs with Lady Mary & downstairs with Anna as this series ended its 6-year run on PBS in 2016",
+        "answer": "Downton Abbey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "JUDEAN HISTORY",
+        "value": 400,
+        "question": "Around 1000 B.C. this king from Judea united all Israel into one kingdom with Jerusalem as its capital",
+        "answer": "David",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STATE SONG LYRICS",
+        "value": 400,
+        "question": "This state is \"Birthplace of a mighty nation, keystone of the land\"",
+        "answer": "Pennsylvania",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "1940s LIT",
+        "value": 400,
+        "question": "To research this bestseller, Ayn Rand worked in the office of architect Ely Kahn",
+        "answer": "The Fountainhead",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 400,
+        "question": "Several varieties of a fruit can be grown on the same tree using this practice that unites parts of different plants",
+        "answer": "grafting",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE WAY WE \"WOR\"",
+        "value": 400,
+        "question": "Admirable, or NBA Hall of Famer James",
+        "answer": "worthy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE TV",
+        "value": 800,
+        "question": "Angus is the first name of this resourceful Phoenix Foundation member",
+        "answer": "MacGyver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JUDEAN HISTORY",
+        "value": 800,
+        "question": "Around 587 B.C. this empire conquered Judea & exiled most of the Jews",
+        "answer": "the Babylonian Empire",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STATE SONG LYRICS",
+        "value": 800,
+        "question": "\"All hail to grand old Bay State, the home of the bean and \" this fish",
+        "answer": "cod",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "1940s LIT",
+        "value": 800,
+        "question": "When asked if this NYC-set novel was true, Betty Smith replied, \"Not as it was but as it should have been\"",
+        "answer": "A Tree Grows in Brooklyn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 800,
+        "question": "Burpee offers the supersauce hybrid of one of these plants yielding Romas weighing 2 pounds",
+        "answer": "tomatoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE WAY WE \"WOR\"",
+        "value": 800,
+        "question": "In the name of the folks that bring you Elmo, \"Sesame\" has replaced \"Children's Television\" before this word",
+        "answer": "Workshop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE TV",
+        "value": 1200,
+        "question": "Kappa Kappa Tau sees a lot of violence on this Fox show",
+        "answer": "Scream Queens",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JUDEAN HISTORY",
+        "value": 1200,
+        "question": "He was the Roman prefect or governor of Judea from 26 to 36 A.D.",
+        "answer": "Pilate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STATE SONG LYRICS",
+        "value": 1200,
+        "question": "Out west \"Blessed from Heaven above, it's the land that we love, this is the place\"",
+        "answer": "Utah",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "1940s LIT",
+        "value": 1200,
+        "question": "Clergyman Lloyd Douglas was asked what became of Christ's garment at the crucifixion; he wrote this novel as a reply",
+        "answer": "The Robe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 1200,
+        "question": "For best flavor, herbs should be harvested in the morning, when these oils are at their highest concentration",
+        "answer": "essential oils",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE WAY WE \"WOR\"",
+        "value": 1200,
+        "question": "Repartee",
+        "answer": "wordplay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE TV",
+        "value": 1600,
+        "question": "Ricky Ricardo's signature song on \"I Love Lucy\"",
+        "answer": "\"Babalú\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JUDEAN HISTORY",
+        "value": 1600,
+        "question": "Immediately before the Israelite conquest under Joshua, these people dominated Judea",
+        "answer": "the Canaanites",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STATE SONG LYRICS",
+        "value": 1600,
+        "question": "Arkansans sing, \"October morning in\" these mountains, \"hills ablazing like that sun in the sky\"",
+        "answer": "the Ozarks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "1940s LIT",
+        "value": 1600,
+        "question": "John Hersey won a Pulitzer for his novel about a U.S. soldier helping find \"A Bell for\" this Sicilian town",
+        "answer": "Adano",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 1600,
+        "question": "The name of this flower bed plant of the balsam family comes from the speed with which its seeds are dispersed",
+        "answer": "impatiens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE WAY WE \"WOR\"",
+        "value": 1600,
+        "question": "In the Bible, this herb is a symbol of bitterness",
+        "answer": "wormwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "A LITTLE TV",
+        "value": 2000,
+        "question": "\"Looking\" & \"Full House\" were both set in this city",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JUDEAN HISTORY",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew shows a map on the monitor.)  Biblical Palestine was divided into two kingdoms--Israel in the north & Judea in the south, with this city that's still the main community of the Negev region as its southernmost town",
+        "answer": "Beersheba",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STATE SONG LYRICS",
+        "value": 2000,
+        "question": "\"From New Castle's rolling meadows, through the fair rich fields of Kent, to the Sussex shores\" is sung in this state",
+        "answer": "Delaware",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "1940s LIT",
+        "value": 2000,
+        "question": "A young apprentice silversmith in 1770s Boston is the title character of this 1943 historical fiction by Esther Forbes",
+        "answer": "Johnny Tremain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GARDENING",
+        "value": 2000,
+        "question": "The grass in your lawn might be Bermuda, rye or this variety that sounds like a city in Florida",
+        "answer": "St. Augustine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE WAY WE \"WOR\"",
+        "value": 2000,
+        "question": "This compactly twisted woolen yarn is named for a village in eastern England",
+        "answer": "worsted",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "2015 MOVIES",
+    "clue": "Jazz musician Trombone Shorty performed the \"voices\" of just the adults in the movie about this title group",
+    "answer": "the Peanuts"
+  },
+  "gameId": "7276",
+  "gameDate": "Monday, April 11, 2016"
+}

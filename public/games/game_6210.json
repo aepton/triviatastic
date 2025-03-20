@@ -1,0 +1,574 @@
+{
+  "title": "Show #7921 - Monday, February 4, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "OUR FAIR CITY",
+      "OXFORD",
+      "EUGENE",
+      "ROAM",
+      "FILL \"E\"",
+      "CHICAGO, ATLANTA & MIAMI SOUND MACHINE"
+    ],
+    "clues": [
+      {
+        "category": "OUR FAIR CITY",
+        "value": 200,
+        "question": "The museum seen here is an attraction in this Midwest city",
+        "answer": "Milwaukee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OXFORD",
+        "value": 200,
+        "question": "2nd & 3rd year history students examine the \"Troubles, 1965-85\" in this political division of the United Kingdom",
+        "answer": "Northern Ireland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EUGENE",
+        "value": 200,
+        "question": "Children's poet Eugene Field wrote these 2 \"& Nod one night sailed off in a  wooden shoe\"",
+        "answer": "Wynken and Blynken",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ROAM",
+        "value": 200,
+        "question": "Isra is the term for Muhammad's journey from Mecca to this city where the Dome of the Rock is now",
+        "answer": "Jerusalem",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FILL \"E\"",
+        "value": 200,
+        "question": "Temblor is another name for this event",
+        "answer": "an earthquake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CHICAGO, ATLANTA & MIAMI SOUND MACHINE",
+        "value": 200,
+        "question": "Paper Boi on \"Atlanta\", Brian Tyree Henry also starred on B'way as the general in this \"Latter-Day\" musical",
+        "answer": "The Book of Mormon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OUR FAIR CITY",
+        "value": 400,
+        "question": "The river in the name of this South American metropolis is really Guanabara Bay",
+        "answer": "Rio de Janeiro",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OXFORD",
+        "value": 400,
+        "question": "In surprisingly still-titled Oriental studies, course Q450 delves into this classic literary language of India",
+        "answer": "Sanskrit",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EUGENE",
+        "value": 400,
+        "question": "In 1840 Eugene Delacroix painted the \"Entry of the Crusaders into\" this onetime capital of the Byzantine empire",
+        "answer": "Constantinople",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ROAM",
+        "value": 400,
+        "question": "After traipsing through Africa seeking Livingstone, he won the name Bula Matari, \"Breaker of Rocks\"",
+        "answer": "(Henry Morton) Stanley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FILL \"E\"",
+        "value": 400,
+        "question": "It's a formal letter, like the one Paul wrote to the Galatians",
+        "answer": "epistle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CHICAGO, ATLANTA & MIAMI SOUND MACHINE",
+        "value": 400,
+        "question": "In 1988 this singer & Miami Sound Machine topped the charts with \"Anything For You\"",
+        "answer": "Gloria Estefan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OUR FAIR CITY",
+        "value": 600,
+        "question": "Nazareth in Israel is home to 2 different churches that claim to be the site where this angel appeared to the Virgin Mary",
+        "answer": "Gabriel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OXFORD",
+        "value": 600,
+        "question": "Professors of theatre have included Diana Rigg, Tom Stoppard & this '90s captain of the Enterprise",
+        "answer": "Patrick Stewart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EUGENE",
+        "value": 600,
+        "question": "He's seen here around the time he became only the 2nd American to win the Nobel Prize for Literature",
+        "answer": "Eugene O'Neill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ROAM",
+        "value": 600,
+        "question": "Peter Mayle followed \"A Year in Provence\" with \"Toujours Provence\" & this title that includes French for \"again\"",
+        "answer": "Encore Provence",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FILL \"E\"",
+        "value": 600,
+        "question": "Full of health benefits, these green soybeans have been called a \"wonder veggie\"",
+        "answer": "edamame",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CHICAGO, ATLANTA & MIAMI SOUND MACHINE",
+        "value": 600,
+        "question": "He was Emmy-nominated for writing & producing \"Atlanta\"; he won for directing & acting in the show",
+        "answer": "(Donald) Glover",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OUR FAIR CITY",
+        "value": 800,
+        "question": "This city is home to Place des Arts & the McCord Museum of Canadian History",
+        "answer": "Montreal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OXFORD",
+        "value": 800,
+        "question": "Students hope their equations come out right in \"linear\" this branch of Mathematics I & II",
+        "answer": "algebra",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EUGENE",
+        "value": 800,
+        "question": "This Socialist took 5 runs at the presidency, peaking with his final one in 1920, at 920,000 votes",
+        "answer": "Eugene Debs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ROAM",
+        "value": 800,
+        "question": "After Plato died, this Greek traveled to Anatolia & lived on Lesbos for a bit before landing a tutoring gig in Macedonia",
+        "answer": "Aristotle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FILL \"E\"",
+        "value": 800,
+        "question": "Dig up a dead body",
+        "answer": "to exhume",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CHICAGO, ATLANTA & MIAMI SOUND MACHINE",
+        "value": 800,
+        "question": "Chicago sang of this day, \"in the park, I think it was the 4th of July\"",
+        "answer": "Saturday",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OUR FAIR CITY",
+        "value": 1000,
+        "question": "In this city, you can walk out to the lighthouse marking the point where Russia's land ends & the Pacific begins",
+        "answer": "Vladivostok",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OXFORD",
+        "value": 1000,
+        "question": "1st year law folks take courses in torts, contracts & trusts \"to qualify as a solicitor or\" this job pleading in higher courts",
+        "answer": "a barrister",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EUGENE",
+        "value": 1000,
+        "question": "In a Russian opera, this title guy rejects Tatiana, kills a friend, then falls for & gets rejected by Tatiana",
+        "answer": "Eugene Onegin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ROAM",
+        "value": 1000,
+        "question": "This explorer sailed out of Portugal in 1497 with 4 ships, including the Sao Gabriel & the Sao Rafael",
+        "answer": "Vasco da Gama",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FILL \"E\"",
+        "value": 1000,
+        "question": "From the French for \"study\", it's a musical piece designed for students to improve their technique",
+        "answer": "etude",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CHICAGO, ATLANTA & MIAMI SOUND MACHINE",
+        "value": 1000,
+        "question": "Chicago was a \"Hard Habit To Break\" with an '80s run of hits produced by him, AKA \"The Hitman\"",
+        "answer": "David Foster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LITERARY FIRST LINES",
+      "THE HUMAN BODY",
+      "THE ANCIENT ROMAN ARMY",
+      "NUMERIC WORDS & PHRASES",
+      "INTERNATIONAL HOLIDAYS",
+      "DURABLE DIRECTORS"
+    ],
+    "clues": [
+      {
+        "category": "LITERARY FIRST LINES",
+        "value": 400,
+        "question": "A 1970s bestseller: \"The great fish moved silently through the night water\"",
+        "answer": "Jaws",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 400,
+        "question": "A deviated septum in this body part may cause sleep apnea",
+        "answer": "the nose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE ANCIENT ROMAN ARMY",
+        "value": 400,
+        "question": "Sagittarii were soldiers who specialized in the use of these weapons",
+        "answer": "(bows and) arrows",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NUMERIC WORDS & PHRASES",
+        "value": 400,
+        "question": "\"Take Me Out To The Ball Game\" is traditionally sung in this break",
+        "answer": "the seventh-inning stretch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL HOLIDAYS",
+        "value": 400,
+        "question": "In Dublin La Fheile Padraig happens in this month",
+        "answer": "March",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DURABLE DIRECTORS",
+        "value": 400,
+        "question": "Just before the premier of his last film, \"The Dead\" starring daughter Anjelica, this director died at 81",
+        "answer": "John Huston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LITERARY FIRST LINES",
+        "value": 800,
+        "question": "\"'Where's Papa going with that ax?' said Fern to her mother\"",
+        "answer": "Charlotte's Web",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 800,
+        "question": "Steam burns can be nasty--the vapor can hurt deeper layers of the skin because it can pass through these holes in the skin",
+        "answer": "pores",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE ANCIENT ROMAN ARMY",
+        "value": 800,
+        "question": "A cornicen was one of these who sounded orders to soldiers",
+        "answer": "a bugler (or trumpeter)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NUMERIC WORDS & PHRASES",
+        "value": 800,
+        "question": "This very final 3-word phrase may come from a law requiring that bodies be buried deep so animals can't get to them",
+        "answer": "six feet under",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL HOLIDAYS",
+        "value": 800,
+        "question": "Islander Day is celebrated in February by this province in our neighbor to the north",
+        "answer": "Prince Edward Island",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DURABLE DIRECTORS",
+        "value": 800,
+        "question": "\"Lavender Hill Mob\" director Charles Crichton got an Oscar nom at 78 for this John Cleese/Kevin Kline comedy",
+        "answer": "A Fish Called Wanda",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LITERARY FIRST LINES",
+        "value": 1200,
+        "question": "A New York Times Best Book of the Year from 2010:\"Today I'm five. I was four last night going to sleep in wardrobe\"",
+        "answer": "Room",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 1200,
+        "question": "Carl Wunderlich came up with this average body temp. Fahrenheit in 1868, but admitted it was a large range",
+        "answer": "98.6",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE ANCIENT ROMAN ARMY",
+        "value": 1200,
+        "question": "Often the finest soldier in a unit, the aquilifer was the bearer of an image of this animal, a symbol of Rome",
+        "answer": "an eagle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NUMERIC WORDS & PHRASES",
+        "value": 1200,
+        "question": "Simultaneous entertainment under the big top gave us this expression for something full of tumult",
+        "answer": "a three-ring circus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL HOLIDAYS",
+        "value": 1200,
+        "question": "On December 12 Mexico has a holiday named for the Virgin of this place",
+        "answer": "Guadalupe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DURABLE DIRECTORS",
+        "value": 1200,
+        "question": "38 years after making \"Alien\", this British director was still at it with \"Alien: Covenant\"",
+        "answer": "Ridley Scott",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LITERARY FIRST LINES",
+        "value": 1600,
+        "question": "\"Someone must have slandered Josef K., for one morning, without having done anything wrong, he was arrested\"",
+        "answer": "The Trial",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 1600,
+        "question": "This word meaning \"shield-shaped\" is the name of a shield-shaped cartilage in the neck & the gland below it",
+        "answer": "thyroid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE ANCIENT ROMAN ARMY",
+        "value": 1600,
+        "question": "A high honor, the title imperator was first bestowed on Scipio, who kicked these north African foes out of Spain",
+        "answer": "the Carthaginians",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NUMERIC WORDS & PHRASES",
+        "value": 1600,
+        "question": "To cheat on your spouse; it can also mean to double-cross someone",
+        "answer": "two-time",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL HOLIDAYS",
+        "value": 1600,
+        "question": "Derg Downfall Day in this country celebrates freedom from a Communist regime that killed Haile Selassie",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DURABLE DIRECTORS",
+        "value": 1600,
+        "question": "\"American Sniper\" is the top-grossing movie directed by an octogenarian, this man who's also an actor",
+        "answer": "Clint Eastwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LITERARY FIRST LINES",
+        "value": 2000,
+        "question": "From 1931: \"It was Wang Lung's marriage day\"",
+        "answer": "The Good Earth",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 2000,
+        "question": "Scientists identified the MT1 receptor as the part of the brain where this hormone helps you fall asleep",
+        "answer": "melatonin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE ANCIENT ROMAN ARMY",
+        "value": 2000,
+        "question": "These leaders of groups of 100 men were divided from senior to junior grades",
+        "answer": "centurions",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NUMERIC WORDS & PHRASES",
+        "value": 2000,
+        "question": "The title of a 1936 book, this 3-word nickname for the U.S. Supreme Court ceased to apply in 1981",
+        "answer": "nine old men",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "INTERNATIONAL HOLIDAYS",
+        "value": 2000,
+        "question": "Often an occasion for an August getaway, in Italy Ferragosto is the Feast of this, Mary's entrance into heaven",
+        "answer": "the Assumption",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DURABLE DIRECTORS",
+        "value": 2000,
+        "question": "Critics were \"Breathless\" with anticipation in 2014 for this French octogenarian's 3D film \"Goodbye to Language\"",
+        "answer": "Jean-Luc Godard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE U.S. SENATE",
+    "clue": "An 1890 resolution by Senator Aldrich was killed by this, the very technique it sought to limit; a 1917 rule set some boundaries on it",
+    "answer": "the filibuster"
+  },
+  "gameId": "7921",
+  "gameDate": "Monday, February 4, 2019"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #8283 - Wednesday, November 18, 2020",
+  "jeopardyRound": {
+    "categories": [
+      "AROUND THE WORLD",
+      "I GOT THEM HISTORICAL BLUES",
+      "FOOD",
+      "V.O. INITIALS",
+      "REQUESTS",
+      "THE PHRASE THAT PAYS"
+    ],
+    "clues": [
+      {
+        "category": "AROUND THE WORLD",
+        "value": 200,
+        "question": "The Windrush, Evenlode & Cherwell are tributaries of this English river",
+        "answer": "the Thames",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "I GOT THEM HISTORICAL BLUES",
+        "value": 200,
+        "question": "On the day I was born / In April 1822 / I had no idea I'd be president, or a top general too / I wore the blues / The Union Army blues",
+        "answer": "(Ulysses) Grant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "This fruit was an early symbol of peace & prosperity",
+        "answer": "the fig",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "V.O. INITIALS",
+        "value": 200,
+        "question": "Ted in \"Ted\": S.M.",
+        "answer": "Seth MacFarlane",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REQUESTS",
+        "value": 200,
+        "question": "It's a request made after trial for review by a higher court",
+        "answer": "an appeal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE PHRASE THAT PAYS",
+        "value": 200,
+        "question": "Adding my opinion, \"I'm putting my\" this trifling amount \"in\"; I'd like to think it's worth more",
+        "answer": "two cents",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 400,
+        "question": "The name of this Mexican city may be derived from a ranch in the area whose name translates to \"Aunt Jane\"",
+        "answer": "Tijuana",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "I GOT THEM HISTORICAL BLUES",
+        "value": 400,
+        "question": "Can you hear this train's whistle blowin' / In 1889 / Running from Paris to Constantinople / Murder on the riders' minds",
+        "answer": "the Orient Express",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "No lie, Burger King calls this signature sandwich \"America's favorite burger\"",
+        "answer": "the Whopper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "V.O. INITIALS",
+        "value": 400,
+        "question": "Ralph in \"Wreck-It Ralph\":J.C.R.",
+        "answer": "John C. Reilly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REQUESTS",
+        "value": 400,
+        "question": "On Facebook if you delete this request, the sender can't send you another one for a year",
+        "answer": "a friend request",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE PHRASE THAT PAYS",
+        "value": 400,
+        "question": "Something completely without value is said to be \"not worth a plugged\" this",
+        "answer": "a nickel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 600,
+        "question": "The name of this Iraqi city means \"gift of God\" or \"founded by God\"",
+        "answer": "Baghdad",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "I GOT THEM HISTORICAL BLUES",
+        "value": 600,
+        "question": "There's a dark house over yonder / In Boston's North Square / The home this Founding Father rode from / A home still standing there",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOOD",
+        "value": 600,
+        "question": "It's Christmas, and we got a batch of this semi-soft candy--yum",
+        "answer": "fudge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "V.O. INITIALS",
+        "value": 600,
+        "question": "Mater in \"Cars\": L.T.C.G.",
+        "answer": "Larry the Cable Guy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REQUESTS",
+        "value": 600,
+        "question": "In 2015 a California state agency mandated that restaurants may not serve this unless the diner requests it",
+        "answer": "a glass of water",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE PHRASE THAT PAYS",
+        "value": 600,
+        "question": "You \"turn on\" one of these when you change direction in a small area",
+        "answer": "a dime",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 800,
+        "question": "This largest Alaskan island is home to the largest type of grizzly bear",
+        "answer": "Kodiak",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "I GOT THEM HISTORICAL BLUES",
+        "value": 800,
+        "question": "Goin' to this max-security prison / Goin' to N.Y. soon / Its prisoner revolt had Pacino scream it / In \"Dog Day Afternoon\"",
+        "answer": "Attica",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOOD",
+        "value": 800,
+        "question": "Encyclopedia Britannica says this quick bread \"became an integral part of the fashionable ritual of 'taking tea\"'",
+        "answer": "scones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "V.O. INITIALS",
+        "value": 800,
+        "question": "Remy from \"Ratatouille\":P.O.",
+        "answer": "Patton Oswalt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "REQUESTS",
+        "value": 800,
+        "question": "Perhaps the most famous song request in movie history is for this tune: Play it, Sam",
+        "answer": "\"As Time Goes By\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE PHRASE THAT PAYS",
+        "value": 800,
+        "question": "The essential point of a matter, or the very last part of a financial report showing profit or loss",
+        "answer": "the bottom line",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 1000,
+        "question": "This 1,500-mile mountain chain separates the Mediterranean basin from the Sahara",
+        "answer": "the Atlas Mountains",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "I GOT THEM HISTORICAL BLUES",
+        "value": 1000,
+        "question": "Hundreds of miles of this barrier / Got to stop any German assault / Got a design but no Belgian line / Think that may be a fault",
+        "answer": "Maginot",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOOD",
+        "value": 1000,
+        "question": "This corkscrew pasta gets its name from the Italian for \"little spindles\"",
+        "answer": "fusilli",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "V.O. INITIALS",
+        "value": 1000,
+        "question": "Wyldstyle/Lucy in \"The Lego Movie\": E.B.",
+        "answer": "Elizabeth Banks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "REQUESTS",
+        "value": 1000,
+        "question": "To access a web page, your computer sends this familiar 4-letter type of request",
+        "answer": "HTTP",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE PHRASE THAT PAYS",
+        "value": 1000,
+        "question": "This \"royal\" phrase denotes a huge amount of money, perhaps to get your monarch back from those kidnappers",
+        "answer": "a king's ransom",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "'90s NEWSMAKERS",
+      "ANIMAL ETYMOLOGY",
+      "WORRY LINES",
+      "ONE-SUBJECT NONFICTION",
+      "TV CRIME SHOWS",
+      "STARTS WITH \"E\""
+    ],
+    "clues": [
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 400,
+        "question": "In 1994, 4 years after his release from prison, he became president of South Africa",
+        "answer": "Mandela",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ANIMAL ETYMOLOGY",
+        "value": 400,
+        "question": "No surprise, this animal's name is from Greek for \"8-footed\"",
+        "answer": "the octopus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORRY LINES",
+        "value": 400,
+        "question": "In a No. 1 song, he cautioned, \"In every life we have some trouble but when you worry you make it double, don't worry be happy\"",
+        "answer": "(Bobby) McFerrin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ONE-SUBJECT NONFICTION",
+        "value": 400,
+        "question": "\"One Good Turn\" is a history of this tool & Mr. Phillips makes an appearance",
+        "answer": "a screwdriver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TV CRIME SHOWS",
+        "value": 400,
+        "question": "As Marty Byrde on \"Ozark\", this actor relocates his family to Missouri to try to pay off a debt to a drug cartel",
+        "answer": "Jason Bateman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"E\"",
+        "value": 400,
+        "question": "If you're being elusive, you are taking these \"maneuvers\"",
+        "answer": "evasive",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 800,
+        "question": "We salute you if you remember that he victoriously led U.S. Forces in the Persian Gulf War",
+        "answer": "(Norman) Schwarzkopf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ANIMAL ETYMOLOGY",
+        "value": 800,
+        "question": "From Malay for \"man of the forest\", this primate lives in the tropical rain forests of Sumatra",
+        "answer": "the orangutan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORRY LINES",
+        "value": 800,
+        "question": "\"What, me worry?\" is the motto of this Mad Magazine cover boy",
+        "answer": "Alfred E. Neuman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ONE-SUBJECT NONFICTION",
+        "value": 800,
+        "question": "In 2018 \"Cod\" & \"Salt\" author Mark Kurlansky tackled this liquid, letting us know donkey's is low-fat & goat's is high-protein",
+        "answer": "milk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TV CRIME SHOWS",
+        "value": 800,
+        "question": "A fashionable psychopathic hitwoman becomes the obsession of an MI6 agent on this BBC comedy crime drama",
+        "answer": "Killing Eve",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"E\"",
+        "value": 800,
+        "question": "Being \"burnt in\" this 6-letter manner is not usually a good sign",
+        "answer": "effigy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 1200,
+        "question": "This Michigan M.D. defended himself at his fifth trial, in 1999; conviction for second-degree murder ensued",
+        "answer": "Dr. Kevorkian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ANIMAL ETYMOLOGY",
+        "value": 1200,
+        "question": "The reindeer also goes by this Native American name meaning \"shoveler of snow\", from its habit of shoving snow aside to feed",
+        "answer": "the caribou",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORRY LINES",
+        "value": 1200,
+        "question": "An old song says, \"What's the use of worrying... so, pack up your troubles in your old kit bag and\" do this, this, this",
+        "answer": "smile, smile, smile",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ONE-SUBJECT NONFICTION",
+        "value": 1200,
+        "question": "Vince Beiser's \"The World in a Grain\" is about this substance that concrete & glass, among other things, are made of",
+        "answer": "sand",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TV CRIME SHOWS",
+        "value": 1200,
+        "question": "Spun off from \"Sons of Anarchy\", this show focuses on an outlaw motorcycle gang operating on the California/ Mexico border",
+        "answer": "Mayans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"E\"",
+        "value": 1200,
+        "question": "Seismological term for the place you least want to be in an earthquake",
+        "answer": "the epicenter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 1600,
+        "question": "The daughter of a Czech diplomat, she was U.S. ambassador to the U.N. before becoming U.S. Secretary of State",
+        "answer": "Madeleine Albright",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ANIMAL ETYMOLOGY",
+        "value": 1600,
+        "question": "Though it's really a mammal, its name is from Latin for \"pig fish\"",
+        "answer": "porpoise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORRY LINES",
+        "value": 1600,
+        "question": "When he was chair of the Fed in 1995, he said, \"I worry incessantly that I might be too clear\"",
+        "answer": "Greenspan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ONE-SUBJECT NONFICTION",
+        "value": 1600,
+        "question": "Jasmine & vanilla are 2 ingredients, but you won't get the whole recipe in Tilar J. Mazzeo's book about this numerical perfume",
+        "answer": "Chanel No. 5",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TV CRIME SHOWS",
+        "value": 1600,
+        "question": "3 suburban mothers stop playing it safe & rob a supermarket on this show, but that's just the start of their criminal troubles",
+        "answer": "Good Girls",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"E\"",
+        "value": 1600,
+        "question": "A Christian holiday, or any sudden insight",
+        "answer": "Epiphany",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 2000,
+        "question": "Replacing Ed Koch in 1990, he became New York City's first African American mayor",
+        "answer": "(David) Dinkins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ANIMAL ETYMOLOGY",
+        "value": 2000,
+        "question": "Though wide awake now, this critter is thought to get the first part of its name from a word for \"sleep\"",
+        "answer": "a dormouse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORRY LINES",
+        "value": 2000,
+        "question": "In this compilation of teachings, the Jewish sage Hillel said, \"The more possessions, the more worry\"",
+        "answer": "the Talmud",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ONE-SUBJECT NONFICTION",
+        "value": 2000,
+        "question": "Charles Seife wrote a book about it; ignored by the Romans & Greeks, it became \"the most important tool in mathematics\"",
+        "answer": "zero",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TV CRIME SHOWS",
+        "value": 2000,
+        "question": "This show stars Cillian Murphy as the leader of a British gang that rises up from the streets after World War I",
+        "answer": "Peaky Blinders",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"E\"",
+        "value": 2000,
+        "question": "This word that means boiling over with excitement comes from the Latin for \"boiling over\"",
+        "answer": "ebullient",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COUNTRY NAME ORIGINS",
+    "clue": "This island country was named for a 16th century Spanish king whose name comes from the Greek for \"lover of horses\"",
+    "answer": "the Philippines"
+  },
+  "gameId": "8283",
+  "gameDate": "Wednesday, November 18, 2020"
+}

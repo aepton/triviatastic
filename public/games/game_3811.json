@@ -1,0 +1,547 @@
+{
+  "title": "Show #6295 - Friday, January 20, 2012",
+  "jeopardyRound": {
+    "categories": [
+      "COMMON COLD",
+      "CHICKEN SOUP",
+      "CLEAN \"X\"",
+      "AIRBORNE",
+      "NIGHT QUILL",
+      "VICKSBURG"
+    ],
+    "clues": [
+      {
+        "category": "COMMON COLD",
+        "value": 200,
+        "question": "This 5-letter adjective refers to 2 places on Earth & is frequently used before \"opposite\"",
+        "answer": "polar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHICKEN SOUP",
+        "value": 200,
+        "question": "This McPoultry product from McDonald's went on sale nationwide in 1983",
+        "answer": "McNuggets",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CLEAN \"X\"",
+        "value": 200,
+        "question": "This scouring powder is named for a mythical warrior who fought in the Trojan War",
+        "answer": "Ajax",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AIRBORNE",
+        "value": 200,
+        "question": "It figures that Otto was the name of the autopilot in this 1980 movie comedy in the clouds",
+        "answer": "Airplane!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NIGHT QUILL",
+        "value": 200,
+        "question": "In the 1880s explorer Sir Richard Burton prepared a 16-volume English translation of these tales",
+        "answer": "the Arabian Nights",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMMON COLD",
+        "value": 400,
+        "question": "It can describe the chilled morning air or a pooch prone to biting",
+        "answer": "nippy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHICKEN SOUP",
+        "value": 400,
+        "question": "Per the American Heritage Dictionary, one of the 2 chicken internal organs that represent cowardice",
+        "answer": "the liver (or the heart)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CLEAN \"X\"",
+        "value": 400,
+        "question": "This company that's synonymous with bleach also makes the Green Works line of cleaning products",
+        "answer": "Clorox",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AIRBORNE",
+        "value": 400,
+        "question": "Tom Hanks & several FedEx packages survive a particularly bumpy flight in this film",
+        "answer": "Cast Away",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NIGHT QUILL",
+        "value": 400,
+        "question": "Searching for this character, Mr. Utterson says, \"I shall be Mr. Seek\" & one night does find him",
+        "answer": "Edward Hyde",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMMON COLD",
+        "value": 600,
+        "question": "Joy to the world!  A band took its name from this phrase describing how chilled Aboriginies slept with pets for heat",
+        "answer": "Three Dog Night",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CHICKEN SOUP",
+        "value": 600,
+        "question": "The moral of \"The Milkmaid & Her Pail\" is \"don't\" do this",
+        "answer": "Don't count your chickens before they hatch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CLEAN \"X\"",
+        "value": 600,
+        "question": "Ben Hirsch invented this liquid auto polish; the brand now includes car wash & chrome polish",
+        "answer": "Turtle Wax",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AIRBORNE",
+        "value": 600,
+        "question": "Nicolas Cage plays Cameron Poe, a prisoner with a heart of gold, in this flighty film",
+        "answer": "Con Air",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NIGHT QUILL",
+        "value": 600,
+        "question": "Blake wrote that this, \"like a flower / In heaven's high bower / With silent delight / Sits and smiles on the night\"",
+        "answer": "the moon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "VICKSBURG",
+        "value": 600,
+        "question": "The CSS Arkansas, one of these ships named for its armor, had a glorious 23-day career in the campaign",
+        "answer": "ironclad",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COMMON COLD",
+        "value": 800,
+        "question": "When used before \"pace\", it means really slow; otherwise, it refers to masses of ice",
+        "answer": "glacial",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CHICKEN SOUP",
+        "value": 800,
+        "question": "A book of chicken recipes by Wade Boggs is titled these \"Tips\"",
+        "answer": "Fowl",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CLEAN \"X\"",
+        "value": 800,
+        "question": "This blue spray offers a \"streak-free shine\"",
+        "answer": "Windex",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AIRBORNE",
+        "value": 800,
+        "question": "One of the President's own men is a terrorist when the title plane gets hijacked in this 1997 actioner",
+        "answer": "Air Force One",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NIGHT QUILL",
+        "value": 800,
+        "question": "Works by this beloved children's author/illustrator include \"In the Night Kitchen\"",
+        "answer": "(Maurice) Sendak",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "VICKSBURG",
+        "value": 800,
+        "question": "This general found himself \"in the enemy's country, with a vast river... between me and my base of supplies\"; he won anyway",
+        "answer": "(Ulysses) Grant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COMMON COLD",
+        "value": 1000,
+        "question": "This word that r--er, that sounds a lot like \"dime\" refers to frost formed in fog",
+        "answer": "rime",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CHICKEN SOUP",
+        "value": 1000,
+        "question": "\"Hang on tight\" to this term for a bunch of eggs from a brood of chickens",
+        "answer": "a clutch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CLEAN \"X\"",
+        "value": 1000,
+        "question": "20 Mule Team this, a natural detergent booster, has been around since the 19th century",
+        "answer": "Borax",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AIRBORNE",
+        "value": 1000,
+        "question": "Vera Farmiga & Anna Kendrick were both nominated for Oscars for this 2009 film",
+        "answer": "Up in the Air",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NIGHT QUILL",
+        "value": 1000,
+        "question": "\"December Night\" is a faith-restoring episode in Willa Cather's \"Death Comes for\" this churchman",
+        "answer": "the Archbishop",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "VICKSBURG",
+        "value": 1000,
+        "question": "6 weeks before the actual surrender, the Confederates raised the white flag but only to ask for a truce to do this",
+        "answer": "bury their dead",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ALLITERATIVELY YOURS",
+      "FAMOUS WOMEN",
+      "COPPING OUT ON TV",
+      "\"U-R\" THERE",
+      "PHYSICS",
+      "SPELLING IT OUT IN ROMAN NUMERALS"
+    ],
+    "clues": [
+      {
+        "category": "ALLITERATIVELY YOURS",
+        "value": 400,
+        "question": "Kids wear them on their arms to stay afloat",
+        "answer": "water wings",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 400,
+        "question": "Though female, she claimed to have the heart & stomach of a king",
+        "answer": "Queen Elizabeth I",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COPPING OUT ON TV",
+        "value": 400,
+        "question": "Just one more thing, sir... the first run of this Peter Falk detective show played on NBC from 1971 to 1977",
+        "answer": "Columbo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"U-R\" THERE",
+        "value": 400,
+        "question": "In winter, when it's cold enough, you can snowmobile across this Great Lake to get to Mackinac Island",
+        "answer": "Huron",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PHYSICS",
+        "value": 400,
+        "question": "This stuff, crucial to the \"Star Trek\" episode \"The Alternative Factor\", consists of antiparticles like antiprotons",
+        "answer": "antimatter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPELLING IT OUT IN ROMAN NUMERALS",
+        "value": 400,
+        "question": "11; turns out it's also the 14th letter of the Greek alphabet",
+        "answer": "X-I",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ALLITERATIVELY YOURS",
+        "value": 800,
+        "question": "These events terrorized black citizens in Springfield, Ill. in 1908 & Tulsa, Okla. in 1921",
+        "answer": "race riots",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 800,
+        "question": "A former spy, she cooked up some excitement of her own as an author & TV host",
+        "answer": "Julia Child",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COPPING OUT ON TV",
+        "value": 800,
+        "question": "This '70s show had 3 things going for it:  Wo Fat, a killer theme song & a snappy catch-phrase (\"Book 'em, Danno\")",
+        "answer": "Hawaii Five-O",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"U-R\" THERE",
+        "value": 800,
+        "question": "The small European part of this country lies in Thrace; the rest is in Asia",
+        "answer": "Turkey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PHYSICS",
+        "value": 800,
+        "question": "Add this word to \"electro\" to get the adjective for electrical phenomena produced by charges at rest",
+        "answer": "static",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPELLING IT OUT IN ROMAN NUMERALS",
+        "value": 800,
+        "question": "Now you're in a pickle with 501, 50 & 50",
+        "answer": "D-I-L-L",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ALLITERATIVELY YOURS",
+        "value": 1200,
+        "question": "By request of director Roman Polanski, this function was disabled on the DVD of \"Knife in the Water\"",
+        "answer": "fast forward",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 1200,
+        "question": "She's seen here, perhaps contemplating a creative homicide",
+        "answer": "Agatha Christie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COPPING OUT ON TV",
+        "value": 1200,
+        "question": "Sheena Easton played Caitlin, Don Johnson's girlfriend on this '80s cop show",
+        "answer": "Miami Vice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"U-R\" THERE",
+        "value": 1200,
+        "question": "To visit the birthplace of Pancho Villa, drive your Dodge SUV to this Mexican state of the same name",
+        "answer": "Durango",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PHYSICS",
+        "value": 1200,
+        "question": "This particle in an atom's nucleus was discovered free of charge in 1932",
+        "answer": "a neutron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPELLING IT OUT IN ROMAN NUMERALS",
+        "value": 1200,
+        "question": "509; it's a fort in Jersey",
+        "answer": "D-I-X",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ALLITERATIVELY YOURS",
+        "value": 1600,
+        "question": "A nation's fleet of commercial ships",
+        "answer": "the merchant marine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 1600,
+        "question": "In 1992, this woman endeavored to achieve an historic first, & she did",
+        "answer": "Mae Jemison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"U-R\" THERE",
+        "value": 1600,
+        "question": "In 1989, the Union of this, it's official English name since 1885, was changed to the Union of Myanmar",
+        "answer": "Burma",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PHYSICS",
+        "value": 1600,
+        "question": "Grouped in pairs, these fundamental particles of atomic nuclei come in 6 \"flavors\" or types",
+        "answer": "quarks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPELLING IT OUT IN ROMAN NUMERALS",
+        "value": 1600,
+        "question": "Be nice & string together the letters for 100, 4, 1, 50 to get this word",
+        "answer": "C-I-V-I-L",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ALLITERATIVELY YOURS",
+        "value": 2000,
+        "question": "Seen here, it's used to signal a footnote when you've run out of other symbols",
+        "answer": "a double dagger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 2000,
+        "question": "During her rule in antiquity, she was often depicted as a male with a beard",
+        "answer": "Hatshepsut",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COPPING OUT ON TV",
+        "value": 2000,
+        "question": "Ironically, Ben McKenzie moved north from \"The O.C.\" to star as Officer Ben Sherman on this TNT drama",
+        "answer": "Southland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"U-R\" THERE",
+        "value": 2000,
+        "question": "As indicated on the map, they are South America's two smallest independent countries in area",
+        "answer": "Uruguay & Suriname",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PHYSICS",
+        "value": 2000,
+        "question": "The idea that in a closed system matter is neither created nor destroyed is referred to by this 3-word phrase",
+        "answer": "conservation of matter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPELLING IT OUT IN ROMAN NUMERALS",
+        "value": 2000,
+        "question": "The letters for 1,001 followed by 50 give you this word, a unit of length equal to .001 inches",
+        "answer": "M-I-L (a mil accepted)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ENGLISH LITERATURE",
+    "clue": "This title character of an 18th century novel was the son of a man named Kreutznaer, but his name gets Anglicized",
+    "answer": "Robinson Crusoe"
+  },
+  "gameId": "6295",
+  "gameDate": "Friday, January 20, 2012"
+}

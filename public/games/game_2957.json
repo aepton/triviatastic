@@ -1,0 +1,574 @@
+{
+  "title": "Show #5649 - Thursday, March 12, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "LONDON LANDMARKS",
+      "STEVE WIN",
+      "TECHNO LUST",
+      "STATE FLAGS",
+      "THEY SHOULD HAVE PLAYED VEGAS",
+      "\"BO\"POURRI"
+    ],
+    "clues": [
+      {
+        "category": "LONDON LANDMARKS",
+        "value": 200,
+        "question": "It's the square where you'd find the monument seen here",
+        "answer": "Trafalgar Square",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "STEVE WIN",
+        "value": 200,
+        "question": "Steve Carell won an MTV Movie Award for playing Andy Stitzer, the title character of this 2005 film",
+        "answer": "The 40-Year-Old Virgin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TECHNO LUST",
+        "value": 200,
+        "question": "This company has gone abbrev. happy with an HD XL DVR that records up to 150 hours of HDTV with THX",
+        "answer": "TiVo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 200,
+        "question": "Rhode Island has 13 of these on its state flag, Texas only one",
+        "answer": "a star",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THEY SHOULD HAVE PLAYED VEGAS",
+        "value": 200,
+        "question": "Fiddle me this:This emperor born in 37 A.D. could really burn up the stage at Caesars Palace",
+        "answer": "Nero",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"BO\"POURRI",
+        "value": 200,
+        "question": "She lost some sheep",
+        "answer": "Bo Peep",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LONDON LANDMARKS",
+        "value": 400,
+        "question": "It's Sir Christopher Wren's masterpiece, seen here",
+        "answer": "St. Paul's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "STEVE WIN",
+        "value": 400,
+        "question": "This Steve won a WGA award for his adapted screenplay \"Roxanne\"",
+        "answer": "Steve Martin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TECHNO LUST",
+        "value": 400,
+        "question": "This search site's browser called Chrome has an incognito mode for anonymous surfing",
+        "answer": "Google",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 400,
+        "question": "This bovine is found on the flags of both Kansas & Wyoming",
+        "answer": "a buffalo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THEY SHOULD HAVE PLAYED VEGAS",
+        "value": 400,
+        "question": "Aargh!  He stuck long lit matches under his hat to frame his famous facial hair in fire; let's book him at Treasure Island",
+        "answer": "Blackbeard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"BO\"POURRI",
+        "value": 400,
+        "question": "This government organization was founded in 1924 to prevent illegal immigration",
+        "answer": "Border Patrol",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LONDON LANDMARKS",
+        "value": 600,
+        "question": "London's first new bridge in more than 100 years, it opened to foot traffic in the historic year of 2000",
+        "answer": "the Millennium Bridge",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "STEVE WIN",
+        "value": 600,
+        "question": "This Dodger first baseman won 4 straight gold gloves (1974-1977)",
+        "answer": "Steve Garvey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TECHNO LUST",
+        "value": 600,
+        "question": "(Alex, at Sony headquaters in Tokyo, Japan, takes a picture of you.)  Able to go from wide angle to telephoto without an equipment change, the Sony A100 is a classic DSLR, which stands for \"digital\" this",
+        "answer": "single lens reflex",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 600,
+        "question": "A flaming one of these on Indiana's flag represents liberty & enlightenment",
+        "answer": "a torch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THEY SHOULD HAVE PLAYED VEGAS",
+        "value": 600,
+        "question": "Showgirls in green sleeves--& little else--will accompany this king as he plays his legendary hit \"Greensleeves\"",
+        "answer": "Henry VIII",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"BO\"POURRI",
+        "value": 600,
+        "question": "An old-timey central European, or a modern artsy type",
+        "answer": "a Bohemian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LONDON LANDMARKS",
+        "value": 800,
+        "question": "This place has your ticket to concerts and sporting events",
+        "answer": "Wembley Stadium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "STEVE WIN",
+        "value": 800,
+        "question": "His \"Higher Love\" won him the 1986 Record of the Year Grammy",
+        "answer": "(Steve) Winwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TECHNO LUST",
+        "value": 800,
+        "question": "DirectX software is perfect for gamers; these \"controls\" that end in \"-ex\" help applications share information",
+        "answer": "ActiveX",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 800,
+        "question": "Ohio's is the only flag in this shape with swallowtails, coveted by baseball teams",
+        "answer": "a pennant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THEY SHOULD HAVE PLAYED VEGAS",
+        "value": 800,
+        "question": "Britannica says this WWI spy was \"willing to appear virtually nude in public\"--can't wait to see her dance in Vegas",
+        "answer": "Mata Hari",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"BO\"POURRI",
+        "value": 800,
+        "question": "Weak acid used in roach powder & eyewash",
+        "answer": "boric acid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LONDON LANDMARKS",
+        "value": 1000,
+        "question": "This venue, seen here, was dedicated to Queen Victoria's husband",
+        "answer": "Royal Albert Hall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "STEVE WIN",
+        "value": 1000,
+        "question": "1985 brought a National Medal of Technology to these 2 Steves who co-founded a little company",
+        "answer": "Wozniak & Jobs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TECHNO LUST",
+        "value": 1000,
+        "question": "You can create your own species and universe with this game, whose name comes from the Greek for \"seed\"",
+        "answer": "Spore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 1000,
+        "question": "Its flag uses the red & yellow colors of the Spanish flag & the sun symbol of the Zia Indians",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THEY SHOULD HAVE PLAYED VEGAS",
+        "value": 1000,
+        "question": "It's Luxor or bust for this royal wife, known for her painted bust since the 18th dynasty",
+        "answer": "Nefertiti",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"BO\"POURRI",
+        "value": 1000,
+        "question": "1932 \"army\" that marched on Washington",
+        "answer": "the Bonus Army",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LANDLOCKED UP",
+      "REMEMBER THESE OSCAR NOMINEES?",
+      "ALL ABOUT AUTHORS",
+      "SHOW BUSINESS",
+      "NATIVE AMERICAN TRIBES",
+      "BEGINS & ENDS WITH \"E\""
+    ],
+    "clues": [
+      {
+        "category": "LANDLOCKED UP",
+        "value": 400,
+        "question": "One of the 2 landlocked countries that border the Czech Republic",
+        "answer": "(1 of) Austria (or Slovakia)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "REMEMBER THESE OSCAR NOMINEES?",
+        "value": 400,
+        "question": "Best Picture-nominated period piece with Anthony Hopkins & Emma Thompson as house servants",
+        "answer": "The Remains of the Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT AUTHORS",
+        "value": 400,
+        "question": "Parties at her Atlanta home--now a museum--serve martinis in Mason jars, a favorite of hers",
+        "answer": "(Margaret) Mitchell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHOW BUSINESS",
+        "value": 400,
+        "question": "This company took a big step in computer animation by buying Pixar",
+        "answer": "Disney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATIVE AMERICAN TRIBES",
+        "value": 400,
+        "question": "To preserve the buffalo, the Oglala branch of these Indians tried to keep folks from using the Bozeman Trail",
+        "answer": "the Sioux",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"E\"",
+        "value": 400,
+        "question": "In 2002 this female rapper had her biggest hit, \"Gangsta Lovin'\" featuring Alicia Keys",
+        "answer": "Eve",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LANDLOCKED UP",
+        "value": 800,
+        "question": "A landlocked country the size of Arkansas, its ethnic groups include Newars & Sherpas",
+        "answer": "Nepal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "REMEMBER THESE OSCAR NOMINEES?",
+        "value": 800,
+        "question": "\"In the Name of the Father\", believe us that this guy got a lead actor nod for that film",
+        "answer": "Daniel Day-Lewis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT AUTHORS",
+        "value": 800,
+        "question": "This author of \"The Tale of Mrs. Tiggy-Winkle\" looked a bit like Mrs. Tiggy-Winkle when she wore a frilled white cap",
+        "answer": "Beatrix Potter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHOW BUSINESS",
+        "value": 800,
+        "question": "\"In Dreams\" & \"Dreamgirls\" are 2 films from this studio founded by a trio",
+        "answer": "DreamWorks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATIVE AMERICAN TRIBES",
+        "value": 800,
+        "question": "(Jimmy of the Clue Crew reports from the Gathering of Nations in Albuquerque, NM.)  Nightmares get caught in the webs of these Ojibwa craftworks, & the morning sun burns them away",
+        "answer": "dreamcatchers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"E\"",
+        "value": 800,
+        "question": "Chopin composed a \"Revolutionary\" this piece",
+        "answer": "Étude",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LANDLOCKED UP",
+        "value": 1200,
+        "question": "5 miles from Rimini, Italy, this nation has a population of about 30,000",
+        "answer": "San Marino",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "REMEMBER THESE OSCAR NOMINEES?",
+        "value": 1200,
+        "question": "1998 contender featuring Clooney, Penn, Travolta, Nolte & Harrelson (war is hell on top billing)",
+        "answer": "The Thin Red Line",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT AUTHORS",
+        "value": 1200,
+        "question": "This author who set \"The Return of the Native\" in Wessex had a terrier named Wessex",
+        "answer": "(Thomas) Hardy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHOW BUSINESS",
+        "value": 1200,
+        "question": "In 1923 siblings Harry, Albert, Samuel & Jack established a studio under this name",
+        "answer": "Warner Brothers",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATIVE AMERICAN TRIBES",
+        "value": 1200,
+        "question": "The Penobscot are represented in the legislature of this state where you'll find Penobscot Bay",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"E\"",
+        "value": 1200,
+        "question": "Sheikh Hamid bin Khalifa al Thani rules one, specifically Qatar",
+        "answer": "an emirate",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LANDLOCKED UP",
+        "value": 1600,
+        "question": "Eritrea's independence made this neighbor landlocked",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "REMEMBER THESE OSCAR NOMINEES?",
+        "value": 1600,
+        "question": "Actor Massimo Troisi died shortly after delivering this occupational 1994 movie",
+        "answer": "Il Postino",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT AUTHORS",
+        "value": 1600,
+        "question": "Nathaniel Hawthorne died while traveling with this N.H.-born U.S. president, his close friend",
+        "answer": "(Franklin) Pierce",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHOW BUSINESS",
+        "value": 1600,
+        "question": "The Paramount holdings of this company include MTV & Comedy Central",
+        "answer": "Viacom",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATIVE AMERICAN TRIBES",
+        "value": 1600,
+        "question": "(Jimmy of the Clue Crew gives the clue after a Native American speaks in his native language, subtitled in English.)\"They made code to help the Allies\"The first tribe relocated to Oklahoma's Indian Territory was this southern one; speakers of its language helped in World War I, like Navajo code talkers in World War II",
+        "answer": "the Choctaw",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"E\"",
+        "value": 1600,
+        "question": "It's a person with refined taste, especially in food & wine",
+        "answer": "an epicure",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LANDLOCKED UP",
+        "value": 2000,
+        "question": "Si, it's the smallest landlocked country in the Americas",
+        "answer": "Paraguay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "REMEMBER THESE OSCAR NOMINEES?",
+        "value": 2000,
+        "question": "Forgot this nominee with Sissy Spacek & Tom Wilkinson?  Well, it is only a prepositional phrase",
+        "answer": "In the Bedroom",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ALL ABOUT AUTHORS",
+        "value": 2000,
+        "question": "She co-authored a book about \"The Decoration of Houses\" before writing \"The House of Mirth\"",
+        "answer": "Edith Wharton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHOW BUSINESS",
+        "value": 2000,
+        "question": "Started in 1890, this conglom shows off its products on the networks it owns, like Sci Fi, USA & Bravo",
+        "answer": "GE",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NATIVE AMERICAN TRIBES",
+        "value": 2000,
+        "question": "The Klamath tribes run the Kla-Mo-Ya casino in this state",
+        "answer": "Oregon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEGINS & ENDS WITH \"E\"",
+        "value": 2000,
+        "question": "This decongestant is used by those suffering from hay fever, colds & allergies",
+        "answer": "ephedrine (epinephrine accepted)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FRENCH CLASSICAL MUSIC",
+    "clue": "This 1928 work repeats a theme, almost entirely in C major, in an unvarying rhythm & has a crescendo lasting 17 minutes",
+    "answer": "Boléro (by Ravel)"
+  },
+  "gameId": "5649",
+  "gameDate": "Thursday, March 12, 2009"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1653 - Wednesday, November 6, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "ARCHAEOLOGY",
+      "TENNIS",
+      "ORGANIZATIONS",
+      "TECHNOLOGY",
+      "SOPHIA LOREN",
+      "MOUNTAINS"
+    ],
+    "clues": [
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 100,
+        "question": "Completed circa 143, the Romans' Antonine Wall ran from the Firth of Forth to the Clyde in this country",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 100,
+        "question": "A game tied at 40-40 is called this",
+        "answer": "deuce",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 100,
+        "question": "Records on the breeding of over 21 million dogs are kept by this U.S. organization",
+        "answer": "American Kennel Club",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 100,
+        "question": "In July 1991 IBM & this rival announced a technology alliance",
+        "answer": "Apple",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SOPHIA LOREN",
+        "value": 100,
+        "question": "In this 1972 film, Loren played the role of Dulcinea",
+        "answer": "Man of La Mancha",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 100,
+        "question": "The Nepalese call it Sagarmatha",
+        "answer": "Mount Everest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 200,
+        "question": "The remains of this city's walls Kathleen Kenyon found in the 1950s weren't the ones that fell before Joshua",
+        "answer": "Jericho",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 200,
+        "question": "She has won more prize money than any tennis player in history, man or woman",
+        "answer": "Martina Navratilova",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 200,
+        "question": "In 1871 Ambrose Burnside became the first president of this group that promotes firearm safety",
+        "answer": "National Rifle Association",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 200,
+        "question": "Drawings discovered in 1967 showed this artist invented the chain drive around 1492",
+        "answer": "Leonardo da Vinci",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SOPHIA LOREN",
+        "value": 200,
+        "question": "Loren married this producer in 1957, got an annulment in 1962 & remarried him in 1966",
+        "answer": "Carlo Ponti",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 200,
+        "question": "Cotopaxi, the world's highest active volcano, rises just south of Quito, Ecuador in these mountains",
+        "answer": "Andes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 300,
+        "question": "The term Chalcolithic Age refers to the transition time between the use of this & copper",
+        "answer": "stone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 300,
+        "question": "Bjorn Borg & Stefan Edberg helped this country reach the Davis Cup finals 7 times in the 1980s",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 300,
+        "question": "Founded in 1770, the Hasty Pudding Club is famed for its theatricals at this university",
+        "answer": "Harvard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 300,
+        "question": "In 1960 Theodore Maiman used this gem in his laser",
+        "answer": "Ruby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SOPHIA LOREN",
+        "value": 300,
+        "question": "Loren's 1st Oscar came for this 1961 Italian film co-starring Jean-Paul Belmondo",
+        "answer": "Two Women",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 300,
+        "question": "This tallest Greek mountain is situated on the border between Thessaly & Macedonia",
+        "answer": "Mount Olympus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 400,
+        "question": "Found in the tomb of Fu Hao, a consort of Wu Ding, were 7,000 cowrie shells, used at the time as this",
+        "answer": "Money",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 400,
+        "question": "The annual All-England Championships are held in this London suburb",
+        "answer": "Wimbledon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 400,
+        "question": "In 1985 its ship, the Rainbow Warrior, was sunk by French agents in New Zealand",
+        "answer": "Greenpeace",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 400,
+        "question": "Bell invented it in 1876; David Hughes gave it this name in 1878, & don't lean into it when you reply",
+        "answer": "Microphone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SOPHIA LOREN",
+        "value": 400,
+        "question": "Sophia Loren was raised near this large city that's 14 miles from Pompeii",
+        "answer": "Naples",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 400,
+        "question": "Until Alaska became a state, this mountain was the U.S.A.'s tallest",
+        "answer": "Mount Whitney",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 500,
+        "question": "A systematic excavation of this 1607 British settlement was done between 1935 & 1957",
+        "answer": "Jamestown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 500,
+        "question": "In the Astrodome in 1973, Billie Jean King beat this senior male player in a \"Battle of the Sexes\"",
+        "answer": "Bobby Riggs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 1000,
+        "question": "This group sponsored both presidential debates between Walter Mondale & Ronald Reagan in 1984",
+        "answer": "League of Women Voters",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 500,
+        "question": "Christiaan Huygens got into the swing of things in 1656 by adding this to the clock",
+        "answer": "Pendulum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SOPHIA LOREN",
+        "value": 500,
+        "question": "Both Sophia & her mother were extras in this 1951 Robert Taylor film set during the reign of Nero",
+        "answer": "Quo Vadis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 500,
+        "question": "This range extends from Lassen Peak in California to the Fraser River in British Columbia",
+        "answer": "Cascades",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "JAPAN",
+      "U.S. COINS",
+      "BOOKS & AUTHORS",
+      "AGRICULTURE",
+      "JAMES BUCHANAN",
+      "JAZZ"
+    ],
+    "clues": [
+      {
+        "category": "JAPAN",
+        "value": 200,
+        "question": "Major teams in this sport include the Hiroshima Toyo Carp, the Nankai Hawks & the Hankyu Braves",
+        "answer": "Baseball",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "U.S. COINS",
+        "value": 200,
+        "question": "The Coinage Act of 1965 removed all of this metal from dimes & quarters",
+        "answer": "Silver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "The author who wrote \"Cannery Row in Monterey in California is a poem, a stink\"",
+        "answer": "John Steinbeck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AGRICULTURE",
+        "value": 200,
+        "question": "If you're on a kibbutz, you're on a collective farm in this country",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "JAMES BUCHANAN",
+        "value": 200,
+        "question": "His niece, Harriet Lane, acted as this",
+        "answer": "White House hostess",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "JAZZ",
+        "value": 200,
+        "question": "After high school this vocalist known as \"The Velvet Fog\" played drums in Chico Marx' band",
+        "answer": "Mel Torme",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 400,
+        "question": "Some 20-30% of these are still arranged by friends & relatives, or a go-between called a nakodo",
+        "answer": "Marriages",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "U.S. COINS",
+        "value": 400,
+        "question": "Dies for all U.S. coins are made at the mint in this city",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 800,
+        "question": "Part of Albrecht Durer's etching, \"Four Witches\", appeared on the jacket of this John Updike novel",
+        "answer": "The Witches of Eastwick",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AGRICULTURE",
+        "value": 400,
+        "question": "In the late 1830s John Deere introduced one of these made of steel",
+        "answer": "Plow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "JAMES BUCHANAN",
+        "value": 400,
+        "question": "During his presidency this party collapsed & didn't regain the presidency for 24 years",
+        "answer": "Democratic Party",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "JAZZ",
+        "value": 400,
+        "question": "In 1964 vocalist Astrud Gilberto & this tenor saxophonist had a No. 5 pop hit with \"The Girl from Ipanema\"",
+        "answer": "Stan Getz",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 600,
+        "question": "Once the Fleet Street of Tokyo, it's now the most famous shopping & entertainment district",
+        "answer": "Ginza",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "U.S. COINS",
+        "value": 600,
+        "question": "The 2 denominations that don't have grooves or milling around the edge",
+        "answer": "Nickels & pennies",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 600,
+        "question": "His book, \"Omoo\", is subtitled \"Adventures in the South Seas\"",
+        "answer": "Herman Melville",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AGRICULTURE",
+        "value": 600,
+        "question": "Agriculture comes from the Latin word for field, as does this unit of measurement for fields",
+        "answer": "Acre",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "JAMES BUCHANAN",
+        "value": 600,
+        "question": "As Secretary of State under Polk, he tried to buy this island from Spain for $120 million dollars",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "JAZZ",
+        "value": 600,
+        "question": "The 1966 biography of this jazz pianist was titled \"Ain't Misbehavin'\"",
+        "answer": "Fats Waller",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 800,
+        "question": "2 of the country's 4 main islands",
+        "answer": "(2 of) Hokkaido, Honshu, Kyushu & Shikoku",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "U.S. COINS",
+        "value": 800,
+        "question": "\"From Slave Cabin to Hall of Fame\" appeared on a half-dollar memorial to this black educator",
+        "answer": "Booker T. Washington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 800,
+        "question": "Pulitzer Prize-winning playwright who wrote the novel \"The Human Comedy\"",
+        "answer": "William Saroyan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AGRICULTURE",
+        "value": 800,
+        "question": "2-word term for products like tobacco or soybeans grown to be sold rather than used on the farm",
+        "answer": "Cash crops",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "JAMES BUCHANAN",
+        "value": 800,
+        "question": "Buchanan became the first president to have a state secede under him, when this one did in 1860",
+        "answer": "South Carolina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "JAZZ",
+        "value": 800,
+        "question": "Among the eight wives of this clarinetist were Lana Turner, Evelyn Keyes & Ava Gardner",
+        "answer": "Artie Shaw",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 1000,
+        "question": "Stylized singing called yokyoku is featured in this form of theater, Japan's oldest",
+        "answer": "Noh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. COINS",
+        "value": 1000,
+        "question": "The first American coins were shillings made in 1652 with the imprint \"N.E.\" which stood for this",
+        "answer": "New England",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1000,
+        "question": "It's Richard Condon's 1959 suspense novel about Raymond Shaw, an ex-POW programmed to be an assassin",
+        "answer": "The Manchurian Candidate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AGRICULTURE",
+        "value": 2000,
+        "question": "The Book of Knowledge calls this tropical fruit the most commonly eaten fruit in the world",
+        "answer": "the banana",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "JAMES BUCHANAN",
+        "value": 1000,
+        "question": "As minister to this country from 1832-34, Buchanan helped create our first commercial treaty with it",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "JAZZ",
+        "value": 1000,
+        "question": "On April 29, 1986 the U.S. issued a stamp bearing the portrait of this \"noble\" jazz musician",
+        "answer": "Duke Ellington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "TRANSPORTATION",
+    "clue": "The world's 14th largest airline is based in this 240-square-mile island nation",
+    "answer": "Singapore (Singapore Airlines)"
+  },
+  "gameId": "1653",
+  "gameDate": "Wednesday, November 6, 1991"
+}

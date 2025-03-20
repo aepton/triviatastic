@@ -1,0 +1,574 @@
+{
+  "title": "Show #1806 - Monday, June 8, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "THE 1940s",
+      "CYCLING",
+      "RECYCLING",
+      "COUNTRIES OF THE WORLD",
+      "SEWING",
+      "LAST NAME'S THE SAME"
+    ],
+    "clues": [
+      {
+        "category": "THE 1940s",
+        "value": 100,
+        "question": "Nearly 15 years in the making, this South Dakota monument was completed in 1941",
+        "answer": "Mount Rushmore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CYCLING",
+        "value": 100,
+        "question": "As opposed to the penny-farthing, the first \"safety\" bicycle featured these of equal size",
+        "answer": "wheels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RECYCLING",
+        "value": 100,
+        "question": "Because a yellow dye has been found that washes out, some of these directories are now recyclable",
+        "answer": "the yellow pages (telephone books)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 100,
+        "question": "In mid-1992 this Baltic country will change its unit of currency to the lats",
+        "answer": "Latvia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SEWING",
+        "value": 100,
+        "question": "Often mercerized for strength & appearance, this is the natural fiber most used to make thread",
+        "answer": "cotton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 100,
+        "question": "Lynda, Nell, Dixie",
+        "answer": "Carter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 200,
+        "question": "In 1942 Congress lowered the draft age from 20 to this",
+        "answer": "18",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CYCLING",
+        "value": 200,
+        "question": "Caliper brakes work by squeezing levers on the handlebars; coaster brakes by doing this",
+        "answer": "pushing the pedal back",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RECYCLING",
+        "value": 200,
+        "question": "Doing this to aluminum cans makes it easier to store & transport them",
+        "answer": "crushing them",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 200,
+        "question": "One of this country's most populous counties is Pest",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SEWING",
+        "value": 200,
+        "question": "To sew loosely with large stitches, or to moisten roasting meat with liquid",
+        "answer": "baste",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 200,
+        "question": "Marian, Melissa Sue, Loni",
+        "answer": "Anderson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 300,
+        "question": "In 1945 this government agency set aside 13 channels for commercial TV broadcasting",
+        "answer": "the FCC",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CYCLING",
+        "value": 300,
+        "question": "The song \"A Bicycle Built for Two\" is from this decade when cycling hit its peak in the U.S.",
+        "answer": "1890s",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RECYCLING",
+        "value": 300,
+        "question": "For some envelopes to be recyclable, this material must be removed from the address window",
+        "answer": "cellophane (plastic)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 300,
+        "question": "Part of this country was once known as the Kingdom of Fez",
+        "answer": "Morocco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SEWING",
+        "value": 300,
+        "question": "It's a flat, shaped collar with rounded corners, named for a boy who wouldn't grow up",
+        "answer": "Peter Pan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 300,
+        "question": "Roy, Dick, Petula",
+        "answer": "Clark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 400,
+        "question": "In 1947 British India was divided into Hindustan or Hindu India & this Muslim state",
+        "answer": "Pakistan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CYCLING",
+        "value": 400,
+        "question": "First held in 1903, this European race is over 2,500 miles long & lasts 21 or more days",
+        "answer": "Tour de France",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RECYCLING",
+        "value": 400,
+        "question": "Some cities provide curbside pickup of leaves, which are then recycled into this for fertilizing gardens",
+        "answer": "mulch (compost)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 400,
+        "question": "Hammerfest, Europe's northernmost city, lies in this country",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SEWING",
+        "value": 400,
+        "question": "The accordion type of this resembles the folds in the bellows of an accordion",
+        "answer": "pleats",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 400,
+        "question": "Mac, Geena, Ann B.",
+        "answer": "Davis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 1940s",
+        "value": 500,
+        "question": "In 1947 Aviation Week reported that a Bell X-1 had become the 1st plane to do this",
+        "answer": "break the sound barrier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CYCLING",
+        "value": 500,
+        "question": "The 4 main types of races are road, off-road, track & this, shortened to BMX",
+        "answer": "bicycle motocross",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RECYCLING",
+        "value": 1000,
+        "question": "To make this material, furnaces must run at 2800° F.; to recycle it, at lower temperatures",
+        "answer": "glass",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 500,
+        "question": "This country has South America's largest Jewish population",
+        "answer": "Argentina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SEWING",
+        "value": 500,
+        "question": "This unit of fabric sold by manufacturers usually contains 12-20 yards",
+        "answer": "bolt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 500,
+        "question": "Arthur, Benny, George Roy",
+        "answer": "Hill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "RULERS",
+      "FRUITS & VEGETABLES",
+      "IN STATUARY HALL",
+      "RELIGION",
+      "MAMMALS",
+      "NONFICTION"
+    ],
+    "clues": [
+      {
+        "category": "RULERS",
+        "value": 200,
+        "question": "Russian empress from 1762 to 1796, she never learned to speak the language properly",
+        "answer": "Catherine the Great",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 200,
+        "question": "The sweet kind of this is canned or eaten on the cob",
+        "answer": "corn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IN STATUARY HALL",
+        "value": 200,
+        "question": "If this Louisiana statue talked, it might say, \"I'm the Kingfish\"",
+        "answer": "Huey Long",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "Snakes & a shamrock are emblems of this saint",
+        "answer": "St. Patrick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 200,
+        "question": "The name of this large mammal comes from 2 Greek words meaning \"nose-horned\"",
+        "answer": "rhinoceros",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 200,
+        "question": "In \"Boots and Saddles\", his wife, Elizabeth wrote of their life together before his \"last stand\"",
+        "answer": "Custer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 400,
+        "question": "In July 1559 at the age of 16, this Scottish queen also became queen of France",
+        "answer": "Mary, Queen of Scots",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 400,
+        "question": "This \"Swiss\" vegetable is a type of beet grown for its leaves & stalks",
+        "answer": "chard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IN STATUARY HALL",
+        "value": 400,
+        "question": "Your mission is to name this California mission founder whose statue is in the Hall",
+        "answer": "Junipero Serra",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 400,
+        "question": "Jen, the ideal relationship among people, is the central idea of this Chinese philosopher",
+        "answer": "Confucius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 400,
+        "question": "In 1940 a protein substance in red blood cells was discovered in & named for these monkeys",
+        "answer": "rhesus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 400,
+        "question": "A book called \"Semper Fidel\" takes a look at the troubled relationship between the U.S. & this country",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 600,
+        "question": "This youngest son of Henry II succeeded his brother, Richard the Lion-Heart, as king of England in 1199",
+        "answer": "John",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 600,
+        "question": "The English or hothouse variety of this salad ingredient is virtually seedless",
+        "answer": "cucumbers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IN STATUARY HALL",
+        "value": 600,
+        "question": "This state put Sequoyah in the Hall & Will Rogers elsewhere in the capitol",
+        "answer": "Oklahoma",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 600,
+        "question": "A mullah is a religious scholar of this religion's Shiite branch",
+        "answer": "Islam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 1200,
+        "question": "Shropshire, Marco Polo & Rambouillet are types of this mammal",
+        "answer": "sheep",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 600,
+        "question": "While director of the FBI, he wrote \"Masters of Deceit\" & \"A Study of Communism\"",
+        "answer": "J. Edgar Hoover",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 1600,
+        "question": "This cousin of Julius Caesar committed suicide in August, 20 B.C. at Alexandria, Egypt",
+        "answer": "Marc Antony",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 800,
+        "question": "This vegetable is sometimes called sparrowgrass",
+        "answer": "asparagus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IN STATUARY HALL",
+        "value": 800,
+        "question": "In 1872 Rhode Island put a statue of this founder in the Hall",
+        "answer": "Roger Williams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 800,
+        "question": "Bon was the indigenous religion of Tibet before this now dominant one arrived",
+        "answer": "Buddhism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 800,
+        "question": "The Alaskan brown bear is also named for this Alaskan island",
+        "answer": "Kodiak",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 800,
+        "question": "James B. Stewart gives the lowdown on insider stock trading in his best seller \"Den of\" these",
+        "answer": "Thieves",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 1000,
+        "question": "On March 17, 1861, at Turin, he became king of Italy",
+        "answer": "Victor Emmanuel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 1000,
+        "question": "Cultivated for its thick rind, citron is a member of this fruit genus",
+        "answer": "citrus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IN STATUARY HALL",
+        "value": 1000,
+        "question": "Mississippi erected a statue of this president",
+        "answer": "Jefferson Davis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 1000,
+        "question": "Candomble, practiced in this S. American country's Bahia state, combines African & Catholic elements",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 1000,
+        "question": "This order of whales, dolphins & porpoises contains about 80 species",
+        "answer": "cetaceans",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 1000,
+        "question": "This former White house Chief of Staff gave his version of the Watergate cover-up in \"The Ends of Power\"",
+        "answer": "Haldeman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PRESIDENTIAL ELECTIONS",
+    "clue": "He received the most electoral votes of any third party candidate in the 20th century",
+    "answer": "Teddy Roosevelt"
+  },
+  "gameId": "1806",
+  "gameDate": "Monday, June 8, 1992"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #3711 - Monday, October 23, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "STATE CAPITALS",
+      "CELEBRITY RELATIVES",
+      "IRISH EYES",
+      "INTERNATIONAL ROAD VEHICLE STICKERS",
+      "THE \"HALL\"S",
+      "OF MONTEZUMA"
+    ],
+    "clues": [
+      {
+        "category": "STATE CAPITALS",
+        "value": 100,
+        "question": "In the old railway line it fell between Atchison & Santa Fe",
+        "answer": "Topeka, Kansas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY RELATIVES",
+        "value": 100,
+        "question": "\"Postcards from the Edge\" is loosely based on her life & her relationship with mom, Debbie Reynolds",
+        "answer": "Carrie Fisher",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IRISH EYES",
+        "value": 100,
+        "question": "This Boomtown Rat organized Band Aid",
+        "answer": "Bob Geldof",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ROAD VEHICLE STICKERS",
+        "value": 100,
+        "question": "GB",
+        "answer": "Great Britain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE \"HALL\"S",
+        "value": 100,
+        "question": "Noted for its rich acoustics, it's located on NYC's West 57th Street",
+        "answer": "Carnegie Hall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OF MONTEZUMA",
+        "value": 100,
+        "question": "From 1502 to 1520 Montezuma II ruled these people",
+        "answer": "Aztecs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "Capitals named for women include the capital of Maryland & this Maine capital",
+        "answer": "Augusta",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY RELATIVES",
+        "value": 200,
+        "question": "\"Peggy Sue Got Married\" is one of the movies he directed that featured nephew Nicolas Cage",
+        "answer": "Francis Ford Coppola",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IRISH EYES",
+        "value": 200,
+        "question": "This man with a grandmother from Cork played an Irish-American boxer in 1952's \"The Quiet Man\"",
+        "answer": "John Wayne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ROAD VEHICLE STICKERS",
+        "value": 200,
+        "question": "BR",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE \"HALL\"S",
+        "value": 200,
+        "question": "Once a popular talk show host, he's now the 1-800-COLLECT Man",
+        "answer": "Arsenio Hall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OF MONTEZUMA",
+        "value": 200,
+        "question": "One of these works entitled \"Montezuma\" was composed by Roger Sessions in 1964",
+        "answer": "an opera",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 300,
+        "question": "It's the capital of the state nicknamed \"Heart of Dixie\"",
+        "answer": "Montgomery, Alabama",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY RELATIVES",
+        "value": 300,
+        "question": "Between the 2 of them, Dionne Warwick & this cousin have had more than 50 Top 40 hits",
+        "answer": "Whitney Houston",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IRISH EYES",
+        "value": 300,
+        "question": "Hey, 20 bucks says that you know this president's father was from County Antrim & his mother was Irish, too",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ROAD VEHICLE STICKERS",
+        "value": 300,
+        "question": "DK",
+        "answer": "Denmark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE \"HALL\"S",
+        "value": 300,
+        "question": "1996's \"Brain Candy\" was this troupe's big screen debut",
+        "answer": "Kids in the Hall",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OF MONTEZUMA",
+        "value": 300,
+        "question": "This defeater of Montezuma reached Mexico in 1519 & some historians believe he was mistaken for a god",
+        "answer": "Hernando Cortez",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 800,
+        "question": "In 1999 the team once known as the Houston Oilers made a slick move to this capital",
+        "answer": "Nashville (Tennessee Titans)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY RELATIVES",
+        "value": 400,
+        "question": "She's mum to actresses Joely & Natasha Richardson",
+        "answer": "Vanessa Redgrave",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IRISH EYES",
+        "value": 400,
+        "question": "The record says in 1759 he opened his brewery at St. James Gate",
+        "answer": "Arthur Guinness",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ROAD VEHICLE STICKERS",
+        "value": 400,
+        "question": "KZ",
+        "answer": "Kazakhstan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE \"HALL\"S",
+        "value": 400,
+        "question": "Specific term for the place where Jehovah's Witnesses meet to practice their faith",
+        "answer": "Kingdom Hall",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OF MONTEZUMA",
+        "value": 400,
+        "question": "Reputedly, Montezuma drank as many as 50 cups a day of this drink which the Spanish made sweeter",
+        "answer": "chocolate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 500,
+        "question": "A synonym for this New England state capital could be what's symbolized by the sign here[Deer Crossing]",
+        "answer": "Hartford, Connecticut",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY RELATIVES",
+        "value": 500,
+        "question": "(Hi, I'm Candice Bergen.)  My father Edgar Bergen created 2 of the world's most beloved ventriloquist dummies... Charlie McCarthy & this goofy sidekick",
+        "answer": "Mortimer Snerd",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IRISH EYES",
+        "value": 500,
+        "question": "Everyone knew when it was windy, but not how windy until this Irishman came up with his scale in 1805",
+        "answer": "Sir Francis Beaufort",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "INTERNATIONAL ROAD VEHICLE STICKERS",
+        "value": 500,
+        "question": "SGP",
+        "answer": "Singapore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE \"HALL\"S",
+        "value": 500,
+        "question": "It's the former name of the college football bowl game now known as the Outback Bowl",
+        "answer": "the Hall of Fame Bowl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OF MONTEZUMA",
+        "value": 500,
+        "question": "With some of the USA's best-preserved cliff dwellings, Montezuma Castle National Monument is in this state",
+        "answer": "Arizona",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ART FOR ART'S SAKE",
+      "ONCE THEY WERE ANGELS",
+      "WEIGHTS & MEASURES",
+      "DEAD POETS SOCIETY",
+      "MAKE-UP TEST",
+      "PHRENCH PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "ART FOR ART'S SAKE",
+        "value": 200,
+        "question": "Now at the Huntington Gallery, it's the \"colorful\" Sir Thomas Lawrence work seen here",
+        "answer": "\"Pinkie\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ONCE THEY WERE ANGELS",
+        "value": 200,
+        "question": "The December 1995 & July 1997 editions of Playboy featured revealing photo spreads of this ex-Angel",
+        "answer": "Farrah Fawcett",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 200,
+        "question": "Term for 1/36 of a yard",
+        "answer": "an inch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DEAD POETS SOCIETY",
+        "value": 200,
+        "question": "In an Ernest Thayer poem, Cooney, Burrows, Flynn & Blake preceded this man to the plate",
+        "answer": "Casey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MAKE-UP TEST",
+        "value": 200,
+        "question": "Ballerina Julie Kent told Vogue she wears lots of the waterproof type of this instead of false eyelashes",
+        "answer": "mascara",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PHRENCH PHRASES",
+        "value": 200,
+        "question": "Sam Goldwyn stood on the deck of a departing ship & shouted this to his friends on shore",
+        "answer": "Bon voyage !",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ART FOR ART'S SAKE",
+        "value": 400,
+        "question": "Edouard Manet painted his portrait of this American author seen here from a daguerreotype",
+        "answer": "Edgar Allan Poe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ONCE THEY WERE ANGELS",
+        "value": 400,
+        "question": "She's had a clothing line at K-Mart since 1985",
+        "answer": "Jaclyn Smith",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 400,
+        "question": "The Greek letter lambda, which stood for 30, was adopted by the Romans as this value",
+        "answer": "50 (L)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DEAD POETS SOCIETY",
+        "value": 400,
+        "question": "In \"Sea Fever\" all John Masefield asked for \"is a tall ship and a star to\" do this",
+        "answer": "steer her by",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MAKE-UP TEST",
+        "value": 400,
+        "question": "This shy Disney dwarf shares his name with a shade of Club Monaco's Cheek Dew",
+        "answer": "Bashful",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PHRENCH PHRASES",
+        "value": 400,
+        "question": "A volte-face is the French equivalent of this military maneuver",
+        "answer": "an about-face",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ART FOR ART'S SAKE",
+        "value": 600,
+        "question": "This innovative painter & print maker seen here passed on to his surrealistic reward in 1989",
+        "answer": "Salvador Dali",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ONCE THEY WERE ANGELS",
+        "value": 600,
+        "question": "She's Midge Pinciotti on \"That '70s Show\"",
+        "answer": "Tanya Roberts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 600,
+        "question": "To get the paper size known as an octavo, you fold the paper this many times, creating 8 parts",
+        "answer": "3 times",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DEAD POETS SOCIETY",
+        "value": 1200,
+        "question": "Whitman's \"When Lilies Last in the Dooryard Bloom'd\" was an elegy for this man",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MAKE-UP TEST",
+        "value": 600,
+        "question": "Madame Curie would like this shade of Urban Decay eyeliner named for a radioactive element",
+        "answer": "Radium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PHRENCH PHRASES",
+        "value": 600,
+        "question": "This severe epileptic seizure, literally \"great illness\", involves a wide area of the brain",
+        "answer": "a grand mal seizure",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ART FOR ART'S SAKE",
+        "value": 800,
+        "question": "He's the masterful German composer seen here in a 1746 portrait by Haussmann",
+        "answer": "J.S. Bach",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ONCE THEY WERE ANGELS",
+        "value": 800,
+        "question": "A star of the 1973 TV movie \"Satan's School for Girls\", she was back in the 2000 remake",
+        "answer": "Kate Jackson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 800,
+        "question": "To figure out your latitude you need the exact time & this instrument that replaced the octant",
+        "answer": "a sextant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DEAD POETS SOCIETY",
+        "value": 800,
+        "question": "This Harlem Renaissance poet wondered, \"What happens to a dream deferred?\"",
+        "answer": "Langston Hughes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MAKE-UP TEST",
+        "value": 800,
+        "question": "The Max Factor make-up inspired by this 1999 Shakespeare film features colors like Cob Web & Mustard Seed",
+        "answer": "A Midsummer Night's Dream",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PHRENCH PHRASES",
+        "value": 800,
+        "question": "An impressive display of power or skill; you might say Lance Armstrong put one on in 1999 & in 2000",
+        "answer": "a tour de force",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ART FOR ART'S SAKE",
+        "value": 1000,
+        "question": "The clouds tell you why this work by Giorgione shares its name with a Shakespeare play",
+        "answer": "The Tempest",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ONCE THEY WERE ANGELS",
+        "value": 1000,
+        "question": "Kris Munroe as an Angel, she later set up shop at TV's \"One West Waikiki\"",
+        "answer": "Cheryl Ladd",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 1000,
+        "question": "Quick, it's the term for 1 billionth of a second",
+        "answer": "a nanosecond",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DEAD POETS SOCIETY",
+        "value": 1000,
+        "question": "By the title, it's what Keats' \"La Belle Dame\" was \"Sans\"",
+        "answer": "Merci",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MAKE-UP TEST",
+        "value": 2000,
+        "question": "The name of this Cristina Carlino cosmetics line is from the Greek for \"love of wisdom\"",
+        "answer": "philosophy",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PHRENCH PHRASES",
+        "value": 1000,
+        "question": "(Hi, I'm Mick Jones of Foreigner.)  In French, this title of a Foreigner album means someone who incites others to civil unrest",
+        "answer": "Agent Provocateur",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ANATOMY",
+    "clue": "The petrous temporal bone, the hardest in the body, encases the delicate structures of this organ",
+    "answer": "Inner ear"
+  },
+  "gameId": "3711",
+  "gameDate": "Monday, October 23, 2000"
+}

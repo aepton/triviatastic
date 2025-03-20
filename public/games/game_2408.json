@@ -1,0 +1,574 @@
+{
+  "title": "Show #3416 - Monday, June 14, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "FLAGS",
+      "BETSY ROSS",
+      "STARS",
+      "STRIPES",
+      "FOREVER",
+      "\"OLD\" GLORY"
+    ],
+    "clues": [
+      {
+        "category": "FLAGS",
+        "value": 100,
+        "question": "This Canadian province's flag shows the setting sun & wavy blue bars representing the Pacific Ocean",
+        "answer": "British Columbia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BETSY ROSS",
+        "value": 100,
+        "question": "Betsy shared an aptitude for fine needlework as a schoolgirl in this city of her birth",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STARS",
+        "value": 100,
+        "question": "His later career included intoning that Paul Masson would \"Sell no Wine Before Its Time\"",
+        "answer": "Orson Welles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STRIPES",
+        "value": 100,
+        "question": "It's the Central American stripe-kneed variety of this hairy species seen here",
+        "answer": "a tarantula",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOREVER",
+        "value": 100,
+        "question": "The Bangles hit about an \"eternal\" one lit up the No. 1 spot on the charts in 1989",
+        "answer": "flame",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"OLD\" GLORY",
+        "value": 100,
+        "question": "A nursery rhyme's \"merry old soul\"",
+        "answer": "Old King Cole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FLAGS",
+        "value": 200,
+        "question": "France's tricolor flag features red & blue -- the colors of Paris -- & this, the royal color of the Bourbon kings",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BETSY ROSS",
+        "value": 200,
+        "question": "According to the legend, Robert Morris, George Ross & this man asked Betsy to make the first Stars & Stripes",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STARS",
+        "value": 200,
+        "question": "This actress from an acting family is the wife of Nicolas Cage",
+        "answer": "Patricia Arquette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STRIPES",
+        "value": 200,
+        "question": "There are striped-tailed as well as ruby-throated varieties of this species seen here",
+        "answer": "a hummingbird",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOREVER",
+        "value": 200,
+        "question": "Fictional candy maker who created the Everlasting Gobstopper",
+        "answer": "Willy Wonka",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"OLD\" GLORY",
+        "value": 200,
+        "question": "A PBS series once hosted by Bob Vila",
+        "answer": "This Old House",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FLAGS",
+        "value": 300,
+        "question": "This U.S. commonwealth's flag is patterned after that of Cuba",
+        "answer": "Puerto Rico",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BETSY ROSS",
+        "value": 300,
+        "question": "This religious group was not so \"amiable\" when it banned Betsy for marrying out of meeting",
+        "answer": "the Society of Friends (Quakers)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STARS",
+        "value": 300,
+        "question": "After a 1980 contract dispute, this actress only appeared in \"Three's Company\" talking on the phone",
+        "answer": "Suzanne Somers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STRIPES",
+        "value": 300,
+        "question": "Hey, steer clear of the fellow seen here who's known down south by this \"feline\" nickname",
+        "answer": "a polecat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOREVER",
+        "value": 300,
+        "question": "It's a theoretical device that once running goes forever without any additional inputs of energy",
+        "answer": "a perpetual motion machine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"OLD\" GLORY",
+        "value": 300,
+        "question": "A 1952 Hemingway novella",
+        "answer": "The Old Man and the Sea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FLAGS",
+        "value": 400,
+        "question": "This state's flag features a mother pelican with its young",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BETSY ROSS",
+        "value": 400,
+        "question": "The story that Betsy made the flag was made public in 1870 by William Canby, who was this relative of Betsy's",
+        "answer": "grandson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STARS",
+        "value": 400,
+        "question": "Having emerged as a star in \"Apollo 13\" & \"Twister\", he gets confused with Bill Pullman less often",
+        "answer": "Bill Paxton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STRIPES",
+        "value": 400,
+        "question": "The striped species seen here is believed to have originated on this continent",
+        "answer": "Asia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOREVER",
+        "value": 400,
+        "question": "Zeus condemned him to the hellish region of Tartarus & an eternity of pushing a rock up a hill",
+        "answer": "Sisyphus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"OLD\" GLORY",
+        "value": 400,
+        "question": "General George Patton's visceral nickname",
+        "answer": "\"Old Blood and Guts\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FLAGS",
+        "value": 500,
+        "question": "The staff & hat of the Bishop of Urgel can be found on this tiny Pyrenees country's flag",
+        "answer": "Andorra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BETSY ROSS",
+        "value": 1000,
+        "question": "Betsy's dad helped build Pennsylvania's old state house, better known by this name",
+        "answer": "Independence Hall",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STARS",
+        "value": 500,
+        "question": "This Broadway, movie & TV actor wasn't related to \"The Duke\"",
+        "answer": "David Wayne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STRIPES",
+        "value": 500,
+        "question": "The striped menu favorite seen here derives this name from the sound it makes when taken out of the water",
+        "answer": "a grunt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOREVER",
+        "value": 500,
+        "question": "Michael Ende's story of a boy who enters a fantasy world when he reads a book about it",
+        "answer": "The Neverending Story",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"OLD\" GLORY",
+        "value": 500,
+        "question": "Also the title of a 1595 play, it's a traditional belief or story that's often superstitious",
+        "answer": "\"Old Wives' Tale\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BOOKS & AUTHORS",
+      "MADAM PRESIDENT?",
+      "POP MUSIC THROUGH THE YEARS",
+      "BIOLOGY",
+      "CAPITAL PUNISHMENT",
+      "FROM A TO Y"
+    ],
+    "clues": [
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "In 1998 he brought back ex-Navy SEAL & former CIA agent John Clark in the techno-thriller \"Rainbow Six\"",
+        "answer": "Tom Clancy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MADAM PRESIDENT?",
+        "value": 200,
+        "question": "Her background includes studying law at Yale & over a decade as first lady of Arkansas",
+        "answer": "Hillary Rodham Clinton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POP MUSIC THROUGH THE YEARS",
+        "value": 200,
+        "question": "Among the themes he composed for Blake Edwards were \"Peter Gunn\" & \"The Pink Panther\"",
+        "answer": "Henry Mancini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 200,
+        "question": "The hepatic portal vein connects the intestine to this organ",
+        "answer": "the liver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 200,
+        "question": "Addis Ababa",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FROM A TO Y",
+        "value": 200,
+        "question": "First name of TV's McBeal",
+        "answer": "Ally",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 400,
+        "question": "This John Grisham bestseller about corruption in the insurance business was turned into a 1997 film",
+        "answer": "The Rainmaker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MADAM PRESIDENT?",
+        "value": 400,
+        "question": "\"Red Cross my heart & hope to be president\" may be a motto of this ex-Secretary of Labor",
+        "answer": "Elizabeth Dole",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POP MUSIC THROUGH THE YEARS",
+        "value": 400,
+        "question": "His backup band is the Buckaroos",
+        "answer": "Buck Owens",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 400,
+        "question": "It's been proposed that sulfate aerosols from these geological phenomena killed off the dinosaurs",
+        "answer": "volcanoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 400,
+        "question": "Vientiane",
+        "answer": "Laos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FROM A TO Y",
+        "value": 400,
+        "question": "This word for a payment to a former spouse is from the Latin for \"sustenance\" or \"nourishment\"",
+        "answer": "alimony",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 600,
+        "question": "His 1950 classic \"I, Robot\" contains 9 related stories about (what else?) robots",
+        "answer": "Isaac Asimov",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MADAM PRESIDENT?",
+        "value": 600,
+        "question": "This senator nicknamed Di Fi could have her eye on the White House pie",
+        "answer": "Dianne Feinstein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POP MUSIC THROUGH THE YEARS",
+        "value": 600,
+        "question": "The 1998 album \"Painted from Memory\" paired this composer & Elvis Costello",
+        "answer": "Burt Bacharach",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 600,
+        "question": "The internodes on the stem of a cabbage plant are very short, so these are stacked close together",
+        "answer": "leaves",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 600,
+        "question": "Tirane",
+        "answer": "Albania",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FROM A TO Y",
+        "value": 600,
+        "question": "According to a 1992 song title, it's the 2-word description of Billy Ray Cyrus' heart",
+        "answer": "\"Achy Breaky\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1600,
+        "question": "She's written about her father & \"Women of Courage\" as well as of \"Murder in Georgetown\"",
+        "answer": "Margaret Truman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MADAM PRESIDENT?",
+        "value": 800,
+        "question": "Some would like to see her move from the New Jersey governor's house to the White House",
+        "answer": "Christine Todd Whitman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POP MUSIC THROUGH THE YEARS",
+        "value": 800,
+        "question": "Frank Sinatra recorded this song first, but it was Dean Martin's version that went to No. 1 in 1964",
+        "answer": "\"Everybody Loves Somebody\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1600,
+        "question": "Night blindness may come from a deficiency in this vitamin, also called retinol",
+        "answer": "vitamin A",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 800,
+        "question": "Tallinn",
+        "answer": "Estonia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FROM A TO Y",
+        "value": 800,
+        "question": "The Yeti, a notorious Himalayan snowman, has a reputation for behaving this way",
+        "answer": "abominably",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1000,
+        "question": "This Camus novel is known in French as \"La Peste\"",
+        "answer": "The Plague",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MADAM PRESIDENT?",
+        "value": 1000,
+        "question": "One woman being suggested for the job is Mae Jemison, who's famous for having this job",
+        "answer": "astronaut",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POP MUSIC THROUGH THE YEARS",
+        "value": 1000,
+        "question": "Veronica Bennett fronted this \"Be My Baby\" group",
+        "answer": "The Ronettes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1000,
+        "question": "Filter feeders include flamingos & these whales named for their filters",
+        "answer": "baleen whales",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CAPITAL PUNISHMENT",
+        "value": 1000,
+        "question": "Suva",
+        "answer": "Fiji",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FROM A TO Y",
+        "value": 1000,
+        "question": "A cerebral hemmorhage, or a fit of rage",
+        "answer": "apoplexy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COMPOSERS",
+    "clue": "\"Reaching for the Note\" was the subtitle of a 1998 film about this American music legend who died in 1990",
+    "answer": "Leonard Bernstein"
+  },
+  "gameId": "3416",
+  "gameDate": "Monday, June 14, 1999"
+}

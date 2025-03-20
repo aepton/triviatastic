@@ -1,0 +1,556 @@
+{
+  "title": "Show #4049 - Thursday, March 21, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "LOST IN YONKERS",
+      "COME BLOW YOUR HORN",
+      "BEAR FOOT IN THE PARK",
+      "THE \"ODD\" COUPLE",
+      "FELIX",
+      "OSCAR"
+    ],
+    "clues": [
+      {
+        "category": "LOST IN YONKERS",
+        "value": 200,
+        "question": "Ms. Levi, the matchmaker, has her eye on Mr. Vandergelder of Yonkers in this 1964 musical",
+        "answer": "Hello, Dolly!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COME BLOW YOUR HORN",
+        "value": 200,
+        "question": "A type of this lowest-pitched brass instrument was designed for Richard Wagner",
+        "answer": "a tuba",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BEAR FOOT IN THE PARK",
+        "value": 200,
+        "question": "Because of the bears, Backcountry campsites in U.S. parks have poles or cables for you to hang this from",
+        "answer": "your food",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE \"ODD\" COUPLE",
+        "value": 200,
+        "question": "A young child learning to walk",
+        "answer": "a toddler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FELIX",
+        "value": 200,
+        "question": "Mischievous fellow seen here",
+        "answer": "Felix the Cat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OSCAR",
+        "value": 200,
+        "question": "Stephen Gaghan won an Oscar for Best Adapted Screenplay for this 2000 drama about America's war on drugs",
+        "answer": "Traffic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LOST IN YONKERS",
+        "value": 400,
+        "question": "The city's website claims the USA's first game of this took place at Yonkers' St. Andrew's Club",
+        "answer": "golf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COME BLOW YOUR HORN",
+        "value": 400,
+        "question": "The great Gerry Mulligan is heard here on this type of saxophone",
+        "answer": "the baritone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BEAR FOOT IN THE PARK",
+        "value": 400,
+        "question": "This bear has his paws on his own system of Jellystone Park Camp-Resorts around the U.S.",
+        "answer": "Yogi Bear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE \"ODD\" COUPLE",
+        "value": 400,
+        "question": "Coarsely chopped hay, or a young soldier to a cannon",
+        "answer": "fodder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FELIX",
+        "value": 400,
+        "question": "(Hi, I'm Alan Dershowitz.) I was honored with the Harvard Professorship named for this Supreme Court Justice appointed by FDR",
+        "answer": "(Felix) Frankfurter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OSCAR",
+        "value": 400,
+        "question": "Maggie Smith actually won an Oscar for playing a film star who is in L.A. for the Oscars in this Neil Simon film",
+        "answer": "California Suite",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LOST IN YONKERS",
+        "value": 600,
+        "question": "You can get to Yonkers from NYC by taking the parkway named for this man, like the nearby river",
+        "answer": "the Henry Hudson Parkway",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COME BLOW YOUR HORN",
+        "value": 600,
+        "question": "Jack Teagarden, best known for playing this instrument, would sometimes \"slide\" over to singing the blues",
+        "answer": "a trombone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BEAR FOOT IN THE PARK",
+        "value": 600,
+        "question": "Ontario's largest & northernmost park is named for & is a home to this type of bear",
+        "answer": "the polar bear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE \"ODD\" COUPLE",
+        "value": 600,
+        "question": "Of poor quality or inferior material",
+        "answer": "shoddy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FELIX",
+        "value": 600,
+        "question": "Jakob was the original name of this composer who's better known as Felix",
+        "answer": "Mendelssohn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OSCAR",
+        "value": 600,
+        "question": "Michael Douglas won for producing this 1975 film that swept all 5 major Oscar categories",
+        "answer": "One Flew Over the Cuckoo's Nest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LOST IN YONKERS",
+        "value": 800,
+        "question": "Like the adjacent Bronx, Yonkers was settled by people from this European nation in 1639",
+        "answer": "Holland (the Netherlands)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COME BLOW YOUR HORN",
+        "value": 800,
+        "question": "Geographic name of the instrument featured here in a Mozart concerto",
+        "answer": "a French horn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BEAR FOOT IN THE PARK",
+        "value": 800,
+        "question": "A documentary film screened in this famous bear's park in New Mexico is titled \"Fifty Years with\" him",
+        "answer": "Smokey the Bear",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE \"ODD\" COUPLE",
+        "value": 800,
+        "question": "To treat indulgently",
+        "answer": "to coddle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FELIX",
+        "value": 800,
+        "question": "This character was Oscar Madison's roomie",
+        "answer": "Felix Unger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OSCAR",
+        "value": 800,
+        "question": "At the age of 80 she won her first Oscar--for Best Actress in \"Driving Miss Daisy\"",
+        "answer": "Jessica Tandy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LOST IN YONKERS",
+        "value": 1000,
+        "question": "The 85-mile-long Delaware one of these structures runs from a reservoir in the Catskills to one in Yonkers",
+        "answer": "aqueduct",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BEAR FOOT IN THE PARK",
+        "value": 1000,
+        "question": "The Woodland Park Zoo in this seat of Washington's King County has a bearcam on its website",
+        "answer": "Seattle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE \"ODD\" COUPLE",
+        "value": 1000,
+        "question": "Ishtar or Aphrodite",
+        "answer": "a goddess",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FELIX",
+        "value": 1000,
+        "question": "Felix Hoffmann synthesized this wonder drug in 1897",
+        "answer": "aspirin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OSCAR",
+        "value": 1000,
+        "question": "His Oscar win for \"Life is Beautiful\" made him so elated he walked on chairs",
+        "answer": "(Roberto) Benigni",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "19th CENTURY AMERICA",
+      "FRAGILE-SOUNDING NAMES",
+      "WATCH THE BIRDIE",
+      "IT'S ONLY MONEY",
+      "BOOK NOOK",
+      "UP WORDS"
+    ],
+    "clues": [
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 400,
+        "question": "On February 17, 1801 the House of Representatives declared him president on its 36th vote",
+        "answer": "Jefferson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRAGILE-SOUNDING NAMES",
+        "value": 400,
+        "question": "His film roles include Harry Burns & \"city slicker\" Mitch Robbins",
+        "answer": "Billy Crystal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WATCH THE BIRDIE",
+        "value": 400,
+        "question": "Your typical swan has about 25,000 of these; a hummingbird has only 1,000",
+        "answer": "feathers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IT'S ONLY MONEY",
+        "value": 400,
+        "question": "Banks get new money from 2 treasury bureaus: Engraving & Printing for bills, & this one for coins",
+        "answer": "a mint",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOOK NOOK",
+        "value": 400,
+        "question": "In this Stephen King book, Annie Wilkes loves company, but only author Paul Sheldon's",
+        "answer": "Misery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "UP WORDS",
+        "value": 400,
+        "question": "An armed officer whose job is preventing air piracy is called an air marshal or this \"marshal\"",
+        "answer": "a sky marshal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 800,
+        "question": "On May 10, 1869 the Transcontinental Railroad was completed when the Central Pacific & this railroad met in Utah",
+        "answer": "Union Pacific",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRAGILE-SOUNDING NAMES",
+        "value": 800,
+        "question": "John & Michelle's daughter, she's married to Billy Baldwin",
+        "answer": "Chynna Phillips",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WATCH THE BIRDIE",
+        "value": 800,
+        "question": "There are Williamson's & red-breasted species of this bird, but you may be more familiar with the yellow-bellied",
+        "answer": "a sapsucker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IT'S ONLY MONEY",
+        "value": 800,
+        "question": "The first of these monetary units was issued in 1360 by King Jean II, right after his release from English captivity",
+        "answer": "a franc",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOOK NOOK",
+        "value": 800,
+        "question": "\"Seize the Night\" by this \"Dean\" of suspense was a sequel to his \"Fear Nothing\"",
+        "answer": "Dean Koontz",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "UP WORDS",
+        "value": 800,
+        "question": "(Sofia of the Clue Crew performs with Gaetano the Illusionist.) This 8-letter word means to rise up into the air, to defy gravity",
+        "answer": "to levitate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1200,
+        "question": "In 1886 in Columbus, Ohio, several trade unions merged to form the AFL, which stands for this",
+        "answer": "The American Federation of Labor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRAGILE-SOUNDING NAMES",
+        "value": 1200,
+        "question": "She was JFK's mom",
+        "answer": "Rose Fitzgerald Kennedy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WATCH THE BIRDIE",
+        "value": 1200,
+        "question": "(Sofia of the Clue Crew presents with a parrot.)  This parrot can be trained to perform stunts & acrobatics",
+        "answer": "the cockatoo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IT'S ONLY MONEY",
+        "value": 1200,
+        "question": "Government taxing & spending are part of this \"policy\", from the Latin for \"basket\" or \"treasury\"",
+        "answer": "fiscal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOOK NOOK",
+        "value": 1200,
+        "question": "First name of Maxim de Winter's first wife; it's the first name you think of when you hear Daphne du Maurier",
+        "answer": "Rebecca",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "UP WORDS",
+        "value": 1200,
+        "question": "This layer of the atmosphere just above the troposphere goes up about 20 miles with little change in temperature",
+        "answer": "the stratosphere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1600,
+        "question": "In 1869 Elizabeth Cady Stanton & this woman established the National Woman Suffrage Association",
+        "answer": "Susan B. Anthony",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRAGILE-SOUNDING NAMES",
+        "value": 1600,
+        "question": "On \"Party of Five\" she played teen violin prodigy Claudia",
+        "answer": "Lacey Chabert",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WATCH THE BIRDIE",
+        "value": 1600,
+        "question": "During the mating season a male tern carries this prey & shows it off to the females",
+        "answer": "a fish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IT'S ONLY MONEY",
+        "value": 1600,
+        "question": "In options trading, to sell is to \"put\" & to buy is to do this",
+        "answer": "to call",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOOK NOOK",
+        "value": 1600,
+        "question": "In an Oscar Hjuelos book, Nestor & Cesar Castillo \"Play Songs of Love\" as this group",
+        "answer": "Mambo Kings",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "UP WORDS",
+        "value": 1600,
+        "question": "It's the Christian eventin the 15th-century painting seen here",
+        "answer": "the Ascension",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 2000,
+        "question": "His Pacific Fur Company was founded on June 23, 1810, in order to extend his fur influence over the Northwest",
+        "answer": "(John Jacob) Astor",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRAGILE-SOUNDING NAMES",
+        "value": 2000,
+        "question": "He's the American composer of \"Einstein on the Beach\"",
+        "answer": "(Philip) Glass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IT'S ONLY MONEY",
+        "value": 2000,
+        "question": "While serving in this post in Lincoln's cabinet, Montgomery Blair helped introduce money orders",
+        "answer": "postmaster general",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOOK NOOK",
+        "value": 2000,
+        "question": "Insurance claims are central to this author's \"Double Indemnity\" & \"The Postman Always Rings Twice\"",
+        "answer": "James Cain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "UP WORDS",
+        "value": 2000,
+        "question": "Term in geometry for the highest point of a pyramid or triangle",
+        "answer": "the apex",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ASIAN CITIES",
+    "clue": "The name of this Afghan city is a local variation of the name of the man who conquered the region in 329 B.C.",
+    "answer": "Kandahar"
+  },
+  "gameId": "4049",
+  "gameDate": "Thursday, March 21, 2002"
+}

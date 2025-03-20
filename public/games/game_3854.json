@@ -1,0 +1,574 @@
+{
+  "title": "Show #6338 - Wednesday, March 21, 2012",
+  "jeopardyRound": {
+    "categories": [
+      "FLIGHT",
+      "A BLANK EXPRESSION",
+      "HOME ICE",
+      "SIR WALTER SCOTT",
+      "NATURAL SELECTION",
+      "GOD DID IT!"
+    ],
+    "clues": [
+      {
+        "category": "FLIGHT",
+        "value": 200,
+        "question": "A report detailing an airplane's route, or the title of a 2005 Jodie Foster thriller",
+        "answer": "flight plan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 200,
+        "question": "It happened when I arrived in Hollywood: I came, I saw, I ___-ed",
+        "answer": "I conquered",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HOME ICE",
+        "value": 200,
+        "question": "Madison Square Garden",
+        "answer": "the (New York) Rangers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SIR WALTER SCOTT",
+        "value": 200,
+        "question": "Sir Walter Scott was born in 1771 in this city",
+        "answer": "Edinburgh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATURAL SELECTION",
+        "value": 200,
+        "question": "Vegetarians take note: Organic Valley's Omega-3 Milk is infused with kosher oil from these creatures",
+        "answer": "fish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GOD DID IT!",
+        "value": 200,
+        "question": "In Genesis 19, God got a tad angry with Sodom & rained on it fire & this, an old word for sulfur",
+        "answer": "brimstone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FLIGHT",
+        "value": 400,
+        "question": "A pipe dream is also alliteratively called a flight of this",
+        "answer": "flight of fancy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 400,
+        "question": "Important trio of possibilities at the races: win, place or ___",
+        "answer": "show",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HOME ICE",
+        "value": 400,
+        "question": "Mellon Arena",
+        "answer": "the Pittsburgh Penguins",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SIR WALTER SCOTT",
+        "value": 400,
+        "question": "This noble outlaw helps King Richard I rescue the title knight in Scott's \"Ivanhoe\"",
+        "answer": "Robin Hood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATURAL SELECTION",
+        "value": 400,
+        "question": "Endangered Species Chocolate makes a bar flavored with these colorful antioxidant-rich berries of the genus Vaccinium",
+        "answer": "blueberries",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GOD DID IT!",
+        "value": 400,
+        "question": "In Genesis 9, God blessed this man & his sons & told them to be fruitful & multiply",
+        "answer": "Noah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FLIGHT",
+        "value": 600,
+        "question": "The Red Baron commanded a unit called the \"flying\" this, for its brightly colored planes",
+        "answer": "the Flying Circus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 600,
+        "question": "Everything I need: wine, ___ & song",
+        "answer": "women",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HOME ICE",
+        "value": 600,
+        "question": "Joe Louis Arena",
+        "answer": "the Detroit Red Wings",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SIR WALTER SCOTT",
+        "value": 600,
+        "question": "In 1813 Sir Walter wrote a letter complimenting this American on his \"History of New York\"",
+        "answer": "Washington Irving",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATURAL SELECTION",
+        "value": 600,
+        "question": "Sweetgrass Natural Fibers specializes in \"eco fashion\" made from hemp, cotton & this tall grass",
+        "answer": "bamboo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GOD DID IT!",
+        "value": 600,
+        "question": "In Exodus 3, God told Moses, who was standing on holy ground, to take off these",
+        "answer": "his shoes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FLIGHT",
+        "value": 800,
+        "question": "AKA the acute stress response, the name of this reflex contains 2 basic options one faces when threatened",
+        "answer": "fight-or-flight",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 800,
+        "question": "Describes me if Angelina Jolie ever needs any help: ready, ___ & able",
+        "answer": "willing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HOME ICE",
+        "value": 800,
+        "question": "Scotiabank Saddledome",
+        "answer": "the Calgary Flames",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SIR WALTER SCOTT",
+        "value": 800,
+        "question": "Jedediah Cleishbotham, Capt. Clutterbuck & Malachi Malagrowther were all these of Sir Walter Scott",
+        "answer": "pseudonyms",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATURAL SELECTION",
+        "value": 800,
+        "question": "EVO's Wild Cravings Red Meat Formula Biscuits are high-protein, grain-free treats for these",
+        "answer": "dogs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GOD DID IT!",
+        "value": 800,
+        "question": "In Genesis 2:21, God helped himself to one of these from Adam",
+        "answer": "the rib",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FLIGHT",
+        "value": 1000,
+        "question": "(Kelly of the Clue Crew sits in a Qantas flight simulator in Sydney, Australia.)  The four forces that act on a plane in flight include lift, gravity, & drag; by pushing these levers forward, we're increasing this fourth force that counteracts drag",
+        "answer": "thrust",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 1000,
+        "question": "The \"Jeopardy!\" office on tape days: blood, toil, tears & ___",
+        "answer": "sweat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HOME ICE",
+        "value": 1000,
+        "question": "TD Banknorth Garden",
+        "answer": "the Boston Bruins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SIR WALTER SCOTT",
+        "value": 1000,
+        "question": "Scott's novel \"Kenilworth\" contains the scene involving a mud puddle, a cloak & these 2 personages",
+        "answer": "Sir Walter Raleigh & Queen Elizabeth I",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NATURAL SELECTION",
+        "value": 1000,
+        "question": "Clothing optional: \"Bear\" this granola says it's \"100% pure and natural\"",
+        "answer": "Naked",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GOD DID IT!",
+        "value": 1000,
+        "question": "In Exodus 3, God promised to smite this land \"with all my wonders\"; in Exodus 7, he did",
+        "answer": "Egypt",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THIS PLACE IS DUELSVILLE",
+      "BALLET",
+      "PLAYING FOR CHANGE",
+      "HEY HEY HEY, IT'S PHAT ALBERT!",
+      "DOUBLE \"L\"",
+      "PUBLISHER, PAIR-ISH"
+    ],
+    "clues": [
+      {
+        "category": "THIS PLACE IS DUELSVILLE",
+        "value": 400,
+        "question": "In 1781 Emperor Joseph II staged a piano duel between Mozart & Muzio Clementi in this city",
+        "answer": "Vienna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 400,
+        "question": "In this ballet a little girl named Clara meets the Sugar Plum Fairy in the Kingdom of Sweets",
+        "answer": "The Nutcracker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PLAYING FOR CHANGE",
+        "value": 400,
+        "question": "This song title from the '80s precedes \"25 for Haiti\" in a 2010 project featuring 80 recording artists",
+        "answer": "\"We Are The World\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HEY HEY HEY, IT'S PHAT ALBERT!",
+        "value": 400,
+        "question": "In 2011 Prince Albert of this principality wed ex-Olympic swimmer Charlene Wittstock of South Africa",
+        "answer": "Monaco",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE \"L\"",
+        "value": 400,
+        "question": "Combatants shoot pellets of colored gel at each other in this game",
+        "answer": "paintball",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PUBLISHER, PAIR-ISH",
+        "value": 400,
+        "question": "The publisher Simon & him is part of CBS",
+        "answer": "Schuster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THIS PLACE IS DUELSVILLE",
+        "value": 800,
+        "question": "Green Park & Covent Garden were once favored dueling spots in this city",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 800,
+        "question": "Hershy Kay provided the orchestrations of this man's music for the 1958 ballet \"Stars and Stripes\"",
+        "answer": "(John Philip) Sousa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PLAYING FOR CHANGE",
+        "value": 800,
+        "question": "Willie Nelson, John Mellencamp & Neil Young organized the first of these heartland benefits in 1985",
+        "answer": "Farm Aid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HEY HEY HEY, IT'S PHAT ALBERT!",
+        "value": 800,
+        "question": "Like Newt Gingrich & Thomas Foley, Carl Albert held this leadership position, from 1971 to 1977",
+        "answer": "Speaker of the House",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE \"L\"",
+        "value": 800,
+        "question": "The name of these flowers seen here fits them perfectly",
+        "answer": "bluebells",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PUBLISHER, PAIR-ISH",
+        "value": 800,
+        "question": "Louisa May Alcott & James Patterson were published by Little, this",
+        "answer": "Brown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THIS PLACE IS DUELSVILLE",
+        "value": 1200,
+        "question": "Pushkin fought his fatal duel in this city, just 34 years after it was founded",
+        "answer": "Saint Petersburg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 1200,
+        "question": "A young prince is saved by a magic feather in this 1910 Stravinsky ballet",
+        "answer": "The Firebird",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PLAYING FOR CHANGE",
+        "value": 1200,
+        "question": "Dozens of rock stars have played the Secret Policeman's Balls to benefit this human rights organization, A.I.",
+        "answer": "Amnesty International",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HEY HEY HEY, IT'S PHAT ALBERT!",
+        "value": 1200,
+        "question": "This microbiologist worked on cancer & developed the oral polio vaccine",
+        "answer": "(Albert) Sabin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE \"L\"",
+        "value": 1200,
+        "question": "It's another name for a tadpole",
+        "answer": "a polliwog",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PUBLISHER, PAIR-ISH",
+        "value": 1200,
+        "question": "A Random House imprint combines this small fowl with Dell",
+        "answer": "Bantam Books",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THIS PLACE IS DUELSVILLE",
+        "value": 1600,
+        "question": "In 2008 Bobby Fischer died in this island city, site of his 1972 chess duel with Boris Spassky",
+        "answer": "Reykjavik",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 1600,
+        "question": "In the 1920s Uday Shankar, Ravi's brother, choreographed \"Radha-Krishna\" for this Russian ballerina",
+        "answer": "Pavlova",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PLAYING FOR CHANGE",
+        "value": 1600,
+        "question": "The organization \"Rock\" this sponsored a 2008 \"Ballot Bash\" & a 2011 \"Democracy Day\" with \"Glee\" star Darren Criss",
+        "answer": "the Vote",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HEY HEY HEY, IT'S PHAT ALBERT!",
+        "value": 1600,
+        "question": "This man used his $33,000 in Nobel Prize money to expand the hospital he built & to establish a leper colony",
+        "answer": "(Albert) Schweitzer",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE \"L\"",
+        "value": 1600,
+        "question": "It's the lumberjack term for when politicians vote for each other's bills",
+        "answer": "logrolling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PUBLISHER, PAIR-ISH",
+        "value": 1600,
+        "question": "A big name in textbooks is Prentice this",
+        "answer": "Hall",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THIS PLACE IS DUELSVILLE",
+        "value": 2000,
+        "question": "The book \"War of the Rats\" tells of a sniper duel during the winter 1942-43 battle for this Russian city",
+        "answer": "Stalingrad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BALLET",
+        "value": 2000,
+        "question": "In 1944 this conductor composed the music for \"Fancy Free\", Jerome Robbins' first ballet",
+        "answer": "Leonard Bernstein",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PLAYING FOR CHANGE",
+        "value": 2000,
+        "question": "The Clash & The Who headlined the 1979 Concerts for Kampuchea, benefits for victims in this war-torn country",
+        "answer": "Cambodia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HEY HEY HEY, IT'S PHAT ALBERT!",
+        "value": 2000,
+        "question": "In 1942 this Frenchman wrote, \"There is but one truly serious philosophical problem and that is suicide\"",
+        "answer": "Albert Camus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE \"L\"",
+        "value": 2000,
+        "question": "Prince Charles is the duke of it",
+        "answer": "Cornwall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PUBLISHER, PAIR-ISH",
+        "value": 2000,
+        "question": "Young readers enjoy books from Grosset & him",
+        "answer": "Dunlap",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS NAMES",
+    "clue": "At his death in January 2010, he was called \"the Garbo of letters, famous for not wanting to be famous\"",
+    "answer": "J.D. Salinger"
+  },
+  "gameId": "6338",
+  "gameDate": "Wednesday, March 21, 2012"
+}

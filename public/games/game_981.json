@@ -1,0 +1,574 @@
+{
+  "title": "Show #3305 - Friday, January 8, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "MORE FIRST LADIES",
+      "CORNY MOVIES",
+      "DON'T MISS THE BOAT",
+      "COLOR MY WORLD",
+      "I DID MY TIME",
+      "DAM IT!"
+    ],
+    "clues": [
+      {
+        "category": "MORE FIRST LADIES",
+        "value": 100,
+        "question": "In 1987 she published the book \"Betty:  A Glad Awakening\"",
+        "answer": "Betty Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CORNY MOVIES",
+        "value": 100,
+        "question": "Film in which Kevin Costner hears a mysterious voice while standing in his Iowa cornfield",
+        "answer": "Field Of Dreams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "DON'T MISS THE BOAT",
+        "value": 100,
+        "question": "Board the Spirit of Adventure in Glacier Bay, Alaska to watch the humpback species of this mammal",
+        "answer": "Whale",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 100,
+        "question": "\"Roll\" this out for all your important visitors",
+        "answer": "Red carpet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I DID MY TIME",
+        "value": 100,
+        "question": "After more than 27 years in jail, I was released by the South African government on Feb. 11, 1990",
+        "answer": "Nelson Mandela",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DAM IT!",
+        "value": 100,
+        "question": "This dam holds back the water in Lake Nasser",
+        "answer": "Aswan High Dam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MORE FIRST LADIES",
+        "value": 200,
+        "question": "In 1875, after 3 months in a mental institution, she was released in the custody of her sister in Springfield, Ill.",
+        "answer": "Mary Todd Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CORNY MOVIES",
+        "value": 200,
+        "question": "In this movie, 12-year-old 30-year old Tom Hanks tries to eat baby corn row by row",
+        "answer": "Big",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "DON'T MISS THE BOAT",
+        "value": 200,
+        "question": "In the summer, tour boats carry Civil War buffs from Charleston City Marina to this island fort every day",
+        "answer": "Fort Sumter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 200,
+        "question": "John Wayne commanded a regiment of this title force in a 1968 film",
+        "answer": "Green Berets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I DID MY TIME",
+        "value": 200,
+        "question": "I based my \"Gulag Archipelago\" in part on my own prison experience",
+        "answer": "Aleksandr Solzhenitsyn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DAM IT!",
+        "value": 200,
+        "question": "South Fork Dam on the Little Conemaugh River failed completely, causing this 1889 disaster",
+        "answer": "The Johnstown Flood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MORE FIRST LADIES",
+        "value": 300,
+        "question": "Quincy was her mother's maiden name & the middle name of her son",
+        "answer": "Abigail Adams",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CORNY MOVIES",
+        "value": 300,
+        "question": "Reviewers went crazy with \"corn\" puns reviewing this Eastwood-Streep movie set in Iowa",
+        "answer": "The Bridges Of Madison County",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "DON'T MISS THE BOAT",
+        "value": 600,
+        "question": "(Hi there, I'm Bob Eubanks.)  A boat called The Maid of The Mist gives newlyweds a close-up view of this New York attraction",
+        "answer": "Niagara Falls",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 300,
+        "question": "Hit songs in this style of music include \"Wicked Path Of Sin\" & \"The Ballad Of Jed Clampett\"",
+        "answer": "Bluegrass",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I DID MY TIME",
+        "value": 300,
+        "question": "During my time in a Genoese prison in 1298, I dictated a detailed account of my Asian travels",
+        "answer": "Marco Polo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DAM IT!",
+        "value": 300,
+        "question": "In 1996's \"Beavis and Butt-Head Do America\", the title heroes manage to open the floodgates of this dam",
+        "answer": "Hoover Dam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MORE FIRST LADIES",
+        "value": 400,
+        "question": "She married the future president at St. Mark's Episcopal Church in Bexar County, Texas on November 17, 1934",
+        "answer": "Lady Bird Johnson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CORNY MOVIES",
+        "value": 400,
+        "question": "In \"The Road To Wellville\", Anthony Hopkins plays this developer of corn flakes",
+        "answer": "W.K. Kellogg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "DON'T MISS THE BOAT",
+        "value": 400,
+        "question": "This New York harbor transport docks at the southernmost point of Manhattan",
+        "answer": "Staten Island Ferry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 400,
+        "question": "To make this colorful drink, pour in Bass Ale followed by Guinness Stout on top",
+        "answer": "Black & Tan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I DID MY TIME",
+        "value": 400,
+        "question": "Some thought I was Louis XIV's brother, some his son; either way I was locked up for 40 years",
+        "answer": "The Man in the Iron Mask",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DAM IT!",
+        "value": 400,
+        "question": "The Oahe Dam near this capital of South Dakota is one of the world's ten largest earth-fill dams",
+        "answer": "Pierre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MORE FIRST LADIES",
+        "value": 500,
+        "question": "This first lady was born in 1917 on the eve of St. Patrick's Day, hence her nickname",
+        "answer": "Pat Nixon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CORNY MOVIES",
+        "value": 500,
+        "question": "In this revolutionary 1952 drama, Marlon Brando says his people need corn for their tortillas",
+        "answer": "Viva Zapata!",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "DON'T MISS THE BOAT",
+        "value": 500,
+        "question": "You can take a boat ride down the River Walk section of this southern Texas city",
+        "answer": "San Antonio",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 500,
+        "question": "You'll find this arm of the Pacific between the Chinese mainland & the Korean peninsula",
+        "answer": "Yellow Sea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "I DID MY TIME",
+        "value": 500,
+        "question": "Jawohl, I was Spandau Prison's lone inmate from 1966 to 1987",
+        "answer": "Rudolf Hess",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DAM IT!",
+        "value": 500,
+        "question": "This dam on the Columbia River is one of the largest concrete structures in the world",
+        "answer": "Grand Coulee Dam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "IT'S A MASTERPIECE!",
+      "THE BASS",
+      "WHO CREATED THEM?",
+      "A.K.A.",
+      "GATHERINGS",
+      "\"DEATH\" PENALTY"
+    ],
+    "clues": [
+      {
+        "category": "IT'S A MASTERPIECE!",
+        "value": 200,
+        "question": "A portion of this heroic Emanuel Leutze masterpiece is seen here",
+        "answer": "Washington Crossing the Delaware",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE BASS",
+        "value": 200,
+        "question": "Jack Bruce played with Eric Clapton in The Bluesbreakers before joining him in this trio",
+        "answer": "Cream",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHO CREATED THEM?",
+        "value": 200,
+        "question": "Professor George Edward Challenger,Professor Moriarty,Mrs. Hudson",
+        "answer": "Sir Arthur Conan Doyle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "A.K.A.",
+        "value": 200,
+        "question": "It was Charlie Sheen's original last name; his older brother still uses it",
+        "answer": "Estevez",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GATHERINGS",
+        "value": 200,
+        "question": "These are parties given for soon-to-be brides & soon-to-be moms",
+        "answer": "Showers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"DEATH\" PENALTY",
+        "value": 200,
+        "question": "This epidemic claimed 25 million Europeans in the 14th century",
+        "answer": "The Black Death",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "IT'S A MASTERPIECE!",
+        "value": 400,
+        "question": "Painted as a protest in '37, this work is often considered one of Picasso's most powerful works",
+        "answer": "Guernica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE BASS",
+        "value": 400,
+        "question": "Robbie Shakespeare, who has worked with Peter Tosh & Black Uhuru, is this style's bass master",
+        "answer": "Reggae",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHO CREATED THEM?",
+        "value": 400,
+        "question": "Arthur Gordon Pym,Madeline & Roderick Usher",
+        "answer": "Edgar Allan Poe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "A.K.A.",
+        "value": 400,
+        "question": "Born Stefania Federkiewicz, she used the name Taffy Paul before she became a TV \"Hart\"throb",
+        "answer": "Stefanie Powers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GATHERINGS",
+        "value": 400,
+        "question": "From the French for \"first\", the stars come out for one of these opening-night galas",
+        "answer": "Premiere",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"DEATH\" PENALTY",
+        "value": 400,
+        "question": "This national park boasts the hottest U.S. temperature ever recorded - 134 degrees Fahrenheit!",
+        "answer": "Death Valley National Park",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "IT'S A MASTERPIECE!",
+        "value": 600,
+        "question": "This Rembrandt work depicts the militia company of Frans Banning Cocq",
+        "answer": "The Night Watch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE BASS",
+        "value": 600,
+        "question": "Don't worry, play this type of bass guitar, defined as one without ridges on the fingerboard",
+        "answer": "a fretless",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHO CREATED THEM?",
+        "value": 600,
+        "question": "Frederic Henry,Jake Barnes,Francis Macomber",
+        "answer": "Ernest Hemingway",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "A.K.A.",
+        "value": 600,
+        "question": "This \"Die Hard\" co-star's real name is Bonnie Culkin; Macaulay is her nephew",
+        "answer": "Bonnie Bedelia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GATHERINGS",
+        "value": 600,
+        "question": "The A-crowd knows that types of these include quilting & spelling",
+        "answer": "Bees",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"DEATH\" PENALTY",
+        "value": 600,
+        "question": "In sports, it's an overtime period added to a tied game with the winner being the first to score",
+        "answer": "Sudden death",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "IT'S A MASTERPIECE!",
+        "value": 800,
+        "question": "\"Dreamy\" title of this Rousseau work",
+        "answer": "The Sleeping Gypsy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE BASS",
+        "value": 800,
+        "question": "Bernard Edwards of this group played the bass solo on their hit \"Le Freak\"",
+        "answer": "Chic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHO CREATED THEM?",
+        "value": 1600,
+        "question": "Coalhouse Walker, Jr.,Daniel Lewin,Billy Bathgate",
+        "answer": "E.L. Doctorow",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "A.K.A.",
+        "value": 800,
+        "question": "This comic actor-director's \"Mother\" could tell you his real name is Albert Einstein",
+        "answer": "Albert Brooks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GATHERINGS",
+        "value": 800,
+        "question": "German for \"gossip\", one of these little gatherings may be held over coffee",
+        "answer": "Klatch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"DEATH\" PENALTY",
+        "value": 800,
+        "question": "An author's last Italian holiday is the subject of this Thomas Mann novella",
+        "answer": "Death in Venice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "IT'S A MASTERPIECE!",
+        "value": 1000,
+        "question": "The name of this 1931 surreal painting also known as \"Soft Watches\" should be easy to remember",
+        "answer": "The Persistence of Memory",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE BASS",
+        "value": 1000,
+        "question": "This late jazz bassist who also backed Joni Mitchell was a true \"Jaco\" all trades",
+        "answer": "Jaco Pastorius",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHO CREATED THEM?",
+        "value": 1000,
+        "question": "Von Humboldt Fleisher,Augie March,Moses Herzog",
+        "answer": "Saul Bellow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "A.K.A.",
+        "value": 1000,
+        "question": "It's Jason Patric's real last name; his father was a movie \"Exorcist\"",
+        "answer": "Miller (son of Jason Miller)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GATHERINGS",
+        "value": 2000,
+        "question": "The word \"work\" & the name of this sexually open party are akin to the same Greek word, \"ergon\"",
+        "answer": "orgy",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"DEATH\" PENALTY",
+        "value": 1000,
+        "question": "As Hannibal Lecter could tell you, the Acherontia atropos is this scary moth",
+        "answer": "a death's-head hawkmoth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BALLET",
+    "clue": "Feeling the need for ballets about American life, this dancer choreographed his first ballet in 1944",
+    "answer": "Jerome Robbins"
+  },
+  "gameId": "3305",
+  "gameDate": "Friday, January 8, 1999"
+}

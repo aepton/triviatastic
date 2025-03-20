@@ -1,0 +1,574 @@
+{
+  "title": "Show #8227 - Tuesday, June 2, 2020",
+  "jeopardyRound": {
+    "categories": [
+      "HALL MONITOR",
+      "HEAVEN OR HELL",
+      "BIRDS OF PREY",
+      "WORDS FROM OLD ENGLISH",
+      "GOING ON VACATION",
+      "I'M FULL OF \"N.V.\""
+    ],
+    "clues": [
+      {
+        "category": "HALL MONITOR",
+        "value": 200,
+        "question": "In 2019 Abby Wambach was inducted into the national hall of fame for this sport",
+        "answer": "soccer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HEAVEN OR HELL",
+        "value": 200,
+        "question": "A 2-word synonym for heaven, it's the \"land\" of Canaan in Genesis reserved for Abraham & his descendants",
+        "answer": "the Promised Land",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BIRDS OF PREY",
+        "value": 200,
+        "question": "These birds of prey are largely nocturnal, but the snowy type often hunts by day",
+        "answer": "an owl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORDS FROM OLD ENGLISH",
+        "value": 200,
+        "question": "A mounted soldier in armor who served a king or lord",
+        "answer": "a knight",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GOING ON VACATION",
+        "value": 200,
+        "question": "This country's Amalfi Coast never fails to impress",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "I'M FULL OF \"N.V.\"",
+        "value": 200,
+        "question": "If a motel is displaying this sign, keep driving",
+        "answer": "no vacancy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HALL MONITOR",
+        "value": 400,
+        "question": "Lord Stanley & Georges Vezina were 2 of the first inductees into this sport's hall of fame in 1945",
+        "answer": "hockey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HEAVEN OR HELL",
+        "value": 400,
+        "question": "One of the sons of Cronus, this Greek god of the underworld has a name that also means the underworld",
+        "answer": "Hades",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BIRDS OF PREY",
+        "value": 400,
+        "question": "Found in South America, the harpy is a crested variety of this bird of prey with a wingspan that can reach seven feet",
+        "answer": "an eagle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORDS FROM OLD ENGLISH",
+        "value": 400,
+        "question": "This verb means to satisfy, especially one's thirst",
+        "answer": "slake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GOING ON VACATION",
+        "value": 400,
+        "question": "Stop by this landmark & take in the amazing vista from Yavapai Point to the North Rim",
+        "answer": "the Grand Canyon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "I'M FULL OF \"N.V.\"",
+        "value": 400,
+        "question": "The Sightmark Ghost Hunter Goggle Binoculars will give you this",
+        "answer": "night vision",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HALL MONITOR",
+        "value": 600,
+        "question": "This legend is alphabetically first among modern-era inductees at the International Boxing Hall of Fame",
+        "answer": "(Muhammad) Ali",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HEAVEN OR HELL",
+        "value": 600,
+        "question": "The name of this Buddhist state of enlightenment comes from the Sanskrit for \"extinction\"",
+        "answer": "nirvana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BIRDS OF PREY",
+        "value": 600,
+        "question": "The largest bird of prey is this Western Hemisphere vulture that can fly 18,000 feet high & weigh 30 pounds",
+        "answer": "the condor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORDS FROM OLD ENGLISH",
+        "value": 600,
+        "question": "\"Over hill, over\" this small valley--both landforms come from the Old English",
+        "answer": "a dale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GOING ON VACATION",
+        "value": 600,
+        "question": "Headed to Paris? Check out the Impressionist and Postimpressionist works at this museum in a former train station",
+        "answer": "the Musée d'Orsay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "I'M FULL OF \"N.V.\"",
+        "value": 600,
+        "question": "The U.S. House of Representatives has 6 of these members, like Puerto Rico's resident commissioner",
+        "answer": "non-voting",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HALL MONITOR",
+        "value": 800,
+        "question": "The Basketball Hall of Fame hosts a preseason college tournament named for this first play in a basketball game",
+        "answer": "a tip-off",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HEAVEN OR HELL",
+        "value": 800,
+        "question": "The line \"Better to reign in hell than serve in heaven\" is from this 17th century poem",
+        "answer": "Paradise Lost",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BIRDS OF PREY",
+        "value": 800,
+        "question": "One of the only terrestrial birds of prey is this species whose name seems more suited for an office than its home in Africa",
+        "answer": "the secretary bird",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORDS FROM OLD ENGLISH",
+        "value": 800,
+        "question": "This word usually comes before \"out\", meaning to barely manage a living",
+        "answer": "eke",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GOING ON VACATION",
+        "value": 800,
+        "question": "Chile has a beautiful \"district\" of mountains & water that shares its name with this similar one in north England",
+        "answer": "the Lake District",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "I'M FULL OF \"N.V.\"",
+        "value": 800,
+        "question": "This country officially merged with its southern neighbor July 2, 1976",
+        "answer": "North Vietnam",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HALL MONITOR",
+        "value": 1000,
+        "question": "In 2019 Edgar Martinez & Harold Baines were elected to Baseball's Hall of Fame for playing this non-defensive position",
+        "answer": "designated hitter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HEAVEN OR HELL",
+        "value": 1000,
+        "question": "A famed Paris avenue bears the name of this blessed land where Greek heroes are sent in the afterlife",
+        "answer": "the Elysian Fields",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BIRDS OF PREY",
+        "value": 1000,
+        "question": "Reaching speeds of 200 miles per hour, this bird of prey is not only the world's fastest bird, it's also the world's fastest animal",
+        "answer": "the peregrine falcon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORDS FROM OLD ENGLISH",
+        "value": 1000,
+        "question": "This geography term meaning a bend or a curve in a coastline sounds like sinking your teeth into something",
+        "answer": "bight",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GOING ON VACATION",
+        "value": 1000,
+        "question": "This B&B island paradise northwest of Tahiti would be a perfect place for some R&R",
+        "answer": "Bora Bora",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "I'M FULL OF \"N.V.\"",
+        "value": 1000,
+        "question": "The Mayacamas Mountains to the west and the Vaca Range to the east, enclose this fertile region of Northern California",
+        "answer": "Napa Valley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WOMEN AUTHORS",
+      "GREATEST HITS FROM THE SUPREMES",
+      "THE HUMAN BODY",
+      "DOCUMENTARIES",
+      "THE OLD UNIVERSITY TRY",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 400,
+        "question": "This author of \"The Good Earth\" also wrote the heartwarming \"Christmas Day in the Morning\"",
+        "answer": "Pearl Buck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GREATEST HITS FROM THE SUPREMES",
+        "value": 400,
+        "question": "In McCulloch v. Maryland, John Marshall wrote, \"The power to\" do this 3-letter verb \"involves the power to destroy\"",
+        "answer": "tax",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 400,
+        "question": "This clear, transplantable layer of the eye anterior to the lens is often compared to the crystal on a watch",
+        "answer": "the cornea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DOCUMENTARIES",
+        "value": 400,
+        "question": "Aired on PBS in 1982, this filmmaker's first documentary told of the construction of the Brooklyn Bridge",
+        "answer": "Ken Burns",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE OLD UNIVERSITY TRY",
+        "value": 400,
+        "question": "Woof! & meow! & maybe even ribbit? This Ivy League U. in upstate New York awarded the nation's first doctorate of veterinary medicine",
+        "answer": "Cornell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "U.S. executive mansion that's a legal confinement to one's own residence instead of prison",
+        "answer": "White House arrest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 800,
+        "question": "She worked at a coffee shop in Toronto before writing dystopian fare",
+        "answer": "(Margaret) Atwood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GREATEST HITS FROM THE SUPREMES",
+        "value": 800,
+        "question": "In Williams v. U.S. William O. Douglas warned of the police taking matters \"in their own hands\" & these \"beastly\" courts",
+        "answer": "a kangaroo court",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 800,
+        "question": "In French le foie is this organ",
+        "answer": "the liver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DOCUMENTARIES",
+        "value": 800,
+        "question": "Spike Lee's \"4 Little Girls\" tells of the horrific bombing in 1963 of an African American church in this Alabama city",
+        "answer": "Birmingham",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE OLD UNIVERSITY TRY",
+        "value": 800,
+        "question": "I wouldn't look for this university founded in 1875 by a Mormon leader on many lists of top 10 party schools",
+        "answer": "BYU (Brigham Young)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 800,
+        "question": "Historic New York City sports arena where Adam & Eve lived in the Bible",
+        "answer": "Madison Square Garden of Eden",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 1200,
+        "question": "In 1856 she published \"Dred\", in which she depicted the deterioration of a slave-holding society",
+        "answer": "Harriet Beecher Stowe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GREATEST HITS FROM THE SUPREMES",
+        "value": 1200,
+        "question": "In Marbury v. Madison, John Marshall criticized this sitting president for flouting the law",
+        "answer": "Jefferson",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 1200,
+        "question": "In the average adult male, this thighbone is about 19 inches long",
+        "answer": "the femur",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DOCUMENTARIES",
+        "value": 1200,
+        "question": "In 2020 the Oscar for Best Documentary Short went to a film about \"Learning to\" do this fun activity \"in a Warzone (If You're a Girl)\"",
+        "answer": "skateboard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE OLD UNIVERSITY TRY",
+        "value": 1200,
+        "question": "You could be like William Faulkner & get an Oxford education at this state school that opened in 1848",
+        "answer": "Ole Miss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1200,
+        "question": "Paul McCartney's Bond theme plays as Bruce Willis fights off bad guys at the Nakatomi Building",
+        "answer": "\"Live And Let Die Hard\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 1600,
+        "question": "\"The House on Mango Street\" is the first book of fiction by this Mexican-American woman",
+        "answer": "(Sandra) Cisneros",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GREATEST HITS FROM THE SUPREMES",
+        "value": 1600,
+        "question": "Obergefell v. Hodges in 2015 asserted that this type of marriage is legal in all 50 states",
+        "answer": "same-sex marriage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 1600,
+        "question": "Erythrocytes are your red blood cells & these are your white blood cells",
+        "answer": "leukocytes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DOCUMENTARIES",
+        "value": 1600,
+        "question": "A 2011 documentary called this man \"Against the World\" explores the life of the troubled chess master",
+        "answer": "Fischer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE OLD UNIVERSITY TRY",
+        "value": 1600,
+        "question": "In 1884 this private university in New Orleans was renamed after the local merchant who gave the school its first endowment",
+        "answer": "Tulane",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1600,
+        "question": "2012 male stripper cinematic saga that went on to be our 70th Secretary of State",
+        "answer": "Magic Mike Pompeo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 2000,
+        "question": "This Danish writer acquired her title by marrying her cousin Bror von Blixen-Finecke, a Swedish baron",
+        "answer": "Isak Dinesen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GREATEST HITS FROM THE SUPREMES",
+        "value": 2000,
+        "question": "Leading to the 11th Amendment, Chisholm v. Georgia was overseen by this first Chief Justice",
+        "answer": "Jay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew presents by a display monitor.) Each hemisphere of the brain contains four lobes with different functions; your ability to process sounds, recognize words and understand them happens in this lobe, named for its location in relation to the sides of the head",
+        "answer": "the temporal lobe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DOCUMENTARIES",
+        "value": 2000,
+        "question": "This 1994 documentary follows 2 inner-city Chicago kids who aspire to become pro basketball players",
+        "answer": "Hoop Dreams",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE OLD UNIVERSITY TRY",
+        "value": 2000,
+        "question": "The William F. Harrah College of Hospitality checks in at this school, a few blocks away from the action",
+        "answer": "UNLV",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 2000,
+        "question": "1873 Jules Verne adventure novel that's an NBC soap opera on the air since 1965",
+        "answer": "Around the World in Eighty Days of Our Lives",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN FIRSTS",
+    "clue": "John Ledyard, sailing on Captain Cook's last voyage in search of the NW Passage, was the 1st American to land at what are now these 2 states",
+    "answer": "Hawaii & Alaska"
+  },
+  "gameId": "8227",
+  "gameDate": "Tuesday, June 2, 2020"
+}

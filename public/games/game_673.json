@@ -1,0 +1,574 @@
+{
+  "title": "Show #2875 - Friday, February 14, 1997",
+  "jeopardyRound": {
+    "categories": [
+      "BOOKS ABOUT TEENS",
+      "TRANSPORTATION",
+      "SITCOM NEIGHBORS",
+      "STATE CAPITALS",
+      "INTRAMURALS",
+      "ALGEBRA"
+    ],
+    "clues": [
+      {
+        "category": "BOOKS ABOUT TEENS",
+        "value": 100,
+        "question": "A recent book by Edward Humes covers \"A Year in the Life of\" this court for young offenders",
+        "answer": "juvenile court",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 100,
+        "question": "According to census data, the average time for this trip in metropolitan areas is 23.2 minutes",
+        "answer": "Trip to work/commute",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SITCOM NEIGHBORS",
+        "value": 100,
+        "question": "Skippy was the Keatons' neighbor on \"Family Ties\" & Urkel fills the role for the Winslows on this show",
+        "answer": "\"Family Matters\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 100,
+        "question": "Taking 40 years to build, the Mormon Temple was dedicated in this capital in 1893",
+        "answer": "Salt Lake City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "INTRAMURALS",
+        "value": 100,
+        "question": "This intramural game is also called ping-pong",
+        "answer": "Table tennis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ALGEBRA",
+        "value": 100,
+        "question": "It's the value of r when 1/5 = 9/r",
+        "answer": "45",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT TEENS",
+        "value": 200,
+        "question": "One of history's most famous diaries was written by this Jewish girl in hiding during WWII",
+        "answer": "Anne Frank",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "The basket beneath a balloon is called this, like a Venetian boat",
+        "answer": "Gondola",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SITCOM NEIGHBORS",
+        "value": 200,
+        "question": "As Kramer, Michael Richards lives across the hall from him",
+        "answer": "Jerry Seinfeld",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "The California gold rush helped put this state capital on the map",
+        "answer": "Sacramento",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "INTRAMURALS",
+        "value": 200,
+        "question": "In this football variation, a play ends when a cloth is pulled from the back pocket of the ball carrier",
+        "answer": "Flag football",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ALGEBRA",
+        "value": 200,
+        "question": "The coefficient of the term n is understood to be this number",
+        "answer": "1",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT TEENS",
+        "value": 300,
+        "question": "Mary Pipher's bestseller about troubled teen girls is called \"Reviving\" this Hamlet heroine",
+        "answer": "Ophelia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 300,
+        "question": "Term for a bus, elevator or NYC subway train that makes few stops",
+        "answer": "Express",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SITCOM NEIGHBORS",
+        "value": 300,
+        "question": "In 1996 Olivia d' Abo moved into the same building as Jonathan Silverman on this series",
+        "answer": "\"The Single Guy\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 600,
+        "question": "It's located on the Kentucky River, about 50 miles east of Louisville",
+        "answer": "Frankfort",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "INTRAMURALS",
+        "value": 300,
+        "question": "This fast-paced game can be played 3-on-3 on a half-court",
+        "answer": "Basketball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ALGEBRA",
+        "value": 300,
+        "question": "It's the lowest positive number with prime factors of 2, 3 & 5",
+        "answer": "30",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT TEENS",
+        "value": 400,
+        "question": "Margaret Mead changed the field of anthropology with 1928's \"Coming of Age in\" this place",
+        "answer": "Samoa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "In the 19th century Gustavus Swift developed this type of railway car to preserve his packed meat",
+        "answer": "Refrigerator Car",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SITCOM NEIGHBORS",
+        "value": 400,
+        "question": "David Leisure, famous as liar Joe Isuzu, played Richard Mulligan's neighbor on this sitcom",
+        "answer": "\"Empty Nest\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "It's nicknamed \"The Roger Williams City\"",
+        "answer": "Providence, Rhode Island",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "INTRAMURALS",
+        "value": 400,
+        "question": "In this type of tournament all participants play each other at least once",
+        "answer": "Round Robin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ALGEBRA",
+        "value": 400,
+        "question": "The commutative property of addition tells us that x plus y is equal to this",
+        "answer": "y plus x",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT TEENS",
+        "value": 500,
+        "question": "\"For Real\" is \"The Uncensored Truth\" about teens from Jane Pratt, who edited this \"backtalking\" magazine",
+        "answer": "Sassy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 500,
+        "question": "Some surfing techniques were adapted to concrete by devotees of this device",
+        "answer": "skateboard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SITCOM NEIGHBORS",
+        "value": 500,
+        "question": "He also plays Sheneneh Jenkins, the loud mouthed lady who lives across the hall from him",
+        "answer": "Martin Lawrence",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 500,
+        "question": "In 1624 Dutch settlers founded Fort Orange on the site of this present-day capital",
+        "answer": "Albany, New York",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "INTRAMURALS",
+        "value": 500,
+        "question": "Played on a racquetball court, wallyball follows the rules of this net sport",
+        "answer": "Volleyball",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ALGEBRA",
+        "value": 500,
+        "question": "On a graph this ordered pair represents the origin",
+        "answer": "0,0",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE BUSH ADMINISTRATION",
+      "THE BODY HUMAN",
+      "OPERA",
+      "NOTABLE NAMES",
+      "ARTISTS & THEIR SUBJECTS",
+      "AROUND THE LIBRARY"
+    ],
+    "clues": [
+      {
+        "category": "THE BUSH ADMINISTRATION",
+        "value": 200,
+        "question": "April Glaspie, ambassador to this nation, held a controversial meeting with Saddam Hussein July 25, 1990",
+        "answer": "Iraq",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 200,
+        "question": "Most people have 12 pairs of these bones, all attached to the spine",
+        "answer": "Ribs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 200,
+        "question": "In a Verdi opera, Odabella saves this famous Hun from being poisoned so she can kill him herself",
+        "answer": "Attila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 200,
+        "question": "In 1792 this silversmith cast the first church bell made in Boston",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ARTISTS & THEIR SUBJECTS",
+        "value": 200,
+        "question": "Gustave Moreau's 19th century painting of this saint & the dragon is in London's National Gallery",
+        "answer": "St. George",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE LIBRARY",
+        "value": 200,
+        "question": "A widely used book classification system is named for this major Washington, D.C. library",
+        "answer": "Library of Congress",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BUSH ADMINISTRATION",
+        "value": 400,
+        "question": "Bush sent 14,000 troops into Panama in 1989 & 4,500 into this U.S. city in 1992 to quell riots",
+        "answer": "Los Angeles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 400,
+        "question": "It's the term for a narrow tube in the body, like the alimentary or haversian",
+        "answer": "Canal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 400,
+        "question": "This Austrian was just 14 when he composed his 1770 opera \"Mitridate, Re Di Ponto\"",
+        "answer": "W.A. Mozart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 400,
+        "question": "In 1971 he took another giant leap, becoming professor of aerospace engineering at the Univ. of Cincinnati",
+        "answer": "Neil Armstrong",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ARTISTS & THEIR SUBJECTS",
+        "value": 400,
+        "question": "His 1892 painting \"Manao Tupapau\" depicts a young Tahitian girl & a scary-looking spirit",
+        "answer": "Paul Gauguin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE LIBRARY",
+        "value": 400,
+        "question": "Library photocopying that's \"systematic\" infringes on this legal protection",
+        "answer": "Copyright",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BUSH ADMINISTRATION",
+        "value": 600,
+        "question": "Bush's first major foreign policy move was a deal with Congress on aid to these Nicaraguan rebels",
+        "answer": "Contras",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 600,
+        "question": "It's the shorter of the 2 bones of the forearm, or a term used in geometry",
+        "answer": "Radius",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 600,
+        "question": "A buzzard flies overhead & inspires the cast of this Gershwin opera to sing \"The Buzzard Song\"",
+        "answer": "Porgy and Bess",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 600,
+        "question": "As a student this creator of the inkblot test was nicknamed Kleck, which means \"inkblot\"",
+        "answer": "Hermann Rorschach",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ARTISTS & THEIR SUBJECTS",
+        "value": 600,
+        "question": "The \"Dying Slave\", sculpted by this Italian master in the early 1500s, is in the Louvre",
+        "answer": "Michelangelo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE LIBRARY",
+        "value": 600,
+        "question": "Novelist Nicholson Baker has criticized libraries for destroying these & replacing them with databases",
+        "answer": "Card catalogs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BUSH ADMINISTRATION",
+        "value": 800,
+        "question": "In 1992 he quit as Secretary of State to run Bush's reelection campaign",
+        "answer": "James Baker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 1600,
+        "question": "Sufferers of Graves' disease are often given radioactive iodine to destroy all or part of this gland",
+        "answer": "the thyroid gland",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 800,
+        "question": "\"The Witches\", the 1st opera by this composer of \"Madama Butterfly\", may be based on the ballet \"Giselle\"",
+        "answer": "Giacomo Puccini",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 1600,
+        "question": "As the sixth ruler of Babylon's first dynasty, he laid down the laws",
+        "answer": "Hammurabi",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ARTISTS & THEIR SUBJECTS",
+        "value": 800,
+        "question": "Not surprisingly, his 1872 painting \"Musicians of the Orchestra\" shows ballet dancers in the background",
+        "answer": "Edgar Degas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE LIBRARY",
+        "value": 800,
+        "question": "Term for extensive arrangements of bookshelves; they may be opened or closed to the public",
+        "answer": "stacks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BUSH ADMINISTRATION",
+        "value": 1000,
+        "question": "The kinder, gentler Bush proposed increased funds for this HHS preschool program",
+        "answer": "Head Start",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 1000,
+        "question": "From the Latin for \"hard mother\", it's the toughest & outermost of the membranes that cover the brain",
+        "answer": "Dura Mater",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OPERA",
+        "value": 1000,
+        "question": "This composer of the \"New World Symphony\" wrote the operas \"The Cunning Peasant\" & \"The Pigheaded Peasants\"",
+        "answer": "Antonin Dvorak",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NOTABLE NAMES",
+        "value": 1000,
+        "question": "After completing \"The Prince\" in 1513, he turned to \"Discourses on the First 10 Books of Livy\"",
+        "answer": "Niccolo Machiavelli",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ARTISTS & THEIR SUBJECTS",
+        "value": 1000,
+        "question": "Her 1936 painting \"Summer Days\" shows an animal skull & flowers floating above a desert landscape",
+        "answer": "Georgia O'Keeffe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE LIBRARY",
+        "value": 1000,
+        "question": "Unlike microfilm, these sheets used on machines let the reader start at any point in a printed record",
+        "answer": "Microfiche",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORIC AMERICANS",
+    "clue": "He was the fourth Secretary of State, & the fourth Chief Justice",
+    "answer": "John Marshall"
+  },
+  "gameId": "2875",
+  "gameDate": "Friday, February 14, 1997"
+}

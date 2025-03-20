@@ -1,0 +1,565 @@
+{
+  "title": "Show #6015 - Friday, November 5, 2010",
+  "jeopardyRound": {
+    "categories": [
+      "NAME THE SEUSS TITLE",
+      "THE ACTOR DIRECTS",
+      "COLORFUL QUOTES",
+      "I WISH I KNEW HOW TO ACQUIT YOU",
+      "2 OF THE 7",
+      "THE \"D\"-LIST"
+    ],
+    "clues": [
+      {
+        "category": "NAME THE SEUSS TITLE",
+        "value": 200,
+        "question": "\"I will not eat them in the rain. I will not eat them on a train. Not in the dark! Not in a tree! Not in a car! You let me be!\"",
+        "answer": "Green Eggs and Ham",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE ACTOR DIRECTS",
+        "value": 200,
+        "question": "\"Lions for Lambs\", \"The Horse Whisperer\"",
+        "answer": "Robert Redford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COLORFUL QUOTES",
+        "value": 200,
+        "question": "\"No more St. Patrick's Day we'll keep, his color can't be seen, for there's a cruel law agin the wearin' o' the\" this",
+        "answer": "green",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "I WISH I KNEW HOW TO ACQUIT YOU",
+        "value": 200,
+        "question": "Your neighbors saw more of you than they wanted to; I'm afraid you'll be found guilty of indecent this",
+        "answer": "exposure",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "2 OF THE 7",
+        "value": 200,
+        "question": "Dopey & Sneezy",
+        "answer": "the Seven Dwarves",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"D\"-LIST",
+        "value": 200,
+        "question": "The Hindenburg was one of these rigid airships",
+        "answer": "a dirigible",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NAME THE SEUSS TITLE",
+        "value": 400,
+        "question": "Through the high jungle tree tops, the news quickly spread: \"He talks to a dust speck! He's out of his head!\"",
+        "answer": "Horton Hears a Who",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE ACTOR DIRECTS",
+        "value": 400,
+        "question": "\"Frost/Nixon\", \"Parenthood\"",
+        "answer": "Ron Howard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COLORFUL QUOTES",
+        "value": 400,
+        "question": "Hamlet replies to Ophelia, \"so long? Nay then let the devil wear\" this color, \"for I'll have a suit of sables\"",
+        "answer": "black",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "I WISH I KNEW HOW TO ACQUIT YOU",
+        "value": 400,
+        "question": "You used a deadly & dangerous weapon in the crime! That's aggravated this! Now I'm aggravated & have to convict you!",
+        "answer": "assault",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "2 OF THE 7",
+        "value": 400,
+        "question": "The Temple of Artemis & the Statue of Zeus",
+        "answer": "the Ancient Wonders of the World",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"D\"-LIST",
+        "value": 400,
+        "question": "It's the word for a young woman officially entering society",
+        "answer": "a debutante",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NAME THE SEUSS TITLE",
+        "value": 600,
+        "question": "\"No! Not in the house!\" said the fish in the pot, \"They should not fly kites in a house! They should not\"",
+        "answer": "The Cat in the Hat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE ACTOR DIRECTS",
+        "value": 600,
+        "question": "\"Open Range\", \"The Postman\" (he's uncredited for \"Waterworld\")",
+        "answer": "Kevin Costner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COLORFUL QUOTES",
+        "value": 600,
+        "question": "Isaiah 1.18: \"Though your sins be as\" this shade of red, \"they shall be as white as snow\"",
+        "answer": "scarlet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "I WISH I KNEW HOW TO ACQUIT YOU",
+        "value": 600,
+        "question": "You created a canvas & tried to pass it off as the work of Arshile Gorky: that's this crime",
+        "answer": "forgery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "2 OF THE 7",
+        "value": 600,
+        "question": "Sloth & wrath",
+        "answer": "the seven deadly sins",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"D\"-LIST",
+        "value": 600,
+        "question": "Its name is German for \"badger dog\"",
+        "answer": "a dachshund",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NAME THE SEUSS TITLE",
+        "value": 800,
+        "question": "\"Silence!\" the king of the turtles barked back. \"I'm king, and you're only a turtle named Mack\"",
+        "answer": "Yertle the Turtle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE ACTOR DIRECTS",
+        "value": 800,
+        "question": "\"Confessions of a Dangerous Mind\",\"Good Night, and Good Luck.\"",
+        "answer": "George Clooney",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COLORFUL QUOTES",
+        "value": 800,
+        "question": "Stephen Foster dreamed of her, \"floating like a vapor on the soft summer air\"",
+        "answer": "Jeannie with the light brown hair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "I WISH I KNEW HOW TO ACQUIT YOU",
+        "value": 800,
+        "question": "I can't acquit you because you were doing this on that street corner, lingering or standing around too long",
+        "answer": "loitering",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "2 OF THE 7",
+        "value": 800,
+        "question": "The schoolboy & the soldier, according to Shakespeare",
+        "answer": "the seven ages of man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"D\"-LIST",
+        "value": 800,
+        "question": "(Sarah reports from the Toyota Grand Prix in Long Beach, CA.)  Taking advantage of the car in front of you by splitting the air at 220 miles per hour and leaving you little resistance, is called this technique; on the 405, we call it tailgating",
+        "answer": "drafting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NAME THE SEUSS TITLE",
+        "value": 1000,
+        "question": "\"Socks on chicks and chicks on fox. Fox on clocks on bricks and blocks\"",
+        "answer": "Fox in Socks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE ACTOR DIRECTS",
+        "value": 1000,
+        "question": "\"Dead Man Walking\",\"Bob Roberts\"",
+        "answer": "Tim Robbins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COLORFUL QUOTES",
+        "value": 1000,
+        "question": "The musical \"Sally\" urged us to \"always look for\" this \"and try to find the sunny side of life\"",
+        "answer": "a silver lining",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "2 OF THE 7",
+        "value": 1000,
+        "question": "The Quirinal & the Aventine",
+        "answer": "the seven hills of Rome",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"D\"-LIST",
+        "value": 1000,
+        "question": "AKA the Ten Commandments",
+        "answer": "the Decalogue",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "IT HAPPENED ON NOVEMBER 5",
+      "I WANT MY MTV",
+      "\"STAR\" TREK",
+      "NEW JERSEY",
+      "LET'S EAT HEALTHY",
+      "NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS"
+    ],
+    "clues": [
+      {
+        "category": "IT HAPPENED ON NOVEMBER 5",
+        "value": 400,
+        "question": "1895:George Selden receives the first U.S. patent for one of these conveyances",
+        "answer": "a car",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "I WANT MY MTV",
+        "value": 400,
+        "question": "Frankie Muniz thought his $250,000 car was stolen as Ashton Kutcher's very first victim on this show",
+        "answer": "Punk'd",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"STAR\" TREK",
+        "value": 400,
+        "question": "A sluggish economy could use this; so could a weak battery, using some booster cables",
+        "answer": "a jump start",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEY",
+        "value": 400,
+        "question": "The New Jersey Governor's Mansion, Drumthwacket, is in this university city, not in Trenton",
+        "answer": "Princeton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LET'S EAT HEALTHY",
+        "value": 400,
+        "question": "Hake & shad are on the National Resources Defense Council list of fish low in this element (that's what you want)",
+        "answer": "mercury",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS",
+        "value": 400,
+        "question": "Red crabs need moisture to breed, so they await this season of heavy rains to troop to the ocean to breed",
+        "answer": "the monsoon season",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "IT HAPPENED ON NOVEMBER 5",
+        "value": 800,
+        "question": "1872:In defiance of an existing law, this suffragette tries to vote in the U.S. Presidential Election",
+        "answer": "Susan B. Anthony",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "I WANT MY MTV",
+        "value": 800,
+        "question": "\"Shaaaron!\" was the only word we really understood from the patriarch of this rockin' reality family",
+        "answer": "the Osbournes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"STAR\" TREK",
+        "value": 800,
+        "question": "This children's foundation has been improving the quality of life for sick kids for more than 25 years",
+        "answer": "the Starlight Children's Foundation",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEY",
+        "value": 800,
+        "question": "New Jersey's highest point, High Point, lies in the Kittatinny Mountains, a part of this larger chain",
+        "answer": "the Appalachians",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LET'S EAT HEALTHY",
+        "value": 800,
+        "question": "The betacyanin that makes these veggies red may also help fight cancer",
+        "answer": "beets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS",
+        "value": 800,
+        "question": "One million of these African creatures make a yearly 300-mile loop that includes a scary Mara River crossing",
+        "answer": "wildebeests",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "IT HAPPENED ON NOVEMBER 5",
+        "value": 1200,
+        "question": "1757:This \"Great\" Prussian leader decisively defeats a combined Austrian & French army at Rossbach",
+        "answer": "Frederick the Great",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "I WANT MY MTV",
+        "value": 1200,
+        "question": "Ah, the days of grand debate between these 2 \"newlyweds\", like whether \"chicken of the sea\" was actually tuna",
+        "answer": "Jessica Simpson & Nick Lachey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"STAR\" TREK",
+        "value": 1200,
+        "question": "Harsh or desolate, or the last name of Iron Man",
+        "answer": "Stark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEY",
+        "value": 1200,
+        "question": "New Jersey was named for an isle in this British island group",
+        "answer": "the Channel Islands",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LET'S EAT HEALTHY",
+        "value": 1200,
+        "question": "In 2004, 2 West Virginia men traded gunfire over how to cook a nice healthy skinless this",
+        "answer": "chicken",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS",
+        "value": 1200,
+        "question": "It will take 5 months and 3 generations of butterflies to reach Canada--a journey they're starting in this warmer country",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "IT HAPPENED ON NOVEMBER 5",
+        "value": 1600,
+        "question": "1862:Lincoln orders this man out as commander of the army of the Potomac",
+        "answer": "McClellan",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "I WANT MY MTV",
+        "value": 1600,
+        "question": "After seeing a tour of Ice-T's home on this show, I thought about putting in a 1,000-gal. shark tank of my own",
+        "answer": "Cribs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"STAR\" TREK",
+        "value": 1600,
+        "question": "On July 10, 1962 this low-orbit communications satellite was launched",
+        "answer": "Telstar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEY",
+        "value": 1600,
+        "question": "New Jersey's smallest county in area & most densely populated, it was named for an explorer & the river it borders",
+        "answer": "Hudson County",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LET'S EAT HEALTHY",
+        "value": 1600,
+        "question": "This Amazonian palm fruit that looks like a purple berry packs an antioxidant wallop",
+        "answer": "the acai fruit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS",
+        "value": 1600,
+        "question": "After soaring for 7 months and tens of thousands of miles, the black-browed species of this bird is joyously reunited with his mate",
+        "answer": "the albatross",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "IT HAPPENED ON NOVEMBER 5",
+        "value": 2000,
+        "question": "1688:The \"glorious revolution\" begins as this Dutchman arrives at Brixham to claim the British crown",
+        "answer": "William of Orange",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "I WANT MY MTV",
+        "value": 2000,
+        "question": "Adam Sandler & Denis Leary were in the cast of this '80s game show set in host Ken Ober's basement",
+        "answer": "Remote Control",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"STAR\" TREK",
+        "value": 2000,
+        "question": "Speak very clearly if you call someone this game bird, otis tarda",
+        "answer": "bustard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NEW JERSEY",
+        "value": 2000,
+        "question": "\"America's oldest seaside resort\", it's home to more than 600 Victorian homes & seaside cottages",
+        "answer": "Cape May",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LET'S EAT HEALTHY",
+        "value": 2000,
+        "question": "If liquid yogurt sounds good, you'll like this fizzy milk from the Caucasus",
+        "answer": "kefir",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NATIONAL GEOGRAPHIC CHANNEL GREAT MIGRATIONS",
+        "value": 2000,
+        "question": "A female covers herself with secretions to prep for the migration of the bats called flying these animals",
+        "answer": "the flying fox",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "TERMS FROM THE BIBLE",
+    "clue": "In 2010 we heard of the discovery of the fossil of a 12 million-year-old giant sperm whale given this Biblical name by its finders",
+    "answer": "Leviathan"
+  },
+  "gameId": "6015",
+  "gameDate": "Friday, November 5, 2010"
+}

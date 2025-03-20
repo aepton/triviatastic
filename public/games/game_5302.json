@@ -1,0 +1,574 @@
+{
+  "title": "Show #7315 - Friday, June 3, 2016",
+  "jeopardyRound": {
+    "categories": [
+      "STATE CAPITAL NICKNAMES",
+      "TAROT CARDS",
+      "POLITICAL BOOKS",
+      "MISSING MOVIE NAMES",
+      "LIKE A G-6",
+      "KANSAS CITY BARBEQUE"
+    ],
+    "clues": [
+      {
+        "category": "STATE CAPITAL NICKNAMES",
+        "value": 200,
+        "question": "\"The City of Paul Revere\"",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TAROT CARDS",
+        "value": 200,
+        "question": "No. 10:Pat & Vanna lead the fun",
+        "answer": "the Wheel of Fortune",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POLITICAL BOOKS",
+        "value": 200,
+        "question": "\"The Craft of Intelligence\" by Allen W. Dulles drew upon his years as the director of this from 1953 to 1961",
+        "answer": "the CIA",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MISSING MOVIE NAMES",
+        "value": 200,
+        "question": "A totally righteous time-travel movie:\"____ & ____'s Excellent Adventure\"",
+        "answer": "Bill & Ted",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LIKE A G-6",
+        "value": 200,
+        "question": "It's a flat, padded stretcher with legs & wheels for transporting patients",
+        "answer": "a gurney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "KANSAS CITY BARBEQUE",
+        "value": 200,
+        "question": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Kansas City barbeque sauce is typically sweet & tangy: sweet from brown sugar &/or molasses, & tangy from this, usually the cider or white type",
+        "answer": "vinegar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITAL NICKNAMES",
+        "value": 400,
+        "question": "\"Broncoville\"",
+        "answer": "Denver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TAROT CARDS",
+        "value": 400,
+        "question": "No. 7:An ancient wheeled transport of war",
+        "answer": "a chariot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POLITICAL BOOKS",
+        "value": 400,
+        "question": "In 2002 this former New York City mayor published \"Leadership\"",
+        "answer": "Giuliani",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MISSING MOVIE NAMES",
+        "value": 400,
+        "question": "Vince Vaughn is Santa's brother:\"____ Claus\"",
+        "answer": "Fred",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LIKE A G-6",
+        "value": 400,
+        "question": "An evil, greedy type of creature in folklore, he also appears in \"Dungeons & Dragons\"",
+        "answer": "a goblin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "KANSAS CITY BARBEQUE",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Some people call them racks, but Arthur Bryant's serves their ribs in these thick, meaty units",
+        "answer": "slabs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITAL NICKNAMES",
+        "value": 600,
+        "question": "\"The Gateway to Glacier Bay National Park\"",
+        "answer": "Juneau (Alaska)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TAROT CARDS",
+        "value": 600,
+        "question": "No. 17:Alpha or Beta in Aquarius",
+        "answer": "a star",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POLITICAL BOOKS",
+        "value": 600,
+        "question": "Doris Kearns Goodwin's \"Team of Rivals: The Political Genius of\" this man was one basis for a Spielberg film",
+        "answer": "Lincoln",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MISSING MOVIE NAMES",
+        "value": 600,
+        "question": "Applause for Bette Davis:\"All About ____\"",
+        "answer": "Eve",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LIKE A G-6",
+        "value": 600,
+        "question": "A diver can perform a full or half this",
+        "answer": "a gainer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "KANSAS CITY BARBEQUE",
+        "value": 600,
+        "question": "(Kelly of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Containing a mixture of herbs & spices including salt, garlic & paprika, it's the two-word term for what goes on the ribs first",
+        "answer": "dry rub",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITAL NICKNAMES",
+        "value": 800,
+        "question": "\"The Queen on the James\"",
+        "answer": "Richmond (Virginia)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TAROT CARDS",
+        "value": 800,
+        "question": "No. 4:Napoleon, starting on Dec. 2, 1804",
+        "answer": "emperor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POLITICAL BOOKS",
+        "value": 800,
+        "question": "He would know--Henry Kissinger penned \"Years of Upheaval\", \"On China\" & \"Ending\" this conflict",
+        "answer": "the Vietnam War",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MISSING MOVIE NAMES",
+        "value": 800,
+        "question": "A post-apocalyptic tale starring Denzel:\"The Book of ____\"",
+        "answer": "Eli",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LIKE A G-6",
+        "value": 800,
+        "question": "To move in a circle, or around a fixed point",
+        "answer": "gyrate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "KANSAS CITY BARBEQUE",
+        "value": 800,
+        "question": "(Kelly of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  Contributing to the meat's flavor is the type of wood used in the smoker; here, it's a combination of oak & this common hardwood, popular for traditional barbeque flavor",
+        "answer": "hickory",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITAL NICKNAMES",
+        "value": 1000,
+        "question": "\"The Home of Frontier Days\"",
+        "answer": "Cheyenne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TAROT CARDS",
+        "value": 1000,
+        "question": "No. 9:Howard Hughes lived as one for the last years of his life",
+        "answer": "a hermit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POLITICAL BOOKS",
+        "value": 1000,
+        "question": "His criticism of Dick Cheney & Donald Rumsfeld in the 2015 bio \"Destiny and Power\" made news",
+        "answer": "George H.W. Bush",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MISSING MOVIE NAMES",
+        "value": 1000,
+        "question": "A comedic marriage of Adam Sandler & Kevin James:\"I Now Pronounce You ____ & ____\"",
+        "answer": "Chuck & Larry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LIKE A G-6",
+        "value": 1000,
+        "question": "Crudely showy or tastelessly colorful",
+        "answer": "garish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "KANSAS CITY BARBEQUE",
+        "value": 1000,
+        "question": "(Jimmy of the Clue Crew presents from Arthur Bryant's Barbeque in Kansas City, MO.)  They sound overdone & like something that might be discarded, but a specialty of Kansas City barbeque are these crusty cubes of brisket",
+        "answer": "burnt ends",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE MAN WHO WOULD BE KING",
+      "3 VOWELS IN A ROW",
+      "TV IN ALL FORMS",
+      "C.T.",
+      "SCAN",
+      "IT'S NOT A TUMOR"
+    ],
+    "clues": [
+      {
+        "category": "THE MAN WHO WOULD BE KING",
+        "value": 400,
+        "question": "The sun nearly went out when this child king of France was left unsupervised & almost drowned",
+        "answer": "Louis XIV",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "3 VOWELS IN A ROW",
+        "value": 400,
+        "question": "A Maui food feast",
+        "answer": "a luau",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TV IN ALL FORMS",
+        "value": 400,
+        "question": "Bob Odenkirk, in this spinoff:\"Lawyers... we're like health insurance.  You hope you never need it\"",
+        "answer": "Better Call Saul",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "C.T.",
+        "value": 400,
+        "question": "Insincere criers shed these",
+        "answer": "crocodile tears",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SCAN",
+        "value": 400,
+        "question": "To scan a poem is to analyze its meter; tetrameter lines like \"How still the bells in steeples stand\" have this many feet",
+        "answer": "four",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT A TUMOR",
+        "value": 400,
+        "question": "It's not a tumor, but these, aka renal calculi; often very painful until they pass",
+        "answer": "kidney stones",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE MAN WHO WOULD BE KING",
+        "value": 800,
+        "question": "James II was converted to this faith before he became king; as a result, he was converted into an ex-king",
+        "answer": "Catholicism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "3 VOWELS IN A ROW",
+        "value": 800,
+        "question": "Instead of \"instead of\", you can say \"in\" this \"of\"",
+        "answer": "lieu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TV IN ALL FORMS",
+        "value": 800,
+        "question": "Once a \"Desperate Housewife\" , today she stars in \"Telenovela\", a sitcom poking fun at Latin American soap operas",
+        "answer": "(Eva) Longoria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "C.T.",
+        "value": 800,
+        "question": "She's the model & TV host seen here",
+        "answer": "Chrissy Teigen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SCAN",
+        "value": 800,
+        "question": "There once was this verse form of 5 lines written in anapests, short-short-long",
+        "answer": "Limerick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT A TUMOR",
+        "value": 800,
+        "question": "Relax, it's just a bone one of these, a spike-shaped outgrowth of bone tissue, on your heel",
+        "answer": "a spur",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE MAN WHO WOULD BE KING",
+        "value": 1200,
+        "question": "When his father was out of the country, teenage Philip II of Spain served as this, from Latin for \"rule\"",
+        "answer": "the regent",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "3 VOWELS IN A ROW",
+        "value": 1200,
+        "question": "These 2 words that fit the category precede \"amber waves of grain\" in song",
+        "answer": "beautiful & spacious",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TV IN ALL FORMS",
+        "value": 1200,
+        "question": "Craig Ferguson handed off his late-night hosting job to this more jovial Brit",
+        "answer": "James Corden",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "C.T.",
+        "value": 1200,
+        "question": "Blood vessels & tendons pass through this narrow opening in the wrist",
+        "answer": "the carpal tunnel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SCAN",
+        "value": 1200,
+        "question": "2 songs in common meter can easily swap tunes, like \"Amazing Grace\" & this one about \"a house in New Orleans\"",
+        "answer": "\"House Of The Rising Sun\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT A TUMOR",
+        "value": 1200,
+        "question": "An inflammation of the labyrinth in the inner ear is causing this sensation of dizziness",
+        "answer": "vertigo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE MAN WHO WOULD BE KING",
+        "value": 1600,
+        "question": "As a young man the II king of this name was already calling for Belgium to be a colonial power--bad news for the Congo",
+        "answer": "(King) Leopold (of Belgium)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "3 VOWELS IN A ROW",
+        "value": 1600,
+        "question": "We're \"in line\"; Londoners are in one of these, which actually has 4 vowels in a row",
+        "answer": "a queue",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TV IN ALL FORMS",
+        "value": 1600,
+        "question": "Maurice Benard, Carolyn Hennesy & Kelly Monaco have all checked into this ABC daytime drama",
+        "answer": "General Hospital",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "C.T.",
+        "value": 1600,
+        "question": "Peter Rabbit's mom put him to bed & gave him this beverage",
+        "answer": "chamomile tea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SCAN",
+        "value": 1600,
+        "question": "It's a 2-syllable foot in which the second syllable is stressed, as in the word \"mistake\"",
+        "answer": "an iamb",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT A TUMOR",
+        "value": 1600,
+        "question": "Floaters in your field of vision can indicate this 2-word condition where a membrane is separated from underlying tissue",
+        "answer": "detached retina",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE MAN WHO WOULD BE KING",
+        "value": 2000,
+        "question": "Queen Victoria's grandson, he was born with a withered left arm that was often hidden in photographs",
+        "answer": "Kaiser Wilhelm (II)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "3 VOWELS IN A ROW",
+        "value": 2000,
+        "question": "\"Bang\" & \"crash\" are examples of this long word, which also has 4 vowels in a row",
+        "answer": "onomatopoeia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TV IN ALL FORMS",
+        "value": 2000,
+        "question": "The 101st Airborne's Easy Company didn't have it so easy in this 2001 miniseries set during World War II",
+        "answer": "Band of Brothers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "C.T.",
+        "value": 2000,
+        "question": "IRS code 4947(a)(1) covers these entities; the Pew ones try to solve today's most challenging problems",
+        "answer": "charitable trusts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SCAN",
+        "value": 2000,
+        "question": "Accentual meter, based on the number of stresses, is used in this most famous poem in Old English",
+        "answer": "Beowulf",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT A TUMOR",
+        "value": 2000,
+        "question": "But it is a type of inflammatory bowel disease called ulcerative this",
+        "answer": "colitis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS",
+    "clue": "This alliterative beverage chain says it gets its name from an African word meaning \"to celebrate\"",
+    "answer": "Jamba Juice"
+  },
+  "gameId": "7315",
+  "gameDate": "Friday, June 3, 2016"
+}

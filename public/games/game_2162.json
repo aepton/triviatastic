@@ -1,0 +1,574 @@
+{
+  "title": "Show #5327 - Tuesday, November 6, 2007",
+  "jeopardyRound": {
+    "categories": [
+      "ANAGRAMMED CANADIAN PROVINCES",
+      "THE DIRECTOR'S CHAIR",
+      "AT THE BUFFET",
+      "THE NEW YORK TIMES COLUMNISTS",
+      "BABY GOT BACH",
+      "4 \"A\"s 4 YOU"
+    ],
+    "clues": [
+      {
+        "category": "ANAGRAMMED CANADIAN PROVINCES",
+        "value": 200,
+        "question": "LATE BAR",
+        "answer": "Alberta",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 200,
+        "question": "\"Apollo 13\",\"Splash\"",
+        "answer": "Ron Howard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 200,
+        "question": "The buffet boasts this ham, the true prosciutto, from an Italian province that's also famous for a certain cheese",
+        "answer": "Parma",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES COLUMNISTS",
+        "value": 200,
+        "question": "An astronomical viewing facility, or Henry Fountain's column in Tuesday's Science Times",
+        "answer": "Observatory",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BABY GOT BACH",
+        "value": 200,
+        "question": "Bach was preoccupied with these instruments; the one at Weimar Court Chapel was remodeled per his instructions",
+        "answer": "an organ",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "4 \"A\"s 4 YOU",
+        "value": 200,
+        "question": "This Creole dish is made of rice cooked with ham, sausage, chicken or shellfish",
+        "answer": "jambalaya",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANAGRAMMED CANADIAN PROVINCES",
+        "value": 400,
+        "question": "NO RATIO",
+        "answer": "Ontario",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 400,
+        "question": "\"Piranha II: The Spawning\",\"The Terminator\"",
+        "answer": "James Cameron",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 400,
+        "question": "For dessert: this rich custard topped with caramelized sugar that's so brittle you can shatter it with a spoon",
+        "answer": "crème brûlée",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES COLUMNISTS",
+        "value": 400,
+        "question": "After the death of Red Smith, George Vecsey became a columnist on this subject",
+        "answer": "sports",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BABY GOT BACH",
+        "value": 400,
+        "question": "While in Weimar, Bach composed 30 of these choral compositions that take their name from the Italian for \"sing\"",
+        "answer": "cantatas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "4 \"A\"s 4 YOU",
+        "value": 400,
+        "question": "I like to move it, move it... France held this Indian Ocean island nation as a colony until 1960",
+        "answer": "Madagascar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANAGRAMMED CANADIAN PROVINCES",
+        "value": 600,
+        "question": "SO VACATION",
+        "answer": "Nova Scotia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 600,
+        "question": "\"Eraserhead\",\"Blue Velvet\"",
+        "answer": "David Lynch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 600,
+        "question": "Soup selections include mulligatawny & this hearty Mexican one made with both tripe & calf's feet",
+        "answer": "menudo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES COLUMNISTS",
+        "value": 600,
+        "question": "CCNY grad Clyde Haberman writes the NYC column for this section that doesn't have \"-politan\" after it",
+        "answer": "Metro",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BABY GOT BACH",
+        "value": 600,
+        "question": "Pablo Casals started his day by playing one of Bach's suites for this unaccompanied instrument",
+        "answer": "the cello",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "4 \"A\"s 4 YOU",
+        "value": 600,
+        "question": "It's also known as a Queensland nut",
+        "answer": "a macadamia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANAGRAMMED CANADIAN PROVINCES",
+        "value": 800,
+        "question": "I'M A BATON",
+        "answer": "Manitoba",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 800,
+        "question": "\"The Stranger\",\"The Magnificent Ambertsons\"",
+        "answer": "Orson Welles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 800,
+        "question": "How about some fruit salad featuring this apple variety whose name means \"a festive celebration\"",
+        "answer": "Gala",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES COLUMNISTS",
+        "value": 800,
+        "question": "\"Our Towns\" columnist Peter Applebome has come far since his career began at this state's Ypsilanti Press",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BABY GOT BACH",
+        "value": 800,
+        "question": "Bach grew up in Eisenach, the city where this reformer translated the New Testament at Wartburg Castle",
+        "answer": "Martin Luther",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "4 \"A\"s 4 YOU",
+        "value": 800,
+        "question": "It's the instrument heard here",
+        "answer": "a balalaika",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANAGRAMMED CANADIAN PROVINCES",
+        "value": 1000,
+        "question": "A HACKSAW NEST",
+        "answer": "Saskatchewan",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE DIRECTOR'S CHAIR",
+        "value": 1000,
+        "question": "\"The Pianist\",\"Frantic\"",
+        "answer": "Roman Polanski",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AT THE BUFFET",
+        "value": 1000,
+        "question": "Traditionally, eggs Florentine is poached eggs on a bed of spinach topped with this sauce, a variation on Bechamel",
+        "answer": "Mornay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE NEW YORK TIMES COLUMNISTS",
+        "value": 1000,
+        "question": "For those who blend materialism & counterculture, David Brooks coined \"BoBo\"-- bourgeois these",
+        "answer": "bohemians",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BABY GOT BACH",
+        "value": 1000,
+        "question": "First performed in Leipzig in 1729, one of Bach's most sacred works is this evangelist's \"Passion\"",
+        "answer": "St. Matthew",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "4 \"A\"s 4 YOU",
+        "value": 1000,
+        "question": "The Binghi is a central ritual in this religion founded in the late 1920s in Jamaica",
+        "answer": "Rastafarianism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MACHU PICCHU",
+      "BROADWAY MUSICALS",
+      "SCIENTISTS",
+      "COLLECTIBLES",
+      "WOMEN AUTHORS",
+      "HISTORIC SUPREME COURT DECISIONS?"
+    ],
+    "clues": [
+      {
+        "category": "MACHU PICCHU",
+        "value": 400,
+        "question": "(Alex reports from Machu Picchu in Peru.)  The Temple of the Sun just below us was used for calendar purposes; that large ledge in the middle of the room aligns directly with sunlight at sunrise on June 21, the winter one of these in Peru",
+        "answer": "the solstice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 400,
+        "question": "Of Reba McEntire's performance in this show, Ben Brantley said she didn't \"need a gun to bring\" NYC \"to its knees\"",
+        "answer": "Annie Get Your Gun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 400,
+        "question": "Within an 18-month period, 1665 to 1667, he made discoveries about light, color & gravitation",
+        "answer": "Isaac Newton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COLLECTIBLES",
+        "value": 400,
+        "question": "If you can find Hull's Little Red Riding Hood one of these, you'd best keep your hands & Oreos out of it",
+        "answer": "a cookie jar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 400,
+        "question": "In \"The Janeites\", a story by Rudyard Kipling, a group of soldiers have a deep admiration for this author",
+        "answer": "Jane Austen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC SUPREME COURT DECISIONS?",
+        "value": 400,
+        "question": "The choice to take a small boat or else just walk across a shallow stream",
+        "answer": "row v. wade",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MACHU PICCHU",
+        "value": 800,
+        "question": "(Alex reports from Machu Picchu in Peru.)  Hiram Bingham came upon the ruins of Machu Picchu & then wrote about the marvels he had seen in the April 1913 edition of this magazine",
+        "answer": "National Geographic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 800,
+        "question": "One performer in \"The Lion King\" affectionately called her cheetah puppet this, in honor of a \"Chicago\" star",
+        "answer": "Cheetah Rivera",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 800,
+        "question": "In 1869 this Russian chemist predicted the properties of 3 undiscovered elements based on his periodic law",
+        "answer": "(Dmitri) Mendeleev",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COLLECTIBLES",
+        "value": 800,
+        "question": "When you care enough to collect the very best, you might consider this co.'s annual keepsake ornaments",
+        "answer": "Hallmark",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 800,
+        "question": "There was a lot of buzz over Sue Monk Kidd's debut novel, \"The Secret Life of\" these",
+        "answer": "Bees",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC SUPREME COURT DECISIONS?",
+        "value": 800,
+        "question": "Moses' talking shrub rails against the results of bloody conflict",
+        "answer": "bush v. gore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MACHU PICCHU",
+        "value": 1200,
+        "question": "(Alex reports from Machu Picchu in Peru.)  Here at the main temple, Inca masons, who were terrific craftsmen, were able to fit together with precision different sizes of this quarried stone without using any mortar",
+        "answer": "white granite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 1200,
+        "question": "In the 2005 revival of this musical, Patti Lupone not only played Mrs. Lovett, she also played the tuba",
+        "answer": "Sweeney Todd",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 1200,
+        "question": "Einstein unsuccessfully attempted to refute this man's uncertainty principle",
+        "answer": "Heisenberg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COLLECTIBLES",
+        "value": 1200,
+        "question": "In 1907, the Fenton Art Glass Company introduced this type of glass, named for a fair where pieces were given as prizes",
+        "answer": "carnival glass",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 1200,
+        "question": "More than 20 of her novels, including \"Zoya\" & \"Jewels\", have been adapted for TV or film",
+        "answer": "Danielle Steel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC SUPREME COURT DECISIONS?",
+        "value": 1200,
+        "question": "Colorful recluse spider is found to cure lack of interest in the formal learning process",
+        "answer": "brown v. bored of education",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MACHU PICCHU",
+        "value": 1600,
+        "question": "(Alex reports from Machu Picchu in Peru.)  Some people believe that lines of energy around the globe come together at special spiritual points called these, like in Sedona, Arizona & here at Machu Picchu",
+        "answer": "vortices (or vortexes)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 1600,
+        "question": "Donna McKechnie kicked up her heels as Cassie in this show in 1975; Charlotte d'Amboise recently played the part",
+        "answer": "A Chorus Line",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 1600,
+        "question": "In 1628 this Brit published his study \"On the Motion of the Heart and of the Blood in Animals\"",
+        "answer": "Harvey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COLLECTIBLES",
+        "value": 1600,
+        "question": "If you can find one out there, Peanut the Elephant, one of these little guys, still sells for more than $1,000",
+        "answer": "a Beanie Baby",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 1600,
+        "question": "This author who battled Alzheimer's in her final years was the subject of the movie \"Iris\"",
+        "answer": "Iris Murdoch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC SUPREME COURT DECISIONS?",
+        "value": 1600,
+        "question": "Hotel Bible disapprovingly tells the story of a nasty wagonmaker",
+        "answer": "Gideon v. wainwright",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MACHU PICCHU",
+        "value": 2000,
+        "question": "(Alex reports from Machu Picchu in Peru.)  The words \"Up here men's feet found rest at night near eagles' talons\" are from the poem \"The Heights of Machu Picchu\" by this great Chilean poet",
+        "answer": "(Pablo) Neruda",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BROADWAY MUSICALS",
+        "value": 2000,
+        "question": "A character known as \"Man in Chair\" plays the LP of a 1928 musical & voila! it comes to life in this \"sleepy\" hit",
+        "answer": "The Drowsy Chaperone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 2000,
+        "question": "This man who figured out the movement of particles in a liquid gave the cell nucleus its name",
+        "answer": "(Robert) Brown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COLLECTIBLES",
+        "value": 2000,
+        "question": "Soft colors & a high-gloss finish make the porcelain pieces from this Spanish company appealing to collectors",
+        "answer": "Lladró",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WOMEN AUTHORS",
+        "value": 2000,
+        "question": "She won a Pulitzer for \"The Shipping News\" & also wrote the short story \"Brokeback Mountain\"",
+        "answer": "Annie Proulx",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HISTORIC SUPREME COURT DECISIONS?",
+        "value": 2000,
+        "question": "A \"fearsome\" kilt wearer dukes it out with a '70s sitcom junk dealer",
+        "answer": "dread Scot v. Sanford",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORIC NAMES",
+    "clue": "He is quoted as saying, \"Another such victory over the Romans, and we are undone\"",
+    "answer": "Pyrrhus"
+  },
+  "gameId": "5327",
+  "gameDate": "Tuesday, November 6, 2007"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #2185 - Friday, February 18, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "DOGS",
+      "EURO DISNEY",
+      "STATE FLAGS",
+      "HISTORY",
+      "ANAGRAMS",
+      "UNRELATED STUFF"
+    ],
+    "clues": [
+      {
+        "category": "DOGS",
+        "value": 100,
+        "question": "The Pomeranian & Pekingese are classified as this type, which may make you want to play with them",
+        "answer": "toy dogs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "EURO DISNEY",
+        "value": 100,
+        "question": "The 5,000-acre Euro Disney resort is 1/5 the size of this world capital that's just 20 miles away",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 100,
+        "question": "The 8 stripes on this state's flag represent the 8 main islands",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 100,
+        "question": "After its 1912 accident, inquiries found it was traveling too fast for icy conditions",
+        "answer": "the Titanic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 100,
+        "question": "You should never eat these fruits if they're covered with slime",
+        "answer": "limes (from slime)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "UNRELATED STUFF",
+        "value": 100,
+        "question": "According to the proverb, it's what happens when the cat's away",
+        "answer": "the mice will play",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DOGS",
+        "value": 200,
+        "question": "The Cocker is considered an American cousin of the English Cocker breed of this dog",
+        "answer": "a Spaniel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EURO DISNEY",
+        "value": 200,
+        "question": "Beware! One of these mythical beasts lurks in a lair beneath Sleeping Beauty's Chateau",
+        "answer": "a dragon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 200,
+        "question": "As a reminder of its fur-trapping days, Oregon shows this animal on the reverse of its flag",
+        "answer": "the beaver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "In the 1980s the proceeds from secret arms sales to Iran were funneled to this country's Contras",
+        "answer": "Nicaragua",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 200,
+        "question": "Karl keeps one of these small songbirds as a pet",
+        "answer": "a lark (from Karl)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "UNRELATED STUFF",
+        "value": 200,
+        "question": "In case anyone ever asks, for Stephen King it's A negative",
+        "answer": "his blood type",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DOGS",
+        "value": 300,
+        "question": "The Borzoi is descended from this dog whose name reminds us of a bus",
+        "answer": "the greyhound",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EURO DISNEY",
+        "value": 300,
+        "question": "A Caribbean restaurant called the Blue Lagoon is located inside this ride that's full of Buccaneers",
+        "answer": "Pirates of the Caribbean",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 300,
+        "question": "A badger sits atop the shield on this state's flag",
+        "answer": "Wisconsin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 300,
+        "question": "A 1969 army coup in Libya put this colonel into power",
+        "answer": "Colonel Gaddafi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 300,
+        "question": "It's a good name for leonine tresses",
+        "answer": "mane (from name)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "UNRELATED STUFF",
+        "value": 300,
+        "question": "This metal with the same name as a coin is named for a German goblin who lives in mines",
+        "answer": "nickel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DOGS",
+        "value": 400,
+        "question": "The \"Scottish\" breed of this dog is called a Scottie for short",
+        "answer": "a terrier",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EURO DISNEY",
+        "value": 400,
+        "question": "The French call this attraction full of singing doll's \"Le Monde est Petit\"",
+        "answer": "It's a Small World",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 400,
+        "question": "Appropriately, this \"Evergreen State\" is the only state whose flag is green",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "He was king of England during the French Revolution",
+        "answer": "King George III",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 400,
+        "question": "A music dictionary will tell you it's another name for a note",
+        "answer": "a tone (from note)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "UNRELATED STUFF",
+        "value": 400,
+        "question": "NASA is an acronym for this",
+        "answer": "the National Aeronautics and Space Administration",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DOGS",
+        "value": 500,
+        "question": "The Labrador retriever originated in this present Canadian province",
+        "answer": "Newfoundland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EURO DISNEY",
+        "value": 500,
+        "question": "A rip-roaring recreation of his wild west show features cowboys, Indians & stampeding buffalo",
+        "answer": "Buffalo Bill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STATE FLAGS",
+        "value": 500,
+        "question": "South Carolina's flag depicts a crescent over this state tree",
+        "answer": "the palmetto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HISTORY",
+        "value": 500,
+        "question": "The Straits Convention of 1841 concerned travel through the Bosporus & this other Turkish strait",
+        "answer": "the Dardanelles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 500,
+        "question": "I'd love to fly a plane over this Asian country",
+        "answer": "Nepal (from plane)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "UNRELATED STUFF",
+        "value": 500,
+        "question": "You're considered prolix if you use an abundance of these",
+        "answer": "words",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT ROME",
+      "WORLD LEADERS",
+      "EDUCATION",
+      "MEDICINE",
+      "DANCE",
+      "NONFICTION"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT ROME",
+        "value": 200,
+        "question": "This largest Roman amphitheatre was flooded for mock naval battles called naumachiae",
+        "answer": "the Colosseum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 200,
+        "question": "This Cuban president is also the head of the Cuban Communist Party",
+        "answer": "Castro",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EDUCATION",
+        "value": 200,
+        "question": "This Canadian province has 2-year schools called colleges d'enseignement general et professionel",
+        "answer": "Quebec",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 200,
+        "question": "It states, \"I will give no deadly medicine to anyone if asked, nor suggest any such counsel\"",
+        "answer": "the Hippocratic Oath",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DANCE",
+        "value": 200,
+        "question": "Mayim, mayim, a modern circle dance from this country, is a variation of the hora",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 200,
+        "question": "He published the autobiographical \"My Life on the Plains\" in 1874, 2 years before his \"Last Stand\"",
+        "answer": "Custer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 400,
+        "question": "This \"fiddling\" emperor scandalized the populace by performing in public in female roles",
+        "answer": "Nero",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 400,
+        "question": "Francisco Franco is buried inside a mountain in this, his native country",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EDUCATION",
+        "value": 400,
+        "question": "Mistress of arts was a 19th century female equivalent of this degree earned by young men",
+        "answer": "a bachelor of arts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 400,
+        "question": "To check the development of fetuses, doctors use this technique that produces images on a screen",
+        "answer": "ultrasound",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DANCE",
+        "value": 400,
+        "question": "The Krakowiak, popular since the 19th century, was named for a city in this country",
+        "answer": "Poland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 400,
+        "question": "A government grant enabled him to publish \"The Zoology of the Voyage of H.M.S. Beagle\"",
+        "answer": "Darwin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 600,
+        "question": "Early Christians hid in these underground   tunnels during times of persecution",
+        "answer": "catacombs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 600,
+        "question": "Evita must have been his good luck charm; he became president of Argentina 4 months after he married her",
+        "answer": "Peron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EDUCATION",
+        "value": 600,
+        "question": "It can be an academy for young ladies or an institution that trains candidates for priesthood",
+        "answer": "a seminary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 600,
+        "question": "The rheumatoid type of this disease causes pain & swelling in the joints & can lead to crippling",
+        "answer": "arthritis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DANCE",
+        "value": 600,
+        "question": "Traditionally, a fandango is accompanied by castanets & this instrument",
+        "answer": "the guitar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 600,
+        "question": "In \"Den of' Lions\", Terry Anderson discusses his ordeal as a hostage in this country",
+        "answer": "Lebanon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 800,
+        "question": "Statues depict Romulus & Remus, the legendary founders of Rome, with this animal that nursed them",
+        "answer": "a wolf",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 800,
+        "question": "This Oxford-graduate was president of the Oxford Union 11 years before she became PM of Pakistan",
+        "answer": "(Benazir) Bhutto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EDUCATION",
+        "value": 800,
+        "question": "A sum of money granted for advanced study or research, it's also a synonym for companionship",
+        "answer": "a fellowship",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 800,
+        "question": "Of chicken pox, polio & malaria, the one not caused by a virus",
+        "answer": "malaria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DANCE",
+        "value": 800,
+        "question": "In the Tinikling dance of the Philippines, dancers hop between moving poles made of this plant",
+        "answer": "bamboo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 1600,
+        "question": "Bruce Catton & Shelby Foote are famous for their books on this subject",
+        "answer": "the Civil War",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 1000,
+        "question": "The curia, which still stands in the Roman forum, was the seat of this powerful government body",
+        "answer": "the Senate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORLD LEADERS",
+        "value": 1000,
+        "question": "He was just 17 when he was crowned king of Jordan in 1953",
+        "answer": "King Hussein",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EDUCATION",
+        "value": 1000,
+        "question": "This Italian woman's famous \"method\" encourages a child's self-development",
+        "answer": "(Maria) Montessori",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEDICINE",
+        "value": 2000,
+        "question": "\"Circulation\" is a monthly publication of this American organization",
+        "answer": "the American Heart Association",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DANCE",
+        "value": 1000,
+        "question": "This woman who died in 1991 based many of her modern dance works, such as \"Clytemnestra\" on mythology",
+        "answer": "Martha Graham",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NONFICTION",
+        "value": 1000,
+        "question": "She followed \"Coming of Age in Samoa\" with \"Growing Up in New Guinea\"",
+        "answer": "Margaret Mead",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LEGENDARY PAIRS",
+    "clue": "In the late 1100s, monks at Glastonbury Abbey claimed they'd found the bodies of this royal couple",
+    "answer": "Arthur & Guinevere"
+  },
+  "gameId": "2185",
+  "gameDate": "Friday, February 18, 1994"
+}

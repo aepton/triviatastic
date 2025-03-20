@@ -1,0 +1,556 @@
+{
+  "title": "Show #8449 - Thursday, July 22, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "AROUND THE WORLD",
+      "MLB MASCOTS",
+      "LIT BITS",
+      "IT'S A TRAP!",
+      "HOWARD'S END",
+      "DOWN TO \"RTH\""
+    ],
+    "clues": [
+      {
+        "category": "AROUND THE WORLD",
+        "value": 200,
+        "question": "Tuxtla Gutierrez is the capital city of Chiapas, the southernmost state in this nation",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MLB MASCOTS",
+        "value": 200,
+        "question": "Wally the Green Monster & his sister Tessie",
+        "answer": "the Boston Red Sox",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LIT BITS",
+        "value": 200,
+        "question": "Emily Bronte paid 50 pounds to have this novel published in 1847",
+        "answer": "Wuthering Heights",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IT'S A TRAP!",
+        "value": 200,
+        "question": "These literary siblings find a house with \"a roof made of cake, & the windows were made of clear sugar\" but... it's a trap!",
+        "answer": "Hansel & Gretel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HOWARD'S END",
+        "value": 200,
+        "question": "In 2015 this radio host ended his time judging \"America's Got Talent\"",
+        "answer": "Stern",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOWN TO \"RTH\"",
+        "value": 200,
+        "question": "It precedes Pole, Sea & Star",
+        "answer": "North",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 400,
+        "question": "These 2 largest islands in the Mediterranean Sea are both autonomous regions of Italy",
+        "answer": "Sicily & Sardinia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MLB MASCOTS",
+        "value": 400,
+        "question": "A fuzzy green guy named Southpaw, born on the South Side",
+        "answer": "White Sox",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LIT BITS",
+        "value": 400,
+        "question": "A 12-line poem from 1913 ends with \"but only God can make a\" this",
+        "answer": "a tree",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IT'S A TRAP!",
+        "value": 400,
+        "question": "Here's this perennial that has a special diet; it can close shop in about half a second",
+        "answer": "the Venus flytrap",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HOWARD'S END",
+        "value": 400,
+        "question": "As of 2021 the once-vast empire of restaurants named for this Howard is down to a single one in Lake George, N.Y.",
+        "answer": "Howard Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOWN TO \"RTH\"",
+        "value": 400,
+        "question": "Once upon a time home was where this fireplace area was, providing heat & light at night, & fire for cooking",
+        "answer": "a hearth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 600,
+        "question": "Where's the beef? One place is this city of 1.6 million on Osaka Bay",
+        "answer": "Kobe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MLB MASCOTS",
+        "value": 600,
+        "question": "Ace, a colorful bird whose genus name is Cyanocitta",
+        "answer": "Toronto Blue Jays",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LIT BITS",
+        "value": 600,
+        "question": "In the 1920s this novelist ran the University of Mississippi post office... until they made him quit",
+        "answer": "Faulkner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IT'S A TRAP!",
+        "value": 600,
+        "question": "The now-heavily memed Admiral Ackbar discovers, \"It's a trap!\" in this 1983 film",
+        "answer": "Return of the Jedi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HOWARD'S END",
+        "value": 600,
+        "question": "Some cried fowl when this Marvel comic book hero flew away in 1979, but he would return",
+        "answer": "Howard the Duck",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOWN TO \"RTH\"",
+        "value": 600,
+        "question": "Time to go to sleep on the train? Do you want the upper one or the lower one?",
+        "answer": "a berth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 800,
+        "question": "This ecologically vital region also called the Selva reaches its northern limits in Colombia & Venezuela",
+        "answer": "the Amazon rainforest",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MLB MASCOTS",
+        "value": 800,
+        "question": "Billy, who measures 44 inches from the tip of his bill to the tip of his back fin",
+        "answer": "Marlins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LIT BITS",
+        "value": 800,
+        "question": "It's Mary Norton's 1952 children's classic about a family living under the floorboards",
+        "answer": "The Borrowers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IT'S A TRAP!",
+        "value": 800,
+        "question": "In Greek myth Minos used the labyrinth designed by this man to imprison him & his son Icarus; the 2 escaped, at a price",
+        "answer": "Daedalus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HOWARD'S END",
+        "value": 800,
+        "question": "The very brief marriage of Henry VIII to this woman ended in 1542",
+        "answer": "Catherine Howard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOWN TO \"RTH\"",
+        "value": 800,
+        "question": "It's the distance around something, like a middle-aged waist",
+        "answer": "girth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 1000,
+        "question": "Dagestan is between the Caspian Sea on its east & this independence-seeking Russian Republic to its west",
+        "answer": "Chechnya",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MLB MASCOTS",
+        "value": 1000,
+        "question": "A lime green parrot hatched in 1979",
+        "answer": "Pirates",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LIT BITS",
+        "value": 1000,
+        "question": "This author, Harvard class of 1852, never exactly wore rags himself but loved the \"to riches\" part",
+        "answer": "Alger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IT'S A TRAP!",
+        "value": 1000,
+        "question": "The 2010 collapse of a gold & copper mine would end up trapping 33 workers for 69 days in this country",
+        "answer": "Chile",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HOWARD'S END",
+        "value": 1000,
+        "question": "In 1939 it was Hodgkin's disease, not King Tut's curse, that did in this archaeologist",
+        "answer": "Carter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOWN TO \"RTH\"",
+        "value": 1000,
+        "question": "In Scotland it's an inlet like Moray or of Clyde",
+        "answer": "firth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EYE-DEOLOGY",
+      "3 LETTERS, 2 SYLLABLES",
+      "ANCIENT HISTORY",
+      "\"MM\" POP",
+      "MARK YOUR CALENDARS",
+      "SOMETHING BIG IS COMING!"
+    ],
+    "clues": [
+      {
+        "category": "EYE-DEOLOGY",
+        "value": 400,
+        "question": "Dehydration of this transparent eye part can cause vision changes; swab the lower lid to stimulate tears & hydrate it",
+        "answer": "the cornea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "3 LETTERS, 2 SYLLABLES",
+        "value": 400,
+        "question": "The wall seen here is covered in it",
+        "answer": "ivy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"MM\" POP",
+        "value": 400,
+        "question": "This rap artist got his stage name due to his resemblance to a baseball home run king",
+        "answer": "MC Hammer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MARK YOUR CALENDARS",
+        "value": 400,
+        "question": "Introduced in 1582, this calendar wasn't adopted by the Brits until 1752 & by the Russians until 1918",
+        "answer": "Gregorian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "EYE-DEOLOGY",
+        "value": 800,
+        "question": "Floaters & reduced peripheral vision can indicate that this membrane has become detached",
+        "answer": "the retina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "3 LETTERS, 2 SYLLABLES",
+        "value": 800,
+        "question": "It can mean the self or conceit",
+        "answer": "ego",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 800,
+        "question": "Ptolemy & Antigonus were generals of this man whose empire was divided up after his death in 323 B.C.",
+        "answer": "Alexander the Great",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"MM\" POP",
+        "value": 800,
+        "question": "Lionel Richie played some sax but also \"ranked\" as a singer for this hit-making R&B group",
+        "answer": "Commodores",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MARK YOUR CALENDARS",
+        "value": 800,
+        "question": "Using a biblical chronology, Archbishop James Ussher determined that this event occurred on Oct. 22, 4004 B.C.",
+        "answer": "the creation of the Earth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING BIG IS COMING!",
+        "value": 800,
+        "question": "The wingspan of the royal species of this seabird of the South Pacific can reach more than 10 feet",
+        "answer": "albatross",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EYE-DEOLOGY",
+        "value": 1200,
+        "question": "Known by a 5-letter acronym, it's the most popular vision correction procedure performed in the United States",
+        "answer": "LASIK",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "3 LETTERS, 2 SYLLABLES",
+        "value": 1200,
+        "question": "Physiologically speaking, it's plural for egg cells",
+        "answer": "ova",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 1200,
+        "question": "The philosopher Anaximander was credited with making an early world map & one of these time-telling devices around 560 B.C.",
+        "answer": "a sundial",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"MM\" POP",
+        "value": 1200,
+        "question": "First name of 1960s singers Roe & James",
+        "answer": "Tommy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MARK YOUR CALENDARS",
+        "value": 1200,
+        "question": "Many of the days of the week bear the name of   Germanic gods, but this one is from this name of  a Roman deity",
+        "answer": "Saturday",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING BIG IS COMING!",
+        "value": 1200,
+        "question": "555 passengers can fly comfortably aboard the A380 from this European manufacturer",
+        "answer": "Airbus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EYE-DEOLOGY",
+        "value": 1600,
+        "question": "The lens loses clearness with this eye disease noted for a gray-white film behind the pupil",
+        "answer": "cataracts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "3 LETTERS, 2 SYLLABLES",
+        "value": 1600,
+        "question": "Guy Picciotto & his band Rites of Spring pioneered this subgenre of alternative music",
+        "answer": "emo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 1600,
+        "question": "Secretary to emperor Hadrian, Suetonius had access to the imperial archives & wrote \"The 12\" these rulers",
+        "answer": "Caesars",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"MM\" POP",
+        "value": 1600,
+        "question": "This \"planet-devouring\" band went straight for \"The Middle\" in a 2001 tune",
+        "answer": "Jimmy Eat World",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MARK YOUR CALENDARS",
+        "value": 1600,
+        "question": "Messidor was the tenth month of the calendar associated with this event at the end of the 18th century",
+        "answer": "the French Revolution",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING BIG IS COMING!",
+        "value": 1600,
+        "question": "The term \"juggernaut\" comes from a massive vehicle pulled by thousands of pilgrims to honor this avatar of Vishnu",
+        "answer": "Jagannath (Krishna)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EYE-DEOLOGY",
+        "value": 2000,
+        "question": "The eyeballs may protrude abnormally in people with Graves disease, a disorder of this gland",
+        "answer": "thyroid",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "3 LETTERS, 2 SYLLABLES",
+        "value": 2000,
+        "question": "It's an atom with a negative or positive charge",
+        "answer": "an ion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 2000,
+        "question": "This queen of Egypt, Akhenaton's wife, was a symbol of fertility, bolstered by the 6 daughters she bore",
+        "answer": "Nefertiti",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"MM\" POP",
+        "value": 2000,
+        "question": "Till Lindemann is the frontman of this metal band that doubles the \"M\" of a U.S. Air Force base in Germany",
+        "answer": "Rammstein",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MARK YOUR CALENDARS",
+        "value": 2000,
+        "question": "North Korea uses the Juche calendar, counting from the birthdate of this man in 1912",
+        "answer": "Kim Il-sung",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SOMETHING BIG IS COMING!",
+        "value": 2000,
+        "question": "2/3 of a mile long, the world's longest passenger train, the Ghan, travels 1,850 miles coast to coast across this continent",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "1970s MOVIE SCENES",
+    "clue": "Writer Dan O'Bannon based a scene in this film on his own Crohn's disease, which felt like things inside him fighting to get out",
+    "answer": "Alien"
+  },
+  "gameId": "8449",
+  "gameDate": "Thursday, July 22, 2021"
+}

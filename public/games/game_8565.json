@@ -1,0 +1,574 @@
+{
+  "title": "Show #1868 - Wednesday, October 21, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD EVENTS",
+      "FOOD",
+      "COMPUTER TALK",
+      "STATE CAPITALS",
+      "COLORS",
+      "HUGHS"
+    ],
+    "clues": [
+      {
+        "category": "WORLD EVENTS",
+        "value": 100,
+        "question": "When this was stormed in 1789, its governor, the Marquis de Launay, was murdered",
+        "answer": "the Bastille",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 100,
+        "question": "In 1940, an agricultural station in this state developed a cheese called Cornhusker",
+        "answer": "Nebraska",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COMPUTER TALK",
+        "value": 100,
+        "question": "On Mar. 6, 1992 thousands of computers were infected by a virus named for this Renaissance artist",
+        "answer": "Michelangelo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 100,
+        "question": "After it was burned by Sherman's troops, this Mississippi capital came to be called Chimneyville",
+        "answer": "Jackson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COLORS",
+        "value": 100,
+        "question": "A vivid shade of yellow is named for this citrus fruit",
+        "answer": "lemon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HUGHS",
+        "value": 100,
+        "question": "In 1989, this publisher married his Playmate Kimberly Conrad",
+        "answer": "Hugh Hefner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD EVENTS",
+        "value": 200,
+        "question": "Patrick Pierce, a leader of this country's 1916 Easter rebellion was executed when it failed",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "Munich's Weisswurst, made with veal & served with sweet mustard, is a type of this",
+        "answer": "a sausage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COMPUTER TALK",
+        "value": 200,
+        "question": "Programs such as WordPerfect allow you to use your computer as this",
+        "answer": "a word processor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "This Minnesota capital was named for a church constructed there in 1841",
+        "answer": "St. Paul",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COLORS",
+        "value": 200,
+        "question": "Romani & royal are shades of this color",
+        "answer": "blue",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HUGHS",
+        "value": 200,
+        "question": "This host of \"20/20\" holds the Guinness record for most hours on U.S. national television",
+        "answer": "Hugh Downs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD EVENTS",
+        "value": 300,
+        "question": "This \"Great\" czar's victory over Charles XII at Poltava marked the decline of Swedish power in northern Eur.",
+        "answer": "Peter the Great",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 300,
+        "question": "Sachertorte has been called the king of cakes & this soft French cheese, the king of cheeses",
+        "answer": "brie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COMPUTER TALK",
+        "value": 300,
+        "question": "Rather than meals, this display gives the user a choice of programs or functions",
+        "answer": "menus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 300,
+        "question": "Originally founded as Eagle Station, it's situated in Eagle Valley, about 30 miles south of Reno",
+        "answer": "Carson City",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COLORS",
+        "value": 300,
+        "question": "The upper stripe on the Dutch flag was originally this color, the same as its ruling house",
+        "answer": "orange",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HUGHS",
+        "value": 300,
+        "question": "Since 1985, Hugh Desmond Hoyt has been president of this former British colony in South America",
+        "answer": "Guyana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD EVENTS",
+        "value": 400,
+        "question": "In 1796 the British took this island southeast of India from the Dutch",
+        "answer": "Ceylon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "\"Champignon\" commonly refers to the button variety of this",
+        "answer": "mushroom",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COMPUTER TALK",
+        "value": 400,
+        "question": "Unlike a laser printer, this type strikes the page to form characters in patterns of dots",
+        "answer": "a dot matrix printer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "12 miles long & about 1.5 miles wide, Mendenhall Glacier is 13 miles north of this capital",
+        "answer": "Juneau",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COLORS",
+        "value": 400,
+        "question": "The paintings Picasso did between 1905 & 1907 are said to belong to this pinkish period",
+        "answer": "Rose",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HUGHS",
+        "value": 400,
+        "question": "\"Dr. Dolittle & the Secret Lake\", his last in a series, was published posthumously in 1948",
+        "answer": "Hugh Lofting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD EVENTS",
+        "value": 500,
+        "question": "In 1533 Pizarro occupied this Incan capital & set up Manco as Emperor",
+        "answer": "Cuzco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 1000,
+        "question": "Found in many colors, these lens-shaped legumes have more protein than any other",
+        "answer": "lentils",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COMPUTER TALK",
+        "value": 500,
+        "question": "A byte usually consists of 8 bits, & this consists of 4",
+        "answer": "a nibble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 500,
+        "question": "Located on Puget Sound, it's a major shipping point for oysters, farm products, & lumber",
+        "answer": "Olympia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COLORS",
+        "value": 500,
+        "question": "Used by the ancient Greeks & Romans, Tyrian dye was this color",
+        "answer": "purple",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HUGHS",
+        "value": 500,
+        "question": "This Democrat was governor of New York from 1975 to 1982",
+        "answer": "Hugh Carey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LONDON",
+      "FIRST LADIES",
+      "MAN IN SPACE",
+      "NONFICTION",
+      "BALLET",
+      "THE WILD WEST"
+    ],
+    "clues": [
+      {
+        "category": "LONDON",
+        "value": 200,
+        "question": "A statue of this mythical beast marks the beginning of Fleet Street, as Merv could tell you",
+        "answer": "a griffin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 200,
+        "question": "\"If she knew sign language & taught the deaf to speak, why\", someone joked, \"didn't she teach Cal\"",
+        "answer": "Grace Coolidge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 200,
+        "question": "On Feb. 18, 1977, the Space Shuttle made its first test flight aboard a 747 at this California Air Force Base",
+        "answer": "Edwards",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 200,
+        "question": "\"A Train of Power\" by Rebecca West contains her reports on these war trials",
+        "answer": "the Nuremberg trials",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BALLET",
+        "value": 200,
+        "question": "\"Swan Lake\" made its debut at the Bolshoi Theater in this city; we have yet to see its swan song",
+        "answer": "Moscow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 200,
+        "question": "Appropriately, one of the local newspapers in this Arizona town is called The Epitaph",
+        "answer": "Tombstone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 400,
+        "question": "Legend says this place name is derived from the piccadill, a type of collar once sold in the vicinity",
+        "answer": "Piccadilly Circus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 400,
+        "question": "Elizabeth Monroe helped save the wife of this French marquis from execution",
+        "answer": "Lafayette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 400,
+        "question": "Launched on Apr. 12, 1981, this space shuttle was the world's first reusable spacecraft",
+        "answer": "the Columbia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 400,
+        "question": "\"Years of Upheaval\" by this former Secretary of State is a memoir of the Watergate years",
+        "answer": "Henry Kissinger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BALLET",
+        "value": 400,
+        "question": "A 1948 production of this fairy tale ballet ballet featured Robert Helpman & Frederick Ashton as the ugly stepsisters",
+        "answer": "Cinderella",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 400,
+        "question": "This judge's saloon, the Jersey Lilly, doubled as his courtroom",
+        "answer": "Judge Roy Bean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 600,
+        "question": "This famed museum on Marylebone Road makes us wax nostalgic",
+        "answer": "Madame Tussauds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 600,
+        "question": "Introduced in 1914, a bill to clear the slums in Washington, D.C. was named for its sponsor, his 1st wife, Ellen",
+        "answer": "Wilson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 600,
+        "question": "Nicknamed \"Gordo\", he flew in the longest & last of the Mercury flights in 1963",
+        "answer": "Gordon Cooper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 600,
+        "question": "In a 1992 follow-up to his previous book, Charles Givens offers more \"Wealth Without\" this",
+        "answer": "Risk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BALLET",
+        "value": 600,
+        "question": "This king, an accomplished dancer, founded the Académie Royale de la Danse in 1661",
+        "answer": "Louis XIV",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 600,
+        "question": "In 1876, a saddle tramp named Jack McCall shot this man in the back of the head while he was playing cards",
+        "answer": "Wild Bill Hickok",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 800,
+        "question": "Princess Di's London home is this palace on the edge of the gardens of the same name",
+        "answer": "Kensington Palace",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 800,
+        "question": "Susan B. Anthony tried to get her to support the women's movement, but she abstained, as she did with alcohol",
+        "answer": "Lucy Hayes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 800,
+        "question": "When an oxygen tank ruptured, this Apollo mission had to return to Earth without landing on the Moon",
+        "answer": "Apollo 13",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 800,
+        "question": "Oliver Stone's \"JFK\" is partly based on this New Orleans DA's book, \"On the Trail of the Assassins\"",
+        "answer": "Jim Garrison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BALLET",
+        "value": 1600,
+        "question": "This dance from the ballet \"Gayane\" is Aram Khachaturian's most famous composition",
+        "answer": "the \"Sabre Dance\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 800,
+        "question": "He wasn't killed while robbing a bank, but while straightening a picture on a wall in his home",
+        "answer": "Jesse James",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LONDON",
+        "value": 1000,
+        "question": "Percy Shelley's first wife drowned herself in a lake in this park known for its orators",
+        "answer": "Hyde Park",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 2000,
+        "question": "His sister Rose acted as first lady until he married Frances Folsom, who took over the job",
+        "answer": "(Grover) Cleveland",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 1000,
+        "question": "In November of 1966, James Lovell & Edwin Aldrin became the last to fly in this two-man spacecraft",
+        "answer": "a Gemini",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 1000,
+        "question": "This Brit. sec'y of war's affair with Christine Keeler was the subject of a 1963 book, \"Anatomy of a Scandal\"",
+        "answer": "(John) Profumo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BALLET",
+        "value": 1000,
+        "question": "Inspired by El Greco's paintings, the ballet \"El Greco\" is set in this Spanish city",
+        "answer": "Toledo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 1000,
+        "question": "Dark nickname of the outlaw who sometimes left poems behind after he held up stagecoaches",
+        "answer": "Black Bart",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CHRONOLOGY",
+    "clue": "Dionysius Exiguus, a monk in Rome, is credited with inspiring the use of these 2 abbreviations",
+    "answer": "B.C. & A.D."
+  },
+  "gameId": "1868",
+  "gameDate": "Wednesday, October 21, 1992"
+}

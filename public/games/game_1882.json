@@ -1,0 +1,538 @@
+{
+  "title": "Show #3051 - Monday, December 1, 1997",
+  "jeopardyRound": {
+    "categories": [
+      "THE BIBLE",
+      "ON STAGE",
+      "EVERYONE'S A CRITIC",
+      "DINING OUT IN EUROPE",
+      "HORRORS!",
+      "LAST WORDS"
+    ],
+    "clues": [
+      {
+        "category": "THE BIBLE",
+        "value": 100,
+        "question": "This boy escaped Pharaoh's order to kill all male Hebrew babies",
+        "answer": "Moses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ON STAGE",
+        "value": 100,
+        "question": "Whoopee for Whoopi Goldberg, who took over Nathan Lane's role as Pseudolus in this musical",
+        "answer": "A Funny Thing Happened on the Way to the Forum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EVERYONE'S A CRITIC",
+        "value": 100,
+        "question": "As \"The Couch Critic\", Jeff Jarvis airs his views in this magazine",
+        "answer": "TV Guide",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DINING OUT IN EUROPE",
+        "value": 100,
+        "question": "Diners enjoy Baroque era cuisine while listening to Baroque music at Barokk in this Hungarian capital",
+        "answer": "Budapest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HORRORS!",
+        "value": 100,
+        "question": "Despite its title, this 1980 film had enough box office luck to produce 7 sequels by 1989",
+        "answer": "Friday the 13th",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LAST WORDS",
+        "value": 100,
+        "question": "\"Crito, I owe a cock to Aesculapius; do not forget to pay it\"",
+        "answer": "Socrates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "Because he was short, Zacchaeus climbed one of these to see Jesus over the crowd around him",
+        "answer": "a sycamore tree",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ON STAGE",
+        "value": 200,
+        "question": "\"Long Day's Journey Into Night\" was the first of his plays produced on Broadway after his death",
+        "answer": "Eugene O'Neill",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EVERYONE'S A CRITIC",
+        "value": 200,
+        "question": "In 1974 critic Jon Landau called this man \"Rock & Roll's Future\", & later co-produced \"Born to Run\" with him",
+        "answer": "Bruce Springsteen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DINING OUT IN EUROPE",
+        "value": 200,
+        "question": "As you can tell from its name, Paris' Au Pied de Cochon specializes in these porcine extremities",
+        "answer": "Pig's feet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HORRORS!",
+        "value": 200,
+        "question": "John Larroquette narrated this 1974 film in which lumbering tools are put to new use",
+        "answer": "The Texas Chainsaw Massacre",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LAST WORDS",
+        "value": 200,
+        "question": "\"How were the circus receipts...at Madison Square Garden?\"",
+        "answer": "P.T. Barnum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 300,
+        "question": "Herod had this apostle, the brother of John, killed with a sword",
+        "answer": "James",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ON STAGE",
+        "value": 600,
+        "question": "International troupe seen here in a performance at Radio City Music Hall",
+        "answer": "Riverdance",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EVERYONE'S A CRITIC",
+        "value": 300,
+        "question": "This Cowardly Lion actor's son & biographer, John, writes on comedy for The New Yorker",
+        "answer": "Bert Lahr",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DINING OUT IN EUROPE",
+        "value": 300,
+        "question": "The Ubiquitous Chip in this largest Scottish city features fine Scottish cuisine",
+        "answer": "Glasgow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HORRORS!",
+        "value": 300,
+        "question": "This 1960 Hitchcock classic was partly based on real-life murderer Ed Gein, who skinned his victims",
+        "answer": "Psycho",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LAST WORDS",
+        "value": 300,
+        "question": "\"What is the answer?\"  (Alice B. Toklas was silent.)  \"In that case, what is the question?\"",
+        "answer": "Gertrude Stein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "David & this prince became good friends after routing the Philistines",
+        "answer": "Jonathan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ON STAGE",
+        "value": 400,
+        "question": "In 1996 Fiona Shaw made her N.Y. debut in a theatrical rendering of this lengthy T.S. Eliot poem",
+        "answer": "The Waste Land",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EVERYONE'S A CRITIC",
+        "value": 400,
+        "question": "Movie critics heavily influenced by her work have been dubbed \"Paulettes\"",
+        "answer": "Pauline Kael",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DINING OUT IN EUROPE",
+        "value": 400,
+        "question": "Quadri on this city's Piazza San Marco opened in 1775; its neighbor, Caffe Florian, is even older",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HORRORS!",
+        "value": 400,
+        "question": "He's the monstrous doll in the 3 \"Child's Play\" movies",
+        "answer": "Chucky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LAST WORDS",
+        "value": 400,
+        "question": "July 4, 1826:\"Thomas Jefferson still survives\"",
+        "answer": "John Adams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ON STAGE",
+        "value": 500,
+        "question": "In 1982 Harvey Fierstein wrote & starred in this Tony-winning 3-part comedy",
+        "answer": "Torch Song Trilogy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EVERYONE'S A CRITIC",
+        "value": 500,
+        "question": "This novelist reviewed films from 1935 to 1940 & later wrote the script for \"The Third Man\"",
+        "answer": "Graham Greene",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DINING OUT IN EUROPE",
+        "value": 500,
+        "question": "This town, a playwright's birthplace, has dining spots called Arden & Mistress Quickly",
+        "answer": "Stratford-on-Avon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HORRORS!",
+        "value": 500,
+        "question": "You won't find this hook-handed slasher of a 1992 film taking a sunrise & sprinkling it with dew",
+        "answer": "The Candyman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LITERARY POTPOURRI",
+      "TRANSPORTATION",
+      "WE ARE THE CHAMPIONS",
+      "EXPLORERS",
+      "WHERE ARE WE?",
+      "THE \"END\" IS NEAR"
+    ],
+    "clues": [
+      {
+        "category": "LITERARY POTPOURRI",
+        "value": 200,
+        "question": "In \"Sir Gawain and the Green Knight\", Sir Gawain is this king's nephew & feasts with him at Camelot",
+        "answer": "King Arthur",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "Accommodating 3,000 passengers, this \"Festive\" company's new cruise ship Destiny is the world's largest",
+        "answer": "Carnival Cruise Lines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WE ARE THE CHAMPIONS",
+        "value": 200,
+        "question": "Brett Hull led the U.S. to victory over this country, his birthplace, in the 1996 World Cup of Hockey",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 200,
+        "question": "In 1820 Fabian von Bellingshausen may have become the first to see this continent that he thought was just ice",
+        "answer": "Antarctica",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHERE ARE WE?",
+        "value": 200,
+        "question": "The Woodland Park Zoo,The Rainier Brewery,The Space Needle Lounge",
+        "answer": "Seattle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"END\" IS NEAR",
+        "value": 200,
+        "question": "It's to hang by a support from above, or bar a student from school",
+        "answer": "Suspend",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LITERARY POTPOURRI",
+        "value": 400,
+        "question": "This fictional place was known as Sansculottia until a man named Utopos gave it a new name",
+        "answer": "Utopia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "The Natural Gasser II, this type of car, can travel a quarter-mile in 8.9 seconds on natural gas fuel",
+        "answer": "Dragster",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WE ARE THE CHAMPIONS",
+        "value": 800,
+        "question": "Led by Bill Tilden, the U.S. won this trophy a record 7 straight times from 1920 to 1926",
+        "answer": "the Davis Cup (tennis)",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 400,
+        "question": "In 1853 Richard Burton -- the other one -- visited this city in disguise & made a sketch of the Kaaba",
+        "answer": "Mecca",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHERE ARE WE?",
+        "value": 400,
+        "question": "Vermont College,The Vermont Historical Society Museum,The Vermont Supreme Court Building",
+        "answer": "Montpelier",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"END\" IS NEAR",
+        "value": 400,
+        "question": "Make-believe",
+        "answer": "Pretend",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LITERARY POTPOURRI",
+        "value": 600,
+        "question": "The meter for his poem \"The Song of Hiawatha\" was inspired by the great Finnish epic \"Kalevala\"",
+        "answer": "Henry Wadsworth Longfellow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 600,
+        "question": "In August 1995 this company introduced the Outback, a hybrid station wagon & sport utility vehicle",
+        "answer": "Subaru",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WE ARE THE CHAMPIONS",
+        "value": 600,
+        "question": "In 1994 a penalty kick goal by Dunga gave this country its fourth World Cup",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 1200,
+        "question": "In 1770 this British sea captain nearly wrecked the Endeavour on the Great Barrier Reef",
+        "answer": "Captain James Cook",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHERE ARE WE?",
+        "value": 600,
+        "question": "Marble Arch,Mayfair,Madame Tussaud's",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"END\" IS NEAR",
+        "value": 600,
+        "question": "Fight back or protect one's turf",
+        "answer": "Defend",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LITERARY POTPOURRI",
+        "value": 800,
+        "question": "The narrator of his 1983 novel \"Ancient Evenings\" is reborn as a harem master & a grave robber",
+        "answer": "Norman Mailer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "This military vehicle got its name from a British codeword when \"Landship\" never caught on",
+        "answer": "a tank",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WE ARE THE CHAMPIONS",
+        "value": 800,
+        "question": "Led by Isiah Thomas, this team's \"Bad Boys\" won the NBA title in 1989 & 1990",
+        "answer": "Detroit Pistons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHERE ARE WE?",
+        "value": 800,
+        "question": "Goethe House,Fort Tryon Park,The Fulton Fish Market",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"END\" IS NEAR",
+        "value": 800,
+        "question": "Nab or grab a suspect",
+        "answer": "Apprehend",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LITERARY POTPOURRI",
+        "value": 1000,
+        "question": "This Mississippi-born novelist published his 2nd & last book of poems, \"A Green Bough\", in 1933",
+        "answer": "William Faulkner",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1000,
+        "question": "Arab ships called dhows are lateen rigged, meaning their sails are roughly this shape",
+        "answer": "triangular",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WE ARE THE CHAMPIONS",
+        "value": 1000,
+        "question": "In 1979 this team's theme song was \"We Are Family\" & Willie Stargell, known as Pops, was their hero",
+        "answer": "Pittsburgh Pirates",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHERE ARE WE?",
+        "value": 1000,
+        "question": "The Museum Van Loon,The Zuiderkerk,Dam Square",
+        "answer": "Amsterdam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"END\" IS NEAR",
+        "value": 1000,
+        "question": "Worthy title for a member of the clergy",
+        "answer": "Reverend",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "POLITICAL ANAGRAMS",
+    "clue": "20th century world leader whose name is an anagram of \"THAT GREAT CHARMER\"",
+    "answer": "Margaret Thatcher"
+  },
+  "gameId": "3051",
+  "gameDate": "Monday, December 1, 1997"
+}

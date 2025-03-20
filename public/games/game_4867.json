@@ -1,0 +1,574 @@
+{
+  "title": "Show #7044 - Thursday, April 9, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "\"L\"ITERATURE",
+      "BARTENDING GLOSSARY",
+      "WHERE THE DEVIL?!",
+      "LIFESTYLES",
+      "DOUBLE TALK",
+      "THEIR TV ROLES THEN & NOW"
+    ],
+    "clues": [
+      {
+        "category": "\"L\"ITERATURE",
+        "value": 200,
+        "question": "The title girl is the first word & also the last word of this Nabokov novel",
+        "answer": "Lolita",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BARTENDING GLOSSARY",
+        "value": 200,
+        "question": "This 6-letter word is used of a milder beverage that's consumed immediately after a shot of hard liquor",
+        "answer": "chaser",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHERE THE DEVIL?!",
+        "value": 200,
+        "question": "Creepy water, y'all!  Devil's Swamp Lake & Hell Hole Bayou are in this state",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LIFESTYLES",
+        "value": 200,
+        "question": "The New York Times calls Williamsburg in this borough \"the granddaddy of neighborhoods with hipster cachet\"",
+        "answer": "Brooklyn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 200,
+        "question": "Another name for miniature golf",
+        "answer": "putt-putt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THEIR TV ROLES THEN & NOW",
+        "value": 200,
+        "question": "Tim Taylor on \"Home Improvement\" &Mike Baxter on \"Last Man Standing\"",
+        "answer": "Tim Allen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"L\"ITERATURE",
+        "value": 400,
+        "question": "The first & longest poem in this collection was given the title \"Song of Myself\"",
+        "answer": "Leaves of Grass",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BARTENDING GLOSSARY",
+        "value": 400,
+        "question": "To make this kind of martini, add olive juice",
+        "answer": "dirty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHERE THE DEVIL?!",
+        "value": 400,
+        "question": "Just wow, this state: Devil's Playground, Hell's Half Acre, Devils Tooth Quadrangle & of course, the big one--Devils Tower",
+        "answer": "Wyoming",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LIFESTYLES",
+        "value": 400,
+        "question": "This food movement considers baking & broiling to be vitamin-destroying madness",
+        "answer": "the raw food movement",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 400,
+        "question": "Type of \"situation\" in which everyone involved benefits",
+        "answer": "win-win",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THEIR TV ROLES THEN & NOW",
+        "value": 400,
+        "question": "Then, Louie De Palma;now, Frank Reynolds on \"It's Always Sunny in Philadelphia\"",
+        "answer": "Danny DeVito",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"L\"ITERATURE",
+        "value": 600,
+        "question": "This great Arthurian knight was dad to the pure Galahad",
+        "answer": "Lancelot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BARTENDING GLOSSARY",
+        "value": 600,
+        "question": "Neapolitan for \"a measure of liquids\" gives us the name of this glass container that holds 2-4 glasses of wine",
+        "answer": "a carafe",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHERE THE DEVIL?!",
+        "value": 600,
+        "question": "We'll \"volunteer\" that Devil's Backbone & Devils Tater Patch are in this state, as well as Mount Evil!",
+        "answer": "Tennessee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LIFESTYLES",
+        "value": 600,
+        "question": "The Anabaptists include Mennonites, Hutterites & these even more conservative buggy riders",
+        "answer": "the Amish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 600,
+        "question": "It was The Mamas & The Papas' only No. 1 hit",
+        "answer": "\"Monday, Monday\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THEIR TV ROLES THEN & NOW",
+        "value": 600,
+        "question": "Alan Shore &Red Reddington",
+        "answer": "James Spader",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"L\"ITERATURE",
+        "value": 800,
+        "question": "Garcia Lorca wrote one of these \"for the Death of a Bullfighter\"",
+        "answer": "a lament",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BARTENDING GLOSSARY",
+        "value": 800,
+        "question": "This bartending tool looks like a little baseball bat & is used to crush fruit & herbs, not confuse patrons",
+        "answer": "a muddler",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHERE THE DEVIL?!",
+        "value": 800,
+        "question": "Hellgate Canyon & Devil's Pocket are way under the big sky in this state",
+        "answer": "Montana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LIFESTYLES",
+        "value": 800,
+        "question": "Retirees enjoy free time, aka this word before \"world\" in a retirement community empire founded in 1961",
+        "answer": "leisure",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 800,
+        "question": "Nickname of former lightweight boxing champ Ray Mancini",
+        "answer": "\"Boom Boom\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THEIR TV ROLES THEN & NOW",
+        "value": 800,
+        "question": "Dr. Sam Beckett on \"Quantum Leap\" &Dwayne Pride on \"NCIS: New Orleans\"",
+        "answer": "Scott Bakula",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"L\"ITERATURE",
+        "value": 1000,
+        "question": "Joe Christmas has an affair with Joanna Burden, kills her & sets her house on fire in this novel by Faulkner",
+        "answer": "Light in August",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BARTENDING GLOSSARY",
+        "value": 1000,
+        "question": "On a champagne label, brut equals this wine term, as the grapes used to make it contained little or no sugar",
+        "answer": "dry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHERE THE DEVIL?!",
+        "value": 1000,
+        "question": "Cross Arizona's northern border into this state & you're not far from Hell's Backbone",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LIFESTYLES",
+        "value": 1000,
+        "question": "Term for long-soloing bands like Widespread Panic whose cult of fans are often literally followers",
+        "answer": "jam bands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DOUBLE TALK",
+        "value": 1000,
+        "question": "Done around 1640, the painting here may be one of the last illustrations made of a live one of these",
+        "answer": "a dodo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THEIR TV ROLES THEN & NOW",
+        "value": 1000,
+        "question": "Grace Adler &working mom/homicide detective Laura Diamond",
+        "answer": "Debra Messing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "13th CENTURY HIGHLIGHTS",
+      "HELENA BONHAM CARTER ROLES",
+      "AMERICAN ARTISTS",
+      "RHYMES WITH A GREAT LAKE",
+      "WHAT A COOL GADGET",
+      "JUST A FEW LITTLE BUGS"
+    ],
+    "clues": [
+      {
+        "category": "13th CENTURY HIGHLIGHTS",
+        "value": 400,
+        "question": "In 1215 Beijing was captured by this nomadic warrior-ruler",
+        "answer": "Genghis Khan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HELENA BONHAM CARTER ROLES",
+        "value": 400,
+        "question": "As Madame Thenardier in this big-screen musical, Helena was partnered with Sacha Baron Cohen",
+        "answer": "Les Misérables",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARTISTS",
+        "value": 400,
+        "question": "This modern American artist was known as the \"Father of the Mobile\"",
+        "answer": "(Alexander) Calder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RHYMES WITH A GREAT LAKE",
+        "value": 400,
+        "question": "Dismal & bleak",
+        "answer": "dreary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COOL GADGET",
+        "value": 400,
+        "question": "Feel like a sorcerer as you change TV channels by waving the Kymera Magic this",
+        "answer": "Wand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "JUST A FEW LITTLE BUGS",
+        "value": 400,
+        "question": "For more than 2,000 years, the Chinese have used the Bombyx mori moth to produce this from its cocoons",
+        "answer": "silk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "13th CENTURY HIGHLIGHTS",
+        "value": 800,
+        "question": "1276 is known as the \"year of the four\" these, & only one of them was Innocent",
+        "answer": "popes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HELENA BONHAM CARTER ROLES",
+        "value": 800,
+        "question": "Helena fell in love with director Tim Burton while playing Ari, member of another species, in this 2001 film",
+        "answer": "Planet of the Apes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARTISTS",
+        "value": 800,
+        "question": "In his \"Nighthawks\", he modeled the 2 male diners on himself & the female diner on his wife",
+        "answer": "(Edward) Hopper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RHYMES WITH A GREAT LAKE",
+        "value": 800,
+        "question": "Happy",
+        "answer": "cheery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COOL GADGET",
+        "value": 800,
+        "question": "Its Aquabeat 2 MP3 player for swimmers has a stopwatch, too; making amends for those skimpy men's swim bottoms?",
+        "answer": "Speedo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "JUST A FEW LITTLE BUGS",
+        "value": 800,
+        "question": "This \"pious\" predator has been known to eat small frogs, mice & hummingbirds, as well as its own",
+        "answer": "a praying mantis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "13th CENTURY HIGHLIGHTS",
+        "value": 1200,
+        "question": "In 1296 the Scottish coronation stone was moved to Westminster from here",
+        "answer": "Scone",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HELENA BONHAM CARTER ROLES",
+        "value": 1200,
+        "question": "In a truly royal performance, Helena played the wife of George VI in this 2010 Oscar winner",
+        "answer": "The King's Speech",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARTISTS",
+        "value": 1200,
+        "question": "Born Robert Kahn in 1915, he took a new professional name as the creator of Batman",
+        "answer": "Bob Kane",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RHYMES WITH A GREAT LAKE",
+        "value": 1200,
+        "question": "Suspicious or distrustful",
+        "answer": "leery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COOL GADGET",
+        "value": 1200,
+        "question": "The Socialmatic camera from this company has a built-in inkless printer & you won't have to shake the photos",
+        "answer": "Polaroid",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "JUST A FEW LITTLE BUGS",
+        "value": 1200,
+        "question": "Nagana, an infectious disease of cattle & horses, is transmitted by the bite of this African fly",
+        "answer": "the tsetse fly",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "13th CENTURY HIGHLIGHTS",
+        "value": 1600,
+        "question": "This patron saint of Italy died in 1226 & was swiftly canonized in 1228",
+        "answer": "Francis of Assisi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HELENA BONHAM CARTER ROLES",
+        "value": 1600,
+        "question": "Helena said her bossy toddler inspired her performance as this creepy monarch in \"Alice in Wonderland\"",
+        "answer": "the Red Queen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARTISTS",
+        "value": 1600,
+        "question": "A critic accused this American of \"flinging a pot of paint in the public's face\" with his 1875 \"Nocturne in Black and Gold\"",
+        "answer": "Whistler",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RHYMES WITH A GREAT LAKE",
+        "value": 1600,
+        "question": "Introductory letter to a potential publisher",
+        "answer": "query",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COOL GADGET",
+        "value": 1600,
+        "question": "The Surge from this rhyming company counts your steps, calories & floors climbed & includes GPS",
+        "answer": "Fitbit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "JUST A FEW LITTLE BUGS",
+        "value": 1600,
+        "question": "(Kelly of the Clue Crew reports from the Madikwe Game Reserve in South Africa.)  African termite mounds, which can be as high as 40 feet, contain intricate systems of ventilation shafts to regulate this, no matter what the weather outside",
+        "answer": "temperature",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "13th CENTURY HIGHLIGHTS",
+        "value": 2000,
+        "question": "In the 1250s a court chaplain founded the Paris School of Theology, which was later named this for him",
+        "answer": "the Sorbonne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HELENA BONHAM CARTER ROLES",
+        "value": 2000,
+        "question": "Helena was devilishly evil as this character in the \"Harry Potter\" films",
+        "answer": "Bellatrix Lestrange",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN ARTISTS",
+        "value": 2000,
+        "question": "His 1885 work \"The Fog Warning\" shows a lone New England fisherman rowing a dory",
+        "answer": "Winslow Homer",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RHYMES WITH A GREAT LAKE",
+        "value": 2000,
+        "question": "6-letter adjective for blurred & unfocused eyes",
+        "answer": "bleary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COOL GADGET",
+        "value": 2000,
+        "question": "A virtual-reality demo for this \"Rift\" device let the user explore the bridge of Voyager from \"Star Trek\"",
+        "answer": "Oculus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "JUST A FEW LITTLE BUGS",
+        "value": 2000,
+        "question": "In the 1920s the tiphia wasp was introduced into the U.S. to control this Asian beetle that was found on our shores in 1916",
+        "answer": "the Japanese beetle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "REFERENCE WORKS",
+    "clue": "Now in its fourth edition, the book with this title first appeared in 1918 as a 43-page guide for Cornell English students",
+    "answer": "The Elements of Style"
+  },
+  "gameId": "7044",
+  "gameDate": "Thursday, April 9, 2015"
+}

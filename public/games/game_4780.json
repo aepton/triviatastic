@@ -1,0 +1,511 @@
+{
+  "title": "Show #6982 - Tuesday, January 13, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "A REAL MYSTERY",
+      "SPORTS TALK",
+      "MINNESOTA",
+      "IT'S A FACT",
+      "SWEET! POTATOES!",
+      "NAME THAT VERB"
+    ],
+    "clues": [
+      {
+        "category": "A REAL MYSTERY",
+        "value": 200,
+        "question": "\"The Thousand-Dollar Tan Line\" is an original mystery novel starring this detective played by Kristen Bell",
+        "answer": "Veronica Mars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TALK",
+        "value": 200,
+        "question": "Oh I do say, sticky wicket is a term that comes from this team sport",
+        "answer": "cricket",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IT'S A FACT",
+        "value": 200,
+        "question": "David Farragut, who won the 1864 Battle of Mobile Bay, was the first American officer to be given the rank of full this",
+        "answer": "admiral",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT VERB",
+        "value": 200,
+        "question": "To put a grade on Mr. Zuckerberg's work",
+        "answer": "mark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "A REAL MYSTERY",
+        "value": 400,
+        "question": "After meeting in a Pullman car, Bruno suggests swapping murders with Guy in this classic, the basis for a Hitchcock film",
+        "answer": "Strangers on a Train",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TALK",
+        "value": 400,
+        "question": "In figure skating a spin executed in the arabesque position is named for this beast of burden",
+        "answer": "camel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MINNESOTA",
+        "value": 400,
+        "question": "When completed, the Gitchi-Gami State Trail will extend nearly 90 miles along this body of water",
+        "answer": "Lake Superior",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IT'S A FACT",
+        "value": 400,
+        "question": "Cerebralgia is medical jargon for one of these, of any type",
+        "answer": "a headache",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT VERB",
+        "value": 400,
+        "question": "To tap gently with the palm to show affection for both Ms. Nixon & Mr. Sajak",
+        "answer": "pat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "A REAL MYSTERY",
+        "value": 600,
+        "question": "The murder in this mystery takes place aboard the Karnak, a small river steamboat",
+        "answer": "Death on the Nile",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TALK",
+        "value": 600,
+        "question": "(Jimmy of the Clue Crew shows an animation on the monitor.)  In bowling, try to get your ball in this area, between the 1 & 2 or 1 & 3 pin to get a strike",
+        "answer": "the pocket",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MINNESOTA",
+        "value": 600,
+        "question": "Minnesota's U.S. senators are Amy Klobuchar & him",
+        "answer": "Al Franken",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IT'S A FACT",
+        "value": 600,
+        "question": "The bowhead type of this animal has been known to live over 200 years",
+        "answer": "a whale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SWEET! POTATOES!",
+        "value": 600,
+        "question": "Ore-Ida invented these alliterative potato bites that are \"crunchy outside and fluffy inside\"",
+        "answer": "Tater Tots",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NAME THAT VERB",
+        "value": 600,
+        "question": "To savagely criticize Mr. Torn",
+        "answer": "rip",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "A REAL MYSTERY",
+        "value": 800,
+        "question": "It's Dickens' only true mystery; the end of the work & the solution are a mystery that went to the grave with the author",
+        "answer": "The Mystery of Edwin Drood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TALK",
+        "value": 800,
+        "question": "At the first Winter Olympics in 1924, the Brits swept up in this sport",
+        "answer": "curling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MINNESOTA",
+        "value": 800,
+        "question": "This colorful vegetable canning company was founded in 1903 in Le Sueur",
+        "answer": "Green Giant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IT'S A FACT",
+        "value": 800,
+        "question": "To get you into this 5-letter organization of smarties, your IQ has to be in the top 2% of the population",
+        "answer": "Mensa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SWEET! POTATOES!",
+        "value": 800,
+        "question": "A potato plant's edible underground stem is one of these, from Latin for \"swelling\"",
+        "answer": "a tuber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NAME THAT VERB",
+        "value": 800,
+        "question": "To tire out TV commentator Mr. Carlson",
+        "answer": "tucker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "A REAL MYSTERY",
+        "value": 1000,
+        "question": "The manuscript of a novel called \"Bombyx Mori\" is at the heart of this second mystery by Robert Galbraith",
+        "answer": "The Silkworm",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TALK",
+        "value": 1000,
+        "question": "Who's there?  Oh, it's this notch at the end of an archer's arrow, into which the bowstring fits",
+        "answer": "the nock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MINNESOTA",
+        "value": 1000,
+        "question": "The Mesabi Range helps Minnesota lead the nation in the production of this ore",
+        "answer": "iron ore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IT'S A FACT",
+        "value": 1000,
+        "question": "In 1997 legislation was passed in this state allowing astronauts to vote from outer space",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SWEET! POTATOES!",
+        "value": 1000,
+        "question": "Potatoes are a good source of vitamin B3, aka this, which helps prevent the nutritional disease pellagra",
+        "answer": "niacin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NAME THAT VERB",
+        "value": 1000,
+        "question": "To supply Mr. Nichols with vocal amplification",
+        "answer": "mike",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BRR, BABY, BRR",
+      "OUT, -LET",
+      "CLASSICAL MUSICIANS",
+      "1910",
+      "I'M \"N\"TITLED!",
+      "KNOW YOUR KNOT"
+    ],
+    "clues": [
+      {
+        "category": "BRR, BABY, BRR",
+        "value": 400,
+        "question": "Florida's record low is a brisk -2 Fahrenheit recorded in 1899 in this state capital",
+        "answer": "Tallahassee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OUT, -LET",
+        "value": 400,
+        "question": "A tragic son of Gertrude becomes a meat",
+        "answer": "hamlet & ham",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CLASSICAL MUSICIANS",
+        "value": 400,
+        "question": "Theodore Dubois succeeded 2 great composers in this job, Cesar Franck at one church & Camille Saint-Saens at another",
+        "answer": "organist",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "1910",
+        "value": 400,
+        "question": "Inventor Georges Claude demonstrated the first light using this gas",
+        "answer": "neon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I'M \"N\"TITLED!",
+        "value": 400,
+        "question": "Megan Hilty took on Dolly Parton's role when this musical worked its way to Broadway in 2009",
+        "answer": "9 to 5",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "KNOW YOUR KNOT",
+        "value": 400,
+        "question": "When children are taught to tie a shoelace knot, they are often told to make this furry animal's ears to tie it",
+        "answer": "a rabbit (or bunny)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BRR, BABY, BRR",
+        "value": 800,
+        "question": "This continent's record low, -23 Celsius, was recorded in the Snowy Mountains on June 29, 1994",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OUT, -LET",
+        "value": 800,
+        "question": "A portion of veal turns into one share of the loot",
+        "answer": "cutlet & cut",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CLASSICAL MUSICIANS",
+        "value": 800,
+        "question": "This \"Father of the Classical Guitar\" kept giving concerts past his 90th birthday in 1983",
+        "answer": "Andrés Segovia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "1910",
+        "value": 800,
+        "question": "Boutros Ghali, the first native-born prime minister of this country, was assassinated",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I'M \"N\"TITLED!",
+        "value": 800,
+        "question": "Though he lost the Oscar, Bruce Dern did win best actor at the Cannes Film Festival for this 2013 film",
+        "answer": "Nebraska",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "KNOW YOUR KNOT",
+        "value": 800,
+        "question": "A fisherman's bend is also called this bend because it secures a rope to the ring of the weight it's named for on a ship",
+        "answer": "an anchor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BRR, BABY, BRR",
+        "value": 1200,
+        "question": "Hawaii is the only state that's never dropped below zero degrees F., though it has gotten down to 12 F. atop this peak",
+        "answer": "Mauna Kea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OUT, -LET",
+        "value": 1200,
+        "question": "Lose the \"let\" in a blood component & you're left with a kitchen item",
+        "answer": "platelet & plate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "1910",
+        "value": 1200,
+        "question": "In 1910 he completed the work seen here",
+        "answer": "Henri Matisse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I'M \"N\"TITLED!",
+        "value": 1200,
+        "question": "The ACN gang covered a bombing on the 2014 premiere episode of this drama's third & final season",
+        "answer": "The Newsroom",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "KNOW YOUR KNOT",
+        "value": 1200,
+        "question": "This knot is \"relatively\" easy to make, as it's often the result of an improperly tied square knot",
+        "answer": "a granny knot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BRR, BABY, BRR",
+        "value": 1600,
+        "question": "This New England state's record low of -50 F. was recorded in Aroostook County on January 16, 2009",
+        "answer": "Maine",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OUT, -LET",
+        "value": 1600,
+        "question": "Subtract \"let\" from a term for 2 lines of poetry & you get a type of overthrow",
+        "answer": "couplet & coup",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "1910",
+        "value": 1600,
+        "question": "Racial violence resulted from this boxer's July 4 whupping of former champ James Jeffries",
+        "answer": "Jack Johnson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I'M \"N\"TITLED!",
+        "value": 1600,
+        "question": "Liam Neeson sprang to action as an air marshal on a hijacked plane in this 2014 thriller",
+        "answer": "Non-Stop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "KNOW YOUR KNOT",
+        "value": 1600,
+        "question": "Types of this knot used to tie a rope to an object include cow, rolling & clove",
+        "answer": "a hitch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BRR, BABY, BRR",
+        "value": 2000,
+        "question": "The Tannenbaums were shivering by the Funtensee as this country hit its record low of -45.9 Celsius at Christmas 2001",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OUT, -LET",
+        "value": 2000,
+        "question": "A mattress of straw becomes a friend",
+        "answer": "pallet & pal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "I'M \"N\"TITLED!",
+        "value": 2000,
+        "question": "Title of Marsha Norman's 1983 prize-winning play, or something you might say before heading off to bed",
+        "answer": "'night, Mother",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "KNOW YOUR KNOT",
+        "value": 2000,
+        "question": "The name of this knot used to shorten a rope without cutting it calls to mind a certain animal's leg",
+        "answer": "a sheepshank",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BROADWAY MUSICALS",
+    "clue": "\"Iowa Stubborn\" was the second song heard in this show when it opened on Broadway in 1957",
+    "answer": "The Music Man"
+  },
+  "gameId": "6982",
+  "gameDate": "Tuesday, January 13, 2015"
+}

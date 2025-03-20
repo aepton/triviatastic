@@ -1,0 +1,565 @@
+{
+  "title": "Show #1652 - Tuesday, November 5, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "GEOLOGY",
+      "FEMALE FIRSTS",
+      "SPORTS",
+      "SHEEP POTPOURRI",
+      "1970",
+      "WHAT'S THE PITCH?"
+    ],
+    "clues": [
+      {
+        "category": "GEOLOGY",
+        "value": 100,
+        "question": "Derived from Latin meaning \"dug up\", it's the remains of a plant or animal preserved in rock",
+        "answer": "fossil",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FEMALE FIRSTS",
+        "value": 100,
+        "question": "In 1976 she became the first Romanian to win an Olympic gold medal in gymnastics",
+        "answer": "Nadia Comaneci",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "This Los Angeles Kings hockey player is known as \"The Great One\"",
+        "answer": "Wayne Gretzky",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHEEP POTPOURRI",
+        "value": 100,
+        "question": "In this country sheep ranchers are called graziers & they operate sheep stations",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "1970",
+        "value": 100,
+        "question": "Between May & July, this man & a small crew crossed the Atlantic in a reed boat, the Ra II",
+        "answer": "Thor Heyerdahl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S THE PITCH?",
+        "value": 100,
+        "question": "\"The milk chocolate melts in your mouth — not in your hand\"",
+        "answer": "M&M's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 200,
+        "question": "A fracture in the earth along which the sides are displaced; the San Andreas is a dramatic example",
+        "answer": "a fault",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FEMALE FIRSTS",
+        "value": 200,
+        "question": "Anna Mae Hays & Elizabeth Hoisington were the first two women to achieve this Army rank",
+        "answer": "general",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "It's the only NFL team that currently plays its home games in New York state",
+        "answer": "Buffalo (Bills)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHEEP POTPOURRI",
+        "value": 200,
+        "question": "Nickname for a college diploma",
+        "answer": "a sheepskin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "1970",
+        "value": 200,
+        "question": "Dr. Roger Payne & his wife released recordings they made of these animals \"singing\"",
+        "answer": "whales",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S THE PITCH?",
+        "value": 200,
+        "question": "\"It's not done 'til it's done with\" this steak sauce",
+        "answer": "A.1.",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 300,
+        "question": "It's the shallow body of water enclosed within an atoll",
+        "answer": "a lagoon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FEMALE FIRSTS",
+        "value": 600,
+        "question": "She founded the Opera Company of Boston in 1957 & in 1976 became the first woman to conduct at the Met",
+        "answer": "Sarah Caldwell",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "This \"sweet\" fighter won the world middleweight boxing title a record 5 times from 1951-1958",
+        "answer": "(\"Sugar Ray\") Robinson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHEEP POTPOURRI",
+        "value": 300,
+        "question": "In \"Little Boy Blue\", it's where the sheep is",
+        "answer": "the meadow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "1970",
+        "value": 300,
+        "question": "Leonard Woodcock was elected to head this union May 22, 1970",
+        "answer": "the UAW (United Auto Workers)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S THE PITCH?",
+        "value": 300,
+        "question": "\"You'll wonder where the yellow went when you brush your teeth with\" this product",
+        "answer": "Pepsodent",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 400,
+        "question": "This \"powdery\" mineral is number 1 on the Mohs scale of hardness",
+        "answer": "talc",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FEMALE FIRSTS",
+        "value": 400,
+        "question": "This author & wife of Time magazine's founder was the USA's first female ambassador to Italy",
+        "answer": "Clare Boothe Luce",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "In 1930 he became the first & only man to sweep golf's four Grand Slam tournaments",
+        "answer": "Bobby Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHEEP POTPOURRI",
+        "value": 400,
+        "question": "It's a knot for shortening a rope",
+        "answer": "a sheepshank",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "1970",
+        "value": 400,
+        "question": "This magazine based on one that began at Harvard debuted",
+        "answer": "National Lampoon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S THE PITCH?",
+        "value": 400,
+        "question": "\"Sometimes you feel like a nut, sometimes you don't\" refers to these two candy bars by Peter Paul",
+        "answer": "Mounds & Almond Joy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEOLOGY",
+        "value": 500,
+        "question": "Longer than an era, this is the longest geological time unit",
+        "answer": "an eon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FEMALE FIRSTS",
+        "value": 500,
+        "question": "Under FDR, Frances Perkins became the first female cabinet member, heading this department",
+        "answer": "the Department of Labor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "In 1964 & 1965 The Sporting News named this future senator College Player of the Year in basketball",
+        "answer": "Bill Bradley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "1970",
+        "value": 500,
+        "question": "It was observed nationwide for the first time April 22, 1970",
+        "answer": "Earth Day",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WHAT'S THE PITCH?",
+        "value": 500,
+        "question": "\"Hasn't scratched yet\"",
+        "answer": "Bon Ami",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FLANDERS",
+      "NONFICTION",
+      "TRANSPORTATION",
+      "CLASSICAL MUSIC",
+      "AMERICAN HISTORY",
+      "THE BRAIN"
+    ],
+    "clues": [
+      {
+        "category": "FLANDERS",
+        "value": 200,
+        "question": "A Bouvier des Flandres is a working type of this animal",
+        "answer": "a dog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NONFICTION",
+        "value": 200,
+        "question": "\"The Exploration of Space\" is one of several nonfiction works by this \"2001\" author",
+        "answer": "(Arthur) Clarke",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "For mountain touring, many people prefer this vehicle to have 18 or 21 speeds",
+        "answer": "a bicycle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "His Piano Concerto No. 18, K. 456, was written for Viennese virtuoso Maria Theresia von Paradis",
+        "answer": "Mozart",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 200,
+        "question": "\"Bleeding Kansas\" was so named because of violence over this issue in the 1850s",
+        "answer": "slavery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE BRAIN",
+        "value": 200,
+        "question": "Though the brain is only 2% of human body weight, it uses up to 25% of this in the blood",
+        "answer": "oxygen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FLANDERS",
+        "value": 400,
+        "question": "Occupation by the Germans in World War II led to a major evacuation from this port",
+        "answer": "Dunkirk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NONFICTION",
+        "value": 400,
+        "question": "Vincent Bugliosi took the title of this 1974 book about the Manson murders from a Beatles song",
+        "answer": "\"Helter Skelter\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "One of man's earliest boats was this type of canoe made by hollowing out a log",
+        "answer": "a dugout",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "This Spaniard who gave his first concert in Granada in 1909 arranged Bach & Haydn for the guitar",
+        "answer": "Segovia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "He obtained a charter to establish Georgia in 1732 & founded Savannah a year later",
+        "answer": "(James) Oglethorpe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE BRAIN",
+        "value": 400,
+        "question": "In 1929 Hans Berger first recorded these on paper",
+        "answer": "brain waves",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FLANDERS",
+        "value": 600,
+        "question": "A chief textile production center in the 15th century, it was the site of a treaty signing in 1814",
+        "answer": "Ghent",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NONFICTION",
+        "value": 600,
+        "question": "Barbara Tuchman won a 1963 Pulitzer Prize for \"The Guns of August\", a history of this war's 1st month",
+        "answer": "World War I",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 600,
+        "question": "In 1990 this cruise line founded by a British shipowner celebrated its 150th anniversary",
+        "answer": "the Cunard Line",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 600,
+        "question": "This Hungarian wrote two program symphonies based on literature, \"Faust\" & \"Dante\"",
+        "answer": "Liszt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 600,
+        "question": "This 1848 treaty ending the Mexican-American War added over 500,000 square miles to U.S. territory",
+        "answer": "the Treaty of Guadalupe Hidalgo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE BRAIN",
+        "value": 600,
+        "question": "The longitudinal fissure is the deep groove that separates the hemispheres of this part of the brain",
+        "answer": "the cerebrum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FLANDERS",
+        "value": 800,
+        "question": "John McCrae wrote, \"In Flanders Fields\" these \"blow between the crosses, row on row\"",
+        "answer": "poppies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NONFICTION",
+        "value": 800,
+        "question": "In \"Chutzpah\", this lawyer best known for his defense of Claus von Bulow discusses the plight of Jews",
+        "answer": "(Alan) Dershowitz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "In August 1991 this French automaker of the 405 Series said it will quit selling cars in the U.S.",
+        "answer": "Peugeot",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "He wrote his \"A Midsummer Night's Dream\" overture before he was 18",
+        "answer": "Mendelssohn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 800,
+        "question": "This Shawnee chief & his brother, the Prophet, were both defeated in battles by William Henry Harrison",
+        "answer": "Tecumseh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE BRAIN",
+        "value": 800,
+        "question": "There are over 10 billion of these cells in the brain, each part of the brain having its own type",
+        "answer": "neurons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FLANDERS",
+        "value": 1000,
+        "question": "This city famous for its bridges is the capital of the West Flanders province",
+        "answer": "Bruges",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NONFICTION",
+        "value": 1000,
+        "question": "A journal kept by this British adventurer & soldier was published in 1955 as \"The Mint\"",
+        "answer": "T.E. Lawrence (Lawrence of Arabia)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1000,
+        "question": "Japan's Hosho, launched in 1922, was the first warship designed specifically for this use",
+        "answer": "launching airplanes (aircraft carrier)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 2000,
+        "question": "\"Gloriana\", which he wrote for Elizabeth II's coronation, was about Elizabeth I & Essex",
+        "answer": "Benjamin Britten",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 2000,
+        "question": "On Dec. 4, 1783 George Washington bade his officers farewell at this New York City tavern",
+        "answer": "Fraunces Tavern",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE BRAIN",
+        "value": 1000,
+        "question": "Descartes called this gland \"the seat of the rational soul\"; scientists still aren't sure what it does",
+        "answer": "the pineal gland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD LEADERS",
+    "clue": "He died in 1965 & was buried in St. Martin's churchyard near the palace where he was born in 1874",
+    "answer": "Winston Churchill"
+  },
+  "gameId": "1652",
+  "gameDate": "Tuesday, November 5, 1991"
+}

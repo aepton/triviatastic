@@ -1,0 +1,574 @@
+{
+  "title": "Show #4064 - Thursday, April 11, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "BOOKS ABOUT PRESIDENTS",
+      "ROCK & ROLL CINEMA",
+      "THE \"WEST\" IS THE BEST",
+      "BREAKFAST",
+      "LAUNCH",
+      "DINAR"
+    ],
+    "clues": [
+      {
+        "category": "BOOKS ABOUT PRESIDENTS",
+        "value": 200,
+        "question": "\"T.R.: The Last Romantic\"",
+        "answer": "Teddy Roosevelt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ROCK & ROLL CINEMA",
+        "value": 200,
+        "question": "\"The Rose\" with Bette Midler was loosely based on the life of this rocker",
+        "answer": "Janis Joplin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE \"WEST\" IS THE BEST",
+        "value": 200,
+        "question": "All Don Knotts' greatness lay ahead of him when he was born July 21, 1924 in Morgantown in this state",
+        "answer": "West Virginia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BREAKFAST",
+        "value": 200,
+        "question": "This singer's name is on a line of \"Fresh taste. Fast!\" precooked sausage links and patties",
+        "answer": "Jimmy Dean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LAUNCH",
+        "value": 200,
+        "question": "To find the new clothing line this singer launched in October 2001, look J-Hi & J-Lo",
+        "answer": "Jennifer Lopez",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DINAR",
+        "value": 200,
+        "question": "Kuwaitis don't have to shell out their dinars for medical care; profits from this export make it free for all",
+        "answer": "oil",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT PRESIDENTS",
+        "value": 400,
+        "question": "\"A Thousand Days\"",
+        "answer": "JFK",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ROCK & ROLL CINEMA",
+        "value": 400,
+        "question": "\"We Will Rock You\" is the title of the 1983 film about this band's live concert in Montreal, Canada",
+        "answer": "Queen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE \"WEST\" IS THE BEST",
+        "value": 400,
+        "question": "Jim & Artie's most diabolical for on this TV show was the evil Dr. Loveless, played by Michael Dunn",
+        "answer": "Wild Wild West",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BREAKFAST",
+        "value": 400,
+        "question": "\"The Audrey Hepburn Story\" starring Jennifer Love Hewitt starts off during the filming of this movie",
+        "answer": "Breakfast at Tiffany's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LAUNCH",
+        "value": 400,
+        "question": "The teen version of this magazine launched in 1999 dropped the \"politan\" for \"girl\"",
+        "answer": "Cosmopolitan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DINAR",
+        "value": 400,
+        "question": "To buy a sedan chair in this capital of Sudan, you can use dinars or the old Sudanese pound",
+        "answer": "Khartoum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT PRESIDENTS",
+        "value": 600,
+        "question": "\"Lone Star Rising\"",
+        "answer": "Lyndon Johnson",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ROCK & ROLL CINEMA",
+        "value": 600,
+        "question": "A high school boy gets a chance to tag along with an up & coming rock band in this 2000 film directed by Cameron Crowe",
+        "answer": "Almost Famous",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE \"WEST\" IS THE BEST",
+        "value": 600,
+        "question": "It's the southernmost city in the 48 contiguous states",
+        "answer": "Key West, Florida",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BREAKFAST",
+        "value": 600,
+        "question": "Herb Peterson developed this famous fast food breakfast item introduced in 1973",
+        "answer": "the Egg McMuffin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LAUNCH",
+        "value": 600,
+        "question": "To help with the launch of the new sitcom, CBS had her host the 2001 Emmys",
+        "answer": "Ellen DeGeneres",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DINAR",
+        "value": 600,
+        "question": "To tip at resorts on the shores of Tripoli in this African country, use dinars",
+        "answer": "Libya",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT PRESIDENTS",
+        "value": 800,
+        "question": "\"The Final Days\" (1976)",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ROCK & ROLL CINEMA",
+        "value": 800,
+        "question": "As the cross-dressing Dr. Frank N. Furter in \"The Rocky Horror Picture Show\", he led the frivolities",
+        "answer": "Tim Curry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE \"WEST\" IS THE BEST",
+        "value": 800,
+        "question": "This large territory would make up the majority of a proposed Palestinian state",
+        "answer": "the West Bank",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BREAKFAST",
+        "value": 800,
+        "question": "Superstition says foam on your tea or coffee, like an itchy palm, means you're going to get this",
+        "answer": "money",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LAUNCH",
+        "value": 800,
+        "question": "2001 saw the launch of Rockstarbaby, an infant wear line from Tico Torres, this group's drummer",
+        "answer": "Bon Jovi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DINAR",
+        "value": 800,
+        "question": "Use dinars to buy a Dido record in this modern country where Carthage was once ruled by a Queen Dido",
+        "answer": "Tunisia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BOOKS ABOUT PRESIDENTS",
+        "value": 1000,
+        "question": "\"The Final Days\" (2001)",
+        "answer": "Bill Clinton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ROCK & ROLL CINEMA",
+        "value": 1000,
+        "question": "This Oscar-winning actor wrote or co-wrote many of the songs in the retro '60s movie \"That Thing You Do\"",
+        "answer": "Tom Hanks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE \"WEST\" IS THE BEST",
+        "value": 1000,
+        "question": "Paul Baumer is the literary narrator of this classic novel of World War I",
+        "answer": "All Quiet on the Western Front",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BREAKFAST",
+        "value": 1000,
+        "question": "Before W.K. Kellogg, C.W. Post was making breakfast cereals in this city",
+        "answer": "Battle Creek, Michigan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LAUNCH",
+        "value": 1000,
+        "question": "In fall 2001 this satellite radio service offering drivers an alternative to AM & FM was launched",
+        "answer": "XM",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DINAR",
+        "value": 1000,
+        "question": "The dinar is the money you'll use in Manama, the capital of this former British protectorate off Saudi Arabia",
+        "answer": "Bahrain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORY",
+      "GIVE ME SOME CAVIAR!",
+      "BRIT LIT",
+      "HYPHENATED-AMERICANS",
+      "WORLD OF WEATHER",
+      "FILE UNDER \"G\""
+    ],
+    "clues": [
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "This canal linking the Great Lakes to the Atlantic was opened in 1825",
+        "answer": "the Erie Canal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GIVE ME SOME CAVIAR!",
+        "value": 400,
+        "question": "(Cheryl will give the clue.) There are two classic beverages to serve with caviar: champagne, & this type of liquor, which should be iced",
+        "answer": "vodka",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BRIT LIT",
+        "value": 400,
+        "question": "In Pope's \"The Rape of the Lock\", \"rape\" means abduction & the lock is a lock of this",
+        "answer": "hair",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HYPHENATED-AMERICANS",
+        "value": 400,
+        "question": "In 1976 Charlie's Original Angels were Jaclyn Smith, Kate Jackson & this then-hyphenated actress",
+        "answer": "Farrah Fawcett-Majors",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD OF WEATHER",
+        "value": 400,
+        "question": "Americans grouse about cold winds from Canada; Bulgarians, about cold winds from this even larger country",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"G\"",
+        "value": 400,
+        "question": "Full coverage of a trial goes from this to this",
+        "answer": "gavel to gavel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "When the first Portuguese ships arrived in China in 1514 they came face-to-vase with this ruling dynasty",
+        "answer": "the Ming",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GIVE ME SOME CAVIAR!",
+        "value": 800,
+        "question": "If you want to emulate this author who created 007, try some Osetra caviar-- he adored it",
+        "answer": "Ian Fleming",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BRIT LIT",
+        "value": 800,
+        "question": "This disappearing feline in \"Alice's Adventures in Wonderland\" tells Alice that \"We're all mad here\"",
+        "answer": "the Cheshire cat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HYPHENATED-AMERICANS",
+        "value": 800,
+        "question": "In 1986 she married Bob Kersee & gave up basketball to focus on the heptathlon",
+        "answer": "Jackie Joyner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD OF WEATHER",
+        "value": 800,
+        "question": "Due to wind and currect patterns these, like the Namib & Sonoran, are often found on the west coast of a continent",
+        "answer": "the deserts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"G\"",
+        "value": 800,
+        "question": "(Sofia gives the clue at the feet of Jimmy.)  Please get that I'm doing this!  Please!  I promise I'll never do it again!  Please!",
+        "answer": "grovel(ing)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 1200,
+        "question": "Lord Byron donated his money & his time to help this country stave off the evil Ottoman empire",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GIVE ME SOME CAVIAR!",
+        "value": 1200,
+        "question": "MMM! Beluga caviar comes from the beluga type of this fish",
+        "answer": "a sturgeon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BRIT LIT",
+        "value": 1200,
+        "question": "In George Orwell's \"1984\", it's the official language of Oceania",
+        "answer": "Newspeak",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HYPHENATED-AMERICANS",
+        "value": 1200,
+        "question": "Bridgette Wilson of \"Billy Madison\" married a tennis star & became this actress in \"The Wedding Planner\"",
+        "answer": "Bridgette Wilson-Sampras",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD OF WEATHER",
+        "value": 1200,
+        "question": "Ocean waters give this state Australia's most moderate climate",
+        "answer": "Tasmania",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"G\"",
+        "value": 1200,
+        "question": "Last name of the football player known as \"The Galloping Ghost\"",
+        "answer": "Red Grange",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 1600,
+        "question": "This tall son of Pepin the Short (he must have taken after his mother) took over the empire in 771",
+        "answer": "Charlemagne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GIVE ME SOME CAVIAR!",
+        "value": 1600,
+        "question": "(Cheryl gives the clue.) Most gourmets agree that the world's best caviar comes from this sea, bordered by Iran",
+        "answer": "the Caspian Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BRIT LIT",
+        "value": 1600,
+        "question": "Robin Hood & Friar Tuck are among the many characters in this 1819 Sir Walter Scott novel",
+        "answer": "Ivanhoe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HYPHENATED-AMERICANS",
+        "value": 1600,
+        "question": "Before marrying Harry Thomason, she wrote the classic \"M*A*S*H\" episode \"Hot Lips and Empty Arms\"",
+        "answer": "Linda Bloodworth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD OF WEATHER",
+        "value": 1600,
+        "question": "A 2-word weather event in a European capital, or a brand of raincoat",
+        "answer": "London Fog",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"G\"",
+        "value": 1600,
+        "question": "It's the elastic protein substance in wheat flour that holds the dough together",
+        "answer": "gluten",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 2000,
+        "question": "In the 1600s this country had mastered the seas with the world's largest fleet, an aid to its East India Company",
+        "answer": "Holland (the Netherlands)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GIVE ME SOME CAVIAR!",
+        "value": 2000,
+        "question": "Sterling silver gives caviar a metalic taste; use a spoon made of this, also called nacre, instead",
+        "answer": "mother-of-pearl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BRIT LIT",
+        "value": 2000,
+        "question": "G.K. Chesterton is remembered for creating this mild-mannered priest & detective",
+        "answer": "Father Brown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HYPHENATED-AMERICANS",
+        "value": 2000,
+        "question": "He played Larry, Balki's American cousin on \"Perfect Strangers\"",
+        "answer": "Mark Linn-Baker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD OF WEATHER",
+        "value": 2000,
+        "question": "Ah, Contessa! Is it your look that inflames me? The purfumes of your Italian villa? Or this hot, moist wind from Africa?",
+        "answer": "a Sirocco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FILE UNDER \"G\"",
+        "value": 2000,
+        "question": "This moon orbits Jupiter every 7.15 Earth days",
+        "answer": "Ganymede",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE NFL",
+    "clue": "They're the only 2 NFL teams to currently share a home stadium",
+    "answer": "the New York Jets & the New York Giants"
+  },
+  "gameId": "4064",
+  "gameDate": "Thursday, April 11, 2002"
+}

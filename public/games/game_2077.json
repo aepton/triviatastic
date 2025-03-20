@@ -1,0 +1,574 @@
+{
+  "title": "Show #3606 - Monday, April 17, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "'ROUND THE WORLD",
+      "HIGH SCHOOL TV",
+      "BEASTLY COMMON BONDS",
+      "FILE UNDER \"B\"",
+      "STATE OF THE UNION",
+      "A DRESS"
+    ],
+    "clues": [
+      {
+        "category": "'ROUND THE WORLD",
+        "value": 100,
+        "question": "The Sam McGuire Football Cup is awarded to a league champion in this island country",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HIGH SCHOOL TV",
+        "value": 100,
+        "question": "John Travolta & Gabe Kaplan starred in this series about a classroom of remedial students",
+        "answer": "Welcome Back, Kotter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY COMMON BONDS",
+        "value": 100,
+        "question": "Bufflehead,eider,teal",
+        "answer": "Ducks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FILE UNDER \"B\"",
+        "value": 100,
+        "question": "It's a British bottom or an American tramp",
+        "answer": "Bum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 100,
+        "question": "You'll find the USA's tallest building in this state",
+        "answer": "Illinois (Sears Tower)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "A DRESS",
+        "value": 100,
+        "question": "This diminuitive dress style seen here was introduced by Mary Quant in the 1960s:",
+        "answer": "Mini dress/skirt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "'ROUND THE WORLD",
+        "value": 200,
+        "question": "Even at 5.4 million square miles, it's the world's smallest ocean",
+        "answer": "Arctic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HIGH SCHOOL TV",
+        "value": 200,
+        "question": "Robin Givens & Howard Hesseman were featured in this series about a classroom of honors students",
+        "answer": "Head of the Class",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY COMMON BONDS",
+        "value": 200,
+        "question": "Bushmaster,coral,hognose",
+        "answer": "Snakes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FILE UNDER \"B\"",
+        "value": 200,
+        "question": "A chance spectator; one may be innocent",
+        "answer": "Bystander",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 200,
+        "question": "More breakfast cereal is produced in this state's city of Battle Creek than any other place on Earth",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "A DRESS",
+        "value": 200,
+        "question": "Often used as a dressing robe, it's the Asian style of dress seen here:",
+        "answer": "Kimono",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "'ROUND THE WORLD",
+        "value": 300,
+        "question": "A manufacturing powerhouse since the Industrial Revolution, this city is England's 2nd largest in population",
+        "answer": "Birmingham",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HIGH SCHOOL TV",
+        "value": 300,
+        "question": "You might want to hang with this title high school teacher played by Mark Curry",
+        "answer": "Mr. Cooper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY COMMON BONDS",
+        "value": 300,
+        "question": "Tucuxi,bottle-nosed,spinner",
+        "answer": "Dolphins",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FILE UNDER \"B\"",
+        "value": 300,
+        "question": "The Royal Sonesta Hotel in New Orleans has a webcam aimed at this famous street",
+        "answer": "Bourbon Street",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 300,
+        "question": "The light bulb & the phonograph were invented in this state",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "A DRESS",
+        "value": 300,
+        "question": "\"Canine\" favorite of the 1950s seen here:",
+        "answer": "Poodle skirt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "'ROUND THE WORLD",
+        "value": 400,
+        "question": "Of Brazil, India or Australia, the one that's largest in area",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HIGH SCHOOL TV",
+        "value": 800,
+        "question": "This series that debuted in the '70s was set in the '50s & featured students of Jefferson High",
+        "answer": "Happy Days",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY COMMON BONDS",
+        "value": 400,
+        "question": "White-tailed,harpy,golden",
+        "answer": "Eagles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FILE UNDER \"B\"",
+        "value": 400,
+        "question": "Sport seen here as it looked way back in 1932:(Winter Olympics mainstay)",
+        "answer": "Bobsledding",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 400,
+        "question": "This state's \"Crater of Diamonds\" near Murfreesboro is the only diamond mine in the U.S.",
+        "answer": "Arkansas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "A DRESS",
+        "value": 400,
+        "question": "Don't apologize, it's the popular Hindu style of garment seen here:",
+        "answer": "Sari",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "'ROUND THE WORLD",
+        "value": 500,
+        "question": "You'll find the Dolomite Alps rising to nearly 11,000 feet in this European country",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HIGH SCHOOL TV",
+        "value": 500,
+        "question": "In 1952 Wally Cox was this title science teacher",
+        "answer": "Mister Peepers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY COMMON BONDS",
+        "value": 500,
+        "question": "Harbor,northern fur,bearded",
+        "answer": "Seals",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FILE UNDER \"B\"",
+        "value": 500,
+        "question": "From the Latin for \"projecting\", it's a rich silk cloth with a raised pattern in gold or silver",
+        "answer": "Brocade",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 500,
+        "question": "This state gets fewer inches of rain each year than any other",
+        "answer": "Nevada",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "A DRESS",
+        "value": 500,
+        "question": "This term for the dress seen here could also apply to its Roaring '20s wearers:",
+        "answer": "Flapper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POETS &  POETRY",
+      "WORD ORIGINS",
+      "FILL IN THE BIBLICAL BLANK",
+      "\"IN\" THE MOVIES",
+      "YOU DO THE MATH",
+      "ROYAL WOMEN"
+    ],
+    "clues": [
+      {
+        "category": "POETS &  POETRY",
+        "value": 200,
+        "question": "\"The Coming of Arthur\" & \"Gareth and Lynette\" are parts of his \"Idylls of the King\"",
+        "answer": "Alfred Lord Tennyson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 200,
+        "question": "This nickname for a potato comes from the sharp spade used to dig it up",
+        "answer": "Spud",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BIBLICAL BLANK",
+        "value": 200,
+        "question": "Isaiah 53:7 -- \"He is brought as a lamb to the ____\"",
+        "answer": "Slaughter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"IN\" THE MOVIES",
+        "value": 200,
+        "question": "This 1996 blockbuster showed humanity fighting for freedom from enslaving aliens on July 4",
+        "answer": "Independence Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 200,
+        "question": "The number of loaves in a baker's dozen plus the number of months in a year",
+        "answer": "25 (13 + 12)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ROYAL WOMEN",
+        "value": 200,
+        "question": "As a princess, Queen Margrethe II of Denmark studied philosophy at this Danish capital's university",
+        "answer": "Copenhagen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POETS &  POETRY",
+        "value": 400,
+        "question": "This romantic poet's name gave us an adjective for the type of hero he created -- a brooding young man",
+        "answer": "Lord Byron",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "Meaning \"light bringer\", it refers to Venus when appearing as the morning star, or to Satan",
+        "answer": "Lucifer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BIBLICAL BLANK",
+        "value": 400,
+        "question": "1 John 4:8 -- \"He that loveth not knoweth not God; for God is ____\"",
+        "answer": "Love",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"IN\" THE MOVIES",
+        "value": 400,
+        "question": "A skyscraper burns, baby, burns in this all-star 1974 disaster flick",
+        "answer": "The Towering Inferno",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 400,
+        "question": "The traditional number of wise men of the East times the number of Ali Baba's thieves",
+        "answer": "120 (3 x 40)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ROYAL WOMEN",
+        "value": 400,
+        "question": "She doesn't look amused in the portrait seen here:",
+        "answer": "Queen Victoria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POETS &  POETRY",
+        "value": 600,
+        "question": "\"Resolution and Independence\" is found in this lake poet's 1807 \"Poems in Two Volumes\"",
+        "answer": "William Wordsworth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 600,
+        "question": "From Latin for \"cuttlefish\", it's the brown color of the cuttlefish ink once used to make a brown dye",
+        "answer": "Sepia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BIBLICAL BLANK",
+        "value": 600,
+        "question": "Genesis 4:15 -- \"And the Lord set a mark upon ____\"",
+        "answer": "Cain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"IN\" THE MOVIES",
+        "value": 600,
+        "question": "Miniaturized Navy test pilot Dennis Quaid is accidentally injected into Martin Short in this 1987 comedy",
+        "answer": "Innerspace",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 600,
+        "question": "Number of \"Days of Christmas\" in the carol divided by its number of French hens",
+        "answer": "4 (12/3)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ROYAL WOMEN",
+        "value": 600,
+        "question": "Queen Liliuokalani was born in 1838 in what is now this state capital",
+        "answer": "Honolulu",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POETS &  POETRY",
+        "value": 1600,
+        "question": "The leaves of grass at this poet's grave surround a tomb of his own design in Harleigh Cemetery",
+        "answer": "Walt Whitman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1600,
+        "question": "Today it simply means a sailing race; in the Venetian dialect, it meant a gondola race",
+        "answer": "Regatta",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BIBLICAL BLANK",
+        "value": 800,
+        "question": "Mark 2:9 -- \"Arise, and take up thy bed, and ____\"",
+        "answer": "Walk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"IN\" THE MOVIES",
+        "value": 800,
+        "question": "Matthew Perry & Salma Hayek hurry into marriage in this 1997 romance",
+        "answer": "Fools Rush In",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 800,
+        "question": "The original title number of Disney dalmatians minus the number of Snow White's dwarfs",
+        "answer": "94  (101 - 7)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ROYAL WOMEN",
+        "value": 800,
+        "question": "Alix was the original name of this German-born empress of Russia",
+        "answer": "Alexandra",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POETS &  POETRY",
+        "value": 1000,
+        "question": "Last name of poet Wystan Hugh, who wrote, \"A poet's hope: to be, like some valley cheese, local, but prized elsewhere\"",
+        "answer": "W.H. Auden",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1000,
+        "question": "Chiefly used in Louisiana, it's Creole for a gift given a customer by a shopkeeper at the time of purchase",
+        "answer": "Lagniappe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BIBLICAL BLANK",
+        "value": 1000,
+        "question": "1 Corinthians 15:26 -- \"The last enemy that shall be destroyed is ____\"",
+        "answer": "Death",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"IN\" THE MOVIES",
+        "value": 1000,
+        "question": "In this loopy film, Peter Falk involves dentist Alan Arkin in a possible CIA plot before their kids' wedding",
+        "answer": "The In-Laws",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 1000,
+        "question": "The number of pounds in a ton multiplied by the number of feet in a yard",
+        "answer": "6000 (2000 x 3)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ROYAL WOMEN",
+        "value": 1000,
+        "question": "Maria Cristina ruled as queen regent of this country during the childhood of her son Alfonso XIII",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BRAND NAME PEOPLE",
+    "clue": "Immigrating to the U.S. at age 17, he cooked at the Plaza in New York & catered Pres. Wilson's wedding reception in 1915",
+    "answer": "Chef Boyardee (real name Ettore Boiardi)"
+  },
+  "gameId": "3606",
+  "gameDate": "Monday, April 17, 2000"
+}

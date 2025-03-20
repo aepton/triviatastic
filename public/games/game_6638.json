@@ -1,0 +1,574 @@
+{
+  "title": "Show #2202 - Tuesday, March 15, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "STATE CAPITALS",
+      "TV SPINOFFS",
+      "THE 20th CENTURY",
+      "HAIR",
+      "TRANSPORTATION",
+      "\"C\" FOOD"
+    ],
+    "clues": [
+      {
+        "category": "STATE CAPITALS",
+        "value": 100,
+        "question": "It's nicknamed \"Hulaville\"",
+        "answer": "Honolulu",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV SPINOFFS",
+        "value": 100,
+        "question": "This \"Dallas\" spinoff had a longer run than its parent show",
+        "answer": "Knots Landing",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 100,
+        "question": "In 1967 this leader of the Cuban revolution was captured in Bolivia & executed",
+        "answer": "Che Guevara",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HAIR",
+        "value": 100,
+        "question": "Your hair is this color if it's lost all of its melanin",
+        "answer": "white (gray)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 100,
+        "question": "To reverse the natural order of things is to put the cart before this",
+        "answer": "the horse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"C\" FOOD",
+        "value": 100,
+        "question": "The bullhead is a popular small variety of this \"feline\" fish",
+        "answer": "the catfish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "This capital of Idaho was founded after an 1862 gold rush",
+        "answer": "Boise",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV SPINOFFS",
+        "value": 200,
+        "question": "Carla Tortelli's one-time husband Nick was featured on \"The Tortellis\", a spinoff of this sitcom",
+        "answer": "Cheers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 200,
+        "question": "Name given the 2 Israeli-Egyptian agreements signed in the U.S. Sept. 17, 1978",
+        "answer": "the Camp David Accords",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HAIR",
+        "value": 200,
+        "question": "Your hair grows fastest during this season",
+        "answer": "summer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "With the opening of its Red Line January 30, 1993, this U.S. city got its first modern subway system",
+        "answer": "Los Angeles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"C\" FOOD",
+        "value": 200,
+        "question": "Used in stir-fry dishes, bok choy is an Asian variety of this vegetable",
+        "answer": "cabbage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 300,
+        "question": "This capital's downtown library has a permanent collection of \"Gone With the Wind\" memorabilia",
+        "answer": "Atlanta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV SPINOFFS",
+        "value": 300,
+        "question": "Of \"The Mary Tyler Moore Show\" spinoffs, this was the only drama",
+        "answer": "Lou Grant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 300,
+        "question": "Between 1952 & 1956 this secret society operated within the Kikuyu Tribe in Kenya",
+        "answer": "the Mau-Mau",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HAIR",
+        "value": 300,
+        "question": "For most people it averages 70 to 100 a day",
+        "answer": "the number of hairs that fall out",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 300,
+        "question": "In can be a vehicle by itself or follow auto & omni",
+        "answer": "bus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"C\" FOOD",
+        "value": 300,
+        "question": "This peach earned its name because its flesh adheres to the pit",
+        "answer": "the cling peach",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "Sesquicentennial State Park in South Carolina honors this capital's 150th anniversary as a city",
+        "answer": "Columbia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV SPINOFFS",
+        "value": 400,
+        "question": "Edith Bunker's liberal cousin was was the title character in this first \"All in the Family\" spinoff",
+        "answer": "Maude",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 400,
+        "question": "In 1945 South African leader Jan Smuts helped draft this in San Francisco",
+        "answer": "the U.N. Charter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HAIR",
+        "value": 400,
+        "question": "Hair on a hare is called fur & the woolly hair on a sheep is called this",
+        "answer": "fleece",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "The largest fleet of these in the U.S. is N.Y.C.'s; in the world, it's Mexico City's",
+        "answer": "taxicabs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"C\" FOOD",
+        "value": 400,
+        "question": "The name of this dish consisting of tubular pasta stuffed with meat or cheese is Italian for \"big tubes\"",
+        "answer": "cannelloni",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 500,
+        "question": "It's the only current state capital in which you can tour a U.S. mint still in operation",
+        "answer": "Denver",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV SPINOFFS",
+        "value": 500,
+        "question": "In this M*A*S*H spinoff's last season, Gonzo Gates suffered a stroke & was unable to perform surgery",
+        "answer": "Trapper John, M.D.",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE 20th CENTURY",
+        "value": 500,
+        "question": "On Dec. 2, 1982 an artificial heart designed by this man was installed in Dr. Barney Clark",
+        "answer": "(Dr. Robert) Jarvik",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HAIR",
+        "value": 500,
+        "question": "This outer layer of the hair shares its name with the strip of skin at the base of the fingernail",
+        "answer": "cuticle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1000,
+        "question": "Country in which this train, bearing the initials TGV, originated:",
+        "answer": "France",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"C\" FOOD",
+        "value": 500,
+        "question": "The red & white types of these berries are used to make bar-le-duc, a French preserve",
+        "answer": "currants",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FIRST LADIES",
+      "MEDICAL WORD ORIGINS",
+      "COMPOSERS",
+      "THE WILD WEST",
+      "FOREIGN CURRENCY",
+      "CENSORED BOOKS"
+    ],
+    "clues": [
+      {
+        "category": "FIRST LADIES",
+        "value": 200,
+        "question": "The inscription on this piece of jewelry that Abe Lincoln gave Mary Todd in 1842 says \"Love is eternal\"",
+        "answer": "a wedding ring",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL WORD ORIGINS",
+        "value": 200,
+        "question": "A surgical knife, its name comes from scalpere, meaning \"to scratch\"",
+        "answer": "a scalpel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 200,
+        "question": "He wrote \"The Firebird\", \"Petrushka\" & \"The Rite of Spring\" for Sergei Diaghilev",
+        "answer": "Stravinsky",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 200,
+        "question": "Of Hole in the Head, Hole in the Wall or Hole in One, the one that was Butch Cassidy's famous hideout",
+        "answer": "the Hole in the Wall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 200,
+        "question": "In this country 1 yuan is equal to 10 jiao",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CENSORED BOOKS",
+        "value": 200,
+        "question": "Sex & profanity are reasons schools have pulled his \"The Catcher in the Rye\" from reading lists",
+        "answer": "J.D. Salinger",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 400,
+        "question": "Lady Bird Johnson was the first first lady born in this state",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL WORD ORIGINS",
+        "value": 400,
+        "question": "The name of this pregnancy specialist comes from obstare, meaning \"to stand before\"",
+        "answer": "an obstetrician",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "Most of the score of this British duo's first operetta, \"Thespis\", is lost",
+        "answer": "Gilbert & Sullivan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 400,
+        "question": "Morgan Earp was killed while playing billiards a few months after this notorious 1881 shootout",
+        "answer": "the Gunfight at O.K. Corral",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 400,
+        "question": "Malta, Turkey & Italy use units called this",
+        "answer": "lira",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CENSORED BOOKS",
+        "value": 400,
+        "question": "In 1988 the tide was out for this Pat Conroy novel; a South Carolina school pulled it from reading lists",
+        "answer": "Prince of Tides",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 600,
+        "question": "When she visited India in 1962 with her sister Lee, she rode an elephant",
+        "answer": "Jackie Kennedy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL WORD ORIGINS",
+        "value": 600,
+        "question": "This term for a band of tissue that connects muscle & bone comes from a word meaning \"to stretch\"",
+        "answer": "a tendon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 600,
+        "question": "Russian-American choreographer who was the brother of Soviet composer Andrei Balanchivadze",
+        "answer": "(George) Balanchine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 600,
+        "question": "Bat Masterson laid down the law in this Kansas town, the \"Wickedest Little City\" in the West",
+        "answer": "Dodge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 600,
+        "question": "This Portuguese territory's unit of currency is called the pataca",
+        "answer": "Macau",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CENSORED BOOKS",
+        "value": 600,
+        "question": "Teachers in Erie, Penn. have blacked out the mating passages in her \"Gorillas in the Mist\"",
+        "answer": "Dian Fossey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 800,
+        "question": "It was the first name of Grover Cleveland's wife, but some people called her \"Frank\" or \"Frankie\"",
+        "answer": "Frances",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL WORD ORIGINS",
+        "value": 800,
+        "question": "This name for the thighbone is Latin for \"thigh\"",
+        "answer": "femur",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 800,
+        "question": "Humorous composer Peter Schickele invented this fictional composer in 1953",
+        "answer": "P.D.Q. Bach",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 800,
+        "question": "Wild Bill Hickok probably never married her, but a cab driver named Clinton Burke did",
+        "answer": "Calamity Jane",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 800,
+        "question": "In Kiey, the capital of this country, you can use a unit of money called the hryvnia",
+        "answer": "Ukraine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CENSORED BOOKS",
+        "value": 800,
+        "question": "The Robert Cormier book about a \"War\" over this sweet has been challenged all over the country",
+        "answer": "chocolate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 2000,
+        "question": "This president's first wife, Letitia, gave birth to 9 children: his second wife, Julia, had 7",
+        "answer": "John Tyler",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MEDICAL WORD ORIGINS",
+        "value": 1000,
+        "question": "The name of this disease also called lockjaw comes from a Greek word meaning \"spasm\"",
+        "answer": "tetanus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1000,
+        "question": "Franco Alfano completed this composer's \"Turandot\" after his death",
+        "answer": "Puccini",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE WILD WEST",
+        "value": 1000,
+        "question": "A Creek Indian named Jim July was this Old West \"Bandit Queen\"s last lover",
+        "answer": "Belle Starr",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOREIGN CURRENCY",
+        "value": 1000,
+        "question": "The name of this Spanish unit of currency is a diminutive of peso",
+        "answer": "peseta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CENSORED BOOKS",
+        "value": 2000,
+        "question": "His novel \"One Hundred Years of Solitude\" was called \"garbage passed off as literature\" & purged",
+        "answer": "(Gabriel Garcia) Marquez",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AFRICA",
+    "clue": "The French Foreign Legion was created in 1831 to occupy this country",
+    "answer": "Algeria"
+  },
+  "gameId": "2202",
+  "gameDate": "Tuesday, March 15, 1994"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #3837 - Tuesday, April 17, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "BALLET'S IN THE HOUSE",
+      "HOLLYWOOD'S BIGGEST GROSSERS",
+      "PLOTS",
+      "PENNY FOR YOUR THOUGHTS",
+      "BOXERS",
+      "BRIEFS"
+    ],
+    "clues": [
+      {
+        "category": "BALLET'S IN THE HOUSE",
+        "value": 100,
+        "question": "The Bolshoi Ballet at the Bolshoi Theatre",
+        "answer": "Moscow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HOLLYWOOD'S BIGGEST GROSSERS",
+        "value": 100,
+        "question": "1985:\"Back to the Future\",\"The Color Purple\",\"Out of Africa\"",
+        "answer": "Back to the Future",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PLOTS",
+        "value": 100,
+        "question": "This country has accused the Falun Gong sect of plotting to overthrow the country; they deny it, of course",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PENNY FOR YOUR THOUGHTS",
+        "value": 100,
+        "question": "In 1927 Harry of the Warner Bros. said, \"Who the hell wants to hear actors\" do this",
+        "answer": "Talk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOXERS",
+        "value": 100,
+        "question": "In 1993 this semi-retired boxer starred as a retired boxer on the short-lived sitcom \"George\"",
+        "answer": "George Foreman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BRIEFS",
+        "value": 100,
+        "question": "A JP, this public officer, can administer oaths & perform weddings",
+        "answer": "Justice of the Peace",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BALLET'S IN THE HOUSE",
+        "value": 200,
+        "question": "American Ballet Theatre at the Metropolitan Opera House",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HOLLYWOOD'S BIGGEST GROSSERS",
+        "value": 200,
+        "question": "1976:\"A Star Is Born\",\"All The President's Men\",\"Rocky\"",
+        "answer": "Rocky",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PLOTS",
+        "value": 200,
+        "question": "This former D.C. mayor wants an inquiry into his claim that the FBI plotted to trap him on bribery charges",
+        "answer": "Marion Barry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PENNY FOR YOUR THOUGHTS",
+        "value": 200,
+        "question": "In 1954 Grand Ole Opry manager Jim Denny told this singer, \"You ought to go back to drivin' a truck\"",
+        "answer": "Elvis Presley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOXERS",
+        "value": 200,
+        "question": "In 1999 this 3-time world heavyweight champ became the first professional boxer to grace the cover of a Wheaties box",
+        "answer": "Muhammad Ali",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BRIEFS",
+        "value": 200,
+        "question": "Fans of the second amendment may belong to this group, the NRA",
+        "answer": "National Rifle Association",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BALLET'S IN THE HOUSE",
+        "value": 300,
+        "question": "The Royal Ballet at Covent Garden",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HOLLYWOOD'S BIGGEST GROSSERS",
+        "value": 300,
+        "question": "1996:\"Twister\",\"Mission: Impossible\",\"Independence Day\"",
+        "answer": "Independence Day",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PLOTS",
+        "value": 300,
+        "question": "This country's Park Ju-sun lost his job in connection with the believed government cover-up of \"Furgate\"",
+        "answer": "South Korea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PENNY FOR YOUR THOUGHTS",
+        "value": 300,
+        "question": "In 1977 he told David Frost, \"When the president does it, that means it is not illegal\"",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOXERS",
+        "value": 300,
+        "question": "In Jan. 1999 he KO'd Francois Botha; in Feb. 1999 he went to jail in Maryland for assault",
+        "answer": "Mike Tyson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BRIEFS",
+        "value": 300,
+        "question": "Another term for \"Mormon\", it's abbreviated LDS",
+        "answer": "Latter-day Saints",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BALLET'S IN THE HOUSE",
+        "value": 400,
+        "question": "The Joffrey Ballet at the Auditorium Theatre",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HOLLYWOOD'S BIGGEST GROSSERS",
+        "value": 400,
+        "question": "1991:\"Terminator 2\",\"City Slickers\",\"Beauty and the Beast\"",
+        "answer": "Terminator 2",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PLOTS",
+        "value": 400,
+        "question": "In 1999 Yugoslavia accused France of plotting to kill this president; France called the accusations a fantasy",
+        "answer": "Slobodan Milosevic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PENNY FOR YOUR THOUGHTS",
+        "value": 400,
+        "question": "James Ussher thought this was created in the evening of October 22, 4004 B.C.",
+        "answer": "The world",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOXERS",
+        "value": 400,
+        "question": "He required 15 stitches to his right ear & reconstructive surgery after a 1997 title bout",
+        "answer": "Evander Holyfield",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BRIEFS",
+        "value": 400,
+        "question": "XYZ is a short way of telling someone to do this",
+        "answer": "Examine your zipper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BALLET'S IN THE HOUSE",
+        "value": 500,
+        "question": "The Kirov Ballet at the Mariinsky Theatre",
+        "answer": "Saint Petersburg (Russia)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HOLLYWOOD'S BIGGEST GROSSERS",
+        "value": 500,
+        "question": "1990:\"Home Alone\",\"Dances With Wolves\",\"Pretty Woman\"",
+        "answer": "Home Alone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PLOTS",
+        "value": 500,
+        "question": "In arresting members of the Mahdaviyat group, this country claimed it had thwarted a plot to kill Khatami",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PENNY FOR YOUR THOUGHTS",
+        "value": 500,
+        "question": "Speaking in exile in 1959, he reportedly said, \"I give Castro a year.  No more\"",
+        "answer": "Fulgencio Batista",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOXERS",
+        "value": 1000,
+        "question": "Winning gold in the 1992 Olympics, this lightweight boxer circled the ring holding an American flag & a Mexican flag",
+        "answer": "Oscar De La Hoya",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BRIEFS",
+        "value": 500,
+        "question": "Car buyers know it's what MSRP stands for",
+        "answer": "Manufacturer's Suggested Retail Price",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GEOGRAPHIC SAINTS",
+      "LOUSY SOUVENIRS",
+      "CALL ME SMITTY",
+      "PENGUINS",
+      "ASSOCIATIONS",
+      "\"DEC\" ME"
+    ],
+    "clues": [
+      {
+        "category": "GEOGRAPHIC SAINTS",
+        "value": 200,
+        "question": "The 2 wavy bars on this city's flag represent the Missouri & Mississippi Rivers",
+        "answer": "Saint Louis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LOUSY SOUVENIRS",
+        "value": 200,
+        "question": "My aunt went to Spain & all I got were these lousy pants worn by heroes of the bullring",
+        "answer": "Toreador pants",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CALL ME SMITTY",
+        "value": 200,
+        "question": "Her Armistice Day rendition of \"God Bless America\" in 1938 introduced the song to the world",
+        "answer": "Kate Smith",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PENGUINS",
+        "value": 200,
+        "question": "While penguins can't do this, they evolved from birds that could",
+        "answer": "Fly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ASSOCIATIONS",
+        "value": 200,
+        "question": "The main concern of the International Society of Arboriculture is these objects",
+        "answer": "Trees",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"DEC\" ME",
+        "value": 200,
+        "question": "It's the enticement seen here",
+        "answer": "Decoy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHIC SAINTS",
+        "value": 400,
+        "question": "This Newfoundland capital is the closest North American port to Europe",
+        "answer": "Saint John's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LOUSY SOUVENIRS",
+        "value": 400,
+        "question": "My mother went to Hawaii & all I got was this long, loose dress",
+        "answer": "Muumuu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CALL ME SMITTY",
+        "value": 400,
+        "question": "The 1969 Oscar winner for \"The Prime of Miss Jean Brodie\" was this future dame",
+        "answer": "Maggie Smith",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PENGUINS",
+        "value": 400,
+        "question": "While swimming, penguins have to keep an eye out for the leopard one of these, one of their chief predators",
+        "answer": "Seal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ASSOCIATIONS",
+        "value": 400,
+        "question": "Animals that are the \"E\" in the organization BPOE",
+        "answer": "Elks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"DEC\" ME",
+        "value": 400,
+        "question": "To chop off the head of something",
+        "answer": "Decapitate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHIC SAINTS",
+        "value": 600,
+        "question": "Spanish-speaking people call this largest of the U.S. Virgin Islands Santa Cruz",
+        "answer": "Saint Croix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LOUSY SOUVENIRS",
+        "value": 600,
+        "question": "My uncle went to England & all I got was this lousy piece of a suit, which Americans call a vest",
+        "answer": "Waistcoat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CALL ME SMITTY",
+        "value": 600,
+        "question": "Governor of New York 4 times, he ran unsuccessfully for president in 1928",
+        "answer": "Al Smith",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PENGUINS",
+        "value": 600,
+        "question": "From the name of a black European crow known for its gregarious habits, it's the term for a penguin colony",
+        "answer": "Rookery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ASSOCIATIONS",
+        "value": 1200,
+        "question": "This inventor's association for the deaf is on Volta Place in Washington, D.C.",
+        "answer": "Alexander Graham Bell",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"DEC\" ME",
+        "value": 600,
+        "question": "From the Latin for \"to make clear\", it's a formal statement or official proclamation",
+        "answer": "Declaration",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHIC SAINTS",
+        "value": 800,
+        "question": "In 1659 the English East India Company founded the first permanent settlement on this island in the south Atlantic",
+        "answer": "St. Helena",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LOUSY SOUVENIRS",
+        "value": 800,
+        "question": "My brother went to Venice Beach & all I got was this lousy shirt named for what he showed off",
+        "answer": "Muscle shirt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CALL ME SMITTY",
+        "value": 800,
+        "question": "In the Basketball Coaches Hall of Fame, this former University of North Carolina coach is the only Smith",
+        "answer": "Dean Smith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PENGUINS",
+        "value": 1600,
+        "question": "This \"regal\" penguin is second in size to the emperor penguin",
+        "answer": "King penguin",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ASSOCIATIONS",
+        "value": 800,
+        "question": "A member of the AAFS, the American Academy of these sciences, may visit a crime scene",
+        "answer": "Forensics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"DEC\" ME",
+        "value": 800,
+        "question": "Old, overused & in poor condition",
+        "answer": "Decrepit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GEOGRAPHIC SAINTS",
+        "value": 1000,
+        "question": "This French city is named for the first bishop of Paris, whose body is supposedly buried near these",
+        "answer": "Saint Denis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LOUSY SOUVENIRS",
+        "value": 1000,
+        "question": "My granddad went to Ireland & all I got was this lousy overcoat named for a province there",
+        "answer": "Ulster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CALL ME SMITTY",
+        "value": 1000,
+        "question": "The founder of the Rhodesian Front, he was prime minister of Rhodesia from 1964 to 1979",
+        "answer": "Ian Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PENGUINS",
+        "value": 1000,
+        "question": "The name of the penguin seen here; looking like he stuck a feather in his cap",
+        "answer": "Macaroni penguin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ASSOCIATIONS",
+        "value": 1000,
+        "question": "Founded in 1874 & still fighting for prohibition, the \"Woman's\" this is based in Illinois",
+        "answer": "Woman's Christian Temperance Union",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"DEC\" ME",
+        "value": 1000,
+        "question": "This French adjective describes something reduced in status in society",
+        "answer": "Declasse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "POETS",
+    "clue": "Made a baron in the early 1880s, he was the first Englishman elevated to that rank for literary work alone",
+    "answer": "Alfred Lord Tennyson"
+  },
+  "gameId": "3837",
+  "gameDate": "Tuesday, April 17, 2001"
+}

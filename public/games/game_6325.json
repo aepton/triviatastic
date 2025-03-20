@@ -1,0 +1,565 @@
+{
+  "title": "Show #1732 - Tuesday, February 25, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "LANDMARKS",
+      "THE MOVIES",
+      "GEMS & JEWELRY",
+      "FAMOUS JOHNS",
+      "SINGING",
+      "PUNCTUATION MARKS"
+    ],
+    "clues": [
+      {
+        "category": "LANDMARKS",
+        "value": 100,
+        "question": "This famous Massachusetts rock is engraved with the date 1620",
+        "answer": "Plymouth Rock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 100,
+        "question": "This 1991 Steven Spielberg film is based on the premise \"What if Peter Pan grew up?\"",
+        "answer": "Hook",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 100,
+        "question": "A few of these green gems are mined near Stony Point, North Carolina",
+        "answer": "emeralds",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS JOHNS",
+        "value": 100,
+        "question": "In 1804 this ornithologist became the first known person to band birds",
+        "answer": "John Audubon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SINGING",
+        "value": 100,
+        "question": "Some singing voices are described as \"lyric\", a word derived from the Greek for this instrument",
+        "answer": "lyre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PUNCTUATION MARKS",
+        "value": 100,
+        "question": "In printing this punctuation mark is also known as a full stop",
+        "answer": "period",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 200,
+        "question": "New geological evidence suggests this Giza, Egypt statue may be twice as old as previously thought",
+        "answer": "The Sphinx",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 200,
+        "question": "Anna Chlumsky to Macaulay Culkin, according to the title of a 1991 film",
+        "answer": "My Girl",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 200,
+        "question": "The freshwater type of these can be found in the Mississippi & its tributaries",
+        "answer": "pearls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS JOHNS",
+        "value": 200,
+        "question": "From 1735-37 this founder of Methodism was a missionary to the American colony of Georgia",
+        "answer": "John Wesley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SINGING",
+        "value": 200,
+        "question": "An arietta is a short one of these",
+        "answer": "*solo (**aria)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PUNCTUATION MARKS",
+        "value": 200,
+        "question": "They enclose the exact words of a speaker",
+        "answer": "quotation marks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 300,
+        "question": "Lakehurst Naval Air Station in this state was the site of the Hindenburg explosion",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 300,
+        "question": "Steve Martin starred in the 1991 remake of this 1950 Spencer Tracy film",
+        "answer": "Father of the Bride",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 300,
+        "question": "You'd wear your diadem on this body part",
+        "answer": "head",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS JOHNS",
+        "value": 300,
+        "question": "In 1736 this New York Weekly Journal publisher printed an account of his freedom of the press trial",
+        "answer": "John Peter Zenger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SINGING",
+        "value": 300,
+        "question": "A \"decorative\" note or group of notes such as a trill, or a generic term for a Christmas tree decoration",
+        "answer": "ornament",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PUNCTUATION MARKS",
+        "value": 300,
+        "question": "It's the strongest mark we have to indicate emotional emphasis at the end of a sentence",
+        "answer": "exclamation point",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 400,
+        "question": "His Washington, D.C. memorial was dedicated April 13, 1943, the 200th anniversary of his birth",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 400,
+        "question": "She starred as the mother of a child prodigy & made her directorial debut in \"Little Man Tate\"",
+        "answer": "Jodie Foster",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 800,
+        "question": "Turquoise is the state gem of these two southwestern states",
+        "answer": "Arizona & New Mexico",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS JOHNS",
+        "value": 400,
+        "question": "Middle name of crime fighter John Hoover",
+        "answer": "Edgar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SINGING",
+        "value": 400,
+        "question": "Vibrato is Italian for \"vibrating\" & this is Italian for \"trembling\"",
+        "answer": "tremolo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PUNCTUATION MARKS",
+        "value": 400,
+        "question": "Compound words are sometimes joined together by this punctuation mark",
+        "answer": "hyphen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LANDMARKS",
+        "value": 500,
+        "question": "This French engineer designed the interior support tower for the Statue of Liberty",
+        "answer": "Eiffel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 500,
+        "question": "He played a corporate raider known as Larry the Liquidator in \"Other People's Money\"",
+        "answer": "Danny Devito",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 500,
+        "question": "This stone that's green in sunlight & red under artificial light is named for a czar",
+        "answer": "alexandrite",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS JOHNS",
+        "value": 500,
+        "question": "This 10th U.S. Pres. was elected to the Confederate House of Reps. but died before taking office",
+        "answer": "John Tyler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SINGING",
+        "value": 500,
+        "question": "As a noun, it's a high-pitched voice; as an adjective, it often precedes \"clef\"",
+        "answer": "treble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PUNCTUATION MARKS",
+        "value": 500,
+        "question": "You'll commonly find this mark before a list or after a business letter's salutation",
+        "answer": "colon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SPAIN",
+      "BLACK AMERICA",
+      "MATH",
+      "COINS",
+      "ANCIENT HISTORY",
+      "QUOTES"
+    ],
+    "clues": [
+      {
+        "category": "SPAIN",
+        "value": 200,
+        "question": "These animals are specially bred near Salamanca to participate in Spain's national spectacle",
+        "answer": "bulls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 200,
+        "question": "In 1989 David Dinkins was elected this city's first black mayor",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 200,
+        "question": "The standard abacus uses a system of this base number",
+        "answer": "10",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COINS",
+        "value": 200,
+        "question": "In 1946 his portrait was first placed on the U.S. dime",
+        "answer": "Franklin Roosevelt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 200,
+        "question": "The Persians & the Medes were considered barbarians, people who didn't speak this language",
+        "answer": "Greek",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "QUOTES",
+        "value": 200,
+        "question": "Naturalist John Ray first recorded the proverb \"Blood is thicker than\" this",
+        "answer": "water",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SPAIN",
+        "value": 400,
+        "question": "Forms of this dance include the Alegrias, the Bulerias & the Farruca",
+        "answer": "flamenco",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 400,
+        "question": "President Bush credited much of Desert Storm's success to this chairman of the Joint Chiefs of Staff",
+        "answer": "Colin Powell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 400,
+        "question": "The number of scruples in  6 drams or the number of inches in half a yard",
+        "answer": "18",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COINS",
+        "value": 400,
+        "question": "An Egyptian bronze coin of the 1st century B.C. depicts this queen as Aphrodite",
+        "answer": "Cleopatra",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 400,
+        "question": "You don't have to consult an oracle to know the Pythian Games were held here",
+        "answer": "Delphi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "QUOTES",
+        "value": 400,
+        "question": "Completes Julius Caesar's declaration \"I came, I saw,...\"",
+        "answer": "I conquered",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SPAIN",
+        "value": 600,
+        "question": "This city on the Mediterranean is known for it citrus fruit & La Seo Cathedral",
+        "answer": "Valencia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 600,
+        "question": "In 1931 this botanist refused an offer from the Soviet Union to supervise its cotton plantations",
+        "answer": "George Washington Carver",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 600,
+        "question": "The name for these numbers less than zero came from the Latin for \"to deny\"",
+        "answer": "negative",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COINS",
+        "value": 600,
+        "question": "The gold ducat of this Italian city showed the Doge receiving a banner from St. Mark",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 600,
+        "question": "In the 5th century the Magyars were called the \"On Ogur\", which is where we get this country's name",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "QUOTES",
+        "value": 1200,
+        "question": "It's to whom Edwin Stanton was referring when he said, \"Now he belongs to the ages\"",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SPAIN",
+        "value": 1600,
+        "question": "In 1992 Spain is set to host the Olympics in Barcelona & a world's fair in this city",
+        "answer": "Seville",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 800,
+        "question": "At the 1988 Summer Olympics Jackie Joyner-Kersee & this sister-in-law won six medals between them",
+        "answer": "Florence Griffith-Joyner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 800,
+        "question": "A logarithm is an example of this symbol",
+        "answer": "exponent",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COINS",
+        "value": 800,
+        "question": "The commemorative Columbian Exposition coin of 1892 & 1893 bore an engraving of this ship",
+        "answer": "Santa Maria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 800,
+        "question": "In 201 B.C. he was the ruler of Carthage but Rome wanted him as a prisoner",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "QUOTES",
+        "value": 800,
+        "question": "John Keats called this American statesman \"a philosophical Quaker full of mean and thrifty maxims\"",
+        "answer": "Benjamin Franklin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 1000,
+        "question": "W.E.B. Du Bois, founder of the Niagara Movement, was the 1st black to receive a Ph.D. from this Ivy League university",
+        "answer": "Harvard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MATH",
+        "value": 1000,
+        "question": "It's the next prime number above 23",
+        "answer": "29",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COINS",
+        "value": 1000,
+        "question": "In 1658 this Lord supplied Maryland with a coin with his portrait on it",
+        "answer": "Lord Baltimore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 1000,
+        "question": "Although this city was Amenhotep III's capital he was buried in the nearby Valley of the Kings",
+        "answer": "Thebes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "QUOTES",
+        "value": 1000,
+        "question": "George Bernard Shaw called this condition \"the greatest of evils and the worst of crimes\"",
+        "answer": "poverty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ASTRONOMY",
+    "clue": "Areology is the scientific study of this planet",
+    "answer": "Mars"
+  },
+  "gameId": "1732",
+  "gameDate": "Tuesday, February 25, 1992"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #7858 - Wednesday, November 7, 2018",
+  "jeopardyRound": {
+    "categories": [
+      "YOUNG ADULT READING",
+      "SPORTS ABBREV.",
+      "ON THE CALENDAR",
+      "WE WALKED TO SCHOOL",
+      "IT WAS 10 MILES",
+      "IN THE \"SNOW\""
+    ],
+    "clues": [
+      {
+        "category": "YOUNG ADULT READING",
+        "value": 200,
+        "question": "\"Queen of Hearts\" & \"The White Rabbit Chronicles\" were inspired by this 1865 work",
+        "answer": "Alice's Adventures in Wonderland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS ABBREV.",
+        "value": 200,
+        "question": "It's also called a walk: BB",
+        "answer": "a base on balls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ON THE CALENDAR",
+        "value": 200,
+        "question": "Harry Truman had stars & stripes in his eyes when he designated June 14 as this annual \"Day\"",
+        "answer": "Flag Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WE WALKED TO SCHOOL",
+        "value": 200,
+        "question": "Though I took the Harvard Bridge across the Charles River, it took me to this tech-savvy university",
+        "answer": "MIT (or the Massachusetts Institute of Technology)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IT WAS 10 MILES",
+        "value": 200,
+        "question": "A 10-mile-long aqueduct built by the Romans supplied Segovia, Spain with this resource for 2,000 years",
+        "answer": "water",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IN THE \"SNOW\"",
+        "value": 200,
+        "question": "3-word phrase describing the fleece of Mary's lamb in a kids' song",
+        "answer": "white as snow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "YOUNG ADULT READING",
+        "value": 400,
+        "question": "4 friends share the stories of their adventures through the medium of a pair of jeans in this 2001 book",
+        "answer": "Sisterhood of the Traveling Pants",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS ABBREV.",
+        "value": 400,
+        "question": "A boxer wants to be on the giving end: TKO",
+        "answer": "a technical knockout",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ON THE CALENDAR",
+        "value": 400,
+        "question": "In 1908 founder Anna Jarvis gave birth to the first official observance of this May holiday",
+        "answer": "Mother's Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WE WALKED TO SCHOOL",
+        "value": 400,
+        "question": "The promenade down Volunteer Blvd., of course, led me to the University of this state",
+        "answer": "Tennessee",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IT WAS 10 MILES",
+        "value": 400,
+        "question": "Go 10 miles south of Arecibo, Puerto Rico to check out some nebulas using one of the world's largest of these devices",
+        "answer": "a (radio) telescope",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IN THE \"SNOW\"",
+        "value": 400,
+        "question": "Maybe pick up this souvenir, a fluid-filled glass ball with the Hollywood sign enclosed",
+        "answer": "a snow globe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "YOUNG ADULT READING",
+        "value": 600,
+        "question": "We pledge to you that this is the third book in the \"Divergent\" series",
+        "answer": "Allegiant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS ABBREV.",
+        "value": 600,
+        "question": "For a hoopster: PPG",
+        "answer": "points per game",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ON THE CALENDAR",
+        "value": 600,
+        "question": "I do not like green eggs & ham, but I do like that Read Across America Day, March 2, is his birthday",
+        "answer": "Dr. Seuss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WE WALKED TO SCHOOL",
+        "value": 600,
+        "question": "Sometimes we walked down Westwood Blvd. to get to this California university founded in 1919",
+        "answer": "UCLA",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IT WAS 10 MILES",
+        "value": 600,
+        "question": "Not one but 2 Civil War battles took place at Cold Harbor, a mere 10 miles from this Confederate capital",
+        "answer": "Richmond",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IN THE \"SNOW\"",
+        "value": 600,
+        "question": "Careful, or Mom could slide these in your stir-fry",
+        "answer": "snow peas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "YOUNG ADULT READING",
+        "value": 800,
+        "question": "\"Cinder\" reworks a fairy tale, but the young woman is one of these--part human, part machine",
+        "answer": "a cyborg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS ABBREV.",
+        "value": 800,
+        "question": "He tries to sack the quarterback: DE",
+        "answer": "defensive end",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ON THE CALENDAR",
+        "value": 800,
+        "question": "A June observance celebrates this U.S. national symbol, now back from the brink of extinction",
+        "answer": "the (bald) eagle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WE WALKED TO SCHOOL",
+        "value": 800,
+        "question": "Locust Walk was a fine way to get to class at the Wharton School, part of this university",
+        "answer": "University of Pennsylvania",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IT WAS 10 MILES",
+        "value": 800,
+        "question": "There's an annual race from the bottom of the Eiffel Tower to this royal chateau about 10 miles away",
+        "answer": "the Palace of Versailles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IN THE \"SNOW\"",
+        "value": 800,
+        "question": "urbandictionary.com says this term refers to \"a very sensitive person\"",
+        "answer": "snowflake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "YOUNG ADULT READING",
+        "value": 1000,
+        "question": "\"City of Bones\" introduced the Shadowhunters, demon-dispatching warriors on Earth in this series",
+        "answer": "Mortal Instruments",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS ABBREV.",
+        "value": 1000,
+        "question": "Part of baseball stats: WAR",
+        "answer": "wins above replacement",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ON THE CALENDAR",
+        "value": 1000,
+        "question": "This \"colorful\" shopping day is the day after Thanksgiving",
+        "answer": "Black Friday",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WE WALKED TO SCHOOL",
+        "value": 1000,
+        "question": "The walk through New Orleans' Audubon Park was a lovely way to get to this private university on St. Charles Ave.",
+        "answer": "Tulane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IT WAS 10 MILES",
+        "value": 1000,
+        "question": "Stuck downtown in this city? Hartsfield-Jackson International Airport is only a 10-mile hike",
+        "answer": "Atlanta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IN THE \"SNOW\"",
+        "value": 1000,
+        "question": "It's when you ski & make a \"V\" so you don't hit a tree",
+        "answer": "snowplow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PLEASE WELCOME MYTH GREECE",
+      "TEEN MATH",
+      "A WORD OF ADVICE",
+      "QUOTING THE MOVIES",
+      "OOPS ON STAMPS",
+      "COMING OF AGE"
+    ],
+    "clues": [
+      {
+        "category": "PLEASE WELCOME MYTH GREECE",
+        "value": 400,
+        "question": "Enjoying mountain living, 12 major Greek gods called this place home; at nearly 9,600' up there, the gods did have a nice view",
+        "answer": "Olympus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TEEN MATH",
+        "value": 400,
+        "question": "Book 13 of his \"Elements\" deals with regular solids",
+        "answer": "Euclid",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "A WORD OF ADVICE",
+        "value": 400,
+        "question": "A friendly hint, or 20% for good service",
+        "answer": "a tip",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "QUOTING THE MOVIES",
+        "value": 400,
+        "question": "2015: \"I gotta... grow 3 years worth of food... on a planet where nothing grows... luckily, I'm a botanist\"",
+        "answer": "The Martian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OOPS ON STAMPS",
+        "value": 400,
+        "question": "A 2007 stamp from Papua New Guinea misspelled this word, the inability to read (there was only one \"L\")",
+        "answer": "illiteracy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMING OF AGE",
+        "value": 400,
+        "question": "This age came in with Britain's new queen in 1837",
+        "answer": "Victoria or the Victorian Age",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PLEASE WELCOME MYTH GREECE",
+        "value": 800,
+        "question": "Heracles got in on an expedition with the Argonauts, led by this man",
+        "answer": "Jason",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TEEN MATH",
+        "value": 800,
+        "question": "A problem at the 2017 Intl. Math Olympiad for teens involved one of these lines touching a circle at a single point",
+        "answer": "a tangent line",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "A WORD OF ADVICE",
+        "value": 800,
+        "question": "Advice on where to go; you might get it from the same type of high school counselor",
+        "answer": "guidance",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "QUOTING THE MOVIES",
+        "value": 800,
+        "question": "A 2003 cartoon: \"All drains lead to the ocean\"",
+        "answer": "Finding Nemo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OOPS ON STAMPS",
+        "value": 800,
+        "question": "A stamp had this big landmark; not the original in N.Y. Harbor, but the lady in front of Vegas' New York-New York casino",
+        "answer": "the Statue of Liberty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMING OF AGE",
+        "value": 800,
+        "question": "The golden age of this buccaneering activity began around 1650",
+        "answer": "piracy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PLEASE WELCOME MYTH GREECE",
+        "value": 1200,
+        "question": "In addition to being god of the sea, he's also the god of earthquakes",
+        "answer": "Poseidon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TEEN MATH",
+        "value": 1200,
+        "question": "It's (13 + 14) x 15",
+        "answer": "405",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "A WORD OF ADVICE",
+        "value": 1200,
+        "question": "Leave this 10-letter advice in the box; maybe we'll take it",
+        "answer": "suggestion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "QUOTING THE MOVIES",
+        "value": 1200,
+        "question": "2009: \"You're not in Kansas anymore, you're on Pandora\"",
+        "answer": "Avatar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OOPS ON STAMPS",
+        "value": 1200,
+        "question": "On the stamp seen here, Monaco \"oops\"ed by putting 5 fingers & a thumb, too, on this New Deal U.S. president",
+        "answer": "Franklin D. Roosevelt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COMING OF AGE",
+        "value": 1200,
+        "question": "Wet cultivation of this crop marks the start of Japan's Yayoi Period",
+        "answer": "rice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PLEASE WELCOME MYTH GREECE",
+        "value": 1600,
+        "question": "Thought to be the center of the Earth, this town at Mt. Parnassus' foot was known for its oracle--ya see that coming?",
+        "answer": "Delphi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TEEN MATH",
+        "value": 1600,
+        "question": "In 1952 an early computer was used to discover the 13th Mersenne one of these numbers",
+        "answer": "a prime number",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "A WORD OF ADVICE",
+        "value": 1600,
+        "question": "Beginning & ending with \"M\", it's a wise saying or rule of conduct",
+        "answer": "a maxim",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "QUOTING THE MOVIES",
+        "value": 1600,
+        "question": "2013, Clooney to Sandra Bullock:\"Nobody special? Somebody down there looking up, thinking about you?\"",
+        "answer": "Gravity",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OOPS ON STAMPS",
+        "value": 1600,
+        "question": "A 1932 Philippine stamp honored Pagsanjan Falls but showed Vernal Falls in this California national park",
+        "answer": "Yosemite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COMING OF AGE",
+        "value": 1600,
+        "question": "In history's stages per Karl Marx, feudalism gave way to this -ism, AKA the free market",
+        "answer": "capitalism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PLEASE WELCOME MYTH GREECE",
+        "value": 2000,
+        "question": "Homer dubbed this war god \"the blood-stained bane of mortals\", & ol' Homie wasn't far wrong",
+        "answer": "Ares",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TEEN MATH",
+        "value": 2000,
+        "question": "In 1640 16-year-old Blaise Pascal came to math fame with an essay on these \"sections\"",
+        "answer": "conic sections",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "A WORD OF ADVICE",
+        "value": 2000,
+        "question": "I'm going to give you my this, also an access point on a computer or the info that goes through it",
+        "answer": "input",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "QUOTING THE MOVIES",
+        "value": 2000,
+        "question": "2017: \"I had no father. My mother sculpted me from clay & I was brought to life by Zeus\"",
+        "answer": "Wonder Woman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OOPS ON STAMPS",
+        "value": 2000,
+        "question": "A 1968 Chinese stamp, \"The Whole Country is Red\", did not red out this island, & the authorities soon recalled it",
+        "answer": "Taiwan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COMING OF AGE",
+        "value": 2000,
+        "question": "For warships, the iron age began at the same time as the age of this type of power",
+        "answer": "steam",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BROADWAY MUSICALS",
+    "clue": "Winner of 6 Tonys in 2017, it's the first Broadway musical to focus on the subject of teens & social media",
+    "answer": "Dear Evan Hansen"
+  },
+  "gameId": "7858",
+  "gameDate": "Wednesday, November 7, 2018"
+}

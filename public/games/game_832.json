@@ -1,0 +1,574 @@
+{
+  "title": "Show #3239 - Thursday, October 8, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "GO PLAY OUTSIDE",
+      "NATIONAL MONUMENTS",
+      "NAME THAT ARTHROPOD",
+      "LAST NAME'S THE SAME",
+      "HEY HEY WE'RE THE MANCHUS",
+      "FIX THE PROVERB"
+    ],
+    "clues": [
+      {
+        "category": "GO PLAY OUTSIDE",
+        "value": 100,
+        "question": "In 1961 Wham-O introduced this 25-foot-long plastic sheet to America's backyards",
+        "answer": "Slip 'n Slide",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL MONUMENTS",
+        "value": 100,
+        "question": "With Ellis Island, it's the USA's most visited national monument",
+        "answer": "Statue of Liberty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT ARTHROPOD",
+        "value": 100,
+        "question": "Few of these ever reach maturity, they're destroyed by weather or eaten by other animals",
+        "answer": "Caterpillars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 100,
+        "question": "Brenda,Michele,Spike",
+        "answer": "Lee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HEY HEY WE'RE THE MANCHUS",
+        "value": 100,
+        "question": "We took over this area in 2 stages:  first the \"inner\", then the \"outer\"",
+        "answer": "Mongolia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FIX THE PROVERB",
+        "value": 100,
+        "question": "Be it ever so numbing, there's no place like Nome",
+        "answer": "Be it ever so humble, there's no place like home",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GO PLAY OUTSIDE",
+        "value": 200,
+        "question": "One of these courses is usually 6,500 to 7,000 yards long & divided into 18 sections",
+        "answer": "Golf course",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL MONUMENTS",
+        "value": 200,
+        "question": "The USA's only natl. monument outside the 50 states is Buck Island Reef near St. Croix in this U.S. possession",
+        "answer": "U.S. Virgin Islands",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT ARTHROPOD",
+        "value": 200,
+        "question": "This butterfly has a 4-inch wingspan",
+        "answer": "Monarch butterfly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 200,
+        "question": "Judy,Ossie,Geena",
+        "answer": "Davis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HEY HEY WE'RE THE MANCHUS",
+        "value": 400,
+        "question": "Helped by a defecting general, we smashed this prior dynasty like one of their fine vases",
+        "answer": "Ming",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FIX THE PROVERB",
+        "value": 200,
+        "question": "Tide groweth before a squall",
+        "answer": "Pride cometh before a fall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GO PLAY OUTSIDE",
+        "value": 300,
+        "question": "Game seen here in a Winslow Homer painting",
+        "answer": "Croquet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL MONUMENTS",
+        "value": 300,
+        "question": "This Montana site was designated a national cemetery in 1879; it became a national monument in 1946",
+        "answer": "Little Big Horn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT ARTHROPOD",
+        "value": 300,
+        "question": "It builds its nests out of paper fibers made from bark which it mixes with its own saliva",
+        "answer": "Wasp",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 300,
+        "question": "Wayne,Tristan,Kenny",
+        "answer": "Rogers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HEY HEY WE'RE THE MANCHUS",
+        "value": 300,
+        "question": "Good genes: our second & fourth men in this exalted post each reigned over 60 years",
+        "answer": "emperors",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FIX THE PROVERB",
+        "value": 300,
+        "question": "A beard in the hand is worth 2 on the foot",
+        "answer": "A bird in the hand is worth 2 in the bush",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GO PLAY OUTSIDE",
+        "value": 400,
+        "question": "The area between the wickets is called the pitch in this game",
+        "answer": "Cricket",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL MONUMENTS",
+        "value": 400,
+        "question": "Idaho's Hagerman Fossil Beds National Monument covers over 4,000 acres along the banks of this river",
+        "answer": "Snake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT ARTHROPOD",
+        "value": 400,
+        "question": "It's the only insect that can turn its head from side to side",
+        "answer": "Praying Mantis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 400,
+        "question": "Danny,Savion,John",
+        "answer": "Glover",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HEY HEY WE'RE THE MANCHUS",
+        "value": 400,
+        "question": "We protected this handwriting art, though we'd only just gotten our own written language",
+        "answer": "Calligraphy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FIX THE PROVERB",
+        "value": 400,
+        "question": "Absinthe makes the dart go longer",
+        "answer": "Absence makes the heart grow fonder",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GO PLAY OUTSIDE",
+        "value": 500,
+        "question": "In 1995 George Zameska donned a skirt to join a women's varsity team in Philadelphia in this sport",
+        "answer": "Field hockey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL MONUMENTS",
+        "value": 500,
+        "question": "It rises 1,280 feet above the nearby Belle Fourche River in northeast Wyoming",
+        "answer": "Devils Tower National Monument",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT ARTHROPOD",
+        "value": 500,
+        "question": "It can't fold up its wings; what you see is what you get",
+        "answer": "Dragonfly",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LAST NAME'S THE SAME",
+        "value": 500,
+        "question": "Sally,Anthony,Aidan",
+        "answer": "Quinn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HEY HEY WE'RE THE MANCHUS",
+        "value": 500,
+        "question": "In 1683 we conquered this island & made it part of Fukien province",
+        "answer": "Taiwan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FIX THE PROVERB",
+        "value": 500,
+        "question": "Brevity is the seal of knit",
+        "answer": "Brevity is the soul of wit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GO SEE A PLAY OUTSIDE",
+      "BLACK AMERICANS",
+      "THE ART WORLD",
+      "THEY USED TO BE SOAP STARS",
+      "BRITISH WHODUNITS",
+      "FUN WITH WORDS"
+    ],
+    "clues": [
+      {
+        "category": "GO SEE A PLAY OUTSIDE",
+        "value": 200,
+        "question": "Presented near Burlington, N.C., \"Pathway To Freedom\" tells the story of this historic \"transport\"",
+        "answer": "Underground Railroad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 200,
+        "question": "This author of \"Soul On Ice\" was minister of information for the Black Panthers in the 1960s",
+        "answer": "Eldridge Cleaver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE ART WORLD",
+        "value": 200,
+        "question": "Museums devoted to this surrealist are in St. Petersburg, Florida & Figueras, Spain",
+        "answer": "Salvador Dali",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THEY USED TO BE SOAP STARS",
+        "value": 200,
+        "question": "She was just a Demi-star when she played Jackie Templeton on \"General Hospital\"",
+        "answer": "Demi Moore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BRITISH WHODUNITS",
+        "value": 200,
+        "question": "Theme in common to Ruth Rendell's \"One Across, Two Down\" & Patricia Moyes' \"A Six-Letter Word For Death\"",
+        "answer": "Crossword puzzles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH WORDS",
+        "value": 200,
+        "question": "Phrase our writers used a lot before they started work hereJOB I'M JOB",
+        "answer": "I'm between jobs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GO SEE A PLAY OUTSIDE",
+        "value": 400,
+        "question": "\"Anasazi: The Ancient Ones\" was presented in a natural sandstone amphitheatre in this SW state",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 400,
+        "question": "On March 31, 1870 in Perth Amboy in this state, Thomas Peterson became the first black to vote in the U.S.",
+        "answer": "New Jersey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE ART WORLD",
+        "value": 400,
+        "question": "Manet's last great painting was of \"The Bar\" at this night spot",
+        "answer": "the Folies Bergère",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THEY USED TO BE SOAP STARS",
+        "value": 400,
+        "question": "It's a snap you know he played Snapper for 7 years on \"The Young & The Restless\"",
+        "answer": "David Hasselhoff",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BRITISH WHODUNITS",
+        "value": 400,
+        "question": "After being hurt while horse racing, this author's jockey Sid Halley becomes a detective",
+        "answer": "Dick Francis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH WORDS",
+        "value": 400,
+        "question": "Gymnastic phrase signifying deep affectionLO head VEheels",
+        "answer": "head over heels in love",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GO SEE A PLAY OUTSIDE",
+        "value": 600,
+        "question": "A musical about this president's youth in Indiana is presented in the Indiana state park named for him",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 1200,
+        "question": "In 1965 these 2 Nobel Peace Prize winners participated in the Selma to Montgomery March",
+        "answer": "Martin Luther King & Ralph Bunche",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE ART WORLD",
+        "value": 600,
+        "question": "He sent Hans Holbein to paint portraits of prospective brides Christina of Milan & Anne of Cleves",
+        "answer": "Henry VIII",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THEY USED TO BE SOAP STARS",
+        "value": 600,
+        "question": "He played Rose's neurotic, mute brother Wilbur on \"Search for Tomorrow\" before he played Barney Fife",
+        "answer": "Don Knotts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BRITISH WHODUNITS",
+        "value": 600,
+        "question": "Don't Pooh-Pooh his mysteries \"The Red House Mystery\" & \"Four Days' Wonder\"",
+        "answer": "A.A. Milne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH WORDS",
+        "value": 600,
+        "question": "It's the aspect of a bar that our writers always desireHOURHOUR    OPENHOUR",
+        "answer": "open after hours",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GO SEE A PLAY OUTSIDE",
+        "value": 800,
+        "question": "A pageant about this famous trail is performed in the city by the Willamette River where the trail ended",
+        "answer": "Oregon Trail",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 800,
+        "question": "During World War II, this American-born dancer worked with the French resistance",
+        "answer": "Josephine Baker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE ART WORLD",
+        "value": 800,
+        "question": "Anthony Van Dyck was an assistant to this Flemish master",
+        "answer": "Peter Paul Rubens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THEY USED TO BE SOAP STARS",
+        "value": 800,
+        "question": "Lacey Chabert, who plays Claudia on \"Party Of Five\", used to play Erica's daughter on this soap opera",
+        "answer": "\"All My Children\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BRITISH WHODUNITS",
+        "value": 800,
+        "question": "This miss crack'd the case in \"The Mirror Crack'd\"",
+        "answer": "Miss Marple",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH WORDS",
+        "value": 800,
+        "question": "It's a mnemonic device to help remember vowel order when spelling out wordsEYE  ESEE  EXCEPT",
+        "answer": "\"I\" before \"E\" except after \"C\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GO SEE A PLAY OUTSIDE",
+        "value": 1000,
+        "question": "Follow the Coal Heritage Trail to Beckley in this state to see the outdoor drama \"Honey In The Rock\"",
+        "answer": "West Virginia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BLACK AMERICANS",
+        "value": 1000,
+        "question": "In 1914 this \"Father of the Blues\" wrote his \"St. Louis Blues\"",
+        "answer": "W.C. Handy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE ART WORLD",
+        "value": 1000,
+        "question": "His 1942 work \"Nighthawks\" nests at the Art Institute of Chicago",
+        "answer": "Edward Hopper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THEY USED TO BE SOAP STARS",
+        "value": 1000,
+        "question": "This older brother of Julia Roberts used to play Ted Bancroft on \"Another World\"",
+        "answer": "Eric Roberts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BRITISH WHODUNITS",
+        "value": 2000,
+        "question": "In 1998 Jill Paton Walsh finished this late author's 12th Lord Peter Wimsey novel",
+        "answer": "Dorothy Sayers",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH WORDS",
+        "value": 1000,
+        "question": "An idea that occurs to you following an eventTHOUGHT AN",
+        "answer": "an afterthought",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. PRESIDENTS",
+    "clue": "He was the last man elected president who had served as a U.S. senator",
+    "answer": "Richard M. Nixon"
+  },
+  "gameId": "3239",
+  "gameDate": "Thursday, October 8, 1998"
+}

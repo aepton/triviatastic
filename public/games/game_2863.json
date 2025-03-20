@@ -1,0 +1,574 @@
+{
+  "title": "Show #4235 - Friday, January 17, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "TEXAS TECH",
+      "NORTHWESTERN",
+      "RICE",
+      "HOLY CROSS",
+      "OLE \"MISS\"",
+      "COLLEGE MOVIES"
+    ],
+    "clues": [
+      {
+        "category": "TEXAS TECH",
+        "value": 200,
+        "question": "One of Texas' first railroads, the BBB&C, became the GH&SA, for Galveston, Harrisburg & this",
+        "answer": "San Antonio",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NORTHWESTERN",
+        "value": 200,
+        "question": "It's the most northwestern state in the contiguous U.S.",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RICE",
+        "value": 200,
+        "question": "2 of these are mirin & sake",
+        "answer": "rice wines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HOLY CROSS",
+        "value": 200,
+        "question": "In 2002 the Pope added 5 meditations to this prayer aid that has a crucifix",
+        "answer": "rosary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OLE \"MISS\"",
+        "value": 200,
+        "question": "Someone who does church work abroad",
+        "answer": "missionary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 200,
+        "question": "The Delta fraternity gets in deep trouble on the campus of Faber College in this 1978 classic",
+        "answer": "Animal House",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "TEXAS TECH",
+        "value": 400,
+        "question": "A museum of the history of looking for this stuff is a tourist attraction in Kilgore, Texas",
+        "answer": "oil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NORTHWESTERN",
+        "value": 400,
+        "question": "This capital lies at the mouth of the Liwung River, on the northwest coast of Java",
+        "answer": "Jakarta",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RICE",
+        "value": 400,
+        "question": "If the bran & germ are still attached, you've got this type of rice (sometimes of a different color than its name)",
+        "answer": "brown rice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HOLY CROSS",
+        "value": 400,
+        "question": "In the Bible, Luke writes that this many others were crucified with Jesus",
+        "answer": "2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OLE \"MISS\"",
+        "value": 400,
+        "question": "It's bordered by Tennessee, Arkansas & Oklahoma",
+        "answer": "Missouri",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 400,
+        "question": "As Thornton Melon, this comedian goes \"Back to School\" in a 1986 film to earn respect for himself & his son",
+        "answer": "Rodney Dangerfield",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "TEXAS TECH",
+        "value": 600,
+        "question": "Founded by Ross Perot in 1962, Electronic Data Systems got its first computer in 1965, this company's 1401",
+        "answer": "IBM",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NORTHWESTERN",
+        "value": 600,
+        "question": "Attempts to find the ill-fated 1840s expedition of Sir John Franklin proved the existence of this sea route",
+        "answer": "Northwest Passage",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RICE",
+        "value": 600,
+        "question": "This Italian dish is made by constantly stirring stock into rice until all the liquid is absorbed",
+        "answer": "risotto",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HOLY CROSS",
+        "value": 600,
+        "question": "Shaped like a skull, this hill where Jesus was crucified takes its name from an ancient word for \"skull\"",
+        "answer": "Golgotha/Calvary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OLE \"MISS\"",
+        "value": 600,
+        "question": "Theoretical transitional evolutionary stage between apes & humans",
+        "answer": "the Missing Link",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 600,
+        "question": "Windsor College students drop like flies in this 1997 scary sequel co-starring Courteney Cox",
+        "answer": "Scream 2",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TEXAS TECH",
+        "value": 800,
+        "question": "Staley McBrayer of Fort Worth moved newspaper printing from the \"hot\" to the \"cold\" variety of this",
+        "answer": "typesetting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NORTHWESTERN",
+        "value": 800,
+        "question": "You'll find this bay at the northwestern-most point of the Pyrenees",
+        "answer": "Bay of Biscay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RICE",
+        "value": 800,
+        "question": "This saffron-flavored rice dish originated in the Valencia region of Spain",
+        "answer": "paella",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HOLY CROSS",
+        "value": 800,
+        "question": "According to tradition, this apostle was crucified on an X-shaped cross, hence the X on the Scottish flag",
+        "answer": "Saint Andrew",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OLE \"MISS\"",
+        "value": 800,
+        "question": "This musical takes place in part during the last days of the Vietnam War",
+        "answer": "Miss Saigon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 800,
+        "question": "This Laker (then with Orlando) played a recruit in the 1994 college basketball film \"Blue Chips\"",
+        "answer": "Shaquille O'Neal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TEXAS TECH",
+        "value": 1000,
+        "question": "Texas is a leading state in mining this element, atomic number 16 & in manufacturing its acid",
+        "answer": "sulphur",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NORTHWESTERN",
+        "value": 1000,
+        "question": "Tenerife is the chief island in this Spanish island group off the northwest coast of Africa",
+        "answer": "Canary Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RICE",
+        "value": 1000,
+        "question": "The name of this fragrant rice of India means \"queen of fragrance\"",
+        "answer": "Basmati rice",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HOLY CROSS",
+        "value": 1000,
+        "question": "In an 1896 speech while running for president, William Jennings Bryan said, \"You shall not crucify mankind upon\" this",
+        "answer": "a cross of gold",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OLE \"MISS\"",
+        "value": 1000,
+        "question": "City that's home to the University of Montana",
+        "answer": "Missoula",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 1000,
+        "question": "Anthony Edwards is one of the geeky freshmen who fight back against the jocks in this 1984 comedy",
+        "answer": "Revenge of the Nerds",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "17th CENTURY DUTCHMEN",
+      "SHADES OF BLUE",
+      "BEASTLY BOOK TITLES",
+      "THE ROCK & ROLL HALL OF FAME & MUSEUM",
+      "FUN WITH GEOMETRY",
+      "WORDS ABOUT WORDS"
+    ],
+    "clues": [
+      {
+        "category": "17th CENTURY DUTCHMEN",
+        "value": 400,
+        "question": "Willem Janszoon made the first European sighting of this continent, but thought it was part of New Guinea",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SHADES OF BLUE",
+        "value": 400,
+        "question": "An infant",
+        "answer": "baby blue",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY BOOK TITLES",
+        "value": 400,
+        "question": "A professional killer plots to assassinate Charles de Gaulle in this thriller by Frederick Forsyth",
+        "answer": "\"The Day of the Jackal\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE ROCK & ROLL HALL OF FAME & MUSEUM",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew reports from the Rock & Roll Hall of Fame in Cleveland.)  These cars were hung as stage props during this group's \"Zoo TV\" tour in 1992 & 1993",
+        "answer": "U2",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FUN WITH GEOMETRY",
+        "value": 400,
+        "question": "If the Sea Dragon theme park ride moves in a semicircle, it describes an arc of this many degrees",
+        "answer": "180",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 400,
+        "question": "So many people are using this type of trendy term that they sound like bees",
+        "answer": "buzzword",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "17th CENTURY DUTCHMEN",
+        "value": 800,
+        "question": "Philips Wouwerman painted about 1,000 pictures & most included a white one of these animals",
+        "answer": "horse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SHADES OF BLUE",
+        "value": 800,
+        "question": "12 o'clock",
+        "answer": "midnight blue",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY BOOK TITLES",
+        "value": 800,
+        "question": "This '88 bestseller begins, \"Behavioral science, the FBI section that deals with serial murder, is...at Quantico\"",
+        "answer": "\"Silence of the Lambs\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE ROCK & ROLL HALL OF FAME & MUSEUM",
+        "value": 800,
+        "question": "On my honor, you can see a Cub Scout uniform worn by this singer long before he was the \"Lizard King\"",
+        "answer": "Jim Morrison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FUN WITH GEOMETRY",
+        "value": 800,
+        "question": "The line along which a bishop in chess moves, it cuts a square into 2 triangles",
+        "answer": "diagonal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 800,
+        "question": "Also called bubbly, it's an example of a toponym, a word derived from a place name",
+        "answer": "champagne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "17th CENTURY DUTCHMEN",
+        "value": 1200,
+        "question": "Leeuwenhoek made the first drawings of these microorganisms, which he scraped off teeth",
+        "answer": "bacteria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SHADES OF BLUE",
+        "value": 1200,
+        "question": "A branch of the U.S. Armed Forces",
+        "answer": "Navy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY BOOK TITLES",
+        "value": 1200,
+        "question": "One critic wrote that this memoir by Maya Angelou is \"A Biblical study of life in the midst of death\"",
+        "answer": "\"I Know Why the Caged Bird Sings\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE ROCK & ROLL HALL OF FAME & MUSEUM",
+        "value": 1200,
+        "question": "(Sofia of the Clue Crew reports from the Rock & Roll Hall of Fame in Cleveland.)  These puppies here were worn by this \"Master of Funk\" on his 1983 \"Atomic Dog\" tour",
+        "answer": "George Clinton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FUN WITH GEOMETRY",
+        "value": 1200,
+        "question": "This term meaning \"having 2 equal sides\" usually refers to triangles but can also be used of trapezoids",
+        "answer": "isosceles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 1200,
+        "question": "A polite term for a bad word, it comes from the Greek for \"good speech\"",
+        "answer": "euphemism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "17th CENTURY DUTCHMEN",
+        "value": 1600,
+        "question": "Hugo Grotius helped found international law with \"De Jure Belli ac Pacis\", \"On the Law of\" these 2 things",
+        "answer": "War and Peace",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SHADES OF BLUE",
+        "value": 1600,
+        "question": "The element symbolized Co",
+        "answer": "cobalt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY BOOK TITLES",
+        "value": 1600,
+        "question": "Clarissa Pinkola Estes wrote this nonfiction work subtitled \"Myths and Stories of the Wild Woman Archetype\"",
+        "answer": "Women Who Run with the Wolves",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE ROCK & ROLL HALL OF FAME & MUSEUM",
+        "value": 1600,
+        "question": "In 2002 the ashes of this legendary DJ were enshrined at the Hall of Fame",
+        "answer": "Alan Freed",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FUN WITH GEOMETRY",
+        "value": 1600,
+        "question": "Some of the dimensions of the Parthenon resemble the \"golden\" type of this quadrangle",
+        "answer": "rectangle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 1600,
+        "question": "Rich Hall has published several books of these words that don't appear in the dictionary but should",
+        "answer": "sniglets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "17th CENTURY DUTCHMEN",
+        "value": 2000,
+        "question": "After buying Manhattan for the Dutch, he bought what's now Wilmington, Delaware for the Swedes",
+        "answer": "Peter Minuit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SHADES OF BLUE",
+        "value": 2000,
+        "question": "A male bird of the family Phasianidae",
+        "answer": "peacock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BEASTLY BOOK TITLES",
+        "value": 2000,
+        "question": "It's Scott O'Dell's Newbery Medal-winning tale of a 12-year-old Native American girl named Karana",
+        "answer": "\"Island of the Blue Dolphins\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE ROCK & ROLL HALL OF FAME & MUSEUM",
+        "value": 2000,
+        "question": "(Sofia of the Clue Crew reports from Cleveland.)  The Rock & Roll Hall of Fame & Museum was designed by this renowned architect who admitted he knew nothing about rock & roll",
+        "answer": "I.M. Pei",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FUN WITH GEOMETRY",
+        "value": 2000,
+        "question": "A spheroid might say, you can call me prolate or this, like the Earth -- just don't call me late for dinner",
+        "answer": "oblate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORDS ABOUT WORDS",
+        "value": 2000,
+        "question": "These 2 words meaning \"a line of objects\" & \"an argument\", are homographs, spelled alike but said differently",
+        "answer": "row & row",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BROADWAY MUSICALS",
+    "clue": "In 1999 this Broadway musical was advertised with the line: \"Before the Century Ends, See How It All Began\"",
+    "answer": "Ragtime"
+  },
+  "gameId": "4235",
+  "gameDate": "Friday, January 17, 2003"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1343 - Wednesday, June 6, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "\"HORSE\"PLAY",
+      "ANCIENT ROME",
+      "THE BEATLES",
+      "FOOD FACTS",
+      "WEAPONS",
+      "IN THE BOOKSTORE"
+    ],
+    "clues": [
+      {
+        "category": "\"HORSE\"PLAY",
+        "value": 100,
+        "question": "A pungent relish is made from the sharp-tasting root of this member of the mustard family",
+        "answer": "horseradish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 100,
+        "question": "At least 19 of the first 50 of them, including Galba & Caligula, were assassinated",
+        "answer": "emperors",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 100,
+        "question": "George Harrison said, \"As far as I am concerned, there won't be a Beatles reunion as long as\" he \"remains dead\"",
+        "answer": "John Lennon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 100,
+        "question": "The upper hind leg of a porker that's salted, smoked & sometimes aged becomes this meat",
+        "answer": "ham",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WEAPONS",
+        "value": 100,
+        "question": "Large-caliber weapons, they can be heavy, field or siege",
+        "answer": "artillery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 100,
+        "question": "First Lady who dedicated her book \"The Times of My Life\" \"To Jerry\"",
+        "answer": "Betty Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"HORSE\"PLAY",
+        "value": 200,
+        "question": "This first No. 1 hit by America was inspired by homesickness for the California desert",
+        "answer": "\"A Horse with No Name\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 200,
+        "question": "The Flavian Amphitheater, popularly known as this, is the world's largest standing ancient amphitheater",
+        "answer": "Colosseum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 200,
+        "question": "This 1964 film is a fictional account of 2 days in the life of The Beatles",
+        "answer": "A Hard Day's Night",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 200,
+        "question": "Similar to English muffins, they're often served in England with tea",
+        "answer": "crumpets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WEAPONS",
+        "value": 200,
+        "question": "First weapon mentioned in \"The Star-Spangled Banner\"",
+        "answer": "rockets",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 200,
+        "question": "\"The Queen of Mean\" is an unauthorized biography of this hotel queen",
+        "answer": "(Leona) Helmsley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"HORSE\"PLAY",
+        "value": 300,
+        "question": "It's another name for the king crab",
+        "answer": "horseshoe crab",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 300,
+        "question": "Roman life centered around these public facilities, called the \"thermae\"",
+        "answer": "baths",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 300,
+        "question": "\"The girl that's driving me mad is going away. She's got\" one of these",
+        "answer": "a ticket to ride",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 300,
+        "question": "If you're dining on hasenpfeffer, you're eating a stew made of this meat",
+        "answer": "rabbit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WEAPONS",
+        "value": 300,
+        "question": "In the Marine Corps the next rank up from PFC has this weapon in its name",
+        "answer": "lance",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 600,
+        "question": "Thinking of her imprisoned husband, Nelson, she titled her book \"Part of My Soul Went with Him\"",
+        "answer": "Winnie Mandela",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"HORSE\"PLAY",
+        "value": 400,
+        "question": "The book of Revelation says, \"Behold\" this \"and his name that sat on him was Death\"",
+        "answer": "pale horse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 400,
+        "question": "This word for a popular vote comes from resolutions voted by the Plebeian Assembly of Rome",
+        "answer": "plebiscite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 400,
+        "question": "He's currently playing Mr. Conductor on PBS' \"Shining Time Station\"",
+        "answer": "Ringo Starr",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 400,
+        "question": "These grow on a single tall cabbage on which miniature heads develop at stem joints",
+        "answer": "Brussels sprouts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WEAPONS",
+        "value": 400,
+        "question": "This cavalry weapon was inspired by the Turkish scimitar",
+        "answer": "saber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 400,
+        "question": "Curly-haired songwriter who called his book \"Still Water\", not \"Troubled Water\"",
+        "answer": "Art Garfunkel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"HORSE\"PLAY",
+        "value": 500,
+        "question": "Dale Robertson owned a railroad in this mid 1960s TV western",
+        "answer": "Iron Horse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME",
+        "value": 500,
+        "question": "Though it was considered unlucky, these priestesses could marry after 30 years of service",
+        "answer": "Vestal Virgins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 500,
+        "question": "\"Someday you'll know I was the one, but tomorrow may rain, so I'll\" do this",
+        "answer": "follow the sun",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 500,
+        "question": "Dry types of this processed meat include Holsteiner, mortadella & salami",
+        "answer": "sausages",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WEAPONS",
+        "value": 500,
+        "question": "Weapon that killed Achilles",
+        "answer": "arrow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 500,
+        "question": "\"Trash Trio\", a collection of screenplays by this director, includes \"Pink Flamingos\"",
+        "answer": "John Waters",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POETRY",
+      "AFRICA",
+      "THE CABINET",
+      "THEATER",
+      "HISTORIC NAMES",
+      "ART"
+    ],
+    "clues": [
+      {
+        "category": "POETRY",
+        "value": 200,
+        "question": "The word that completes the title of Tennyson's poem \"Flower in the Crannied...\"",
+        "answer": "Wall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 200,
+        "question": "A mint variety of this is the national drink of Morocco",
+        "answer": "tea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 200,
+        "question": "This cabinet post has produced the most U.S. Presidents--6",
+        "answer": "Secretary of State",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THEATER",
+        "value": 200,
+        "question": "In the title of M. Anderson's play based on the Sacco & Vanzetti case, this season precedes \"Set\"",
+        "answer": "Winter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "Upon signing the Declaration of Independence, he said, \"There, King George will be able to read that\"",
+        "answer": "John Hancock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "Term taken from the title of Claude Monet's \"Impression: Sunrise\" of 1872",
+        "answer": "Impressionism",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POETRY",
+        "value": 400,
+        "question": "A. E. Housman wrote, \"About the woodlands I will go to see the cherry hung with\" this",
+        "answer": "snow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 400,
+        "question": "In London in 1989 his 73-year-old son announced his ascension to the throne of Ethiopia",
+        "answer": "Haile Selassie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 400,
+        "question": "This embattled HUD director was the only cabinet officer in the Reagan administration to serve 8 years",
+        "answer": "Sam Pierce",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THEATER",
+        "value": 400,
+        "question": "This Peter Shaffer play requires 6 actors to play horses",
+        "answer": "Equus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "Not to be confused with Bluebeard, this pirate also had many wives but treated them courteously",
+        "answer": "Blackbeard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Henri Matisse unwittingly coined this word when criticizing a painting by Georges Braque",
+        "answer": "Cubism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POETRY",
+        "value": 600,
+        "question": "Advising men about women, Ogden Nash said, \"In real life it takes only\" this many \"to make a quarrel.\"",
+        "answer": "one",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 600,
+        "question": "Afrikaners were known formerly by this Dutch name",
+        "answer": "Boers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 600,
+        "question": "In 1947 Sec'y of the Navy James V. Forrestal became the head of this newly created dept.",
+        "answer": "Department of Defense",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THEATER",
+        "value": 600,
+        "question": "Gwen Verdon & Chita Rivera played murderesses in this musical named for a Midwest city",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 600,
+        "question": "When Robert Scott arrived at the South Pole in January 1912 he found the tent this man had left",
+        "answer": "(Roald) Amundsen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "This 19th century U.S. painter also made bronze figures of his favorite subjects: men & horses",
+        "answer": "(Frederic) Remington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POETRY",
+        "value": 800,
+        "question": "In \"The Waste Land\" the line \"I do not find the hanged man\" alludes to these cards",
+        "answer": "tarot",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 800,
+        "question": "The official language of the Sudan, whose population is at least 70% Sunni Muslim",
+        "answer": "Arabic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 1600,
+        "question": "The 2 cabinet posts Elizabeth Dole has held",
+        "answer": "Secretary of Transportation & Secretary of Labor",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THEATER",
+        "value": 800,
+        "question": "She was only 19 when she starred in the musical \"Flora, The Red Menace\" & she won a Tony, too",
+        "answer": "Liza Minnelli",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 800,
+        "question": "A promoter of the Erie Canal, this statesman was New York governor when the canal opened in 1825",
+        "answer": "DeWitt Clinton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "Delacroix's painting glorifying the Revolution of 1830 is titled \"Liberty\" doing this",
+        "answer": "Liberty Leading the People",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POETRY",
+        "value": 1000,
+        "question": "Emily Dickinson said this \"is the thing with feathers that perches in the soul\"",
+        "answer": "hope",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 1000,
+        "question": "Encyclopedia Americana says the name of this capital of Uganda means \"impala hill\"",
+        "answer": "Kampala",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE CABINET",
+        "value": 1000,
+        "question": "This president's attorneys general were Griffin Bell & Benjamin Civiletti",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THEATER",
+        "value": 1000,
+        "question": "This author & illustrator of \"Where the Wild Things Are\" wrote the script & lyrics for \"Really Rosie\"",
+        "answer": "(Maurice) Sendak",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 1000,
+        "question": "This 2nd century Greek anatomist 1st demonstrated that arteries carry blood, not air as had been earlier thought",
+        "answer": "Galen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 2000,
+        "question": "The 1st U.S. artist to have an exhibition at London's Tate Gallery, he painted the following",
+        "answer": "Roy Lichtenstein",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LANDMARKS",
+    "clue": "First identified in 1741, it split while being dragged to Liberty Pole Square in 1774",
+    "answer": "Plymouth Rock"
+  },
+  "gameId": "1343",
+  "gameDate": "Wednesday, June 6, 1990"
+}

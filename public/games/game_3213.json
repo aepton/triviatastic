@@ -1,0 +1,574 @@
+{
+  "title": "Show #5790 - Friday, November 13, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "ON THE U.S. MAP",
+      "THIS FALL IN ENTERTAINMENT",
+      "WAKE UP!",
+      "BIBLICAL WOMEN",
+      "LET'S GO FOR A SWIM",
+      "GOOD ADVICE"
+    ],
+    "clues": [
+      {
+        "category": "ON THE U.S. MAP",
+        "value": 200,
+        "question": "This state's Near Islands are the westernmost of the Aleutians",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THIS FALL IN ENTERTAINMENT",
+        "value": 200,
+        "question": "This huge beast's fall from the top of the Empire State Building is an iconic moment in movies",
+        "answer": "King Kong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WAKE UP!",
+        "value": 200,
+        "question": "You just heard the rooster do this, also the name of another bird",
+        "answer": "crow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL WOMEN",
+        "value": 200,
+        "question": "She was the Philistine mistress of Samson who got him to tell the secret of his strength",
+        "answer": "Delilah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A SWIM",
+        "value": 200,
+        "question": "A swimmer kicks twice with one leg for each stroke of the opposite arm in the \"Australian\" this",
+        "answer": "crawl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GOOD ADVICE",
+        "value": 200,
+        "question": "George Washington was among those who have said this quality is \"the best policy\"",
+        "answer": "honesty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ON THE U.S. MAP",
+        "value": 400,
+        "question": "This \"Silver State\" has a state reptile, the desert tortoise",
+        "answer": "Nevada",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THIS FALL IN ENTERTAINMENT",
+        "value": 400,
+        "question": "\"Nothin' But A Good Time\" at these Broadway awards in 2009; rocker Bret Michaels was leveled by a piece of scenery",
+        "answer": "Tonys",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WAKE UP!",
+        "value": 400,
+        "question": "Breakfast is only served until 9, & I know you crave this \"colorful\" dish of spuds fried & pressed into a patty",
+        "answer": "hash browns",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL WOMEN",
+        "value": 400,
+        "question": "While pregnant, she had to travel with her husband, who had to pay taxes in the city of his ancestry",
+        "answer": "Mary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A SWIM",
+        "value": 400,
+        "question": "Simultaneously bring both arms out of the water in forward, circular motions to do this stroke",
+        "answer": "the butterfly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GOOD ADVICE",
+        "value": 400,
+        "question": "This completes the classic anti-procrastination advice \"Never put off until tomorrow...\"",
+        "answer": "what you can do today (what can be done today accepted)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ON THE U.S. MAP",
+        "value": 600,
+        "question": "Pine Bluff & Arkadelphia are cities in this state",
+        "answer": "Arkansas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THIS FALL IN ENTERTAINMENT",
+        "value": 600,
+        "question": "Wile E. is the first name & middle initial of this cartoon character who plummets off cliffs pursuing a bird",
+        "answer": "Wile E. Coyote",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WAKE UP!",
+        "value": 600,
+        "question": "Right at 7 A.M. when this show starts weekdays on NBC, mom's going to be on camera looking in the window at Matt",
+        "answer": "the Today show",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL WOMEN",
+        "value": 600,
+        "question": "Her name comes from the Hebrew word for \"life\"",
+        "answer": "Eve",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A SWIM",
+        "value": 600,
+        "question": "World Book says it's \"a restful stroke because your face is always out of the water and breathing is easy\"",
+        "answer": "the backstroke",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GOOD ADVICE",
+        "value": 600,
+        "question": "Give a man this & he'll eat for a day; teach a man to do this & he'll eat for a lifetime; & don't forget the tartar sauce",
+        "answer": "fish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ON THE U.S. MAP",
+        "value": 800,
+        "question": "Chiricahua National Monument & the Painted Desert are both features of this arid state",
+        "answer": "Arizona",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THIS FALL IN ENTERTAINMENT",
+        "value": 800,
+        "question": "This actor's new rap career included falling off the stage during a Las Vegas show in 2009",
+        "answer": "Joaquin Phoenix",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WAKE UP!",
+        "value": 800,
+        "question": "Aurora is opening the gates for Helios' chariot, so it's this time of day for which she's the goddess",
+        "answer": "the dawn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL WOMEN",
+        "value": 800,
+        "question": "Married to Abraham, she became the \"Mother of Nations\" when she was 90 years old",
+        "answer": "Sarah",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A SWIM",
+        "value": 800,
+        "question": "This stroke is made in the prone position using both hands simultaneously & doing a frog kick",
+        "answer": "the breaststroke",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GOOD ADVICE",
+        "value": 800,
+        "question": "\"Never\" do this is the 3-word title of stroke-ridden Tedy Bruschi's book about his NFL comeback",
+        "answer": "give up",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ON THE U.S. MAP",
+        "value": 1000,
+        "question": "Go figure--this state's name is derived from a Native American word meaning \"father of the waters\"",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THIS FALL IN ENTERTAINMENT",
+        "value": 1000,
+        "question": "This skateboarder known as \"The Birdman\" can't quite fly--he's suffered a dozen concussions",
+        "answer": "Tony Hawk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WAKE UP!",
+        "value": 1000,
+        "question": "It's from the French for \"wake\" & it's the bugle call that's blowing in your ear",
+        "answer": "\"Reveille\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL WOMEN",
+        "value": 1000,
+        "question": "According to a late addition to her book of the Bible, her son Obed was the grandfather of David",
+        "answer": "Ruth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LET'S GO FOR A SWIM",
+        "value": 1000,
+        "question": "Your head rests on your lower arm, extended with the palm turned downward in this stroke",
+        "answer": "the sidestroke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GOOD ADVICE",
+        "value": 1000,
+        "question": "To attain your ambitions, remember the rhyming Dr. Phil-osophy \"Choose a\" this \"you can control\"",
+        "answer": "goal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EXPEDITION WEEK",
+      "YOUNG ATHLETES",
+      "LITERARY TERMS",
+      "FOR MY FIRST CAR I'D LIKE...",
+      "LET'S PLAY ALGEBRA!",
+      "DOUBLE \"E\" WORDS"
+    ],
+    "clues": [
+      {
+        "category": "EXPEDITION WEEK",
+        "value": 400,
+        "question": "The search is on for sunken World War II submarines of this nation in \"Hunt for the Samurai Subs\"",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "YOUNG ATHLETES",
+        "value": 400,
+        "question": "In 2008 Britain's Laura Robson thrilled the home folks by winning the juniors at this tennis tournament",
+        "answer": "Wimbledon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 400,
+        "question": "The Greek for \"first combatant\" gives us this term for the leading character of a literary work",
+        "answer": "protagonist",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOR MY FIRST CAR I'D LIKE...",
+        "value": 400,
+        "question": "Dad had a Bug in college--but I want this company's Jetta",
+        "answer": "Volkswagen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LET'S PLAY ALGEBRA!",
+        "value": 400,
+        "question": "If x2 = 144, x is this",
+        "answer": "12",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"E\" WORDS",
+        "value": 400,
+        "question": "A teeter-totter",
+        "answer": "a seesaw",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EXPEDITION WEEK",
+        "value": 800,
+        "question": "In \"Search for the... Headshrinkers\" of this river, we learn of the practice in Ecuador & Peru",
+        "answer": "the Amazon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "YOUNG ATHLETES",
+        "value": 800,
+        "question": "At 2008's Olympics, some thought athletes in this sport, like 4'6\", 68-lb. Deng Linlin, might not be the minimum 16",
+        "answer": "gymnastics",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 800,
+        "question": "This literary term refers to a line of 5 metrical feet in which each foot is an unstressed syllable followed by a stressed one",
+        "answer": "iambic pentameter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOR MY FIRST CAR I'D LIKE...",
+        "value": 800,
+        "question": "This Chevy sports car--the ZR1, & make it red to match the ribbon & bow",
+        "answer": "the Corvette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LET'S PLAY ALGEBRA!",
+        "value": 800,
+        "question": "If 3x + y = 10 & y equals 1, x equals this",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"E\" WORDS",
+        "value": 800,
+        "question": "In the 1990s the U.S. Army began adding about 2,000 pounds of armor to this, its most commonly deployed tactical vehicle",
+        "answer": "the Humvee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EXPEDITION WEEK",
+        "value": 1200,
+        "question": "\"When Crocs Ate Dinos\" takes us to this period, named for chalk cliffs, the dinosaurs' final period",
+        "answer": "the Cretaceous period",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "YOUNG ATHLETES",
+        "value": 1200,
+        "question": "(I'm Danica Patrick.)  Long before I got into race cars, I was a 12-year-old winner of the grand national championship in this sport -- if you're cool, you don't put the \"go\" in front of it",
+        "answer": "go-karts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 1200,
+        "question": "It's a word or phrase that is self-contradictory, like bittersweet",
+        "answer": "an oxymoron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOR MY FIRST CAR I'D LIKE...",
+        "value": 1200,
+        "question": "This emblem & the wheels to go with it",
+        "answer": "Jaguar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LET'S PLAY ALGEBRA!",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew shows an animated diagram on the monitor.)  If a racecar takes 5 seconds on a straightaway & 2 seconds to round a turn, it takes this long to complete 1 lap",
+        "answer": "14 seconds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"E\" WORDS",
+        "value": 1200,
+        "question": "This lymphoid organ destroys worn-out red blood cells & filters bacteria & foreign particles",
+        "answer": "the spleen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EXPEDITION WEEK",
+        "value": 1600,
+        "question": "\"Mars: Making the New Earth\" shows these biologists, from a word meaning \"star\", trying to bring life to the red planet",
+        "answer": "astrobiologists",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "YOUNG ATHLETES",
+        "value": 1600,
+        "question": "In 2007 12-year-old Alexis Thompson qualified for this LPGA major, held at the Pine Needles Lodge",
+        "answer": "the U.S. Open (Women's Open)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 1600,
+        "question": "It's the use of words imitative of sounds, like \"buzz\" or \"hiss\"",
+        "answer": "onomatopoeia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOR MY FIRST CAR I'D LIKE...",
+        "value": 1600,
+        "question": "A Lexus LS--it's a hybrid, but has this \"juicy\" alphanumeric engine",
+        "answer": "a V8 engine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LET'S PLAY ALGEBRA!",
+        "value": 1600,
+        "question": "They're the x & y coordinates of the point at which the x- & y-axes intersect",
+        "answer": "(0, 0)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"E\" WORDS",
+        "value": 1600,
+        "question": "A pirate",
+        "answer": "a buccaneer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EXPEDITION WEEK",
+        "value": 2000,
+        "question": "(National Geographic archaeologist Byron McCane delivers the clue.)  The Gabriel Revelation tablet, sometimes called a Dead Sea Scroll in stone, allegedly tells of a Jewish revolt against Rome in 4 B.C. & mentions a king of evil countenance, this emperor",
+        "answer": "Augustus (Caesar)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "YOUNG ATHLETES",
+        "value": 2000,
+        "question": "Justin Upton is one of the young stars who got the Arizona Diamondbacks dubbed this, like an order of ribs",
+        "answer": "the Babybacks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERARY TERMS",
+        "value": 2000,
+        "question": "It's a figure of speech that is an intentional exaggeration for effect, like \"to wait an eternity\"",
+        "answer": "hyperbole",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FOR MY FIRST CAR I'D LIKE...",
+        "value": 2000,
+        "question": "Uncle Ingemar's '94 Saab--cars from this country really hold up",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LET'S PLAY ALGEBRA!",
+        "value": 2000,
+        "question": "To multiply binomials like (3x + 5)(2x + 7), remember the \"FOIL\" method, which stands for this",
+        "answer": "first, outer, inner, last",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE \"E\" WORDS",
+        "value": 2000,
+        "question": "From the Latin for \"I believe\", it's one's system of beliefs or principles",
+        "answer": "a creed",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORIC SPEECHES",
+    "clue": "He said, \"We look forward to a world founded upon\" freedom of speech, of worship, from want & from fear",
+    "answer": "Franklin Delano Roosevelt"
+  },
+  "gameId": "5790",
+  "gameDate": "Friday, November 13, 2009"
+}

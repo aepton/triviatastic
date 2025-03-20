@@ -1,0 +1,574 @@
+{
+  "title": "Show #2241 - Monday, May 9, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "IN THE BOOKSTORE",
+      "TOYS & GAMES",
+      "NATURE",
+      "ON THE ROAD",
+      "FAST FOOD",
+      "RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 100,
+        "question": "This \"Tonight Show\" host has compiled several books of \"Real but Ridiculous\" newspaper headlines",
+        "answer": "Jay Leno",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 100,
+        "question": "Sega released its third version of this video game February 2, 1994, Groundhog Day",
+        "answer": "Sonic the Hedgehog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NATURE",
+        "value": 100,
+        "question": "About 1/3 of the world's sugar comes from a type of this vegetable",
+        "answer": "beet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ON THE ROAD",
+        "value": 100,
+        "question": "Pike is short for this kind of highway",
+        "answer": "turnpike",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FAST FOOD",
+        "value": 100,
+        "question": "If you're dieting, this chain's Double Whopper with Cheese is a no-no: it has 935 calories",
+        "answer": "Burger King",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 100,
+        "question": "\"Moby Dick\" or a similar story",
+        "answer": "whale tale",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 200,
+        "question": "Julia Sweeney co-wrote a book about this \"SNL\" character she plays whose gender is a mystery",
+        "answer": "Pat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 200,
+        "question": "In crazy eights, the player who lays down an eight names the next one of these to be played",
+        "answer": "suits",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NATURE",
+        "value": 200,
+        "question": "In general gastropods with a shell are called snails & those without are called these",
+        "answer": "slugs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ON THE ROAD",
+        "value": 200,
+        "question": "The edge of the road; it may be \"soft\"",
+        "answer": "shoulder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FAST FOOD",
+        "value": 200,
+        "question": "This roast beef sandwich chain takes its name from the initials of its founders, the Raffel Brothers",
+        "answer": "Arby's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 200,
+        "question": "A large timepiece made of stone",
+        "answer": "rock clock",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 300,
+        "question": "His novel \"WLT: A Radio Romance\" is set in Minneapolis, not in Lake Wobegon",
+        "answer": "Garrison Keillor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 300,
+        "question": "This letter has the most tiles in Scrabble—12",
+        "answer": "E",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NATURE",
+        "value": 300,
+        "question": "Widespread in Central & South America, Panama disease affects the leaves & shoots of this fruit plant",
+        "answer": "banana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ON THE ROAD",
+        "value": 300,
+        "question": "Pattern formed where 2 highways intersect, featuring exits that circle into connecting roads",
+        "answer": "cloverleaf",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FAST FOOD",
+        "value": 300,
+        "question": "In 1990 & 1991 this pizza delivery chain tested some eat-in restaurants called Pizzazz!",
+        "answer": "Domino's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 300,
+        "question": "Talk in Homer's tongue",
+        "answer": "Greek speak (speak Greek)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 400,
+        "question": "\"Are You Hungry Tonight?\" is a cookbook devoted to this late singer's favorite recipes",
+        "answer": "Elvis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 400,
+        "question": "Acey-deucey is a variation of this ancient board game of points & stones",
+        "answer": "backgammon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NATURE",
+        "value": 800,
+        "question": "These sea creatures make up the animal class Asteroidea",
+        "answer": "starfish",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ON THE ROAD",
+        "value": 400,
+        "question": "It's a sharp turn resembling an item that holds a woman's coifure in place",
+        "answer": "hairpin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FAST FOOD",
+        "value": 400,
+        "question": "\"Cross the Border\" to this chain, America's top Mexican style fast food restaurant",
+        "answer": "Taco Bell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 400,
+        "question": "An engagement to go to the roller rink",
+        "answer": "skate date",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "IN THE BOOKSTORE",
+        "value": 500,
+        "question": "This classic anatomical textbook was first published in Great Britain, in 1858",
+        "answer": "Gray's Anatomy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 500,
+        "question": "This game of flipping opposing discs to your color shares its name with a one-word Shakespeare title",
+        "answer": "Othello",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NATURE",
+        "value": 500,
+        "question": "In nature & in \"The Guinness Book\", the Rafflesia is the world's largest of these",
+        "answer": "flower",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ON THE ROAD",
+        "value": 500,
+        "question": "In this type of traffic jam, vehicles are blocked by others that fail to clear an intersection",
+        "answer": "gridlock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FAST FOOD",
+        "value": 500,
+        "question": "A \"reigning\" name in soft serve ice milk since 1940, it now serves hot dogs & hamburgers as well",
+        "answer": "Dairy Queen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RHYME TIME",
+        "value": 500,
+        "question": "A saloon set inside a large cave",
+        "answer": "cavern tavern",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "JAPAN",
+      "TV SITCOMS",
+      "19th CENTURY AMERICA",
+      "POETRY",
+      "TRANSPORTATION",
+      "MUSEUMS"
+    ],
+    "clues": [
+      {
+        "category": "JAPAN",
+        "value": 200,
+        "question": "Between 1960 & 1990 per capita consumption of this grain decreased by over a third",
+        "answer": "rice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 200,
+        "question": "It's the sport Hayden Fox coaches at Minnesota State on \"Coach\"",
+        "answer": "football",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 200,
+        "question": "It was the most populous U.S. city for the entire century",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 200,
+        "question": "In \"Song of Myself\", he called grass \"the handkerchief of the Lord\"",
+        "answer": "Whitman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "In 1811 the New Orleans became the first steamboat to sail on this river",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 200,
+        "question": "This former Parisian Palace includes depts. of Oriental, Egyptian & Greek & Roman antiquities",
+        "answer": "Louvre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 400,
+        "question": "The former name of this capital city was Edo, which means \"estuary\"",
+        "answer": "Tokyo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 400,
+        "question": "The only time the face of Norm's wife, Vera, was seen on this sitcom, it was covered with pie",
+        "answer": "Cheers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 400,
+        "question": "Last name of the Michigan doctor who created Corn Flakes",
+        "answer": "Kellogg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 400,
+        "question": "In 1950 he left his native Wales for his first American tour",
+        "answer": "Dylan Thomas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "According to the initials, it's what an ATV is",
+        "answer": "all-terrain vehicle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 400,
+        "question": "When visiting this Italian city, be sure to see the Glass Museum on the island of Murano",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 600,
+        "question": "This religion was introduced to Japan from Korea in the 6th century",
+        "answer": "Buddhism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 600,
+        "question": "In the fall of 1993, Sarah Chalke replaced Lecy Goranson as Becky Conner on this sitcom",
+        "answer": "Roseanne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 600,
+        "question": "\"Honest John\" Kelly succeeded this man as chief of Tammany Hall",
+        "answer": "Boss Tweed",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 600,
+        "question": "This poet moved to Chicago in 1912 & later joined the staff of the Chicago Daily News",
+        "answer": "Carl Sandburg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 600,
+        "question": "This wheeled cot or streetcar is used to transport hospital patients",
+        "answer": "gurney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 600,
+        "question": "The Octagon House on Curacao was once the home of this South American liberator's family",
+        "answer": "Simón Bolívar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 800,
+        "question": "Nihon Koku, a name for Japan, means \"the hand of\" this",
+        "answer": "the rising sun",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 800,
+        "question": "On this sitcom Jesse married Rebecca Donaldson in 1991 & the couple later had twins",
+        "answer": "Full House",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1600,
+        "question": "The last confrontation of the 19th century Indian Wars took place at this South Dakota site",
+        "answer": "Wounded Knee",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 1600,
+        "question": "On July 28, 1814 this British poet eloped with Mary Godwin",
+        "answer": "(Percy Bysshe) Shelley",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "When railroads finally crossed the Appalachians in the 1850s, this covered \"Dutch wagon\" became obsolete",
+        "answer": "Conestoga",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 800,
+        "question": "The home of this author of \"Crime and Punishment\" is now a museum in St. Petersburg, Russia",
+        "answer": "Dostoyevsky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "JAPAN",
+        "value": 1000,
+        "question": "This party, the LDP, lost power in 1993 after 38 consecutive years of rule",
+        "answer": "Liberal Democratic Party",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV SITCOMS",
+        "value": 1000,
+        "question": "Charles Kimbrough plays this stuffy \"F.Y.I.\" news anchorman on \"Murphy Brown\"",
+        "answer": "Jim Dial",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICA",
+        "value": 1000,
+        "question": "Thomas Jefferson considered this 1820 arrangement on states & slavery the death knell of the Union",
+        "answer": "Missouri Compromise",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 1000,
+        "question": "In this poem Keats wrote, \"Away! Away! For I will fly to thee\"",
+        "answer": "Ode to a Nightingale",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1000,
+        "question": "These sailing ships used during the War of 1812 were about 200' long & could carry over 45 guns",
+        "answer": "frigate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 1000,
+        "question": "Roald Amundsen's polar ship, Gjoa, is on display in a maritime museum in this capital",
+        "answer": "Oslo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE SUPREME COURT",
+    "clue": "While Chief Justice, he was made special envoy to England, where he made a very unpopular treaty",
+    "answer": "John Jay"
+  },
+  "gameId": "2241",
+  "gameDate": "Monday, May 9, 1994"
+}

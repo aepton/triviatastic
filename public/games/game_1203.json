@@ -1,0 +1,574 @@
+{
+  "title": "Show #3172 - Tuesday, May 19, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "SHORT STORY WRITERS",
+      "CATS",
+      "ROCK ARTISTS",
+      "GUINNESS RECORDS",
+      "TOOL TIME",
+      "THE \"FIFTH\""
+    ],
+    "clues": [
+      {
+        "category": "SHORT STORY WRITERS",
+        "value": 100,
+        "question": "He wrote \"The Murders In The Rue Morgue\" shortly after becoming editor of Graham's Magazine",
+        "answer": "Edgar Allan Poe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CATS",
+        "value": 100,
+        "question": "After Charles Dickens' cat William did this, Dickens renamed it Williamina",
+        "answer": "Had kittens",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ROCK ARTISTS",
+        "value": 100,
+        "question": "In addition to his own bands, this guitarist has played with The Yardbirds, Cream, & Derek & The Dominos",
+        "answer": "Eric Clapton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 100,
+        "question": "Theodore Pomeroy had the shortest term as this, one day; Sam Rayburn, the longest, 17 years",
+        "answer": "Speaker of the House",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TOOL TIME",
+        "value": 100,
+        "question": "Henry F. Phillips invented a popular type of this hand tool",
+        "answer": "Screwdriver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"FIFTH\"",
+        "value": 100,
+        "question": "Constitutional right that protects you from self-incrimination",
+        "answer": "Fifth Amendment",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SHORT STORY WRITERS",
+        "value": 200,
+        "question": "It's thought that this \"Gift Of The Magi\" author partly took his pen name from a prison guard",
+        "answer": "O. Henry (William Sydney Porter)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CATS",
+        "value": 200,
+        "question": "To an Englishman, stroking one of these means good luck",
+        "answer": "Black cat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ROCK ARTISTS",
+        "value": 200,
+        "question": "B.B. King made a guest appearance on this Irish group's \"Rattle And Hum\" album",
+        "answer": "U2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 200,
+        "question": "The late Jeanne Calment holds this record but now it's up for grabs again",
+        "answer": "the oldest person in the world",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TOOL TIME",
+        "value": 200,
+        "question": "It can wear down metal, shape plastic or be baked in a cake for a prison inmate",
+        "answer": "File",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"FIFTH\"",
+        "value": 200,
+        "question": "Catherine Howard was this for Henry VIII, but not for long",
+        "answer": "Fifth wife",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SHORT STORY WRITERS",
+        "value": 300,
+        "question": "\"The Celestial Railroad\" from his \"Twice-Told Tales\" is a parody of John Bunyan's works",
+        "answer": "Nathaniel Hawthorne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CATS",
+        "value": 300,
+        "question": "Desmond Morris reports that a 1987 study found cats outnumbering these in the U.S. for the first time",
+        "answer": "Dogs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ROCK ARTISTS",
+        "value": 300,
+        "question": "2 years before \"Take It Easy\" was released, they backed Linda Ronstadt on her \"Silk Purse\" LP in 1970",
+        "answer": "The Eagles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 300,
+        "question": "How low can Dennis Walston go in this dance?  6 inches in 1991",
+        "answer": "The limbo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TOOL TIME",
+        "value": 600,
+        "question": "(Hi, I'm Debbe Dunning.)  The head of this type of hammer has one side to drive nails & another to pull them out",
+        "answer": "a claw hammer",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"FIFTH\"",
+        "value": 300,
+        "question": "Jupiter",
+        "answer": "Fifth planet from the sun",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SHORT STORY WRITERS",
+        "value": 400,
+        "question": "Sunnyside, the old Dutch home he remodeled in Tarrytown, N.Y., was made a public shrine in 1947",
+        "answer": "Washington Irving",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CATS",
+        "value": 400,
+        "question": "A homeless orphan in 1990, this cat now lives the high life at 1600 Pennsylvania Avenue",
+        "answer": "Socks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ROCK ARTISTS",
+        "value": 400,
+        "question": "Jim Seals & this partner toured with The Champs in 1958, but didn't have a hit as a duo until 1972",
+        "answer": "Dash Crofts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 400,
+        "question": "Nick Vermeulen has a collection of over 2,100 of these from hundreds of airlines, we hope none are used",
+        "answer": "Airsick bags",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TOOL TIME",
+        "value": 400,
+        "question": "A brace & bit is a simple type of this hand tool",
+        "answer": "drill",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"FIFTH\"",
+        "value": 400,
+        "question": "A group of spies or traitors within your own defensive lines",
+        "answer": "Fifth column",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SHORT STORY WRITERS",
+        "value": 500,
+        "question": "Of this author of \"The Necklace\", Flaubert said, \"He's my disciple and I love him like a son\"",
+        "answer": "Guy de Maupassant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CATS",
+        "value": 500,
+        "question": "This English scientist didn't need a cat to fall on him to inspire the cat flap, a swinging door",
+        "answer": "Sir Isaac Newton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ROCK ARTISTS",
+        "value": 500,
+        "question": "\"I Heard It Through The Grapevine\" that he was once a session drummer for Smokey Robinson",
+        "answer": "Marvin Gaye",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 500,
+        "question": "1 of the 3 men who've been the farthest from Earth; they were all on Apollo 13",
+        "answer": "(1 of) Fred Haise, James Lovell or John Swigart",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TOOL TIME",
+        "value": 500,
+        "question": "The carpenter & torpedo types of this measuring tool use bubbles as indicators",
+        "answer": "Level",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"FIFTH\"",
+        "value": 500,
+        "question": "Term for the French government's current incarnation",
+        "answer": "The Fifth Republic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MEN IN BLACK",
+      "MEN IN GREY",
+      "MEN IN WHITE",
+      "MEN IN BLUE",
+      "MEN IN RED",
+      "NO MEN ALLOWED"
+    ],
+    "clues": [
+      {
+        "category": "MEN IN BLACK",
+        "value": 200,
+        "question": "This star of the film sang the theme song",
+        "answer": "Will Smith",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MEN IN GREY",
+        "value": 200,
+        "question": "This author & steamboat pilot's Civil War experience was serving about a month in the Missouri militia",
+        "answer": "Mark Twain  (Samuel Langhorne Clemens)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEN IN WHITE",
+        "value": 200,
+        "question": "This novelist & medical school graduate (Harvard '69) created the TV show \"ER\"",
+        "answer": "Michael Crichton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEN IN BLUE",
+        "value": 200,
+        "question": "Sir Robert Peel organized this city's police force in 1829 & they've been nicknamed for him ever since",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MEN IN RED",
+        "value": 200,
+        "question": "In 1935, in one of this red-caped hero's first adventures, he finds the real killer of Jack Kennedy",
+        "answer": "Superman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NO MEN ALLOWED",
+        "value": 200,
+        "question": "Founded in 1874, Gamma Phi Beta was the first Greek-letter society for women to be called this",
+        "answer": "Sorority",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MEN IN BLACK",
+        "value": 400,
+        "question": "The film was based on a comic from this conglomerate whose aliens include the Silver Surfer",
+        "answer": "Marvel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MEN IN GREY",
+        "value": 400,
+        "question": "This nickname that General Barnard Bee gave Thomas Jackson may have been an insult",
+        "answer": "\"Stonewall\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEN IN WHITE",
+        "value": 400,
+        "question": "In the 1980s Robert Gallo identified this virus but called it HTLV",
+        "answer": "HIV",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEN IN BLUE",
+        "value": 400,
+        "question": "This word for a French policeman comes from an older word meaning people-at-arms",
+        "answer": "Gendarme",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MEN IN RED",
+        "value": 400,
+        "question": "A redcap is one of these, usually in a railroad station",
+        "answer": "Porter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NO MEN ALLOWED",
+        "value": 400,
+        "question": "This talk show host used to get big laughs with her comedy act for women, \"Girls' Night Out\"",
+        "answer": "Jenny Jones",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MEN IN BLACK",
+        "value": 600,
+        "question": "J's little weapon is named for this \"noisy\" insect",
+        "answer": "cricket",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MEN IN GREY",
+        "value": 600,
+        "question": "Pierre G.T. Beauregard was known as \"The Little\" this from his admiration of the French leader",
+        "answer": "Napoleon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEN IN WHITE",
+        "value": 600,
+        "question": "Dr. Stanley Prusiner's theory of protein bits called prions may explain this degenerative bovine disease",
+        "answer": "Mad Cow Disease",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEN IN BLUE",
+        "value": 600,
+        "question": "This organization is the only police force serving the Northwest & Yukon Territories",
+        "answer": "Royal Canadian Mounted Police (RCMP)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEN IN RED",
+        "value": 600,
+        "question": "Someone raised by committed Communists may be called this kind of \"baby\"",
+        "answer": "a red diaper baby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NO MEN ALLOWED",
+        "value": 600,
+        "question": "Once called water ballet, this women's sport officially joined the Olympics in 1984",
+        "answer": "Synchronized swimming",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MEN IN BLACK",
+        "value": 800,
+        "question": "An alien on \"Star Trek:  Voyager\", Jennifer Lien is the voice of this human MIB agent in the cartoon series",
+        "answer": "\"L\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MEN IN GREY",
+        "value": 800,
+        "question": "This tank-commanding general was a III; his grandfather was a Confederate colonel",
+        "answer": "George S. Patton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEN IN WHITE",
+        "value": 1600,
+        "question": "A type of chorea, a nerve disease, is named for this physician, who died in 1916",
+        "answer": "Dr. George Huntington",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEN IN BLUE",
+        "value": 800,
+        "question": "This country's Carabinieri evolved from a military group that served the Savoyard states",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEN IN RED",
+        "value": 800,
+        "question": "On \"My Aim Is True\", Elvis Costello claimed \"The angels wanna wear\" these",
+        "answer": "My red shoes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NO MEN ALLOWED",
+        "value": 800,
+        "question": "These dancers seen here first gained \"exposure\" with female audiences in 1978",
+        "answer": "Chippendales",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MEN IN BLACK",
+        "value": 1000,
+        "question": "Last, but not least, he's the head of MIB",
+        "answer": "Chief Zed (played by Rip Torn)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MEN IN GREY",
+        "value": 2000,
+        "question": "He never forgave Lee for having him send his men on that doomed charge at Gettysburg",
+        "answer": "George Edward Pickett",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEN IN WHITE",
+        "value": 1000,
+        "question": "This English discoverer of blood circulation studied at Padua with the great anatomist Aquapendente",
+        "answer": "William Harvey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEN IN BLUE",
+        "value": 1000,
+        "question": "The national police forces of 171 countries are members of this cooperative organization",
+        "answer": "Interpol",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MEN IN RED",
+        "value": 1000,
+        "question": "Red Schoendienst wore red for 3 decades as a player & manager with this National League team",
+        "answer": "St. Louis Cardinals",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NO MEN ALLOWED",
+        "value": 1000,
+        "question": "In mythology these warrior women tolerated men only in a servile capacity",
+        "answer": "Amazons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "STATE CAPITALS",
+    "clue": "In 1765 this city was named in honor of the peaceful resolution of a boundary dispute",
+    "answer": "Concord, New Hampshire"
+  },
+  "gameId": "3172",
+  "gameDate": "Tuesday, May 19, 1998"
+}

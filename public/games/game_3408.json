@@ -1,0 +1,574 @@
+{
+  "title": "Show #5937 - Tuesday, June 8, 2010",
+  "jeopardyRound": {
+    "categories": [
+      "I LOVE A SHOW TUNE",
+      "FOOD GLORIOUS FOOD",
+      "OLD DEUTERONOMY",
+      "YOU'RE A GRAND OLD FLAG",
+      "IF I WERE A RICH MAN...",
+      "\"S\"WONDERFUL"
+    ],
+    "clues": [
+      {
+        "category": "I LOVE A SHOW TUNE",
+        "value": 200,
+        "question": "Professor 'Enry 'Iggins sings, \"I've grown accustomed to her face\" in a song from this show",
+        "answer": "My Fair Lady",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD GLORIOUS FOOD",
+        "value": 200,
+        "question": "Usually roasted, squab is a young one of these birds",
+        "answer": "a pigeon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OLD DEUTERONOMY",
+        "value": 200,
+        "question": "A series of these ill wishes includes one on \"he that taketh reward to slay an innocent person\"",
+        "answer": "curses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "YOU'RE A GRAND OLD FLAG",
+        "value": 200,
+        "question": "This present country's red, white & green tricolor got a boost from an 1848 decree by the king of Sardinia",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IF I WERE A RICH MAN...",
+        "value": 200,
+        "question": "I'd say $47,500 for the 2009-10 term at this school in New Haven?  No prob!",
+        "answer": "Yale",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"S\"WONDERFUL",
+        "value": 200,
+        "question": "Here's the church; here's the high tower rising above it that's usually capped with a spire",
+        "answer": "a steeple",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A SHOW TUNE",
+        "value": 400,
+        "question": "\"I feel pretty, oh so pretty, I feel pretty and witty and bright\" in a song from this musical",
+        "answer": "West Side Story",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD GLORIOUS FOOD",
+        "value": 400,
+        "question": "In a variation of Beef Wellington, Rachael Ray bakes meat, spinach & feta cheese in this Greek dough",
+        "answer": "phyllo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OLD DEUTERONOMY",
+        "value": 400,
+        "question": "\"Hear, O Israel: the Lord our God is one Lord\" from Deuteronomy is part of Maariv, evening these",
+        "answer": "prayers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "YOU'RE A GRAND OLD FLAG",
+        "value": 400,
+        "question": "The blue on Panama's flag symbolizes the Pacific Ocean and this sea",
+        "answer": "the Caribbean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IF I WERE A RICH MAN...",
+        "value": 400,
+        "question": "I'd want &/or desire to buy this item seen here; it's about 45 carats, doc",
+        "answer": "the Hope Diamond",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"S\"WONDERFUL",
+        "value": 400,
+        "question": "This Georgia city, home to the Bonaventure cemetery & statues, has been called \"America's most haunted\"",
+        "answer": "Savannah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A SHOW TUNE",
+        "value": 600,
+        "question": "One of this title character's big numbers is \"The Music Of The Night\", which he sings to Christine",
+        "answer": "the Phantom of the Opera",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD GLORIOUS FOOD",
+        "value": 600,
+        "question": "Sheboygan, Wisconsin began its annual festival of this sausage in 1953",
+        "answer": "bratwurst",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OLD DEUTERONOMY",
+        "value": 600,
+        "question": "Though its name is derived from the Greek for \"two\", Deuteronomy is this book of the Bible",
+        "answer": "fifth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "YOU'RE A GRAND OLD FLAG",
+        "value": 600,
+        "question": "The yellow stripe on Sao Tome & Principe's flag represents this crop; you'd think it would be chocolate brown",
+        "answer": "cocoa (or cacao)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IF I WERE A RICH MAN...",
+        "value": 600,
+        "question": "I'd get a round-trip \"Upper Class\" ticket from NYC to Hong Kong on this man's Virgin Atlantic Airways; only $12,500!",
+        "answer": "Branson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"S\"WONDERFUL",
+        "value": 600,
+        "question": "The buzz is that rocker Gordon Sumner got this nickname from wearing a favorite yellow & black sweater",
+        "answer": "Sting",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A SHOW TUNE",
+        "value": 800,
+        "question": "A song from this show says, \"Won't forget, can't regret, what I did for love\"",
+        "answer": "A Chorus Line",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD GLORIOUS FOOD",
+        "value": 800,
+        "question": "A nutritious snack & fun to pop from their pods, green soybeans go by this Japanese name",
+        "answer": "edamame",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OLD DEUTERONOMY",
+        "value": 800,
+        "question": "These dietary rules are detailed in Deuteronomy, like salting to remove blood",
+        "answer": "kosher rules",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "YOU'RE A GRAND OLD FLAG",
+        "value": 800,
+        "question": "This South Pacific island nation's flag was based on an idea from King George Tupou I",
+        "answer": "Tonga",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IF I WERE A RICH MAN...",
+        "value": 800,
+        "question": "I'd say to this \"Mouth of the South\", you gave the U.N. $1 billion in 1997?  I'm givin' 'em 10!",
+        "answer": "Ted Turner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"S\"WONDERFUL",
+        "value": 800,
+        "question": "A wonderful vaccine largely for older people can help prevent this disease carried by the same virus as chicken pox",
+        "answer": "shingles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A SHOW TUNE",
+        "value": 1000,
+        "question": "He wrote the song from \"The Gay Divorcee\" that says, \"Night and day, you are the one\"",
+        "answer": "Cole Porter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD GLORIOUS FOOD",
+        "value": 1000,
+        "question": "Made of coconut or almond paste, these drop cookies are especially popular at Passover",
+        "answer": "macaroons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OLD DEUTERONOMY",
+        "value": 1000,
+        "question": "Verses from Deuteronomy are contained in the Mezuzah, which you can usually find on this part of the house",
+        "answer": "the doorway",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "YOU'RE A GRAND OLD FLAG",
+        "value": 1000,
+        "question": "Kenya's flag features an emblem depicting a shield & spears from this tribe",
+        "answer": "the Masai tribe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IF I WERE A RICH MAN...",
+        "value": 1000,
+        "question": "I wouldn't have paid this Dallas Mavericks owner & his pals $5.7 bil. for broadcast.com like Yahoo! did in '99; maybe 5.6 tops",
+        "answer": "Mark Cuban",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"S\"WONDERFUL",
+        "value": 1000,
+        "question": "A blushing crow rather than a crushing blow is an example of this play on words",
+        "answer": "a spoonerism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ART HEISTS",
+      "WOODY ALLEN MOVIE SYNOPSES",
+      "LAKE POET-RY",
+      "HUEY, DEWEY OR LOUIS",
+      "LISTED IN THE WORLD ALMANAC",
+      "ALL YOU NEED IS \"LOVE\""
+    ],
+    "clues": [
+      {
+        "category": "ART HEISTS",
+        "value": 400,
+        "question": "After this painting went missing from the Louvre in 1911, people lined up just to view the empty space",
+        "answer": "the Mona Lisa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOODY ALLEN MOVIE SYNOPSES",
+        "value": 400,
+        "question": "The arrival of a Spanish woman causes problems for a man & his relationships with 2 American girls",
+        "answer": "Vicky Cristina Barcelona",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LAKE POET-RY",
+        "value": 400,
+        "question": "That time of year thou may'st in me behold /The easternmost Great Lake, so we are told",
+        "answer": "(Lake) Ontario",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 400,
+        "question": "Despite the Chicago Tribune headline, he didn't defeat Truman",
+        "answer": "Thomas Dewey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LISTED IN THE WORLD ALMANAC",
+        "value": 400,
+        "question": "Born in 1982, this famous son is second in line to the British throne",
+        "answer": "Prince William",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ALL YOU NEED IS \"LOVE\"",
+        "value": 400,
+        "question": "Rawlings makes them for ballplayers",
+        "answer": "gloves",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ART HEISTS",
+        "value": 800,
+        "question": "In 2009 \"Landscape with Peasants\" by Flemish painter Jan Brueghel was stolen in Namur of this country--Interpol's on it",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOODY ALLEN MOVIE SYNOPSES",
+        "value": 800,
+        "question": "Abused wife seeks refuge in movie theater, falls for the fictional leading man",
+        "answer": "The Purple Rose of Cairo",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LAKE POET-RY",
+        "value": 800,
+        "question": "In the room the women come and go /Talking of this largest Central American lake, amigo",
+        "answer": "Lake Nicaragua",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 800,
+        "question": "\"The Shadow Riders\" & \"The Quick and the Dead\" are 2 of the many novels of the Old West by this author",
+        "answer": "Louis L'Amour",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LISTED IN THE WORLD ALMANAC",
+        "value": 800,
+        "question": "World Almanac lists his birth name (Paul David Hewson) & calls him a \"musician, social activist, and philanthropist\"",
+        "answer": "Bono",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ALL YOU NEED IS \"LOVE\"",
+        "value": 800,
+        "question": "Split, like some hooves",
+        "answer": "cloven",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ART HEISTS",
+        "value": 1200,
+        "question": "In 1978 2 of his studies in bronze for his \"Burghers of Calais\" were stolen from a St. Louis museum",
+        "answer": "Rodin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WOODY ALLEN MOVIE SYNOPSES",
+        "value": 1200,
+        "question": "Bodyguard kills his boss' girlfriend so that the show can go on",
+        "answer": "Bullets Over Broadway",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LAKE POET-RY",
+        "value": 1200,
+        "question": "It was many & many a year ago in a kingdom by this \"sea\" /The 2nd & 4th largest lakes combined, can't compete with thee",
+        "answer": "the Caspian Sea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 1200,
+        "question": "In 1935 Dr. Carl Weiss allegedly killed him in Louisiana",
+        "answer": "Huey Long",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LISTED IN THE WORLD ALMANAC",
+        "value": 1200,
+        "question": "The Almanac notes that the Reverend Sun Myung Moon was the founder of this church",
+        "answer": "the Unification Church",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ALL YOU NEED IS \"LOVE\"",
+        "value": 1200,
+        "question": "It seceded from Yugoslavia in 1991",
+        "answer": "Slovenia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ART HEISTS",
+        "value": 1600,
+        "question": "His \"Poppies Near Vetheuil\" was discovered in the back seat of a car a week after it was stolen in Zurich",
+        "answer": "Monet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WOODY ALLEN MOVIE SYNOPSES",
+        "value": 1600,
+        "question": "Ditzy prostitute is set up with boxer while Greek chorus weighs in on protagonist's fate",
+        "answer": "Mighty Aphrodite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LAKE POET-RY",
+        "value": 1600,
+        "question": "I hate to be a kicker, I don't want to start a fracas /It's 50 miles from Tovar & 300 from Caracas",
+        "answer": "Lake Maracaibo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 1600,
+        "question": "\"Pops\", a 2009 biography of this trumpeter, breaks the stories of his run-ins with Chicago gangsters & President Eisenhower",
+        "answer": "Louis Armstrong",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LISTED IN THE WORLD ALMANAC",
+        "value": 1600,
+        "question": "The World Almanac says she's the \"American-born widow of Jordan's King Hussein\"",
+        "answer": "Queen Noor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ALL YOU NEED IS \"LOVE\"",
+        "value": 1600,
+        "question": "Careless or untidy",
+        "answer": "slovenly",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ART HEISTS",
+        "value": 2000,
+        "question": "In 1976 she sued for the return of 3 paintings, claiming they'd been stolen from Alfred Stieglitz' gallery in 1946",
+        "answer": "Georgia O'Keeffe",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WOODY ALLEN MOVIE SYNOPSES",
+        "value": 2000,
+        "question": "\"Sugary\" biography of pimp turned jazz guitar hero; he likes to shoot rats",
+        "answer": "Sweet and Lowdown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LAKE POET-RY",
+        "value": 2000,
+        "question": "Do not go gentle into this \"ursine\" Canadian lake /Rage, rage against the cold; it can be just too much to take",
+        "answer": "Great Bear Lake",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HUEY, DEWEY OR LOUIS",
+        "value": 2000,
+        "question": "This oversized cartoon duckling debuted in the 1950 release \"Quack a Doodle Doo\"",
+        "answer": "Baby Huey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LISTED IN THE WORLD ALMANAC",
+        "value": 2000,
+        "question": "Gerry Adams, born in Belfast, is listed as a leader of this political organization, \"We Ourselves\"",
+        "answer": "Sinn Féin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ALL YOU NEED IS \"LOVE\"",
+        "value": 2000,
+        "question": "A common name for trefoil",
+        "answer": "clover",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. MILITARY HISTORY",
+    "clue": "This general commanded the first official American force to fight on the European continent",
+    "answer": "John Pershing"
+  },
+  "gameId": "5937",
+  "gameDate": "Tuesday, June 8, 2010"
+}

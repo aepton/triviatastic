@@ -1,0 +1,574 @@
+{
+  "title": "Show #3395 - Friday, May 14, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "NAME THAT COUNTRY",
+      "ROGER EBERT ON MOVIES",
+      "COLLEGE TOWNS",
+      "SCIENCE FAIR",
+      "NUKE IT!",
+      "START \"IN\" ON IT"
+    ],
+    "clues": [
+      {
+        "category": "NAME THAT COUNTRY",
+        "value": 100,
+        "question": "It's famous for its luxury hotels; it's on the Riviera; Princess Stephanie was born there",
+        "answer": "Monaco",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ROGER EBERT ON MOVIES",
+        "value": 100,
+        "question": "This \"Lethal Weapon\" star told me he makes sure no one presses his clothes, so he can display that rumpled charm",
+        "answer": "Mel Gibson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE TOWNS",
+        "value": 100,
+        "question": "Columbia University",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE FAIR",
+        "value": 100,
+        "question": "Janice's project on the layers of this included the mesosphere & the thermosphere",
+        "answer": "Atmosphere",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NUKE IT!",
+        "value": 100,
+        "question": "This company, which sold its 20 billionth can of condensed tomato soup in 1990, introduced \"Soup to Go\" in 1998",
+        "answer": "Campbell's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "START \"IN\" ON IT",
+        "value": 100,
+        "question": "John Hinckley was acquitted of shooting Ronald Reagan by reason of this",
+        "answer": "Insanity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT COUNTRY",
+        "value": 200,
+        "question": "Sorghum is a major crop; the Zagwe dynasty once ruled it; Addis Ababa University is there",
+        "answer": "Ethiopia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ROGER EBERT ON MOVIES",
+        "value": 200,
+        "question": "For the Oscars in 1999, I correctly predicted these 2 actresses would win for \"Shakespeare in Love\"",
+        "answer": "Gwyneth Paltrow & Judi Dench",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE TOWNS",
+        "value": 200,
+        "question": "University of Arizona",
+        "answer": "Tucson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE FAIR",
+        "value": 200,
+        "question": "Dennis recreated a 1995 test & confirmed this product is 68% air",
+        "answer": "Twinkies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NUKE IT!",
+        "value": 200,
+        "question": "Act II claims it sells more bags of this microwavable snack than any other company in the world",
+        "answer": "Popcorn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "START \"IN\" ON IT",
+        "value": 200,
+        "question": "From the Latin for \"no boundary\", it refers to a quantity or distance so large it cannot be measured",
+        "answer": "Infinite",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT COUNTRY",
+        "value": 300,
+        "question": "About one-sixth of its people were born elsewhere; watches are still made in Jura; yodeling is still popular",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ROGER EBERT ON MOVIES",
+        "value": 300,
+        "question": "For the 1999 Oscars, I wrongly predicted a screenplay award for this film with Warren Beatty as a politician",
+        "answer": "Bulworth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE TOWNS",
+        "value": 300,
+        "question": "Ohio State University",
+        "answer": "Columbus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE FAIR",
+        "value": 300,
+        "question": "Viki's samples from the locker room floor showed how the trichophyton fungi caused this \"sporty\" condition",
+        "answer": "Athlete's foot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NUKE IT!",
+        "value": 300,
+        "question": "This hot dog brand hit a home run with its new \"Singles\", which are individually wrapped & ready to microwave",
+        "answer": "Ball Park",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "START \"IN\" ON IT",
+        "value": 300,
+        "question": "It's the emission of visible light by a hot object",
+        "answer": "Incandescence",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT COUNTRY",
+        "value": 400,
+        "question": "Conger eel is a taste treat; the cowboys are called huasos; its national congress is in Valparaiso",
+        "answer": "Chile",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ROGER EBERT ON MOVIES",
+        "value": 400,
+        "question": "I had problems with \"Message in a Bottle\" in which Robin Wright Penn works for this rival of the Chicago Sun-Times",
+        "answer": "The Chicago Tribune",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE TOWNS",
+        "value": 800,
+        "question": "The Air Force Academy",
+        "answer": "Colorado Springs",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE FAIR",
+        "value": 400,
+        "question": "Darlene's exhibit on minerals in the human body included iron nails, copper tubing & a 1943 penny for this",
+        "answer": "Zinc",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NUKE IT!",
+        "value": 400,
+        "question": "Chef America makes this brand of crisp & flaky microwavable crust-enclosed pepperoni pizza",
+        "answer": "Hot Pockets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "START \"IN\" ON IT",
+        "value": 400,
+        "question": "According to Locke, these kinds of rights cannot be violated by any governing authority",
+        "answer": "Inalienable rights",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NAME THAT COUNTRY",
+        "value": 500,
+        "question": "It has a tropical climate; its king is called the Yang Di-Pertuan Agong; there's a beautiful zoo near Kuala Lumpur",
+        "answer": "Malaysia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ROGER EBERT ON MOVIES",
+        "value": 500,
+        "question": "This 1982 Disney film in which a man gets lost in a computer was part of my 1999 Overlooked Film Festival",
+        "answer": "Tron",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE TOWNS",
+        "value": 500,
+        "question": "Florida State",
+        "answer": "Tallahassee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE FAIR",
+        "value": 500,
+        "question": "Arvid's diorama on the history of these included the following symbols(V, for example)",
+        "answer": "Numbers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NUKE IT!",
+        "value": 500,
+        "question": "Dieters know that this company's \"Smart Ones\" entrees are 99% fat free",
+        "answer": "Weight Watchers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "START \"IN\" ON IT",
+        "value": 500,
+        "question": "It's a ritual recitation of verbal charms or spells to produce a magic effect",
+        "answer": "Incantation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "OPRAH'S BOOK CLUB",
+      "MONET'S CRONIES",
+      "TELEVISION",
+      "SPELL THE LAST NAME",
+      "SOUTHERN CALIFORNIA",
+      "COLLEGE RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "OPRAH'S BOOK CLUB",
+        "value": 200,
+        "question": "Oprah made this author's \"Beloved\" into a movie & chose her \"Paradise\" for the book club",
+        "answer": "Toni Morrison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MONET'S CRONIES",
+        "value": 200,
+        "question": "His \"A Sunday Afternoon on the Island of La Grande Jatte\" is in the Art Institute of Chicago",
+        "answer": "Georges Seurat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 200,
+        "question": "In February 1999, after 5 seasons in the \"ER\", this handsome actor checked out",
+        "answer": "George Clooney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 200,
+        "question": "U.S. president Dwight...",
+        "answer": "E-I-S-E-N-H-O-W-E-R",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SOUTHERN CALIFORNIA",
+        "value": 200,
+        "question": "As mayor of this desert resort, Sonny Bono cut down on spring break madness by banning thong bikinis",
+        "answer": "Palm Springs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE RHYME TIME",
+        "value": 200,
+        "question": "A cruel university division head",
+        "answer": "Mean dean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OPRAH'S BOOK CLUB",
+        "value": 400,
+        "question": "The title of this Bret Lott book, a 1999 selection, refers to a mom from Mississippi, not to a singer from Alaska",
+        "answer": "\"Jewel\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MONET'S CRONIES",
+        "value": 400,
+        "question": "Important works by this Impressionist include \"The Luncheon of the Boating Party\"",
+        "answer": "Pierre Auguste Renoir",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 400,
+        "question": "On \"Friends\" Courteney Cox & David Schwimmer play this sister & brother",
+        "answer": "Monica & Ross Geller",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 400,
+        "question": "Former Defense Secretary Caspar...",
+        "answer": "W-E-I-N-B-E-R-G-E-R",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SOUTHERN CALIFORNIA",
+        "value": 400,
+        "question": "L.A. visitors flock to the carousel on this famous pier at the end of Colorado Blvd.",
+        "answer": "Santa Monica Pier",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE RHYME TIME",
+        "value": 400,
+        "question": "A hurrah for a fermented malt beverage",
+        "answer": "Beer cheer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OPRAH'S BOOK CLUB",
+        "value": 1200,
+        "question": "The first nonfiction work selected, \"The Heart of a Woman\" is volume 4 of this poet's autobiography",
+        "answer": "Maya Angelou",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MONET'S CRONIES",
+        "value": 600,
+        "question": "The exotic influences on this great French painter can be seen here",
+        "answer": "Paul Gauguin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 600,
+        "question": "Once one of New York's toughest judges, today she does her tough-talking in her TV courtroom",
+        "answer": "Judge Judy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 600,
+        "question": "Aqualung pioneer Jacques...",
+        "answer": "C-O-U-S-T-E-A-U",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SOUTHERN CALIFORNIA",
+        "value": 1200,
+        "question": "San Diego's \"old\" version of this much older London theater first opened in the 1930s",
+        "answer": "Globe",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE RHYME TIME",
+        "value": 600,
+        "question": "Time for relaxation in the middle of an exam",
+        "answer": "Test rest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OPRAH'S BOOK CLUB",
+        "value": 800,
+        "question": "The club's first selection, this book about the loss of a child became a Michelle Pfeiffer movie in 1999",
+        "answer": "The Deep End of the Ocean",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MONET'S CRONIES",
+        "value": 800,
+        "question": "This man's nudes like the one seen here helped launch the Impressionist movement",
+        "answer": "Edouard Manet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 800,
+        "question": "(Hi, I'm Laura Lee Bell from The Young and the Restless.)  My parents William & Lee Bell created both \"The Young and the Restless\" & this soap opera which premiered in 1987",
+        "answer": "The Bold and the Beautiful",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 800,
+        "question": "U.S. pop artist Roy...",
+        "answer": "L-I-C-H-T-E-N-S-T-E-I-N",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SOUTHERN CALIFORNIA",
+        "value": 800,
+        "question": "The view seen here is from this scenic drive, named for the engineer who brought water to L.A.",
+        "answer": "Mulholland Drive",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE RHYME TIME",
+        "value": 800,
+        "question": "Nasty rodent living under a Greek letter society's building",
+        "answer": "Frat rat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OPRAH'S BOOK CLUB",
+        "value": 1000,
+        "question": "This 1992 Wally Lamb novel hit No. 1 on the bestseller list in 1997 after Oprah selected it for her book club",
+        "answer": "\"She's Come Undone\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MONET'S CRONIES",
+        "value": 1000,
+        "question": "Still lifes, landscapes & portraits such as the card players seen here were all mastered by this Frenchman",
+        "answer": "Paul Cezanne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TELEVISION",
+        "value": 1000,
+        "question": "Norman Lear called this late \"Good Times\" actress the one true black matriarch on series television",
+        "answer": "Esther Rolle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPELL THE LAST NAME",
+        "value": 1000,
+        "question": "Italian Fascist leader Benito...",
+        "answer": "M-U-S-S-O-L-I-N-I",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SOUTHERN CALIFORNIA",
+        "value": 1000,
+        "question": "Dana Point is named for Richard Henry Dana, best known for this \"timely\" memoir about sailing to California & back",
+        "answer": "\"Two Years Before the Mast\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COLLEGE RHYME TIME",
+        "value": 1000,
+        "question": "A course on all things not liquid or solid",
+        "answer": "Gas class",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORIC AMERICANS",
+    "clue": "This member of William & Mary's Class of 1762 founded a univ. that opened in 1825, one year before his death",
+    "answer": "Thomas Jefferson (University of Virginia)"
+  },
+  "gameId": "3395",
+  "gameDate": "Friday, May 14, 1999"
+}

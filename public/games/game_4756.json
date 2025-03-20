@@ -1,0 +1,574 @@
+{
+  "title": "Show #6967 - Tuesday, December 23, 2014",
+  "jeopardyRound": {
+    "categories": [
+      "CHRISTMAS ON BROADWAY",
+      "FAMOUS PAIRS",
+      "NOBEL PRIZE-WINNING AUTHORS",
+      "PANHANDLE STATES",
+      "NAME BRAND NAMES",
+      "4 Ls"
+    ],
+    "clues": [
+      {
+        "category": "CHRISTMAS ON BROADWAY",
+        "value": 200,
+        "question": "Dream no more--\"White Christmas\", featuring the songs of this beloved composer, finally came to Broadway in 2008",
+        "answer": "(Irving) Berlin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PAIRS",
+        "value": 200,
+        "question": "In 2014 this pair launched a brand new \"Up in Smoke\" tour",
+        "answer": "Cheech & Chong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NOBEL PRIZE-WINNING AUTHORS",
+        "value": 200,
+        "question": "His experience teaching unruly boys helped inspire his book \"Lord of the Flies\"",
+        "answer": "(William) Golding",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PANHANDLE STATES",
+        "value": 200,
+        "question": "Amarillo is the largest city in this state's panhandle",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME BRAND NAMES",
+        "value": 200,
+        "question": "Snack cakes: Little ____",
+        "answer": "Debbie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "4 Ls",
+        "value": 200,
+        "question": "Go pick up those tickets left in your name at this stadium arena",
+        "answer": "will call",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS ON BROADWAY",
+        "value": 400,
+        "question": "This musical about a boy born to dance features a catchy protest number, \"Merry Christmas Maggie Thatcher\"",
+        "answer": "Billy Elliot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PAIRS",
+        "value": 400,
+        "question": "This couple who studied \"human sexual response\" tied the knot in 1971 & untied it 22 years later",
+        "answer": "Masters & Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NOBEL PRIZE-WINNING AUTHORS",
+        "value": 400,
+        "question": "The last name of this Mexican poet, a winner in 1990, means peace",
+        "answer": "(Octavio) Paz",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PANHANDLE STATES",
+        "value": 400,
+        "question": "Chimney Rock, a landmark on the Oregon Trail, is located on the North Platte River in this state's panhandle",
+        "answer": "Nebraska",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME BRAND NAMES",
+        "value": 400,
+        "question": "Turkey:____-O",
+        "answer": "Jennie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "4 Ls",
+        "value": 400,
+        "question": "Hey, Spike!  Don't let this sports object touch the ground on your side while in play",
+        "answer": "a volleyball",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS ON BROADWAY",
+        "value": 600,
+        "question": "In 1989 \"Meet Me in St. Louis\" came to Broadway along with this Yuletide tune introduced by Judy Garland in the movie",
+        "answer": "\"Have Yourself A Merry Little Christmas\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PAIRS",
+        "value": 600,
+        "question": "In the original illustration, they're the pair seen here",
+        "answer": "Tweedledee & Tweedledum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NOBEL PRIZE-WINNING AUTHORS",
+        "value": 600,
+        "question": "This woman is truly \"Beloved\", winning a Pulitzer in 1988 & a Nobel in 1993",
+        "answer": "Toni Morrison",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PANHANDLE STATES",
+        "value": 600,
+        "question": "Oklahoma's panhandle has the state's highest point, \"Black\" this type of flat-top formation of the Southwest",
+        "answer": "mesa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAME BRAND NAMES",
+        "value": 600,
+        "question": "From Nike since 1985:Air ____",
+        "answer": "Jordan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "4 Ls",
+        "value": 600,
+        "question": "Colorful body part slang for a coward",
+        "answer": "a yellow belly",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS ON BROADWAY",
+        "value": 800,
+        "question": "\"Here's Love\" was Meredith Willson's stage adaptation of this classic film with a street that crosses Broadway in its title",
+        "answer": "Miracle on 34th Street",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PAIRS",
+        "value": 800,
+        "question": "In Greek myth these immortal twins were placed together in the sky as the constellation Gemini",
+        "answer": "Castor & Pollux",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NOBEL PRIZE-WINNING AUTHORS",
+        "value": 800,
+        "question": "For his work with the French Resistance during WWII, this Irish playwright was awarded the Croix de Guerre",
+        "answer": "Beckett",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PANHANDLE STATES",
+        "value": 800,
+        "question": "Much of the northern part of its panhandle is covered by the Coeur d'Alene Mountains",
+        "answer": "Idaho",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAME BRAND NAMES",
+        "value": 800,
+        "question": "Baby carriers from Sweden:Baby ____",
+        "answer": "Björn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "4 Ls",
+        "value": 800,
+        "question": "An idea becoming real due to someone simply believing in it is this kind of \"prophecy\"",
+        "answer": "self-fulfilling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CHRISTMAS ON BROADWAY",
+        "value": 1000,
+        "question": "Songs from this show based on a movie include \"Red Ryder Carbine Action BB Gun\" & \"Ralphie To The Rescue\"",
+        "answer": "A Christmas Story",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PAIRS",
+        "value": 1000,
+        "question": "Domenico & Stefano are the first names of these 2 Italian designers, D&G for short",
+        "answer": "Dolce & Gabbana",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NOBEL PRIZE-WINNING AUTHORS",
+        "value": 1000,
+        "question": "He said his novel \"Main Street\" was his first \"to rouse the embattled peasantry\"",
+        "answer": "(Sinclair) Lewis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PANHANDLE STATES",
+        "value": 1000,
+        "question": "In the 1860s people living in this future state's panhandle voted to be a part of Alabama--didn't happen",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAME BRAND NAMES",
+        "value": 1000,
+        "question": "A Wisconsin-based chain started in 1945: ____ Furniture",
+        "answer": "Ashley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "4 Ls",
+        "value": 1000,
+        "question": "Not-as-popular name for October 31",
+        "answer": "All Hallows' Eve",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EARTH SCIENCE",
+      "THE 1920s",
+      "MULTIPLE ROLES, SAME ACTOR",
+      "SOCIETY",
+      "NATIONAL PARKS OF THE WORLD",
+      "CHANGING METAMORPHOSIS"
+    ],
+    "clues": [
+      {
+        "category": "EARTH SCIENCE",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew shows a map on the monitor.)  It wasn't until after the 1906 San Francisco earthquake that scientists discovered that this fault ran 800 miles from Northern California all the way to the Salton Sea",
+        "answer": "the San Andreas Fault",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE 1920s",
+        "value": 400,
+        "question": "In 1924 this airline made its first intercontinental flight from Amsterdam to Batavia",
+        "answer": "KLM",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MULTIPLE ROLES, SAME ACTOR",
+        "value": 400,
+        "question": "Film with Peter Sellers as Group Captain Mandrake, President Muffley & the title man",
+        "answer": "Dr. Strangelove",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SOCIETY",
+        "value": 400,
+        "question": "Generation Yers are also called these, because they came of age around the year 2000",
+        "answer": "millennials",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS OF THE WORLD",
+        "value": 400,
+        "question": "Indonesia has a national park with over 5,000 of these 300-pound lizards",
+        "answer": "Komodo dragons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CHANGING METAMORPHOSIS",
+        "value": 400,
+        "question": "To suffocate, perhaps with a pillow",
+        "answer": "smother",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 800,
+        "question": "The most abundant rock on the Earth's surface is MORB, mid-ocean-ridge this volcanic rock",
+        "answer": "basalt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE 1920s",
+        "value": 800,
+        "question": "In 2012 the top 1% of earners had their biggest share of U.S. household income since this year just before a crash",
+        "answer": "1928",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MULTIPLE ROLES, SAME ACTOR",
+        "value": 800,
+        "question": "Paul Dano played Eli & Paul Sunday opposite Daniel Day-Lewis in this film",
+        "answer": "There Will Be Blood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SOCIETY",
+        "value": 800,
+        "question": "Taxi drivers cheered in September 2014 when a German court banned this app",
+        "answer": "Uber",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS OF THE WORLD",
+        "value": 800,
+        "question": "A Tanzanian national park on this plain features grassland & migrating antelope & zebras",
+        "answer": "the Serengeti",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CHANGING METAMORPHOSIS",
+        "value": 800,
+        "question": "I would be this in my duty as host if I didn't tell you it meant careless in doing one's job",
+        "answer": "remiss",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 1200,
+        "question": "Some believe an asteroid strike at Chicxulub, a crater in this peninsular region of Mexico, killed off the dinosaurs",
+        "answer": "the Yucatán",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE 1920s",
+        "value": 1200,
+        "question": "In his 1922 \"Testament\" he worried about his heirs as Soviet leader; he died in 1924 & his worries were right",
+        "answer": "Lenin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MULTIPLE ROLES, SAME ACTOR",
+        "value": 1200,
+        "question": "In 3 films Mike Myers was both Austin Powers & this nemesis",
+        "answer": "Dr. Evil",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SOCIETY",
+        "value": 1200,
+        "question": "2010's Citizens United Supreme Court decision extended the legal doctrine that these are persons",
+        "answer": "corporations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS OF THE WORLD",
+        "value": 1200,
+        "question": "A death march memorial can be found in Roosevelt Park, a part of this country's Bataan National Park",
+        "answer": "the Philippines",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CHANGING METAMORPHOSIS",
+        "value": 1200,
+        "question": "Title of respect for a musical conductor",
+        "answer": "maestro",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 1600,
+        "question": "If a mineral is scratched by topaz but not quartz, its hardness lies between 7 & 8 on this scale",
+        "answer": "the Mohs scale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE 1920s",
+        "value": 1600,
+        "question": "\"Fighting Bob\", this man from Wisconsin, got 1/6 of the vote as a third-party presidential candidate in 1924",
+        "answer": "La Follette",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MULTIPLE ROLES, SAME ACTOR",
+        "value": 1600,
+        "question": "In 1988 these 2 actresses played 2 sets of twins in \"Big Business\"",
+        "answer": "Lily Tomlin & Bette Midler",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SOCIETY",
+        "value": 1600,
+        "question": "Tom Colicchio says this 3-word phrase du jour just means buying better food from small-scale producers",
+        "answer": "farm to table",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS OF THE WORLD",
+        "value": 1600,
+        "question": "Canada's first national park, it was created in 1887 in Alberta & was originally called Rocky Mountains Park",
+        "answer": "Banff",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CHANGING METAMORPHOSIS",
+        "value": 1600,
+        "question": "From the French, it means deadlock; we have reached an...",
+        "answer": "impasse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EARTH SCIENCE",
+        "value": 2000,
+        "question": "In myth Aristotle drowned himself, unable to fathom reversing currents that are actually this type caused by lunar gravity",
+        "answer": "tidals (tides accepted)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE 1920s",
+        "value": 2000,
+        "question": "Secretary of State Frank Kellogg & this French minister signed a pact with 13 other nations denouncing war",
+        "answer": "Aristide Briand",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MULTIPLE ROLES, SAME ACTOR",
+        "value": 2000,
+        "question": "This Brit played 8 victims in \"Kind Hearts and Coronets\"",
+        "answer": "Alec Guinness",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SOCIETY",
+        "value": 2000,
+        "question": "The phrase \"a woman of\" this, no longer young but not old either, dates back to the 1750s",
+        "answer": "a certain age",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NATIONAL PARKS OF THE WORLD",
+        "value": 2000,
+        "question": "See wombats in the wild at Namadgi National Park, just southwest of this capital city",
+        "answer": "Canberra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CHANGING METAMORPHOSIS",
+        "value": 2000,
+        "question": "Your skin has pores; the surface of a leaf has these minute holes for the same purpose",
+        "answer": "stoma",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORD ORIGINS",
+    "clue": "In the mid-1960s, a decade after it first appeared in a holiday tale, this word came to be used for any mean killjoy",
+    "answer": "grinch"
+  },
+  "gameId": "6967",
+  "gameDate": "Tuesday, December 23, 2014"
+}

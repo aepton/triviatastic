@@ -1,0 +1,511 @@
+{
+  "title": "Show #5114 - Thursday, November 30, 2006",
+  "jeopardyRound": {
+    "categories": [
+      "COLUMBIA",
+      "CHALLENGER",
+      "END-\"EVER\"",
+      "DISCOVERY",
+      "ATLANTIS",
+      "NASSAU"
+    ],
+    "clues": [
+      {
+        "category": "COLUMBIA",
+        "value": 200,
+        "question": "Also known for his TV work, he's seen here as Mark Antony in 1953's \"Serpent of the Nile\"",
+        "answer": "Raymond Burr",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHALLENGER",
+        "value": 200,
+        "question": "John Adams had to settle for this opponent as his veep in 1796 because the 12th Amendment hadn't been passed yet",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "END-\"EVER\"",
+        "value": 200,
+        "question": "It can be Chesapeake Bay, Golden or Labrador",
+        "answer": "retriever",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DISCOVERY",
+        "value": 200,
+        "question": "In 1984 the shuttle Discovery dramatically captured 2 of these in space & brought them back to Earth",
+        "answer": "satellites",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ATLANTIS",
+        "value": 200,
+        "question": "In \"The Magician's Nephew\" in this C.S. Lewis series, Polly is tricked into touching rings made from Atlantis' dust",
+        "answer": "The Chronicles of Narnia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COLUMBIA",
+        "value": 400,
+        "question": "In a 2005 release Will Smith as this \"date doctor\" helped out the romantically helpless Kevin James",
+        "answer": "Hitch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHALLENGER",
+        "value": 400,
+        "question": "He put many of his Republican rivals for the Pres. nomination in his cabinet, including Salmon Chase & William Seward",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "END-\"EVER\"",
+        "value": 400,
+        "question": "Peggy Lee could tell you it's also known as pyrexia (take 2 aspirin & call me in the morning)",
+        "answer": "fever",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DISCOVERY",
+        "value": 400,
+        "question": "Discovery is named for 2 ships, one sailed by Henry Hudson & one sailed by this man when he discovered Hawaii",
+        "answer": "Captain James Cook",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COLUMBIA",
+        "value": 600,
+        "question": "Meg Tilly is seen here in her award-winning performance in this film",
+        "answer": "Agnes of God",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CHALLENGER",
+        "value": 600,
+        "question": "In 1976 Ford won primaries in Ohio, Oregon & Florida; this challenger won Texas, Indiana &, of course, California",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "END-\"EVER\"",
+        "value": 600,
+        "question": "Pitcher Goose Gossage was famous as one of these",
+        "answer": "reliever",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DISCOVERY",
+        "value": 600,
+        "question": "In 2005 a crucial part of Discovery's mission was to deliver supplies here",
+        "answer": "International Space Station",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COLUMBIA",
+        "value": 800,
+        "question": "Columbia made the original Segal-Fonda version of this couple caper & the Carrey-Leoni remake",
+        "answer": "Fun with Dick & Jane",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CHALLENGER",
+        "value": 800,
+        "question": "Born in Athens, she's written for \"Politically Incorrect\" & was 5th in California's '03 gubernatorial recall election",
+        "answer": "Arianna Huffington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "END-\"EVER\"",
+        "value": 800,
+        "question": "Adroit, shrewd adjective",
+        "answer": "clever",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DISCOVERY",
+        "value": 800,
+        "question": "From 1979 to 1983 the assembly of the shuttle Discovery took place at this Palmdale, Calif. military facility",
+        "answer": "Edwards Air Force Base",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NASSAU",
+        "value": 800,
+        "question": "You can take one of these vessels to view the submarine gardens; it was also a Doris Day movie",
+        "answer": "a glass bottom boat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COLUMBIA",
+        "value": 1000,
+        "question": "Here comes Claude Rains as this heavenly being trying to fix a mistake",
+        "answer": "Mr. Jordan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CHALLENGER",
+        "value": 1000,
+        "question": "In 1832 Andrew Jackson, a member of this society, was challenged by William Wirt, who was \"anti\" it",
+        "answer": "Masons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "END-\"EVER\"",
+        "value": 1000,
+        "question": "This Pulitzer winner's \"Oh What A Paradise It Seems\" was published in 1982, the same year he died",
+        "answer": "John Cheever",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DISCOVERY",
+        "value": 1000,
+        "question": "After assembly, Discovery was delivered to Kennedy Space Center on the back of one of these jets",
+        "answer": "Boeing 747",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NASSAU",
+        "value": 1000,
+        "question": "Nassau's main hospital is named for this royal sister, seen here in the islands in 1955",
+        "answer": "Princess Margaret",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "I LOVE A MOZART OPERA",
+      "LIKE A ROLLING STONE",
+      "ANIMALS",
+      "NAME THAT POPE",
+      "MUSEUMS",
+      "AND SOMETIMES Y"
+    ],
+    "clues": [
+      {
+        "category": "I LOVE A MOZART OPERA",
+        "value": 400,
+        "question": "Of 14, 24 or 34, Mozart's age when he commissioned his first opera, \"Mitridate Re di Ponto\", premiered in 1770",
+        "answer": "14",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LIKE A ROLLING STONE",
+        "value": 400,
+        "question": "Born the same year as Brian Jones, this Brian wrote \"Help Me, Rhonda\"",
+        "answer": "Brian Wilson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew reports from the monkey house.) For extra resonance, howler monkeys have an enlarged structure at the top of this, also known as the trachea",
+        "answer": "windpipe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NAME THAT POPE",
+        "value": 400,
+        "question": "His reign from 1978 to 2005 was one of the longest in history",
+        "answer": "John Paul II",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 400,
+        "question": "His museum in Dearborn, Michigan was once known as \"Henry's Attic\"",
+        "answer": "Henry Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AND SOMETIMES Y",
+        "value": 400,
+        "question": "Timid",
+        "answer": "shy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A MOZART OPERA",
+        "value": 800,
+        "question": "A toast to Mozart's \"Don Giovanni\", which features an aria nicknamed for this bubbly beverage",
+        "answer": "champagne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LIKE A ROLLING STONE",
+        "value": 800,
+        "question": "Not Watts but this Charlie started the Bebop Revolution with his alto sax playing",
+        "answer": "Charlie Parker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 800,
+        "question": "(Kelly of the Clue Crew plays with a kitten.)It's the two-word term for these animals that reflects their natural cold habitat in the mountains of Asia",
+        "answer": "snow leopard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NAME THAT POPE",
+        "value": 800,
+        "question": "Beloved Pope from 1958 to 1963",
+        "answer": "John XXIII",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 800,
+        "question": "The Paris museum devoted to this cubist has 200 of his paintings & many pieces from his personal art collection",
+        "answer": "Pablo Picasso",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AND SOMETIMES Y",
+        "value": 800,
+        "question": "A gift to Jesus when he was a child, this resin is also \"mingled\" with his wine while he's on the cross in Mark 15",
+        "answer": "myrrh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A MOZART OPERA",
+        "value": 1200,
+        "question": "Appropriately, this Roman goddess oversees the love life of her grandson in Mozart's opera \"Ascanio in Alba\"",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LIKE A ROLLING STONE",
+        "value": 1200,
+        "question": "Mick Jagger formed the Stones in 1962; this Mick, a drummer, formed his band in '67",
+        "answer": "Mick Fleetwood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew reports from the shark tank.) Unlike most other fish, sharks don't have bones; their skeleton is made up of this tough, flexible tissue.",
+        "answer": "cartilage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NAME THAT POPE",
+        "value": 1200,
+        "question": "Sadly, his only papal date is 1978",
+        "answer": "John Paul I",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 1200,
+        "question": "You can see Sue, the largest, most complete & best-preserved T. Rex at this Chicago Museum of National History",
+        "answer": "Field Museum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AND SOMETIMES Y",
+        "value": 1200,
+        "question": "A people got this name, now also used for a type of taxicab, from the mistaken belief that they came from Egypt",
+        "answer": "gypsy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A MOZART OPERA",
+        "value": 1600,
+        "question": "Ilia, the daughter of King Priam, is a captive princess in \"Idomeneo\", set just after this war",
+        "answer": "Trojan War",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LIKE A ROLLING STONE",
+        "value": 1600,
+        "question": "On vocals, this Bill (not Wyman) is credited with inventing bluegrass music",
+        "answer": "Bill Monroe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 1600,
+        "question": "(Cheryl of the Clue Crew reports from the penguin habitat.)The smallest of all penguins, the little blue is the only one native to this continent where it is sometimes called the fairy penguin",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NAME THAT POPE",
+        "value": 1600,
+        "question": "His 19-year tenure included the troubled World War II years",
+        "answer": "Pius XII",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 1600,
+        "question": "The Turner Prize, named for British painter J.M.W., was founded by a group trying to buy art for this London gallery",
+        "answer": "Tate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AND SOMETIMES Y",
+        "value": 1600,
+        "question": "An appointed to meet made by lovers",
+        "answer": "tryst",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "I LOVE A MOZART OPERA",
+        "value": 2000,
+        "question": "This 1791 work is considered the greatest example in music history of the Zauberoper, or \"magic opera\"",
+        "answer": "The Magic Flute",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LIKE A ROLLING STONE",
+        "value": 2000,
+        "question": "This Keith's role in the film \"Nashville\" led to a couple of '70s solo albums",
+        "answer": "Keith Carradine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 2000,
+        "question": "(Cheryl of the Clue Crew reports.)Inside zoos, the aim is to increase the population; outside the zoos, the declining number of orangutans are found only on these two Indonesian islands",
+        "answer": "Borneo and Sumatra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NAME THAT POPE",
+        "value": 2000,
+        "question": "Check the calendar for the 13th pope with this name, who served from 1572 to 1585",
+        "answer": "Gregory",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 2000,
+        "question": "The museum devoted to this Belgian painter is in the Brussels house where he lived & worked for 24 years",
+        "answer": "René Magritte",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AND SOMETIMES Y",
+        "value": 2000,
+        "question": "Originally a Greek unit of length, Homer used this word to describe a race of small folk dwelling in a southern land",
+        "answer": "pygmy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PLAY CHARACTERS",
+    "clue": "He is based partly on a philologist who wrote \"A History of English Sounds\" & \"A Handbook of Phonetics\"",
+    "answer": "Henry Higgins"
+  },
+  "gameId": "5114",
+  "gameDate": "Thursday, November 30, 2006"
+}

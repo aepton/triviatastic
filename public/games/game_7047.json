@@ -1,0 +1,574 @@
+{
+  "title": "Show #8423 - Wednesday, June 16, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "FAWKES & FRIENDS",
+      "SCIENTISTS",
+      "ODD STATE FACTS",
+      "NOT QUITE STUPID ANSWERS",
+      "THE COMICS",
+      "IN THE MI\"DD\"LE"
+    ],
+    "clues": [
+      {
+        "category": "FAWKES & FRIENDS",
+        "value": 200,
+        "question": "In 1605 Guy Fawkes & friends tried to make some noise in what's now known as this \"plot\"",
+        "answer": "(the) Gunpowder (Plot)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 200,
+        "question": "In the 1790s John Dalton described this condition in himself & thought blue tints in the vitreous humor of his eyes caused it",
+        "answer": "colorblindness",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ODD STATE FACTS",
+        "value": 200,
+        "question": "An amendment to have court psychologists dress as wizards was jokingly proposed in this state; it is the \"Land of Enchantment\"...",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NOT QUITE STUPID ANSWERS",
+        "value": 200,
+        "question": "(Sarah of the Clue Crew presents from outside the Smithsonian Castle in Washington, D.C.) This scientist's will provided the funds that established the Smithsonian Institution; his crypt is here in the Smithsonian Castle & the institution he endowed has grown around him, exceeding anything he could have envisioned",
+        "answer": "Smithson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE COMICS",
+        "value": 200,
+        "question": "Stephan Pastis' strip about a rat, a pig & some other critters is called \"Pearls Before\" these",
+        "answer": "Swine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IN THE MI\"DD\"LE",
+        "value": 200,
+        "question": "Walk like a duck",
+        "answer": "waddle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FAWKES & FRIENDS",
+        "value": 400,
+        "question": "The conspirators planned their attack for the annual event called the opening of this institution",
+        "answer": "Parliament",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 400,
+        "question": "Lord Kelvin devised iron balls that were added to a ship's this to compensate for magnetic deviation caused by metal on the ship",
+        "answer": "the compass",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ODD STATE FACTS",
+        "value": 400,
+        "question": "The only state with a one-syllable name, it's also the closest to Africa",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NOT QUITE STUPID ANSWERS",
+        "value": 400,
+        "question": "Humphry Davy suggested magnium for this element's name so it wouldn't be confused with manganese",
+        "answer": "magnesium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE COMICS",
+        "value": 400,
+        "question": "In this comic, Gary Larson had a fish named Carl \"embedded in Styrofoam shoes\", sent to sleep with the humans",
+        "answer": "The Far Side",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IN THE MI\"DD\"LE",
+        "value": 400,
+        "question": "A golf club schlepper",
+        "answer": "caddie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FAWKES & FRIENDS",
+        "value": 600,
+        "question": "This king, only son of Mary, Queen of Scots, was one intended target, with his 9-year-old daughter to be a puppet queen",
+        "answer": "James I",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 600,
+        "question": "This man's original temperature scale had 0 as the boiling point; Linnaeus made a more intuitive thermometer with 0 as freezing",
+        "answer": "Celsius",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ODD STATE FACTS",
+        "value": 600,
+        "question": "Kentucky has a population of about 4.4 million people & almost twice as many barrels of this",
+        "answer": "bourbon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NOT QUITE STUPID ANSWERS",
+        "value": 600,
+        "question": "In Italian, \"erta\" is a lookout--the phrase \"all'erta\", meaning on the lookout, led to this 5-letter term for a warning",
+        "answer": "alert",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE COMICS",
+        "value": 600,
+        "question": "Odie is a drooling dog in the comic strip named for this feline",
+        "answer": "Garfield",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IN THE MI\"DD\"LE",
+        "value": 600,
+        "question": "The Sphinx asked a tough one",
+        "answer": "a riddle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FAWKES & FRIENDS",
+        "value": 800,
+        "question": "Father Garnet tried to dissuade the plot leader, Robert Catesby, after the secret slipped during this Catholic sacrament",
+        "answer": "confession",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 800,
+        "question": "In the early periodic table of elements, Baumhauer's spiral spins out from this element in the center",
+        "answer": "hydrogen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ODD STATE FACTS",
+        "value": 800,
+        "question": "Berryville, Arkansas is home to a giant papier mache one of these feral hogs named for the ridge on its spine",
+        "answer": "a razorback",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NOT QUITE STUPID ANSWERS",
+        "value": 800,
+        "question": "This is the Latin way of saying the Greek phrase \"theos ek mechanes\"",
+        "answer": "Deus ex Machina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE COMICS",
+        "value": 800,
+        "question": "A 1930s comic strip starring a woman named Fritzi Ritz introduced this 8-year-old girl",
+        "answer": "Nancy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IN THE MI\"DD\"LE",
+        "value": 800,
+        "question": "Readily available but not-so-valued people are \"cannon\" this",
+        "answer": "fodder",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FAWKES & FRIENDS",
+        "value": 1000,
+        "question": "The day before the deed, Fawkes was discovered; his pals fled & guy was sent to this place where he confessed after torture",
+        "answer": "the Tower of London",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 1000,
+        "question": "When asked about his proof of the existence of these waves, Heinrich Hertz said, \"It's of no use whatsoever\"",
+        "answer": "electromagnetic waves",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ODD STATE FACTS",
+        "value": 1000,
+        "question": "The oddly named town of Chicken Bristle is south of Champaign in this state",
+        "answer": "Illinois",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NOT QUITE STUPID ANSWERS",
+        "value": 1000,
+        "question": "Italian chemist Ascanio Sobrero created this in 1846 by mixing glycerol with sulfuric & nitric acid",
+        "answer": "nitroglycerin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE COMICS",
+        "value": 1000,
+        "question": "Patrick McDonnell's comic strip has this canine name even though Mooch the cat is often seen with Earl the dog",
+        "answer": "Mutts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IN THE MI\"DD\"LE",
+        "value": 1000,
+        "question": "You can do it to eggs or pampered kids, with very different results",
+        "answer": "coddle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "DEAR DIARY",
+      "COUNTRY NAME ORIGINS",
+      "DESERT ISLAND READS",
+      "TOUGH VOCABULARY",
+      "TWINS & TRIPLETS",
+      "POP MUSIC"
+    ],
+    "clues": [
+      {
+        "category": "DEAR DIARY",
+        "value": 400,
+        "question": "Harry Truman's 1945 diary: This man \"said he was grossly misunderstood in U.S. and I was misunderstood in Russia\"",
+        "answer": "Stalin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY NAME ORIGINS",
+        "value": 400,
+        "question": "Via French & Greek from Hut-ka-Ptah, \"temple of the soul of Ptah\"",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "DESERT ISLAND READS",
+        "value": 400,
+        "question": "Civil War P.O.W.s crash land in a hot air balloon onto this French author's \"Mysterious Island\"",
+        "answer": "Jules Verne",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TOUGH VOCABULARY",
+        "value": 400,
+        "question": "Antediluvian refers to a time in Genesis before this event occurred",
+        "answer": "the flood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TWINS & TRIPLETS",
+        "value": 400,
+        "question": "Also known as this type of twins, dizygotic twins may be of different sexes",
+        "answer": "fraternal twins",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POP MUSIC",
+        "value": 400,
+        "question": "1988 hit in which George Michael offered to be your \"preacher, teacher, anything you have in mind\"",
+        "answer": "\"Father Figure\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DEAR DIARY",
+        "value": 800,
+        "question": "\"The natural history of\" the Galapagos \"is eminently curious, and well deserves attention\", he wrote in 1835",
+        "answer": "Darwin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY NAME ORIGINS",
+        "value": 800,
+        "question": "From the Chinese pronunciation of characters meaning \"sun\" & \"origin\"",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "DESERT ISLAND READS",
+        "value": 800,
+        "question": "Things were bleak in this 1954 novel even before the airplane full of kids crashes on an island--they were fleeing a nuclear war",
+        "answer": "Lord of the Flies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TOUGH VOCABULARY",
+        "value": 800,
+        "question": "A gourmet is a connoisseur; this related foodie starts with the same 5 letters & prizes quantity over quality",
+        "answer": "a gourmand",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TWINS & TRIPLETS",
+        "value": 800,
+        "question": "Between 1980 & 2014 U.S. twin births increased by 79%, due in part to the use of the then-new treatment called IVF, short for this",
+        "answer": "in vitro fertilization",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POP MUSIC",
+        "value": 800,
+        "question": "In a song from The Temptations, \"Papa\" was one of these, \"wherever he laid his hat was his home\"",
+        "answer": "a rolling stone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DEAR DIARY",
+        "value": 1200,
+        "question": "Jim Carroll recounted his youth as a drug-addicted high school sports star in the \"Diaries\" named for this sport",
+        "answer": "basketball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY NAME ORIGINS",
+        "value": 1200,
+        "question": "In Central America, thought to be from the name of a local leader & the Spanish word for water",
+        "answer": "Nicaragua",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "DESERT ISLAND READS",
+        "value": 1200,
+        "question": "The term Robinsonade refers to a castaway story  that emulates the 18th century works of this man",
+        "answer": "Defoe",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TOUGH VOCABULARY",
+        "value": 1200,
+        "question": "This word containing a synonym for \"big\" means \"generosity\" & was shouted in France when lords were giving gifts to the people",
+        "answer": "largesse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TWINS & TRIPLETS",
+        "value": 1200,
+        "question": "In 2017 this singer was \"Happy\" to welcome triplets & said they harmonize when they cry",
+        "answer": "Pharrell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POP MUSIC",
+        "value": 1200,
+        "question": "Luther Vandross emotionally told us he'd \"Love, love, love\" to do this with his father again",
+        "answer": "dance",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DEAR DIARY",
+        "value": 1600,
+        "question": "\"With one's face in the wind, you were almost burned with a shower of firedrops\", he wrote on September 2, 1666",
+        "answer": "Samuel Pepys",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY NAME ORIGINS",
+        "value": 1600,
+        "question": "In South America, from the name of a man born in 1783",
+        "answer": "Bolivia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "DESERT ISLAND READS",
+        "value": 1600,
+        "question": "One of Captain Flint's crew, Ben Gunn is marooned on this title island for 3 years",
+        "answer": "Treasure Island",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TOUGH VOCABULARY",
+        "value": 1600,
+        "question": "It was a music education system developed by a Swiss composer before it was a pop duo",
+        "answer": "eurythmics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TWINS & TRIPLETS",
+        "value": 1600,
+        "question": "A pregnancy with twins or triplets can be complicated by the A1 gestational type of this condition",
+        "answer": "diabetes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POP MUSIC",
+        "value": 1600,
+        "question": "Madonna sang in this hit, \"I know you're going to be upset, 'cause I was always your little girl\"",
+        "answer": "\"Papa Don't Preach\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DEAR DIARY",
+        "value": 2000,
+        "question": "She's seen here in the 1960s when her decades of diaries, including her affair with Henry Miller, became a literary sensation",
+        "answer": "Anais Nin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY NAME ORIGINS",
+        "value": 2000,
+        "question": "In central Europe, from Latin for \"eastern borderland\"",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "DESERT ISLAND READS",
+        "value": 2000,
+        "question": "In this Walter Farley novel, Alec bonds with the title horse when they are shipwrecked together",
+        "answer": "The Black Stallion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TOUGH VOCABULARY",
+        "value": 2000,
+        "question": "It means measuring the amount of space & describes the flask seen here",
+        "answer": "volumetric",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TWINS & TRIPLETS",
+        "value": 2000,
+        "question": "In 1874 these conjoined twins from Siam died, one preceding the other by 3 hours",
+        "answer": "Chang & Eng",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POP MUSIC",
+        "value": 2000,
+        "question": "In this \"feline\" hit, Harry Chapin sings, \"When you coming home, son?\"",
+        "answer": "\"Cat's In The Cradle\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MOVIE CHARACTERS",
+    "clue": "A character who was going to be called Lunar Larry became him, inspired by the name of a real person",
+    "answer": "Buzz Lightyear"
+  },
+  "gameId": "8423",
+  "gameDate": "Wednesday, June 16, 2021"
+}

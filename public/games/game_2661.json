@@ -1,0 +1,574 @@
+{
+  "title": "Show #4331 - Monday, June 2, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "ROCHESTER",
+      "NOW CUT THAT OUT!",
+      "FOREVER 39",
+      "THE JOCK",
+      "BENNY",
+      "\"SHOW\""
+    ],
+    "clues": [
+      {
+        "category": "ROCHESTER",
+        "value": 200,
+        "question": "In Rochester in this state, you might expect to find fans of the Fighting Irish, as it's just south of South Bend",
+        "answer": "Indiana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NOW CUT THAT OUT!",
+        "value": 200,
+        "question": "In the 1700s Jacques Daviel performed the first modern surgery on this clouding of the eye's lens",
+        "answer": "cataract",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOREVER 39",
+        "value": 200,
+        "question": "This L.A. Laker shot 39 free throws in a single game in the 2000 NBA Finals",
+        "answer": "Shaquille O'Neal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE JOCK",
+        "value": 200,
+        "question": "In 1908 Jack Johnson became the first black boxing champ in this weight division when he KO'd Tommy Burns",
+        "answer": "heavyweight",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BENNY",
+        "value": 200,
+        "question": "In 1785 Thomas Jefferson succeeded him as minister to France",
+        "answer": "Benjamin Franklin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\"",
+        "value": 200,
+        "question": "Each child brings something to school & informs the other kids about it in this activity",
+        "answer": "show and tell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ROCHESTER",
+        "value": 400,
+        "question": "Rochester in Plymouth County in this state is home to Witch Rock where witches were said to rise skyward",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NOW CUT THAT OUT!",
+        "value": 400,
+        "question": "This \"imperial\" surgical procedure can be used to deliver babies in distress at the time of birth",
+        "answer": "Caesarean section",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOREVER 39",
+        "value": 400,
+        "question": "Jack Benny turned 39 for real in this year, the year FDR first took office",
+        "answer": "1933",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE JOCK",
+        "value": 400,
+        "question": "At Karachi National Stadium, you can cheer on heroes of this sport, including Hanif Mohammad & Shahid Khan Afridi",
+        "answer": "cricket",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BENNY",
+        "value": 400,
+        "question": "While in office, he admitted 6 states, more than any other U.S. president",
+        "answer": "Benjamin Harrison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\"",
+        "value": 400,
+        "question": "A judicial proceeding with a predetermined outcome held for propaganda purposes",
+        "answer": "show trial",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ROCHESTER",
+        "value": 600,
+        "question": "9 miles east of Pontiac, the city of Rochester in this state is home to Oakland University",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NOW CUT THAT OUT!",
+        "value": 600,
+        "question": "In a controversial procedure in 1984, Baby Fae received a heart from one of these monkeys",
+        "answer": "baboon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOREVER 39",
+        "value": 600,
+        "question": "While working on the Manhattan Project, J. Robert Oppenheimer was 39 & living in this New Mexico town",
+        "answer": "Los Alamos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE JOCK",
+        "value": 600,
+        "question": "Mike Eruzione led the U.S. men's ice hockey team to the Olympic gold medal in this year, the last time the U.S. team won",
+        "answer": "1980",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BENNY",
+        "value": 600,
+        "question": "In addition to his \"Baby and Child Care\" book, he wrote \"Caring for Your Disabled Child\"",
+        "answer": "Dr. Benjamin Spock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\"",
+        "value": 600,
+        "question": "A part of a performance receiving so much prolonged applause it interrupts the program",
+        "answer": "show stopper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ROCHESTER",
+        "value": 800,
+        "question": "A port on the New York state barge canal, Rochester, New York is closest to this Great Lake",
+        "answer": "Lake Ontario",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NOW CUT THAT OUT!",
+        "value": 800,
+        "question": "In the 1950s it became the first internal organ successfully transplanted in humans",
+        "answer": "kidney",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOREVER 39",
+        "value": 800,
+        "question": "This British monarch outlived her husband by 39 years",
+        "answer": "Queen Victoria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE JOCK",
+        "value": 800,
+        "question": "(I'm NFL wide receiver Ed McCaffrey)  In the 1999 Super Bowl, I caught 5 passes from this quarterback who was playing his final game",
+        "answer": "John Elway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BENNY",
+        "value": 800,
+        "question": "In the 1790s astronomer & mathematician Benjamin Banneker compiled an annual one of these",
+        "answer": "almanac",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\"",
+        "value": 800,
+        "question": "A producer of a TV show who supervises most of the aspects of production",
+        "answer": "show runner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ROCHESTER",
+        "value": 1000,
+        "question": "Just up the turnpike from Portsmouth is the \"Lilac City\" of Rochester in this \"New\" state",
+        "answer": "New Hampshire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NOW CUT THAT OUT!",
+        "value": 1000,
+        "question": "From the Latin for \"to look at a joint\", this type of surgery removes & repairs torn knee cartilage",
+        "answer": "arthroscopic surgery",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOREVER 39",
+        "value": 1000,
+        "question": "Chapter 39 of this religious text is entitled \"Az-Zumar\" or \"The Troops\"",
+        "answer": "The Koran",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE JOCK",
+        "value": 1000,
+        "question": "An old superstition of rodeo riders was never wear this color, until Dan Mortensen did & won big",
+        "answer": "yellow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BENNY",
+        "value": 1000,
+        "question": "In 1954 he turned Henry James' \"The Turn of the Screw\" into an opera",
+        "answer": "Benjamin Britten",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"SHOW\"",
+        "value": 1000,
+        "question": "Official nickname of the entity that joined the United States on August 10, 1821",
+        "answer": "\"Show-Me State\" (Missouri)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HAIL TO THE NOBLE GASES",
+      "CHARACTERS IN MUSICALS",
+      "THE 3-DIGIT YEARS",
+      "COMMUNICATIONS",
+      "STATE NICKNAMES",
+      "HAVE YOU HEARD THE WORD?"
+    ],
+    "clues": [
+      {
+        "category": "HAIL TO THE NOBLE GASES",
+        "value": 400,
+        "question": "In a kids' song \"The sun is a mass of incandescent gas...where hydrogen is built into\" this",
+        "answer": "helium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS IN MUSICALS",
+        "value": 400,
+        "question": "I want a vodka cocktail whenever I hear the name of this \"South Pacific\" character who's Liat's mother",
+        "answer": "Bloody Mary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE 3-DIGIT YEARS",
+        "value": 400,
+        "question": "In the 300s Candra Gupta ruled this country as Maharajadhiraja, or king of kings",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COMMUNICATIONS",
+        "value": 400,
+        "question": "It's waved to indicate surrender or truce",
+        "answer": "white flag",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "STATE NICKNAMES",
+        "value": 400,
+        "question": "They're \"The Flickertail State\" & \"The Mount Rushmore State\"; together, they're called \"The Twin Sisters\"",
+        "answer": "North Dakota & South Dakota",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HAVE YOU HEARD THE WORD?",
+        "value": 400,
+        "question": "This term for an object carried to give a person a sense of safety was popularized in the comic strip \"Peanuts\"",
+        "answer": "security blanket",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE NOBLE GASES",
+        "value": 800,
+        "question": "John Mayer sings, \"She's always buzzing just like\" this noble gas",
+        "answer": "neon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS IN MUSICALS",
+        "value": 800,
+        "question": "When this musical begins, Irene Molloy plans to marry Horace Vandergelder, but Mrs. Levi may have other ideas",
+        "answer": "Hello, Dolly!",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE 3-DIGIT YEARS",
+        "value": 800,
+        "question": "In 527 Theodora, daughter of a bearkeeper, rose to empress of this empire based in Constantinople",
+        "answer": "Byzantine Empire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COMMUNICATIONS",
+        "value": 800,
+        "question": "This medium was originally called \"wireless telegraohy\"",
+        "answer": "radio",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "STATE NICKNAMES",
+        "value": 800,
+        "question": "It's sometimes called \"The Land of the Saints\", because lots of Latter-Day Saints live there",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HAVE YOU HEARD THE WORD?",
+        "value": 800,
+        "question": "Our word for this long, narrow runnerless type of sled comes from Canada's Micmac Indians",
+        "answer": "toboggan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE NOBLE GASES",
+        "value": 1200,
+        "question": "This other 5-letter name for the noble gases refers to their reluctance to form compounds",
+        "answer": "inert",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS IN MUSICALS",
+        "value": 1200,
+        "question": "Magaldi is a famous tango singer who gets involved with this title character",
+        "answer": "Evita",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE 3-DIGIT YEARS",
+        "value": 1200,
+        "question": "In the early 100s Juvenal was writing in this genre, mocking & ridiculing Roman corruption",
+        "answer": "satire",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COMMUNICATIONS",
+        "value": 1200,
+        "question": "The use of this Indian language as a secret code during WWII is covered in the film \"Windtalkers\"",
+        "answer": "Navajo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "STATE NICKNAMES",
+        "value": 1200,
+        "question": "Fir sure!  Firs, pines & hemlocks helped give Washington state this nickname",
+        "answer": "\"The Evergreen State\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HAVE YOU HEARD THE WORD?",
+        "value": 1200,
+        "question": "Now meaning a confused & turbulent situation, it's a notorious ocean whirlpool off northern Norway",
+        "answer": "maelstrom",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE NOBLE GASES",
+        "value": 1600,
+        "question": "Recently, the noble gases have been forced into compounds, like this one in HArF, created in 2000",
+        "answer": "argon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS IN MUSICALS",
+        "value": 1600,
+        "question": "A lovely lass named Fiona MacLaren is the heroine of this Lerner & Loewe show",
+        "answer": "Brigadoon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE 3-DIGIT YEARS",
+        "value": 1600,
+        "question": "This Frankish ruler didn't come up short with his 754 donation of lands to the pope",
+        "answer": "Pepin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COMMUNICATIONS",
+        "value": 1600,
+        "question": "One of these clear cables can carry 65,000 times more info than a regular copper wire",
+        "answer": "fiber optic cable",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "STATE NICKNAMES",
+        "value": 1600,
+        "question": "Though nicknamed \"The Constitution State\", it was actually the fifth state to ratify the Constitution",
+        "answer": "Connecticut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HAVE YOU HEARD THE WORD?",
+        "value": 1600,
+        "question": "The Spanish gave the indigenous Peruvians this name that came from the native word for \"king\"",
+        "answer": "Inca",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE NOBLE GASES",
+        "value": 2000,
+        "question": "Building on the Curies' work, Friedrich Dorn found this gas & first called it \"emanation\"",
+        "answer": "radon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CHARACTERS IN MUSICALS",
+        "value": 2000,
+        "question": "Once a teenaged muleteer in a San Diego production, Brian Stokes Mitchell now has the lead in this show on Broadway",
+        "answer": "Man of La Mancha",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE 3-DIGIT YEARS",
+        "value": 2000,
+        "question": "A Thomas Cahill book says this island people \"saved civilization\" by preserving writings",
+        "answer": "Irish (Ireland)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COMMUNICATIONS",
+        "value": 2000,
+        "question": "It's the \"warm\" term for the operation that links your Palm & PC for an exchange of data",
+        "answer": "HotSync",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "STATE NICKNAMES",
+        "value": 2000,
+        "question": "So much wild sage grows there that it's the \"Sage State\" (as well as the \"Sagebrush State\")",
+        "answer": "Nevada",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HAVE YOU HEARD THE WORD?",
+        "value": 2000,
+        "question": "The name of this cold, treeless region where reindeer thrive comes from a Russian word for \"flat-topped hill\"",
+        "answer": "tundra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ACTRESSES",
+    "clue": "She was fined 20,000 francs for \"inciting racial hatred\" by denouncing a religious practice of killing sheep",
+    "answer": "Brigitte Bardot"
+  },
+  "gameId": "4331",
+  "gameDate": "Monday, June 2, 2003"
+}

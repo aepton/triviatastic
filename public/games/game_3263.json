@@ -1,0 +1,574 @@
+{
+  "title": "Show #5822 - Tuesday, December 29, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "THE SMITHS",
+      "BIBLE BOOKS BY QUOTATION",
+      "YOU'RE ALL WET",
+      "JAVA, THE HUT",
+      "NAME THAT SPORT",
+      "I CAN DO IT IN 5 \"NOTE\"S"
+    ],
+    "clues": [
+      {
+        "category": "THE SMITHS",
+        "value": 200,
+        "question": "Explorer said to have been saved by Pocahontas",
+        "answer": "John Smith",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BIBLE BOOKS BY QUOTATION",
+        "value": 200,
+        "question": "\"And God remembered Noah, and every living thing, and all the cattle that was with him in the ark\"",
+        "answer": "Genesis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE ALL WET",
+        "value": 200,
+        "question": "To see the tides in the Bay of Fundy at their highest, visit Minas Basin in this country",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "JAVA, THE HUT",
+        "value": 200,
+        "question": "This restaurant's new McCafe offers iced coffee as well as the hot stuff",
+        "answer": "McDonald's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT SPORT",
+        "value": 200,
+        "question": "PGA",
+        "answer": "golf",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "I CAN DO IT IN 5 \"NOTE\"S",
+        "value": 200,
+        "question": "Letter-perfect slang for a $100 bill",
+        "answer": "a C-note",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE SMITHS",
+        "value": 400,
+        "question": "Howdy Doody, seen here as a bobblehead, was created by this man, his TV costar",
+        "answer": "Buffalo Bob Smith",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BIBLE BOOKS BY QUOTATION",
+        "value": 400,
+        "question": "\"And God spake unto Moses, and said unto him, I am the lord\"",
+        "answer": "Exodus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE ALL WET",
+        "value": 400,
+        "question": "Wisconsin honeymooners may visit Big Manitou, at 165 feet one of the highest of these east of the Rockies",
+        "answer": "a waterfall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "JAVA, THE HUT",
+        "value": 400,
+        "question": "The Coffee Bean & Tea Leaf offers herbal infusions like lemon chamomile that are \"100%\" this \"-free\"",
+        "answer": "caffeine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT SPORT",
+        "value": 400,
+        "question": "MLS",
+        "answer": "soccer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "I CAN DO IT IN 5 \"NOTE\"S",
+        "value": 400,
+        "question": "The late author David Foster Wallace was known for using these at the bottoms of pages",
+        "answer": "footnotes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE SMITHS",
+        "value": 600,
+        "question": "Founded a church in 1830, murdered 14 years later",
+        "answer": "Joseph Smith",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BIBLE BOOKS BY QUOTATION",
+        "value": 600,
+        "question": "\"So they took up (him), and cast him forth into the sea\"",
+        "answer": "Jonah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE ALL WET",
+        "value": 600,
+        "question": "3 streams, the Jordan, Bear & Weber, flow in, but there are no streams that empty this large U.S. lake",
+        "answer": "the Great Salt Lake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "JAVA, THE HUT",
+        "value": 600,
+        "question": "This coffee company's logo features 2 stars & a twin-tailed mermaid",
+        "answer": "Starbucks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT SPORT",
+        "value": 600,
+        "question": "USTA, founded in 1881",
+        "answer": "tennis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "I CAN DO IT IN 5 \"NOTE\"S",
+        "value": 600,
+        "question": "Barack Obama delivered this speech at the 2004 Democratic National Convention",
+        "answer": "keynote",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE SMITHS",
+        "value": 800,
+        "question": "Leading blues singer of the 1920s who recorded nearly 200 songs",
+        "answer": "Bessie Smith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BIBLE BOOKS BY QUOTATION",
+        "value": 800,
+        "question": "\"Then Satan answered the Lord, and said, doth (this man) fear God for nought?\"",
+        "answer": "Job",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE ALL WET",
+        "value": 800,
+        "question": "(Jimmy of the Clue Crew shows an animated map of the Atlantic on the monitor.)  The fusion of the north & south equatorial currents along with water from the Gulf of Mexico form this warm current",
+        "answer": "the Gulf Stream",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "JAVA, THE HUT",
+        "value": 800,
+        "question": "Try a Kaffe Kreme at this shop where their coffee is as good as their doughnuts",
+        "answer": "Krispy Kreme",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT SPORT",
+        "value": 800,
+        "question": "USAV",
+        "answer": "volleyball",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "I CAN DO IT IN 5 \"NOTE\"S",
+        "value": 800,
+        "question": "It's the fractional music item seen here",
+        "answer": "a half-note",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE SMITHS",
+        "value": 1000,
+        "question": "Rhodesian politician who declared independence from Great Britain",
+        "answer": "Ian Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BIBLE BOOKS BY QUOTATION",
+        "value": 1000,
+        "question": "\"And when he had opened the seventh seal, there was silence in heaven about the space of half an hour\"",
+        "answer": "Revelation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "YOU'RE ALL WET",
+        "value": 1000,
+        "question": "The name of this ocean is derived from the name of a Titan in Greek myth who was a brother of Prometheus",
+        "answer": "the Atlantic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "JAVA, THE HUT",
+        "value": 1000,
+        "question": "Have some joe at cafes named for this fictional Colombian who represents more than 500,000 coffee growers",
+        "answer": "Juan Valdez",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT SPORT",
+        "value": 1000,
+        "question": "PBA, founded in 1958",
+        "answer": "bowling",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "I CAN DO IT IN 5 \"NOTE\"S",
+        "value": 1000,
+        "question": "To signify certain ideas in addition to the explicit meaning",
+        "answer": "connote",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "UNCIVIL UNREST",
+      "ACTORS & THEIR ROLES",
+      "MEALTIME LIT",
+      "BRAND \"X\"",
+      "WE HAWK OLD INVENTIONS",
+      "LITTLE-USED WORDS"
+    ],
+    "clues": [
+      {
+        "category": "UNCIVIL UNREST",
+        "value": 400,
+        "question": "\"This is the farewell kiss, you dog\", said Muntader al-Zaidi as he threw both of these at Pres. Bush in Dec. 2008",
+        "answer": "his shoes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & THEIR ROLES",
+        "value": 400,
+        "question": "Colonel Claus von Stauffenberg & Ron Kovic",
+        "answer": "Tom Cruise",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEALTIME LIT",
+        "value": 400,
+        "question": "Perhaps Mr. Capote feasted on French toast while writing this 1958 tale of Miss Golightly",
+        "answer": "Breakfast at Tiffany's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BRAND \"X\"",
+        "value": 400,
+        "question": "This brand's packages were originally labeled \"sanitary cold cream remover\"",
+        "answer": "Kleenex",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WE HAWK OLD INVENTIONS",
+        "value": 400,
+        "question": "He got movable type moving, & there are only about 40 of his 1450s Bible left!  Act now!",
+        "answer": "Gutenberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LITTLE-USED WORDS",
+        "value": 400,
+        "question": "A malison is a curse; a benison is this",
+        "answer": "a blessing",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "UNCIVIL UNREST",
+        "value": 800,
+        "question": "The decidedly misnamed Avenue of Eternal Peace on this square was the site of deadly protests in 1989",
+        "answer": "Tiananmen Square",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & THEIR ROLES",
+        "value": 800,
+        "question": "Tinkerbell & Erin Brockovich",
+        "answer": "Julia Roberts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEALTIME LIT",
+        "value": 800,
+        "question": "William Inge may have needed bug repellent while writing this 1953 play",
+        "answer": "Picnic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BRAND \"X\"",
+        "value": 800,
+        "question": "Pursue perfection with this make of car whose logo is seen here",
+        "answer": "Lexus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WE HAWK OLD INVENTIONS",
+        "value": 800,
+        "question": "In December 1877 editors of Sci. American checked out his cylinder phonograph; the sentimental value alone is huge!",
+        "answer": "Edison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LITTLE-USED WORDS",
+        "value": 800,
+        "question": "The cholesterol-conscious may order a glair omelet, glair meaning this",
+        "answer": "egg-white",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "UNCIVIL UNREST",
+        "value": 1200,
+        "question": "Seen here is an illustration of this 1773 protest",
+        "answer": "the Boston Tea Party",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & THEIR ROLES",
+        "value": 1200,
+        "question": "Larry Gigli & George Reeves",
+        "answer": "Ben Affleck",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEALTIME LIT",
+        "value": 1200,
+        "question": "Anne Tyler sported a full menu when she wrote the bestselling \"Dinner at\" this \"Restaurant\"",
+        "answer": "Dinner at the Homesick Restaurant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BRAND \"X\"",
+        "value": 1200,
+        "question": "This Mars candy bar is 2 fingers of cookie, caramel & chocolate",
+        "answer": "Twix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WE HAWK OLD INVENTIONS",
+        "value": 1200,
+        "question": "We have a certain \"view\" of this guy who 1st perfected his \"quick freeze machine\" for fish in 1926; enjoy our 1/2-priced halibut!",
+        "answer": "(Clarence) Birdseye",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LITTLE-USED WORDS",
+        "value": 1200,
+        "question": "An horologe is any device that gives you this information",
+        "answer": "time",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "UNCIVIL UNREST",
+        "value": 1600,
+        "question": "Washington, D.C. & Seattle have been targets of heated protests against the World Bank & the IMF, short for this",
+        "answer": "International Monetary Fund",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & THEIR ROLES",
+        "value": 1600,
+        "question": "Elizabeth Swann & Elizabeth Bennet",
+        "answer": "Keira Knightley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEALTIME LIT",
+        "value": 1600,
+        "question": "After \"The Hitchhiker's Guide to the Galaxy\", he served up \"The Long Dark Tea-Time of the Soul\"",
+        "answer": "Douglas Adams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BRAND \"X\"",
+        "value": 1600,
+        "question": "This company's Jack Kilby created the first integrated circuit back in 1958",
+        "answer": "Texas Instruments",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WE HAWK OLD INVENTIONS",
+        "value": 1600,
+        "question": "Within 10 years of inventing the steel plow in 1837, he was producing 1,000 annually; nothing runs like...",
+        "answer": "John Deere",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LITTLE-USED WORDS",
+        "value": 1600,
+        "question": "Dundrearies are long these worn with a hairless chin",
+        "answer": "sideburns",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "UNCIVIL UNREST",
+        "value": 2000,
+        "question": "These 1886 Chicago riots involved strikers from the McCormick Reaper Works",
+        "answer": "the Haymarket Riots",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & THEIR ROLES",
+        "value": 2000,
+        "question": "Wyatt Earp & Snake Plissken",
+        "answer": "Kurt Russell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEALTIME LIT",
+        "value": 2000,
+        "question": "We hope William S. Burroughs was clothed while writing this tale of a trip to the \"interzone\"",
+        "answer": "Naked Lunch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BRAND \"X\"",
+        "value": 2000,
+        "question": "Lesney Products, a London die-casting business, introduced this toy brand in 1953",
+        "answer": "Matchbox",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WE HAWK OLD INVENTIONS",
+        "value": 2000,
+        "question": "You can't put a price on this German's scale for classifying the relative hardness of minerals--but we can!",
+        "answer": "(Friedrich) Mohs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LITTLE-USED WORDS",
+        "value": 2000,
+        "question": "One of these may have shapely futtocks: a futtock is a curved timber in its frame",
+        "answer": "a ship",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN MUSIC",
+    "clue": "The brilliance of Anne Brown, a soprano, changed the title of a 1935 opera that was to be called simply this one name",
+    "answer": "Porgy"
+  },
+  "gameId": "5822",
+  "gameDate": "Tuesday, December 29, 2009"
+}

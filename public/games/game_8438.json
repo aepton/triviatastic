@@ -1,0 +1,574 @@
+{
+  "title": "Show #2277 - Tuesday, June 28, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "THE 1890s",
+      "FAMOUS WOMEN",
+      "BEVERAGES",
+      "BAPTISTS",
+      "COINS",
+      "\"BUTTER\""
+    ],
+    "clues": [
+      {
+        "category": "THE 1890s",
+        "value": 100,
+        "question": "In 1895 King Gillette invented the safety type of this with disposable blades",
+        "answer": "a razor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 100,
+        "question": "Her husband often called this first lady \"Bird\", a shortening of her famous nickname",
+        "answer": "Lady Bird Johnson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BEVERAGES",
+        "value": 100,
+        "question": "The Dutch East India Company introduced this drink to Europe",
+        "answer": "tea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BAPTISTS",
+        "value": 100,
+        "question": "Growing up, this president & his family were members of the Plains Baptist Church",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COINS",
+        "value": 100,
+        "question": "In 1951 Finland became the first country to issue a commemorative of these games",
+        "answer": "the Olympics",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"BUTTER\"",
+        "value": 100,
+        "question": "This bright yellow wildflower of the crowfoot family is so named because of its color & shape",
+        "answer": "a buttercup",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 200,
+        "question": "On Feb. 12, 1892 his birthday became an official holiday in Illinois",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 200,
+        "question": "This foreign ex-president's youngest daughter, Kris, is a TV & film star in the Philippines",
+        "answer": "Corazon Aquino",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BEVERAGES",
+        "value": 200,
+        "question": "In 1990 Procter & Gamble picked up this \"Punch\" line from Del Monte",
+        "answer": "Hawaiian Punch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BAPTISTS",
+        "value": 200,
+        "question": "Samuel Francis Smith, a Baptist clergyman, wrote new words to \"God Save the King\", creating this song",
+        "answer": "\"America\" (\"My Country, 'Tis Of Thee\")",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COINS",
+        "value": 200,
+        "question": "This country's peso features an eagle with a snake in its beak",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"BUTTER\"",
+        "value": 200,
+        "question": "When you flatter someone to gain favor, you're said to be doing this",
+        "answer": "buttering them up",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 300,
+        "question": "He put on an exhibition of the Vitascope projector April 23, 1896 at a NYC music hall",
+        "answer": "Edison",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 300,
+        "question": "Tennis star Gabriela Sabatini is a native of this South American country",
+        "answer": "Argentina",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BEVERAGES",
+        "value": 300,
+        "question": "Popular beverage made from the seeds or beans of a Madder family shrub",
+        "answer": "coffee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BAPTISTS",
+        "value": 300,
+        "question": "He earned his Ph.D. in theology at Boston University; it was also in Boston that he met Coretta Scott",
+        "answer": "Martin Luther King",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COINS",
+        "value": 300,
+        "question": "The coin of this country's chief monetary unit pictures Jawaharlal Nehru on one side",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"BUTTER\"",
+        "value": 300,
+        "question": "Bart Simpson is the commercial spokesman for this bestselling Nestle candy bar",
+        "answer": "Butterfinger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 400,
+        "question": "In 1898 Britain obtained a 99-year lease on this colony's \"New Territories\"",
+        "answer": "Hong Kong",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 400,
+        "question": "On Nov. 15, 1977 she gave birth to her first child, Peter Mark Andrew Phillips",
+        "answer": "Princess Anne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BEVERAGES",
+        "value": 400,
+        "question": "Fermentation occurs in beer making when this ingredient is added to the mix",
+        "answer": "Yeast",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BAPTISTS",
+        "value": 400,
+        "question": "The Baptists believe baptism should be performed by this method rather than by pouring or sprinkling",
+        "answer": "immersion",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COINS",
+        "value": 400,
+        "question": "Monaco uses the currency of this neighboring country",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"BUTTER\"",
+        "value": 400,
+        "question": "Dale Evans' horse",
+        "answer": "Buttermilk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 1890s",
+        "value": 1000,
+        "question": "The Kiel Canal opened in 1895, connecting this sea to the Baltic Sea",
+        "answer": "The North Sea",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 500,
+        "question": "Connie Conehead on \"SNL\", she put on a cone again to play Jane Curtin's sister in \"The Coneheads\"",
+        "answer": "Laraine Newman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BEVERAGES",
+        "value": 500,
+        "question": "It's the process of heating & sweetening cider & flavoring it with spices",
+        "answer": "mulling",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BAPTISTS",
+        "value": 500,
+        "question": "The Baptists grew out of the Puritan revolt against this national church",
+        "answer": "Anglican Church (or Church of England)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COINS",
+        "value": 500,
+        "question": "Before adopting the pula as its unit of currency in 1976, Botswana used this country's rand",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"BUTTER\"",
+        "value": 500,
+        "question": "Eileen Heckart won an Oscar for her role as an overprotective mother in this 1972 film",
+        "answer": "Butterflies Are Free",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EUROPEAN HISTORY",
+      "WEATHER",
+      "FORESTS",
+      "U.S. SENATORS",
+      "GREAT BRITS",
+      "THEATRE"
+    ],
+    "clues": [
+      {
+        "category": "EUROPEAN HISTORY",
+        "value": 200,
+        "question": "This fascist consolidated his power after the 1924 murder of socialist Giacomo Matteotti",
+        "answer": "Mussolini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WEATHER",
+        "value": 200,
+        "question": "In 1960 Tiros I became the first one of these",
+        "answer": "a weather satellite",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 200,
+        "question": "Tuskegee National Forest lies just east of Montgomery in this state",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. SENATORS",
+        "value": 200,
+        "question": "This state currently has 2 women in the Senate, Dianne Feinstein & Barbara Boxer",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GREAT BRITS",
+        "value": 200,
+        "question": "In 1963 he became the first modern person named an honorary U.S. citizen",
+        "answer": "Winston Churchill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THEATRE",
+        "value": 200,
+        "question": "This country's Shaw Festival was founded in Niagara-on-the-Lake  in 1962",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN HISTORY",
+        "value": 400,
+        "question": "Grand Duchess Charlotte abdicated in 1964 & her son, Prince Jean, became this country's Grand Duke",
+        "answer": "Luxembourg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WEATHER",
+        "value": 400,
+        "question": "In one type of hygrometer, the length of a hair increases with an increase in this",
+        "answer": "humidity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 400,
+        "question": "This English forest in Nottinghamshire was once a royal hunting ground",
+        "answer": "Sherwood Forest",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. SENATORS",
+        "value": 400,
+        "question": "Wm. Howard Taft's grandson Robert Taft Jr., who represented this state in the Senate, died in 1993",
+        "answer": "Ohio",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GREAT BRITS",
+        "value": 400,
+        "question": "Famous for his jasperware, he's been called the most important figure in British ceramic history",
+        "answer": "Wedgewood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THEATRE",
+        "value": 400,
+        "question": "In 1939 Van Heflin & Joseph Cotten co-starred with her in \"The Philadelphia Story\"",
+        "answer": "Katharine Hepburn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN HISTORY",
+        "value": 600,
+        "question": "In 486 Clovis, king of this Germanic people, defeated the Romans in Gaul",
+        "answer": "The Franks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WEATHER",
+        "value": 600,
+        "question": "Nearly all weather occurs in this lowest layer of the atmosphere",
+        "answer": "the troposphere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 600,
+        "question": "At 4,898 feet, Feldberg is the highest peak in this German forest noted for its mineral springs",
+        "answer": "the Black Forest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S. SENATORS",
+        "value": 600,
+        "question": "During WWII this Kansan led an assault on a German machine gun installation that nearly cost him his life",
+        "answer": "Robert Dole",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GREAT BRITS",
+        "value": 600,
+        "question": "The simple inscription on her tombstone reads, \"F.N. Born 1820. Died 1910.\"",
+        "answer": "Florence Nightingale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THEATRE",
+        "value": 600,
+        "question": "\"That Championship Season\" concerns a reunion of 4 former players of this sport with their coach",
+        "answer": "basketball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN HISTORY",
+        "value": 1600,
+        "question": "In 1961 the Indian military forced this country out of its possessions of Goa, Daman & Diu",
+        "answer": "Portugal",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WEATHER",
+        "value": 800,
+        "question": "In 1940 FDR transferred the Weather Bureau to this cabinet department",
+        "answer": "the Department of Commerce",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 800,
+        "question": "A forest in northern Oregon shares its name with this mountain located within its borders",
+        "answer": "Mount Hood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S. SENATORS",
+        "value": 1600,
+        "question": "In Jan. 1993 Bob Krueger was chosen by Ann Richards to fill the Senate seat vacated by this man",
+        "answer": "Lloyd Bentsen",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GREAT BRITS",
+        "value": 800,
+        "question": "His 1755 dictionary define a pension as \"pay given to a state hireling for treason to his country\"",
+        "answer": "Dr. Johnson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THEATRE",
+        "value": 800,
+        "question": "Andrey Prozorov isn't onstage at the beginning of this Chekhov play, but his female siblings are",
+        "answer": "Three Sisters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EUROPEAN HISTORY",
+        "value": 1000,
+        "question": "This Hapsburg became emperor of Austria in 1848 & remained on the throne for 68 years",
+        "answer": "Franz Joseph",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WEATHER",
+        "value": 1000,
+        "question": "This English astronomer devised the first weather map in 1686",
+        "answer": "Edmond Halley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 1000,
+        "question": "Mississippi has a national forest named for this first European to reach the Mississippi River",
+        "answer": "de Soto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S. SENATORS",
+        "value": 1000,
+        "question": "In 1975 this longtime Arkansas senator was granted honorary knighthood & Japan's Order of the Rising Sun",
+        "answer": "Fulbright",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GREAT BRITS",
+        "value": 1000,
+        "question": "Name shared by a 17th c. philosopher, essayist & statesman & his descendant, a 20th c. painter",
+        "answer": "Francis Bacon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THEATRE",
+        "value": 1000,
+        "question": "\"Redhead\", the 1st musical Bob Fosse directed, starred this redhead who became his 3rd wife",
+        "answer": "Gwen Verdon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ASTRONOMY",
+    "clue": "It was discovered by a Czechoslovak-born astronomer in March 1973",
+    "answer": "(Comet) Kohoutek"
+  },
+  "gameId": "2277",
+  "gameDate": "Tuesday, June 28, 1994"
+}

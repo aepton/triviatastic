@@ -1,0 +1,574 @@
+{
+  "title": "Show #2437 - Tuesday, March 21, 1995",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. STATES",
+      "SUPERHEROES",
+      "1919",
+      "ANIMALS' OTHER NAMES",
+      "HOLIDAYS & OBSERVANCES",
+      "NUMBER, PLEASE"
+    ],
+    "clues": [
+      {
+        "category": "U.S. STATES",
+        "value": 100,
+        "question": "It's the only state with an area of less than 2,000 square miles",
+        "answer": "Rhode Island",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SUPERHEROES",
+        "value": 100,
+        "question": "\"The Web Slinger\" is a nickname for this Marvel Comics superhero",
+        "answer": "Spider-Man",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "1919",
+        "value": 100,
+        "question": "On July 21 this rubber company's blimp Wingfoot crashed in Chicago, killing 13 people",
+        "answer": "Goodyear",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS' OTHER NAMES",
+        "value": 100,
+        "question": "It's also known as the native bear, but it's a teddy bear-like marsupial, not a real bear",
+        "answer": "a koala bear",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 100,
+        "question": "St. Valentine's Day is celebrated in this month",
+        "answer": "February",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 100,
+        "question": "Baba's thieves or Borden's whacks",
+        "answer": "40",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 200,
+        "question": "Biloxi is this state's chief shrimp-packing port",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SUPERHEROES",
+        "value": 200,
+        "question": "In May 1939 Bob Kane introduced this caped crime fighter in Detective Comics No. 27",
+        "answer": "Batman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "1919",
+        "value": 200,
+        "question": "While traveling to Wichita on September 26, this president suffered what was probably a mild stroke",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS' OTHER NAMES",
+        "value": 200,
+        "question": "It's another name for the snow leopard, as well as one-sixteenth of a pound",
+        "answer": "ounce",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 200,
+        "question": "V-E & V-J Days are associated with this war",
+        "answer": "the Second World War",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 200,
+        "question": "A tete-a-tete usually requires this many people",
+        "answer": "2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 300,
+        "question": "This state's largest bank is Key Bank in Cheyenne",
+        "answer": "Wyoming",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SUPERHEROES",
+        "value": 300,
+        "question": "This cartoon rodent's continuing nemesis was Oil Can Harry",
+        "answer": "Mighty Mouse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "1919",
+        "value": 300,
+        "question": "In April this city was named as headquarters to the League of Nations",
+        "answer": "Geneva, Switzerland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS' OTHER NAMES",
+        "value": 300,
+        "question": "This wild canine found on America's prairies is also called the prairie wolf",
+        "answer": "the coyote",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 300,
+        "question": "In 1994 this May holiday parade was canceled in Manhattan for the first time in 73 years, for lack of interest",
+        "answer": "Memorial Day",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 300,
+        "question": "A heptaglot is a book written in this many languages",
+        "answer": "7",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 400,
+        "question": "This Northwestern state is called \"The Evergreen State\"",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SUPERHEROES",
+        "value": 400,
+        "question": "In comic books his secret identity is Dr. Bruce Banner; on television, it was David Bruce Banner",
+        "answer": "the Incredible Hulk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "1919",
+        "value": 400,
+        "question": "This Scottish-born steel magnate died of pneumonia on August 11",
+        "answer": "(Andrew) Carnegie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS' OTHER NAMES",
+        "value": 400,
+        "question": "These red & white cattle named for an English county are popularly known as whitefaces",
+        "answer": "Herefords",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 400,
+        "question": "In Canada it's observed on the first Monday in September",
+        "answer": "Labor Day",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 400,
+        "question": "The Roman numeral for this year appears on the back of a $1 bill",
+        "answer": "1776",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 500,
+        "question": "This Appalachian state's motto is \"Mountaineers are always free\"",
+        "answer": "West Virginia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SUPERHEROES",
+        "value": 1000,
+        "question": "Trumpeter Al Hirt recorded an updated version of \"Flight of the Bumblebee\" for this TV series",
+        "answer": "The Green Hornet",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "1919",
+        "value": 500,
+        "question": "In December this Impressionist painter of \"The Luncheon of the Boating Party\" died at Cagnes, France",
+        "answer": "Pierre Auguste Renoir",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS' OTHER NAMES",
+        "value": 500,
+        "question": "This insect with a mythical beast in its name is also called a snake doctor",
+        "answer": "the dragonfly",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 500,
+        "question": "Id al-Fitr is the Islamic festival that immediately follows this long observance",
+        "answer": "Ramadan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 500,
+        "question": "The numbers of U.S. Interstate Highways that run coast to coast end in this digit",
+        "answer": "0",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD HISTORY",
+      "COOKING",
+      "SCIENCE & TECHNOLOGY",
+      "LANGUAGES",
+      "BOOKS & AUTHORS",
+      "POTPOURRI"
+    ],
+    "clues": [
+      {
+        "category": "WORLD HISTORY",
+        "value": 200,
+        "question": "In 1980 labor unrest in Gdansk led to the formation of this union",
+        "answer": "Solidarity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 200,
+        "question": "The brown variety of this grain can take twice as long to cook as the white",
+        "answer": "rice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & TECHNOLOGY",
+        "value": 200,
+        "question": "A wire runs from the back of this common device to the exchange; cellular types don't have the wire",
+        "answer": "the telephone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "After 1760 the form of this language spoken in Quebec began to diverge from that spoken in Paris",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "\"The Client\" in this author's bestseller \"The Chamber\" is a former Klansman on Death Row",
+        "answer": "(John) Grisham",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "It is unclear how he became patron saint of England, but it may date to the time of Edward III",
+        "answer": "St. George",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 400,
+        "question": "In 1536 this 2nd wife of Henry VIII was condemned to death by her uncle, the Duke of Norfolk",
+        "answer": "Anne Boleyn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 400,
+        "question": "It's what drop biscuits are dropped on",
+        "answer": "a cookie sheet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & TECHNOLOGY",
+        "value": 400,
+        "question": "In 1960 the first laser used a rod made of this gemstone",
+        "answer": "a ruby",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "Afrikaans is considered a derivation of this language",
+        "answer": "Dutch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 400,
+        "question": "Just when you thought it was safe, this author returned to the sea with a new thriller, \"White Shark\"",
+        "answer": "(Peter) Benchley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "Few of the women traveling first class on this ship perished when it sank in 1912",
+        "answer": "the Titanic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1200,
+        "question": "In 1968 the kings of Laos & Thailand met in the middle of this river to celebrate a mutual agreement",
+        "answer": "the Mekong River",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 600,
+        "question": "It's how you cook croquettes",
+        "answer": "deep fry them",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & TECHNOLOGY",
+        "value": 600,
+        "question": "After 1948 these tiny devices were used to replace vacuum tubes in electronic equipment",
+        "answer": "transistors",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 600,
+        "question": "Like Spanish, Catalan is a member of this group of languages derived from Latin",
+        "answer": "the Romance languages",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 600,
+        "question": "This author of \"Ragtime\" takes readers back to the post-Civil War years in his 1994 book \"The Waterworks\"",
+        "answer": "Doctorow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 600,
+        "question": "A pedodontist specializes in the dental problems of these people",
+        "answer": "children",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 800,
+        "question": "For nearly 100 years, until it fell to Russia in 1721, Estonia was controlled by this Scandinavian country",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 800,
+        "question": "Term for the process of gently combining egg whites with heavier ingredients",
+        "answer": "folding",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & TECHNOLOGY",
+        "value": 800,
+        "question": "3 types of these machines that transfer liquids are reciprocating, rotary & centrifugal",
+        "answer": "pumps",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1600,
+        "question": "The New Testament was originally written in the Koine dialect of this language",
+        "answer": "Greek",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 800,
+        "question": "His first short story collection, \"I, Robot\", was published in 1950",
+        "answer": "Isaac Asimov",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 800,
+        "question": "This colorful term refers to discrimination in selling property insurance based on location",
+        "answer": "redlining",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1000,
+        "question": "After invading Manchuria in 1931, the Japanese established this state with Puyi as emperor",
+        "answer": "Manchukuo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COOKING",
+        "value": 1000,
+        "question": "Butter & this ingredient, not scotch, give butterscotch its main flavor",
+        "answer": "brown sugar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & TECHNOLOGY",
+        "value": 1000,
+        "question": "William Coolidge devised a method for drawing this metal into wires, making it suitable for light bulbs",
+        "answer": "tungsten",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1000,
+        "question": "While Croatian is written in the Latin alphabet, Serbian is written in a form of this one",
+        "answer": "Cyrillic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1000,
+        "question": "In 1994 \"The First Man\", an unfinished novel by this author of \"The Stranger\", was published posthumously",
+        "answer": "(Albert) Camus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 1000,
+        "question": "This composer of the \"Surprise\" symphony was baptized on April Fools' Day in 1732",
+        "answer": "Haydn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "OPERA",
+    "clue": "Considered the most popular of all Czech operas, it ends with a betrothal",
+    "answer": "The Bartered Bride"
+  },
+  "gameId": "2437",
+  "gameDate": "Tuesday, March 21, 1995"
+}

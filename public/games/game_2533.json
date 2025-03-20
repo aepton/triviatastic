@@ -1,0 +1,574 @@
+{
+  "title": "Show #3167 - Tuesday, May 12, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "HIGH PLACES",
+      "ASTROLOGY",
+      "OH, THE HUMANITIES!",
+      "COLLEGE MASCOTS",
+      "HERCULES & XENA",
+      "DOESN'T RHYME WITH DIRT"
+    ],
+    "clues": [
+      {
+        "category": "HIGH PLACES",
+        "value": 100,
+        "question": "In 1707 & 1708 this volcano showered Tokyo with ash & oh-oh, it's rumbling again",
+        "answer": "Mount Fuji",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 100,
+        "question": "The name of this sign is Latin for \"twins\"",
+        "answer": "Gemini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OH, THE HUMANITIES!",
+        "value": 100,
+        "question": "The humanities are part of this, a 2-word term used to describe some colleges",
+        "answer": "Liberal Arts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COLLEGE MASCOTS",
+        "value": 100,
+        "question": "[The Golden Gophers]",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HERCULES & XENA",
+        "value": 100,
+        "question": "Pre-Xena in \"Hercules and the Amazon Women\", she played the Amazon woman Lysia",
+        "answer": "Lucy Lawless",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH DIRT",
+        "value": 100,
+        "question": "This Muppet shares an apartment on \"Sesame Street\"",
+        "answer": "Ernie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HIGH PLACES",
+        "value": 200,
+        "question": "Zermatt, Switzerland's Alpine Museum has several exhibits devoted to this adjacent peak",
+        "answer": "Matterhorn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 200,
+        "question": "Aries is ruled by this warlike planet named for the Roman god of war",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OH, THE HUMANITIES!",
+        "value": 200,
+        "question": "The humanities' origins include this ancient civilization's training of boys for citizenship in the polis",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COLLEGE MASCOTS",
+        "value": 200,
+        "question": "[The Jayhawks]",
+        "answer": "Kansas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HERCULES & XENA",
+        "value": 200,
+        "question": "Xena came, saw & conquered this historic Roman general, but it didn't work out",
+        "answer": "Julius Caesar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH DIRT",
+        "value": 200,
+        "question": "2-word phrase that appears on restaurant signs along with \"No Service\"",
+        "answer": "No Shoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HIGH PLACES",
+        "value": 300,
+        "question": "In 1947 renewed activity of this Sicilian volcano formed 2 new craters",
+        "answer": "Mount Etna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 300,
+        "question": "It may be the sexiest sign, but watch out: its symbol is an animal with a poisonous sting",
+        "answer": "Scorpio",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OH, THE HUMANITIES!",
+        "value": 300,
+        "question": "The humanities sometimes includes the social types of this subject, but not the physical ones",
+        "answer": "Sciences",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COLLEGE MASCOTS",
+        "value": 300,
+        "question": "[The Boilermakers]",
+        "answer": "Purdue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HERCULES & XENA",
+        "value": 300,
+        "question": "This actor who plays Hercules has become one of TV's leading heartthrobs",
+        "answer": "Kevin Sorbo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH DIRT",
+        "value": 300,
+        "question": "This Chicago film critic was an original co-host of PBS' \"Sneak Previews\"",
+        "answer": "Gene Siskel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HIGH PLACES",
+        "value": 800,
+        "question": "Mount Hikurangi, sacred to the Maoris, is the first place in this country to see the light of day",
+        "answer": "New Zealand",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 400,
+        "question": "This water sign is symbolized by 2 fish swimming in opposite directions",
+        "answer": "Pisces",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OH, THE HUMANITIES!",
+        "value": 400,
+        "question": "This member of the Eagles won a National Humanities Medal for his work with the Walden Woods Project",
+        "answer": "Don Henley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COLLEGE MASCOTS",
+        "value": 400,
+        "question": "[The Cornhuskers]",
+        "answer": "Nebraska",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HERCULES & XENA",
+        "value": 400,
+        "question": "You just can't keep a bad girl dead, as proved by this Hudson Leick character seen here",
+        "answer": "Callisto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH DIRT",
+        "value": 400,
+        "question": "He's partly responsible for creating \"H.M.S. Pinafore\"",
+        "answer": "Sir Arthur Sullivan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HIGH PLACES",
+        "value": 500,
+        "question": "Nanga Parbat in Jammu & Kashmir is considered the most dangerous peak for climbers in this range",
+        "answer": "Himalayas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 500,
+        "question": "People born under this sign like to weigh all sides of an argument, as if they had a pair of scales",
+        "answer": "Libra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OH, THE HUMANITIES!",
+        "value": 500,
+        "question": "Humanities Magazine is published by this government unit headed by William Ferris",
+        "answer": "National Endowment for the Humanities",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COLLEGE MASCOTS",
+        "value": 500,
+        "question": "[The Blue Devils]",
+        "answer": "Duke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HERCULES & XENA",
+        "value": 500,
+        "question": "The full show titles are \"Xena: Warrior Princess\" & \"Hercules:\" this",
+        "answer": "Hercules: The Legendary Journeys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH DIRT",
+        "value": 500,
+        "question": "Bacteria helps turn milk into this food",
+        "answer": "Cheese",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THAT'S ANCIENT HISTORY, MAN",
+      "SHOW ME THE MONKEY!",
+      "POET-POURRI",
+      "ELECTRONIC MUSIC",
+      "HE'S MY VICE PRESIDENT!",
+      "WORD PROCESSING"
+    ],
+    "clues": [
+      {
+        "category": "THAT'S ANCIENT HISTORY, MAN",
+        "value": 200,
+        "question": "Until introducing coinage around 570 B.C., Athens used this trading method, from French for \"exchange\"",
+        "answer": "Barter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SHOW ME THE MONKEY!",
+        "value": 200,
+        "question": "Members of this monkey group seen here don't have thumbs, nor do they have eight legs",
+        "answer": "a spider monkey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POET-POURRI",
+        "value": 200,
+        "question": "In 1827 he enlisted in the Army under the pseudonym Edgar A. Perry",
+        "answer": "Edgar Allan Poe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ELECTRONIC MUSIC",
+        "value": 200,
+        "question": "The style called techno evolved in this U.S. city about 20 years after Motown was born there",
+        "answer": "Detroit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HE'S MY VICE PRESIDENT!",
+        "value": 200,
+        "question": "Spiro T. Agnew",
+        "answer": "Richard M. Nixon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORD PROCESSING",
+        "value": 200,
+        "question": "In a car, do it at the speed of freeway traffic; in word processing, use it with form letters & labels",
+        "answer": "Merge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THAT'S ANCIENT HISTORY, MAN",
+        "value": 400,
+        "question": "In 1204 the Crusaders took this Byzantine city; in 1453 the Turks did",
+        "answer": "Constantinople",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SHOW ME THE MONKEY!",
+        "value": 400,
+        "question": "This type of monkey is a loudmouth",
+        "answer": "a howler monkey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POET-POURRI",
+        "value": 400,
+        "question": "He wrote the poetic line \"Then he climbed to the tower of the Old North Church\"",
+        "answer": "Henry Wadsworth Longfellow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ELECTRONIC MUSIC",
+        "value": 400,
+        "question": "Electronic music master Moby is a descendant of this creator of Moby Dick",
+        "answer": "Herman Melville",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HE'S MY VICE PRESIDENT!",
+        "value": 400,
+        "question": "Harry Truman",
+        "answer": "Franklin D. Roosevelt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORD PROCESSING",
+        "value": 400,
+        "question": "Times Roman is a typeface, Italic is a style, 12-point is a size & Times Roman Italic 12-point is this",
+        "answer": "Font",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THAT'S ANCIENT HISTORY, MAN",
+        "value": 600,
+        "question": "After Judah refused to pay taxes in 602 B.C., this Babylonian king took over the kingdom",
+        "answer": "Nebuchadnezzar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SHOW ME THE MONKEY!",
+        "value": 600,
+        "question": "This monkey is named after an order of hooded Catholic monks",
+        "answer": "Capuchin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POET-POURRI",
+        "value": 600,
+        "question": "This \"Mending Wall\" poet & his wife, Elinor, were co-valedictorians at Lawrence High School in Massachusetts",
+        "answer": "Robert Frost",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ELECTRONIC MUSIC",
+        "value": 600,
+        "question": "Ace remixers Tom Rowlands & Ed Simons were the Dust Brothers before becoming these \"Brothers\"",
+        "answer": "Chemical Brothers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HE'S MY VICE PRESIDENT!",
+        "value": 600,
+        "question": "Henry A. Wallace",
+        "answer": "Franklin D. Roosevelt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORD PROCESSING",
+        "value": 600,
+        "question": "From Latin for \"to run\", it runs blinking around the screen to show where the next character goes",
+        "answer": "Cursor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THAT'S ANCIENT HISTORY, MAN",
+        "value": 800,
+        "question": "The city of Palenque flourished from 600 to 900 during this North American civilization's classic era",
+        "answer": "Mayans",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SHOW ME THE MONKEY!",
+        "value": 800,
+        "question": "The coast is clear for this ape that's really a monkey",
+        "answer": "a Barbary ape (or a Gibraltar ape)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POET-POURRI",
+        "value": 800,
+        "question": "This Percy Shelley work begins with the title character bound to a precipice",
+        "answer": "\"Prometheus Unbound\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ELECTRONIC MUSIC",
+        "value": 800,
+        "question": "\"Firestarter\" & \"Breathe\" are hit singles by this band that emerged from the British rave scene",
+        "answer": "Prodigy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HE'S MY VICE PRESIDENT!",
+        "value": 800,
+        "question": "John Nance Garner",
+        "answer": "Franklin D. Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORD PROCESSING",
+        "value": 800,
+        "question": "Term for the printer or margins your computer is set for unless you tell it otherwise",
+        "answer": "Default",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THAT'S ANCIENT HISTORY, MAN",
+        "value": 2000,
+        "question": "In 1480 Ivan III announced Russia's independence from these peoples",
+        "answer": "Mongols/Tartars/Golden Horde",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SHOW ME THE MONKEY!",
+        "value": 1000,
+        "question": "Pick up the pieces with this research species",
+        "answer": "a Rhesus monkey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POET-POURRI",
+        "value": 1000,
+        "question": "In 1809 he took his seat in the House of Lords & began 2 years of travel in Portugal, Spain & Greece",
+        "answer": "Lord Byron",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ELECTRONIC MUSIC",
+        "value": 1000,
+        "question": "In the '90s, this British band heard here got into the \"head\" of U.S. audiences",
+        "answer": "Portishead",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HE'S MY VICE PRESIDENT!",
+        "value": 2000,
+        "question": "Alben W. Barkley",
+        "answer": "Harry Truman",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORD PROCESSING",
+        "value": 1000,
+        "question": "5-letter term for any single keystroke that carries out a series of commands",
+        "answer": "Macro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PLACES IN CANADA",
+    "clue": "Renamed in the 1830s, this city of 28,000 & its river were both originally called Little Thames",
+    "answer": "Stratford, Ontario"
+  },
+  "gameId": "3167",
+  "gameDate": "Tuesday, May 12, 1998"
+}

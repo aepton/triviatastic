@@ -1,0 +1,556 @@
+{
+  "title": "Show #4641 - Monday, November 8, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "THE TRUMAN LIBRARY",
+      "DO \"TELL\"",
+      "BOTTOM OF THE NINTH",
+      "IF YOU GROW IT, THEY WILL EAT",
+      "CHAMPAGNE MUSIC",
+      "SHALL WE GDANSK?"
+    ],
+    "clues": [
+      {
+        "category": "THE TRUMAN LIBRARY",
+        "value": 200,
+        "question": "One exhibit at the library covers the concert career of this Truman relative",
+        "answer": "Margaret Truman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DO \"TELL\"",
+        "value": 200,
+        "question": "Give us your best Marlon Brando with this famous 1-word howl from a classic 1951 film",
+        "answer": "STELLA!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BOTTOM OF THE NINTH",
+        "value": 200,
+        "question": "He dedicated his ninth symphony to the King of Prussia",
+        "answer": "Beethoven",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IF YOU GROW IT, THEY WILL EAT",
+        "value": 200,
+        "question": "Endive is a member of the same family as this flower, so \"give me your answer, do\"",
+        "answer": "daisy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CHAMPAGNE MUSIC",
+        "value": 200,
+        "question": "The Eagles mention amenities like champagne on ice & a flexible check-out time at this title place",
+        "answer": "the Hotel California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SHALL WE GDANSK?",
+        "value": 200,
+        "question": "The country where you'll find the city of Gdansk",
+        "answer": "Poland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN LIBRARY",
+        "value": 400,
+        "question": "See the satchel Truman took when he signed the charter for this organization on Jun 26, 1945, in San Francisco",
+        "answer": "the U.N.",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DO \"TELL\"",
+        "value": 400,
+        "question": "Bootes, Orion & Gemini, to name a few",
+        "answer": "constellations",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BOTTOM OF THE NINTH",
+        "value": 400,
+        "question": "It's the chemical element named for the ninth planet from the sun",
+        "answer": "plutonium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IF YOU GROW IT, THEY WILL EAT",
+        "value": 400,
+        "question": "While there are over 5,000 varieties of this fruit, you probably eat the Anjou or Bartlett",
+        "answer": "a pear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CHAMPAGNE MUSIC",
+        "value": 400,
+        "question": "He wrote the song that says, \"I get no kick from champagne\"",
+        "answer": "Cole Porter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SHALL WE GDANSK?",
+        "value": 400,
+        "question": "It's what the Germans called Gdansk when they controlled it",
+        "answer": "Danzig",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN LIBRARY",
+        "value": 600,
+        "question": "(Sarah of the Clue Crew reports from the Truman Library in Independence, MO.)  Among the library's historic artifacts is the safety plug from the bomb dropped on this city on August 9, 1945",
+        "answer": "Nagasaki",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DO \"TELL\"",
+        "value": 600,
+        "question": "It's the governmental organization headed by George H.W. Bush from 1976 to 1977",
+        "answer": "the Central Intelligence Agency",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BOTTOM OF THE NINTH",
+        "value": 600,
+        "question": "In 1966 this strongman gave Spain its ninth constitution since 1812",
+        "answer": "Franco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IF YOU GROW IT, THEY WILL EAT",
+        "value": 600,
+        "question": "Though American in origin, the Cape Gooseberry got its name by being cultivated on this South African Cape",
+        "answer": "the Cape of Good Hope",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CHAMPAGNE MUSIC",
+        "value": 600,
+        "question": "Ann-Margret sang a song called \"Champagne\" in the movie version of this rock opera",
+        "answer": "Tommy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SHALL WE GDANSK?",
+        "value": 600,
+        "question": "The body of water on which Gdansk is a major port",
+        "answer": "the Baltic",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN LIBRARY",
+        "value": 800,
+        "question": "(Sofia of the Clue Crew reports from the Truman Library in Independence, MO.)  \"Family Squabble\", a painting by this illustrator, shows how many families argued about the 1948 presidential election",
+        "answer": "(Norman) Rockwell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DO \"TELL\"",
+        "value": 800,
+        "question": "It's the flat, movable bone at the front of the knee",
+        "answer": "the patella",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BOTTOM OF THE NINTH",
+        "value": 800,
+        "question": "He was our ninth president & his grandson was our twenty-third",
+        "answer": "William Henry Harrison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IF YOU GROW IT, THEY WILL EAT",
+        "value": 800,
+        "question": "One of the oldest plants cultivated by man, it produces 1 bunch of \"hands\" & then is cut down",
+        "answer": "bananas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CHAMPAGNE MUSIC",
+        "value": 800,
+        "question": "This No. 1 hit with a \"Spanglish\" title says, \"She never drinks the water, makes you order French champagne\"",
+        "answer": "\"Livin' La Vida Loca\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SHALL WE GDANSK?",
+        "value": 800,
+        "question": "The organization that administered Gdansk as a free city following World War I",
+        "answer": "the League of Nations",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE TRUMAN LIBRARY",
+        "value": 1000,
+        "question": "The library has the actual guns used by the men who tried to assassinate Pres. Truman at this residence in 1950",
+        "answer": "Blair House",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DO \"TELL\"",
+        "value": 1000,
+        "question": "Small rounds of meat-filled pasta that are shaped into rings & boiled",
+        "answer": "tortellini",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BOTTOM OF THE NINTH",
+        "value": 1000,
+        "question": "Hindus consider Buddha to be the ninth incarnation of this preserver god",
+        "answer": "Vishnu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IF YOU GROW IT, THEY WILL EAT",
+        "value": 1000,
+        "question": "The California types of these are Mexican-Guatemalan hybrids & include the Hass",
+        "answer": "avocados",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CHAMPAGNE MUSIC",
+        "value": 1000,
+        "question": "In a tropical tune by this singer, a water shortage at the Gull Reef Club means \"Champagne Si, Agua No\"",
+        "answer": "Jimmy Buffett",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SHALL WE GDANSK?",
+        "value": 1000,
+        "question": "The river that runs from the Carpathian Mountains to its mouth near Gdansk",
+        "answer": "the Vistula",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "YOUR HITTITE PARADE",
+      "STAR WARS",
+      "GRAY'S ANATOMY",
+      "CALIFORNIA DREAMIN'",
+      "PULITZER PRIZE-WINNING PLAYS",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "YOUR HITTITE PARADE",
+        "value": 400,
+        "question": "Not too far from this present-day Turkish capital you can see the site of the old Hittite capital, Hattusas",
+        "answer": "Ankara",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "STAR WARS",
+        "value": 400,
+        "question": "(Mark Hamill reads.)  This villain was portrayed by three different actors: one did his voice, one did his physical acting, & one did his stunts",
+        "answer": "Darth Vader",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GRAY'S ANATOMY",
+        "value": 400,
+        "question": "From the Latin for \"to chew\", Gray's calls this bone the strongest bone of the face",
+        "answer": "the mandible",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CALIFORNIA DREAMIN'",
+        "value": 400,
+        "question": "California produces approximately 98% of the U.S. supply of these \"green almond\" nuts",
+        "answer": "pistachios",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PULITZER PRIZE-WINNING PLAYS",
+        "value": 400,
+        "question": "Frank D. Gilroy:\"The Subject Was...\"",
+        "answer": "Roses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "Revolutionary War traitor who also told \"True Lies\" to film fans",
+        "answer": "Benedict Arnold Schwarzenegger",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STAR WARS",
+        "value": 800,
+        "question": "(R2-D2 \"reads\".)  In \"Star Wars\", the term used for robots like C-3PO & myself is this 5-letter shortening of another word",
+        "answer": "droid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GRAY'S ANATOMY",
+        "value": 800,
+        "question": "Gray's describes this as the longest & largest bone in the arm",
+        "answer": "the humerus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CALIFORNIA DREAMIN'",
+        "value": 800,
+        "question": "In 1848 this large migration began with a valuable discovery at Sutter's Mill",
+        "answer": "the Gold Rush",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PULITZER PRIZE-WINNING PLAYS",
+        "value": 800,
+        "question": "Paul Zindel:\"The Effect of Gamma Rays on...\"",
+        "answer": "Man-in-the-Moon Marigolds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 800,
+        "question": "\"Rollin' On The River\" CCR tune that founded Christian Science",
+        "answer": "Proud Mary Baker Eddy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "YOUR HITTITE PARADE",
+        "value": 1200,
+        "question": "The Chalybes of the Hittite Empire ushered in this \"Age\" with advancements like tempering & forging",
+        "answer": "the Iron Age",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "STAR WARS",
+        "value": 1200,
+        "question": "(A stormtrooper reads.)  Infiltrating the Death Star, these 2 characters dress up like storm troopers to rescue Princess Leia",
+        "answer": "Han & Luke",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GRAY'S ANATOMY",
+        "value": 1200,
+        "question": "This artery is in the thigh, as its name indicates",
+        "answer": "the femoral artery",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CALIFORNIA DREAMIN'",
+        "value": 1200,
+        "question": "During the 1999 World Cup Soccer final in Pasadena, she did her famous victory strip",
+        "answer": "Brandi Chastain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PULITZER PRIZE-WINNING PLAYS",
+        "value": 1200,
+        "question": "John Patrick:\"The Teahouse...\"",
+        "answer": "of the August Moon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1200,
+        "question": "Portly Yankee slugger who became a more svelte Supreme Court Justice",
+        "answer": "Babe Ruth Bader Ginsburg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "YOUR HITTITE PARADE",
+        "value": 1600,
+        "question": "A great battle was fought at the Hittite stronghold of Kadesh against this Egyptian pharaoh, husband to Nefertari",
+        "answer": "Ramses the Great",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "STAR WARS",
+        "value": 1600,
+        "question": "(Chewbacca \"reads\".)  I am Chewbacca, this type of creature from the planet Kashyyyk",
+        "answer": "a Wookiee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GRAY'S ANATOMY",
+        "value": 1600,
+        "question": "Types of these in the foot include transverse, lateral, medial & fundamental longitudinal",
+        "answer": "arches",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CALIFORNIA DREAMIN'",
+        "value": 1600,
+        "question": "Yountville & St. Helena are towns in this Central California wine-producing county",
+        "answer": "Napa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PULITZER PRIZE-WINNING PLAYS",
+        "value": 1600,
+        "question": "William Inge:",
+        "answer": "Picnic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1600,
+        "question": "John Gray's \"planetary\" relationship book that won tennis' U.S. Open in 2001",
+        "answer": "Men are from Mars, Women are from Venus Williams",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STAR WARS",
+        "value": 2000,
+        "question": "(I'm Anthony Daniels.)  I play C-3PO, a droid specializing in this political etiquette used at official ceremonies & occasions",
+        "answer": "protocol",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GRAY'S ANATOMY",
+        "value": 2000,
+        "question": "Gray's says this largest ductless gland is \"highly vascular\" & \"dark purple\"",
+        "answer": "spleen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CALIFORNIA DREAMIN'",
+        "value": 2000,
+        "question": "The Dead Sea Scrolls might still be under wraps if this Ca. library hadn't leaked them to the public in 1991",
+        "answer": "the Huntington Library",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PULITZER PRIZE-WINNING PLAYS",
+        "value": 2000,
+        "question": "Marsha Norman:\"'Night,...\"",
+        "answer": "Mother",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 2000,
+        "question": "Horatio Alger's 1868 novel that became the current vice president",
+        "answer": "Ragged Dick Cheney",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COMPANY ORIGINS",
+    "clue": "This Fortune 100 company got its name from what it bought from sailors & sold to natural history collectors",
+    "answer": "Shell Oil"
+  },
+  "gameId": "4641",
+  "gameDate": "Monday, November 8, 2004"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #5693 - Wednesday, May 13, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "STAYING AT HOME",
+      "THE WORLD COMES TO YOU",
+      "WHAT'S ON TV?",
+      "CHECK THE NEWSPAPER",
+      "TAKE OUT THE TRASH",
+      "TIME FOR A \"NAP\""
+    ],
+    "clues": [
+      {
+        "category": "STAYING AT HOME",
+        "value": 200,
+        "question": "The British royal residence & castle known as Balmoral is found in this U.K. country",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE WORLD COMES TO YOU",
+        "value": 200,
+        "question": "This geographic extreme has no sunshine for 182 days a year",
+        "answer": "the South Pole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHAT'S ON TV?",
+        "value": 200,
+        "question": "The fifth season of this show is finding itself: Jin isn't dead after all; like others he's sort of displaced in time",
+        "answer": "Lost",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CHECK THE NEWSPAPER",
+        "value": 200,
+        "question": "Though based in McLean, Virginia, this top-selling daily serves the entire nation",
+        "answer": "USA Today",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TAKE OUT THE TRASH",
+        "value": 200,
+        "question": "I obeyed this item's \"Squeeze... from the bottom & flatten as you go up\" until I couldn't squeeze or flatten anymore",
+        "answer": "toothpaste",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TIME FOR A \"NAP\"",
+        "value": 200,
+        "question": "A quickly taken informal photo",
+        "answer": "a snapshot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STAYING AT HOME",
+        "value": 400,
+        "question": "Treat yourself like royalty by lounging at Iolani Palace, the old home of Hawaii's monarchs on this isle",
+        "answer": "Oahu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE WORLD COMES TO YOU",
+        "value": 400,
+        "question": "The towering statue of Christ the Redeemer overlooks this South American metropolis",
+        "answer": "Rio de Janiero",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHAT'S ON TV?",
+        "value": 400,
+        "question": "Joshua Jackson plays the son of a mad scientist on this \"X-Files\"-esque Fox show",
+        "answer": "Fringe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CHECK THE NEWSPAPER",
+        "value": 400,
+        "question": "In 1889 Dow Jones changed the name of its daily business newsletter to this",
+        "answer": "The Wall Street Journal",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TAKE OUT THE TRASH",
+        "value": 400,
+        "question": "Time to recycle my latest 24 cans of this lemon-lime soft drink that sponsors the NBA Slam Dunk Contest",
+        "answer": "Sprite",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TIME FOR A \"NAP\"",
+        "value": 400,
+        "question": "You may not have ever seen it, but it's the back of your neck",
+        "answer": "the nape",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STAYING AT HOME",
+        "value": 600,
+        "question": "Keep a low profile if you visit Hatchet Hall, home of this female anti-alcohol campaigner",
+        "answer": "Carry Nation",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE WORLD COMES TO YOU",
+        "value": 600,
+        "question": "Ommmmmmm...This Tibetan city is known as the \"Forbidden City\"",
+        "answer": "Lhasa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHAT'S ON TV?",
+        "value": 600,
+        "question": "We were just getting into Michael Imperioli & Harvey Keitel on this \"planetary\" cop show, then it got canceled",
+        "answer": "Life on Mars",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CHECK THE NEWSPAPER",
+        "value": 600,
+        "question": "This Detroit paper has a 2-word name, a guarantee of the First Amendment",
+        "answer": "the Free Press",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TAKE OUT THE TRASH",
+        "value": 600,
+        "question": "I've worn my INSPI(RED) T-shirt from this company so many times, even Goodwill won't want it",
+        "answer": "The Gap",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TIME FOR A \"NAP\"",
+        "value": 600,
+        "question": "I love the smell of this incendiary jelly-like substance in the morning!",
+        "answer": "napalm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STAYING AT HOME",
+        "value": 800,
+        "question": "Chill out in this D.C. residence like Harry Truman did in the 1950s when the White House was being renovated",
+        "answer": "Blair House",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE WORLD COMES TO YOU",
+        "value": 800,
+        "question": "Da, this mountain range separates Siberia from European Russia",
+        "answer": "the Urals",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHAT'S ON TV?",
+        "value": 800,
+        "question": "Hey, Simon Baker plays this title crime solver on CBS; sure, he was a fraud in the past, but he gets the job done",
+        "answer": "The Mentalist",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CHECK THE NEWSPAPER",
+        "value": 800,
+        "question": "A San Diego paper is the Union-this; Chicago has the (just) this",
+        "answer": "the Tribune",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TAKE OUT THE TRASH",
+        "value": 800,
+        "question": "Wow, an old photo labeled \"Grandma and Grandpa at\" this Arizona natural wonder, \"1947\"--gee, too bad I don't know these people",
+        "answer": "the Grand Canyon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TIME FOR A \"NAP\"",
+        "value": 800,
+        "question": "Unsuitable",
+        "answer": "inappropriate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STAYING AT HOME",
+        "value": 1000,
+        "question": "Get lost in the 250-room North Carolina mansion known as Biltmore that was once home to members of this family",
+        "answer": "the Vanderbilts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE WORLD COMES TO YOU",
+        "value": 1000,
+        "question": "Tierra del Fuego lies just south of this blustery strait",
+        "answer": "the Strait of Magellan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHAT'S ON TV?",
+        "value": 1000,
+        "question": "They always call in science-loving biophysicist Jacob Hood at the last possible moment on this show",
+        "answer": "Eleventh Hour",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CHECK THE NEWSPAPER",
+        "value": 1000,
+        "question": "In April 2009 this daily from the First Church of Christ, Scientist replaced its daily print edition with its website",
+        "answer": "The Christian Science Monitor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TAKE OUT THE TRASH",
+        "value": 1000,
+        "question": "Last week's sandwich has to go; it's now ham, cheese & Rhizopus stolonifer, better known as this",
+        "answer": "mold",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TIME FOR A \"NAP\"",
+        "value": 1000,
+        "question": "(Kelly of the Clue Crew shows a micrographic animation on the monitor.)  In the nervous system, when an impulse gets to the end of a nerve, cell neurotransmitters shoot across one of these spaces",
+        "answer": "a synapse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SCIENTISTS",
+      "WOMEN ON MY INFINITE PLAYLIST",
+      "KINGS OF LEON",
+      "LITERARY SETTINGS",
+      "WOMEN IN GOVERNMENT",
+      "OOO, 3 \"O\"s"
+    ],
+    "clues": [
+      {
+        "category": "SCIENTISTS",
+        "value": 400,
+        "question": "The farad, a unit used to measure electrical capacitance, is named for this 19th century physicist",
+        "answer": "(Michael) Faraday",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ON MY INFINITE PLAYLIST",
+        "value": 400,
+        "question": "Her hit \"...Baby One More Time\" was also recorded by Fountains of Wayne & Bowling for Soup",
+        "answer": "Britney Spears",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "KINGS OF LEON",
+        "value": 400,
+        "question": "Leon is in western Spain, & its kings also ruled much of this country that wasn't independent until around 1140",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LITERARY SETTINGS",
+        "value": 400,
+        "question": "Toni Morrison's \"Jazz\" is set primarily in this Manhattan neighborhood in the 1920s",
+        "answer": "Harlem",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WOMEN IN GOVERNMENT",
+        "value": 400,
+        "question": "In February 2009 she traveled to Asia in her first trip abroad as Secretary of State",
+        "answer": "Hillary Clinton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OOO, 3 \"O\"s",
+        "value": 400,
+        "question": "It's a beautiful day in this, a district or locality, often with reference to its inhabitants",
+        "answer": "the neighborhood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 800,
+        "question": "This great physicist is buried at Copenhagen's Assistens Kirkegaard",
+        "answer": "(Niels) Bohr",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ON MY INFINITE PLAYLIST",
+        "value": 800,
+        "question": "Formerly on \"Kids Incorporated\", this \"Glamorous\" woman can tell you that \"Big Girls Don't Cry\"",
+        "answer": "Fergie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "KINGS OF LEON",
+        "value": 800,
+        "question": "Kings included Alfonso IX El Baboso, \"The Drooler\", & Alfonso VI El Bravo, meaning this",
+        "answer": "\"The Brave\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LITERARY SETTINGS",
+        "value": 800,
+        "question": "\"To Kill a Mockingbird\" takes place in a small town in this southern state",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WOMEN IN GOVERNMENT",
+        "value": 800,
+        "question": "1 of the 2 female senators from California",
+        "answer": "Barbara Boxer (or Dianne Feinstein)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OOO, 3 \"O\"s",
+        "value": 800,
+        "question": "An exclusive privilege to carry on a business, granted by a government; respond & collect $800",
+        "answer": "a monopoly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 1200,
+        "question": "This Russian physiologist published his first book, \"Work of the Digestive Glands\", in 1897",
+        "answer": "(Ivan) Pavlov",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ON MY INFINITE PLAYLIST",
+        "value": 1200,
+        "question": "Her single \"So What\" was on the Billboard charts even before the release of her 2008 album \"Funhouse\"",
+        "answer": "Pink",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "KINGS OF LEON",
+        "value": 1200,
+        "question": "In 1081 Alfonso VI banished from Leon this most famous medieval Spanish warrior",
+        "answer": "El Cid",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LITERARY SETTINGS",
+        "value": 1200,
+        "question": "(Jon of the Clue Crew walks a walled street of Pamplona, Spain.)  A passage reads, \"Suddenly, a crowd came down the street.  They were all running, and then the bulls galloping, tossing their heads up and down...\" vividly capturing Pamplona in this 1926 novel",
+        "answer": "The Sun Also Rises",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WOMEN IN GOVERNMENT",
+        "value": 1200,
+        "question": "At 42, she became Alaska's youngest governor; recently, at 44, she became a grandmother",
+        "answer": "Sarah Palin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OOO, 3 \"O\"s",
+        "value": 1200,
+        "question": "I got one of these for ya, Mac; they're also on ballots for Californians to vote on",
+        "answer": "propositions",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 1600,
+        "question": "In 1885 he left Edison because he was refused a raise to $25 a week; 6 years later, he invented his coil",
+        "answer": "Tesla",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ON MY INFINITE PLAYLIST",
+        "value": 1600,
+        "question": "Breaking with her Christian music roots, she created some controversy with the song heard here\"I kissed a girl and I liked it /The taste of her cherry chapstick...\"",
+        "answer": "Katy Perry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "KINGS OF LEON",
+        "value": 1600,
+        "question": "The kings of Leon (the dead Spaniards, not the band) lie in the city of Leon in this \"all the gods\" structure",
+        "answer": "the Pantheon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LITERARY SETTINGS",
+        "value": 1600,
+        "question": "The \"No. 1 Ladies' Detective Agency\" series is set in this country that includes much of the Kalahari desert",
+        "answer": "Botswana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WOMEN IN GOVERNMENT",
+        "value": 1600,
+        "question": "In 1967 Ann Uccello was elected the first woman mayor of a capital city--this capital of Connecticut",
+        "answer": "Hartford",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OOO, 3 \"O\"s",
+        "value": 1600,
+        "question": "Check out the \"bark\" of this tree of the genus Cornus",
+        "answer": "dogwood",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENTISTS",
+        "value": 2000,
+        "question": "2008 Nobelist Osamu Shimomura isolated a glowing green fluorescent protein in this aquatic creature",
+        "answer": "a jellyfish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ON MY INFINITE PLAYLIST",
+        "value": 2000,
+        "question": "She made a name for herself on the second stage at Lilith Fair in 1998\"These eyes never saw you leaving /This heart...\"",
+        "answer": "India.Arie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "KINGS OF LEON",
+        "value": 2000,
+        "question": "Like the daughter of a future Spanish king, the daughter of Leon's Ferdinand III was married to a king of this nation",
+        "answer": "England",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LITERARY SETTINGS",
+        "value": 2000,
+        "question": "Thomas Hardy set many of his novels in this fictional place also in the title of his first volume of verse",
+        "answer": "Wessex",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WOMEN IN GOVERNMENT",
+        "value": 2000,
+        "question": "After heading up 2 Cabinet departments, she represented North Carolina in the Senate from 2003 to 2009",
+        "answer": "(Elizabeth) Dole",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OOO, 3 \"O\"s",
+        "value": 2000,
+        "question": "This B.I.G. term means widely & unfavorably known",
+        "answer": "notorious",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE HISTORY OF FLIGHT",
+    "clue": "In 1784 these 2 future presidents saw an early manned balloon flight in Paris &, in 1793, America's 1st, in Philadelphia",
+    "answer": "John Adams & Thomas Jefferson"
+  },
+  "gameId": "5693",
+  "gameDate": "Wednesday, May 13, 2009"
+}

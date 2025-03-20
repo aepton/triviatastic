@@ -1,0 +1,574 @@
+{
+  "title": "Show #3726 - Monday, November 13, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "\"H\"ISTORIC PEOPLE",
+      "THE REEL WORLD",
+      "SEATTLE MEANS BUSINESS",
+      "BIRDS",
+      "AROUND THE USA",
+      "3-LETTER SPANISH WORDS"
+    ],
+    "clues": [
+      {
+        "category": "\"H\"ISTORIC PEOPLE",
+        "value": 100,
+        "question": "The first U.S. Secretary of the Treasury, this man is pictured on the $10 bill",
+        "answer": "Alexander Hamilton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE REEL WORLD",
+        "value": 100,
+        "question": "Samuel L. Jackson played this cool detective in a 2000 remake",
+        "answer": "Shaft",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE MEANS BUSINESS",
+        "value": 100,
+        "question": "Robyn Hitchcock's song \"Viva! Sea-Tac\" rhymes, \"Coming and going it has to be\" this transportation company",
+        "answer": "Boeing",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIRDS",
+        "value": 100,
+        "question": "A male one of these is a drake",
+        "answer": "Duck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE USA",
+        "value": 100,
+        "question": "This famous frog cut the ribbon for the official opening of Atlanta's Center for Puppetry Arts",
+        "answer": "Kermit the Frog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER SPANISH WORDS",
+        "value": 100,
+        "question": "No bull, it's \"Bravo!\"",
+        "answer": "Ole!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"H\"ISTORIC PEOPLE",
+        "value": 200,
+        "question": "This Greek's \"oath\" is administered to those about to enter the medical profession",
+        "answer": "Hippocrates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE REEL WORLD",
+        "value": 200,
+        "question": "Anthony Hopkins' portrayal of this president in a 1995 film was a bit more serious than Dan Hedaya's in 1999",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE MEANS BUSINESS",
+        "value": 200,
+        "question": "This company had its genesis when 2 Seattle boys read an article about the Altair 8800",
+        "answer": "Microsoft",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIRDS",
+        "value": 200,
+        "question": "A flock of these is a gaggle",
+        "answer": "Geese",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE USA",
+        "value": 200,
+        "question": "TV fans like to visit Roslyn, Washington, which was transformed into the town of Cicely, Alaska for this '90s series",
+        "answer": "Northern Exposure",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER SPANISH WORDS",
+        "value": 200,
+        "question": "In 1980 Roberto Duran said to Sugar Ray Leonard, \"No\" this, meaning \"no more\"",
+        "answer": "Mas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"H\"ISTORIC PEOPLE",
+        "value": 600,
+        "question": "A cousin of Trajan, this Roman emperor built a 2nd century protective wall across Britain",
+        "answer": "Hadrian",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE REEL WORLD",
+        "value": 300,
+        "question": "The L.A. Times said this 2000 Nick Park animated film was \"Poultry in Motion\"",
+        "answer": "Chicken Run",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE MEANS BUSINESS",
+        "value": 300,
+        "question": "(Hi, I'm Jeff Bezos, founder & CEO of Amazon.com)  Like many tech companies, Amazon.com is listed on this stock exchange -- symbol AMZN",
+        "answer": "NASDAQ",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIRDS",
+        "value": 300,
+        "question": "Flying at 100-200 MPH, this bird is fast as its name implies; in fact, it's one of the fastest",
+        "answer": "Swift",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE USA",
+        "value": 300,
+        "question": "Holey Cow!  The city of Monroe in this state calls itself the \"Swiss Cheese Capital of the U.S.A.\"",
+        "answer": "Wisconsin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER SPANISH WORDS",
+        "value": 300,
+        "question": "Old Mexican movies & telenovelas end with this 3-letter word",
+        "answer": "Fin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"H\"ISTORIC PEOPLE",
+        "value": 400,
+        "question": "In the 18th century B.C., this ruler's code governed Babylon",
+        "answer": "Hammurabi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE REEL WORLD",
+        "value": 400,
+        "question": "As \"Gladiator\" Maximus, he instructs, \"At my signal, unleash Hell\"",
+        "answer": "Russell Crowe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE MEANS BUSINESS",
+        "value": 400,
+        "question": "Architecture firm NBBJ designed Safeco Field & this structure seen here that it replaced",
+        "answer": "Kingdome",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIRDS",
+        "value": 400,
+        "question": "The Egyptian plover is also called this, from the old belief it cleaned the teeth of a Nile reptile",
+        "answer": "Crocodile bird",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE USA",
+        "value": 400,
+        "question": "This 19th century religious leader's winter home is one of the top attractions in St. George, Utah",
+        "answer": "Brigham Young",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER SPANISH WORDS",
+        "value": 400,
+        "question": "Domingo, Lunes or Martes, for example",
+        "answer": "Dia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"H\"ISTORIC PEOPLE",
+        "value": 500,
+        "question": "\"Demian\" & \"Journey to the East\" are 2 novels by this Nobel Prize winner who wrote in German",
+        "answer": "Hermann Hesse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE REEL WORLD",
+        "value": 500,
+        "question": "In a 1996 film this actor proclaimed, \"The Fourth of July will no longer be known as an American holiday\"",
+        "answer": "Bill Pullman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SEATTLE MEANS BUSINESS",
+        "value": 500,
+        "question": "Money from the Alaskan Gold Rush started this fashion retailer whose name means \"North River\"",
+        "answer": "Nordstrom's",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIRDS",
+        "value": 500,
+        "question": "From the elaborate dwellings wrens build, their Latin family name is this, meaning \"cave-dweller\"",
+        "answer": "Troglodytes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE USA",
+        "value": 500,
+        "question": "History buffs enjoy touring Bonanzaville, USA, a reconstructed pioneer village in West Fargo in this state",
+        "answer": "North Dakota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER SPANISH WORDS",
+        "value": 500,
+        "question": "In Spanish it means \"with\"; in English, \"against\"",
+        "answer": "Con",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SHAKESPEARE",
+      "GO TEAM!",
+      "ANATOMY CLASS",
+      "MYTHOLOGICAL MISTAKES",
+      "WHAT A COUNTRY!",
+      "THE END OF THE L\"INE\""
+    ],
+    "clues": [
+      {
+        "category": "SHAKESPEARE",
+        "value": 200,
+        "question": "Many historians disagree with Shakespeare's portrayal of this king as a hunchbacked, villainous monster",
+        "answer": "Richard III",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GO TEAM!",
+        "value": 200,
+        "question": "German fans & English hooligans clashed before their teams met up at this sport's Euro 2000 match",
+        "answer": "Soccer (football)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY CLASS",
+        "value": 200,
+        "question": "Brushing & flossing can prevent & treat this, the inflammation of the gums",
+        "answer": "Gingivitis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGICAL MISTAKES",
+        "value": 200,
+        "question": "This king was granted his wish to have the golden touch before he realized he couldn't eat gold food",
+        "answer": "King Midas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COUNTRY!",
+        "value": 200,
+        "question": "Alphabetically, it's the last of the Scandinavian countries",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE END OF THE L\"INE\"",
+        "value": 200,
+        "question": "Ore-extracting spot",
+        "answer": "Mine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 400,
+        "question": "In \"The Tempest\" he was the rightful Duke of Milan, although his brother threw him out of the city",
+        "answer": "Prospero",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GO TEAM!",
+        "value": 400,
+        "question": "2 of the 3 Major League Baseball teams named for a bird",
+        "answer": "Baltimore Orioles, St. Louis Cardinals &/or Toronto Blue Jays",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY CLASS",
+        "value": 400,
+        "question": "This greenish fluid is produced in the liver from the breakdown of red blood cells & is stored in the gallbladder",
+        "answer": "Bile",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGICAL MISTAKES",
+        "value": 400,
+        "question": "If Paris hadn't run off with her, there wouldn't have been a Trojan War",
+        "answer": "Helen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COUNTRY!",
+        "value": 400,
+        "question": "It's the pre-1989 name for the Asian country of Myanmar",
+        "answer": "Burma",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE END OF THE L\"INE\"",
+        "value": 400,
+        "question": "Cord made from strands twisted together",
+        "answer": "Twine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1200,
+        "question": "His daughters drive this man to cry out, \"I am a man more sinned against than sinning\"",
+        "answer": "King Lear",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GO TEAM!",
+        "value": 600,
+        "question": "Kobe Bryant & Shaquille O'Neal led the Lakers to their first NBA crown in 12 years, defeating this team in the finals",
+        "answer": "Indiana Pacers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY CLASS",
+        "value": 1200,
+        "question": "The Greek word for \"wrist\" gives us this adjective used to describe a syndrome that affects the wrist",
+        "answer": "Carpal",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGICAL MISTAKES",
+        "value": 600,
+        "question": "Thrym the frost giant shouldn't have stolen this tool from Thor; Thor got it back & killed him with it",
+        "answer": "Thor's hammer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COUNTRY!",
+        "value": 600,
+        "question": "In German, this country is known as Vereinigte Staaten",
+        "answer": "United States",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE END OF THE L\"INE\"",
+        "value": 600,
+        "question": "Boars, hogs & pigs, collectively",
+        "answer": "Swine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 800,
+        "question": "Play that contains the line \"For there is nothing either good or bad, but thinking makes it so\"",
+        "answer": "\"Hamlet\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GO TEAM!",
+        "value": 800,
+        "question": "5-touch bouts pertain to this combat sport",
+        "answer": "Fencing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY CLASS",
+        "value": 800,
+        "question": "This fibrous protein is the main constituent of the outermost layers of skin, nails & hair",
+        "answer": "Keratin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGICAL MISTAKES",
+        "value": 800,
+        "question": "Anchises bragged about romancing this Greek love goddess, so Zeus struck him with lightning",
+        "answer": "Aphrodite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COUNTRY!",
+        "value": 800,
+        "question": "The Strait of Hormuz divides the Arabian Peninsula from this nation",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE END OF THE L\"INE\"",
+        "value": 800,
+        "question": "The tomb of a holy person",
+        "answer": "Shrine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1000,
+        "question": "After masquerading as Benedick, Claudio says, \"All hearts in love use their own tongues\" in this comedy",
+        "answer": "\"Much Ado About Nothing\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GO TEAM!",
+        "value": 1000,
+        "question": "This actress is in a league of her own -- she nearly made the 2000 U.S. Olympic Women's Archery Team",
+        "answer": "Geena Davis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY CLASS",
+        "value": 1000,
+        "question": "This flap of cartilage covers the larynx when you swallow so that food doesn't go down your windpipe",
+        "answer": "Epiglottis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGICAL MISTAKES",
+        "value": 1000,
+        "question": "This husband of Eurydice so offended a band of women that they tore him to pieces",
+        "answer": "Orpheus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHAT A COUNTRY!",
+        "value": 1000,
+        "question": "1 of the 2 South American countries directly east of Ecuador",
+        "answer": "Colombia or Peru",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE END OF THE L\"INE\"",
+        "value": 1000,
+        "question": "In polygamous societies, a secondary mate",
+        "answer": "Concubine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LIFE & LITERATURE",
+    "clue": "Cub Scouting & many of its terms like \"akela\", \"law of the pack\", \"den\" & \"wolf\" were inspired by this British work",
+    "answer": "\"The Jungle Book\" (by Rudyard Kipling)"
+  },
+  "gameId": "3726",
+  "gameDate": "Monday, November 13, 2000"
+}

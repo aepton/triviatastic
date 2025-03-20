@@ -1,0 +1,565 @@
+{
+  "title": "Show #1716 - Monday, February 3, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD FLAGS",
+      "TV GUIDE SAYS",
+      "PYRAMIDS",
+      "FAMOUS WOMEN",
+      "THE BOY SCOUTS",
+      "FOLK DANCES"
+    ],
+    "clues": [
+      {
+        "category": "WORLD FLAGS",
+        "value": 100,
+        "question": "This Alpine country's flag, red with a white cross, is based on that of the Crusaders",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV GUIDE SAYS",
+        "value": 100,
+        "question": "\"Arnold the pig hams it up in Hollywood\"",
+        "answer": "Green Acres",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PYRAMIDS",
+        "value": 100,
+        "question": "In 12 B.C. a pyramid was built in this city as a monument to the tribune Gaius Cestius",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 100,
+        "question": "She was fourth runner-up in the Miss Georgia Universe pageant before joining \"Wheel of Fortune\"",
+        "answer": "Vanna White",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE BOY SCOUTS",
+        "value": 100,
+        "question": "It's the Boy Scout motto",
+        "answer": "Be prepared",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FOLK DANCES",
+        "value": 100,
+        "question": "The square dance",
+        "answer": "the United States",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 200,
+        "question": "Lesotho's new flag contains a shield, a short spear, a club & a feather from this large bird",
+        "answer": "the ostrich",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV GUIDE SAYS",
+        "value": 200,
+        "question": "\"Crockett and Tubbs catch a gubernatorial candidate with his pants down\"",
+        "answer": "Miami Vice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PYRAMIDS",
+        "value": 200,
+        "question": "This Corsican defeated a much larger Egyptian force at the Battle of the Pyramids in 1798",
+        "answer": "Napoleon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 200,
+        "question": "She was born Raisa Maksimovna Titorenko in Rubtsovsk, Siberia",
+        "answer": "Raisa Gorbachev",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE BOY SCOUTS",
+        "value": 200,
+        "question": "A Cub Scout unit is called a pack; a similar Boy Scout unit is called this",
+        "answer": "a troop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FOLK DANCES",
+        "value": 200,
+        "question": "The Cossack dance",
+        "answer": "the Soviet Union",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 300,
+        "question": "The tallith, a blue & white prayer shawl, was adopted as the basis for this country's flag",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV GUIDE SAYS",
+        "value": 300,
+        "question": "\"Trying to recover top secret plans, Max boards a ship loaded with spies\"",
+        "answer": "Get Smart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PYRAMIDS",
+        "value": 300,
+        "question": "A goal of his Ra expeditions was to show that pyramid-building could have come to the New World from the old",
+        "answer": "Thor Heyerdahl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 300,
+        "question": "This Supreme Court justice took the post of majority leader of the Arizona State Senate in 1973",
+        "answer": "Sandra Day O'Connor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE BOY SCOUTS",
+        "value": 300,
+        "question": "To qualify for this highest rank of scouting, a boy must earn 21 merit badges",
+        "answer": "Eagle Scout",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FOLK DANCES",
+        "value": 300,
+        "question": "The gavotte",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 400,
+        "question": "This Caribbean country's flag is called \"La Estrella Solitaria\" or the Lone Star",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV GUIDE SAYS",
+        "value": 400,
+        "question": "\"Maddie questions the direction--& existence--of her relationship with David\"",
+        "answer": "Moonlighting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PYRAMIDS",
+        "value": 400,
+        "question": "The Transamerica Pyramid, one of this city's most striking buildings, is on Montgomery St.",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 400,
+        "question": "Mildred Didrikson got this nickname because she reminded some of a certain baseball player",
+        "answer": "Babe Didrikson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE BOY SCOUTS",
+        "value": 400,
+        "question": "This monthly magazine for Boy Scouts has been published since 1911",
+        "answer": "Boy's Life",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FOLK DANCES",
+        "value": 400,
+        "question": "The tarantella",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 500,
+        "question": "The flag of this Canadian province bears the cross of St. Andrew",
+        "answer": "Nova Scotia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV GUIDE SAYS",
+        "value": 500,
+        "question": "\"Mandatory Drug Testing Comes to St. Eligius\"",
+        "answer": "St. Elsewhere",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PYRAMIDS",
+        "value": 500,
+        "question": "A 7-man walking pyramid was a specialty of this high-wire family until a 1962 fall",
+        "answer": "the (Flying) Wallendas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FAMOUS WOMEN",
+        "value": 1000,
+        "question": "Kate Douglas Wiggin wrote this 1903 work about a 10-year-old named Rebecca Rowena Randall",
+        "answer": "Rebecca of Sunnybrook Farm",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE BOY SCOUTS",
+        "value": 500,
+        "question": "The Boy Scouts began in England in 1907 when a camp for 22 boys was organized by this man",
+        "answer": "Baden-Powell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FOLK DANCES",
+        "value": 500,
+        "question": "The czardas",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SPAIN",
+      "PRESIDENTIAL CHILDREN",
+      "NUTRITION",
+      "AMERICAN NOVELS",
+      "ARCHITECTURE",
+      "BLACK HISTORY"
+    ],
+    "clues": [
+      {
+        "category": "SPAIN",
+        "value": 200,
+        "question": "At the end of the Spanish Civil War in 1939, this man became dictator & remained in power until 1975",
+        "answer": "Francisco Franco",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL CHILDREN",
+        "value": 200,
+        "question": "Robert Todd Lincoln ran this sleeping car company from 1897 to 1911",
+        "answer": "Pullman Company",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NUTRITION",
+        "value": 200,
+        "question": "In a health food store, vegetables grown without chemicals & pesticides are generally marked this",
+        "answer": "organic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN NOVELS",
+        "value": 200,
+        "question": "Erica Jong's \"How to Save Your Own Life\" was a sequel to this 1973 novel",
+        "answer": "Fear of Flying",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 200,
+        "question": "Using a lot of reinforced concrete, Danish architect Jorn Utzon designed this Sydney landmark",
+        "answer": "the Opera House",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BLACK HISTORY",
+        "value": 200,
+        "question": "Wm. Thompson, killed in action in 1950, was the 1st Black to win the Medal of Honor in this war",
+        "answer": "the Korean War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SPAIN",
+        "value": 400,
+        "question": "This city, Spain's second largest, has a museum devoted to Catalan art",
+        "answer": "Barcelona",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL CHILDREN",
+        "value": 400,
+        "question": "A 1950 Washington Post review of her singing said, \"She is flat a good deal of the time\"",
+        "answer": "Margaret Truman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NUTRITION",
+        "value": 400,
+        "question": "Some studies suggest that colon cancer is linked to a low intake of this plant & grain substance",
+        "answer": "fiber",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN NOVELS",
+        "value": 400,
+        "question": "The Reverend L.M. Birkhead of Kansas City was advisor to Sinclair Lewis on this 1927 novel",
+        "answer": "Elmer Gantry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 400,
+        "question": "After a fire, Stanford White rebuilt the University of Virginia rotunda designed by this man",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BLACK HISTORY",
+        "value": 400,
+        "question": "Speaking before the Democratic Nat'l Convention in 1988, he urged Americans to \"keep hope alive\"",
+        "answer": "Jesse Jackson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SPAIN",
+        "value": 600,
+        "question": "It's Spain's only nationally owned airline",
+        "answer": "Iberia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL CHILDREN",
+        "value": 600,
+        "question": "On May 27, 1967 she christened the aircraft carrier named for her father",
+        "answer": "Caroline Kennedy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NUTRITION",
+        "value": 600,
+        "question": "These compounds, such as starches & sugars, are the main source of energy in the diet",
+        "answer": "carbohydrate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN NOVELS",
+        "value": 600,
+        "question": "This Carson McCullers novel told the story of John Singer, a man who cannot hear or speak",
+        "answer": "The Heart Is a Lonely Hunter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 600,
+        "question": "These Roman structures for washing & socializing were called thermae, from Greek for hot",
+        "answer": "the baths",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BLACK HISTORY",
+        "value": 600,
+        "question": "He broke the color barrier in baseball, & in 1949 was voted the Nat'l League's most valuable player",
+        "answer": "Jackie Robinson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SPAIN",
+        "value": 1600,
+        "question": "The vineyards of Jerez de la Frontera, north of Cadiz, provide the grapes from which this amber wine is made",
+        "answer": "sherry",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL CHILDREN",
+        "value": 1600,
+        "question": "She was born Oct. 19, 1967, 15 years after her next youngest sibling",
+        "answer": "Amy Carter",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NUTRITION",
+        "value": 800,
+        "question": "A protein is said to be complete if it contains all of the \"essential\" ones of these",
+        "answer": "amino acids",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN NOVELS",
+        "value": 800,
+        "question": "His first novel was \"Other Voices, Other Rooms\"",
+        "answer": "Truman Capote",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 800,
+        "question": "Architect of the East Wing of the National Gallery of Art, he was born in Canton, China",
+        "answer": "I.M. Pei",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BLACK HISTORY",
+        "value": 800,
+        "question": "When Victoria Woodhull ran for pres. in 1872, this orator was her running mate",
+        "answer": "Frederick Douglass",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SPAIN",
+        "value": 1000,
+        "question": "It's 1 of 2 island groups considered Spanish provinces",
+        "answer": "the Canary Islands (or the Balearic Islands)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL CHILDREN",
+        "value": 1000,
+        "question": "She is married to the junior senator from Virginia",
+        "answer": "Lynda (Bird Johnson) Robb",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NUTRITION",
+        "value": 1000,
+        "question": "While a lack of this mineral can cause anemia, too much of it can damage the liver & other tissues",
+        "answer": "iron",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AMERICAN NOVELS",
+        "value": 1000,
+        "question": "This 1925 Anita Loos novel is subtitled \"The Illuminating Diary of a Professional Lady\"",
+        "answer": "Gentlemen Prefer Blondes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BLACK HISTORY",
+        "value": 1000,
+        "question": "In the 1837 Battle of Okeechobee, Black commander John Horse led these Indians",
+        "answer": "the Seminoles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. GEOGRAPHY",
+    "clue": "2 of the 3 U.S. states that have Erie Counties",
+    "answer": "New York, Ohio & Pennsylvania"
+  },
+  "gameId": "1716",
+  "gameDate": "Monday, February 3, 1992"
+}

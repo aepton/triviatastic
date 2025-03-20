@@ -1,0 +1,574 @@
+{
+  "title": "Show #5614 - Thursday, January 22, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "GUITAR HERO",
+      "GRAND THEFT AUTO",
+      "WORLD OF WARCRAFT",
+      "ROCK BAND",
+      "HALF-LIFE",
+      "VIDEO GAMES"
+    ],
+    "clues": [
+      {
+        "category": "GUITAR HERO",
+        "value": 200,
+        "question": "(Jon of the Clue Crew strums a distinctive-looking instrument.)  Guitar heroes like Buddy Holly & Eric Clapton made their marks with this iconic guitar model from Fender",
+        "answer": "the Stratocaster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GRAND THEFT AUTO",
+        "value": 200,
+        "question": "It's America's most wanted: this automaker's 1995 Civic topped U.S. stolen-car rankings in 2006 & 2007",
+        "answer": "Honda",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF WARCRAFT",
+        "value": 200,
+        "question": "Bows get arrows; crossbows fire these, like lightning",
+        "answer": "bolts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ROCK BAND",
+        "value": 200,
+        "question": "The law of superposition states that any bed of rock must be older than another bed here",
+        "answer": "above it",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HALF-LIFE",
+        "value": 200,
+        "question": "Voting for half Democrats & half Republicans is voting a split this",
+        "answer": "a ticket",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "VIDEO GAMES",
+        "value": 200,
+        "question": "The \"ball\" in this classic '70s version of table tennis was square--good thing it was played on video",
+        "answer": "Pong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GUITAR HERO",
+        "value": 400,
+        "question": "Rolling Stone ranked this late Texas bluesman number seven on its list of the 100 greatest guitarists",
+        "answer": "Stevie Ray Vaughan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GRAND THEFT AUTO",
+        "value": 400,
+        "question": "God bless America! According to an FBI report, they're the 3 most popular car colors for thieves",
+        "answer": "red, white & blue",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF WARCRAFT",
+        "value": 400,
+        "question": "The M1 Abrams type of this has been called \"the backbone of the armored forces of the U.S. military\"",
+        "answer": "a tank",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ROCK BAND",
+        "value": 400,
+        "question": "A 250-million-year, old grayish-white limestone layer of sea fossils is referred to as this canyon's \"bathtub ring\"",
+        "answer": "the Grand Canyon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HALF-LIFE",
+        "value": 400,
+        "question": "Injured athletes don't say they're at half strength, they say things like \"the knee's at about\" this much",
+        "answer": "50 percent",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "VIDEO GAMES",
+        "value": 400,
+        "question": "The name of this classic game came from onomatopoetic Japanese for the sound a mouth makes while eating",
+        "answer": "Pac-Man",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GUITAR HERO",
+        "value": 600,
+        "question": "(Jon of the Clue Crew bends it like Eddy.)  Guitar heroes like Duane Eddy have made use of the vibrato effect lever with this name that sounds like something you'd use to put a hex on an enemy",
+        "answer": "a whammy bar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GRAND THEFT AUTO",
+        "value": 600,
+        "question": "Compact cars top the list in most states, but in W.V. & Texas, the most commonly stolen vehicles are this type",
+        "answer": "pickups",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF WARCRAFT",
+        "value": 600,
+        "question": "Introduced in WWII, this company's Me-262 jet might have made a difference but for a fuel shortage",
+        "answer": "Messerschmitt",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ROCK BAND",
+        "value": 600,
+        "question": "The earth's outermost layer of rock, it comes in oceanic & continental types (sorry, no whole wheat)",
+        "answer": "the crust",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HALF-LIFE",
+        "value": 600,
+        "question": "Hemiplegia is this affecting only one side of the body",
+        "answer": "paralysis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "VIDEO GAMES",
+        "value": 600,
+        "question": "Spacewar, the first shoot-'em-up game, was created in the early '60s by programmers at this Mass. school",
+        "answer": "MIT",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GUITAR HERO",
+        "value": 800,
+        "question": "This guy, who practically invented classical guitar, was born in Granada, not the Spanish city with his surname",
+        "answer": "(Andres) Segovia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GRAND THEFT AUTO",
+        "value": 800,
+        "question": "Rhyming name for a place where stolen cars are disassembled into parts for resale",
+        "answer": "a chop shop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF WARCRAFT",
+        "value": 800,
+        "question": "Revolutionary in the 15th century, the matchlock was a type of this weapon",
+        "answer": "a pistol",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ROCK BAND",
+        "value": 800,
+        "question": "Layers of rock are commonly referred to as these, from the Latin for \"something spread out\"",
+        "answer": "strata",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HALF-LIFE",
+        "value": 800,
+        "question": "Espagnole sauce cooked down by half to form a thick glaze is called demi-this French word",
+        "answer": "glace",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "VIDEO GAMES",
+        "value": 800,
+        "question": "Computer Space, the first arcade video game, makes a cameo in this 1973 sci-fi film (spoiler: the title is people!)",
+        "answer": "Soylent Green",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GUITAR HERO",
+        "value": 1000,
+        "question": "He's the guitar hero & Grateful Dead guru seen here",
+        "answer": "(Jerry) Garcia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GRAND THEFT AUTO",
+        "value": 1000,
+        "question": "Thieves often break into cars with this long, thin metal strip that shares its name with a spicy meat snack",
+        "answer": "a slim jim",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF WARCRAFT",
+        "value": 1000,
+        "question": "Newly popular in the Middle Ages were the longbow & this long pointy poking pole resembling a spear or lance",
+        "answer": "a pike",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ROCK BAND",
+        "value": 1000,
+        "question": "Most exposed rock on the earth's surface is this type produced by the weathering & erosion of older rock",
+        "answer": "sedimentary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HALF-LIFE",
+        "value": 1000,
+        "question": "The line that divides angle ABC into two halves is called this",
+        "answer": "bisecting line",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "VIDEO GAMES",
+        "value": 1000,
+        "question": "This game's Japanese designer thought his proposed English title meant \"stupid ape\"; nope, but Nintendo used it",
+        "answer": "Donkey Kong",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD LITERATURE",
+      "JOHNNY'S CLASSIC TV THEME SONGS",
+      "SECOND-LARGEST CITIES",
+      "WORLD OF DANCE",
+      "ODE ON A GRECIAN, EARNED",
+      "WATERY TERMS"
+    ],
+    "clues": [
+      {
+        "category": "WORLD LITERATURE",
+        "value": 400,
+        "question": "Dostoyevsky didn't call his novel about Prince Myshkin \"The Dope\" or \"The Ninny\" but this",
+        "answer": "The Idiot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "JOHNNY'S CLASSIC TV THEME SONGS",
+        "value": 400,
+        "question": "\"Mister we could use a man like Herbert Hoover again\"",
+        "answer": "All in the Family",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SECOND-LARGEST CITIES",
+        "value": 400,
+        "question": "Goteburg",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD OF DANCE",
+        "value": 400,
+        "question": "When it evolved from the landler in the 1700s, the couples' near-embrace shocked polite society",
+        "answer": "the waltz",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ODE ON A GRECIAN, EARNED",
+        "value": 400,
+        "question": "After Socrates' death, this Athenian went to Megara & wrote philosophic dialogues to vindicate his pal",
+        "answer": "Plato",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WATERY TERMS",
+        "value": 400,
+        "question": "This term originally applied to a woman hired to suckle another woman's infant",
+        "answer": "a wet nurse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 800,
+        "question": "The last of Andre Chenier's moving poems \"Iambes\" date from just before his death by this in July 1794",
+        "answer": "guillotine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JOHNNY'S CLASSIC TV THEME SONGS",
+        "value": 800,
+        "question": "\"Fish don't fry in the kitchen, beans don't burn on the grill, took a whole lotta tryin' just to get up that hill\"",
+        "answer": "The Jeffersons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SECOND-LARGEST CITIES",
+        "value": 800,
+        "question": "Basra",
+        "answer": "Iraq",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD OF DANCE",
+        "value": 800,
+        "question": "A beverage for which Cuba is famous makes up the first 3 letters of this dance with subtle hip movements",
+        "answer": "the rumba",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ODE ON A GRECIAN, EARNED",
+        "value": 800,
+        "question": "Not until the 19th century was his fifth postulate modified to develop non-him-ean geometries",
+        "answer": "Euclid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WATERY TERMS",
+        "value": 800,
+        "question": "Someone born under the 11th sign of the zodiac",
+        "answer": "Aquarius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 1200,
+        "question": "Born in 1547, this Spanish author always craved the fame of his contemporary Lope de Vega",
+        "answer": "Cervantes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JOHNNY'S CLASSIC TV THEME SONGS",
+        "value": 1200,
+        "question": "\"So, no one told you life was gonna be this way, your job's a joke, you're broke, your love life's D.O.A.\"",
+        "answer": "Friends",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SECOND-LARGEST CITIES",
+        "value": 1200,
+        "question": "Lodz",
+        "answer": "Poland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD OF DANCE",
+        "value": 1200,
+        "question": "The bullfight-based paso doble includes a move where the man turns the woman into this piece of apparel",
+        "answer": "the cape",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ODE ON A GRECIAN, EARNED",
+        "value": 1200,
+        "question": "Let's \"Post\" some facts: her maiden name is Stassinopoulos & she has an M.A. in economics from Cambridge",
+        "answer": "Arianna Huffington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WATERY TERMS",
+        "value": 1200,
+        "question": "It's visible when the angle of refraction between the sun, the water & your line of vision is between 40 & 42o",
+        "answer": "a rainbow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 1600,
+        "question": "Naguib Mahfouz, the first Arabic-language Nobel literature laureate, is from this country",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JOHNNY'S CLASSIC TV THEME SONGS",
+        "value": 1600,
+        "question": "\"Well, the names have all changed since you hung around, but those dreams have returned & they've turned around\"",
+        "answer": "Welcome Back, Kotter",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SECOND-LARGEST CITIES",
+        "value": 1600,
+        "question": "In Africa:Buchanan",
+        "answer": "Liberia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD OF DANCE",
+        "value": 1600,
+        "question": "In Virginia, they know this as a fishing accessory, or a dance for multiple couples",
+        "answer": "a reel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ODE ON A GRECIAN, EARNED",
+        "value": 1600,
+        "question": "Socrates was the middle name of this shipping magnate whose fortune was valued at more than $500 million",
+        "answer": "(Aristotle) Onassis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WATERY TERMS",
+        "value": 1600,
+        "question": "Coleridge was called one of these because of the district in England where he lived",
+        "answer": "a Lake Poet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD LITERATURE",
+        "value": 2000,
+        "question": "His last play was 1909's autobiographical \"Stora Landsvagen\", Swedish for \"The Great Highway\"",
+        "answer": "Strindberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JOHNNY'S CLASSIC TV THEME SONGS",
+        "value": 2000,
+        "question": "\"Makin' their way the only way they know how, that's just a little bit more than the law will allow\"",
+        "answer": "The Dukes of Hazzard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SECOND-LARGEST CITIES",
+        "value": 2000,
+        "question": "Graz",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD OF DANCE",
+        "value": 2000,
+        "question": "In tap, this move that's paired with \"buck\" is a simultaneous leap & shuffle",
+        "answer": "a wing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ODE ON A GRECIAN, EARNED",
+        "value": 2000,
+        "question": "In 1951 this soprano debuted at La Scala in Verdi's \"I Vespri Siciliani\"",
+        "answer": "Maria Callas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WATERY TERMS",
+        "value": 2000,
+        "question": "A big strong ship, or a tension-relieving joke told at a party",
+        "answer": "an icebreaker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CELEBRITY MARRIAGES",
+    "clue": "Her 3rd husband won a Best Actor Oscar in the '90s; her 2nd husband, like her dad, is a Rock & Roll Hall of Famer",
+    "answer": "Lisa Marie Presley"
+  },
+  "gameId": "5614",
+  "gameDate": "Thursday, January 22, 2009"
+}

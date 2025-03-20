@@ -1,0 +1,574 @@
+{
+  "title": "Show #976 - Monday, November 28, 1988",
+  "jeopardyRound": {
+    "categories": [
+      "WOMEN",
+      "POTPOURRI",
+      "SCIENCE & NATURE",
+      "LAW",
+      "HOMOPHONES",
+      "BONANZA"
+    ],
+    "clues": [
+      {
+        "category": "WOMEN",
+        "value": 100,
+        "question": "In 1985 she became the 1st gymnast elected to the U.S. Olympic Hall of Fame",
+        "answer": "Mary Lou Retton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 100,
+        "question": "Some Manx still speak Manx on this island, home of the tailless Manx cats",
+        "answer": "the Isle of Man",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 100,
+        "question": "The Battelle Memorial Institute has developed a chocolate that won't do this in 90º temperatures",
+        "answer": "melt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LAW",
+        "value": 100,
+        "question": "Copying & selling a copyrighted video tape, or robbery on the high seas are both called this",
+        "answer": "piracy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 100,
+        "question": "Squeeze a wet cloth, or clang a bell",
+        "answer": "wring/ring",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BONANZA",
+        "value": 100,
+        "question": "During the summer of 1972 reruns were shown under this title, the name of the ranch",
+        "answer": "the Ponderosa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WOMEN",
+        "value": 200,
+        "question": "Early feminists were reviled for wearing garments named for this newspaperwoman",
+        "answer": "(Amelia) Bloomer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "Number of sides on a rhombus",
+        "answer": "4",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 200,
+        "question": "Of root, stem or leaf, the part of a plant that's the main site of photosynthesis",
+        "answer": "the leaf",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LAW",
+        "value": 200,
+        "question": "It's a former case or decision that acts as an example for judging a current, similar case",
+        "answer": "a precedent",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 200,
+        "question": "Travel about selling wares, travel about on a bike",
+        "answer": "peddle/pedal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BONANZA",
+        "value": 200,
+        "question": "The setting for \"Bonanza\" was this city in Nevada",
+        "answer": "Virginia City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WOMEN",
+        "value": 300,
+        "question": "This lawyer & recent Cabinet sec'y once defended a man charged with annoying zoo animals",
+        "answer": "Elizabeth Dole",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 300,
+        "question": "This rose was named for the capital city of Syria",
+        "answer": "the Damask rose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 300,
+        "question": "Old Egyptian preservation practice revived in modern times after Harvey discovered how blood circulates",
+        "answer": "embalming",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LAW",
+        "value": 600,
+        "question": "While you'd go to L.A. for \"The People's Court\", you have to go to this city for the World Court",
+        "answer": "The Hague",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 300,
+        "question": "Something you stroke at sea or strike in a mine",
+        "answer": "oar/ore",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BONANZA",
+        "value": 300,
+        "question": "When Ben & the boys got hungry, he would jump at the chance to cook up a meal",
+        "answer": "Hop Sing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WOMEN",
+        "value": 400,
+        "question": "This Tony Award-winning \"Dreamgirl\" has a 4-octave singing range",
+        "answer": "Jennifer Holliday",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "While \"bovine\" refers to cattle, \"ovine\" refers to these farm animals",
+        "answer": "sheep",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 400,
+        "question": "1st of the noble gases to be used in discharge tubes for lighting",
+        "answer": "neon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LAW",
+        "value": 400,
+        "question": "The Constitution forbids states from passing these \"retroactive\" laws",
+        "answer": "ex post facto laws",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 400,
+        "question": "A vendor of halite, or the thing in which you store his product",
+        "answer": "a salt seller/a salt cellar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BONANZA",
+        "value": 400,
+        "question": "Tho his real name was Eric, everyone called him by this nickname, Norwegian for \"good luck\"",
+        "answer": "Hoss",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WOMEN",
+        "value": 500,
+        "question": "She described her assignment on \"NBC News Overnight\" as, \"the inmates being allowed to run the asylum\"",
+        "answer": "(Linda) Ellerbee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 500,
+        "question": "It's the tallest structure in our nation's capital",
+        "answer": "the Washington Monument",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE & NATURE",
+        "value": 500,
+        "question": "It's what makes a needle float on water or a drop of liquid assume the shape of a ball",
+        "answer": "surface tension",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LAW",
+        "value": 500,
+        "question": "In Roe vs Wade, the Supreme Ct. ruled unduly restrictive state regulation of this unconstitutional",
+        "answer": "abortion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 500,
+        "question": "Frolic in the forest, or bet at blackjack",
+        "answer": "gambol/gamble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BONANZA",
+        "value": 500,
+        "question": "\"Sweet\" nickname of the ranch foreman played by David Canary",
+        "answer": "Candy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "OKLAHOMA",
+      "THE '60s",
+      "ACTORS & ROLES",
+      "\"C\" IN COOKING",
+      "ART",
+      "WORLD'S FAIRS"
+    ],
+    "clues": [
+      {
+        "category": "OKLAHOMA",
+        "value": 200,
+        "question": "Since statehood, Henry Bellmon & Dewey Bartlett have been the  only 2 governors from this partt",
+        "answer": "the Republican Party",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE '60s",
+        "value": 200,
+        "question": "In March 1966 General Motors apologized to this consumer advocate for investigating his private life",
+        "answer": "(Ralph) Nader",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 200,
+        "question": "Norma Shearer & Jennifer Jones both played this role in film versions of \"The Barretts of Wimpole Street\"",
+        "answer": "Elizabeth Barrett Browning",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"C\" IN COOKING",
+        "value": 200,
+        "question": "To prepare this soul food dish, 1st turn the pig's small intestines inside out & scrape them",
+        "answer": "chitlins",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "A computer enhancement has shown the Mona Lisa once wore a string of these, but they were painted out",
+        "answer": "pearls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORLD'S FAIRS",
+        "value": 200,
+        "question": "The 1904 World's Fair in St. Louis celebrated the 100th anniversary of this purchase, a year late",
+        "answer": "the Louisiana Purchase",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 800,
+        "question": "Composer & lyricist team who wrote Oklahoma's state song",
+        "answer": "Rodgers & Hammerstein",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE '60s",
+        "value": 400,
+        "question": "U.S. presidents who were in office on January 1, 1960 & December 31, 1969",
+        "answer": "Dwight Eisenhower & Richard Nixon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 400,
+        "question": "In 1952 Gertrude Lawrence made her last stage appearance in this musical, in the role of Anna",
+        "answer": "The King and I",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"C\" IN COOKING",
+        "value": 400,
+        "question": "This thick, gooey liquid helps to sweeten pecan pie",
+        "answer": "corn syrup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Of a baby, teenager or grown man, the one Mary holds in Michelangelo's \"Pieta\" in St. Peter's",
+        "answer": "an adult (grown man)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORLD'S FAIRS",
+        "value": 400,
+        "question": "In 1974 the first World's Fair with an environmental theme was held in this Washington city",
+        "answer": "Spokane",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 600,
+        "question": "It's 167 miles long but only 34 miles wide",
+        "answer": "the Panhandle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE '60s",
+        "value": 600,
+        "question": "Controversial series that went off CBS June 8, 1969 & returned March 30, 1988",
+        "answer": "The Smothers Brothers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 600,
+        "question": "This singer made her Broadway debut in 1988 as a sec'y in David Mamet's play \"Speed-the-Plow\"",
+        "answer": "Madonna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"C\" IN COOKING",
+        "value": 600,
+        "question": "Cardamom, coriander, cumin, cinnamon, cloves & chilis can all be used to make this powder",
+        "answer": "curry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "Modigliani usually encircled his forms within a contour line of this color",
+        "answer": "black",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORLD'S FAIRS",
+        "value": 600,
+        "question": "The last city to host a World's' fair in the U.S.",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 800,
+        "question": "Oklahoma's state flag has an olive branch & this American Indian symbol",
+        "answer": "a peace pipe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE '60s",
+        "value": 800,
+        "question": "In 1964 Bantam Books published this report in paperback, just 80 hours after its release",
+        "answer": "The Warren Report",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 800,
+        "question": "Stacy Keach said, \"I've always emulated\" this writer, & he played him in a 1988 miniseries",
+        "answer": "Hemingway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"C\" IN COOKING",
+        "value": 800,
+        "question": "In North Africa steamed semolina is called this",
+        "answer": "couscous",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "In 1796 Czech writer Aloys Senefelder developed this printing process using a grease pencil on stone",
+        "answer": "lithography",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORLD'S FAIRS",
+        "value": 800,
+        "question": "The 1st ever Ferris wheel was built for this city's 1893 World's Columbian Exposition",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OKLAHOMA",
+        "value": 1000,
+        "question": "Several of these are found on the grounds of the capitol, the only state capitol with that distinction",
+        "answer": "oil wells",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE '60s",
+        "value": 1000,
+        "question": "On November 2, 1964 Prince Faisal deposed his half brother to take over this country's throne",
+        "answer": "Saudi Arabia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 1000,
+        "question": "Meryl Streep learned to speak German & Polish for her role in this 1982 film",
+        "answer": "Sophie's Choice",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"C\" IN COOKING",
+        "value": 1000,
+        "question": "These are cooked in sugar syrup to make marrons glaces",
+        "answer": "chestnuts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "\"You furnish the pictures & I'll furnish the war,\" Hearst wired this Western artist in Cuba",
+        "answer": "Remington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORLD'S FAIRS",
+        "value": 2000,
+        "question": "1 of the 2 symbols of the 1939 N.Y. World's Fair depicted here:",
+        "answer": "the Perisphere or the Trylon",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORIC DATES",
+    "clue": "Date in 1777 on which the Continental Congress approved a flag of 13 stripes & 13 stars",
+    "answer": "June 14"
+  },
+  "gameId": "976",
+  "gameDate": "Monday, November 28, 1988"
+}

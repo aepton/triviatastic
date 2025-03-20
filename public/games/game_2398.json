@@ -1,0 +1,556 @@
+{
+  "title": "Show #3406 - Monday, May 31, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "DORIS' DAY",
+      "\"WHOLE\"SOME",
+      "CALAMITY JANE",
+      "PILLOW TALK",
+      "ROCK",
+      "THE HUDSON"
+    ],
+    "clues": [
+      {
+        "category": "DORIS' DAY",
+        "value": 100,
+        "question": "Each morning Doris logs onto wsj.com, the interactive edition of this newspaper, to check her stocks",
+        "answer": "The Wall Street Journal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "\"WHOLE\"SOME",
+        "value": 100,
+        "question": "If Freddy, Wilbur or Babe indulged himself completely, he'd \"go\" this",
+        "answer": "whole hog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CALAMITY JANE",
+        "value": 100,
+        "question": "Jane had some \"dark times\" as a camp follower of an expedition to these South Dakota hills",
+        "answer": "Black Hills",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PILLOW TALK",
+        "value": 100,
+        "question": "A 1996 Kiplinger's column found that $1 is a common amount left under pillows by this sprite",
+        "answer": "tooth fairy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 100,
+        "question": "Halite is used as the \"table\" variety of this",
+        "answer": "salt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE HUDSON",
+        "value": 100,
+        "question": "A bridge named for this fictional snoozer crosses the Hudson at Catskill",
+        "answer": "Rip Van Winkle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DORIS' DAY",
+        "value": 200,
+        "question": "Doris stays fit with her 3-times-a-week workout at one of this \"Total Fitness\" company's 320 centers",
+        "answer": "Bally's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "\"WHOLE\"SOME",
+        "value": 200,
+        "question": "A completely fictitious tale is \"made out of\" this",
+        "answer": "whole cloth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CALAMITY JANE",
+        "value": 200,
+        "question": "Jane's job title of bullwhacker indicates she drove cattle with one of these implements",
+        "answer": "whip",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PILLOW TALK",
+        "value": 200,
+        "question": "This mythic sculptor whose name became a Shaw play, made a feather pillow for his favorite creation",
+        "answer": "Pygmalion",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 200,
+        "question": "This organic rock is found in the Christmas stockings of people who've been bad",
+        "answer": "coal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE HUDSON",
+        "value": 200,
+        "question": "In 1802 a military academy was established at this site",
+        "answer": "West Point",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DORIS' DAY",
+        "value": 300,
+        "question": "Doris picked up a travel guide to the Kalahari; she plans to follow this Scotsman's 1849 route across it",
+        "answer": "Dr. Livingstone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "\"WHOLE\"SOME",
+        "value": 300,
+        "question": "In a joking W.C. Fields epitaph, these 3 words precede \"I'd rather be in Philadelphia\"",
+        "answer": "On the whole",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CALAMITY JANE",
+        "value": 300,
+        "question": "General George, whose troops Jane rode with, had this last name that Nixon said didn't apply to him",
+        "answer": "Crook",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PILLOW TALK",
+        "value": 300,
+        "question": "This molten stuff can harden into glassy \"pillows\" if it comes into contact with water",
+        "answer": "lava",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 300,
+        "question": "If shale has misbehaved, it can say, \"My name is\" this, 'cause that's what it was made from",
+        "answer": "mud",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE HUDSON",
+        "value": 300,
+        "question": "In 1807 the first practical steamboat, commonly known by this name, was launched on the Hudson",
+        "answer": "Clermont",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DORIS' DAY",
+        "value": 400,
+        "question": "For dinner, Doris tried her hand, or at least her fingers, with this staple dish of Hawaii made from taro",
+        "answer": "poi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "\"WHOLE\"SOME",
+        "value": 400,
+        "question": "Shebeen, a word for an Irish tavern, may be the origin of this expression",
+        "answer": "whole shebang",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CALAMITY JANE",
+        "value": 400,
+        "question": "A woman surfaced in 1941 claiming to be the daughter of Jane & this man who played one poker hand too many",
+        "answer": "Wild Bill Hickok",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PILLOW TALK",
+        "value": 400,
+        "question": "As seen in Genesis 28 & in the name of a dance festival, he used stones for a pillow",
+        "answer": "Jacob",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ROCK",
+        "value": 800,
+        "question": "While some people can \"talk\" one, chalcanthite & azurite can leave one on a hard surface",
+        "answer": "a blue streak",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE HUDSON",
+        "value": 400,
+        "question": "This interstate park on the Hudson features 300-500 foot high cliffs",
+        "answer": "Palisades",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DORIS' DAY",
+        "value": 500,
+        "question": "Doris ends her day walking Binky & Albert, these 2 breeds of dog seen here:",
+        "answer": "basset hound & Great Dane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "\"WHOLE\"SOME",
+        "value": 500,
+        "question": "Completes the famous Alka-Seltzer ad line, \"I can't believe...\"",
+        "answer": "I ate the whole thing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CALAMITY JANE",
+        "value": 500,
+        "question": "Jane's gig at the 1901 Pan-American Expo in this city was overshadowed by ths McKinley assassination there",
+        "answer": "Buffalo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PILLOW TALK",
+        "value": 500,
+        "question": "In the second Shakespeare play named for him, this king sleeps with the crown on his pillow",
+        "answer": "Henry IV",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE HUDSON",
+        "value": 500,
+        "question": "It was on this ship that Henry Hudson was first sent up the river",
+        "answer": "Half Moon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CLASSIC DRAMA",
+      "COLLEGES",
+      "ART & ARTISTS",
+      "BEST DIRECTOR",
+      "THE JACKSON FIVE",
+      "SAY CHEESE!"
+    ],
+    "clues": [
+      {
+        "category": "CLASSIC DRAMA",
+        "value": 200,
+        "question": "It includes the foreshadowing line \"Hedda darling--Don't touch those dangerous things!\"",
+        "answer": "Hedda Gabler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES",
+        "value": 200,
+        "question": "Irvin Feld founded a college in Venice, Florida in 1968 to train these performers for the circus",
+        "answer": "clowns",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 200,
+        "question": "Jan Vermeer's \"Young Woman with a Water Jug\" is an example of genre painting from this country",
+        "answer": "Holland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BEST DIRECTOR",
+        "value": 200,
+        "question": "\"Schindler's List\"",
+        "answer": "(Steven) Spielberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE JACKSON FIVE",
+        "value": 200,
+        "question": "This general gained his famous nickname at the First Battle of Bull Run",
+        "answer": "Stonewall Jackson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SAY CHEESE!",
+        "value": 200,
+        "question": "His \"Poor Richard's Almanac\" says that \"Cheese and salt meat should be sparingly eat\"",
+        "answer": "Benjamin Franklin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CLASSIC DRAMA",
+        "value": 400,
+        "question": "He's the king or \"Rex\" who saves Thebes in an ancient work by Sophocles",
+        "answer": "Oedipus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES",
+        "value": 400,
+        "question": "Mesa State is a college in Grand Junction in this state",
+        "answer": "Colorado",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 400,
+        "question": "Take a look: He once smashed a Fifth Avenue window to rearrange a display of his work",
+        "answer": "(Salvador) Dali",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BEST DIRECTOR",
+        "value": 400,
+        "question": "\"Reds\"",
+        "answer": "Warren Beatty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE JACKSON FIVE",
+        "value": 400,
+        "question": "In 1971 this Baptist minister founded Operation PUSH (People United to Save Humanity)",
+        "answer": "Jesse Jackson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SAY CHEESE!",
+        "value": 400,
+        "question": "\"Many's the long night I've dreamed of cheese--toasted mostly\", this author wrote in \"Treasure Island\"",
+        "answer": "(Robert Louis) Stevenson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CLASSIC DRAMA",
+        "value": 600,
+        "question": "Pierre Corneille wrote a 1637 play about this medieval Spanish hero",
+        "answer": "El Cid",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES",
+        "value": 1200,
+        "question": "A college of podiatry in Chicago is named for this doctor",
+        "answer": "Dr. Scholl",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 600,
+        "question": "Former Premier Georges Clemenceau attended the 1926 funeral of this \"Water Lilies\" painter",
+        "answer": "Monet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BEST DIRECTOR",
+        "value": 600,
+        "question": "\"Treasure of the Sierra Madre\"",
+        "answer": "John Huston",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE JACKSON FIVE",
+        "value": 600,
+        "question": "He closed nearly 5 decades of sportscasting at the end of January 1999's Fiesta Bowl",
+        "answer": "Keith Jackson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SAY CHEESE!",
+        "value": 600,
+        "question": "This French President asked how one could be expected to govern a country that has \"265 kinds of cheese?\"",
+        "answer": "de Gaulle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CLASSIC DRAMA",
+        "value": 1600,
+        "question": "Shakespearean woman who asks \"Where is the beauteous majesty of Denmark?\"",
+        "answer": "Ophelia",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES",
+        "value": 800,
+        "question": "The graduates of this Owatonna, Minnesota Baptist Bible college must be poppin' fresh (we couldn't resist the joke)",
+        "answer": "Pillsbury",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 800,
+        "question": "Although known for his Maine seascapes, he often traveled to the Adirondacks & Florida to paint",
+        "answer": "Winslow Homer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BEST DIRECTOR",
+        "value": 800,
+        "question": "\"You Can't Take It with You\"",
+        "answer": "Frank Capra",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE JACKSON FIVE",
+        "value": 800,
+        "question": "This British actress & Labour politician said, \"Acting is not about dressing up\" but \"about stripping bare\"",
+        "answer": "Glenda Jackson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SAY CHEESE!",
+        "value": 800,
+        "question": "This Browning work says, \"Rats! They fought the dogs and killed the cats...and ate the cheeses out of the vats\"",
+        "answer": "The Pied Piper of Hamelin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COLLEGES",
+        "value": 1000,
+        "question": "Located in Charleston, it's \"The Military College of South Carolina\"",
+        "answer": "The Citadel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 1000,
+        "question": "In this Renaissance master's \"Madonna of the Goldfinch\", the infants Jesus & John the Baptist are next to the Virgin Mary",
+        "answer": "Raphael",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BEST DIRECTOR",
+        "value": 1000,
+        "question": "\"Gandhi\"",
+        "answer": "Richard Attenborough",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE JACKSON FIVE",
+        "value": 1000,
+        "question": "In October 1973 he became the first black mayor of Atlanta, Georgia",
+        "answer": "Maynard Jackson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SAY CHEESE!",
+        "value": 1000,
+        "question": "In his introduction to \"A Tale of a Tub\", this Irish-born satirist says that wisdom \"is a cheese\"",
+        "answer": "Jonathan Swift",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SPORTS",
+    "clue": "The fact that he didn't play September 20, 1998 made headlines",
+    "answer": "Cal Ripken"
+  },
+  "gameId": "3406",
+  "gameDate": "Monday, May 31, 1999"
+}

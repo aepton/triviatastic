@@ -1,0 +1,574 @@
+{
+  "title": "Show #7990 - Friday, May 10, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "THE PARENT COMPANY",
+      "NATURAL LANDMARKS",
+      "2-WORD ALLITERATION",
+      "HEY, YOU!",
+      "HALL PASS",
+      "IT'S NOT RHESUS"
+    ],
+    "clues": [
+      {
+        "category": "THE PARENT COMPANY",
+        "value": 200,
+        "question": "Seattle's Best Coffee",
+        "answer": "Starbucks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NATURAL LANDMARKS",
+        "value": 200,
+        "question": "Yellowstone has plenty of these, including one of the world's most famous; Iceland has a valley of them",
+        "answer": "a geyser",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "2-WORD ALLITERATION",
+        "value": 200,
+        "question": "The most basic elements or essentials, or what's in the photograph",
+        "answer": "bare bones",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HEY, YOU!",
+        "value": 200,
+        "question": "You, Edward Stanley, the 14th Earl of Derby, were P.M. of Great Britain 3 times & the leader of this political party, 1846-1868",
+        "answer": "the Conservative Party",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HALL PASS",
+        "value": 200,
+        "question": "Already inducted as a member of Fleetwood Mac, she got a solo pass to the Rock & Roll Hall of Fame in 2019",
+        "answer": "Stevie Nicks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT RHESUS",
+        "value": 200,
+        "question": "It's not a rhesus; it's the monkey named for this type of headwear women choose for Easter",
+        "answer": "bonnet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE PARENT COMPANY",
+        "value": 400,
+        "question": "Cadillac & Chevrolet",
+        "answer": "General Motors",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NATURAL LANDMARKS",
+        "value": 400,
+        "question": "There's stone in the name of this material seen in Kunming, a stone forest in China",
+        "answer": "limestone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "2-WORD ALLITERATION",
+        "value": 400,
+        "question": "Whether placed in hosiery or not, it's a small & often inexpensive Christmas gift",
+        "answer": "stocking stuffer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HEY, YOU!",
+        "value": 400,
+        "question": "As leader of the Soviet Union from 1985 to 1991, you ushered in the era of glasnost; well done!",
+        "answer": "Mikhail Gorbachev",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HALL PASS",
+        "value": 400,
+        "question": "To everyone's relief in 2019 this Yankee pitcher became the first unanimous selection to the Baseball Hall of Fame",
+        "answer": "(Mariano) Rivera",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT RHESUS",
+        "value": 400,
+        "question": "Crab-eating macaques were used in the 1950s to create the Salk vaccine that fought this",
+        "answer": "polio",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE PARENT COMPANY",
+        "value": 600,
+        "question": "American Girl",
+        "answer": "Mattel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NATURAL LANDMARKS",
+        "value": 600,
+        "question": "Revered by Aboriginal people, this largest monolith is found Down Under in Northern Territory",
+        "answer": "Ayers Rock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "2-WORD ALLITERATION",
+        "value": 600,
+        "question": "Bartenders can really stir things up with these mixing rods",
+        "answer": "swizzle sticks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HEY, YOU!",
+        "value": 600,
+        "question": "You are a winner & put on a dominating performance at the 2012 London Olympics",
+        "answer": "Gabby Douglas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HALL PASS",
+        "value": 600,
+        "question": "For 2017 the Science Fiction and Fantasy Hall of Fame took in J.K. Rowling & this Marvel man",
+        "answer": "(Stan) Lee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT RHESUS",
+        "value": 600,
+        "question": "One baboon species lives in the lands above this sea between Africa & Arabia",
+        "answer": "the Red Sea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE PARENT COMPANY",
+        "value": 800,
+        "question": "ABC Broadcasting: this entertainment company",
+        "answer": "Disney",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NATURAL LANDMARKS",
+        "value": 800,
+        "question": "The gorgeous Gorge du Verdon wends its way through the range called the Provence these",
+        "answer": "the Provence Alps",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "2-WORD ALLITERATION",
+        "value": 800,
+        "question": "Theodore Roosevelt led them up Kettle Hill",
+        "answer": "the Rough Riders",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HEY, YOU!",
+        "value": 800,
+        "question": "Hey, Lao-Tzu, you're considered the founder of this Chinese religious philosophy & the author of its principal text",
+        "answer": "Daoism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HALL PASS",
+        "value": 800,
+        "question": "The National Toy Hall of Fame says this 2018 inductee \"provides an opportunity to flirt harmlessly with fortune telling\"",
+        "answer": "a Magic 8-Ball",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT RHESUS",
+        "value": 800,
+        "question": "File this marmoset relative, not a rhesus, under the letter \"T\"",
+        "answer": "tamarin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE PARENT COMPANY",
+        "value": 1000,
+        "question": "KFC & Pizza Hut: This 3-letter! Brands, Inc.",
+        "answer": "Yum! Brands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NATURAL LANDMARKS",
+        "value": 1000,
+        "question": "Outside Las Cruces you'll find this national monument created by gypsum deposits",
+        "answer": "White Sands National Monument",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "2-WORD ALLITERATION",
+        "value": 1000,
+        "question": "In 2018 Louise Brown, the first this type of baby, turned 40",
+        "answer": "test tube",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HEY, YOU!",
+        "value": 1000,
+        "question": "You're awesome, Sally Ride, riding into history in 1983 onboard this shuttle as the USA's first woman in space",
+        "answer": "the Challenger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HALL PASS",
+        "value": 1000,
+        "question": "Praise the Lord! The Fisk Jubilee Singers & the Mighty Clouds of Joy are members of this hall of fame",
+        "answer": "the Gospel Hall of Fame",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT RHESUS",
+        "value": 1000,
+        "question": "An Old World monkey, the guenon has a tail that is \"non-\"this, so he uses his hands & feet to hold on to trees",
+        "answer": "prehensile",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE UNDERGROUND RAILROAD",
+      "WORLD OF LIT",
+      "COMPUTERS",
+      "BEATLES SONGS BY LYRIC",
+      "TRYING TIMES",
+      "\"O-U\" WORDS"
+    ],
+    "clues": [
+      {
+        "category": "THE UNDERGROUND RAILROAD",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew shows a map of the Ohio River on the monitor.) The Northwest Ordinance of 1787 banned slavery north of the Ohio River, eventually making this major Ohio city a key first stop for many escaping slavery; it's now the home to the National Underground Railroad Freedom Center",
+        "answer": "Cincinnati",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF LIT",
+        "value": 400,
+        "question": "In an 1831 novel he's described as having \"a huge head sprouting red hair; between the two shoulders an enormous hump\"",
+        "answer": "Quasimodo (or the Hunchback of Notre Dame)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 400,
+        "question": "From the Greek for \"around\", it's an auxiliary device like a keyboard or printer that's attached to a computer",
+        "answer": "a peripheral",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BEATLES SONGS BY LYRIC",
+        "value": 400,
+        "question": "\"And maybe I'll love you, beep beep mm beep beep yeah!\"",
+        "answer": "Baby, you can \"Drive My Car\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TRYING TIMES",
+        "value": 400,
+        "question": "Plato was one of the first authors to depict a celebrity trial--this Greek's trial, in the \"Apology\"",
+        "answer": "Socrates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"O-U\" WORDS",
+        "value": 400,
+        "question": "Seen here is a re-creation of one of these tournaments between knights",
+        "answer": "joust",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE UNDERGROUND RAILROAD",
+        "value": 800,
+        "question": "\"The Drinking Gourd\" was this group of stars that helped runaways find the North Star in the night sky",
+        "answer": "the Big Dipper",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF LIT",
+        "value": 800,
+        "question": "\"The House of the Spirits\" is the first novel by this author of Chilean heritage",
+        "answer": "(Isabel) Allende",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 800,
+        "question": "Allowing interaction through icons or other visual indicators, GUI is short for graphical user this",
+        "answer": "interface",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BEATLES SONGS BY LYRIC",
+        "value": 800,
+        "question": "\"Flew in from Miami Beach BOAC\"",
+        "answer": "\"Back In The U.S.S.R.\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TRYING TIMES",
+        "value": 800,
+        "question": "In 1988 Colin Pitchfork was the first man convicted of murder with the aid of this 3-letter type of evidence",
+        "answer": "DNA",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"O-U\" WORDS",
+        "value": 800,
+        "question": "Hasbro says of this game, \"Be patient and concentrate because the spirits can't be rushed\"",
+        "answer": "a Ouija board",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE UNDERGROUND RAILROAD",
+        "value": 1200,
+        "question": "These 2 acts of 1793 & 1850 removed protections for runaways in the north, making the railroad necessary",
+        "answer": "the Fugitive Slave Acts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF LIT",
+        "value": 1200,
+        "question": "Though scholars disagree on who actually wrote \"Le Morte d'Arthur\", this Englishman & knight gets the credit",
+        "answer": "Sir Thomas Malory",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 1200,
+        "question": "A 2017 PC World article was about \"Why You Should\" do this for privacy & security, using the low-teach piece-of-tape solution",
+        "answer": "cover your computer camera",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BEATLES SONGS BY LYRIC",
+        "value": 1200,
+        "question": "\"What would you think if I sang out of tune\"",
+        "answer": "\"With A Little Help From My Friends\" (or I get by \"With A Little Help From My Friends\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TRYING TIMES",
+        "value": 1200,
+        "question": "In 1735 John Peter Zenger was acquitted of this using the argument that printing the truth was not illegal",
+        "answer": "libel",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"O-U\" WORDS",
+        "value": 1200,
+        "question": "It's the stabilizing float attached to the canoe seen here",
+        "answer": "outrigger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE UNDERGROUND RAILROAD",
+        "value": 1600,
+        "question": "Near Detroit, Chatham in this Canadian province was a northern terminus for the railroad",
+        "answer": "Ontario",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF LIT",
+        "value": 1600,
+        "question": "Of Aeschylus' 7 surviving tragedies, this one about a war between Oedipus sons has \"Seven\" in the title",
+        "answer": "Seven Against Thebes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 1600,
+        "question": "Setting the stage for the PC revolution, in 1975 he & a pal co-founded Microsoft",
+        "answer": "Paul Allen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BEATLES SONGS BY LYRIC",
+        "value": 1600,
+        "question": "\"Nothing you can sing that can't be sung\"",
+        "answer": "\"All You Need Is Love\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TRYING TIMES",
+        "value": 1600,
+        "question": "In 1882 the jury took only an hour to declare Charles Guiteau guilty of killing this man",
+        "answer": "Garfield",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"O-U\" WORDS",
+        "value": 1600,
+        "question": "Studies suggest that a woman who uses this birthing support person is less likely to have a C-section",
+        "answer": "a doula",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE UNDERGROUND RAILROAD",
+        "value": 2000,
+        "question": "After his \"Twelve Years a Slave\", he is said to have helped the railroad as a freeman in New England",
+        "answer": "(Solomon) Northup",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF LIT",
+        "value": 2000,
+        "question": "The \"Kalevala\", this European country's national epic, was compiled from oral poetry in the 1800s",
+        "answer": "Finland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COMPUTERS",
+        "value": 2000,
+        "question": "Paul Manafort created a paper trail when he needed help converting this type of 3-letter file to Word",
+        "answer": "PDF",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BEATLES SONGS BY LYRIC",
+        "value": 2000,
+        "question": "\"Filling in a ticket in her little white book\"",
+        "answer": "\"Lovely Rita\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRYING TIMES",
+        "value": 2000,
+        "question": "In a landmark 1772 British case, a slave won his freedom after this writ was used to remove him from a Jamaica-bound ship",
+        "answer": "habeas corpus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"O-U\" WORDS",
+        "value": 2000,
+        "question": "French for \"jewel\", it was once a popular movie theater name",
+        "answer": "a bijou",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "U.S. STATES",
+    "clue": "This state entered the Union in 1820 after separating from another state that began with the same 2 letters",
+    "answer": "Maine"
+  },
+  "gameId": "7990",
+  "gameDate": "Friday, May 10, 2019"
+}

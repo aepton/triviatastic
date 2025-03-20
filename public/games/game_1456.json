@@ -1,0 +1,574 @@
+{
+  "title": "Show #4101 - Monday, June 3, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "THE ELEMENTS",
+      "AMERICA'S SWEETHEARTS",
+      "THE DAMON RUNYON STORY",
+      "H.R.",
+      "PUFFIN",
+      "STUFF"
+    ],
+    "clues": [
+      {
+        "category": "THE ELEMENTS",
+        "value": 200,
+        "question": "Nearly all of this element in the body is found in the bones & teeth",
+        "answer": "calcium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AMERICA'S SWEETHEARTS",
+        "value": 200,
+        "question": "His face is seen on salad dressing & she's been seen in \"The Three Faces of Eve\"",
+        "answer": "Paul Newman & Joanne Woodward",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE DAMON RUNYON STORY",
+        "value": 200,
+        "question": "Based on a Runyon story, 1934's \"Little Miss Marker\" starred her as a little imp left as an IOU for a debt",
+        "answer": "Shirley Temple",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "H.R.",
+        "value": 200,
+        "question": "In baseball a four-bagger is slang for this",
+        "answer": "home run",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PUFFIN",
+        "value": 200,
+        "question": "The puffin's number one enemy is the great black-backed variety of this \"sea\" bird",
+        "answer": "seagulls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STUFF",
+        "value": 200,
+        "question": "The name of these sleeping clothes comes from the Urdu for \"leg garments\"",
+        "answer": "pajamas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 400,
+        "question": "The brimstone of biblical times was really this smelly element",
+        "answer": "sulfur",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AMERICA'S SWEETHEARTS",
+        "value": 400,
+        "question": "The Happy Trails online gift shop sells memorabilia featuring this married couple",
+        "answer": "Roy Rogers & Dale Evans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE DAMON RUNYON STORY",
+        "value": 400,
+        "question": "During this 1898 war, Damon Runyon wrote for the Manila Freedom & The Soldier's Letter in the Philippines",
+        "answer": "Spanish-American War",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "H.R.",
+        "value": 400,
+        "question": "The horses used in this sport are known as trotters & pacers",
+        "answer": "harness racing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PUFFIN",
+        "value": 400,
+        "question": "This easternmost U.S. state is home to puffin breeding grounds that were once almost wiped out",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "STUFF",
+        "value": 400,
+        "question": "These transports can be in-line or roller",
+        "answer": "skates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 600,
+        "question": "Its symbol Hg comes from the Latin term hydrargyrum, meaning \"watery silver\"",
+        "answer": "mercury",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AMERICA'S SWEETHEARTS",
+        "value": 600,
+        "question": "In the hit song \"Key Largo\" Bertie Higgins sang, \"We had it all, just like\" this couple",
+        "answer": "Bogie and Bacall",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE DAMON RUNYON STORY",
+        "value": 600,
+        "question": "Shortly after this man won the world heavyweight boxing crown, Damon Runyon dubbed him the \"Manassa Mauler\"",
+        "answer": "Jack Dempsey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "H.R.",
+        "value": 600,
+        "question": "A term for big-time dice gamblers it was also the name of a '70s TV game show",
+        "answer": "high rollers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PUFFIN",
+        "value": 600,
+        "question": "Usually boiled & served with a variety of sauces, puffins are eaten in this northernmost U.K. country",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "STUFF",
+        "value": 600,
+        "question": "[Jimmy] I've made this dish with chicken, sausage and vegetables but instead of okra we use filé powder to thicken and flavor it",
+        "answer": "gumbo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 800,
+        "question": "1 of only 3 naturally occurring strongly magnetic elements",
+        "answer": "iron (nickel & cobalt)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AMERICA'S SWEETHEARTS",
+        "value": 800,
+        "question": "Clark Gable's third wife, she's entombed beside him in Forest Lawn",
+        "answer": "Carole Lombard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE DAMON RUNYON STORY",
+        "value": 800,
+        "question": "Read by millions, Runyon's feature \"As I See It\" was syndicated nationwide in this publisher's newspapers",
+        "answer": "Hearst",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "H.R.",
+        "value": 800,
+        "question": "Named this emperor in 1084, Henry IV deposed Pope Gregory VII",
+        "answer": "Holy Roman Emperor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PUFFIN",
+        "value": 800,
+        "question": "Of the 15 million puffins in the world, about 8 million can be found on or near this island nation of the N. Atlantic",
+        "answer": "Iceland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "STUFF",
+        "value": 800,
+        "question": "It's a partial denture that permanently \"spans\" over your natural teeth",
+        "answer": "bridge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE ELEMENTS",
+        "value": 1000,
+        "question": "This element used to galvanize steel is also used in lozenges to treat a cold--go figure!",
+        "answer": "zinc",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AMERICA'S SWEETHEARTS",
+        "value": 1000,
+        "question": "The only film they starred in together was 1929's \"The Taming of the Shrew\"",
+        "answer": "Mary Pickford & Douglas Fairbanks, Sr.",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE DAMON RUNYON STORY",
+        "value": 1000,
+        "question": "This World War I air ace seen here scattered Damon Runyon's ashes over Broadway from the air",
+        "answer": "Eddie Rickenbacker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "H.R.",
+        "value": 1000,
+        "question": "This Virginia waterway was the site of the Civil War battle between the Monitor & the Merrimack",
+        "answer": "Hampton Roads",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PUFFIN",
+        "value": 1000,
+        "question": "From the puffin's black-&-white look, its scientific name, Fratercula arctica, means \"little\" this \"of the north\"",
+        "answer": "brother (friar)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "STUFF",
+        "value": 1000,
+        "question": "They're the units of stock that represent ownership in a corporation",
+        "answer": "shares",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "STATES OF THE UNION",
+      "CLASSIC FILMS IN OTHER WORDS",
+      "G.I. KNOW",
+      "DOWN FOR THE LESSER-KNOWN COUNT",
+      "DANCES",
+      "\"O\" YES!"
+    ],
+    "clues": [
+      {
+        "category": "STATES OF THE UNION",
+        "value": 400,
+        "question": "In 1998 this state produced over 13 billion pounds of potatoes; that's a lot of fries!",
+        "answer": "Idaho",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILMS IN OTHER WORDS",
+        "value": 400,
+        "question": "1951:\"One Trolley Called Passion\"",
+        "answer": "A Streetcar Named Desire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "G.I. KNOW",
+        "value": 400,
+        "question": "It was the last year in which Congress made an official declaration of war",
+        "answer": "1941",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DOWN FOR THE LESSER-KNOWN COUNT",
+        "value": 400,
+        "question": "Egmont, Count of Lamoral was the subject of a Goethe tragedy with music by this great German composer",
+        "answer": "Ludwig van Beethoven",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DANCES",
+        "value": 400,
+        "question": "This U.S. state's \"Two-Step\" is basically the same as the international fox trot",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"O\" YES!",
+        "value": 400,
+        "question": "A mythological hunter killed by Artemis",
+        "answer": "Orion",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATES OF THE UNION",
+        "value": 800,
+        "question": "Of the 7 states with only 3 electoral votes, the one that's largest in area",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILMS IN OTHER WORDS",
+        "value": 800,
+        "question": "1997:\"Immense\"",
+        "answer": "Titanic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "G.I. KNOW",
+        "value": 800,
+        "question": "Under these 1949 agreements, taking prisoners is okay, taking hostages is not",
+        "answer": "Geneva Convention",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DOWN FOR THE LESSER-KNOWN COUNT",
+        "value": 800,
+        "question": "Count Sergey Witte had the wit to put this country on the gold standard in the late 1800s",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DANCES",
+        "value": 800,
+        "question": "A word meaning \"to stagger\", or a dance in a circular pattern that may leave you staggering",
+        "answer": "reel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"O\" YES!",
+        "value": 800,
+        "question": "From the French for \"high wood\", it's the noisemaker heard here",
+        "answer": "oboe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATES OF THE UNION",
+        "value": 1200,
+        "question": "Wells Fargo banking services came to this state in 1860 when offices opened in Carson City & Virginia City",
+        "answer": "Nevada",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILMS IN OTHER WORDS",
+        "value": 1200,
+        "question": "1980:\"Regular Folks\"",
+        "answer": "Ordinary People",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "G.I. KNOW",
+        "value": 1200,
+        "question": "\"Open ranks\" is an order in this drill",
+        "answer": "close order drill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DOWN FOR THE LESSER-KNOWN COUNT",
+        "value": 1200,
+        "question": "With Queen Caroline Matilda's help, Count Struensee took over this country from Christian VII in 1770",
+        "answer": "Denmark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DANCES",
+        "value": 1200,
+        "question": "Composer Amilcare Ponchielli's \"Dance of\" these is featured in \"Fantasia\"",
+        "answer": "the Hours",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"O\" YES!",
+        "value": 1200,
+        "question": "A stone pillar, usually monolithic & having a pyramidal apex",
+        "answer": "obelisk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATES OF THE UNION",
+        "value": 1600,
+        "question": "2 of the only 4 states whose capital cities begin with the same letter as the state",
+        "answer": "Indiana, Oklahoma (Delaware & Hawaii)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILMS IN OTHER WORDS",
+        "value": 1600,
+        "question": "1993:\"Oskar's Registry\"",
+        "answer": "Schindler's List",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "G.I. KNOW",
+        "value": 1600,
+        "question": "Abbreviated RDF, it's a group prepared to fight at a moment's notice",
+        "answer": "rapid deployment force",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DOWN FOR THE LESSER-KNOWN COUNT",
+        "value": 1600,
+        "question": "In 1921 Count Andrassy tried to place Austria's ex-emperor Charles I on this country's throne",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DANCES",
+        "value": 1600,
+        "question": "(Our Clue Crew demonstrates a well-known country dance.)  You got your sloppy Joe, your ordinary Joe & this Joe, the name of this country dance",
+        "answer": "Cotton-Eyed Joe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"O\" YES!",
+        "value": 1600,
+        "question": "In James Merrill's poem \"The Changing Light at Sandover\", this device assists in dialogues with spirits",
+        "answer": "ouija board",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATES OF THE UNION",
+        "value": 2000,
+        "question": "This southern state has more than 3,000 named lakes including one about 700 square miles in area",
+        "answer": "Florida",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILMS IN OTHER WORDS",
+        "value": 2000,
+        "question": "1995:\"Exiting the Gambling Mecca\"",
+        "answer": "Leaving Las Vegas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "G.I. KNOW",
+        "value": 2000,
+        "question": "Famous study guide from the 4th century B.C. by Sun-Tzu",
+        "answer": "The Art of War",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DOWN FOR THE LESSER-KNOWN COUNT",
+        "value": 2000,
+        "question": "In 1060 Count Conrad ruled this country that's now a grand duchy",
+        "answer": "Luxembourg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DANCES",
+        "value": 2000,
+        "question": "Bizet & Debussy wrote music for this dance named for Cuba's capital",
+        "answer": "Habanera",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"O\" YES!",
+        "value": 2000,
+        "question": "To swing back & forth with a steady, uninterrupted rhythm",
+        "answer": "oscillate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FRANCE",
+    "clue": "Of France's 22 official regions, this one extends the farthest west",
+    "answer": "Brittany"
+  },
+  "gameId": "4101",
+  "gameDate": "Monday, June 3, 2002"
+}

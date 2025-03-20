@@ -1,0 +1,574 @@
+{
+  "title": "Show #2683 - Wednesday, April 10, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "FICTION",
+      "STAR TREK",
+      "DOCTOR",
+      "\"HOO\"",
+      "THE PRISONER"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 100,
+        "question": "It's the more common name for sodium chloride",
+        "answer": "Salt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FICTION",
+        "value": 100,
+        "question": "Michael Corleone of \"The Godfather\" also appears in this author's novel \"The Sicilian\"",
+        "answer": "Mario Puzo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK",
+        "value": 100,
+        "question": "Registry number NCC-1701, this ship was launched in 2245",
+        "answer": "Enterprise",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DOCTOR",
+        "value": 100,
+        "question": "Roger Sperry's studies of how this organ's halves split up processes won him a 1981 Nobel Prize",
+        "answer": "Brain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"HOO\"",
+        "value": 100,
+        "question": "Cheer \"for Hollywood\"",
+        "answer": "Hooray",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE PRISONER",
+        "value": 100,
+        "question": "On Dec. 8, 1992 a U.S. federal judge in Miami ruled this Panamanian a prisoner of war",
+        "answer": "Manuel Noriega",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "Foxglove is an example of this type of plant that completes its life cycle in 2 years",
+        "answer": "Biennial",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FICTION",
+        "value": 200,
+        "question": "Norman Mailer's novel \"Ancient Evenings\" is set in this ancient country",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK",
+        "value": 200,
+        "question": "He's appeared on 5 of TV Guide's 14 Star Trek covers",
+        "answer": "William Shatner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DOCTOR",
+        "value": 200,
+        "question": "In 1858 he published the first edition of his \"Anatomy\" book; it's still a medical standard",
+        "answer": "Gray",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"HOO\"",
+        "value": 200,
+        "question": "Any Indianan",
+        "answer": "Hoosier",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE PRISONER",
+        "value": 200,
+        "question": "His father, John, like his creation Mr. Pickwick, served time in debtor's prison",
+        "answer": "Charles Dickens",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 300,
+        "question": "After the sun & moon, this planet is the brightest object in the sky",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FICTION",
+        "value": 300,
+        "question": "A diamond hunt turns deadly when the expedition meets killer gorillas in this Michael Crichton novel",
+        "answer": "\"Congo\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK",
+        "value": 300,
+        "question": "Tim Russ' character of Tuvok on \"Voyager\" is a full-blooded one of these pointy-eared aliens",
+        "answer": "Vulcan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DOCTOR",
+        "value": 300,
+        "question": "We wonder if Polish physician Ludwik Zamenhof wrote prescriptions in this language he invented in 1887",
+        "answer": "Esperanto",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"HOO\"",
+        "value": 300,
+        "question": "They're found below the fetlocks",
+        "answer": "Hooves",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE PRISONER",
+        "value": 300,
+        "question": "In 1519 this leader of the Aztecs was taken prisoner without resistance",
+        "answer": "Montezuma",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "The pH in pH scale stands for the \"potential of \" this element",
+        "answer": "Hydrogen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FICTION",
+        "value": 400,
+        "question": "In an 1891 novel Basil Hallward is the painter of this man's mysterious portrait",
+        "answer": "Dorian Gray",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK",
+        "value": 400,
+        "question": "Star Fleet is the exploratory branch of this organization of planets",
+        "answer": "The Federation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DOCTOR",
+        "value": 400,
+        "question": "The University of Minnesota's graduate school of medicine is named for this family",
+        "answer": "Mayo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"HOO\"",
+        "value": 400,
+        "question": "Popular in the 1860s, crinolines were a type of this womens' fashion",
+        "answer": "Hoop Skirts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE PRISONER",
+        "value": 800,
+        "question": "Ahmed Ben Bella, first president of this country, was imprisoned in France from 1956-1962",
+        "answer": "Algeria",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 500,
+        "question": "In geometry it's a quadrilateral with 2 parallel sides; in anatomy, it's the smallest wrist bone",
+        "answer": "Trapezoid",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FICTION",
+        "value": 500,
+        "question": "In 1995 this author of \"The Prince of Tides\" published the bestseller \"Beach Music\"",
+        "answer": "Pat Conroy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK",
+        "value": 500,
+        "question": "This \"Next Generation\" Klingon joined the \"Deep Space Nine\" crew in 1995",
+        "answer": "Lt. Worf",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DOCTOR",
+        "value": 500,
+        "question": "In 1943 Dr. Willem Kolff was the first to use an artificial one of these organs on humans",
+        "answer": "Kidneys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"HOO\"",
+        "value": 500,
+        "question": "Southern U.S. magic",
+        "answer": "Hoodoo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE PRISONER",
+        "value": 500,
+        "question": "He wrote what would become \"Soul on Ice\" while incarcerated in Folsom Prison",
+        "answer": "Eldridge Cleaver",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "RHODE ISLANDERS",
+      "OPERA",
+      "U.S. GEOGRAPHY",
+      "GUINNESS RECORDS",
+      "WORLD HISTORY",
+      "SHAKESPEAREAN POTPOURRI"
+    ],
+    "clues": [
+      {
+        "category": "RHODE ISLANDERS",
+        "value": 200,
+        "question": "This Civil War general admired for his side-whiskers served as governor of Rhode Island from 1866-69",
+        "answer": "Ambrose Burnside",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 200,
+        "question": "The \"marriage\" of this character to Susanna takes place in Count Almaviva's chateau",
+        "answer": "Figaro",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "This Arizona capital lies in the Salt River Valley & is bordered by mountains & the Sonoran desert",
+        "answer": "Phoenix",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 200,
+        "question": "An estimated record crowd of 800,000 attended a 1986 classical music concert in this NYC park",
+        "answer": "Central Park",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 200,
+        "question": "In 447 he & his band of Huns devastated the area between the Mediterranean & Black Seas",
+        "answer": "Attila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SHAKESPEAREAN POTPOURRI",
+        "value": 200,
+        "question": "Shakespeare lived for awhile with the Mountjoys, a Huguenot family, in this capital city",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RHODE ISLANDERS",
+        "value": 400,
+        "question": "Robert Gray discovered this river that forms much of the border between Washington & Oregon",
+        "answer": "Columbia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 400,
+        "question": "This opera's best-known aria is Cio-Cio-San's \"Un Bel Di Vedremo\"",
+        "answer": "Madame Butterfly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "This state's largest desert basins are Jornada del Muerto & Tularosa, where White Sands is",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 400,
+        "question": "The lowest settlement in the world is Israel's Ein Bokek on the shore of this sea",
+        "answer": "Dead Sea",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 400,
+        "question": "In 1971 this country's constitution set up 3 cultural regions:  Flanders, Wallonia, & Brussels",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SHAKESPEAREAN POTPOURRI",
+        "value": 400,
+        "question": "In the last scene of a tragedy, Malcolm speaks of \"This dead butcher and his fiend-like queen\"",
+        "answer": "Macbeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RHODE ISLANDERS",
+        "value": 600,
+        "question": "He painted the first 5 men to succeed Washington as president but is more famous for his 3 of George",
+        "answer": "Gilbert Stuart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 600,
+        "question": "Act I of this 1875 opera takes place in a Seville square near a cigarette factory",
+        "answer": "\"Carmen\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "Chappaquiddick Island & this larger island are separated by Katama Bay",
+        "answer": "Martha's Vineyard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 600,
+        "question": "This French leader was the target of a record 31 unsuccessful assassination plots",
+        "answer": "Charles De Gaulle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 600,
+        "question": "In 1910 this British scholar & army officer explored Syria on foot",
+        "answer": "Lawrence",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SHAKESPEAREAN POTPOURRI",
+        "value": 600,
+        "question": "\"Diana\", a story in Spanish by Jorge de Montemayer, is a source for this comedy about a Veronese duo",
+        "answer": "\"Two Gentlemen of Verona\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RHODE ISLANDERS",
+        "value": 800,
+        "question": "The play \"LIttle Johnny Jones\" introduced his \"Give My Regards to Broadway\"",
+        "answer": "George M. Cohan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 800,
+        "question": "The title character in this Verdi opera is a hunchbacked jester",
+        "answer": "\"Rigoletto\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "The easternmost point of this state's Outer Banks is on Cape Hatteras National Seashore",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 1600,
+        "question": "The world's largest known invertebrate is the giant species of this cephalopod",
+        "answer": "Giant Squid",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 800,
+        "question": "From 1849 to 1861, he ruled the kingdom of Sardinia",
+        "answer": "Victor Emmanuel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SHAKESPEAREAN POTPOURRI",
+        "value": 800,
+        "question": "It's believed Shakespeare wrote part of a 1595 play about this \"Utopia\" author",
+        "answer": "St. Thomas More",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RHODE ISLANDERS",
+        "value": 1000,
+        "question": "Leonard Woodcock, who succeeded Walter Reuther as head of this union, was born in Providence",
+        "answer": "United Auto Workers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 1000,
+        "question": "Beethoven wrote 4 overtures for this opera",
+        "answer": "\"Fidelio\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "Rising 33,480 feet from its underwater base makes this Hawaiian volcano the world's tallest peak",
+        "answer": "Mauna Kea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 1000,
+        "question": "The shortest-reigning king was Dom Luis III, king of this country for about 20 minutes in 1908",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1000,
+        "question": "Mungo Park disappeared in 1806 while exploring this west African river",
+        "answer": "Niger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SHAKESPEAREAN POTPOURRI",
+        "value": 2000,
+        "question": "Shakespeare's theatrical company became known as The King's Men in honor of this king's patronage",
+        "answer": "James I",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SAINTS",
+    "clue": "He wrote, \"Praise to thee, my Lord, for all thy creatures, above all brother sun\"",
+    "answer": "St. Francis of Assisi"
+  },
+  "gameId": "2683",
+  "gameDate": "Wednesday, April 10, 1996"
+}

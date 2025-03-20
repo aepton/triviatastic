@@ -1,0 +1,574 @@
+{
+  "title": "Show #3327 - Tuesday, February 9, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "BODIES OF WATER",
+      "THE SIMPSONS",
+      "AUTHORS & THEIR WORKS",
+      "IT'S A GROUP THING",
+      "NOTABLE WOMEN",
+      "DOESN'T RHYME WITH SQUAT"
+    ],
+    "clues": [
+      {
+        "category": "BODIES OF WATER",
+        "value": 100,
+        "question": "It's the westernmost & northernmost of the Great Lakes",
+        "answer": "Lake Superior",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 100,
+        "question": "In 1998 Homer commandeered the stage during this Irish band's concert in Springfield",
+        "answer": "U2",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS & THEIR WORKS",
+        "value": 100,
+        "question": "Best-known for her books about China, she published her \"American Triptych\" as John Sedges",
+        "answer": "Pearl S. Buck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "IT'S A GROUP THING",
+        "value": 100,
+        "question": "Scary, Sporty, Baby & Posh",
+        "answer": "The Spice Girls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 100,
+        "question": "Margrethe II studied archaeology at this British university before she became queen of Denmark",
+        "answer": "Cambridge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH SQUAT",
+        "value": 100,
+        "question": "One of your choices when your sink has 2 knobs to turn on the water",
+        "answer": "Cold",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 200,
+        "question": "This sea is divided into several basins, including Yucatan, Colombian, Venezuelan & Tobago",
+        "answer": "Caribbean Sea",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 200,
+        "question": "This Springfield celebrity was disowned by his father for choosing to be a clown rather than a rabbi",
+        "answer": "Krusty the Clown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS & THEIR WORKS",
+        "value": 200,
+        "question": "The century in which Boccaccio wrote the \"Decameron\", & all of his other works, too",
+        "answer": "14th century",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "IT'S A GROUP THING",
+        "value": 200,
+        "question": "Tinky-Winky, Dipsy, Laa-Laa & Po",
+        "answer": "Teletubbies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 200,
+        "question": "Anne-Sophie Mutter made her professional debut playing this stringed instrument in 1977, at age 13",
+        "answer": "Violin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH SQUAT",
+        "value": 200,
+        "question": "It makes up half of the Morse Code letter \"N\"",
+        "answer": "Dash",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 600,
+        "question": "The Ukranians call this sea Chorne More",
+        "answer": "Black Sea",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 300,
+        "question": "Smithers loves 2 things: his collection of Malibu Stacy dolls & this man, owner of the Nuclear Power Plant",
+        "answer": "Mr. Burns",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS & THEIR WORKS",
+        "value": 300,
+        "question": "Old Jolyon Forsyte is a wealthy tea merchant in \"The Man of Property\", a novel by this author",
+        "answer": "John Galsworthy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "IT'S A GROUP THING",
+        "value": 300,
+        "question": "Nick Mason, Roger Waters, Rick Wright & David Gilmour",
+        "answer": "Pink Floyd",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 300,
+        "question": "Lynne Thigpen won a Tony in 1997 for acting in \"An American Daughter\" by this author of \"The Heidi Chronicles\"",
+        "answer": "Wendy Wasserstein",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH SQUAT",
+        "value": 300,
+        "question": "It's one of the words that form the contraction \"won't\"",
+        "answer": "Will",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 400,
+        "question": "The ferry from Villa San Giovanni in Calabria, Italy to Sicily crosses this strait",
+        "answer": "Strait of Messina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 400,
+        "question": "After drinking the Unprecedented All-Syrup Super-Squishee, Bart & this friend hit the town on a sugar high",
+        "answer": "Milhouse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS & THEIR WORKS",
+        "value": 400,
+        "question": "\"The Cinnamon Peeler\" is a book of poems by this Ceylon-born author of \"The English Patient\"",
+        "answer": "Michael Ondaatje",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "IT'S A GROUP THING",
+        "value": 400,
+        "question": "Mr. Fantastic, The Human Torch, The Invisible Woman & The Thing",
+        "answer": "Fantastic Four",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 400,
+        "question": "She wrote the purr-fectly titled memoir \"I'm Still Here: Confessions of a Sex Kitten\"",
+        "answer": "Eartha Kitt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH SQUAT",
+        "value": 400,
+        "question": "In \"Camelot\", he has a romance with Guenevere",
+        "answer": "King Arthur",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 500,
+        "question": "Located in east-central Africa, at 420 miles it's the world's largest freshwater lake",
+        "answer": "Lake Tanganyika",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE SIMPSONS",
+        "value": 500,
+        "question": "\"Okely-dokely-do\" & \"Oh, indeedily doodily\" are phrases often said by this Simpsons neighbor",
+        "answer": "Ned Flanders",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS & THEIR WORKS",
+        "value": 500,
+        "question": "Ernest Feydeau wrote the 1858 novel \"Fanny\", & this son of his wrote French farces such as \"A Flea In Her Ear\"",
+        "answer": "Georges Feydeau",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "IT'S A GROUP THING",
+        "value": 500,
+        "question": "Jim Crowley, Elmer Layden, Don Miller & Harry Stuhldreher",
+        "answer": "The \"Four Horsemen\" Of Notre Dame (football)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NOTABLE WOMEN",
+        "value": 500,
+        "question": "This future U.S. first lady distributed food & helped tend the wounded during the Boxer Rebellion",
+        "answer": "Lou Hoover",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOESN'T RHYME WITH SQUAT",
+        "value": 500,
+        "question": "In Genesis, he split with his kinsman because Canaan wasn't big enough for both of them",
+        "answer": "Abram",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WATERS OF THE BODY",
+      "FRENCH FILM REMAKES",
+      "BRITISH PRIME MINISTERS",
+      "TOWERS",
+      "THE 1880s",
+      "FUN WITH ROMAN NUMERALS"
+    ],
+    "clues": [
+      {
+        "category": "WATERS OF THE BODY",
+        "value": 200,
+        "question": "Literally meaning \"a breathing through\", it's the polite word for fluid produced to keep the body cool",
+        "answer": "perspiration",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRENCH FILM REMAKES",
+        "value": 200,
+        "question": "This American director of \"10\" remade Truffaut's \"The Man Who Loved Women\"",
+        "answer": "Blake Edwards",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BRITISH PRIME MINISTERS",
+        "value": 200,
+        "question": "Her title is Baroness of Kesteven",
+        "answer": "Margaret Thatcher",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TOWERS",
+        "value": 200,
+        "question": "In 1971 the Shah put up the Shahyad Towers in this city; the tower has been renamed",
+        "answer": "Tehran",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE 1880s",
+        "value": 200,
+        "question": "President Hayes said in March 1880 that one of these across the Isthmus of Panama would be under U.S. control",
+        "answer": "a canal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH ROMAN NUMERALS",
+        "value": 200,
+        "question": "If Churchill were making a Roman numeral, it would be this number",
+        "answer": "5 (V)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WATERS OF THE BODY",
+        "value": 400,
+        "question": "The condition keratoconjuctivitis sicca is associated with reduction in the flow of these",
+        "answer": "tears",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRENCH FILM REMAKES",
+        "value": 400,
+        "question": "1955 French thriller with Simone Signoret remade, but not retitled, with Sharon Stone in 1996",
+        "answer": "Diabolique",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BRITISH PRIME MINISTERS",
+        "value": 400,
+        "question": "Horses owned by the Earl of Rosebery won this Epsom race 3 times, twice while he was prime minister",
+        "answer": "the Epsom Derby",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TOWERS",
+        "value": 400,
+        "question": "They took L.A. tile setter Simon Rodia over 30 years to create",
+        "answer": "Watts Towers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE 1880s",
+        "value": 400,
+        "question": "This parent of the Bell System was incorporated in 1885",
+        "answer": "AT&T (American Telephone & Telegraph)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH ROMAN NUMERALS",
+        "value": 400,
+        "question": "The initials of the type of medical equipment being set up here gave us this number",
+        "answer": "4 (IV)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WATERS OF THE BODY",
+        "value": 600,
+        "question": "The membranous labyrinth floats in fluid in the \"inner\" part of this organ",
+        "answer": "the ear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRENCH FILM REMAKES",
+        "value": 600,
+        "question": "Pierre Richard starred in \"Les fugitifs\" & Martin Short cut up in this remake",
+        "answer": "Three Fugitives",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BRITISH PRIME MINISTERS",
+        "value": 600,
+        "question": "Lloyd George's constituency was Caernarvonshire in this part of the United Kingdom",
+        "answer": "Wales",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TOWERS",
+        "value": 600,
+        "question": "At 1,815 feet, it gives Toronto some of the clearest TV reception in North America",
+        "answer": "the CN Tower",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE 1880s",
+        "value": 1200,
+        "question": "In 1881 the Normal and Industrial Institute was founded in this Alabama city",
+        "answer": "Tuskegee",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH ROMAN NUMERALS",
+        "value": 600,
+        "question": "The abbreviation of the item seen here gives us the Roman numeral for this number",
+        "answer": "400 (CD)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WATERS OF THE BODY",
+        "value": 800,
+        "question": "The pale liquid portion of your blood, it's about 90% water",
+        "answer": "plasma",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRENCH FILM REMAKES",
+        "value": 800,
+        "question": "In this \"colorful\" 1984 remake of \"Pardon mon affaire\", Gene has a wilder time than Jean Rochefort did",
+        "answer": "The Woman in Red",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BRITISH PRIME MINISTERS",
+        "value": 1600,
+        "question": "One of 11 children, this 26th prime minister could have formed a police force out of his family",
+        "answer": "Robert Peel",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TOWERS",
+        "value": 800,
+        "question": "This Chicago media company's Gothic tower doesn't quite put the Sears Tower in the shade",
+        "answer": "the Tribune Company",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE 1880s",
+        "value": 800,
+        "question": "Even after admitting he had sired an illegitimate child, he was still elected president in 1884",
+        "answer": "Grover Cleveland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH ROMAN NUMERALS",
+        "value": 800,
+        "question": "If the letters seen here were upper case, they would add up to this amountmm",
+        "answer": "2000 (MM)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WATERS OF THE BODY",
+        "value": 1000,
+        "question": "The venom from a snakebite gets into the bloodstream via this fluid-carrying system",
+        "answer": "the lymphatic system",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRENCH FILM REMAKES",
+        "value": 1000,
+        "question": "You can \"blame\" the plot of this 1984 Michael Caine film on 1977's \"Un moment d'egarement\"",
+        "answer": "Blame it on Rio",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BRITISH PRIME MINISTERS",
+        "value": 1000,
+        "question": "His famous \"declaration\" was issued in November 1917, years after he was prime minister",
+        "answer": "Arthur Balfour",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TOWERS",
+        "value": 1000,
+        "question": "The White Tower, a remnant of Ottoman rule, is a highlight of this second-largest Greek city",
+        "answer": "Thessalonika",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE 1880s",
+        "value": 1000,
+        "question": "This Russian composed the \"Russian Easter Overture\" & \"Scheherazade\" in 1888",
+        "answer": "Nikolai Rimsky-Korsakov",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FUN WITH ROMAN NUMERALS",
+        "value": 1000,
+        "question": "If a size abbreviation seen here were Roman numerals, it would represent this number",
+        "answer": "40 (XL)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN HISTORY",
+    "clue": "At the outbreak of hostilities of the Civil War, he was president of the Senate",
+    "answer": "Hannibal Hamlin"
+  },
+  "gameId": "3327",
+  "gameDate": "Tuesday, February 9, 1999"
+}

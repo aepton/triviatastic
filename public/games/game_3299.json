@@ -1,0 +1,574 @@
+{
+  "title": "Show #4506 - Monday, March 22, 2004",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. CITIES",
+      "ROLLING STONE'S 100 GREATEST GUITARISTS",
+      "THE LENIN CLOSET",
+      "POTPOURRI",
+      "MAGAZINES",
+      "ABBREVIATED"
+    ],
+    "clues": [
+      {
+        "category": "U.S. CITIES",
+        "value": 200,
+        "question": "Its nicknames include \"The Athens of America\" & \"The Cradle of Liberty\"",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+        "value": 200,
+        "question": "Who was No. 50?  This Who guitarist, that's who",
+        "answer": "Pete Townshend",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE LENIN CLOSET",
+        "value": 200,
+        "question": "Lenin got a degree in this in 1891, then went on to court a lot of trouble",
+        "answer": "law",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "In 2001 Sweden & the U.S. honored this award's 100th anniversary with a set of postage stamps",
+        "answer": "the Nobel Prize",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "As the old saying goes, \"An ounce of\" this magazine \"is worth a pound of cure\"",
+        "answer": "Prevention",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ABBREVIATED",
+        "value": 200,
+        "question": "A \"green\" government group:EPA",
+        "answer": "Environmental Protection Agency",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 400,
+        "question": "When Oregon became a state in 1859, this city on the Willamette River was already the capital",
+        "answer": "Salem",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+        "value": 400,
+        "question": "Not surprisingly this legendary guitarist who colored the '60s with songs like \"Purple Haze\" came in at No. 1",
+        "answer": "Jimi Hendrix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE LENIN CLOSET",
+        "value": 400,
+        "question": "Lenin met his wife Nadezhda while exiled here",
+        "answer": "Siberia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "Select Comfort Corporation makes these with adjustable firmness",
+        "answer": "mattresses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "In Nov. 2003 Judge Ira Gammerman said neither side would get damages from the demise of this celeb's magazine",
+        "answer": "Rosie O'Donnell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ABBREVIATED",
+        "value": 400,
+        "question": "High-ranking business operative:CFO",
+        "answer": "chief financial officer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 600,
+        "question": "Benjamin Franklin Parkway & The Franklin Institute Science Museum are in this city",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+        "value": 600,
+        "question": "It's said of No. 3, \"His string-bending & vibrato made his famous guitar, Lucille, weep like a real-life woman\"",
+        "answer": "B.B. King",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE LENIN CLOSET",
+        "value": 600,
+        "question": "When Russian Marxism split into 2 factions, Lenin led this \"majority\" group",
+        "answer": "the Bolsheviks",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 600,
+        "question": "On an NHL rink, it's the color of the center line",
+        "answer": "red",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 600,
+        "question": "For its Dec. 2003 issue, the U.S. Marie Claire put its first man on its cover, this star of \"The Last Samurai\"",
+        "answer": "Tom Cruise",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ABBREVIATED",
+        "value": 600,
+        "question": "An international alliance:EU",
+        "answer": "the European Union",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 800,
+        "question": "According to a song by Ian Hunter, it \"Rocks\" (must be why the Rock & Roll Hall of Fame is there)",
+        "answer": "Cleveland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+        "value": 800,
+        "question": "His \"Smooth\" guitar strains earned him a place at No. 15",
+        "answer": "Carlos Santana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE LENIN CLOSET",
+        "value": 800,
+        "question": "Lenin spent WWI in this country, but he was far from neutral on the subject",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 800,
+        "question": "In 2003 a nationwide Free Slurpee Day was on this date",
+        "answer": "July 11",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 800,
+        "question": "In titles, this word follows Southern, Country & Martha Stewart",
+        "answer": "Living",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ABBREVIATED",
+        "value": 800,
+        "question": "On an accountant's calendar:FY",
+        "answer": "fiscal year",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 1000,
+        "question": "Located in this city's Garden District, Commander's Palace features a jazz brunch on weekends",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+        "value": 1000,
+        "question": "Surprisingly, only 2 women made the list: Joni Mitchell & this leader of the Blackhearts",
+        "answer": "Joan Jett",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE LENIN CLOSET",
+        "value": 1000,
+        "question": "When Lenin returned to Russia in 1917, he did it in a \"sealed\" one of these",
+        "answer": "railway car",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 1000,
+        "question": "This flower got its name from the belief that bees got a sweet substance out of it",
+        "answer": "honeysuckle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1000,
+        "question": "Marilyn Vos Savant's column appears in this magazine that comes with Sunday newspapers",
+        "answer": "Parade Magazine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ABBREVIATED",
+        "value": 1000,
+        "question": "Sometimes you get extras with one of these:DVD",
+        "answer": "digital video disc",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POETS",
+      "THE YEAR IN SPORTS",
+      "FAMOUS JACQUES",
+      "WORLD COINS",
+      "MEDICINE",
+      "\"SIDE\" EFFECTS"
+    ],
+    "clues": [
+      {
+        "category": "POETS",
+        "value": 400,
+        "question": "This \"Howl\" poet's father was also a poet & the 2 would perform public readings together",
+        "answer": "Allen Ginsberg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE YEAR IN SPORTS",
+        "value": 400,
+        "question": "Bruce Jenner & Ray Leonard were American Olympic champs in this red, white & blue year",
+        "answer": "1976",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS JACQUES",
+        "value": 400,
+        "question": "His 1959 film \"The Golden Fish\" won him an Oscar",
+        "answer": "(Jacques) Cousteau",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 400,
+        "question": "Its 1-shekel coin features a flower taken from a Judean coin during the Persian period",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 400,
+        "question": "A Pseudofolliculitis barbae is an \"ingrown\" one of these",
+        "answer": "a hair",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SIDE\" EFFECTS",
+        "value": 400,
+        "question": "Manner assumed by good doctors",
+        "answer": "bedside manner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POETS",
+        "value": 800,
+        "question": "In 1953 his Norton Lectures at Harvard were published as \"i: six nonlectures\"",
+        "answer": "(E.E.) Cummings",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE YEAR IN SPORTS",
+        "value": 800,
+        "question": "It was the year of Babe Ruth's career high in home runs",
+        "answer": "1927",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS JACQUES",
+        "value": 800,
+        "question": "In 1995 he succeeded Francois Mitterand",
+        "answer": "Jacques Chirac",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 800,
+        "question": "In 1999 the Cook Islands issued a half dollar coin featuring this Jim Davis comic strip title character",
+        "answer": "Garfield",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 800,
+        "question": "Adding these charged particles to the air is supposed to reduce blood pressure & relieve headaches",
+        "answer": "negative ions",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SIDE\" EFFECTS",
+        "value": 800,
+        "question": "You can get an 18-pound collection of every one of these Gary Larson cartoons",
+        "answer": "\"The Far Side\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POETS",
+        "value": 1200,
+        "question": "She considered publishing \"Sonnets from the Portuguese\" as \"Sonnets Translated from the Bosnian\"",
+        "answer": "Elizabeth (Barrett) Browning",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE YEAR IN SPORTS",
+        "value": 1200,
+        "question": "(Jimmy of the Clue Crew at Indianapolis Speedway)  The Noc-Out Hose Clamp Special was the winning car at Indianapolis in this year; the race was cancelled the next 4 years",
+        "answer": "1941",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS JACQUES",
+        "value": 1200,
+        "question": "Much of France's 16th century Canadian claim was based on his explorations",
+        "answer": "(Jacques) Cartier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 1200,
+        "question": "In 1999 it issued its 1-oz. silver kookaburra coin with honor marks reproducing several U.S. state quarters",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 1200,
+        "question": "Symbolized Ba, this element is put in your body, one way or another, to be seen on X-rays",
+        "answer": "barium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SIDE\" EFFECTS",
+        "value": 1200,
+        "question": "A trial judge may call this conference with the attorneys, out of the jury's hearing",
+        "answer": "sidebar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POETS",
+        "value": 1600,
+        "question": "After his death in 1821, a fellow poet wrote that he was fragile & was \"killed off by one critique\"",
+        "answer": "(John) Keats",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE YEAR IN SPORTS",
+        "value": 1600,
+        "question": "In this, his final year, Ted Williams became one of the few major leaguers to play in 4 decades",
+        "answer": "1960",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS JACQUES",
+        "value": 1600,
+        "question": "He painted the death of Marat & he himself died in exile in Brussels",
+        "answer": "Jacques-Louis David",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 1600,
+        "question": "All of Ireland's coins feature this musical instrument on one side",
+        "answer": "the harp",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 1600,
+        "question": "Yes, she developed a scoring system in 1952 to aid in determining a newborn's health",
+        "answer": "Virginia Apgar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SIDE\" EFFECTS",
+        "value": 1600,
+        "question": "Economists also know it as Reaganomics",
+        "answer": "supply-side economics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POETS",
+        "value": 2000,
+        "question": "In 1857 this \"Old Ironsides\" poet & others founded the Atlantic Monthly",
+        "answer": "Oliver Wendell Holmes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE YEAR IN SPORTS",
+        "value": 2000,
+        "question": "Super Bowl XXXVIII was in 2004; this was the year of Super Bowl I",
+        "answer": "1967",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FAMOUS JACQUES",
+        "value": 2000,
+        "question": "He composed both \"The Tales of Hoffmann\" & that scandalous \"Cancan\" music",
+        "answer": "(Jacques) Offenbach",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 2000,
+        "question": "In 2001 Russia issued a coin with his portrait to commemorate the 40th anniversary of manned space flight",
+        "answer": "Yuri Gagarin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 2000,
+        "question": "Nitroglycerin is an example of this type of drug that widens blood vessels",
+        "answer": "vasodilator",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"SIDE\" EFFECTS",
+        "value": 2000,
+        "question": "Show that includes \"Comedy Tonight\", \"Company\" & \"Send in the Clowns\"",
+        "answer": "Side by Side",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS FELINES",
+    "clue": "He made his debut in the 1945 short film \"Life with Feathers\"",
+    "answer": "Sylvester"
+  },
+  "gameId": "4506",
+  "gameDate": "Monday, March 22, 2004"
+}

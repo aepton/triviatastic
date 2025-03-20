@@ -1,0 +1,574 @@
+{
+  "title": "Show #1429 - Thursday, November 15, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "\"G\" MEN",
+      "ESPAÑOL",
+      "WEIGHTS & MEASURES",
+      "TRAIN SONGS",
+      "NATURE",
+      "FINAL RESTING PLACES"
+    ],
+    "clues": [
+      {
+        "category": "\"G\" MEN",
+        "value": 100,
+        "question": "In 1980, at age 19, he became the youngest player named MVP of the NHL",
+        "answer": "Gretzky",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ESPAÑOL",
+        "value": 100,
+        "question": "It's Spanish for \"pineapple\", as those who drink pineapple-coconut cocktails should know",
+        "answer": "piña",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 100,
+        "question": "1 hectare, the metric unit of area, is equal to 2.471 of these",
+        "answer": "an acre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TRAIN SONGS",
+        "value": 100,
+        "question": "In the old standard it's what \"I've\" been doing \"all the live-long day\"",
+        "answer": "working on the railroad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 100,
+        "question": "This flower has been grown since ancient times for its foliage, fragrance & hips",
+        "answer": "a rose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 100,
+        "question": "You'll find the 13 imperial tombs of the Ming dynasty in a valley on the outskirts of this capital",
+        "answer": "Beijing",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "\"G\" MEN",
+        "value": 200,
+        "question": "He was Benson DuBois on TV before playing the \"Phantom of the Opera\" in L.A.",
+        "answer": "Robert Guillaume",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ESPAÑOL",
+        "value": 200,
+        "question": "A derisive word for a foreigner; Carlos Fuentes wrote of \"The Old\" one in 1985",
+        "answer": "gringo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 200,
+        "question": "This cotton measure is 500 lbs. in the U.S. & only 176 lbs. in China",
+        "answer": "a bale",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TRAIN SONGS",
+        "value": 200,
+        "question": "The Monkees took \"The Last Train\" there in 1966 & made it their first No. 1 hit",
+        "answer": "Clarksville",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 200,
+        "question": "It'll run if there's danger, or, if cornered, kick out, but will not as legend says bury its head",
+        "answer": "an ostrich",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 200,
+        "question": "Joseph Conrad is buried in the cemetery at this Gothic cathedral, as the archbishop could tell you",
+        "answer": "Canterbury",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "\"G\" MEN",
+        "value": 300,
+        "question": "Under the pen name A.A. Fair, he created private eyes Bertha Cool & Donald Lam",
+        "answer": "Erle Stanley Gardner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ESPAÑOL",
+        "value": 300,
+        "question": "The Spanish \"calabozo\" & the cowboy variation calaboose both mean this",
+        "answer": "jail",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 300,
+        "question": "Measuring longitude at the equator 1 of these equals 69.17 miles",
+        "answer": "a degree",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TRAIN SONGS",
+        "value": 300,
+        "question": "The British singer who rode the \"Morning Train\" to the top of the charts in 1981",
+        "answer": "Sheena Easton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 300,
+        "question": "Of all the toucans, the toco has the biggest one of these",
+        "answer": "a beak",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 300,
+        "question": "He was buried on St. Helena in his favorite uniform in 1821 but was moved to Paris in 1840",
+        "answer": "Napoleon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "\"G\" MEN",
+        "value": 400,
+        "question": "After helping to organize the AFL, he headed it for almost 40 years",
+        "answer": "Samuel Gompers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ESPAÑOL",
+        "value": 400,
+        "question": "Any Spanish pier or wharf, or a certain waterfront area in San Francisco",
+        "answer": "embarcadero",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 400,
+        "question": "6 miles square is exactly equal to this many square miles",
+        "answer": "36 square miles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TRAIN SONGS",
+        "value": 800,
+        "question": "The title destination of the train in this 1973 No. 1 hit:\"L.A. proved too much for the man...\"",
+        "answer": "Georgia",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 400,
+        "question": "Mor & mull are 2 types of this black decayed organic matter in soil",
+        "answer": "humus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 400,
+        "question": "Father Damien was buried on this Hawaiian island but in 1936 his remains were moved to Belgium",
+        "answer": "Molokai",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "\"G\" MEN",
+        "value": 500,
+        "question": "Convinced the novel was evil, he burned the second part of \"Dead Souls\" shortly before he died",
+        "answer": "Gogol",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ESPAÑOL",
+        "value": 500,
+        "question": "The traditional title for daughters of the kings of Portugal & Spain",
+        "answer": "infanta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 500,
+        "question": "This unit named for a Swedish scientist is used to designate wavelengths of light",
+        "answer": "angstrom",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TRAIN SONGS",
+        "value": 500,
+        "question": "In \"The Harvey Girls\", Judy Garland sang about this railroad",
+        "answer": "the Atchison, Topeka, and the Santa Fe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 500,
+        "question": "Legend says this flower's name comes from the last words of a knight who drowned picking one for his lady",
+        "answer": "a forget-me-not",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 500,
+        "question": "This Diaghilev dancer is buried near the great French dancer Auguste Vestris in Montmartre",
+        "answer": "Nijinsky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT VIPs",
+      "ITALIAN LITERATURE",
+      "WORLD GEOGRAPHY",
+      "THE AMERICAN REVOLUTION",
+      "OPERA",
+      "ABBREV."
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT VIPs",
+        "value": 200,
+        "question": "It was once believed that this Hun, who died on his wedding night, was murdered by his bride",
+        "answer": "Attila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ITALIAN LITERATURE",
+        "value": 200,
+        "question": "Besides \"The Prince\", he is also known for his \"Discourses on\" Livy",
+        "answer": "Machiavelli",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "This country's name means \"Land of the Southern Slavs\"",
+        "answer": "Yugoslavia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 200,
+        "question": "He wrote, \"The birthday of a new world is at hand\" in his pamplet \"Common Sense\"",
+        "answer": "Thomas Paine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OPERA",
+        "value": 200,
+        "question": "In \"Siegfried\" Fafner the giant is turned into one of these mythical beasts before Siegfried slays him",
+        "answer": "a dragon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ABBREV.",
+        "value": 200,
+        "question": "This is the abbreviation for a postscript after a P.S.",
+        "answer": "P.P.S.",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 400,
+        "question": "He was the 6th ruler of the Amorite dynasty of Babylon; you probably remember him for his code",
+        "answer": "Hammurabi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ITALIAN LITERATURE",
+        "value": 400,
+        "question": "The Academic American Ency. calls this Dante work the greatest poem of the Middle Ages",
+        "answer": "the Divine Comedy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "Just north of Khartoum, Sudan, these 2 \"colorful\" rivers combine to form the Nile",
+        "answer": "the Blue Nile & the White Nile",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 400,
+        "question": "This craftsman designed the 1st official seal of the Colonies & the 1st issue of Continental currency",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OPERA",
+        "value": 400,
+        "question": "1st name shared by Rigoletto's daughter, a \"Saturday Night Live\" star & a R. Hayworth character",
+        "answer": "Gilda",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ABBREV.",
+        "value": 400,
+        "question": "Medically, G.I. stands for this system",
+        "answer": "gastrointestinal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 600,
+        "question": "Amenhotep IV of Egypt changed his name to this because he was so devoted to the god Aton",
+        "answer": "Akhenaten",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ITALIAN LITERATURE",
+        "value": 600,
+        "question": "Completes the title of Giorgio Bassani's novel set in Fascist Italy, \"The Garden of the...\"",
+        "answer": "Finzi-Continis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 600,
+        "question": "The Gulf of Bothnia & the Gulf of Finland are both extensions of this sea",
+        "answer": "the Baltic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 600,
+        "question": "The first of these 5 acts closed the port of Boston until payment was made for the destroyed tea",
+        "answer": "the Coercive Acts (or the Intolerable Acts)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OPERA",
+        "value": 1200,
+        "question": "Marie, the heroine of this Donizetti opera, was adopted as an infant by French soldiers",
+        "answer": "The Daughter of the Regiment",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ABBREV.",
+        "value": 600,
+        "question": "The abbreviation cc: near the bottom of a letter means this",
+        "answer": "copies to",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 1600,
+        "question": "Sennacherib, king of this country, made Nineveh his capital & built a magnificent new palace there",
+        "answer": "Assyria",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ITALIAN LITERATURE",
+        "value": 800,
+        "question": "\"Pinocchio\" author Carlo Lorenzini used this last name, taken from his family village",
+        "answer": "Collodi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 800,
+        "question": "This sea in the North Atlantic is delineated only by the plants that float on its surface",
+        "answer": "the Sargasso Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 800,
+        "question": "Frontiersman who won victories at Kaskaskia, Cahokia & Vincennes in the NW Territory",
+        "answer": "George Rogers Clark",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OPERA",
+        "value": 800,
+        "question": "English composer whose 1947 opera \"Albert Herring\" is about a young man, not a young fish",
+        "answer": "Benjamin Britten",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ABBREV.",
+        "value": 800,
+        "question": "Most int'l airlines arrive at their fares through IATA, which stands for this",
+        "answer": "the International Air Transport Association",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 1000,
+        "question": "This \"Great\" king of Persia was the son of Darius the Great & the Grandson of Cyrus the Great",
+        "answer": "Xerxes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ITALIAN LITERATURE",
+        "value": 1000,
+        "question": "This Existentialist Italian playwright won the Nobel Prize for Literature in 1934",
+        "answer": "Pirandello",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 1000,
+        "question": "In 1943 this Mexican volcano grew from a small depression to 1,000 ft. in height",
+        "answer": "Parícutin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 1000,
+        "question": "Prime minister during the war, some later called him \"the minister who lost America\"",
+        "answer": "Lord North",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OPERA",
+        "value": 1000,
+        "question": "Drops of blood from the ceiling reveal where an outlaw is hiding in this Puccini opera",
+        "answer": "The Girl of the Golden West",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ABBREV.",
+        "value": 1000,
+        "question": "WPA was the abbreviation for this Depression-era program",
+        "answer": "the Works Progress Administration (or the Works Projects Administration)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SPACE EXPLORATION",
+    "clue": "Next pair in the sequence:Gumdrop, Spider;Charlie Brown, Snoopy;...",
+    "answer": "the Columbia & the Eagle"
+  },
+  "gameId": "1429",
+  "gameDate": "Thursday, November 15, 1990"
+}

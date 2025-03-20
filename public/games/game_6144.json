@@ -1,0 +1,574 @@
+{
+  "title": "Show #7860 - Friday, November 9, 2018",
+  "jeopardyRound": {
+    "categories": [
+      "PICTURE THE PREZ",
+      "SCHOLARSHIPS",
+      "ALL THINGS DISNEY",
+      "WORD ORIGINS",
+      "ON THE MENU",
+      "WHAT KIND OF PERSON ARE YOU?"
+    ],
+    "clues": [
+      {
+        "category": "PICTURE THE PREZ",
+        "value": 200,
+        "question": "For many, his presidency was a time of great promise",
+        "answer": "JFK",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCHOLARSHIPS",
+        "value": 200,
+        "question": "Cecil Rhodes' scholars go to Oxford; Bill Gates' scholars go to this other British university",
+        "answer": "Cambridge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ALL THINGS DISNEY",
+        "value": 200,
+        "question": "Act 1 of this Broadway musical includes a young Elsa & a young Anna singing \"A Little Bit Of You\"",
+        "answer": "Frozen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 200,
+        "question": "From French words meaning \"defense against a fall\", it slows your fall when you jump from a plane",
+        "answer": "a parachute",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ON THE MENU",
+        "value": 200,
+        "question": "In 1979 it rolled out its Happy Meal--a burger, fries, cookies, a soft drink &, of course, a toy",
+        "answer": "McDonald's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WHAT KIND OF PERSON ARE YOU?",
+        "value": 200,
+        "question": "I'm not really a king or priest, I'm this 8-letter word, a person pretending to be another",
+        "answer": "an impostor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PICTURE THE PREZ",
+        "value": 400,
+        "question": "This president was a famous actor before going into public politics",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCHOLARSHIPS",
+        "value": 400,
+        "question": "First step to become a National Merit Scholar--take this 4-leter college prep test",
+        "answer": "the PSAT",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ALL THINGS DISNEY",
+        "value": 400,
+        "question": "The iconic geosphere known as Spaceship Earth is the symbol of this Disney World theme park",
+        "answer": "Epcot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "It may be Greek to you, but this type of organization for female college students gets is name from the Latin for \"sister\"",
+        "answer": "a sorority",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ON THE MENU",
+        "value": 400,
+        "question": "If you join this chain's eClub, you can enjoy a free Rooty Tooty Fresh 'n Fruity stack",
+        "answer": "IHOP",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WHAT KIND OF PERSON ARE YOU?",
+        "value": 400,
+        "question": "Medically, I'm this, so I take insulin to control my condition",
+        "answer": "diabetic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PICTURE THE PREZ",
+        "value": 600,
+        "question": "This Southerner was a governor before he was president",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCHOLARSHIPS",
+        "value": 600,
+        "question": "For more than 70 years, nearly a half million students have been helped by the UNCF, this college fund",
+        "answer": "the United Negro College Fund",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ALL THINGS DISNEY",
+        "value": 600,
+        "question": "Belle from \"Beauty and the Beast\" was a role model for this actress growing up & in 2017 she got to play her on film",
+        "answer": "Emma Watson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 600,
+        "question": "From the name of a Germanic people, it's criminally destroying or damaging someone's property",
+        "answer": "vandalism",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ON THE MENU",
+        "value": 600,
+        "question": "Starbucks' caramel this is espresso with steamed milk topped with caramel sauce",
+        "answer": "a macchiato",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WHAT KIND OF PERSON ARE YOU?",
+        "value": 600,
+        "question": "I'm this kind of scientist, a byword for a brainiac, so I study thrust & stability when going into space",
+        "answer": "a rocket scientist",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PICTURE THE PREZ",
+        "value": 800,
+        "question": "A Founding Father, he was a Francophile & a friend of scientific discovery",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCHOLARSHIPS",
+        "value": 800,
+        "question": "\"The Stuck at Prom\" scholarships go to students who make the best prom outfits from this strong handy tape",
+        "answer": "duct tape",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ALL THINGS DISNEY",
+        "value": 800,
+        "question": "Mal & Evie are 2 of the offspring of some pretty famous villains in this Disney Channel movie series",
+        "answer": "The Descendants",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "With large reflective eyes that seem to glow in the dark, this primate has a name meaning \"ghost\" or \"specter\"",
+        "answer": "a lemur",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ON THE MENU",
+        "value": 800,
+        "question": "At Chipotle your choice of meat includes steak, chicken, or this, braised & shredded pork",
+        "answer": "carnitas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WHAT KIND OF PERSON ARE YOU?",
+        "value": 800,
+        "question": "I'm this, the word for a person who takes part in a swim-bike-run competition, like the Ironman one",
+        "answer": "a triathlete",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PICTURE THE PREZ",
+        "value": 1000,
+        "question": "His military career did much to swell this 7th president's reputation",
+        "answer": "Jackson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCHOLARSHIPS",
+        "value": 1000,
+        "question": "It's going to take more than a baking soda volcano to win a  scholarship from the Google-sponsored contest called this event",
+        "answer": "the Google Science Fair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ALL THINGS DISNEY",
+        "value": 1000,
+        "question": "The name of this Disney resort that opened in Hawaii in 2011 means \"messenger of a chief\"",
+        "answer": "Aulani",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1000,
+        "question": "Jeans, blue or otherwise, owe their name to this Italian city",
+        "answer": "Genoa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ON THE MENU",
+        "value": 1000,
+        "question": "I'll have the \"You Pick Two\" from this bakery-cafe: make it the black bean soup & the bacon turkey bravo sandwich",
+        "answer": "Panera Bread",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WHAT KIND OF PERSON ARE YOU?",
+        "value": 1000,
+        "question": "A non-U.S. citizen who's a lawful permanent resident is also called a resident this",
+        "answer": "a resident alien",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POSSESSIVE BOOK TITLES",
+      "NATURE",
+      "PRIMETIME TV",
+      "MOUNTAINS",
+      "AN \"AX\"",
+      "TO GRIND"
+    ],
+    "clues": [
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 400,
+        "question": "The 1733 edition of this character's \"Almanack\" has wisdom like \"Great talkers, little doers\"",
+        "answer": "Poor Richard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NATURE",
+        "value": 400,
+        "question": "The Goliath birdeater, which eats rodents & reptiles as well as birds, is an extra large variety of this hairy spider",
+        "answer": "a tarantula",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PRIMETIME TV",
+        "value": 400,
+        "question": "Zoey Johnson on \"Black-ish\" has stepped out into her own show about going to college, this spin-off",
+        "answer": "Grown-ish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 400,
+        "question": "The altitudes of mountains, like 13,160 feet for Wheeler Peak, are measured as heights above this",
+        "answer": "sea level",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AN \"AX\"",
+        "value": 400,
+        "question": "This curved reed instrument was invented by a Belgian in the 1840s",
+        "answer": "a saxophone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TO GRIND",
+        "value": 400,
+        "question": "Keeping this body part \"to the grindstone\" means applying yourself",
+        "answer": "nose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 800,
+        "question": "Kids learn military skills to fight aliens called buggers--it's all this \"Game\"",
+        "answer": "Ender's Game",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NATURE",
+        "value": 800,
+        "question": "The weight of the General Sherman, a type of this tree in California, is equal to about 40 adult blue whales",
+        "answer": "a sequoia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PRIMETIME TV",
+        "value": 800,
+        "question": "DJ Khaled & Sean Combs guide & vote on the performers singing for a record contract on this competition show",
+        "answer": "The Four (or The Four: Battle for Stardom)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 800,
+        "question": "Molten rock that hardens but doesn't erupt forms this type of mountain, named for its rounded top",
+        "answer": "a dome mountain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AN \"AX\"",
+        "value": 800,
+        "question": "These can be spiral, elliptical or barred spiral, like NGC 1300",
+        "answer": "a galaxy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TO GRIND",
+        "value": 800,
+        "question": "Most waiters consider this tool a real grind when using it to add seasoning to salads",
+        "answer": "a pepper grinder (or pepper mill)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 1200,
+        "question": "E.B. White referred to this 1952 book of his as a \"hymn to the barn\"",
+        "answer": "Charlotte's Web",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NATURE",
+        "value": 1200,
+        "question": "Found in coastal waters & a favorite at aquariums, it's the lunar creature seen here",
+        "answer": "a moon jellyfish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PRIMETIME TV",
+        "value": 1200,
+        "question": "Seen here, Melissa Benoist plays the title heroine of this CW series",
+        "answer": "Supergirl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 1200,
+        "question": "The solar system's tallest volcano, Olympus Mons on this planet climbs 16 miles high",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AN \"AX\"",
+        "value": 1200,
+        "question": "The point in a plot with the greatest emotional intensity",
+        "answer": "the climax",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TO GRIND",
+        "value": 1200,
+        "question": "Grinding guides can help you efficiently get to level 10 in this Blizzard game set in Azeroth",
+        "answer": "World of Warcraft",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 1600,
+        "question": "2016 brought the 41st edition of this medical work about the body",
+        "answer": "Gray's Anatomy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NATURE",
+        "value": 1600,
+        "question": "These nocturnal beetles seen during summer make up the family Lampyridae",
+        "answer": "fireflies",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PRIMETIME TV",
+        "value": 1600,
+        "question": "Lili Reinhart & K.J. Apa have been nominated for Teen Choice Awards for their work on this show",
+        "answer": "Riverdale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 1600,
+        "question": "The Scottish highlands & these 1,500-mile-long mountains of the eastern U.S. are remnants of the same ancient range",
+        "answer": "the Appalachians",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AN \"AX\"",
+        "value": 1600,
+        "question": "This all-natural substance secreted by insects can be used when making your own rolled candles & they burn longer",
+        "answer": "beeswax",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TO GRIND",
+        "value": 1600,
+        "question": "To grind their food, birds use this organ that also starts with \"G\"",
+        "answer": "gizzard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POSSESSIVE BOOK TITLES",
+        "value": 2000,
+        "question": "This man's \"Legacy\" is subtitled \"True Stories of the List Survivors\"",
+        "answer": "Schindler's List (or Oskar Schindler)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NATURE",
+        "value": 2000,
+        "question": "It may be pleasing to look at, but stay away from this toxic herb--it's what killed Socrates",
+        "answer": "hemlock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PRIMETIME TV",
+        "value": 2000,
+        "question": "This MTV series \"Chronicled\" the fantasy exploits of Wil, Amberle & Eretria, who fight evil",
+        "answer": "The Shannara Chronicles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MOUNTAINS",
+        "value": 2000,
+        "question": "A rugged 1,500-mile range in western Siberia, these mountains form a traditional boundary between Europe & Asia",
+        "answer": "the Urals",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AN \"AX\"",
+        "value": 2000,
+        "question": "This infectious animal disease can be transmitted to humans by contaminated wool",
+        "answer": "anthrax",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TO GRIND",
+        "value": 2000,
+        "question": "Mt. Suribachi was the site of a famed flag raising on this WWII island; Meat Grinder Hill was also a tough battle there",
+        "answer": "Iwo Jima",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HOLIDAYS & OBSERVANCES",
+    "clue": "Puebla is the only Mexican state that officially celebrates this spring holiday that is now more popular in the U.S.",
+    "answer": "Cinco de Mayo"
+  },
+  "gameId": "7860",
+  "gameDate": "Friday, November 9, 2018"
+}

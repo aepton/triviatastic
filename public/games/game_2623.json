@@ -1,0 +1,574 @@
+{
+  "title": "Show #4173 - Wednesday, October 23, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "BIRTH OF A PRESIDENT",
+      "HERE'S TO YOU, MR. ROBINSON",
+      "STUPID ANSWERS",
+      "OCEAN LIFE",
+      "A WORLD OF PIRATES",
+      "\"R\"RRRRRRRRR"
+    ],
+    "clues": [
+      {
+        "category": "BIRTH OF A PRESIDENT",
+        "value": 200,
+        "question": "August 19, 1946 in Hope, Arkansas",
+        "answer": "Bill Clinton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HERE'S TO YOU, MR. ROBINSON",
+        "value": 200,
+        "question": "This Defoe character spends 26 years alone on an island but thanks God it's Friday for the next 2",
+        "answer": "Robinson Crusoe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 200,
+        "question": "At the 2004 Olympics, this event's course will run from Marathon to Athens",
+        "answer": "Marathon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OCEAN LIFE",
+        "value": 200,
+        "question": "The species Oceanites oceanicus isn't a fish but a petrel, one of these",
+        "answer": "bird",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "A WORLD OF PIRATES",
+        "value": 200,
+        "question": "Later dictator, this Roman was kidnapped by pirates while on a journey to Rhodes around 75 B.C.",
+        "answer": "Julius Caesar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"R\"RRRRRRRRR",
+        "value": 200,
+        "question": "Sometimes it's necessary to do this, meaning to reload your computer's operating system",
+        "answer": "reboot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BIRTH OF A PRESIDENT",
+        "value": 400,
+        "question": "May 8, 1884 in Lamar, Missouri",
+        "answer": "Harry S. Truman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HERE'S TO YOU, MR. ROBINSON",
+        "value": 400,
+        "question": "During his major league career, this trailblazer stole home 19 times",
+        "answer": "Jackie Robinson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 400,
+        "question": "First name of Leif Eriksson's father",
+        "answer": "Erik",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OCEAN LIFE",
+        "value": 400,
+        "question": "The manatee is distantly related to this land mammal that also uses its snout to push food into its mouth",
+        "answer": "elephant",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "A WORLD OF PIRATES",
+        "value": 400,
+        "question": "In 1815 Washington Irving planned to join Stephen Decatur on an expedition against these North African pirates",
+        "answer": "Barbary pirates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"R\"RRRRRRRRR",
+        "value": 400,
+        "question": "3 points on one throw in horseshoes",
+        "answer": "ringer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIRTH OF A PRESIDENT",
+        "value": 600,
+        "question": "February 12, 1809 in Hardin County, Kentucky",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HERE'S TO YOU, MR. ROBINSON",
+        "value": 600,
+        "question": "Not content merely penning \"My Guy\" in 1964, he \"miraculously\" followed it up with \"My Girl\" in 1965",
+        "answer": "Smokey Robinson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 600,
+        "question": "If you split 12 eggs into 2 equal groups, you'll have a total of this many eggs",
+        "answer": "12",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OCEAN LIFE",
+        "value": 600,
+        "question": "A Pacific northern bluefin one of these fish was tracked swimming 6,700 miles from Japan to Baja",
+        "answer": "tuna",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "A WORLD OF PIRATES",
+        "value": 600,
+        "question": "The costumes for this 1991 Steven Spielberg film included 350 pirate outfits for the extras alone",
+        "answer": "Hook",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"R\"RRRRRRRRR",
+        "value": 600,
+        "question": "The stems of these Asian palms are used to make wicker furniture",
+        "answer": "rattan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIRTH OF A PRESIDENT",
+        "value": 800,
+        "question": "February 6, 1911 in Tampico, Illinois",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HERE'S TO YOU, MR. ROBINSON",
+        "value": 800,
+        "question": "Teenage boys wept when this Black Crowe married film star Kate Hudson",
+        "answer": "Chris Robinson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 800,
+        "question": "The Dornford Yates mystery \"She Fell Among Thieves\" was the first presentation of this PBS series",
+        "answer": "Mystery!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OCEAN LIFE",
+        "value": 800,
+        "question": "(Sarah of the Clue Crew snorkeling in the Barrier Reef near Belize)  A poisonous saw-toothed spine on its tail gives this creature its name",
+        "answer": "stingray",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "A WORLD OF PIRATES",
+        "value": 800,
+        "question": "Born around 1645, this pirate captain was sent to England for trial & hanged in 1701",
+        "answer": "Captain Kidd",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"R\"RRRRRRRRR",
+        "value": 800,
+        "question": "In a memorable 1982 TV movie, Jean Stapleton played this first lady",
+        "answer": "Eleanor Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIRTH OF A PRESIDENT",
+        "value": 1000,
+        "question": "December 28, 1856 in Staunton, Virginia",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HERE'S TO YOU, MR. ROBINSON",
+        "value": 1000,
+        "question": "In \"The Ten Commandments\" this actor famously snarled, \"Where's your messiah now?\"",
+        "answer": "Edward G. Robinson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 1000,
+        "question": "Frankfurt is the main city on this German river",
+        "answer": "Main",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OCEAN LIFE",
+        "value": 1000,
+        "question": "Having flat teeth is one way that these animals differ from the related dolphins who have pointy triangular teeth",
+        "answer": "porpoises",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "A WORLD OF PIRATES",
+        "value": 1000,
+        "question": "Kevin Kline won a Tony Award for his role in this swashbuckling Gilbert & Sullivan operetta",
+        "answer": "The Pirates of Penzance",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"R\"RRRRRRRRR",
+        "value": 1000,
+        "question": "Ionesco play that ends, \"I'm the last man left, and I'm staying that way until the end.  I'm not capitulating!\"",
+        "answer": "Rhinoceros",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE BEAUTIFUL SOUTH",
+      "MUSIC VIDEOS",
+      "'70s U.S.",
+      "THE LETTER G",
+      "COLORFUL BOOKS",
+      "WORD ORIGINS"
+    ],
+    "clues": [
+      {
+        "category": "THE BEAUTIFUL SOUTH",
+        "value": 400,
+        "question": "In a letter on the capture of Vicksburg, Lincoln referred to it as the \"Father of Waters\"",
+        "answer": "Mississippi River",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSIC VIDEOS",
+        "value": 400,
+        "question": "An MTV \"Making the Video\" episode explored her \"Slave 4 U\" shoot",
+        "answer": "Britney Spears",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "'70s U.S.",
+        "value": 400,
+        "question": "Phyllis Schlafly was among those leading the fight for the defeat of this proposed constitutional amendment",
+        "answer": "ERA (Equal Rights Amendment)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE LETTER G",
+        "value": 400,
+        "question": "This cereal maker uses the letter G as its logo",
+        "answer": "General Mills",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COLORFUL BOOKS",
+        "value": 400,
+        "question": "It begins, \"I am SamI am SamSam I am\"",
+        "answer": "\"Green Eggs and Ham\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "This nation's name is an acronym partly standing for Punjab, Afghan, Kashmir, Sind & \"Tan\" from Baluchistan",
+        "answer": "Pakistan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BEAUTIFUL SOUTH",
+        "value": 800,
+        "question": "Nicknames for this city include \"The Metropolis of the New South\" & \"Derby Town\"",
+        "answer": "Louisville",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSIC VIDEOS",
+        "value": 800,
+        "question": "Her \"Never Too Far\" video sure \"Glitter\"ed",
+        "answer": "Mariah Carey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "'70s U.S.",
+        "value": 800,
+        "question": "In 1975 this comic strip won a Pulitzer Prize for editorial cartooning",
+        "answer": "Doonesbury",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE LETTER G",
+        "value": 800,
+        "question": "In slang terms, a G refers to this amount of money",
+        "answer": "thousand",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COLORFUL BOOKS",
+        "value": 800,
+        "question": "The 2 bestselling 1980s novels by Tom Clancy with \"Red\" in the title",
+        "answer": "\"Red Storm Rising\" & \"The Hunt for Red October\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "The hero of a Robert Burns poem lends his name to this woolen cap with a pompom or a tassel",
+        "answer": "Tam o' Shanter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BEAUTIFUL SOUTH",
+        "value": 1200,
+        "question": "(Hi, I'm Harry Connick Jr.)  At age 5 I played \"The Star-Spangled Banner\" at my dad's inauguration as D.A. of this \"Crescent City\", my hometown",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSIC VIDEOS",
+        "value": 1200,
+        "question": "(Hello, I'm \"Weird Al\" Yankovic.)  In this parody of a Coolio hit, I churn butter & rap with Florence Henderson",
+        "answer": "\"Amish Paradise\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "'70s U.S.",
+        "value": 1200,
+        "question": "In 1970 Massachusetts introduced no-fault auto insurance & this state came up with no-fault divorce",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE LETTER G",
+        "value": 1200,
+        "question": "In movie ratings, G stands for general; the G in PG & PG-13 stands for this",
+        "answer": "guidance",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COLORFUL BOOKS",
+        "value": 1200,
+        "question": "This Pulitzer-winning novel is told through letters written by a Southern black woman named Celie",
+        "answer": "\"The Color Purple\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1200,
+        "question": "Perhaps from the Italian for \"imperfect pearl\", it can be a style of music, art or architecture",
+        "answer": "Baroque",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BEAUTIFUL SOUTH",
+        "value": 1600,
+        "question": "Carter's Grove, a magnificent plantation home, is just 7 1/2 miles from the colonial area of this Virginia town",
+        "answer": "Williamsburg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSIC VIDEOS",
+        "value": 1600,
+        "question": "In this group's \"Emotion\" video, one of the members pours bleach over her ex's clothes",
+        "answer": "Destiny's Child",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "'70s U.S.",
+        "value": 1600,
+        "question": "Shortly after this U.S. president declared Iran \"an island of stability\", the Shah was overthrown",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE LETTER G",
+        "value": 1600,
+        "question": "This group that meets to discuss economic concerns consists of the U.S., Canada, Japan & 5 European nations",
+        "answer": "Group of 8",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COLORFUL BOOKS",
+        "value": 1600,
+        "question": "When we first met Alex in this 1962 novel, he's sitting with his 3 droogs in the Korova Milkbar",
+        "answer": "\"A Clockwork Orange\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1600,
+        "question": "The name of this large island in the Gulf of Alaska is derived from an Inuit word for \"island\"",
+        "answer": "Kodiak",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BEAUTIFUL SOUTH",
+        "value": 2000,
+        "question": "John Berendt's \"Midnight in the Garden of Good and Evil\" depicts some colorful characters in this Georgia city",
+        "answer": "Savannah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSIC VIDEOS",
+        "value": 2000,
+        "question": "David Arquette's role as a guard in Creed's \"What If\" spoofs his Deputy Dewey role in this film series",
+        "answer": "Scream",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "'70s U.S.",
+        "value": 2000,
+        "question": "A national inoculation campaign was held in 1976 to prevent an epidemic of this that never materialized",
+        "answer": "swine flu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE LETTER G",
+        "value": 2000,
+        "question": "In Internet domain name extensions, gg stands for Alderney, Sark & this other Channel Island",
+        "answer": "Guernsey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COLORFUL BOOKS",
+        "value": 2000,
+        "question": "Katie Arnoldi writes about the world of female bodybuilding in her novel \"Chemical...\" this",
+        "answer": "Pink",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 2000,
+        "question": "From the Latin for \"to raise\", it refers to the altitude of a city or mountain above sea level",
+        "answer": "elevation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICANA",
+    "clue": "It's made yearly by Tiffany out of 7 pounds of silver; since 2001 one in Baltimore has been touched by some 250,000 fans",
+    "answer": "The Vince Lombardi Trophy (emblematic of winning the Super Bowl)"
+  },
+  "gameId": "4173",
+  "gameDate": "Wednesday, October 23, 2002"
+}

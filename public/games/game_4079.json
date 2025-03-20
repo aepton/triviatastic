@@ -1,0 +1,574 @@
+{
+  "title": "Show #6544 - Thursday, February 14, 2013",
+  "jeopardyRound": {
+    "categories": [
+      "GREAT BRITON",
+      "TIE ONE",
+      "\"TAS\"-MANIA",
+      "AISLE OF MAN",
+      "CANARIES",
+      "SURROUNDED BY WATER"
+    ],
+    "clues": [
+      {
+        "category": "GREAT BRITON",
+        "value": 200,
+        "question": "A tramp abroad, he moved to the U.S. in 1913, left for Europe in the '50s & was back in the U.S. in 1972 for an honorary Oscar",
+        "answer": "(Charlie) Chaplin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TIE ONE",
+        "value": 200,
+        "question": "If you want to tie up a dogie trying to vamoose, use this trusty rope",
+        "answer": "a lasso",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"TAS\"-MANIA",
+        "value": 200,
+        "question": "Another word for disaster; in drama, it's a synonym for denouement",
+        "answer": "catastrophe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AISLE OF MAN",
+        "value": 200,
+        "question": "The aisle of man in the drugstore may have Nair's men's line, which removes this while you shower",
+        "answer": "hair",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CANARIES",
+        "value": 200,
+        "question": "A \"landslide\" couldn't bring down \"The Nicks Fix\", this singer's official website",
+        "answer": "Stevie Nicks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SURROUNDED BY WATER",
+        "value": 200,
+        "question": "Alcatraz Island",
+        "answer": "San Francisco Bay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GREAT BRITON",
+        "value": 400,
+        "question": "In 1997 a memorial fund in her name was established to continue her humanitarian work",
+        "answer": "Princess Diana",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TIE ONE",
+        "value": 400,
+        "question": "Tie up the bad guy's hands with cable ties, also known by this speedy name",
+        "answer": "zip ties",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"TAS\"-MANIA",
+        "value": 400,
+        "question": "Hypokalemia is a deficiency of this mineral",
+        "answer": "potassium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AISLE OF MAN",
+        "value": 400,
+        "question": "Some guys like to slap on Eternity by this denim designer",
+        "answer": "Calvin Klein",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CANARIES",
+        "value": 400,
+        "question": "This soulful Brit's album \"21\" was the top seller of 2011 & 2012",
+        "answer": "Adele",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SURROUNDED BY WATER",
+        "value": 400,
+        "question": "Ile de la Cite",
+        "answer": "the Seine (River)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GREAT BRITON",
+        "value": 600,
+        "question": "British policemen owe their nickname--\"bobbies\"--to this statesman",
+        "answer": "Robert Peel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TIE ONE",
+        "value": 600,
+        "question": "The \"squirrel runs around a tree\" method is a trusty one for teaching kids how to do this",
+        "answer": "tie one's shoes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"TAS\"-MANIA",
+        "value": 600,
+        "question": "It's the group of threadlike strings on the top of a stalk of corn",
+        "answer": "a tassel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AISLE OF MAN",
+        "value": 600,
+        "question": "Esquire says Kyoku for Men's sake-infused this is \"like the old-fashioned stuff you'd spread on with a brush\"",
+        "answer": "shaving cream",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CANARIES",
+        "value": 600,
+        "question": "\"Bootylicious\" making it into the OED was one of the 30 most memorable moments for this \"Bootylicious\" singer & writer",
+        "answer": "Beyoncé Knowles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SURROUNDED BY WATER",
+        "value": 600,
+        "question": "South Padre Island",
+        "answer": "the Gulf of Mexico",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GREAT BRITON",
+        "value": 800,
+        "question": "At 13, instead of being bar mitzvahed, this Jewish-born future prime minister was baptized in the Church of England",
+        "answer": "Disraeli",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TIE ONE",
+        "value": 800,
+        "question": "Tie up one of these using a rope called a painter",
+        "answer": "a boat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"TAS\"-MANIA",
+        "value": 800,
+        "question": "This Mexican dish whose name means \"little meats\" is shredded pork",
+        "answer": "carnitas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AISLE OF MAN",
+        "value": 800,
+        "question": "The name of this \"Essence of Man\" cologne & deodorant means \"dry\" in French",
+        "answer": "Brut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CANARIES",
+        "value": 800,
+        "question": "She appeared at the 2011 MTV VMAs as her male alter ego Jo Calderone",
+        "answer": "Lady Gaga",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SURROUNDED BY WATER",
+        "value": 800,
+        "question": "Venice--this sea",
+        "answer": "the Adriatic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GREAT BRITON",
+        "value": 1000,
+        "question": "Pictured here circa 1702, she was the last Stuart monarch",
+        "answer": "(Queen) Anne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TIE ONE",
+        "value": 1000,
+        "question": "Tie into a sturdy climbing rope from this 3-letter outdoor store founded in 1938",
+        "answer": "REI",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"TAS\"-MANIA",
+        "value": 1000,
+        "question": "This lake is considered the main source of the Mississippi River",
+        "answer": "Itasca",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AISLE OF MAN",
+        "value": 1000,
+        "question": "This company says its Excite shower gel will have \"your angel falling\"",
+        "answer": "Axe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CANARIES",
+        "value": 1000,
+        "question": "This singer has a fragrance line called Harajuku Lovers",
+        "answer": "(Gwen) Stefani",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SURROUNDED BY WATER",
+        "value": 1000,
+        "question": "Chechen Island--this salt lake",
+        "answer": "the Caspian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PIN THE TALE ON THE WRITER",
+      "LET'S ROCK",
+      "\"BABY\" MOVIES",
+      "THE OLD FARMER'S ALMANAC 2013",
+      "U.S. POLITICS",
+      "PUNNY & NOT-PUNNY DEFINITIONS"
+    ],
+    "clues": [
+      {
+        "category": "PIN THE TALE ON THE WRITER",
+        "value": 400,
+        "question": "\"The Metamorphosis\"(1915)",
+        "answer": "(Franz) Kafka",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LET'S ROCK",
+        "value": 400,
+        "question": "This stone came before \"lock\" in the name of an olden type of musket",
+        "answer": "flint",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"BABY\" MOVIES",
+        "value": 400,
+        "question": "Amy Poehler acts as a surrogate for Tina Fey",
+        "answer": "Baby Mama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE OLD FARMER'S ALMANAC 2013",
+        "value": 400,
+        "question": "Your 2013 weather forecast: expect fewer tornadoes but be ready for these to threaten the Gulf & Atlantic Coasts in June",
+        "answer": "hurricanes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. POLITICS",
+        "value": 400,
+        "question": "A New Year's Day 2013 House vote kept the economy from sliding over what was known as this",
+        "answer": "the fiscal cliff",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PUNNY & NOT-PUNNY DEFINITIONS",
+        "value": 400,
+        "question": "\"The period before a short stroll\", or the introductory statement of the U.S. Constitution",
+        "answer": "the preamble",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PIN THE TALE ON THE WRITER",
+        "value": 800,
+        "question": "\"The Dead\"(1914)",
+        "answer": "(James) Joyce",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LET'S ROCK",
+        "value": 800,
+        "question": "Formed from sea creatures' shells, the limestone that makes up the White Cliffs of Dover is this one of the 3 classes of rock",
+        "answer": "sedimentary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"BABY\" MOVIES",
+        "value": 800,
+        "question": "Hilary Swank stars as Maggie Fitzgerald",
+        "answer": "Million Dollar Baby",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE OLD FARMER'S ALMANAC 2013",
+        "value": 800,
+        "question": "Fight off colds, flu & vampires by eating cloves of this--it helps boost the immune system",
+        "answer": "garlic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "U.S. POLITICS",
+        "value": 800,
+        "question": "They're the two New York governors seen here",
+        "answer": "Mario & Andrew Cuomo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PUNNY & NOT-PUNNY DEFINITIONS",
+        "value": 800,
+        "question": "\"In favor of footballer Howie or actress Shelley\", or to keep something going",
+        "answer": "prolong",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PIN THE TALE ON THE WRITER",
+        "value": 1200,
+        "question": "\"The Adventure of the Speckled Band\"(1892)",
+        "answer": "Arthur Conan Doyle",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LET'S ROCK",
+        "value": 1200,
+        "question": "World-famous granite boulder with \"1620\" carved on it",
+        "answer": "Plymouth Rock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"BABY\" MOVIES",
+        "value": 1200,
+        "question": "Diane Keaton plays a yuppie who inherits an infant",
+        "answer": "Baby Boom",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE OLD FARMER'S ALMANAC 2013",
+        "value": 1200,
+        "question": "Coming quite early, the first day of this Jewish holiday coincides with Thanksgiving",
+        "answer": "Hanukkah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. POLITICS",
+        "value": 1200,
+        "question": "In North Dakota, 13,452 signatures on one of these put an initiative on the state ballot",
+        "answer": "petition",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PUNNY & NOT-PUNNY DEFINITIONS",
+        "value": 1200,
+        "question": "\"Put on that frock again\", or right a wrong",
+        "answer": "redress",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PIN THE TALE ON THE WRITER",
+        "value": 1600,
+        "question": "\"A Good Man is Hard to Find\"(1953)",
+        "answer": "Flannery O'Connor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LET'S ROCK",
+        "value": 1600,
+        "question": "Starting about 4 1/2 miles below the ocean floor, this layer of rock in the Earth is over 1,800 miles thick",
+        "answer": "the mantle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"BABY\" MOVIES",
+        "value": 1600,
+        "question": "Ben Affleck directed this tale about the kidnapping of a little girl",
+        "answer": "Gone Baby Gone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE OLD FARMER'S ALMANAC 2013",
+        "value": 1600,
+        "question": "Philematology is the study of this; osculation is the act of doing it",
+        "answer": "kissing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. POLITICS",
+        "value": 1600,
+        "question": "(Sarah of the Clue Crew shows a U.S. map on the monitor.)  1968 was the last time a third-party candidate captured a state; Nixon won 32 red states, Humphrey took 13 blues, & this independent won a block of five Southern states",
+        "answer": "George Wallace",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PUNNY & NOT-PUNNY DEFINITIONS",
+        "value": 1600,
+        "question": "\"A colossal brim of a cap\", or an overseeing manager",
+        "answer": "a supervisor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PIN THE TALE ON THE WRITER",
+        "value": 2000,
+        "question": "\"Young Goodman Brown\"(1835)",
+        "answer": "Nathaniel Hawthorne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LET'S ROCK",
+        "value": 2000,
+        "question": "Black jasper is used as this type of \"stone\": rub a gold alloy on it & the streak color tells you the gold content",
+        "answer": "a touchstone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"BABY\" MOVIES",
+        "value": 2000,
+        "question": "Cary Grant & Katharine Hepburn grapple with a pet leopard",
+        "answer": "Bringing Up Baby",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE OLD FARMER'S ALMANAC 2013",
+        "value": 2000,
+        "question": "Occurring twice a month, it's the 6-letter hard-to-spell term for when the Sun, Moon & Earth are in alignment",
+        "answer": "syzygy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. POLITICS",
+        "value": 2000,
+        "question": "Chairmen of this body have included Bob Dole, Lee Atwater &, currently, Reince Priebus",
+        "answer": "Republican National Committee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PUNNY & NOT-PUNNY DEFINITIONS",
+        "value": 2000,
+        "question": "\"A school class for a prisoner\", or a large open space for crowds at an airport",
+        "answer": "a concourse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MUSEUMS",
+    "clue": "Its collection includes a 16\" high architects' model of its first permanent building, opened in 1939",
+    "answer": "MoMA (the Museum of Modern Art)"
+  },
+  "gameId": "6544",
+  "gameDate": "Thursday, February 14, 2013"
+}

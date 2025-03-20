@@ -1,0 +1,574 @@
+{
+  "title": "Show #7167 - Tuesday, November 10, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "MOONS OF THE SOLAR SYSTEM",
+      "OKLAHOMA!",
+      "THIS & THAT",
+      "COLORFUL LANGUAGE",
+      "JUST PASSING THROUGH",
+      "DIVINE COMEDIES"
+    ],
+    "clues": [
+      {
+        "category": "MOONS OF THE SOLAR SYSTEM",
+        "value": 200,
+        "question": "Greek for \"fear\" & \"terror\", Phobos & Deimos are the moons of this \"belligerent\" planet",
+        "answer": "Mars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OKLAHOMA!",
+        "value": 200,
+        "question": "It's the state's most populous city without \"city\" in its name",
+        "answer": "Tulsa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 200,
+        "question": "Because the Roman god Vulcan was all about fire, these houses of worship for him had to be outside city walls",
+        "answer": "temples",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "COLORFUL LANGUAGE",
+        "value": 200,
+        "question": "Let's roll out this proverbial item for the arrival of a high-ranking dignitary",
+        "answer": "the red carpet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "JUST PASSING THROUGH",
+        "value": 200,
+        "question": "In geometry it's a straight line passing through a circle's center & meeting the circumference at each end",
+        "answer": "diameter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DIVINE COMEDIES",
+        "value": 200,
+        "question": "Anthony Anderson worries that his African-American family has lost touch with its culture in this ABC comedy",
+        "answer": "Black-ish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MOONS OF THE SOLAR SYSTEM",
+        "value": 400,
+        "question": "The smallest of Jupiter's 4 Galilean moons, it's named not for a continent but for a woman abducted by Zeus",
+        "answer": "Europa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OKLAHOMA!",
+        "value": 400,
+        "question": "This state nickname comes from an April 22, 1889 land rush",
+        "answer": "the Sooner State",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 400,
+        "question": "It was on a Friday that this literary character gained a \"faithful, loving, sincere servant\"",
+        "answer": "Robinson Crusoe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "COLORFUL LANGUAGE",
+        "value": 400,
+        "question": "2-word term for an airplane's flight recorder",
+        "answer": "a black box",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "JUST PASSING THROUGH",
+        "value": 400,
+        "question": "In 2015 Army officers Griest & Haver passed through Ga. woods & Fla. swamps & are the first women to become these",
+        "answer": "rangers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DIVINE COMEDIES",
+        "value": 400,
+        "question": "Much of this '70s sitcom took place in the garage of the Sunshine Cab Company",
+        "answer": "Taxi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MOONS OF THE SOLAR SYSTEM",
+        "value": 600,
+        "question": "Discovered in 1787, Titania & Oberon are this planet's largest moons",
+        "answer": "Uranus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OKLAHOMA!",
+        "value": 600,
+        "question": "This first state capital was named for a judge, not a folk singer",
+        "answer": "Guthrie",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 600,
+        "question": "As of 2013 Hawaii law lets landlords get an extra deposit for possible damages from renters who have these",
+        "answer": "pets",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "COLORFUL LANGUAGE",
+        "value": 600,
+        "question": "It's a contagious form of acute conjunctivitis",
+        "answer": "pinkeye",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "JUST PASSING THROUGH",
+        "value": 600,
+        "question": "Most of these smallest blood vessels are so small that only 1 blood cell can pass through them at a time",
+        "answer": "capillaries",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DIVINE COMEDIES",
+        "value": 600,
+        "question": "Shades of Kramer? Schmidt's first name on this Zooey Deschanel series hasn't been revealed yet",
+        "answer": "New Girl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MOONS OF THE SOLAR SYSTEM",
+        "value": 800,
+        "question": "(Kelly of the Clue Crew shows an astronomical animation on the monitor.)  Due to its odd, dramatically-inclined orbit, astronomers believe Neptune's moon, Nereid, may be a captured one of these",
+        "answer": "asteroid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OKLAHOMA!",
+        "value": 800,
+        "question": "In 2001 Oklahoma voters approved one of these antiunion laws permitted by the Taft-Hartley Act",
+        "answer": "a right-to-work act",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 800,
+        "question": "In 1869 Indiana chose the Lafayette area for its new land grant university & named it for this man who gave $150,000",
+        "answer": "(John) Purdue",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "COLORFUL LANGUAGE",
+        "value": 800,
+        "question": "They're the foamy waves seen here",
+        "answer": "whitecaps",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "JUST PASSING THROUGH",
+        "value": 800,
+        "question": "Longitude zero passes through this London borough where the Royal Observatory is located",
+        "answer": "Greenwich",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DIVINE COMEDIES",
+        "value": 800,
+        "question": "Portia de Rossi as Lindsay on this show: \"It's vodka... it goes bad once it's opened\"",
+        "answer": "Arrested Development",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MOONS OF THE SOLAR SYSTEM",
+        "value": 1000,
+        "question": "This shortest-named moon of Jupiter has volcanic regions that are hotter than the surface of Mercury",
+        "answer": "Io",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OKLAHOMA!",
+        "value": 1000,
+        "question": "It's the state animal & its first national preserve was founded in Oklahoma in 1907",
+        "answer": "the buffalo (or the bison)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 1000,
+        "question": "Found on the north bank of the Thames River, it's officially Her Majesty's Royal Palace & Fortress",
+        "answer": "the Tower of London",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "COLORFUL LANGUAGE",
+        "value": 1000,
+        "question": "It's a term for a naive person or a newcomer",
+        "answer": "greenhorn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "JUST PASSING THROUGH",
+        "value": 1000,
+        "question": "A shoelace passes through this small hole",
+        "answer": "eyelet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DIVINE COMEDIES",
+        "value": 1000,
+        "question": "He makes us laugh as a sergeant on \"Brooklyn Nine-Nine\"",
+        "answer": "Terry Crews",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "NICKNAMES FOR FEMINISTS",
+      "SAME MOVIE & SONG TITLE",
+      "CITIES ON THE RIVER",
+      "HOLIDAYS & OBSERVANCES",
+      "CRYPTIC CROSSWORD CLUES",
+      "DANTE'S DIVINE COMEDY"
+    ],
+    "clues": [
+      {
+        "category": "NICKNAMES FOR FEMINISTS",
+        "value": 400,
+        "question": "Named for Ms. Anthony, the \"Susie B.\" introduced in 1979 was one of these",
+        "answer": "a dollar coin (a silver dollar accepted)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SAME MOVIE & SONG TITLE",
+        "value": 400,
+        "question": "Movie:starred Jason Biggs;song:about Buddy Holly",
+        "answer": "American Pie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CITIES ON THE RIVER",
+        "value": 400,
+        "question": "Nong Khai &Phnom Penh",
+        "answer": "the Mekong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 400,
+        "question": "On this March holiday, the consumption of Guinness beer more than doubles to 13 million pints worldwide",
+        "answer": "St. Patrick's Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CRYPTIC CROSSWORD CLUES",
+        "value": 400,
+        "question": "Stuffed animal attacked by bats at a party(6)",
+        "answer": "a piñata",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DANTE'S DIVINE COMEDY",
+        "value": 400,
+        "question": "This middle section of \"The Divine Comedy\" is a place of purification or temporary punishment",
+        "answer": "Purgatory",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NICKNAMES FOR FEMINISTS",
+        "value": 800,
+        "question": "Planned Parenthood's Maggie Award is named after her",
+        "answer": "(Margaret) Sanger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SAME MOVIE & SONG TITLE",
+        "value": 800,
+        "question": "Movie:ballerina goes bonkers;song:by Megadeth",
+        "answer": "Black Swan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CITIES ON THE RIVER",
+        "value": 800,
+        "question": "Varanasi &Allahabad",
+        "answer": "the Ganges",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 800,
+        "question": "This org. that changes 1 letter in the month's name urges sporting a mustache in November for men's health awareness",
+        "answer": "Movember",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CRYPTIC CROSSWORD CLUES",
+        "value": 800,
+        "question": "Forwarding address for a sled dog(4)",
+        "answer": "mush",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DANTE'S DIVINE COMEDY",
+        "value": 800,
+        "question": "This woman, Dante's guide through Paradise, dazzles him at first sight in the poem, just as she did in real life",
+        "answer": "Beatrice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NICKNAMES FOR FEMINISTS",
+        "value": 1200,
+        "question": "A biography of this 19th century woman includes the line \"news of Vicky's candidacy traveled across the country\"",
+        "answer": "Victoria Woodhull",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SAME MOVIE & SONG TITLE",
+        "value": 1200,
+        "question": "Movie:Will Smith & Martin Lawrence are cops;song:used as the theme to \"Cops\"",
+        "answer": "Bad Boys",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CITIES ON THE RIVER",
+        "value": 1200,
+        "question": "Parintins &Manaus",
+        "answer": "the Amazon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 1200,
+        "question": "Southern Living magazine says you can play this game on Halloween w/o the water & mess by hanging the fruit from strings",
+        "answer": "bobbing for apples",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CRYPTIC CROSSWORD CLUES",
+        "value": 1200,
+        "question": "This masked man is always at home in Dodger Stadium(6)",
+        "answer": "umpire",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DANTE'S DIVINE COMEDY",
+        "value": 1200,
+        "question": "\"The Divine Comedy\" is made up of 100 of these poetic divisions whose name is from the Latin for \"singing\"",
+        "answer": "cantos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NICKNAMES FOR FEMINISTS",
+        "value": 1600,
+        "question": "In the 1920s Rene Maheu nicknamed her Le Castor, \"the Beaver\", for being so hardworking",
+        "answer": "Simone de Beauvoir",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SAME MOVIE & SONG TITLE",
+        "value": 1600,
+        "question": "Movie:Jimmy Stewart has trouble with heights;song:Bono counts oddly in Spanish",
+        "answer": "Vertigo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CITIES ON THE RIVER",
+        "value": 1600,
+        "question": "Kingston &Trois-Rivieres",
+        "answer": "the St. Lawrence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 1600,
+        "question": "It became an official French holiday in 1880, 91 years after the event that inspired it",
+        "answer": "Bastille Day",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CRYPTIC CROSSWORD CLUES",
+        "value": 1600,
+        "question": "A touching scene at airport security(7)",
+        "answer": "a patdown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DANTE'S DIVINE COMEDY",
+        "value": 1600,
+        "question": "Dante is led through hell by this Roman poet, whom he calls \"my master and my author\"",
+        "answer": "Virgil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NICKNAMES FOR FEMINISTS",
+        "value": 2000,
+        "question": "Of this woman's 1848 statement demanding the vote, Lucretia Mott said, \"Lizzie, thee will make us ridiculous\"",
+        "answer": "(Elizabeth Cady) Stanton",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SAME MOVIE & SONG TITLE",
+        "value": 2000,
+        "question": "Movie:featuring Dirk Diggler; song:disco hit by Heatwave",
+        "answer": "Boogie Nights",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CITIES ON THE RIVER",
+        "value": 2000,
+        "question": "Toledo &Aranjuez",
+        "answer": "the Tagus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "HOLIDAYS & OBSERVANCES",
+        "value": 2000,
+        "question": "This November observance, when girls court guys, began with a 1937 Li'l Abner comic strip",
+        "answer": "Sadie Hawkins Day",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CRYPTIC CROSSWORD CLUES",
+        "value": 2000,
+        "question": "More work from 1516(6)",
+        "answer": "Utopia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DANTE'S DIVINE COMEDY",
+        "value": 2000,
+        "question": "The divine number of 3 is present in many aspects of the work, including this rhyme scheme that means \"third rhyme\" in Italian",
+        "answer": "terza rima",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "INAUGURAL ADDRESSES",
+    "clue": "His first address spoke of \"the present happy state\", \"our peculiar felicity\" & our \"happy government\"",
+    "answer": "James Monroe"
+  },
+  "gameId": "7167",
+  "gameDate": "Tuesday, November 10, 2015"
+}

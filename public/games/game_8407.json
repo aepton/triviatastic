@@ -1,0 +1,574 @@
+{
+  "title": "Show #2250 - Friday, May 20, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD CITIES",
+      "SPORTS",
+      "MUSICAL INSTRUMENTS",
+      "ANATOMY",
+      "SHOPPING",
+      "\"P.S.\""
+    ],
+    "clues": [
+      {
+        "category": "WORLD CITIES",
+        "value": 100,
+        "question": "This city's Irish name, Luimneach, means \"bare land\", not \"humorous 5-line verse\"",
+        "answer": "Limerick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "In bowling you score a Dutch 200 by alternating strikes & these marks",
+        "answer": "spares",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 100,
+        "question": "\"My Dog Has Fleas\" is a little ditty used to tune this Hawaiian instrument",
+        "answer": "a ukulele",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANATOMY",
+        "value": 100,
+        "question": "Exophthalmos is the bulging of these from their sockets",
+        "answer": "the eyes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING",
+        "value": 100,
+        "question": "Built in 1828, the Arcade in this Rhode Island capital is the oldest indoor shopping mall in the U.S.",
+        "answer": "Providence",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"P.S.\"",
+        "value": 100,
+        "question": "He was famous for playing the bumbling Inspector Jacques Clouseau",
+        "answer": "Peter Sellers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 200,
+        "question": "The rose-colored buildings of Jaipur make it the \"Pink City\" of this country",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "Like his father, Bobby, Brett Hull is a big name in this sport",
+        "answer": "hockey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 200,
+        "question": "Types of this instrument include the snare, tenor & timpani",
+        "answer": "drums",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANATOMY",
+        "value": 200,
+        "question": "It's any hollow body cavity, not just the 4 in the bones surrounding the nose",
+        "answer": "sinuses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING",
+        "value": 200,
+        "question": "Shopping for snowflake ornaments? This N.Y. City museum has produced a new one every year since 1971",
+        "answer": "the Metropolitan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"P.S.\"",
+        "value": 200,
+        "question": "In the Christian calendar, it begins Holy Week",
+        "answer": "Palm Sunday",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 300,
+        "question": "It may surprise you to learn that Lausanne in this country was originally a Celtic settlement",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "It's the sport in which traveling is a violation",
+        "answer": "basketball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 300,
+        "question": "With 7 pedals & over 40 strings, it has one of the largest ranges of any orchestral instrument",
+        "answer": "a harp",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANATOMY",
+        "value": 300,
+        "question": "The cruciate ligaments provide stability for this, your largest joint",
+        "answer": "the knee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING",
+        "value": 300,
+        "question": "\"A Star is Worn\" in L.A. sells stars' clothing like this actor's priest costume from \"The Thorn Birds\"",
+        "answer": "Richard Chamberlain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"P.S.\"",
+        "value": 300,
+        "question": "The girlfriend of one of Buddy Holly's Crickets gave her name to this 1957 hit",
+        "answer": "\"Peggy Sue\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 400,
+        "question": "This Austrian city's name is German for \"Bridge on the Inn River\"",
+        "answer": "Innsbruck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "In 1993 pitcher Anthony Young of this team set a new major league record, losing 27 straight games",
+        "answer": "the Mets",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 800,
+        "question": "A standard string quartet has 2 violins plus these 2 members of the violin family",
+        "answer": "the cello & viola",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANATOMY",
+        "value": 400,
+        "question": "Since there are 2 of these enclosed in pleural sacs, would 1 be in a singular sac?",
+        "answer": "lungs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING",
+        "value": 400,
+        "question": "The word millinery is derived from the name of this city, a fashion center for centuries",
+        "answer": "Milan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"P.S.\"",
+        "value": 400,
+        "question": "It's another name for Kielbasa",
+        "answer": "Polish sausage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 500,
+        "question": "One entrance to the funicular in this French Canadian city is inside Louis Jolliet's restored home",
+        "answer": "Quebec (City)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "She called her heptathlon win at the '93 World Track & Field Championships \"my greatest triumph\"",
+        "answer": "Jackie Joyner-Kersee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 500,
+        "question": "Clarence Leo Fender, who died in 1991, was among the first makers of this instrument",
+        "answer": "an electric guitar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANATOMY",
+        "value": 500,
+        "question": "It's what you \"feel\" when you press the radial artery against the radius",
+        "answer": "your pulse",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHOPPING",
+        "value": 500,
+        "question": "The Drop of Doom is a thrill ride in this Canadian province's West Edmonton Mall, so you can shop 'til you drop",
+        "answer": "Alberta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"P.S.\"",
+        "value": 500,
+        "question": "George Vancouver named this inlet in Washington state for a lieutenant in his 1792 expedition",
+        "answer": "Puget Sound",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HAIL TO THE CHIEF",
+      "THEATRE",
+      "TRANSPORTATION",
+      "MYTHOLOGY",
+      "U.S. GEOGRAPHY",
+      "POE TALES"
+    ],
+    "clues": [
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 200,
+        "question": "In a 1975 book he described himself as a Southerner, a farmer & a lover of Bob Dylan's songs",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THEATRE",
+        "value": 200,
+        "question": "In 1988 Ingmar Bergman's production of \"Hamlet\" in this language played in Brooklyn",
+        "answer": "Swedish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 200,
+        "question": "In 1992 a new high-speed train began running between Madrid & Seville in this country",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "Nessus, who was one of these creatures, tried to horse around with Hercules' wife; Hercules killed him",
+        "answer": "a centaur",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "Ohio's Lexington Plain is an extension of the Bluegrass region of this state",
+        "answer": "Kentucky",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POE TALES",
+        "value": 200,
+        "question": "Story that ends, \"I admit the deed!—tear up the planks! Here, here!—it is the beating of his hideous heart!\"",
+        "answer": "\"The Tell-Tale Heart\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 400,
+        "question": "He was sworn into office 48 years to the day after his grandfather",
+        "answer": "Benjamin Harrison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THEATRE",
+        "value": 400,
+        "question": "In 1993 Maggie Smith starred in a revival of this playwright's \"The Importance of Being Earnest\"",
+        "answer": "Oscar Wilde",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 400,
+        "question": "World Book calls it \"the most elementary means of transportation\"",
+        "answer": "walking",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "In Greek mythology, this wife of Zeus is the goddess of childbirth",
+        "answer": "Hera",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "Because of the way Nevada is angled, this, its capital city, is farther west than Los Angeles",
+        "answer": "Carson City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POE TALES",
+        "value": 400,
+        "question": "It could have been titled \"The Stolen Correspondence\"",
+        "answer": "\"The Purloined Letter\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 600,
+        "question": "For injuries sustained off the Solomon Islands during WWII, he received a Purple Heart",
+        "answer": "John F. Kennedy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THEATRE",
+        "value": 600,
+        "question": "Act I of this musical opens at a cinema in Buenos Aires in 1952",
+        "answer": "Evita",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 600,
+        "question": "At one time almost all submarines had this type of engine, like most big trucks",
+        "answer": "diesel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 600,
+        "question": "According to Homer, Circe is the daughter of this sun god",
+        "answer": "Helios",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "The highest point in the 48 contiguous states is this California mountain",
+        "answer": "Mount Whitney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POE TALES",
+        "value": 600,
+        "question": "In this story C. Auguste Dupin deduces that 2 Paris homicides were committed by an orangutan",
+        "answer": "\"The Murders in the Rue Morgue\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 800,
+        "question": "Some called him the \"Red Fox of Kinderhook\"",
+        "answer": "Martin Van Buren",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THEATRE",
+        "value": 800,
+        "question": "In 1993 this musical set in a Latin American prison captured 7 Tonys",
+        "answer": "Kiss of the Spider Woman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "In 1840 this company's first steamship, the Britannia, made its first transatlantic crossing",
+        "answer": "Cunard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 800,
+        "question": "These frightful bird-women were known for their sickening smell",
+        "answer": "harpies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "Sharing its name with a brand of flatware, it's the largest lake entirely within New York State",
+        "answer": "Oneida",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POE TALES",
+        "value": 1600,
+        "question": "Fortunato, a wine connoisseur, is entombed with stone & mortar by Montressor in this tale",
+        "answer": "\"The Cask of Amontillado\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HAIL TO THE CHIEF",
+        "value": 1000,
+        "question": "In 1881 America had 3 presidents: Hayes, Garfield & this man",
+        "answer": "Chester Arthur",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THEATRE",
+        "value": 1000,
+        "question": "In a play by Chekhov, Ivan Voinitsky is this title character",
+        "answer": "Uncle Vanya",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1000,
+        "question": "The airport with the world's largest terminal is this one in Atlanta",
+        "answer": "Hartsfield International Airport",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1000,
+        "question": "Hercules stole this Amazon queen's girdle",
+        "answer": "Hippolyta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 2000,
+        "question": "It's the northwesternmost &  second largest of the New England states",
+        "answer": "Vermont",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POE TALES",
+        "value": 1000,
+        "question": "This story is told from the point of view of a prisoner of the Spanish Inquisition in Toledo",
+        "answer": "\"The Pit and the Pendulum\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EXPLORERS",
+    "clue": "He published the aptly titled memoir \"High Adventure\" in 1955",
+    "answer": "Sir Edmund Hillary"
+  },
+  "gameId": "2250",
+  "gameDate": "Friday, May 20, 1994"
+}

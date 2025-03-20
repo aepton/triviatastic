@@ -1,0 +1,574 @@
+{
+  "title": "Show #7141 - Monday, October 5, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "WHERE AM I?",
+      "A BLANK EXPRESSION",
+      "NAME THAT BASEBALL STAT, STAT!",
+      "MEDICAL AKAs",
+      "COLOR MY WORLD",
+      "STILL ALICE IN WONDERLAND"
+    ],
+    "clues": [
+      {
+        "category": "WHERE AM I?",
+        "value": 200,
+        "question": "(Sarah of the Clue Crew reports.)  I've traveled a long way to this continent that's surrounded by what's sometimes called the Southern Ocean",
+        "answer": "Antarctica",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 200,
+        "question": "Give it a try:\"Nothing ventured, nothing ____\"",
+        "answer": "gained",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT BASEBALL STAT, STAT!",
+        "value": 200,
+        "question": "Babe Ruth, 1921:59 these",
+        "answer": "home runs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL AKAs",
+        "value": 200,
+        "question": "Pertussis is more familiar as this cough, for the sound it makes",
+        "answer": "whooping cough",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 200,
+        "question": "Idiomatically, one of these is misleading or distracting",
+        "answer": "a red herring",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STILL ALICE IN WONDERLAND",
+        "value": 200,
+        "question": "Grin & name this feline character who can disappear & reappear at will",
+        "answer": "the Cheshire Cat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew reports.)  I'm in this city which was officially renamed Ho Chi Minh City in 1976, but which everyone calls by this former, more familiar name",
+        "answer": "Saigon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 400,
+        "question": "From Henny Youngman:\"Take my ____, please! \"",
+        "answer": "wife",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT BASEBALL STAT, STAT!",
+        "value": 400,
+        "question": "Rickey Henderson, career:1,406 these",
+        "answer": "stolen bases",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL AKAs",
+        "value": 400,
+        "question": "Rubeola is the measles; this similar word refers to German measles",
+        "answer": "rubella",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 400,
+        "question": "The main culprit in the greenhouse effect that's causing global warming is the rise of this gas in the atmosphere",
+        "answer": "carbon dioxide",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "STILL ALICE IN WONDERLAND",
+        "value": 400,
+        "question": "At a party, Alice encounters this lagomorph with a month in his name",
+        "answer": "the March Hare",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 600,
+        "question": "(Kelly of the Clue Crew reports.)  I'm on Aviano Air Base, which is 50 miles north of Venice in the Dolomite Range of these mountains",
+        "answer": "the Alps",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 600,
+        "question": "A proverb:\"You can't make a ____ ____ out of a sow's ear\"",
+        "answer": "a silk purse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT BASEBALL STAT, STAT!",
+        "value": 600,
+        "question": "New York Mets, 1962:120 these",
+        "answer": "losses",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL AKAs",
+        "value": 600,
+        "question": "Herpes zoster is another name for this disease that's caused by the same virus as chickenpox",
+        "answer": "shingles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 600,
+        "question": "In the 19-teens this soda was advertised as getting flavors from the groves of Southern California",
+        "answer": "Orange Crush",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "STILL ALICE IN WONDERLAND",
+        "value": 600,
+        "question": "Alice's first time in Wonderland concludes with a trial regarding the theft of these pastries",
+        "answer": "the Queen of Hearts' tarts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 800,
+        "question": "(Jimmy of the Clue Crew reports.)  I'm in the Plaza Mayor in this South American city founded by a conquistador in 1535",
+        "answer": "Lima",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 800,
+        "question": "Much ado about nothing:\"A ____ in a teapot\"",
+        "answer": "a tempest",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT BASEBALL STAT, STAT!",
+        "value": 800,
+        "question": "Cal Ripken Jr., 1982-1998:2,632 these",
+        "answer": "consecutive games played",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL AKAs",
+        "value": 800,
+        "question": "This disease that infected dogs can transmit to humans is also called lyssa",
+        "answer": "rabies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 800,
+        "question": "A possession whose care & upkeep are an excessive financial burden",
+        "answer": "a white elephant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "STILL ALICE IN WONDERLAND",
+        "value": 800,
+        "question": "Take a swing & see if you can name this satiric magazine for which Alice illustrator John Tenniel was cartoonist",
+        "answer": "Punch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WHERE AM I?",
+        "value": 1000,
+        "question": "(Kelly of the Clue Crew reports.)  I'm in this largest township in Johannesburg, South Africa; once notorious for repression, now setting trends in fashion & art",
+        "answer": "Soweto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A BLANK EXPRESSION",
+        "value": 1000,
+        "question": "The simplest explanation is preferred:\"____'s razor\"",
+        "answer": "Occam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NAME THAT BASEBALL STAT, STAT!",
+        "value": 1000,
+        "question": "Sandy Koufax, 1965:382 these",
+        "answer": "strikeouts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MEDICAL AKAs",
+        "value": 1000,
+        "question": "Tetanus is also called this, typically the first sign of the disease",
+        "answer": "lockjaw",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COLOR MY WORLD",
+        "value": 1000,
+        "question": "For what presumably runs through their veins, this phrase means members of the aristocracy",
+        "answer": "blue bloods",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "STILL ALICE IN WONDERLAND",
+        "value": 1000,
+        "question": "This character is described to Alice as the thing the soup is made from",
+        "answer": "the Mock Turtle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "DON'T DRINK THE WATER",
+      "WOMEN ARTISTS",
+      "MAGAZINES",
+      "NEWS OF THE 21st CENTURY",
+      "HOME MOVIES",
+      "\"HOW\" GOES IT"
+    ],
+    "clues": [
+      {
+        "category": "DON'T DRINK THE WATER",
+        "value": 400,
+        "question": "Declared biologically dead in 1957, this London river won a restoration award in 2010",
+        "answer": "the Thames",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ARTISTS",
+        "value": 400,
+        "question": "In 2015 MoMA presented its first exhibition devoted exclusively to the work of this widow of a Beatle",
+        "answer": "Yoko Ono",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "Walter Annenberg helped us tune in by founding it in 1953",
+        "answer": "TV Guide",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEWS OF THE 21st CENTURY",
+        "value": 400,
+        "question": "On June 5, 2012 Wisconsin made him the first governor in U.S. history to survive a recall vote",
+        "answer": "Scott Walker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HOME MOVIES",
+        "value": 400,
+        "question": "Young Kevin (Macaulay Culkin) gets left behind when his family heads to France for Christmas in this 1990 film",
+        "answer": "Home Alone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" GOES IT",
+        "value": 400,
+        "question": "The expertise needed to accomplish a task",
+        "answer": "know-how",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DON'T DRINK THE WATER",
+        "value": 800,
+        "question": "In 2007 Hindu holy men protested the filth in this river; a scientist said it \"had turned the color of Coca-Cola\"",
+        "answer": "the Ganges",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ARTISTS",
+        "value": 800,
+        "question": "She was close to 80 & trying to earn a little money when her paintings were discovered at a Hoosick Falls, N.Y. drugstore",
+        "answer": "Grandma Moses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 800,
+        "question": "A special photo-filled February issue sells 10 times as many copies as its other weekly issues",
+        "answer": "Sports Illustrated",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEWS OF THE 21st CENTURY",
+        "value": 800,
+        "question": "The largest ever marine oil spill happened when a rig leased to this company sank in 2010",
+        "answer": "BP",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HOME MOVIES",
+        "value": 800,
+        "question": "The fourth film in this series was subtitled \"The Voyage Home\"",
+        "answer": "Star Trek",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" GOES IT",
+        "value": 800,
+        "question": "This artillery piece gets its name from an old Czech word for catapult",
+        "answer": "a howitzer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DON'T DRINK THE WATER",
+        "value": 1200,
+        "question": "In 2015 a rock dam was removed from this type of site in Colorado, turning the Animas River yellow & metallic",
+        "answer": "a (gold) mine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ARTISTS",
+        "value": 1200,
+        "question": "Seen with one of her paintings, that's the real Margaret Keane, whose story was told in this 2014 film",
+        "answer": "Big Eyes",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1200,
+        "question": "It launched in 1973 during the feminist movement as an answer to Hef",
+        "answer": "Playgirl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEWS OF THE 21st CENTURY",
+        "value": 1200,
+        "question": "Firsts for this new German chancellor in 2005 included first East German in the post",
+        "answer": "(Angela) Merkel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HOME MOVIES",
+        "value": 1200,
+        "question": "Reese Witherspoon returns to the Southern town of Pigeon Creek & her estranged husband in this romantic comedy",
+        "answer": "Sweet Home Alabama",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" GOES IT",
+        "value": 1200,
+        "question": "A short jacket resembling the Army uniform style popularized by the 34th president",
+        "answer": "an Eisenhower jacket",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DON'T DRINK THE WATER",
+        "value": 1600,
+        "question": "This big Florida lake fed by the Kissimmee River has doubled its phosphorus content over the last 50 years",
+        "answer": "Lake Okeechobee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ARTISTS",
+        "value": 1600,
+        "question": "In 1938, Alice Neel moved to this 2-word area of Manhattan & began to paint its Puerto Rican community",
+        "answer": "Spanish Harlem",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1600,
+        "question": "E.B. White once edited its \"Talk of the Town\" section",
+        "answer": "The New Yorker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NEWS OF THE 21st CENTURY",
+        "value": 1600,
+        "question": "Ending a 100-year dispute, in 2011 this univ. returned thousands of artifacts to Peru that were taken from Machu Picchu",
+        "answer": "Yale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HOME MOVIES",
+        "value": 1600,
+        "question": "Patrick Swayze was no ordinary bouncer--his character had a degree in philosophy in this film",
+        "answer": "Road House",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" GOES IT",
+        "value": 1600,
+        "question": "A blunder, perhaps one made by a monkey of genus Alouatta",
+        "answer": "a howler",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DON'T DRINK THE WATER",
+        "value": 2000,
+        "question": "In 1969 Time said, \"Chocolate-brown, oily... it oozes rather than flows\" after this Ohio river caught fire",
+        "answer": "the Cuyahoga",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WOMEN ARTISTS",
+        "value": 2000,
+        "question": "She got down to a little monkey business for the self-portrait seen here",
+        "answer": "Frida Kahlo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 2000,
+        "question": "172-year-old British financial mag that's also a job",
+        "answer": "The Economist",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NEWS OF THE 21st CENTURY",
+        "value": 2000,
+        "question": "(ABC News anchor David Muir gives the clue.)  As the Arab Spring made its way into Egypt in January of 2011, I reported from this pivotal public gathering place where protests eventually brought down 2 Egyptian leaders",
+        "answer": "Tahrir Square",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HOME MOVIES",
+        "value": 2000,
+        "question": "The title of a Cary Grant film is this character \"Builds His Dream House\"",
+        "answer": "Mr. Blandings",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"HOW\" GOES IT",
+        "value": 2000,
+        "question": "In a jazz standard, this 4-word title question follows \"Somewhere there's heaven\"",
+        "answer": "\"How High The Moon\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORD HISTORY",
+    "clue": "From the Latin for \"buy back\", it once referred to buying a slave's freedom & today can refer to being saved from sin",
+    "answer": "redeem (or redemption)"
+  },
+  "gameId": "7141",
+  "gameDate": "Monday, October 5, 2015"
+}

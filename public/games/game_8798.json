@@ -1,0 +1,574 @@
+{
+  "title": "Show #2017 - Tuesday, May 18, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "SHARKS",
+      "LIBERTY SYMBOLS",
+      "NOTORIOUS",
+      "WORLD CITIES",
+      "FOOD & DRINK",
+      "CHARACTERS IN FILM"
+    ],
+    "clues": [
+      {
+        "category": "SHARKS",
+        "value": 100,
+        "question": "In a shark's mouth, new rows of these regularly replace old ones",
+        "answer": "teeth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LIBERTY SYMBOLS",
+        "value": 100,
+        "question": "It now has its own pavilion north of Independence Hall",
+        "answer": "the Liberty Bell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 100,
+        "question": "When Andrew & Abby Borden were killed, the maid was in the house, too, but only this woman was arrested",
+        "answer": "Lizzie Borden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 100,
+        "question": "Founded in 1608, it's Canada's oldest major city",
+        "answer": "Quebec",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "Mexican wedding cakes, also known as Russian tea cakes, are usually rolled in the powdered type of this",
+        "answer": "sugar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CHARACTERS IN FILM",
+        "value": 100,
+        "question": "Fast Eddie Felson,Sarah Packard &Minnesota Fats",
+        "answer": "The Hustler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SHARKS",
+        "value": 200,
+        "question": "Sharks lack an air bladder, so most of them must do this constantly to keep from sinking",
+        "answer": "swim",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LIBERTY SYMBOLS",
+        "value": 200,
+        "question": "This mission has been called \"The Cradle of Texas Liberty\"",
+        "answer": "the Alamo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 200,
+        "question": "Legend says Stede Bonnet, a retired army officer, became a pirate to escape a nagging one of these",
+        "answer": "a wife",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 200,
+        "question": "In 1930 Constantinople was officially renamed this",
+        "answer": "Istanbul",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Liptauer cheese, which is seasoned with paprika, originated in this country",
+        "answer": "Hungary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CHARACTERS IN FILM",
+        "value": 200,
+        "question": "Max von Mayerling,Joe Gillis &Norma Desmond",
+        "answer": "Sunset Boulevard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SHARKS",
+        "value": 300,
+        "question": "This shark organ was an important source of vitamin A until the late 1940s",
+        "answer": "the liver",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LIBERTY SYMBOLS",
+        "value": 300,
+        "question": "In the 17th century this 1215 document became a symbol of English liberty",
+        "answer": "the Magna Carta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 300,
+        "question": "Kim Philby was recruited as a Soviet agent while attending this British university",
+        "answer": "Cambridge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 300,
+        "question": "The Italian scenic route Autostrada del Sole begins in this northern city famous for its opera house",
+        "answer": "Milan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "A mexicana & a mexicola are 2 of the many cocktails that contain this liquor",
+        "answer": "tequila",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CHARACTERS IN FILM",
+        "value": 300,
+        "question": "Captain Daniel Gregg,Miles Fairley &Lucy Muir",
+        "answer": "The Ghost and Mrs. Muir",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SHARKS",
+        "value": 400,
+        "question": "This colorfully-named shark is the largest predatory type",
+        "answer": "the Great White",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LIBERTY SYMBOLS",
+        "value": 400,
+        "question": "Upon being given their freedom, ancient Roman slaves were given a liberty or Phrygian one of these to wear",
+        "answer": "a cap",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 400,
+        "question": "The Jonestown Massacre took place in this country in 1978",
+        "answer": "Guyana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 400,
+        "question": "Named for the chief Norse god, Odense, Denmark is the birthplace of this fairy tale author",
+        "answer": "(Hans Christian) Andersen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "This zesty cake is named for its ingredients; many cooks use cinnamon, cloves & nutmeg",
+        "answer": "spice cake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CHARACTERS IN FILM",
+        "value": 400,
+        "question": "Edwin Flagg,Blanche Hudson &Jane Hudson",
+        "answer": "What Ever Happened to Baby Jane?",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SHARKS",
+        "value": 500,
+        "question": "Sharks have sensory organs called ampullae of Lorenzini which are sensitive to this",
+        "answer": "electricity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LIBERTY SYMBOLS",
+        "value": 500,
+        "question": "Daniel Webster said liberty & this were \"now and forever, one and inseparable!\"",
+        "answer": "union",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 500,
+        "question": "It was the real last name of Butch Cassidy & Bonnie of Bonnie & Clyde",
+        "answer": "Parker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD CITIES",
+        "value": 1000,
+        "question": "This teeming city of eastern India served as the country's capital from 1772 to 1912",
+        "answer": "Calcutta",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "Macaroons often contain coconut or this paste",
+        "answer": "almond paste",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CHARACTERS IN FILM",
+        "value": 500,
+        "question": "Cuthbert J. Twillie,Flower Belle Lee& the Masked Bandit",
+        "answer": "My Little Chickadee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SIBERIA",
+      "HISTORIC NAMES",
+      "MEDICINE",
+      "DEMOCRATS",
+      "AUTHORS",
+      "BY THE \"BOOK\""
+    ],
+    "clues": [
+      {
+        "category": "SIBERIA",
+        "value": 200,
+        "question": "The Chukchi tribe is known for raising this dog breed",
+        "answer": "huskies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "This conqueror's father, the Duke of Normandy, was known as Robert the Devil",
+        "answer": "William the Conqueror",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEDICINE",
+        "value": 200,
+        "question": "The 1st of these instruments used to listen to internal body sounds was made by Rene Laennec c. 1815",
+        "answer": "a stethoscope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATS",
+        "value": 200,
+        "question": "Groomed for public office by his father, he became Chicago's mayor in 1989",
+        "answer": "Richard (M.) Daley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "Like Billy Pilgrim, hero of \"Slaughterhouse-Five\", he was at the destruction of Dresden",
+        "answer": "(Kurt) Vonnegut",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BY THE \"BOOK\"",
+        "value": 200,
+        "question": "A judge who hands out the maximum sentence to a lawbreaker is said to have done this",
+        "answer": "throw the book at him",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SIBERIA",
+        "value": 400,
+        "question": "At age 17 this \"White Fang\" author headed to Japan & Siberia to hunt seals",
+        "answer": "Jack London",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "Maria Nagoi, the seventh & last wife of this dreadful czar, oulived him",
+        "answer": "Ivan the Terrible",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEDICINE",
+        "value": 400,
+        "question": "In 1906 this organization established a bureau to investigate quackery & charlatanry",
+        "answer": "the AMA (the American Medical Association)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATS",
+        "value": 400,
+        "question": "In 1991 Edwin Edwards, a 3-term governor of this state, beat David Duke to return to office",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "He wrote \"The Thin Man\" at a hotel managed by author Nathanael West",
+        "answer": "Dashiell Hammett",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BY THE \"BOOK\"",
+        "value": 400,
+        "question": "Some men keep one of these \"small\" items containing the phone numbers & addresses of available women",
+        "answer": "a little black book",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SIBERIA",
+        "value": 600,
+        "question": "This Karamazov creator was once exiled to Siberia",
+        "answer": "Dostoyevsky",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 600,
+        "question": "Mongol who reportedly said, \"A man's highest joy in life is to break his enemies\"",
+        "answer": "Genghis Khan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEDICINE",
+        "value": 600,
+        "question": "Also called Bright's disease, acute nephritis is a disease that affects this organ",
+        "answer": "the kidney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATS",
+        "value": 1200,
+        "question": "In 1982, with no previous political experience, he won the Nebraska governorship",
+        "answer": "Bob Kerrey",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 600,
+        "question": "The original first name of this author of \"Riders of the Purple Sage\" was Pearl",
+        "answer": "Zane Grey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BY THE \"BOOK\"",
+        "value": 600,
+        "question": "In April 1926 \"Lolly Willowes, or the Loving Huntsman\" became its first selection",
+        "answer": "the Book of the Month Club",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SIBERIA",
+        "value": 800,
+        "question": "This lake is about the size of Belgium",
+        "answer": "Baikal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 800,
+        "question": "Justinian I, who ruled this empire in the 6th century, married an actress with a dubious past",
+        "answer": "the Byzantine Empire (the Eastern Roman Empire)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEDICINE",
+        "value": 800,
+        "question": "This Baltimore university's hospital opened in 1889 & its medical school, 4 years later",
+        "answer": "Johns Hopkins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATS",
+        "value": 800,
+        "question": "This Democrat died in 1925, less than a week after winning the Scopes \"Monkey Trial\"",
+        "answer": "William Jennings Bryan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 800,
+        "question": "William Carlos Williams wrote an introduction to his 1956 collection \"Howl and Other Poems\"",
+        "answer": "(Allen) Ginsberg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BY THE \"BOOK\"",
+        "value": 800,
+        "question": "Also known by this title, the \"I Ching\" is one of the central texts of Confucianism",
+        "answer": "Book of Changes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SIBERIA",
+        "value": 1000,
+        "question": "Until 1984 it was the only thoroughfare from one end of Siberia to the other",
+        "answer": "the Trans-Siberian Railroad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 2000,
+        "question": "This Dutch governor of New Netherland had a wooden leg decorated with silver bands",
+        "answer": "Peter Stuyvesant",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEDICINE",
+        "value": 1000,
+        "question": "This ancient Greek physician first described the action of muscles in respiration",
+        "answer": "Galen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATS",
+        "value": 1000,
+        "question": "In 1977, after 16 years as Senate majority leader, this Montana Democrat became ambassador to Japan",
+        "answer": "(Mike) Mansfield",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1000,
+        "question": "Like Oskar, hero of \"The Tin Drum\", this author was born in Danzig",
+        "answer": "Gunter Grass",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BY THE \"BOOK\"",
+        "value": 1000,
+        "question": "The first edition of this liturgy of the Church of England was published in 1549",
+        "answer": "The Book of Common Prayer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MUSEUMS",
+    "clue": "This U.S. city is the home of a permanent historical exhibit called \"The Sixth Floor\"",
+    "answer": "Dallas"
+  },
+  "gameId": "2017",
+  "gameDate": "Tuesday, May 18, 1993"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1930 - Friday, January 15, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "BIOLOGY",
+      "ETIQUETTE",
+      "\"MY\" TV",
+      "CANALS",
+      "BUSINESS & INDUSTRY",
+      "ODDS & ENDS"
+    ],
+    "clues": [
+      {
+        "category": "BIOLOGY",
+        "value": 100,
+        "question": "Arachnids have 8 legs; most amphibians have this many",
+        "answer": "4",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 100,
+        "question": "The current edition of \"Emily Post's Etiquette\" says these are still the \"magic\" words",
+        "answer": "thank you & please",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"MY\" TV",
+        "value": 100,
+        "question": "Ray Walston played an alien & \"Uncle\" to Bill Bixby on this hit series",
+        "answer": "My Favorite Martian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CANALS",
+        "value": 100,
+        "question": "In 1907 Teddy Roosevelt appointed Col. Geo. Washington Goethals as this canal's chief engineer",
+        "answer": "the Panama Canal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 100,
+        "question": "Ding dong! This firm was founded in 1886 as the California perfume company",
+        "answer": "Avon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 100,
+        "question": "This city's Buckman Tavern was the rallying place of the Minutemen on April 19, 1775",
+        "answer": "Lexington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 200,
+        "question": "In cows this organ consists of 4 parts: the abomasum, omasum, rumen & reticulum",
+        "answer": "the stomach",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 200,
+        "question": "These, sent to people not invited to a wedding, should not be mailed before the wedding day",
+        "answer": "announcements",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"MY\" TV",
+        "value": 200,
+        "question": "During the 1969-'70 season on this show, Fred MacMurray married his son's teacher, Beverly Garland",
+        "answer": "My Three Sons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CANALS",
+        "value": 200,
+        "question": "This canal extends 105 miles from Port Said in the north to Port Taufiq in the south",
+        "answer": "the Suez",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 200,
+        "question": "This bleach company's other products include Liquid-Plumr & Hidden Valley Ranch salad dressing",
+        "answer": "Clorox",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 200,
+        "question": "Hostilities between Spain & France ended in 1659 upon the signing of the Peace of this mountain range",
+        "answer": "the Pyrenees",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 300,
+        "question": "This purine derivative found in coffee beans is not only a stimulant, it's a diuretic",
+        "answer": "caffeine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 300,
+        "question": "At the dinner table, guests wait until the hostess has opened hers before unfolding theirs",
+        "answer": "the napkin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"MY\" TV",
+        "value": 300,
+        "question": "Bachelors Paul Reiser & Greg Evigan shared custody of a daughter on this TV sitcom",
+        "answer": "My Two Dads",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CANALS",
+        "value": 300,
+        "question": "With governor De Witt Clinton aboard, the Seneca chief was the 1st boat to travel the entire length of this canal",
+        "answer": "the Erie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 300,
+        "question": "The world's largest spice company, it sells its products under the Schilling label in the West",
+        "answer": "McCormick",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 300,
+        "question": "From a Turkish word for \"ruler\", it's now used as a sign of respect in Afghanistan & other parts of central Asia",
+        "answer": "khan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 400,
+        "question": "An animal described as edentulous doesn't have these",
+        "answer": "teeth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 400,
+        "question": "You should do it when the star appears & at the end of an act, but not usually in a Sunday church service",
+        "answer": "applaud",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"MY\" TV",
+        "value": 400,
+        "question": "In the '50s Gale Storm rose to stardom as the lead character on this comedy",
+        "answer": "My Little Margie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CANALS",
+        "value": 400,
+        "question": "In 67 A.D., Nero began a canal over the Isthmus of Corinth in this country; a successful canal opened in 1893",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 400,
+        "question": "In the 1980s this Canadian liquor company bought Tropicana Juices & sold its Paul Masson winery",
+        "answer": "Seagram's",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 400,
+        "question": "This country occupies more than 36% of Latin America's land area & has about 1/3 of its population",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1000,
+        "question": "This organ removes excess glucose from the blood & stores it as glycogen",
+        "answer": "the liver",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 500,
+        "question": "When this 4-word phrase appears in a death notice, it usually refers you to a charity to donate to",
+        "answer": "in lieu of flowers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"MY\" TV",
+        "value": 500,
+        "question": "This series starring William Windom was based loosely on the life & writings of James Thurber",
+        "answer": "My World ... and Welcome to It",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CANALS",
+        "value": 500,
+        "question": "France's Canal du Midi allows travel from the Mediterranean to this bay",
+        "answer": "the Bay of Biscay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 500,
+        "question": "Over 1/2 of the men's electric shavers sold are by this company; Remington is second",
+        "answer": "Norelco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ODDS & ENDS",
+        "value": 500,
+        "question": "The \"MI\" in Britain's MI-5 stands for this, which some call an oxymoron",
+        "answer": "military intelligence",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD WAR I",
+      "MUSEUMS",
+      "REPUBLICANS",
+      "ENGLISH POETRY",
+      "U.S. STATES",
+      "THE COLUMN"
+    ],
+    "clues": [
+      {
+        "category": "WORLD WAR I",
+        "value": 200,
+        "question": "About 40 of these German airships were shot down in combat during the War",
+        "answer": "zeppelins",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 200,
+        "question": "This telephone inventor's homestead in Brantford, Ontario is now a museum",
+        "answer": "(Alexander Graham) Bell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 200,
+        "question": "This general had voted in only 1 presidential election before being nominated in 1868",
+        "answer": "Ulysses Grant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ENGLISH POETRY",
+        "value": 200,
+        "question": "In one of his poems, this Tudor king said his hobbies were hunting, singing & dancing, not getting married",
+        "answer": "Henry VIII",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 200,
+        "question": "Jim Woodruff Dam forms Lake Seminole, which lies on the border of Georgia & this state",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE COLUMN",
+        "value": 200,
+        "question": "In Judges 16:29-30 he took down the pillars of the community",
+        "answer": "Samson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD WAR I",
+        "value": 400,
+        "question": "The British developed this weapon of war using tractors from U.S. farms",
+        "answer": "tanks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 400,
+        "question": "The Museum of Westward Expansion beneath this St. Louis landmark has exhibits on Western history",
+        "answer": "the (Gateway) Arch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 400,
+        "question": "In 1991 this 88-year- old S.C. senator & his 44-year-old wife separated after 22 years of marriage",
+        "answer": "Strom Thurmond",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ENGLISH POETRY",
+        "value": 400,
+        "question": "The angel Michael leads Adam & Eve out of the Garden of Eden in this John Milton epic",
+        "answer": "Paradise Lost",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 400,
+        "question": "An abundance of the Douglas fir helps make this state, not Washington, the leading lumber state",
+        "answer": "Oregon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE COLUMN",
+        "value": 400,
+        "question": "A statue of Trajan formerly topped Trajan's column in Rome; in 1588 it was replaced by one of this saint",
+        "answer": "St. Peter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD WAR I",
+        "value": 600,
+        "question": "Charles Dawes, the chief purchasing agent for U.S. troop supplies, was elected this in 1924",
+        "answer": "vice president",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 600,
+        "question": "Many electric-powered trolleys can be found in the Shore Line Trolley Museum in East Haven in this state",
+        "answer": "Connecticut",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 1200,
+        "question": "This presidential son ran 3 times for the GOP presidential nomination, the last time in 1952",
+        "answer": "Robert Taft",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ENGLISH POETRY",
+        "value": 600,
+        "question": "\"The Corsair\", this lord's 1814 poem about a pirate, was widely rumored to be a self-portrait",
+        "answer": "(Lord) Byron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 600,
+        "question": "This whale noted for its \"songs\" is Hawaii's state marine mammal",
+        "answer": "the humpback whale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE COLUMN",
+        "value": 600,
+        "question": "A column on display in the Louvre has his code carved on it, in Akkadian",
+        "answer": "Hammurabi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD WAR I",
+        "value": 800,
+        "question": "This British officer helped the Arabs defeat the Turks & capture Damascus for the Allies",
+        "answer": "T.E. Lawrence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 800,
+        "question": "This city is home to the Ringling Museum of Art",
+        "answer": "Sarasota",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 800,
+        "question": "This Georgian entered the House in 1979 & became minority whip in 1989",
+        "answer": "Newt Gingrich",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ENGLISH POETRY",
+        "value": 1600,
+        "question": "Shortly before his death, this \"Death Be Not Proud\" poet posed for a portrait in a funeral shroud",
+        "answer": "John Donne",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 800,
+        "question": "This \"Sister Carrie\" author helped write Indiana's state song, \"On The Banks Of The Wabash, Far Away\"",
+        "answer": "(Theodore) Dreiser",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE COLUMN",
+        "value": 800,
+        "question": "The Romans added the Tuscan & Composite styles to these 3 styles developed by the Greeks",
+        "answer": "the Doric, Ionic & Corinthian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD WAR I",
+        "value": 1000,
+        "question": "In 11 months, the French lost half a million men in successfully defending this fortress city",
+        "answer": "Verdun",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 1000,
+        "question": "This art gallery in Florence, Italy was originally built to be the Medicis' office",
+        "answer": "the Uffizi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 1000,
+        "question": "This Wyoming senator is probably best known as author of the 1986 Immigration Reform Act",
+        "answer": "(Alan) Simpson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ENGLISH POETRY",
+        "value": 1000,
+        "question": "This playwright's 1593 poem \"Venus and Adonis\" is called \"Ovidian\" because it was inspired by Ovid",
+        "answer": "Shakespeare",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 1000,
+        "question": "In 1803 it became the first state carved out of the Northwest Territory",
+        "answer": "Ohio",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE COLUMN",
+        "value": 1000,
+        "question": "It's the architectural term for a row of columns",
+        "answer": "a colonnade",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WOMEN",
+    "clue": "In 1971 she was honored by Pope Paul VI with the first Pope John XXIII Peace Prize",
+    "answer": "Mother Teresa"
+  },
+  "gameId": "1930",
+  "gameDate": "Friday, January 15, 1993"
+}

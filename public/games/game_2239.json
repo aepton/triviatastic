@@ -1,0 +1,574 @@
+{
+  "title": "Show #5358 - Wednesday, December 19, 2007",
+  "jeopardyRound": {
+    "categories": [
+      "ISLANDS",
+      "TV SHOWS BY CHARACTERS",
+      "PARTS OF SPEECH",
+      "ATTORNEYS GENERAL",
+      "WHACK",
+      "A MOLE"
+    ],
+    "clues": [
+      {
+        "category": "ISLANDS",
+        "value": 200,
+        "question": "In 1866 this large island became politically united with British Columbia",
+        "answer": "Vancouver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY CHARACTERS",
+        "value": 200,
+        "question": "Kim Bauer,Tony Almeida,President David Palmer",
+        "answer": "24",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PARTS OF SPEECH",
+        "value": 200,
+        "question": "Dream, when you're feeling blue; dream, that's the thing to do:dream",
+        "answer": "verb",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ATTORNEYS GENERAL",
+        "value": 200,
+        "question": "Robert Jackson served as prosecutor in the Nuremberg Trials after serving as this president's Attorney General",
+        "answer": "FDR",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHACK",
+        "value": 200,
+        "question": "An anarchist named Bresci killed King Umberto of this country in 1900",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "A MOLE",
+        "value": 200,
+        "question": "Famous for her mole, this supermodel was once married to Richard Gere",
+        "answer": "Cindy Crawford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 400,
+        "question": "Though ceded in 1898, this Pacific island didn't become a U.S. territory until 1950",
+        "answer": "Guam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY CHARACTERS",
+        "value": 400,
+        "question": "Desmond David Hume,Jin-Soo Kwon,Claire Littleton",
+        "answer": "Lost",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PARTS OF SPEECH",
+        "value": 400,
+        "question": "Rodney Dangerfield said, \"When I was born, I was so ugly the doctor slapped my mother\":ugly",
+        "answer": "adjective",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ATTORNEYS GENERAL",
+        "value": 400,
+        "question": "She was Bill Clinton's third choice for A.G.; the first 2 were withdrawn",
+        "answer": "Janet Reno",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHACK",
+        "value": 400,
+        "question": "Mexico, 1940:Looks like this former No. 2 man under Lenin in Russia got whacked, literally",
+        "answer": "Trotsky",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "A MOLE",
+        "value": 400,
+        "question": "The cult movie \"El Topo\", or \"The Mole\", got distribution based on this \"Imagine\" Beatle's recommendation",
+        "answer": "John Lennon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 600,
+        "question": "Until the 1950s, this island off French Guiana was used as a penal colony",
+        "answer": "Devil's Island",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY CHARACTERS",
+        "value": 600,
+        "question": "Gabrielle,Lynette,Bree,Susan",
+        "answer": "Desperate Housewives",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PARTS OF SPEECH",
+        "value": 600,
+        "question": "So when you're happy (hooray!) or sad (aw!) or frightened (eek!) or mad (rats!):hooray, aw, eek, rats",
+        "answer": "interjection",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ATTORNEYS GENERAL",
+        "value": 600,
+        "question": "The 1988 resig. of this pres.'s A.G. Ed Meese coincided with a report that Meese had \"probably violated the criminal law\"",
+        "answer": "Reagan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHACK",
+        "value": 600,
+        "question": "Brother Ike took a powder as Billy of this family was gunned down at the O.K. Corral",
+        "answer": "the Clantons",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "A MOLE",
+        "value": 600,
+        "question": "The mole variety of this insect has forelegs adapated for shoveling: the males can chirp a mean tune, too",
+        "answer": "a cricket",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 800,
+        "question": "Divided between 2 countries, it's the largest island in the Pacific",
+        "answer": "New Guinea",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY CHARACTERS",
+        "value": 800,
+        "question": "C.J. Cregg,Josh Lyman,Donna Moss",
+        "answer": "The West Wing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PARTS OF SPEECH",
+        "value": 800,
+        "question": "We know you're very smart, but are you smart enough to know:very",
+        "answer": "adverb",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ATTORNEYS GENERAL",
+        "value": 800,
+        "question": "In the 1840s Nathan Clifford served for this president & negotiated the treaty that made California part of the U.S.",
+        "answer": "(James K.) Polk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHACK",
+        "value": 800,
+        "question": "Patrice Lumumba helped the Congo gain independence from this country in 1960; he was killed less than a year later",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "A MOLE",
+        "value": 800,
+        "question": "In \"Austin Powers in Goldmember\", the mole was played by this former child star of \"The Wonder Years\"",
+        "answer": "Fred Savage",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 1000,
+        "question": "(Sarah of the Clue Crew points out a South Atlantic island on a map on the monitor.)  Tristan da Cunha is often called the most remote inhabited island--the nearest major city is this one, 1500 miles away",
+        "answer": "Cape Town",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV SHOWS BY CHARACTERS",
+        "value": 1000,
+        "question": "Special Agent Leroy Jethro Gibbs,Dr. Donald \"Ducky\" Mallard",
+        "answer": "NCIS",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PARTS OF SPEECH",
+        "value": 1000,
+        "question": "I killed a man in Reno just to watch him die:in",
+        "answer": "preposition",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ATTORNEYS GENERAL",
+        "value": 1000,
+        "question": "During Watergate, he quit as Nixon's Attorney General; later, he was Commerce Secretary",
+        "answer": "(Elliot) Richardson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHACK",
+        "value": 1000,
+        "question": "Thomas a Becket was killed by 4 of this king's men after excommunicating some bishops & barons",
+        "answer": "Henry II",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "A MOLE",
+        "value": 1000,
+        "question": "Instead of counting atoms, chemists simplify with the unit called a mole or this scientist's number",
+        "answer": "(Amedeo) Avogadro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BIBLICAL WARRIORS",
+      "AWARDS & HONORS",
+      "ANIMALS",
+      "OFFICIAL STATE FOODS",
+      "LITERATURE",
+      "HEY, \"BB\"!"
+    ],
+    "clues": [
+      {
+        "category": "BIBLICAL WARRIORS",
+        "value": 400,
+        "question": "Joshua's conquest of Canaan began with the taking of Jericho, a city in this river's valley",
+        "answer": "the Jordan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AWARDS & HONORS",
+        "value": 400,
+        "question": "\"People, people who need\" Peabodys envy her for the Peabody Award she won for her 1994 HBO concert",
+        "answer": "Streisand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "The laughing type of this doglike carnivore is a predator of big game but also scavanges for food",
+        "answer": "a hyena",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OFFICIAL STATE FOODS",
+        "value": 400,
+        "question": "Among its official state foods are mayhaw jelly &, of course, gumbo",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "Published in Spain in 1605, this classic of world literature was an instant hit",
+        "answer": "Don Quixote",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HEY, \"BB\"!",
+        "value": 400,
+        "question": "Philately, numismatics or maybe needlework",
+        "answer": "a hobby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BIBLICAL WARRIORS",
+        "value": 800,
+        "question": "Joab was this Israelite king's successful commander when he conquered Jerusalem around 1000 B.C.",
+        "answer": "David",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AWARDS & HONORS",
+        "value": 800,
+        "question": "This actor dedicated his \"American Beauty\" Oscar to his friend Jack Lemmon, who had inspired him",
+        "answer": "Kevin Spacey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 800,
+        "question": "In classification, this type of bird seen here often overlaps with doves",
+        "answer": "a pigeon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OFFICIAL STATE FOODS",
+        "value": 800,
+        "question": "With some friendly persuasion from Bill Cosby, Utah adopted this fruity treat as its state snack in 2001",
+        "answer": "Jell-O",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "Of 50, 200 or 500, the one closest to the number of characters in \"War and Peace\"",
+        "answer": "500",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HEY, \"BB\"!",
+        "value": 800,
+        "question": "He was the prisoner released by Pontius Pilate in place of Jesus",
+        "answer": "Barabbas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIBLICAL WARRIORS",
+        "value": 1200,
+        "question": "Later lending his name to a popular hotel Bible, he led a successful night attack against the Midianites",
+        "answer": "Gideon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AWARDS & HONORS",
+        "value": 1200,
+        "question": "For the musical \"Sunset Blvd.\", Hugh Jackman won two Mo Awards (equivalent to the Tonys) in this, his native country",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 1200,
+        "question": "This five-letter eel known for its sharp teeth lurks in the holes of a coral reef & will attack divers if disturbed",
+        "answer": "a moray",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OFFICIAL STATE FOODS",
+        "value": 1200,
+        "question": "In Maryland, you can feast on this \"colorful\" state crustacean, both hard-shell & soft-shell",
+        "answer": "the blue crab",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1200,
+        "question": "This title Sir Walter Scott character is torn between Rebecca & the Saxon Rowena",
+        "answer": "Ivanhoe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HEY, \"BB\"!",
+        "value": 1200,
+        "question": "It's the game played with the items seen here",
+        "answer": "cribbage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIBLICAL WARRIORS",
+        "value": 1600,
+        "question": "This female judge won an important battle against the Canaanites by luring them into marshland",
+        "answer": "Deborah",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AWARDS & HONORS",
+        "value": 1600,
+        "question": "The JFK Profile in Courage Award is modeled after a lantern from this frigate built in 1790s Boston",
+        "answer": "the U.S.S. Constitution",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 1600,
+        "question": "What else is gnu, but that the gnu is also called this, from Dutch words",
+        "answer": "wildebeest",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OFFICIAL STATE FOODS",
+        "value": 1600,
+        "question": "Adopted in 2005, pan de campo is Texas' official state this",
+        "answer": "bread",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1600,
+        "question": "Bank official Joseph K. is on the defensive as the accused in this Kafka work",
+        "answer": "The Trial",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HEY, \"BB\"!",
+        "value": 1600,
+        "question": "It's the last name of literary siblings Bert & Nan, & Freddie & Flossie",
+        "answer": "Bobbsey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIBLICAL WARRIORS",
+        "value": 2000,
+        "question": "Saul & this son of his won many battles against the Philistines, but both died at the Battle of Mt. Gilboa",
+        "answer": "Jonathan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AWARDS & HONORS",
+        "value": 2000,
+        "question": "Washington, D.C.'s theatre awards are named for a first lady--this first lady of the American theatre",
+        "answer": "Helen Hayes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 2000,
+        "question": "Its German name is Nilpferd, \"Nile horse\"",
+        "answer": "a hippopotamus",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OFFICIAL STATE FOODS",
+        "value": 2000,
+        "question": "German for \"cake\", this fruit- or cheese-filled, yeast-raised cake is South Dakota's official desert",
+        "answer": "kuchen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LITERATURE",
+        "value": 2000,
+        "question": "In a Thomas Hardy novel, Michael Henchard is this title mayor",
+        "answer": "the Mayor of Casterbridge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HEY, \"BB\"!",
+        "value": 2000,
+        "question": "Used for experimental productions, the Peacock Theatre is housed within this other theatre of Dublin",
+        "answer": "The Abbey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CLASSIC ROCK",
+    "clue": "As there was another album by that title, this classic from 1973 was at one point going to be called \"Eclipse\"",
+    "answer": "The Dark Side of the Moon (by Pink Floyd)"
+  },
+  "gameId": "5358",
+  "gameDate": "Wednesday, December 19, 2007"
+}

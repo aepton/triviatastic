@@ -1,0 +1,574 @@
+{
+  "title": "Show #2644 - Thursday, February 15, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD FACTS",
+      "PROVERBS",
+      "COWS",
+      "FIRST LADIES",
+      "DC COMICS",
+      "AROUND THE HOUSE"
+    ],
+    "clues": [
+      {
+        "category": "WORLD FACTS",
+        "value": 100,
+        "question": "The Virgin of Guadalupe is this country's patron saint",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PROVERBS",
+        "value": 100,
+        "question": "It's what \"you cannot teach an old dog\"",
+        "answer": "new tricks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COWS",
+        "value": 100,
+        "question": "Feat accomplished by the cow in \"Hey Diddle, Diddle\"",
+        "answer": "the cow jumped over the moon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 100,
+        "question": "Born in 1731, she was nicknamed the \"Mother of Our Country\"",
+        "answer": "Martha Washington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DC COMICS",
+        "value": 100,
+        "question": "This city is home to the Daily Planet newspaper",
+        "answer": "Metropolis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 100,
+        "question": "The Household Chartalog recommends baiting these with gumdrops or nuts, as well as cheese",
+        "answer": "a mouse trap",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 200,
+        "question": "This city is home to the Icelandic Opera",
+        "answer": "Reykjavik",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PROVERBS",
+        "value": 200,
+        "question": "It \"gathers no moss\"",
+        "answer": "a rolling stone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COWS",
+        "value": 200,
+        "question": "Urbe Blanca, a cow in Cuba, holds the Guinness record for the highest yield of this in a  day—241 pounds",
+        "answer": "milk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 200,
+        "question": "When she was a child, her classmates called her Buddy but she's best remembered as Pat",
+        "answer": "Nixon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DC COMICS",
+        "value": 200,
+        "question": "It's Wolverine vs. Lobo, Aquaman vs. Sub-Mariner  & more as this company's heroes take on DC's in a miniseries",
+        "answer": "Marvel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 200,
+        "question": "It usually has a sign saying, \"clean lint filter before each load\"",
+        "answer": "a clothes dryer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 300,
+        "question": "The 2 official languages of instruction at the University of Helsinki are Swedish & this",
+        "answer": "Finnish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PROVERBS",
+        "value": 300,
+        "question": "Completes the proverb \"cold hands,...\"",
+        "answer": "a warm heart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COWS",
+        "value": 300,
+        "question": "Major religion that holds the cow sacred",
+        "answer": "Hinduism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 300,
+        "question": "She watched the Battle of Bunker Hill from a hill near her home with her 7-year-old-son John Quincy",
+        "answer": "Abigail Adams",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DC COMICS",
+        "value": 300,
+        "question": "Vertigo's \"Chiaroscuro\" covers \"the private lives of\" this major Renaissance artist/inventor",
+        "answer": "da Vinci",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 300,
+        "question": "For a formal dinner, this item is placed to the left of the forks or on the plate",
+        "answer": "a napkin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 400,
+        "question": "Sutherland Falls, the fifth-highest waterfall in the world, is on this country's South Island",
+        "answer": "New Zealand",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PROVERBS",
+        "value": 400,
+        "question": "It's what \"The road to hell is paved with\"",
+        "answer": "good intentions",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COWS",
+        "value": 400,
+        "question": "Family whose cow is credited with starting the Chicago Fire",
+        "answer": "the O'Learys",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 400,
+        "question": "In 1839 she moved to Springfield, Illinois to live with her sister Elizabeth",
+        "answer": "Mary Todd Lincoln",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DC COMICS",
+        "value": 400,
+        "question": "His real name is Wally West, but he's also this hero, the fastest man alive",
+        "answer": "the Flash",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 400,
+        "question": "They come in 4 basic types: valance, draw, sash & cafe",
+        "answer": "curtains",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD FACTS",
+        "value": 1000,
+        "question": "Artifacts from the Chaco War are displayed in the Military History Museum in this Paraguayan capital",
+        "answer": "Asuncion",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PROVERBS",
+        "value": 500,
+        "question": "An old variation of this proverb said, \"The dashe of a pen, is more greeuous then the counter use of a launce\"",
+        "answer": "the pen is mightier than the sword",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COWS",
+        "value": 500,
+        "question": "Elsie the Cow is this company's mascot & spokesanimal",
+        "answer": "Borden",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 500,
+        "question": "She was Georgia's first lady 1971-75, before she became First Lady of the United States",
+        "answer": "Carter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DC COMICS",
+        "value": 500,
+        "question": "After the death of Superman's cousin Kara, Matrix, a shape-shifting alien, took over as this heroine",
+        "answer": "Supergirl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE HOUSE",
+        "value": 500,
+        "question": "You may want to set this bed, a Japanese folding pad, on a tatami mat",
+        "answer": "a futon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT HISTORY",
+      "MATH CLASS",
+      "MUSIC & LITERATURE",
+      "WORD ORIGINS",
+      "LAKES & RIVERS",
+      "AROUND THE SENATE"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 200,
+        "question": "Founded in the 200s B.C., this Egyptian city's library had the world's largest collection of scrolls",
+        "answer": "Alexandria",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MATH CLASS",
+        "value": 200,
+        "question": "It's the shortest distance between a pair of points on a flat surface",
+        "answer": "a straight line",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & LITERATURE",
+        "value": 200,
+        "question": "This \"whale\" of a Herman Melville novel inspired Peter mennin's \"concertato\" for orchestra",
+        "answer": "Moby-Dick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 200,
+        "question": "This trademark name of a flying plastic disk comes from a Bridgeport, Connecticut pie company",
+        "answer": "Frisbee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 200,
+        "question": "When the Civil War closed this river, Mark Twain gave up his career as a steamboat pilot",
+        "answer": "the Misssissippi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE SENATE",
+        "value": 200,
+        "question": "As of January 4, 1995, this party controlled the U.S. Senate",
+        "answer": "the Republican Party",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 400,
+        "question": "c. 115 B.C. the Himyarites gained ascendancy over this Arabian kingdom whose queen appears in the Bible",
+        "answer": "Sheba",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MATH CLASS",
+        "value": 400,
+        "question": "It separates units from tenths",
+        "answer": "a decimal point",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & LITERATURE",
+        "value": 400,
+        "question": "Liszt's symphonic poem \"Ce qu'on entend sur la montagne\" is based on a poem by this \"Les Miz\" author",
+        "answer": "Victor Hugo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "The Latin uti, \"to use\", evolved into this word for a kitchen implement",
+        "answer": "utensil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 800,
+        "question": "Name shared by cities on the Greek Ilissus River & Georgia's Oconee River",
+        "answer": "Athens",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE SENATE",
+        "value": 400,
+        "question": "On September 7, 1995, this Oregon senator announced his resignation",
+        "answer": "Packwood",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 600,
+        "question": "In 72 B.C. this gladiator & slave defeated 3 Roman armies & reached Cisalpine Gaul",
+        "answer": "Spartacus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MATH CLASS",
+        "value": 600,
+        "question": "6,450 raised to the power zero equals this",
+        "answer": "1",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & LITERATURE",
+        "value": 600,
+        "question": "The libretto for Verdi's opera \"Il Corsaro\" is based on this English lord's poem \"The Corsair\"",
+        "answer": "(Lord) Byron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 600,
+        "question": "Meaning socially awkward, it's French for \"left\"",
+        "answer": "gauche",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 600,
+        "question": "Brazil's Guanabara Bay was 1st called this by sailors who thought it was a river",
+        "answer": "Rio de Janeiro",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE SENATE",
+        "value": 600,
+        "question": "This South Carolina Republican is the president pro tem of the Senate",
+        "answer": "Strom Thurmond",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 800,
+        "question": "The age of 9 he accompanied his father, Hamilcar Barca, on a Carthaginian expedition to Spain",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MATH CLASS",
+        "value": 800,
+        "question": "This number is the cube root of 27",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & LITERATURE",
+        "value": 800,
+        "question": "The title of this composer's \"Pomp And Circumstance\" is a quotation from \"Othello\"",
+        "answer": "Elgar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "A fringe benefit, \"perk\" is short for this",
+        "answer": "perquisite",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 800,
+        "question": "The 2 Great Lakes named for Indian tribes",
+        "answer": "Huron & Erie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE SENATE",
+        "value": 800,
+        "question": "And then there was this Georgian who will not seek reelection in 1996 after 24 years in the Senate",
+        "answer": "Sam Nunn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 1000,
+        "question": "c. 304 B.C. Agathocles, tyrant of Syracuse, brought all of this island under his control",
+        "answer": "Sicily",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MATH CLASS",
+        "value": 1000,
+        "question": "It's the highest power of an unknown variable in a quadratic equation",
+        "answer": "the 2nd power",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MUSIC & LITERATURE",
+        "value": 1000,
+        "question": "The 2nd movement of Charles Ives' \"Concord Sonata\" is named for this author who lived in an \"Old Manse\" in Concord",
+        "answer": "(Nathaniel) Hawthorne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 2000,
+        "question": "Meaning \"to spur to action\", it comes from the name of an Italian scientist famous for experiments with frogs' legs",
+        "answer": "galvanize",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 1000,
+        "question": "The 1945 Potsdam Conference set the Oder & Neisse Rivers as the border between Germany & this country",
+        "answer": "Poland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AROUND THE SENATE",
+        "value": 1000,
+        "question": "These 2 women are California's senators",
+        "answer": "(Dianne) Feinstein & (Barbara) Boxer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "NORTH AMERICA",
+    "clue": "This country contains North America's most southerly point",
+    "answer": "Panama"
+  },
+  "gameId": "2644",
+  "gameDate": "Thursday, February 15, 1996"
+}

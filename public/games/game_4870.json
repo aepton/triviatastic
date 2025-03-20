@@ -1,0 +1,574 @@
+{
+  "title": "Show #7046 - Monday, April 13, 2015",
+  "jeopardyRound": {
+    "categories": [
+      "COUNTRIES IN 3 WORDS",
+      "TRUE OR FALSE",
+      "BASKETBALL HALL OF FAMERS",
+      "'99",
+      "BOTTLES OF BEER",
+      "ON THE WALL"
+    ],
+    "clues": [
+      {
+        "category": "COUNTRIES IN 3 WORDS",
+        "value": 200,
+        "question": "South America's largest",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TRUE OR FALSE",
+        "value": 200,
+        "question": "Scammers can be indicted for the mail type of this, trickery used for profit",
+        "answer": "fraud",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BASKETBALL HALL OF FAMERS",
+        "value": 200,
+        "question": "This 5-time NBA MVP & onetime Minor League Baseball non-MVP",
+        "answer": "Michael Jordan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "'99",
+        "value": 200,
+        "question": "The troupe known as the Lord Chamberlain's Men was rehoused in this London theatre in 1599",
+        "answer": "the Globe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOTTLES OF BEER",
+        "value": 200,
+        "question": "It's a value brand as well as the name that follows \"Anheuser\"",
+        "answer": "Busch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ON THE WALL",
+        "value": 200,
+        "question": "Divided into 20 sections, it's often made of cork; take a shot!",
+        "answer": "a dartboard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES IN 3 WORDS",
+        "value": 400,
+        "question": "Capital at Kingston",
+        "answer": "Jamaica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRUE OR FALSE",
+        "value": 400,
+        "question": "Constant in keeping one's wedding vows until you're an old geezer, or an \"Old\" geyser",
+        "answer": "faithful",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BASKETBALL HALL OF FAMERS",
+        "value": 400,
+        "question": "This \"Zen\" master coach inducted in 2007",
+        "answer": "Phil Jackson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "'99",
+        "value": 400,
+        "question": "In 1499 the Peace of Basel gave this confederacy its independence",
+        "answer": "the Swiss Confederacy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOTTLES OF BEER",
+        "value": 400,
+        "question": "Tecate Light is the bestselling light beer in this country where it's brewed",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ON THE WALL",
+        "value": 400,
+        "question": "In the 1920s this Mexican artist painted his \"Creation\" mural for the Bolivar Auditorium",
+        "answer": "(Diego) Rivera",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES IN 3 WORDS",
+        "value": 600,
+        "question": "Also called Burma",
+        "answer": "Myanmar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRUE OR FALSE",
+        "value": 600,
+        "question": "Confirmed as truth by acceptable evidence; on Twitter it's represented by a blue check mark for a celebrity",
+        "answer": "verify",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BASKETBALL HALL OF FAMERS",
+        "value": 600,
+        "question": "This ex-76er, Sun & Rocket & current colorful commentator",
+        "answer": "Charles Barkley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "'99",
+        "value": 600,
+        "question": "Great idea--he decreed in 1699 that the new year would begin in Russia on January 1, not September 1",
+        "answer": "Peter the Great",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOTTLES OF BEER",
+        "value": 600,
+        "question": "Michelob has 4 ingredients: water, barley malt, yeast & these blossoms that flavor the beer",
+        "answer": "hops",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ON THE WALL",
+        "value": 600,
+        "question": "The name for this light holder is etymologically related to the word abscond",
+        "answer": "a sconce",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES IN 3 WORDS",
+        "value": 800,
+        "question": "Western Tunisia adjacent",
+        "answer": "Algeria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRUE OR FALSE",
+        "value": 800,
+        "question": "Proverbially, this 7-letter word precedes \"article\" to represent a good example of a particular thing",
+        "answer": "genuine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BASKETBALL HALL OF FAMERS",
+        "value": 800,
+        "question": "This legendary Lakers announcer who popularized the term \"slam dunk\"",
+        "answer": "Chick Hearn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "'99",
+        "value": 800,
+        "question": "On Sept. 19, 1899 French President Emile Loubet pardoned this soldier",
+        "answer": "Dreyfus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOTTLES OF BEER",
+        "value": 800,
+        "question": "This Miller brand whose name implies a swell time has been around since 1903",
+        "answer": "Miller High Life",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ON THE WALL",
+        "value": 800,
+        "question": "Fido knows Cassius Coolidge is credited with painting the first of these, like the one called \"A Bold Bluff\"",
+        "answer": "Dogs Playing Poker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES IN 3 WORDS",
+        "value": 1000,
+        "question": "Formerly Gilbert Islands",
+        "answer": "Kiribati",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRUE OR FALSE",
+        "value": 1000,
+        "question": "When used before \"up\", this card-game word means to fabricate criminal charges",
+        "answer": "gin (or trump)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BASKETBALL HALL OF FAMERS",
+        "value": 1000,
+        "question": "This late North Carolina coach who won 879 games",
+        "answer": "Dean Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "'99",
+        "value": 1000,
+        "question": "In 1999 this remote Himalayan kingdom became the last nation to get TV, when it was installed in Thimphu",
+        "answer": "Bhutan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOTTLES OF BEER",
+        "value": 1000,
+        "question": "The bestselling Irish lager is the beer with this musical name",
+        "answer": "Harp",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ON THE WALL",
+        "value": 1000,
+        "question": "In fresco painting intonaco is the final coating of this lime-y substance spread on a wall",
+        "answer": "plaster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BROADWAY DEBUTS",
+      "BOOK SYNOPSES",
+      "INTERNATIONAL LAW",
+      "WHICH BODY PART?",
+      "HEY, \"BRO\"!",
+      "EASTER ISLAND"
+    ],
+    "clues": [
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 400,
+        "question": "2003 was a great year for this boy from Oz: he debuted in \"The Boy from Oz\" & hosted the Tony Awards",
+        "answer": "(Hugh) Jackman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BOOK SYNOPSES",
+        "value": 400,
+        "question": "Presumed dead, Roger Chillingworth finds out his wife, Hester, has cheated on him",
+        "answer": "The Scarlet Letter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL LAW",
+        "value": 400,
+        "question": "Refuge granted by a sovereign state, it can sometimes be sought in an embassy",
+        "answer": "asylum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WHICH BODY PART?",
+        "value": 400,
+        "question": "Hepatitis:This organ",
+        "answer": "the liver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HEY, \"BRO\"!",
+        "value": 400,
+        "question": "A cat might instinctively know to use the litter box so it doesn't need to be trained to be this",
+        "answer": "housebroken",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "EASTER ISLAND",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew reports from Easter Island.)  In 1888, this country annexed Easter Island, leasing the land for sheep-raising & later granted its inhabitants citizenship",
+        "answer": "Chile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 800,
+        "question": "She made her Broadway debut in \"The Boy Friend\" in 1954; starring roles in \"My Fair Lady\" & \"Camelot\" were soon to come",
+        "answer": "Julie Andrews",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BOOK SYNOPSES",
+        "value": 800,
+        "question": "The town of Chester's Mill is suddenly & inexplicably sealed off from the rest of the world",
+        "answer": "Under the Dome",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL LAW",
+        "value": 800,
+        "question": "Read all about it!  It's the delivery of a fugitive from another country specifically for a criminal offense",
+        "answer": "extradition",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WHICH BODY PART?",
+        "value": 800,
+        "question": "The anterior cruciate ligament:This joint",
+        "answer": "the knee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HEY, \"BRO\"!",
+        "value": 800,
+        "question": "This word for a skewer comes from the French",
+        "answer": "brochette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "EASTER ISLAND",
+        "value": 800,
+        "question": "(Sarah of the Clue Crew reports from Easter Island.)  Moai, the giant stone statues that grace Easter Island, sit atop ceremonial pedestals known as ahus, that could also serve as these, celebrating important figures within",
+        "answer": "burial chambers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 1200,
+        "question": "\"I don't even like the theater!\", said this 67-year-old sourpuss comedian about his 2015 bow in his own play \"Fish in the Dark\"",
+        "answer": "Larry David",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BOOK SYNOPSES",
+        "value": 1200,
+        "question": "13-year-old Theo Decker steals a painting of a yellow bird from a museum",
+        "answer": "The Goldfinch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL LAW",
+        "value": 1200,
+        "question": "The 1982 Law of the Sea says for these groupings, like Indonesia, water between islands is for all states' ships",
+        "answer": "an archipelago",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WHICH BODY PART?",
+        "value": 1200,
+        "question": "Otitis media:This organ",
+        "answer": "the ear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HEY, \"BRO\"!",
+        "value": 1200,
+        "question": "It's the food of the gods",
+        "answer": "ambrosia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "EASTER ISLAND",
+        "value": 1200,
+        "question": "(Sarah of the Clue Crew reports from Easter Island.)  The original Rongorongo tablets of Easter Island are now housed in museums around the world; replicas here on the island show this type of pictographic script that was used, though the meanings have been lost to time",
+        "answer": "hieroglyphics",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 1600,
+        "question": "Before \"Wicked\", she won a Theatre World Award for her role in the 1997 musical \"Steel Pier\"",
+        "answer": "(Kristin) Chenoweth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BOOK SYNOPSES",
+        "value": 1600,
+        "question": "Harvard Law grad Mitch McDeere takes a job with a mafia-connected law partnership",
+        "answer": "The Firm",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL LAW",
+        "value": 1600,
+        "question": "This reciprocal 2-word status exempts ambassadors from taxation as well as arrest in most cases",
+        "answer": "diplomatic immunity",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHICH BODY PART?",
+        "value": 1600,
+        "question": "Strabismus:Misalignment of these",
+        "answer": "the eyes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HEY, \"BRO\"!",
+        "value": 1600,
+        "question": "It's the type of rich textile seen here",
+        "answer": "brocade",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "EASTER ISLAND",
+        "value": 1600,
+        "question": "(Sarah of the Clue Crew reports from Easter Island.)  Easter Island is volcanic in nature, & walks along its craters will turn up this volcanic glass that also lends its name to a color",
+        "answer": "obsidian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BROADWAY DEBUTS",
+        "value": 2000,
+        "question": "Diane Keaton debuted in the original 1968 run of this musical as an understudy to a member of the \"Tribe\"",
+        "answer": "Hair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BOOK SYNOPSES",
+        "value": 2000,
+        "question": "Jake Barnes, Lady Brett Ashley & some other friends go to Spain",
+        "answer": "The Sun Also Rises",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL LAW",
+        "value": 2000,
+        "question": "The United Nations defines \"human\" this-ing as the acquisition of people with the aim of exploiting them",
+        "answer": "trafficking",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHICH BODY PART?",
+        "value": 2000,
+        "question": "Graves disease:This gland",
+        "answer": "thyroid",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HEY, \"BRO\"!",
+        "value": 2000,
+        "question": "Cymbalta has been used to treat this disorder characterized by widespread musculoskeletal pain",
+        "answer": "fibromyalgia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "EASTER ISLAND",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew reports from Easter Island.)  The stone village of Orongo was the site of a yearly trial, where young men scaled down a cliff & swam through shark-infested waters to retrieve the egg of a sooty one of these birds",
+        "answer": "a tern",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GEOGRAPHY",
+    "clue": "The Caucasian Isthmus lies between these 2 large inland bodies of water",
+    "answer": "the Caspian Sea & the Black Sea"
+  },
+  "gameId": "7046",
+  "gameDate": "Monday, April 13, 2015"
+}

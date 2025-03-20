@@ -1,0 +1,574 @@
+{
+  "title": "Show #8436 - Monday, July 5, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "BORDERING THE USA",
+      "DISNEY MOVIES BY SONGS",
+      "THIS & THAT",
+      "ANIMALS",
+      "4-LETTER WORDS",
+      "THEY DON'T LIVE ON SESAME STREET"
+    ],
+    "clues": [
+      {
+        "category": "BORDERING THE USA",
+        "value": 200,
+        "question": "About 20 minutes after crossing the border into British Columbia, you can be in this big city exploring Stanley Park",
+        "answer": "Vancouver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIES BY SONGS",
+        "value": 200,
+        "question": "\"You've Got A Friend In Me\" (the original & the sequels)",
+        "answer": "Toy Story",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 200,
+        "question": "On an average day this armed service saves 12 lives & screens 300 merchant ships arriving in U.S. ports for security threats",
+        "answer": "the Coast Guard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "Generally batting leadoff alphabetically, this \"earth pig\" has a foot-long tongue",
+        "answer": "an aardvark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 200,
+        "question": "A live performance of this musical genre that showed its \"age\" in the 1920s often includes improvisation",
+        "answer": "jazz",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THEY DON'T LIVE ON SESAME STREET",
+        "value": 200,
+        "question": "South African-born Ernie Els is a longtime standout performer in this pro sport",
+        "answer": "golf",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BORDERING THE USA",
+        "value": 400,
+        "question": "Goat Island separates the Horseshoe & the American sides of this gorgeous landmark",
+        "answer": "Niagara Falls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIES BY SONGS",
+        "value": 400,
+        "question": "\"Bibbidi Bobbidi Boo\"",
+        "answer": "Cinderella",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 400,
+        "question": "The name of this type of umbrella is from words meaning \"protecting against\" & \"sun\"",
+        "answer": "a parasol",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "Wisconsin's state mammal, this weasel family member stores up body fat in summer & fall for long winter sleeps",
+        "answer": "a badger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 400,
+        "question": "This monarchical title was relinquished for good in 1917",
+        "answer": "czar",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THEY DON'T LIVE ON SESAME STREET",
+        "value": 400,
+        "question": "Bert wasn't a doctor, but Dr. Paul Bert made important studies of divers with decompression sickness, also known as this",
+        "answer": "the bends",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BORDERING THE USA",
+        "value": 600,
+        "question": "This northwestern Mexican peninsula has 2,000 miles of coastline & Las Tres Virgenes, a volcano last active in 1746",
+        "answer": "Baja California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIES BY SONGS",
+        "value": 600,
+        "question": "It features \"You'll Be In My Heart\" by Phil Collins",
+        "answer": "Tarzan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 600,
+        "question": "Many ferns have primitive, narrow leaves called these, from the Latin for \"leaf\"",
+        "answer": "fronds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 600,
+        "question": "The Indian gray is a type of this mammal that has no problem going after cobras",
+        "answer": "a mongoose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 600,
+        "question": "It sounds like part of a wheel, but it's a jump in ice skating with one & a half or more turns in the air",
+        "answer": "an axel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THEY DON'T LIVE ON SESAME STREET",
+        "value": 600,
+        "question": "Accompanying him on his post-White House trek to the Amazon, Kermit was the second son of this U.S. president",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BORDERING THE USA",
+        "value": 800,
+        "question": "Montana's Wild Horse port of entry sees you through to this Canadian province on your way to Medicine Hat, eh?",
+        "answer": "Alberta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIES BY SONGS",
+        "value": 800,
+        "question": "Performed by Baloo in the original & in the remake: \"The Bare Necessities\"",
+        "answer": "The Jungle Book",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 800,
+        "question": "The 1893 John Philip Sousa march heard here bears the name of this noisemaker of American history",
+        "answer": "the Liberty Bell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 800,
+        "question": "Sure, this Aussie mammal lays eggs like a bird, has a bill like a bird & dives under-water for 40 seconds, but flying? Nope!",
+        "answer": "a platypus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 800,
+        "question": "A human-eating giant of folklore, or any terrifying person",
+        "answer": "an ogre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THEY DON'T LIVE ON SESAME STREET",
+        "value": 800,
+        "question": "Big birds of the world include the 6-foot, 30-pound Dalmatian variety of this avian with a large bill & an elastic throat pouch",
+        "answer": "a pelican",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BORDERING THE USA",
+        "value": 1000,
+        "question": "Mexico's 2 largest cities on the U.S. border are Juarez & this one",
+        "answer": "Tijuana",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DISNEY MOVIES BY SONGS",
+        "value": 1000,
+        "question": "\"Listen With Your Heart\" & \"Colors Of The Wind\"",
+        "answer": "Pocahontas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THIS & THAT",
+        "value": 1000,
+        "question": "The New York court system says the first word in this 2-word phrase stands for \"record of arrest & prosecution\"",
+        "answer": "a rap sheet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANIMALS",
+        "value": 1000,
+        "question": "The adorable pygmy this monkey lives up to its name; it can be less than a foot long & weight just 10 ounces",
+        "answer": "marmoset",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 1000,
+        "question": "This instrument has been in use since the time of the Crusades",
+        "answer": "a fife",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THEY DON'T LIVE ON SESAME STREET",
+        "value": 1000,
+        "question": "The grandfather of this Broadway lyricist was a major impresario of Vaudeville & opera",
+        "answer": "Oscar Hammerstein",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "KABUL STONES",
+      "LITERATURE",
+      "STARTS & ENDS WITH \"T\"",
+      "PUT IN OSCILLATION",
+      "DOCTORED TELEVISION",
+      "DRUNK HISTORY"
+    ],
+    "clues": [
+      {
+        "category": "KABUL STONES",
+        "value": 400,
+        "question": "Built for protection around 1,500 years ago, Kabul's \"Great\" this runs atop a mountain that towers over the city",
+        "answer": "a wall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "In 1905 you didn't want to eat a pork chop while reading the paper \"appeal to reason\", as it serialized this stockyard novel",
+        "answer": "The Jungle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STARTS & ENDS WITH \"T\"",
+        "value": 400,
+        "question": "Don't place your hot dishes directly on the table; put them on this little stand",
+        "answer": "a trivet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PUT IN OSCILLATION",
+        "value": 400,
+        "question": "A dance with one arm out in front of you is named for this oscillating lawn item",
+        "answer": "the sprinkler",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DOCTORED TELEVISION",
+        "value": 400,
+        "question": "John \"J.D.\" Dorian, a rookie doctor at Sacred Heart Hospital",
+        "answer": "Scrubs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DRUNK HISTORY",
+        "value": 400,
+        "question": "Still in business today, Japan's Sudo Honke brewery has been turning rice & water into this since the 12th century",
+        "answer": "sake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "KABUL STONES",
+        "value": 800,
+        "question": "A mosque in Kabul & the Taj Mahal in Agra were both built by Shah Jahan in pure white this stone",
+        "answer": "marble",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "At a dinner party in Shakespeare, Banquo's ghost shows up to torment this title character",
+        "answer": "Macbeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STARTS & ENDS WITH \"T\"",
+        "value": 800,
+        "question": "It means to diagnose a problem you're having with a computer or an appliance & then solve it",
+        "answer": "troubleshoot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PUT IN OSCILLATION",
+        "value": 800,
+        "question": "To the naked eye it may look like it's not moving when in use, but here's a slow-motion look at this musical item at work",
+        "answer": "a tuning fork",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DOCTORED TELEVISION",
+        "value": 800,
+        "question": "Dr. Abigail Bartlet, who put in a D.C. residency",
+        "answer": "The West Wing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DRUNK HISTORY",
+        "value": 800,
+        "question": "The Bols family began distilling Genever, also known as \"Hollands\" or \"Dutch\" this liquor, in 1664",
+        "answer": "gin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "KABUL STONES",
+        "value": 1200,
+        "question": "The workers of the Kabul Museum risked their lives to save stone figures from destruction by this group in 2001",
+        "answer": "the Taliban",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1200,
+        "question": "The chapter titles in this Henry Fielding novel include \"A Little Chapter, in Which is Contained a Little Incident\"",
+        "answer": "Tom Jones",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STARTS & ENDS WITH \"T\"",
+        "value": 1200,
+        "question": "It's a small castle tower or something that holds a gun on a military tank",
+        "answer": "turret",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PUT IN OSCILLATION",
+        "value": 1200,
+        "question": "This vacuum company also makes \"Hot+Cool\" oscillating air purifiers that take care of 99.97% of pollutants & allergens",
+        "answer": "Dyson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DOCTORED TELEVISION",
+        "value": 1200,
+        "question": "Plastic surgeons Sean McNamara & Christian Troy",
+        "answer": "Nip/Tuck",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DRUNK HISTORY",
+        "value": 1200,
+        "question": "This liqueur dates back to the 16th century; in the 20th, it was bottled with brandy as B&B",
+        "answer": "Benedictine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "KABUL STONES",
+        "value": 1600,
+        "question": "In Kabul & the rest of Afghanistan, rocks painted red & white warn of danger in these fields; stay on the white side",
+        "answer": "minefields",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1600,
+        "question": "In his 50s Tom Wolfe wrote his first novel, this one about the downfall of a Manhattan bond trader",
+        "answer": "The Bonfire of the Vanities",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STARTS & ENDS WITH \"T\"",
+        "value": 1600,
+        "question": "Mentioned in \"A Wrinkle in Time\", it's a 4-dimensional analogue of a cube, or what Carl Sagan called a hypercube",
+        "answer": "a tesseract",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PUT IN OSCILLATION",
+        "value": 1600,
+        "question": "This 3-D imaging technique used in medicine to visualize organs makes use of the oscillations of hydrogen atoms",
+        "answer": "an MRI (magnetic resonance image)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DOCTORED TELEVISION",
+        "value": 1600,
+        "question": "Joel Fleischman, a fish out of water in Alaska",
+        "answer": "Northern Exposure",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DRUNK HISTORY",
+        "value": 1600,
+        "question": "Year in which the photo here was taken",
+        "answer": "1933",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "KABUL STONES",
+        "value": 2000,
+        "question": "A garden in Kabul contains the stone grave of Babur, 16th century founder of this Muslim dynasty of India",
+        "answer": "the Mughal Empire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LITERATURE",
+        "value": 2000,
+        "question": "In this A.S. Byatt novel, a scholar (Aaron Eckhart in the movie) finds letters in a book owned by a long-dead poet",
+        "answer": "Possession",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STARTS & ENDS WITH \"T\"",
+        "value": 2000,
+        "question": "From Latin for \"to go over\", it means temporary or fleeting",
+        "answer": "transient",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PUT IN OSCILLATION",
+        "value": 2000,
+        "question": "In 1851 this 2-word object bearing the name of its inventor started having a ball (weighing 62 pounds) swinging in Paris' Panthéon",
+        "answer": "a Foucault pendulum",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DOCTORED TELEVISION",
+        "value": 2000,
+        "question": "Early 20th century physician & drug addict John Thackery",
+        "answer": "The Knick",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DRUNK HISTORY",
+        "value": 2000,
+        "question": "Before the Rothschilds bought it, Chateau this was one of 4 top-rated wineries in France's 1855 official ranking",
+        "answer": "Lafite",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD GEOGRAPHY",
+    "clue": "On either side of Indochina are these 2 gulfs that start with the same letter",
+    "answer": "the Gulf of Tonkin & the Gulf of Thailand"
+  },
+  "gameId": "8436",
+  "gameDate": "Monday, July 5, 2021"
+}

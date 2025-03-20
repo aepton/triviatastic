@@ -1,0 +1,574 @@
+{
+  "title": "Show #5690 - Friday, May 8, 2009",
+  "jeopardyRound": {
+    "categories": [
+      "OLD FOLKS IN THEIR 30s",
+      "MOVIES & TV",
+      "A STATE OF COLLEGE-NESS",
+      "ANIMAL COLLECTIVE",
+      "I'D RATHER BE SKIING",
+      "PARLEZ VOUS?"
+    ],
+    "clues": [
+      {
+        "category": "OLD FOLKS IN THEIR 30s",
+        "value": 200,
+        "question": "goop.com is a lifestyles website from this Oscar-winning actress; the g & p represent her initials",
+        "answer": "Gwyneth Paltrow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIES & TV",
+        "value": 200,
+        "question": "On March 19, 2009 he said, \"I'm excited and honored to introduce my first guest... Barack Obama\"",
+        "answer": "Jay Leno",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "A STATE OF COLLEGE-NESS",
+        "value": 200,
+        "question": "Baylor,Stephen F. Austin,Rice",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANIMAL COLLECTIVE",
+        "value": 200,
+        "question": "Synonym for dignity that's the term for a group of lions",
+        "answer": "a pride",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I'D RATHER BE SKIING",
+        "value": 200,
+        "question": "If you're a beginner, you might hippity-hop over to this smaller, gentler slope",
+        "answer": "a bunny hill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PARLEZ VOUS?",
+        "value": 200,
+        "question": "If your mate from Marseilles says he's getting to LAX via \"Sud-Ouest\", pick him up at this carrier",
+        "answer": "Southwest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OLD FOLKS IN THEIR 30s",
+        "value": 400,
+        "question": "In 2008 David Gregory became moderator of this NBC Sunday morning news show",
+        "answer": "Meet the Press",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIES & TV",
+        "value": 400,
+        "question": "Time magazine said this 2003 Pixar film was \"the ultimate fish-out-of-water story\"",
+        "answer": "Finding Nemo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "A STATE OF COLLEGE-NESS",
+        "value": 400,
+        "question": "Antioch,Bowling Green,Kent State",
+        "answer": "Ohio",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANIMAL COLLECTIVE",
+        "value": 400,
+        "question": "Like peas, whales & seals are in groups called these",
+        "answer": "pods",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I'D RATHER BE SKIING",
+        "value": 400,
+        "question": "Something you'd sprinkle on after a shower, it's also the term for soft, dry, freshly fallen snow",
+        "answer": "powder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PARLEZ VOUS?",
+        "value": 400,
+        "question": "Duck, duck, l'oie; (l'oie of course referring to this other feathered friend)",
+        "answer": "a goose",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OLD FOLKS IN THEIR 30s",
+        "value": 600,
+        "question": "Linus Torvalds is the father of this operating system used on cell phones & supercomputers",
+        "answer": "Linux",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIES & TV",
+        "value": 600,
+        "question": "Of his dialogue, this Han Solo actor said, \"You can type this (stuff), George, but you sure can't say it\"",
+        "answer": "Harrison Ford",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "A STATE OF COLLEGE-NESS",
+        "value": 600,
+        "question": "DePaul,Wheaton,Northwestern",
+        "answer": "Illinois",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANIMAL COLLECTIVE",
+        "value": 600,
+        "question": "A crash is a group of these large horned mammals",
+        "answer": "rhinoceroses",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I'D RATHER BE SKIING",
+        "value": 600,
+        "question": "In California, a premier spot for skiing is this resort area that shares its name with a prehistoric elephant",
+        "answer": "Mammoth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PARLEZ VOUS?",
+        "value": 600,
+        "question": "\"Je ne sais pas\" means this, but you still get credit if you phrase it in the form of a question",
+        "answer": "\"I don't know\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OLD FOLKS IN THEIR 30s",
+        "value": 800,
+        "question": "The district of conservative rep. Patrick McHenry in this state includes Mooresville, a home of NASCAR",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIES & TV",
+        "value": 800,
+        "question": "Tim Robbins played a public TV newsman in \"Anchorman: The Legend of\" him",
+        "answer": "Ron Burgundy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "A STATE OF COLLEGE-NESS",
+        "value": 800,
+        "question": "Wayne State,Kalamazoo College, Madonna University (it's Franciscan Catholic, not Material Girl)",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANIMAL COLLECTIVE",
+        "value": 800,
+        "question": "It can be a pack of dogs, or a place to board them",
+        "answer": "a kennel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I'D RATHER BE SKIING",
+        "value": 800,
+        "question": "In this type of race you have to zigzag between flags or other obstacles in proper order",
+        "answer": "a slalom",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PARLEZ VOUS?",
+        "value": 800,
+        "question": "When mom tells you to do something \"Maintenant!\", she means this",
+        "answer": "now",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OLD FOLKS IN THEIR 30s",
+        "value": 1000,
+        "question": "Elon Musk is now making rockets & electric cars; before that he co-founded & sold this electronic payment system",
+        "answer": "PayPal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIES & TV",
+        "value": 1000,
+        "question": "We were frakkin' sad when this sci fi show had its series finale on March 20, 2009",
+        "answer": "Battlestar Galactica",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "A STATE OF COLLEGE-NESS",
+        "value": 1000,
+        "question": "Grambling,McNeese State,Southern",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANIMAL COLLECTIVE",
+        "value": 1000,
+        "question": "A flock of these black birds is called a murder",
+        "answer": "crows",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "I'D RATHER BE SKIING",
+        "value": 1000,
+        "question": "Bumps or mounds of snow that accumulate on a slope are called these, like some very wealthy & powerful people",
+        "answer": "moguls",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PARLEZ VOUS?",
+        "value": 1000,
+        "question": "\"Huitieme\" is French for this ordinal number",
+        "answer": "eighth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AMERICAN AUTHORS",
+      "ALBUMS THAT ROCK",
+      "ANATOMY",
+      "MATHEM-ATTACK!",
+      "NAME THE DECADE",
+      "WORD ORIGINS"
+    ],
+    "clues": [
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 400,
+        "question": "Her home Orchard House was the model for where the March family lived in her most famous novel",
+        "answer": "Louisa May Alcott",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS THAT ROCK",
+        "value": 400,
+        "question": "\"X&Y\",\"Parachutes\"",
+        "answer": "Coldplay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY",
+        "value": 400,
+        "question": "This cord that connects a fetus to the placenta contains 2 arteries & 1 vein",
+        "answer": "the umbilical cord",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MATHEM-ATTACK!",
+        "value": 400,
+        "question": "Che Guevara probably knew the political-sounding term for the root symbol seen here",
+        "answer": "radical",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 400,
+        "question": "The World Wide Web gets its first page",
+        "answer": "the 1990s",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "This adjective meaning deceptive or sneaky is from the Latin de via, meaning \"out of the way\"",
+        "answer": "devious",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 800,
+        "question": "During the War Of 1812, this \"Rip Van Winkle\" author wrote biographies of Naval commanders",
+        "answer": "Washington Irving",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS THAT ROCK",
+        "value": 800,
+        "question": "\"American Idiot\",\"Dookie\"",
+        "answer": "Green Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY",
+        "value": 800,
+        "question": "The human body has 3 types of these: skeletal, smooth & cardiac, a combination of skeletal & smooth",
+        "answer": "muscles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MATHEM-ATTACK!",
+        "value": 800,
+        "question": "You should answer this one automatically:It's the property that saysa = a",
+        "answer": "reflexive",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 800,
+        "question": "The first controlled nuclear chain reaction",
+        "answer": "the 1940s",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "This New York island's name may come from the Algonquian word for \"island\"",
+        "answer": "Manhattan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 1200,
+        "question": "Susan & Benjamin Cheever, children of this short story master, are both authors as well",
+        "answer": "John Cheever",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS THAT ROCK",
+        "value": 1200,
+        "question": "\"Master of Puppets\",\"Death Magnetic\"",
+        "answer": "Metallica",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY",
+        "value": 1200,
+        "question": "The talus fits between the ends of these 2 bones forming the ankle joint",
+        "answer": "the tibia & fibula",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MATHEM-ATTACK!",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew shows an array of numbers enclosed in brackets on the monitor.)  A set of numbers in rows & columns can be used in many ways--for example, to encrypt a code or create 3-D computer graphics; the set shares this name with a 1999 film",
+        "answer": "a matrix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 1200,
+        "question": "Khruschev's \"Secret Speech\" denounces Stalin",
+        "answer": "the 1950s",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1200,
+        "question": "This compass direction may come from the Proto-Germanic for \"to the left of the rising sun\"",
+        "answer": "north",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 1600,
+        "question": "He stood 5'3\" & was the subject of movies that came out in 2005 & 2006",
+        "answer": "(Truman) Capote",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS THAT ROCK",
+        "value": 1600,
+        "question": "\"In Your Honor\",\"The Color and the Shape\"",
+        "answer": "Foo Fighters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY",
+        "value": 1600,
+        "question": "Humans have 33 vertebrae, 7 of them cervical, meaning they are in this part of the body",
+        "answer": "your neck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MATHEM-ATTACK!",
+        "value": 1600,
+        "question": "The symbol i is used to represent the imaginary square root of this number",
+        "answer": "-1",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 1600,
+        "question": "George Orwell, 34 years dead, hits the bestseller list",
+        "answer": "the 1980s",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1600,
+        "question": "From the Latin for \"much writing\", it's another name for a lie detector test",
+        "answer": "a polygraph",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 2000,
+        "question": "He reviewed films & TV for the New Republic before his first book, \"Goodbye, Columbus\", was published in 1959",
+        "answer": "Philip Roth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS THAT ROCK",
+        "value": 2000,
+        "question": "\"Beggars Banquet\",\"Steel Wheels\"",
+        "answer": "The Rolling Stones",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANATOMY",
+        "value": 2000,
+        "question": "The pons connects the 2 hemispheres of this part of the brain that regulates balance",
+        "answer": "the cerebellum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MATHEM-ATTACK!",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew shows a geometric diagram on the monitor.)  Half the base times the height gives the area of a triangle; for a cylinder, the area of the base times the height gives this measurement",
+        "answer": "volume",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 2000,
+        "question": "Man first reaches the South Pole",
+        "answer": "the 1910s",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 2000,
+        "question": "A type of ear implant to help the deaf, it's from the Greek for \"snail\"",
+        "answer": "cochlear",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EUROPEAN HISTORY",
+    "clue": "He filed for divorce citing Leviticus 20:21, \"If a man shall take his brother's wife, it is an unclean thing\"",
+    "answer": "Henry VIII"
+  },
+  "gameId": "5690",
+  "gameDate": "Friday, May 8, 2009"
+}

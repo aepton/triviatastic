@@ -1,0 +1,556 @@
+{
+  "title": "Show #4332 - Tuesday, June 3, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "BIOGRAPHY",
+      "PLAY",
+      "POEM",
+      "\"S.A.\"s",
+      "COMEDY",
+      "GEEK TRAGEDY"
+    ],
+    "clues": [
+      {
+        "category": "BIOGRAPHY",
+        "value": 200,
+        "question": "Born into Philadelphia's \"High Society\" in 1929, became a princess in 1956, lived happily ever after until 1982",
+        "answer": "Princess Grace/Grace Kelly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PLAY",
+        "value": 200,
+        "question": "A strong leg & an empty container are elements in this kids' game",
+        "answer": "kick the can",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POEM",
+        "value": 200,
+        "question": "Man in the title of the 1863 poem that says, \"One, if by land, and two, if by sea\"",
+        "answer": "Paul Revere",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"S.A.\"s",
+        "value": 200,
+        "question": "Geographically, it's made up of 12 nations & 2 dependencies",
+        "answer": "South America",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COMEDY",
+        "value": 200,
+        "question": "He showed a flair for deadpan comedy with roles in \"Airplane!\" & in the \"Naked Gun\" films",
+        "answer": "Leslie Nielsen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GEEK TRAGEDY",
+        "value": 200,
+        "question": "The rain leaked in & damaged your complete video collection of this sci-fi show that aired from Sept. 1966 to Sept. 1969",
+        "answer": "Star Trek",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BIOGRAPHY",
+        "value": 400,
+        "question": "Born in the West Indies in the 1750s, got involved in money matters, fatally wounded in a duel in 1804",
+        "answer": "Alexander Hamilton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PLAY",
+        "value": 400,
+        "question": "Foxwoods Casino, on an Indian reservation in Connecticut, claims the world's largest hall for this game",
+        "answer": "bingo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POEM",
+        "value": 400,
+        "question": "An 1872 ditty:\"'The time has come,' the walrus said, 'to talk of many things'\"",
+        "answer": "\"The Walrus and the Carpenter\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"S.A.\"s",
+        "value": 400,
+        "question": "In 1891 a crab pot in San Francisco became this organization's first \"kettle\" for Christmas donations",
+        "answer": "Salvation Army",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COMEDY",
+        "value": 400,
+        "question": "\"Comic Cruise to a Greek Isle\" was the Washington Post's headline for its review of this 2002 romantic comedy",
+        "answer": "My Big Fat Greek Wedding",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GEEK TRAGEDY",
+        "value": 400,
+        "question": "You're called the office \"Beta Geek\" instead of this higher position indicating the most tech-smart person there",
+        "answer": "\"Alpha Geek\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIOGRAPHY",
+        "value": 600,
+        "question": "Turned on in 1920, tuned in to LSD in the '60s, dropped out in 1996",
+        "answer": "Dr. Timothy Leary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PLAY",
+        "value": 600,
+        "question": "Nepal hosts the championships of the elephant version of this game that's usually played on horseback",
+        "answer": "polo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POEM",
+        "value": 600,
+        "question": "\"Water, water, everywhere; nor any drop to drink\" says this 1798 poem",
+        "answer": "\"The Rime of the Ancient Mariner\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"S.A.\"s",
+        "value": 600,
+        "question": "A founding member of OPEC",
+        "answer": "Saudi Arabia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COMEDY",
+        "value": 600,
+        "question": "Zach Braff plays medical intern John \"J.D.\" Dorian on this NBC sitcom",
+        "answer": "Scrubs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GEEK TRAGEDY",
+        "value": 600,
+        "question": "Nodding off at 9 P.M., you missed the 10:00 CNN interview with this Microsoft chairman",
+        "answer": "Bill Gates",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIOGRAPHY",
+        "value": 800,
+        "question": "Born in England in 1919, formed a famous partnership with Nureyev, died a dame in 1991",
+        "answer": "Margot Fonteyn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PLAY",
+        "value": 800,
+        "question": "Bandai introduced this society of monsters in cards & toys to compete with Pokemon",
+        "answer": "Digimon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POEM",
+        "value": 800,
+        "question": "A 1667 work:\"Of man's first disobedience and the fruit of that forbidden tree\"",
+        "answer": "\"Paradise Lost\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"S.A.\"s",
+        "value": 800,
+        "question": "It's not my fault, it's a 600-mile geologic fault zone stretching from southern to northern California",
+        "answer": "San Andreas Fault",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COMEDY",
+        "value": 800,
+        "question": "According to a title of a Fox sitcom, this guy \"Controls the Universe\"",
+        "answer": "Andy Richter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GEEK TRAGEDY",
+        "value": 800,
+        "question": "You wanted to eat while in the Xena chat room but your packet of these \"Top\" noodles from Nissin is gone!",
+        "answer": "Top Ramen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIOGRAPHY",
+        "value": 1000,
+        "question": "Born in Kenya in 1903, married Mary in 1936, dead & buried in 1972",
+        "answer": "Louis Leakey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PLAY",
+        "value": 1000,
+        "question": "Like many real 18th century gents, fictional Horatio Hornblower enjoys this card game related to bridge",
+        "answer": "whist",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POEM",
+        "value": 1000,
+        "question": "1923 poem that reads:\"But I have promises to keep, and miles to go before I sleep\"",
+        "answer": "\"Stopping by Woods on a Snowy Evening\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"S.A.\"s",
+        "value": 1000,
+        "question": "General Augusto Pinochet led a military coup that overthrew this president in 1973",
+        "answer": "Salvador Allende",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COMEDY",
+        "value": 1000,
+        "question": "\"Back in Therapy\" was the tagline of this 2002 sequel that starred Billy Crystal & Robert De Niro",
+        "answer": "Analyze That",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GEEK TRAGEDY",
+        "value": 1000,
+        "question": "Your hacker friends sneer at you, calling you by this rhyming word that sounds like something to eat",
+        "answer": "cracker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "COUNTRY MATTERS",
+      "ALBUMS",
+      "CURRENT GOVERNORS",
+      "MACHINES",
+      "COMPOSERS",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "COUNTRY MATTERS",
+        "value": 400,
+        "question": "This country's boot fits snuggly between the Tyrrhenian & Adriatic Seas",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS",
+        "value": 400,
+        "question": "A 1977 Grammy winner for Album of the Year, this Fleetwood Mac LP produced the group's first No. 1 single, \"Dreams\"",
+        "answer": "Rumours",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CURRENT GOVERNORS",
+        "value": 400,
+        "question": "Gray Davis",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MACHINES",
+        "value": 400,
+        "question": "Debra Winger takes a memorable ride on one of these in \"Urban Cowboy\"",
+        "answer": "mechanical bull",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "He's the tempestous genius seen here",
+        "answer": "Ludwig van Beethoven",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "1997 film in which unemployed steel workers take it all off & form a comedy troupe with Eric Idle & John Cleese",
+        "answer": "The Full Monty Python",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY MATTERS",
+        "value": 800,
+        "question": "The favorite NPR show of this country's president Olafur Ragnar Grimsson is probably \"Althings Considered\"",
+        "answer": "Iceland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS",
+        "value": 800,
+        "question": "(Hi, I'm Lorrie Morgan.)  I recorded \"You And Me\" for a 1998 tribute album to this late legend; Rosanne Cash contributed \"D‑I‑V‑O‑R‑C‑E\"",
+        "answer": "Tammy Wynette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CURRENT GOVERNORS",
+        "value": 800,
+        "question": "Bob Taft",
+        "answer": "Ohio",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MACHINES",
+        "value": 800,
+        "question": "In 1905 the American Arithmometer Co. was renamed the Burroughs this Machine Co.",
+        "answer": "Adding",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 800,
+        "question": "In 1844 this man delivered the eulogy for Carl Maria von Weber, founder of German romantic opera",
+        "answer": "Richard Wagner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 800,
+        "question": "Elvis sings \"Rock-a-Hula Baby\" while Steve McGarrett says, \"Book 'em, Dan-o\" in this musical cop show",
+        "answer": "Blue Hawaii Five-O",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY MATTERS",
+        "value": 1200,
+        "question": "We're not letting the Siamese cat out of the bag; in 1996 the baht, this country's currency, was in bad shape",
+        "answer": "Thailand",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS",
+        "value": 1200,
+        "question": "For this 1980 album, John Lennon & Yoko Ono each contributed 7 songs",
+        "answer": "\"Double Fantasy\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CURRENT GOVERNORS",
+        "value": 1200,
+        "question": "Mike Huckabee",
+        "answer": "Arkansas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MACHINES",
+        "value": 1200,
+        "question": "The machine seen here is for reading this",
+        "answer": "microfilm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1200,
+        "question": "Leonard Bernstein called his name \"a colossal syllable\" that makes composers tremble & performers kneel",
+        "answer": "Johann Sebastian Bach",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1200,
+        "question": "Trademark name for the \"While You Were Sleeping\" co-star who provides sleeping accommodations on a train",
+        "answer": "Bill Pullman Car",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY MATTERS",
+        "value": 1600,
+        "question": "Greece placed trade embargoes on this neighbor for appropriating the name of one of its provinces",
+        "answer": "Macedonia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS",
+        "value": 1600,
+        "question": "It completes the title of Elton John's 1975 album \"Captain Fantastic &...\"",
+        "answer": "the Brown Dirt Cowboy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MACHINES",
+        "value": 1600,
+        "question": "It's the logical name for a device that divides one substance from another, especially cream from milk",
+        "answer": "separator",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1600,
+        "question": "In his teens, conductor Eas-Pekka Salonen studied at the Helsinki academy named for this composer",
+        "answer": "Jean Sibelius",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1600,
+        "question": "Oscar-winning portrayer of Salieri in \"Amadeus\" who delivered the Gettysburg Address",
+        "answer": "F. Murray Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUNTRY MATTERS",
+        "value": 2000,
+        "question": "Be careful when addressing mail -- Guinea is adjacent to this country that also has Guinea in its name",
+        "answer": "Guinea-Bissau",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ALBUMS",
+        "value": 2000,
+        "question": "(Sofia of the Clue Crew reports from Buddy Guy's Legends Blues Club in Chicago.)  I'm at Buddy Guy's Legends, & if you ask, I'll say this, the 6-word title of Buddy's 1991 Grammy-winning album",
+        "answer": "Damn Right, I've Got the Blues",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MACHINES",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew reports from Carnegie Mellon University in Pittsburgh.)  From the Greek for \"self-acting\", it's another word for a robot that mimics human actions",
+        "answer": "automaton",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 2000,
+        "question": "The 9/11 tribute \"On the Transmigration of Souls\" is by this composer with the same name as a U.S. president",
+        "answer": "John Adams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 2000,
+        "question": "Movie based on an E.M. Forster novel in which Helena Bonham Carter & 007 vacation in Italy & fight Grace Jones",
+        "answer": "A Room With a View to a Kill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MEDICAL PRODUCTS",
+    "clue": "On June 12, 2001 Johnson & Johnson relaunched this brand with a ceremony in a Missouri city",
+    "answer": "St. Joseph aspirin"
+  },
+  "gameId": "4332",
+  "gameDate": "Tuesday, June 3, 2003"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1897 - Tuesday, December 1, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "MARSUPIALS",
+      "OSCAR-WINNING FILMS",
+      "NOTORIOUS",
+      "AROUND THE WORLD",
+      "FOOD & DRINK",
+      "POPE-POURRI"
+    ],
+    "clues": [
+      {
+        "category": "MARSUPIALS",
+        "value": 100,
+        "question": "The marsupial mole spends most of its life in this environment",
+        "answer": "underground",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING FILMS",
+        "value": 100,
+        "question": "Robert De Niro, John Savage & Christopher Walken played 3 friends who served in Vietnam in this 1978 film",
+        "answer": "The Deer Hunter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 100,
+        "question": "He was nicknamed \"Scarface\" & his brother Ralph, \"Bottles\"",
+        "answer": "Al Capone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 100,
+        "question": "Ticino is this country's most southerly canton",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "The name of this confection comes from the Aztec word \"xocoatl\"",
+        "answer": "chocolate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POPE-POURRI",
+        "value": 100,
+        "question": "Pope Alexander VI, a member of this family, used his power to get his daughter Lucrezia married 3 times",
+        "answer": "the Borgias",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MARSUPIALS",
+        "value": 200,
+        "question": "The koala feeds entirely on the leaves & shoots of this tree",
+        "answer": "the eucalyptus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING FILMS",
+        "value": 200,
+        "question": "Originally rated X, this film starring Jon Voight in the title role won the 1969 Oscar",
+        "answer": "Midnight Cowboy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 200,
+        "question": "Over $11,000 of the ransom money paid in this case was found in Bruno Hauptmann's garage",
+        "answer": "the Lindbergh baby kidnapping",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 200,
+        "question": "Ringette, a sport for women that resembles ice hockey, was invented in this North American country in 1963",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Like chicory, dried figs can be roasted & used to make a substitute for this beverage",
+        "answer": "coffee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POPE-POURRI",
+        "value": 200,
+        "question": "In 1854 Pius IX set the church's position on this event concerning the Virgin Mary",
+        "answer": "the Immaculate Conception",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MARSUPIALS",
+        "value": 300,
+        "question": "The common or Virginia species of this marsupial is the only one native to North America",
+        "answer": "the opussum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING FILMS",
+        "value": 300,
+        "question": "Completes the title of 1980's winning foreign-language film, \"Moscow Does Not Believe in...\"",
+        "answer": "Tears",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 300,
+        "question": "The crime partner of Richard Loeb, he worked as a medical technician after being released from prison",
+        "answer": "(Nathan) Leopold",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 300,
+        "question": "You'll find this Turkish capital on a river of the same name",
+        "answer": "Ankara",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "It's the boys' version of a Shirley Temple",
+        "answer": "a Roy Rogers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POPE-POURRI",
+        "value": 300,
+        "question": "In the early 1900s Pius X restored this traditional music to the liturgy",
+        "answer": "Gregorian chant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MARSUPIALS",
+        "value": 400,
+        "question": "Possibly extinct, this \"wolf\" of an Australian island is the largest meat-eating marsupial",
+        "answer": "the Tasmanian wolf",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING FILMS",
+        "value": 400,
+        "question": "Greta Garbo delivered her famous line \"I want to be alone\" in this Oscar-winning 1932 film",
+        "answer": "Grand Hotel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 400,
+        "question": "Burglar Robert E. Burns wrote the book \"I am a Fugitive from a Georgia\" one of these",
+        "answer": "a chain gang",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 400,
+        "question": "It's name is Persian for \"Land of the Kurds\"",
+        "answer": "Kurdistan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "Referring to the type of poultry it's often served with, a Chinese plum sauce can also be called this",
+        "answer": "a duck sauce",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POPE-POURRI",
+        "value": 400,
+        "question": "He succeeded Pius XII",
+        "answer": "John XXIII",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MARSUPIALS",
+        "value": 500,
+        "question": "Among the few enemies of Kangaroos are man & these wild dogs",
+        "answer": "dingos",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OSCAR-WINNING FILMS",
+        "value": 1000,
+        "question": "Bing Crosby sang \"Too-Ra-Loo-Ra-Loo-Ral\" in this 1944 Oscar winner",
+        "answer": "Going My Way",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 500,
+        "question": "This famous pair of robbers met their end near Gibsland, Louisiana in May 1934",
+        "answer": "Bonnie & Clyde",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 500,
+        "question": "European country whose capital, Tirane, lies near the Adriatic Sea",
+        "answer": "Albania",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "A hamburger cooked with minced onion & often served with a sauce is this steak named for an Eng. physician",
+        "answer": "Salisbury",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POPE-POURRI",
+        "value": 500,
+        "question": "Pius XI & the Italian government worked out this 1929 treaty creating the state of Vatican City",
+        "answer": "the Lateran Treaty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC HOMES",
+      "FASHION",
+      "THE MISSISSIPPI RIVER",
+      "SHAKESPEAREAN CHARACTERS",
+      "WORLD COINS",
+      "PRESIDENTS' FATHERS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC HOMES",
+        "value": 200,
+        "question": "Every Summer, performances of \"The Miracle Worker\" are presented at her Ivy Green home in Alabama",
+        "answer": "Helen Keller",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FASHION",
+        "value": 200,
+        "question": "Hawaiian shirts are also known as these, so we guess you can wear them to say \"Hello\" or \"Goodbye\"",
+        "answer": "Aloha shirts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE MISSISSIPPI RIVER",
+        "value": 200,
+        "question": "Silt from the river had added about 50 square miles to this state in the last 200 years",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 200,
+        "question": "\"The barge she sat in, like a burnished throne, burned on the water\"",
+        "answer": "Cleopatra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 200,
+        "question": "Their 1981 marriage was marked with commemorative crowns issued by Great Britain",
+        "answer": "Charles & Di",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTS' FATHERS",
+        "value": 200,
+        "question": "This man was the first father who was alive when his son became president",
+        "answer": "John Adams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC HOMES",
+        "value": 400,
+        "question": "His winter home in Fort Myers, Florida is partially lit by his handmade bulbs that have burned since the '20s",
+        "answer": "(Thomas) Edison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FASHION",
+        "value": 400,
+        "question": "An old-fashioned style of glasses whose name may remind you of your mother's mother",
+        "answer": "granny glasses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE MISSISSIPPI RIVER",
+        "value": 400,
+        "question": "From an Indian term, the Mississippi is often called \"The Father of\" these",
+        "answer": "waters",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 400,
+        "question": "Regan, his second daughter, is married to the Duke of Cornwall",
+        "answer": "King Lear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 400,
+        "question": "A 30-drachma piece issued in 1963 celebrated the 100th anniv. of this country's then-current royal dynasty",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTS' FATHERS",
+        "value": 400,
+        "question": "This 20th C. president's father had a middle name, Anderson, while he only got an initial",
+        "answer": "Harry Truman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC HOMES",
+        "value": 600,
+        "question": "Scotchtown, one of the largest Colonial houses in Virginia, was home to this orator before he became governor",
+        "answer": "Patrick Henry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FASHION",
+        "value": 600,
+        "question": "The cheongsam, a sheath with a slit skirt, features this kind of \"Chinese official\" collar",
+        "answer": "a Mandarin collar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE MISSISSIPPI RIVER",
+        "value": 600,
+        "question": "This river joins the Mississippi south of Cairo Illinois, doubling the amount of freight traffic",
+        "answer": "the Ohio River",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 600,
+        "question": "By the end of this play, the title character's son Lucius Andronicus is emperor of Rome",
+        "answer": "Titus Andronicus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 600,
+        "question": "During its WWII occupation of this country, Germany issued coins featuring a tulip",
+        "answer": "the Netherlands",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTS' FATHERS",
+        "value": 600,
+        "question": "His father died before he was born so he was raised by an uncle, Sardis Birchard",
+        "answer": "(Rutherford Birchard) Hayes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC HOMES",
+        "value": 800,
+        "question": "The Old Stone House, thought to be the oldest surviving home in Washington, D.C., is located in this historic section",
+        "answer": "Georgetown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FASHION",
+        "value": 800,
+        "question": "The 3 dark colors in the plaid of the Black Watch are black, blue & this",
+        "answer": "green",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE MISSISSIPPI RIVER",
+        "value": 800,
+        "question": "When taken together, the Mississippi & this river are the world's third longest",
+        "answer": "the Missouri",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 800,
+        "question": "Hamlet says of him, \"He was a man, take him for all in all, I shall not look upon his like again\"",
+        "answer": "Hamlet's father, Hamlet Sr.",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 800,
+        "question": "In 1904 this Central AMerican country issued its first coins, tiny 2 1/2 centismos & a huge half balboa",
+        "answer": "Panama",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTS' FATHERS",
+        "value": 1600,
+        "question": "George Bush's father Prescott Bush represented this New England State in the U.S. Senate",
+        "answer": "Connecticut",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC HOMES",
+        "value": 1000,
+        "question": "A house that belonged to U.S. Sec'y of State James G. Blaine has been home to this state's govs. since 1919",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FASHION",
+        "value": 1000,
+        "question": "Traditional espadrilles have soles made out of this material",
+        "answer": "rope",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE MISSISSIPPI RIVER",
+        "value": 1000,
+        "question": "This state's Lake Itasca is the source of the river",
+        "answer": "Minnesota",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEAREAN CHARACTERS",
+        "value": 2000,
+        "question": "This play features maskers, musicians & an apothecary",
+        "answer": "Romeo and Juliet",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD COINS",
+        "value": 1000,
+        "question": "Originally referring to gold ducats, the name of this Polish coin means \"golden\"",
+        "answer": "a zloty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTS' FATHERS",
+        "value": 1000,
+        "question": "Middle name shared by President Coolidge & his father",
+        "answer": "Calvin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FAMOUS NAMES",
+    "clue": "The last of his 56 children, Mabel Sanborn, died in 1950 at age 87",
+    "answer": "Brigham Young"
+  },
+  "gameId": "1897",
+  "gameDate": "Tuesday, December 1, 1992"
+}

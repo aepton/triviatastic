@@ -1,0 +1,574 @@
+{
+  "title": "Show #6903 - Wednesday, September 24, 2014",
+  "jeopardyRound": {
+    "categories": [
+      "UNTRUE DETECTIVE",
+      "2 PRESIDENTS, SAME LAST NAME",
+      "FORESTS",
+      "UNDER RHYMES",
+      "THAT OLD ____ MAGIC",
+      "WHAT GOOGLE IS DOING"
+    ],
+    "clues": [
+      {
+        "category": "UNTRUE DETECTIVE",
+        "value": 200,
+        "question": "This '80s title P.I. referred to McGarrett & the Five-O unit as if they were still working",
+        "answer": "Magnum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "2 PRESIDENTS, SAME LAST NAME",
+        "value": 200,
+        "question": "They were both born in the 18th century",
+        "answer": "the Adams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 200,
+        "question": "The Potomac River has its headwaters in this state's Potomac State Forest",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "UNDER RHYMES",
+        "value": 200,
+        "question": "A goofy mistake",
+        "answer": "blunder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THAT OLD ____ MAGIC",
+        "value": 200,
+        "question": "Traditional nocturnal gathering of coven members, not always on the 7th day:witches' ____",
+        "answer": "sabbath",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE IS DOING",
+        "value": 200,
+        "question": "In 2004 Google acquired Keyhole, a digital mapping company that would later become Google this",
+        "answer": "Earth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "UNTRUE DETECTIVE",
+        "value": 400,
+        "question": "Step back outside yourself & you'll see, now & always, he was Rust Cohle in \"True Detective\"; you want more, get a warrant",
+        "answer": "Matthew McConaughey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "2 PRESIDENTS, SAME LAST NAME",
+        "value": 400,
+        "question": "They were separated by only one other president",
+        "answer": "the Bushes",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 400,
+        "question": "This European country's Sonian Forest is flanked by the towns of Tervuren & Waterloo",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "UNDER RHYMES",
+        "value": 400,
+        "question": "OKC in the NBA",
+        "answer": "the Thunder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THAT OLD ____ MAGIC",
+        "value": 400,
+        "question": "An Ancient Egyptian collection of mortuary spells:The Book of the ____",
+        "answer": "Dead",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE IS DOING",
+        "value": 400,
+        "question": "No longer in the back pocket, this Google feature that helps in-store or online purchases was unveiled in 2011",
+        "answer": "Wallet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "UNTRUE DETECTIVE",
+        "value": 600,
+        "question": "Pre-007, this actor was a figment of Stephanie Zimbalist's imagination as Remington Steele",
+        "answer": "Pierce Brosnan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "2 PRESIDENTS, SAME LAST NAME",
+        "value": 600,
+        "question": "Both became president unexpectedly",
+        "answer": "(the) Johnson(s)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 600,
+        "question": "The forest around this Ukrainian nuclear plant is still unsafe for humans, but teems with possibly mutant wild boars",
+        "answer": "Chernobyl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "UNDER RHYMES",
+        "value": 600,
+        "question": "The Mausoleum at Halicarnassus was an ancient one",
+        "answer": "wonder",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THAT OLD ____ MAGIC",
+        "value": 600,
+        "question": "Conjurer's invocation perhaps derived from the sacramental blessing \"hoc est corpus meum\":____ ____",
+        "answer": "hocus pocus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE IS DOING",
+        "value": 600,
+        "question": "Just say \"OK\" to this wearable product & it'll send a message, give directions or record your neighbor",
+        "answer": "Glass",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "UNTRUE DETECTIVE",
+        "value": 800,
+        "question": "BBC America describes this Idris Elba character as \"passionate, committed and just on the right side of ruthless\"",
+        "answer": "(John) Luther",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "2 PRESIDENTS, SAME LAST NAME",
+        "value": 800,
+        "question": "Grandfather & grandson",
+        "answer": "(the) Harrisons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 800,
+        "question": "A 2-foot species of giant earthworm is native to this forest in southwest Germany",
+        "answer": "the Black Forest",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "UNDER RHYMES",
+        "value": 800,
+        "question": "A needy cause's bankroller",
+        "answer": "funder",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THAT OLD ____ MAGIC",
+        "value": 800,
+        "question": "\"Starry\" term for an out-of-body experience:____  projection",
+        "answer": "astral",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE IS DOING",
+        "value": 800,
+        "question": "This browser introduced in 2008 was given a name associated with shiny, fast cars",
+        "answer": "Chrome",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "UNTRUE DETECTIVE",
+        "value": 1000,
+        "question": "Vic Mackey on this FX show could be described as passionate, committed & just on the wrong side of ruthless",
+        "answer": "The Shield",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "2 PRESIDENTS, SAME LAST NAME",
+        "value": 1000,
+        "question": "They were fifth cousins",
+        "answer": "the Roosevelts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FORESTS",
+        "value": 1000,
+        "question": "The Dixie National Forest is not in the Deep South but in this western state, between St. George & Teasdale",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "UNDER RHYMES",
+        "value": 1000,
+        "question": "To be \"torn\" this way is to be pulled apart",
+        "answer": "asunder",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THAT OLD ____ MAGIC",
+        "value": 1000,
+        "question": "19th century New Orleans voodoo queen:Marie ____",
+        "answer": "Laveau",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE IS DOING",
+        "value": 1000,
+        "question": "In 2013 Time put Google on the cover for the company's new effort to extend this... indefinitely?",
+        "answer": "your life",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD FLAGS",
+      "PLAY BILL",
+      "ART ROCKERS",
+      "CROSSWORD CLUES \"X\"",
+      "AMERICAN LITERATURE",
+      "WHAT GOOGLE COULD BE DOING"
+    ],
+    "clues": [
+      {
+        "category": "WORLD FLAGS",
+        "value": 400,
+        "question": "The 2 triangles of Nepal's flag symbolize these mountains",
+        "answer": "the Himalayas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PLAY BILL",
+        "value": 400,
+        "question": "In 2014 this science guy held a live broadcast debate with a creationism guy",
+        "answer": "Bill Nye",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ART ROCKERS",
+        "value": 400,
+        "question": "His paintings include \"John's Room\" & \"Yellow Linda with Piano\"",
+        "answer": "Paul McCartney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CROSSWORD CLUES \"X\"",
+        "value": 400,
+        "question": "Document management company, formerly Haloid(5)",
+        "answer": "Xerox",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 400,
+        "question": "A poem of his says grass is \"the beautiful uncut hair of graves\"",
+        "answer": "(Walt) Whitman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE COULD BE DOING",
+        "value": 400,
+        "question": "How about earthquake prediction? FYI, Mountain View is on the Monte Vista one of these",
+        "answer": "fault",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 800,
+        "question": "The design in the center of Iran's flag can be read as a rendition of this Arabic name",
+        "answer": "Allah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PLAY BILL",
+        "value": 800,
+        "question": "If Barack Obama wanted a ringer on his basketball team, he'd choose this former Knick who also played in the Senate",
+        "answer": "Bill Bradley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ART ROCKERS",
+        "value": 800,
+        "question": "The artsy side of Dee Dee from this punk quartet includes a portrait of his bandmate Johnny",
+        "answer": "the Ramones",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CROSSWORD CLUES \"X\"",
+        "value": 800,
+        "question": "Gas used in headlights(5)",
+        "answer": "xenon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 800,
+        "question": "This Poe story tells of a prisoner's torture during the Spanish Inquisition",
+        "answer": "\"The Pit and the Pendulum\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE COULD BE DOING",
+        "value": 800,
+        "question": "This virus named for a river in the Congo Basin has up to 90% mortality & there's--hint hint--no vaccine",
+        "answer": "Ebola",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 1200,
+        "question": "Aka the Crux, this constellation is depicted on Brazil's flag",
+        "answer": "the Southern Cross",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PLAY BILL",
+        "value": 1200,
+        "question": "This folklore cowboy rode a cyclone that created the Grand Canyon & his fall created Death Valley",
+        "answer": "Pecos Bill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ART ROCKERS",
+        "value": 1200,
+        "question": "A sketch by this brilliant but troubled '60s singer is inscribed \"a girl who looks ...like me (she has a fat face)\"",
+        "answer": "Janis Joplin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CROSSWORD CLUES \"X\"",
+        "value": 1200,
+        "question": "Founder of the extra-ability X-Men(6)",
+        "answer": "(Charles) Xavier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 1200,
+        "question": "The \"winner\" of the title event of this Shirley Jackson story is stoned to death",
+        "answer": "\"The Lottery\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE COULD BE DOING",
+        "value": 1200,
+        "question": "Gov. Snyder of this Midwest state where Larry Page was born is trying to reverse a trend of population loss",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 1600,
+        "question": "(Kelly of the Clue Crew shows three flags on the monitor.) Not knowing flags can cause a diplomatic flap. Invert Poland's flag, & it looks not only like that of Monaco, but also like the flag of this Asian island country",
+        "answer": "Indonesia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PLAY BILL",
+        "value": 1600,
+        "question": "This journalist is not \"now\" on PBS, but you can see him \"& company\" on New York's WNET",
+        "answer": "Bill Moyers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ART ROCKERS",
+        "value": 1600,
+        "question": "A painting by Kiss guitarist Paul Stanley is titled this \"Power\"--he often has one painted on his face",
+        "answer": "a star",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CROSSWORD CLUES \"X\"",
+        "value": 1600,
+        "question": "Palindromic pharmaceutical(5)",
+        "answer": "Xanax",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 1600,
+        "question": "In 1830 he had 5 tales & sketches published in the Salem Gazette",
+        "answer": "(Nathaniel) Hawthorne",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE COULD BE DOING",
+        "value": 1600,
+        "question": "This 7-letter \"easily split\" type of material needs to be secured from nuclear terrorists, like, now",
+        "answer": "fissile",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD FLAGS",
+        "value": 2000,
+        "question": "The flag of Albania depicts this bird, double-headed",
+        "answer": "an eagle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PLAY BILL",
+        "value": 2000,
+        "question": "This former education secretary & drug czar often speaks out for traditional values",
+        "answer": "Bill Bennett",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ART ROCKERS",
+        "value": 2000,
+        "question": "This female singer's works include a white rabbit seated at a red piano",
+        "answer": "Grace Slick",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CROSSWORD CLUES \"X\"",
+        "value": 2000,
+        "question": "Chinese chief Jinping(2)",
+        "answer": "Xi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 2000,
+        "question": "This 1882 story by Frank Stockton leaves its title question unanswered",
+        "answer": "\"The Lady, or the Tiger?\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WHAT GOOGLE COULD BE DOING",
+        "value": 2000,
+        "question": "This food made from the flint variety is always getting stuck between teeth, & Google has no fix",
+        "answer": "popcorn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ALLITERATION",
+    "clue": "This metaphor used by Shakespeare & Coleridge to denote an ending is based on a legend that never really happens in nature",
+    "answer": "swan song"
+  },
+  "gameId": "6903",
+  "gameDate": "Wednesday, September 24, 2014"
+}

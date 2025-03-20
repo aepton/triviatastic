@@ -1,0 +1,565 @@
+{
+  "title": "Show #1078 - Wednesday, April 19, 1989",
+  "jeopardyRound": {
+    "categories": [
+      "CHICAGO",
+      "THE HUMAN BODY",
+      "WORLD OF BEERS",
+      "TV TRIVIA",
+      "IN THE DICTIONARY",
+      "BIRTHSTONES"
+    ],
+    "clues": [
+      {
+        "category": "CHICAGO",
+        "value": 100,
+        "question": "The suburb of Oak Brook is home to this corporation's Hamburger University",
+        "answer": "McDonald's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 100,
+        "question": "On Washington's face on Mt. Rushmore, this organ of the respiratory system is visible",
+        "answer": "his nose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF BEERS",
+        "value": 100,
+        "question": "Kulmbacher Reichelbräu  & Maisel's Dampf Bier",
+        "answer": "German beers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 100,
+        "question": "When we took him by surprise, Allen Funt told us he'd done 840 shows in this series",
+        "answer": "Candid Camera",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 100,
+        "question": "\"Victress\" is the feminine form of this word",
+        "answer": "victor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 100,
+        "question": "Legend says a birthstone brings this to a person born in its month",
+        "answer": "good luck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHICAGO",
+        "value": 200,
+        "question": "One of this gangster's nicknames was \"The Mayor of Crook County\"",
+        "answer": "Al Capone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 200,
+        "question": "Each day, throughout your body, billions of these are replaced",
+        "answer": "cells",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF BEERS",
+        "value": 200,
+        "question": "Dos Equis &Tres Equis",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 400,
+        "question": "Their variety show on CBS featured the following:\"They say our love won't pay the rent / Before it's earned...\"",
+        "answer": "Sonny & Cher",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 200,
+        "question": "While a potter's wheel is used to make pots, a potter's field is used as this",
+        "answer": "cemetery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 200,
+        "question": "Colombia is by far the most important source of these green gems, May's birthstone",
+        "answer": "emeralds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHICAGO",
+        "value": 300,
+        "question": "World's tallest office building, it was put up for sale at about $10 million per story in November '88",
+        "answer": "the Sears Tower",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 300,
+        "question": "It's no joke when this arm bone shifts out of the glenoid cavity socket",
+        "answer": "the humerus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF BEERS",
+        "value": 300,
+        "question": "Atlas &Aegean Hellas",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 300,
+        "question": "The Beverly Hillbillies called it the cement pond",
+        "answer": "the swimming pool",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 300,
+        "question": "Add a letter to the front of rumple & you've got this synonym",
+        "answer": "crumple",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 300,
+        "question": "The opal, October's birthstone, can be immersed in water to prevent these",
+        "answer": "cracks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CHICAGO",
+        "value": 400,
+        "question": "The 1st home to burn in the great fire of 1871 belonged to her next-door neighbor",
+        "answer": "Mrs. O'Leary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 400,
+        "question": "The thyroid gland needs this element to function properly",
+        "answer": "iodine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF BEERS",
+        "value": 400,
+        "question": "Gold Star & Maccabee",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 400,
+        "question": "She was Gilda Radner's pawody of a top female news pewsonawity",
+        "answer": "Barbara Walters (Baba Wawa)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 400,
+        "question": "As ursine refers to bears, taurine refers to these animals",
+        "answer": "bulls",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 400,
+        "question": "One of March's birthstones, it's flecked with small, \"sanguine\" spots--hence, it's name",
+        "answer": "bloodstone",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CHICAGO",
+        "value": 500,
+        "question": "This museum is home to Seurat's \"Sunday Afternoon on the Island of La Grande Jatte\"",
+        "answer": "the Chicago Art Institute",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE HUMAN BODY",
+        "value": 500,
+        "question": "As arteries go, this one's the largest",
+        "answer": "the aorta",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF BEERS",
+        "value": 500,
+        "question": "Watney's & John Courage",
+        "answer": "England",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 500,
+        "question": "He called Mork \"Mommy\" & Mindy \"Shoe\" & his 1981 arrival was intended to boost the show's ratings",
+        "answer": "Jonathan Winters (Mearth)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 500,
+        "question": "1 of the 2 synonyms for \"perhaps\" that also starts with \"per\"",
+        "answer": "(1 of) perchance (or peradventure)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 500,
+        "question": "This December birthstone is Arizona's state gemstone, often found in the state's silver jewelry",
+        "answer": "turquoise",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT TIMES",
+      "PRESIDENTIAL TRIVIA",
+      "RUSSIAN LITERATURE",
+      "RELIGION",
+      "MIDDLE NAMES",
+      "SEAS"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT TIMES",
+        "value": 200,
+        "question": "To the Romans, she was goddess of the dawn, though her last name wasn't Borealis",
+        "answer": "Aurora",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 200,
+        "question": "In 1957 this future president sang, \"I've got a crush on you, sweetie pie\" to Gisele MacKenzie on her TV show",
+        "answer": "(Ronald) Reagan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RUSSIAN LITERATURE",
+        "value": 200,
+        "question": "Boris Pasternak, who turned out this novel about a Russian physician, had to turn down a Nobel Prize",
+        "answer": "Doctor Zhivago",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "When J. Carter put portraits of notable Black Georgians in the state capitol, this minister was 1st",
+        "answer": "Martin Luther King (Jr.)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 200,
+        "question": "If those swans in \"Swan Lake\" could talk, they'd tell you this was Tchaikovsky's middle name",
+        "answer": "Ilyich",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SEAS",
+        "value": 200,
+        "question": "Begorra, it's the sea in which the Isle of Man sits",
+        "answer": "the Irish Sea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 400,
+        "question": "Macedonian-born Ptolemy I served as a general under this man before becoming king of Egypt",
+        "answer": "Alexander",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 400,
+        "question": "He said the Supreme Court was his idea of heaven, & ultimately he got to sit there",
+        "answer": "Taft",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RUSSIAN LITERATURE",
+        "value": 400,
+        "question": "While in medical school. he began writing short stories using the pseudonym Antosha Chekhonte",
+        "answer": "(Anton) Chekhov",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 400,
+        "question": "Buddhist concept in which a good act leads to a good result & a bad act creates a bad result",
+        "answer": "karma",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 400,
+        "question": "Actors Tommy Jones & Cathy Crosby both have this middle name",
+        "answer": "Lee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SEAS",
+        "value": 400,
+        "question": "Syria has about 100 miles of coastline, all of it on this sea",
+        "answer": "the Mediterranean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 600,
+        "question": "Roman emperor Caracalla reportedly took \"pride\" in sharing his bed with one of these beasts",
+        "answer": "a lion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 600,
+        "question": "In \"Notes on the State of Virginia\", he wrote, \"I tremble for my country when I reflect that God is just\"",
+        "answer": "Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RUSSIAN LITERATURE",
+        "value": 600,
+        "question": "This deported author's 1975 memoir \"The Oak & the Calf\" described his final years in the Soviet Union",
+        "answer": "(Aleksandr) Solzhenitsyn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 600,
+        "question": "Pope John XXIII in '62 declared all cardinals must also be these, & those who weren't were given the title",
+        "answer": "a bishop",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 600,
+        "question": "It was Marilyn Monroe's original middle name",
+        "answer": "Jean",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 800,
+        "question": "Known in Latin as \"Flagellum Dei\", the \"Scourge of God\", he had the gall to invade Gaul in 451 A.D.",
+        "answer": "Attila (the Hun)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 1600,
+        "question": "On his 80th birthday, May 8, 1964, he became the 1st former president to address the Senate",
+        "answer": "Harry Truman",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RUSSIAN LITERATURE",
+        "value": 800,
+        "question": "This Russian poet was killed in a duel, as was a poet named Lensky in his greatest novel, \"Eugene Onegin\"",
+        "answer": "Alexander Pushkin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 1600,
+        "question": "In 1619 this church was established by law in Virginia",
+        "answer": "the Episcopal Church (Church of England)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 800,
+        "question": "Confederate general who had 2 middle names, Ewell & Brown",
+        "answer": "(James Ewell Brown) Stuart",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SEAS",
+        "value": 800,
+        "question": "It's believed biblical Sodom stood near this body of water the Arabs call the Sea of Lot",
+        "answer": "the Dead Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT TIMES",
+        "value": 1000,
+        "question": "Mesopotamia, which means \"between the rivers\", was located between these 2",
+        "answer": "the Tigris & Euphrates",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTIAL TRIVIA",
+        "value": 1000,
+        "question": "This Republican married a lady named Lou on February 10, 1899",
+        "answer": "Herbert Hoover",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RUSSIAN LITERATURE",
+        "value": 1000,
+        "question": "This novelist's \"The House of the Dead\" was a fictional account of his 4 years in a Siberian prison",
+        "answer": "Fyodor Dostoevsky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 1000,
+        "question": "This huge statue was made from the metal of old Argentine cannons",
+        "answer": "Christ of the Andes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MIDDLE NAMES",
+        "value": 1000,
+        "question": "The Princess of Wales & Bing Crosby's daughter Mary share this middle name",
+        "answer": "Frances",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SEAS",
+        "value": 1000,
+        "question": "The river known as the Huang Ho dumps its uniquely colored sediment into this sea",
+        "answer": "the Yellow Sea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE PULITZER PRIZE",
+    "clue": "3 years after this William Kennedy novel won a Pulitzer Prize, it came out as a film starring Meryl Streep",
+    "answer": "Ironweed"
+  },
+  "gameId": "1078",
+  "gameDate": "Wednesday, April 19, 1989"
+}

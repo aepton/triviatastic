@@ -1,0 +1,574 @@
+{
+  "title": "Show #7557 - Tuesday, June 20, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "WE'RE GIVING YOU A COMMISSION",
+      "GOOD SOURCES OF CALCIUM",
+      "AUTHORS' INITIALS",
+      "10-LETTER VERBS",
+      "THE GAME IS RIGGED",
+      "RETURN TO THE MOVIES"
+    ],
+    "clues": [
+      {
+        "category": "WE'RE GIVING YOU A COMMISSION",
+        "value": 200,
+        "question": "The 7 members of the Warren Commission were appointed by this man",
+        "answer": "Johnson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GOOD SOURCES OF CALCIUM",
+        "value": 200,
+        "question": "When made with calcium sulfate, this soybean curd has lots of calcium, though not lots of flavor",
+        "answer": "tofu",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' INITIALS",
+        "value": 200,
+        "question": "Wove a web about \"some pig\": EBW",
+        "answer": "E.B. White",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "10-LETTER VERBS",
+        "value": 200,
+        "question": "To take a document off the secret list & make it public",
+        "answer": "declassify",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE GAME IS RIGGED",
+        "value": 200,
+        "question": "A baked potato that comes this way has all the fixins; for dice, it means they've been tampered with",
+        "answer": "loaded",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RETURN TO THE MOVIES",
+        "value": 200,
+        "question": "Gandalf & Aragorn & a host of others fought Sauron's army in this 2003 finale",
+        "answer": "Return of the King",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WE'RE GIVING YOU A COMMISSION",
+        "value": 400,
+        "question": "The Financial Crisis Inquiry Commission scolded the Federal Reserve's pivotal \"failure to stem the flow of toxic\" these",
+        "answer": "mortgages",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GOOD SOURCES OF CALCIUM",
+        "value": 400,
+        "question": "This nut that resembles a peach pit has more calcium than any other nut",
+        "answer": "an almond",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' INITIALS",
+        "value": 400,
+        "question": "He told EB she was \"all that is good & kind\": RB",
+        "answer": "Robert Browning",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "10-LETTER VERBS",
+        "value": 400,
+        "question": "Sorry, ma'am, I need to do this, seize your Subaru to pursue those criminals",
+        "answer": "commandeer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE GAME IS RIGGED",
+        "value": 400,
+        "question": "Bernie Sanders thanked Obama for not putting his thumb on these to influence the nominating process",
+        "answer": "the scales",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RETURN TO THE MOVIES",
+        "value": 400,
+        "question": "It's the subtitle of \"Star Wars\" Episode VI",
+        "answer": "Return of the Jedi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WE'RE GIVING YOU A COMMISSION",
+        "value": 600,
+        "question": "In 1992 David Dinkins created the Mollen Commission to investigate police corruption in this city",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GOOD SOURCES OF CALCIUM",
+        "value": 600,
+        "question": "These seeds traditionally used to make halvah are an excellent source of calcium",
+        "answer": "sesame",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' INITIALS",
+        "value": 600,
+        "question": "He liked to rime: STC",
+        "answer": "Samuel Taylor Coleridge",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "10-LETTER VERBS",
+        "value": 600,
+        "question": "To shed too much light on film while taking a photograph is to do this",
+        "answer": "overexpose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE GAME IS RIGGED",
+        "value": 600,
+        "question": "If they \"keep moving\" these on the gridiron, they're changing the rules mid-game & it's not fair",
+        "answer": "goalposts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RETURN TO THE MOVIES",
+        "value": 600,
+        "question": "1968's \"Night of\" these creatures apparently didn't finish them off; 1985 witnessed \"The Return of\" them",
+        "answer": "the living dead",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WE'RE GIVING YOU A COMMISSION",
+        "value": 800,
+        "question": "In 1961 this 76-year-old former First Lady became the first chair of the President's Commission on the Status of Women",
+        "answer": "Eleanor Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GOOD SOURCES OF CALCIUM",
+        "value": 800,
+        "question": "The curly type of this hearty member of the cabbage family thrives in the cold & is a good source of calcium & iron",
+        "answer": "kale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' INITIALS",
+        "value": 800,
+        "question": "He dreamed up \"The Sandman\" & \"Coraline\": NG",
+        "answer": "Neil Gaiman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "10-LETTER VERBS",
+        "value": 800,
+        "question": "You need a body part to spell this term for what a gawker does passing a crash scene on the highway",
+        "answer": "rubberneck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE GAME IS RIGGED",
+        "value": 800,
+        "question": "It can mean a cup for coffee, your face, or a sucker, as in \"The stock market is a ____'s game\"",
+        "answer": "mug",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RETURN TO THE MOVIES",
+        "value": 800,
+        "question": "More scares awaited in \"Halloween 4: The Return of\" this crazed killer",
+        "answer": "Michael Myers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WE'RE GIVING YOU A COMMISSION",
+        "value": 1000,
+        "question": "In 1954 the Hoover Commission created a committee to spy on this 3-letter U.S. agency established in 1947",
+        "answer": "the CIA",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GOOD SOURCES OF CALCIUM",
+        "value": 1000,
+        "question": "A spoonful of the blackstrap type of this sweet stuff makes the calcium go down in the most delightful way",
+        "answer": "molasses",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' INITIALS",
+        "value": 1000,
+        "question": "Creator of \"Yentl the Yeshiva Boy\": IBS",
+        "answer": "Isaac Bashevis Singer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "10-LETTER VERBS",
+        "value": 1000,
+        "question": "When you digest, you break down food; when you do this, you process the resulting chemicals for your body to use",
+        "answer": "metabolize",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE GAME IS RIGGED",
+        "value": 1000,
+        "question": "(Jimmy of the Clue Crew deals cards.) As the dealer, I've secretly organized the cards so that I get a great starting hand, an action known by this 3-word phrase",
+        "answer": "stack the deck",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RETURN TO THE MOVIES",
+        "value": 1000,
+        "question": "The 1954 western \"River of No Return\" saw Robert Mitchum team up with this sultry screen  goddess",
+        "answer": "Marilyn Monroe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BLOWIN' IN THE WIND",
+      "TANGLED UP IN BLUE",
+      "IT'S ALRIGHT, MA (I'M ONLY BLEEDING)",
+      "THINGS HAVE CHANGED",
+      "FOREVER \"YOUNG\"",
+      "BOB DYLAN"
+    ],
+    "clues": [
+      {
+        "category": "BLOWIN' IN THE WIND",
+        "value": 400,
+        "question": "With Amarillo No. 1, this state has 4 of the Weather Channel's 10 windiest U.S. cities",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TANGLED UP IN BLUE",
+        "value": 400,
+        "question": "The largest one of these ever measured was a 110-foot female that weighed more than 200 tons",
+        "answer": "a blue whale",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IT'S ALRIGHT, MA (I'M ONLY BLEEDING)",
+        "value": 400,
+        "question": "A spontaneous nosebleed can be exacerbated by severe hypertension, the medical term for this",
+        "answer": "high blood pressure",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THINGS HAVE CHANGED",
+        "value": 400,
+        "question": "The 45th pres. has changed the way the office talks to the public, including the use of this personal Twitter handle",
+        "answer": "@RealDonaldTrump",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOREVER \"YOUNG\"",
+        "value": 400,
+        "question": "By the 1920s the area of this northeast Ohio city was No. 2 to Pittsburgh in American steel production",
+        "answer": "Youngstown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BOB DYLAN",
+        "value": 400,
+        "question": "Bob was born in Minnesota with this last name",
+        "answer": "Zimmerman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BLOWIN' IN THE WIND",
+        "value": 800,
+        "question": "Safaga on Egypt's east coast is a windsurfing & sailing destination on this sea",
+        "answer": "the Red Sea",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TANGLED UP IN BLUE",
+        "value": 800,
+        "question": "Blu-Ray video technology uses a blue one of these beams instead of the red one used by DVD",
+        "answer": "a laser",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IT'S ALRIGHT, MA (I'M ONLY BLEEDING)",
+        "value": 800,
+        "question": "In the show \"Les Miserables\", Fantine coughs up blood because she has this bacterial lung disease",
+        "answer": "tuberculosis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THINGS HAVE CHANGED",
+        "value": 800,
+        "question": "In 1960 the 5-year survival rate of this white blood cell cancer averaged just 14%; today it's over 60%",
+        "answer": "leukemia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOREVER \"YOUNG\"",
+        "value": 800,
+        "question": "The seeds of this disruptive group date back to 1889 with members of the Imperial Medical Academy of Istanbul",
+        "answer": "the Young Turks",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BOB DYLAN",
+        "value": 800,
+        "question": "Song that Jann Wenner's magazine ranked the greatest ever",
+        "answer": "\"Like A Rolling Stone\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BLOWIN' IN THE WIND",
+        "value": 1200,
+        "question": "Speeding up evaporation, winds are strong in many deserts, like this one that's home to most Joshua trees",
+        "answer": "the Mojave Desert",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TANGLED UP IN BLUE",
+        "value": 1200,
+        "question": "Term for a stock regarded as a safe investment in a large, established & stable company",
+        "answer": "blue-chip",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IT'S ALRIGHT, MA (I'M ONLY BLEEDING)",
+        "value": 1200,
+        "question": "I am bleeding, so I need a few of these surgical stitches whose name is from the Latin for \"sew\"",
+        "answer": "sutures",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THINGS HAVE CHANGED",
+        "value": 1200,
+        "question": "In 1915 Mary was the most popular baby girl name; in 2005 it was Emily & in 2015, this name similar to Emily",
+        "answer": "Emma",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOREVER \"YOUNG\"",
+        "value": 1200,
+        "question": "Greg Maddux won it 4 times in a row",
+        "answer": "a Cy Young",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BOB DYLAN",
+        "value": 1200,
+        "question": "Bob's son, who fronted The Wallflowers",
+        "answer": "Jakob Dylan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BLOWIN' IN THE WIND",
+        "value": 1600,
+        "question": "Winds sweep the 300,000 square miles of the Kazakh this vast plain",
+        "answer": "the steppes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TANGLED UP IN BLUE",
+        "value": 1600,
+        "question": "Bergen County, New Jersey has one of the USA's last blue laws, banning retailers from doing this",
+        "answer": "selling alcohol on Sundays (or selling anything on a Sunday)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IT'S ALRIGHT, MA (I'M ONLY BLEEDING)",
+        "value": 1600,
+        "question": "Bleeding & the blockage called pyloric stenosis are possible complications of a peptic one of these",
+        "answer": "an ulcer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THINGS HAVE CHANGED",
+        "value": 1600,
+        "question": "In the 20th century there were as many as 24 Communist countries; today there are only 5, including these 2 in southeast Asia",
+        "answer": "Vietnam and Laos",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOREVER \"YOUNG\"",
+        "value": 1600,
+        "question": "In 1835 he was named third of the original quorum of the 12 apostles",
+        "answer": "Brigham Young",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BOB DYLAN",
+        "value": 1600,
+        "question": "City Bob made news by not being in December 10, 2016",
+        "answer": "Stockholm",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BLOWIN' IN THE WIND",
+        "value": 2000,
+        "question": "Paros is one of the windiest of these Greek islands that encircle Delos",
+        "answer": "the Cyclades",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TANGLED UP IN BLUE",
+        "value": 2000,
+        "question": "Check it out! Like cornflower, it's both a flower an a popular shade of blue for shirts",
+        "answer": "periwinkle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IT'S ALRIGHT, MA (I'M ONLY BLEEDING)",
+        "value": 2000,
+        "question": "A collection of blood in unbroken tissue is a bruise, aka this fancy 9-letter word",
+        "answer": "contusion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THINGS HAVE CHANGED",
+        "value": 2000,
+        "question": "Beginning in 2017, a record 21 women are now U.S. senators, including this new one from California",
+        "answer": "Kamala Harris",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOREVER \"YOUNG\"",
+        "value": 2000,
+        "question": "In a Nathaniel Hawthorne tale, this title Puritan flees a witches' Sabbath",
+        "answer": "Young Goodman Brown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BOB DYLAN",
+        "value": 2000,
+        "question": "Folk artist who sang \"Diamonds & Rust\" about her fling with Bob",
+        "answer": "Joan Baez",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SHAKESPEARE TITLES",
+    "clue": "The verse from the Sermon on the Mount following \"Judge not, that ye be not judged\" inspired this Bard comedy title",
+    "answer": "Measure for Measure"
+  },
+  "gameId": "7557",
+  "gameDate": "Tuesday, June 20, 2017"
+}

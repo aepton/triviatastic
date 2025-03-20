@@ -1,0 +1,556 @@
+{
+  "title": "Show #1300 - Friday, April 6, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. GEOGRAPHY",
+      "ODD JOBS",
+      "ANIMALS",
+      "QUOTES",
+      "FOOD & DRINK",
+      "NICKNAMES"
+    ],
+    "clues": [
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 100,
+        "question": "Longer than the Mississippi, this river wasn't made navigable until the 20th century",
+        "answer": "Missouri River",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ODD JOBS",
+        "value": 100,
+        "question": "One-word title for the person who operated the device developed by Samuel F.B. Morse",
+        "answer": "telegrapher",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "In the Middle Ages this insect was dedicated to the Virgin & called \"The Beetle of Our Lady\"",
+        "answer": "ladybug/ladybird beetle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 100,
+        "question": "Robert Frost wrote, \"To\" do this \"is human, not to, animal\"",
+        "answer": "err",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 100,
+        "question": "Tofu has been prepared on this continent for over 1,000 years",
+        "answer": "Asia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 100,
+        "question": "Baseball player Jay Hanna Dean was known by this giddy moniker",
+        "answer": "Dizzy Dean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "This 10-state region isn't flat; it rises from 2,000 ft. near Omaha to 6,000 ft. at Cheyenne",
+        "answer": "Great Plains",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ODD JOBS",
+        "value": 200,
+        "question": "From the Greek for \"know beforehand\", it's someone who predicts things, like the weather",
+        "answer": "prognosticator",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "Smaller forms of these birds are usually called doves",
+        "answer": "pigeons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 200,
+        "question": "In \"An Essay on Man\" Pope wrote this \"springs eternal in the human breast\"",
+        "answer": "hope",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 200,
+        "question": "Planted chiefly in Hawaii, the most widely grown variety of this fruit is the smooth cayenne",
+        "answer": "pineapple",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 200,
+        "question": "Bewhiskered western sidekick George Hayes went by this \"talkative\" nickname",
+        "answer": "Gabby Hayes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 300,
+        "question": "The only state with areas that have a Mediterranean climate",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ODD JOBS",
+        "value": 300,
+        "question": "A cryptographer doesn't break into tombs but breaks these",
+        "answer": "codes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "The largest members of this phylum are the giant squids & the smallest are snails",
+        "answer": "mollusks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 600,
+        "question": "Advised not to be a lawyer, as the profession was overcrowded, D. Webster said, \"There is always room\" here",
+        "answer": "at the top",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 300,
+        "question": "This French word describes the very driest champagnes",
+        "answer": "brut",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 300,
+        "question": "He's been called \"The World's Oldest Living Teenager\"",
+        "answer": "Dick Clark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "The lower valley of the Susquehanna & its tributaries have created this large Atlantic bay",
+        "answer": "Chesapeake Bay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ODD JOBS",
+        "value": 400,
+        "question": "The job of a sommelier in a restaurant is to serve this",
+        "answer": "wine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "These arachnids differ from true spiders by the extreme length & thinness of their legs",
+        "answer": "Daddy Longlegs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 400,
+        "question": "Carl Sandburg wrote, \"Sometime they'll give\" one of these \"and nobody will come\"",
+        "answer": "war",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 400,
+        "question": "This mixture of apples, nuts, celery & mayonnaise was named for a hotel",
+        "answer": "Waldorf Salad",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 400,
+        "question": "He earned the nickname \"Hero of Mobile Bay\" in the Civil War",
+        "answer": "Admiral David Farragut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 500,
+        "question": "This western branch of the Appalachians runs from north central Penn. through Md., Va. & W. Va.",
+        "answer": "Alleghenies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ODD JOBS",
+        "value": 500,
+        "question": "If you hired an expert in drayage, you needed this done",
+        "answer": "having something moved (or hauled by cart in the old days)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "Surprisingly, the white, or beluga, species of this mammal can be found in the St. Lawrence River",
+        "answer": "whale",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "QUOTES",
+        "value": 500,
+        "question": "Kipling said, \"He travels the fastest who travels\" this way",
+        "answer": "alone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FOOD & DRINK",
+        "value": 500,
+        "question": "The \"court\" variety of this is a stock in which fish are poached & can contain herbs & vegetables",
+        "answer": "bouillon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 500,
+        "question": "This producer of \"Hello, Dolly!\" has been called \"The Barnum of Broadway Producers\"",
+        "answer": "David Merrick",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BOOKS OF THE '80S",
+      "SWITZERLAND",
+      "THE AMERICAN REVOLUTION",
+      "CINEMA",
+      "MYTHS & LEGENDS",
+      "ART & DESIGN"
+    ],
+    "clues": [
+      {
+        "category": "BOOKS OF THE '80S",
+        "value": 200,
+        "question": "Wess Roberts called his 1989 guide to success \"Leadership Secrets Of\" this Hun",
+        "answer": "Attila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SWITZERLAND",
+        "value": 200,
+        "question": "Although Switzerland has 4 national languages, 70% of the population speaks this one",
+        "answer": "German",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 200,
+        "question": "The tea thrown overboard into Boston Harbor in 1773 belonged to this British company",
+        "answer": "East India Company",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CINEMA",
+        "value": 200,
+        "question": "1 of the 2 Bogart  movies with \"Sierra\" in their titles",
+        "answer": "High Sierra & Treasure of the Sierra Madre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 200,
+        "question": "According to Collier's Encyclopedia, this son of Cronus had more than 3 dozen kids",
+        "answer": "Zeus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ART & DESIGN",
+        "value": 200,
+        "question": "This \"new\" art style was popular in France just before art deco",
+        "answer": "art nouveau",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BOOKS OF THE '80S",
+        "value": 800,
+        "question": "John Gregory Dunne's '89 memoir, \"Harp\", details his search for his ancestral roots in this country",
+        "answer": "Ireland",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SWITZERLAND",
+        "value": 400,
+        "question": "This is compulsory for all men between the ages of 20 & 50",
+        "answer": "military service",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 400,
+        "question": "In 1776, while encamped with Washington's troops, he wrote, \"These are the times that try men's souls\"",
+        "answer": "Thomas Paine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CINEMA",
+        "value": 400,
+        "question": "This '84 film about the horrors of the Khmer Rouge was finally shown in a Cambodian theater in 1989",
+        "answer": "The Killing Fields",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 400,
+        "question": "This Greek god lived with his wife, Amphitrite, in a golden palace at the bottom of the sea",
+        "answer": "Poseidon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ART & DESIGN",
+        "value": 400,
+        "question": "A walkway or porch with a roof supported by columns, it's featured in Greek architecture",
+        "answer": "portico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BOOKS OF THE '80S",
+        "value": 600,
+        "question": "Robert D. Parker's \"Poodle Springs\" is based on this author's unfinished Philip Marlowe novel",
+        "answer": "Raymond Chandler",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SWITZERLAND",
+        "value": 1200,
+        "question": "This white star-shaped flower is Switzerland's national flower",
+        "answer": "Edelweiss",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 600,
+        "question": "In 1780 & '81 this general commanded Britain's forces in the southern colonies",
+        "answer": "Lord Cornwallis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CINEMA",
+        "value": 600,
+        "question": "The Horse of a Different Color in this film was actually 6 different horses colored with Jell-O powder",
+        "answer": "The Wizard of Oz",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 600,
+        "question": "Born from the blood of Uranus, they punish those who escape punishment",
+        "answer": "the Furies",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ART & DESIGN",
+        "value": 600,
+        "question": "This name refers to any depiction of the Virgin holding the dead Christ, not just Michelangelo's sculpture",
+        "answer": "Pieta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BOOKS OF THE '80S",
+        "value": 800,
+        "question": "Tom Wolfe has described this book of his as \"A 'Vanity Fair' written 150 years later\"",
+        "answer": "Bonfire of the Vanities",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 800,
+        "question": "On the night of April 18, 1775, he & Paul Revere rode the countryside warning of the Redcoats' advance",
+        "answer": "William Dawes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CINEMA",
+        "value": 800,
+        "question": "In \"The Road to Utopia\", Bob Hope acted macho by saying, \"I'll take lemonade - - in\" one of these",
+        "answer": "a dirty glass",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 800,
+        "question": "Among Hercules' teachers were these twins who taught him horsemanship & boxing",
+        "answer": "Castor & Pollux",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ART & DESIGN",
+        "value": 800,
+        "question": "A praying desk with a knee bench, its name means \"Pray God\"",
+        "answer": "prie-dieu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BOOKS OF THE '80S",
+        "value": 1000,
+        "question": "\"The Noose of Laurels\" concludes that neither of these rivals reached the North Pole",
+        "answer": "Frederick Cook & Robert Peary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE AMERICAN REVOLUTION",
+        "value": 1000,
+        "question": "In 1774 the 1st Continental Congress convened at this Philadelphia building, not Independence Hall",
+        "answer": "Carpenters' Hall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CINEMA",
+        "value": 1000,
+        "question": "Near the end of this 1959 Hitchcock film, Martin Landau falls off Mount Rushmore",
+        "answer": "North By Northwest",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MYTHS & LEGENDS",
+        "value": 1000,
+        "question": "The Romans worshipped this huntress in a grove south of Rome",
+        "answer": "Diana",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ART & DESIGN",
+        "value": 1000,
+        "question": "Ludwig Mies Van Der Rohe & Philip Johnson designed this NYC skyscraper named for a liquor company",
+        "answer": "Seagram's Building/Tower",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MONEY",
+    "clue": "Country whose basic monetary unit is the Balboa",
+    "answer": "Panama"
+  },
+  "gameId": "1300",
+  "gameDate": "Friday, April 6, 1990"
+}

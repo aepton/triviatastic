@@ -1,0 +1,574 @@
+{
+  "title": "Show #3302 - Tuesday, January 5, 1999",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. CITIES",
+      "SINGING THE \"BLUE\"S",
+      "COMING UP IN '99",
+      "FAUX FRENCH",
+      "CANDY BARS",
+      "BEASTS"
+    ],
+    "clues": [
+      {
+        "category": "U.S. CITIES",
+        "value": 100,
+        "question": "One of the Twin Cities, it was named after a man from Tarsus",
+        "answer": "St. Paul",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SINGING THE \"BLUE\"S",
+        "value": 100,
+        "question": "According to Elton John, \"Baby's got\" these",
+        "answer": "Blue eyes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COMING UP IN '99",
+        "value": 100,
+        "question": "Pro Player Stadium in Miami will be primed for action when this event kicks off on January 31, 1999",
+        "answer": "Super Bowl XXXIII",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FAUX FRENCH",
+        "value": 100,
+        "question": "To us, it's a list of previous jobs; to the French it's a plot summary",
+        "answer": "Resume",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CANDY BARS",
+        "value": 100,
+        "question": "The only candy bar named after an Alexandre Dumas novel",
+        "answer": "3 Musketeers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEASTS",
+        "value": 100,
+        "question": "Battling stags can get in big trouble when these become hopelessly interlocked",
+        "answer": "Antlers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 200,
+        "question": "This \"Crescent City\" was acquired as part of the land deal the U.S. made with France in 1803",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SINGING THE \"BLUE\"S",
+        "value": 200,
+        "question": "Before Elvis sang this song in a 1961 movie, Bing sang it in 1937's \"Waikiki Wedding\"",
+        "answer": "Blue Hawaii",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COMING UP IN '99",
+        "value": 200,
+        "question": "Washington's birthday is Feb. 22, but will be observed in 1999 on Feb. 15, which is also known as this \"day\"",
+        "answer": "Presidents' Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FAUX FRENCH",
+        "value": 200,
+        "question": "In France a madame buys a \"soutien-gorge\", while an American woman would buy one of these, to lift & separate",
+        "answer": "Brassiere",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CANDY BARS",
+        "value": 200,
+        "question": "It's the \"Great American Chocolate Bar\"",
+        "answer": "Hershey's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEASTS",
+        "value": 200,
+        "question": "The over 900 species of these mammals range from bumblebee size to others with a 5-foot wingspan",
+        "answer": "Bats",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 300,
+        "question": "The city known for its Mud Hens; it was named for a city in Spain",
+        "answer": "Toledo, Ohio",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SINGING THE \"BLUE\"S",
+        "value": 300,
+        "question": "Back in 1984, David Bowie had just met a girl named this",
+        "answer": "Blue Jean",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COMING UP IN '99",
+        "value": 300,
+        "question": "Title of the woman who begins a year of service after she's crowned at Atlantic City in September 1999",
+        "answer": "Miss America",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FAUX FRENCH",
+        "value": 300,
+        "question": "\"Postiche\" is French for this, our term for a men's bald spot coverer",
+        "answer": "Toupee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CANDY BARS",
+        "value": 300,
+        "question": "\"Sometimes You Feel Like A Nut\" if you hunger for this bar",
+        "answer": "Almond Joy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEASTS",
+        "value": 600,
+        "question": "It weighs up to 4 tons, over half as much as the beast it's named for",
+        "answer": "an elephant seal",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 400,
+        "question": "The Society of Friends founded this California city in 1887 & named it after an American poet",
+        "answer": "Whittier",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SINGING THE \"BLUE\"S",
+        "value": 400,
+        "question": "In 1977 Linda Ronstadt had a hit with this Roy Orbison tune",
+        "answer": "\"Blue Bayou\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COMING UP IN '99",
+        "value": 400,
+        "question": "Easter Sunday takes place on the fourth day of this month in 1999",
+        "answer": "April",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FAUX FRENCH",
+        "value": 400,
+        "question": "A French author may use a \"pseudonyme\", not this, meaning \"pen name\"",
+        "answer": "Nom de plume",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CANDY BARS",
+        "value": 400,
+        "question": "Featuring crisped rice in creamy milk chocolate, it's Nestle's \"loud\" bar",
+        "answer": "Crunch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEASTS",
+        "value": 400,
+        "question": "This turtle named for its method of biting is more aggressive on land than in water",
+        "answer": "Snapping turtle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 500,
+        "question": "An Illinois city was named for this \"Our country, right or wrong\" naval hero",
+        "answer": "Stephen Decatur",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SINGING THE \"BLUE\"S",
+        "value": 500,
+        "question": "In a song from the '20s, \"Just Mollie and me, and baby makes three, we're happy in\" this place",
+        "answer": "\"My Blue Heaven\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COMING UP IN '99",
+        "value": 500,
+        "question": "The only Friday the 13th of 1999 occurs in this summer month the Romans called \"Sextilis\"",
+        "answer": "August",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FAUX FRENCH",
+        "value": 500,
+        "question": "\"Double sens\" is used by the French to denote a phrase with two meanings, one that's risque; we use this",
+        "answer": "Double entendre",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CANDY BARS",
+        "value": 500,
+        "question": "You might want to keep both hands on this \"crispety, crunchety, peanut buttery bar\"",
+        "answer": "Butterfinger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEASTS",
+        "value": 500,
+        "question": "Crocidura xantippe is a type of this mouselike animal; Xanthippe was Socrates' bad-tempered wife",
+        "answer": "a shrew",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ROAMIN' WITH THE ROMANS",
+      "ALL THAT GLITTERS....",
+      "THEATRE",
+      "TURN OF THE CENTURY FILMS",
+      "NAME THAT ROYAL",
+      "CATCHPHRASES"
+    ],
+    "clues": [
+      {
+        "category": "ROAMIN' WITH THE ROMANS",
+        "value": 200,
+        "question": "It was after the battle of Zela in Asia Minor that he proclaimed \"Veni, Vidi, Vici\"",
+        "answer": "Julius Caesar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ALL THAT GLITTERS....",
+        "value": 200,
+        "question": "The song \"You And I\" was a pop hit & a country hit as a duet by Eddie Rabbitt & this woman",
+        "answer": "Crystal Gayle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THEATRE",
+        "value": 200,
+        "question": "In James Howard's version of the play, these title star-crossed lovers live happily ever after",
+        "answer": "Romeo And Juliet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TURN OF THE CENTURY FILMS",
+        "value": 200,
+        "question": "\"A Whole New World\" of entertainment was seen in this character \"And The Wonderful Lamp\"",
+        "answer": "Aladdin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT ROYAL",
+        "value": 200,
+        "question": "Seen here, this third son is now involved in television production",
+        "answer": "Prince Edward",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CATCHPHRASES",
+        "value": 200,
+        "question": "Al Dvorin, once Mr. Presley's band director, claims he coined this 5-word phrase, used to clear audiences",
+        "answer": "\"Elvis has left the building!\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ROAMIN' WITH THE ROMANS",
+        "value": 400,
+        "question": "By 240 B.C. a roamin' Roman could ease on down this road all the \"way\" to Brindisi",
+        "answer": "The Appian Way",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ALL THAT GLITTERS....",
+        "value": 400,
+        "question": "She played Ruth Younger in the Broadway & film versions of \"A Raisin In The Sun\"",
+        "answer": "Ruby Dee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THEATRE",
+        "value": 800,
+        "question": "Much of this musical takes place at the Kit Kat Club",
+        "answer": "Cabaret",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TURN OF THE CENTURY FILMS",
+        "value": 400,
+        "question": "This 1888 baseball poem got its first of many big screen treatments in 1899",
+        "answer": "Casey At The Bat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT ROYAL",
+        "value": 400,
+        "question": "This czar was finally brought home in honor in 1998",
+        "answer": "Nicholas II",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CATCHPHRASES",
+        "value": 400,
+        "question": "TV character who said, \"He's dead, Jim\" & also \"I'm a doctor, not a bricklayer!\"",
+        "answer": "Leonard \"Bones\" McCoy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ROAMIN' WITH THE ROMANS",
+        "value": 600,
+        "question": "Founded by the Romans as Aquae Sulis, this British city is still a popular health & holiday resort",
+        "answer": "Bath",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ALL THAT GLITTERS....",
+        "value": 600,
+        "question": "This \"cultured\" Broadway star was a special representative in the U.S. delegation to the U.N.",
+        "answer": "Pearl Bailey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THEATRE",
+        "value": 600,
+        "question": "In 1997 Jeanne Tripplehorn & Amy Irving starred on Broadway in this playwright's \"Three Sisters\"",
+        "answer": "Anton Chekhov",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TURN OF THE CENTURY FILMS",
+        "value": 600,
+        "question": "On August 28, 1899 a film of this president reviewing troops was shot in Pittsburgh; he was shot in 1901",
+        "answer": "William McKinley",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT ROYAL",
+        "value": 600,
+        "question": "This 18th century queen thought her reign would be a piece of cake - it wasn't!",
+        "answer": "Marie Antoinette",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CATCHPHRASES",
+        "value": 600,
+        "question": "The male heroes of early 20th C. British romance novels were often described with this 3-adjective cliche",
+        "answer": "\"Tall, dark and handsome\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ROAMIN' WITH THE ROMANS",
+        "value": 800,
+        "question": "Mark Antony ended his life in this foreign city",
+        "answer": "Alexandria (Egypt)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ALL THAT GLITTERS....",
+        "value": 800,
+        "question": "He was an NYU pre-med student on a fencing scholarship before becoming a '70s singing sensation",
+        "answer": "Neil Diamond",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THEATRE",
+        "value": 800,
+        "question": "\"Last Night of Ballyhoo\" is Alfred Uhry's first new play since this one about a woman & her chauffeur",
+        "answer": "Driving Miss Daisy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TURN OF THE CENTURY FILMS",
+        "value": 1600,
+        "question": "Ripped from the headlines of 1894 was the 1899 film on this \"Affaire\"",
+        "answer": "The Dreyfus Affair",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT ROYAL",
+        "value": 800,
+        "question": "By 1795 this great ruler had united most of his people & founded his new island kingdom",
+        "answer": "King Kamehameha of Hawaii",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CATCHPHRASES",
+        "value": 800,
+        "question": "The answer is yes if a dish of foie hache asks, \"What am I,\" this?",
+        "answer": "Chopped liver",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ROAMIN' WITH THE ROMANS",
+        "value": 1000,
+        "question": "In 202 B.C. Scipio went to Africa to defeat this man in the famous battle of Zama",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ALL THAT GLITTERS....",
+        "value": 1000,
+        "question": "In 1972 Gary Glitter hit the charts with this \"Rock\" song that has become a sports anthem",
+        "answer": "\"Rock And Roll Part 2\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THEATRE",
+        "value": 1000,
+        "question": "Jules Feiffer & John Lennon contributed to this \"clothing optional\" revue on Broadway from 1976-1989",
+        "answer": "Oh! Calcutta!",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TURN OF THE CENTURY FILMS",
+        "value": 1000,
+        "question": "Luc Besson can luc back almost 100 years & see if George Melies' take on this French heroine is like his",
+        "answer": "Joan of Arc",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAME THAT ROYAL",
+        "value": 1000,
+        "question": "One of the richest men in the world, the man seen here is the ruler of this country",
+        "answer": "(Sultan of) Brunei",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CATCHPHRASES",
+        "value": 1000,
+        "question": "This tobacco-related line beginning with \"sometimes\" is attributed to Sigmund Freud",
+        "answer": "\"Sometimes a cigar is just a cigar\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE 1970s",
+    "clue": "In April 1974 Jimmy Carter presented him with a license plate that read \"HLA715\"",
+    "answer": "Hank Aaron"
+  },
+  "gameId": "3302",
+  "gameDate": "Tuesday, January 5, 1999"
+}

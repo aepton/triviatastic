@@ -1,0 +1,511 @@
+{
+  "title": "Show #7256 - Monday, March 14, 2016",
+  "jeopardyRound": {
+    "categories": [
+      "IT WAS 1916",
+      "BEST DRAMA SERIES EMMY AWARDS",
+      "WORLD OF RELIGION",
+      "R-D-R HAR!",
+      "DOVER EXPOSURE",
+      "1,000 FOODS TO EAT BEFORE YOU DIE"
+    ],
+    "clues": [
+      {
+        "category": "IT WAS 1916",
+        "value": 200,
+        "question": "The big news on the Jersey shore in July 1916 was 4 fatal attacks by these, species unknown",
+        "answer": "shark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BEST DRAMA SERIES EMMY AWARDS",
+        "value": 200,
+        "question": "2014: This New Mexico-set series",
+        "answer": "Breaking Bad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF RELIGION",
+        "value": 200,
+        "question": "The sacred shrine of Fushimi-Inari Tasha is dedicated to Inari, the Shinto god of this foodstuff",
+        "answer": "rice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DOVER EXPOSURE",
+        "value": 200,
+        "question": "Vera Lynn kept up British morale & was the \"forces' sweetheart\" singing \"The White Cliffs of Dover\" during this war",
+        "answer": "the Second World War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "1,000 FOODS TO EAT BEFORE YOU DIE",
+        "value": 200,
+        "question": "Mimi Sheraton describes this delicacy as \"tiny, glistening black-diamond beads that lie silky soft on the tongue\"",
+        "answer": "caviar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "IT WAS 1916",
+        "value": 400,
+        "question": "The Easter Rebellion that erupted in 1916 was centered in this city",
+        "answer": "Dublin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BEST DRAMA SERIES EMMY AWARDS",
+        "value": 400,
+        "question": "1974 & '75: This class-conscious PBS show that wasn't even about Americans",
+        "answer": "Upstairs, Downstairs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF RELIGION",
+        "value": 400,
+        "question": "Despite the movies, this faith of the Caribbean has no tradition of sticking pins into figurines to harm others",
+        "answer": "Vodou",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DOVER EXPOSURE",
+        "value": 400,
+        "question": "Dover is home to Wesley College & to this state university",
+        "answer": "Delaware",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "1,000 FOODS TO EAT BEFORE YOU DIE",
+        "value": 400,
+        "question": "When in Rome treat yourself to one of these fried pastry tubes filled with sweetened, whipped ricotta",
+        "answer": "cannoli",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "IT WAS 1916",
+        "value": 600,
+        "question": "This company introduced its first power tools in 1916, a portable pistol-grip power drill & a portable air compressor",
+        "answer": "Black & Decker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BEST DRAMA SERIES EMMY AWARDS",
+        "value": 600,
+        "question": "1985 & '86: This series about a female cop duo",
+        "answer": "Cagney & Lacey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF RELIGION",
+        "value": 600,
+        "question": "Sober up! The day after Mardis Gras is this religious observance for Catholics worldwide",
+        "answer": "Ash Wednesday",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DOVER EXPOSURE",
+        "value": 600,
+        "question": "Dover sole is this kind of \"fish\", meaning it has both eyes on the same side of its head",
+        "answer": "a flatfish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "1,000 FOODS TO EAT BEFORE YOU DIE",
+        "value": 600,
+        "question": "Spoon up some of this French goodness that's been described as a soup, a stew, a \"hotchpotch of all sorts of fishes\"",
+        "answer": "bouillabaisse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "IT WAS 1916",
+        "value": 800,
+        "question": "A 10-month battle destroyed 9 villages in this country & left 300,000 dead",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BEST DRAMA SERIES EMMY AWARDS",
+        "value": 800,
+        "question": "2005: I still don't understand the polar bear",
+        "answer": "Lost",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF RELIGION",
+        "value": 800,
+        "question": "Members of the upper classes in this religion's social system are considered dvija, meaning \"twice-born\"",
+        "answer": "Hinduism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "R-D-R HAR!",
+        "value": 800,
+        "question": "A commando or ranger on a military strike (perhaps from Oakland)",
+        "answer": "a raider",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DOVER EXPOSURE",
+        "value": 800,
+        "question": "The 1670 Treaty of Dover was a pact between Louis XIV & this \"Merry Monarch\"",
+        "answer": "Charles II",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "1,000 FOODS TO EAT BEFORE YOU DIE",
+        "value": 800,
+        "question": "A tasty & popular pairing is Swedish meatballs served with preserves made from these cranberry cousins",
+        "answer": "lingonberries",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "IT WAS 1916",
+        "value": 1000,
+        "question": "In May U.S. Marines occupied this Caribbean nation following turmoil & popularized the game of baseball",
+        "answer": "the Dominican Republic",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BEST DRAMA SERIES EMMY AWARDS",
+        "value": 1000,
+        "question": "1973: This series about a large family during the Depression",
+        "answer": "The Waltons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD OF RELIGION",
+        "value": 1000,
+        "question": "The \"I Ching\" or \"Book of Changes\" is a divination tool & one of the 5 Classics of this ancient Asian religion",
+        "answer": "Confucianism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "R-D-R HAR!",
+        "value": 1000,
+        "question": "This phrase means reason for being or existence; en Francais, s'il vous plait!",
+        "answer": "raison d'étre",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DOVER EXPOSURE",
+        "value": 1000,
+        "question": "What the Brits call the Strait of Dover, the French call the \"Pas de\" this city",
+        "answer": "Calais",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "1,000 FOODS TO EAT BEFORE YOU DIE",
+        "value": 1000,
+        "question": "Sample the great cheeses of Spain, including this one hailing from the same region as Don Quixote & made from sheep's milk",
+        "answer": "Manchego",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MOVIES ON SUBMARINES",
+      "THANK YOU, MA'AM",
+      "MUSICAL WORDS & PHRASES",
+      "1980s BOOKS",
+      "GONNA TAKE YOU HIGHER",
+      "\"M\" PLACEMENT"
+    ],
+    "clues": [
+      {
+        "category": "MOVIES ON SUBMARINES",
+        "value": 400,
+        "question": "1990:\"The Hunt for\" this Soviet sub, comrade",
+        "answer": "the Red October",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "1980s BOOKS",
+        "value": 400,
+        "question": "\"The House of the Spirits\" by Isabel Allende is set in an unnamed country based on this one",
+        "answer": "Chile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MOVIES ON SUBMARINES",
+        "value": 800,
+        "question": "1968:\"Ice Station Zebra\", starring him",
+        "answer": "Rock Hudson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THANK YOU, MA'AM",
+        "value": 800,
+        "question": "In early 20th century England, Emmeline Pankhurst was a dedicated one of these advocates of the vote",
+        "answer": "a woman suffragist",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL WORDS & PHRASES",
+        "value": 800,
+        "question": "This alliterative popcorn treat is also a term for something trivial",
+        "answer": "fiddle faddle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "1980s BOOKS",
+        "value": 800,
+        "question": "He may not know who he is yet, but Jason Bourne begins his search for answers in this 1980 Robert Ludlum novel",
+        "answer": "The Bourne Identity",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GONNA TAKE YOU HIGHER",
+        "value": 800,
+        "question": "At Breckenridge, Colorado, a high-speed one of these starts at 11,900 feet up & ascends almost 1,000 feet more",
+        "answer": "a ski lift",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"M\" PLACEMENT",
+        "value": 800,
+        "question": "Only Muslims are allowed to enter Mecca & this city, 275 miles away by road",
+        "answer": "Medina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MOVIES ON SUBMARINES",
+        "value": 1200,
+        "question": "2000:\"U\"-this number, mein kapitan",
+        "answer": "571",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THANK YOU, MA'AM",
+        "value": 1200,
+        "question": "16th century mystic & poet St. Teresa of this Spanish city worked to steer Catholicism away from fanaticism",
+        "answer": "Avila",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL WORDS & PHRASES",
+        "value": 1200,
+        "question": "We can't attest to the musical quality of this instrument, a synonym for the cornucopia",
+        "answer": "the horn of plenty",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "1980s BOOKS",
+        "value": 1200,
+        "question": "This first lady set the record straight with her memoir \"My Turn\"",
+        "answer": "Nancy Reagan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GONNA TAKE YOU HIGHER",
+        "value": 1200,
+        "question": "During the Great Depression, this rate reached an all-time high of 24.9% in the United States",
+        "answer": "the unemployment rate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"M\" PLACEMENT",
+        "value": 1200,
+        "question": "That's a traditional emblem called the Soyombo on the flag of this Asian country",
+        "answer": "Mongolia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MOVIES ON SUBMARINES",
+        "value": 1600,
+        "question": "1995:\"Crimson Tide\", starring these 2 Best Actor Oscar winners",
+        "answer": "(Gene) Hackman & (Denzel) Washington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THANK YOU, MA'AM",
+        "value": 1600,
+        "question": "Lawyer & Nobel Peace Prize winner Shirin Ebadi worked to defend & strengthen human rights in this country",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL WORDS & PHRASES",
+        "value": 1600,
+        "question": "Meaning dull, this word is composed of a vocal intonation & musical instrument",
+        "answer": "humdrum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "1980s BOOKS",
+        "value": 1600,
+        "question": "In a memoir this sportscaster told us, \"I Never Played the Game\"",
+        "answer": "Howard Cosell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GONNA TAKE YOU HIGHER",
+        "value": 1600,
+        "question": "A sequoia tree named for this general & non-politician is nearly 275 feet high",
+        "answer": "Sherman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"M\" PLACEMENT",
+        "value": 1600,
+        "question": "This Oklahoma city named for an Native American tribe was the agency headquarters for the Five Civilized Tribes",
+        "answer": "Muscogee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MOVIES ON SUBMARINES",
+        "value": 2000,
+        "question": "1958:Completes the title \"Run Silent...\"",
+        "answer": "Run Deep",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THANK YOU, MA'AM",
+        "value": 2000,
+        "question": "A leading French existentialist, she explored sexism & history in works like \"The Ethics of Ambiguity\"",
+        "answer": "Simone de Beauvoir",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MUSICAL WORDS & PHRASES",
+        "value": 2000,
+        "question": "The principal story of a large building or palace is called this instrument \"nobile\"",
+        "answer": "the piano",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "1980s BOOKS",
+        "value": 2000,
+        "question": "Scott Turow first came on the fiction scene in 1987 with this legal thriller",
+        "answer": "Presumed Innocent",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GONNA TAKE YOU HIGHER",
+        "value": 2000,
+        "question": "In a book title, J.D. Salinger said to \"Raise High\" this 2-word supporting piece of wood",
+        "answer": "the roof beam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"M\" PLACEMENT",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew reports from French Polynesia.)  This island of French Polynesia is a favorite of honeymooners for its stunning scenery & over-water bungalows",
+        "answer": "Moorea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE NOBEL PHYSICS PRIZE",
+    "clue": "A 2013 Laureate, this British man wrote a 1954 thesis on \"Problems in the Theory of Molecular Vibrations\"",
+    "answer": "Peter Higgs"
+  },
+  "gameId": "7256",
+  "gameDate": "Monday, March 14, 2016"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #4096 - Monday, May 27, 2002",
+  "jeopardyRound": {
+    "categories": [
+      "THEY'RE INDIGENOUS",
+      "KILLER MUSICALS",
+      "INSURANCE",
+      "5 DWARFS",
+      "COOL!",
+      "THAT'S LIKE, SO TOTALLY \"RAD\""
+    ],
+    "clues": [
+      {
+        "category": "THEY'RE INDIGENOUS",
+        "value": 200,
+        "question": "Australia is home to the Torres Strait islanders & to the larger indigenous group usually called this",
+        "answer": "Aborigines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "KILLER MUSICALS",
+        "value": 200,
+        "question": "As act one of this musical draws to a close, the lookout says, \"Dear mother of God -- iceberg right ahead!\"",
+        "answer": "Titanic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "INSURANCE",
+        "value": 200,
+        "question": "It's a payment on an insurance policy or a ranking, especially for a brand of saltine",
+        "answer": "Premium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "5 DWARFS",
+        "value": 200,
+        "question": "It's the Japanese art of tree dwarfing",
+        "answer": "bonsai",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COOL!",
+        "value": 200,
+        "question": "\"Fowl\" term for an abrupt withdrawal from the use of an addictive substance",
+        "answer": "cold turkey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THAT'S LIKE, SO TOTALLY \"RAD\"",
+        "value": 200,
+        "question": "It's the \"Centennial State\"",
+        "answer": "Colorado",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THEY'RE INDIGENOUS",
+        "value": 400,
+        "question": "The Aleuts are the closest relatives of these people",
+        "answer": "Eskimos/Inuits",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "KILLER MUSICALS",
+        "value": 400,
+        "question": "\"The Capeman\", this songwriter's musical about a killer, opened to protests, not to \"Sounds of Silence\"",
+        "answer": "Paul Simon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "INSURANCE",
+        "value": 400,
+        "question": "Insurers deal with this, the probability of loss; it's also the name of a Parker Brothers game",
+        "answer": "Risk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "5 DWARFS",
+        "value": 400,
+        "question": "The steenbok of Africa is a dwarf variety of this animal",
+        "answer": "antelope",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COOL!",
+        "value": 400,
+        "question": "In 1947 Herbert Swope coined this 2-word phrase describing the political struggle between the U.S. & USSR",
+        "answer": "\"Cold War\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THAT'S LIKE, SO TOTALLY \"RAD\"",
+        "value": 400,
+        "question": "It's the crisp, edible root of the plant Raphanus sativus, of the mustard family",
+        "answer": "radish",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THEY'RE INDIGENOUS",
+        "value": 600,
+        "question": "In 2001 Borneo's Dayaks were still engaged in this practice -- the bloody, not the corporate kind",
+        "answer": "headhunting",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "KILLER MUSICALS",
+        "value": 600,
+        "question": "The Richard Rodgers musical \"Rex\" starred Nicol Williamson as this king who made some women lose their heads",
+        "answer": "Henry VIII",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "INSURANCE",
+        "value": 600,
+        "question": "You're showing it if you're old enough to know it's the date a policy becomes payable",
+        "answer": "maturity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "5 DWARFS",
+        "value": 600,
+        "question": "Variations of these long-eared critters include the 28-pound Flemish giant & the 2-pound Netherland dwarf",
+        "answer": "rabbits",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COOL!",
+        "value": 600,
+        "question": "Cartoons featuring this mute penguin included \"Snow Place Like Home\" & \"Polar Fright\"",
+        "answer": "Chilly Willy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THAT'S LIKE, SO TOTALLY \"RAD\"",
+        "value": 600,
+        "question": "I predict you'll know the name of this French astrologer who lived from 1503 to 1566",
+        "answer": "Nostradamus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THEY'RE INDIGENOUS",
+        "value": 800,
+        "question": "The Havasupai were & are mainly based in what's now this U.S. state",
+        "answer": "Arizona",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "KILLER MUSICALS",
+        "value": 800,
+        "question": "In a 1966 musical, Beauregard Jackson Pickett Burnside, husband of this title \"Auntie\", falls off an Alp",
+        "answer": "Auntie Mame",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "INSURANCE",
+        "value": 800,
+        "question": "Constitutions have amendments, wills have codicils, policies have these (like horses)",
+        "answer": "riders",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "5 DWARFS",
+        "value": 800,
+        "question": "A companion to the Dog Star Sirius, the Pup was the first star identified as one of these colorful objects",
+        "answer": "white dwarf",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COOL!",
+        "value": 800,
+        "question": "The Weathermaker of 1928 was an air conditioner from this company adapted for home use",
+        "answer": "Carrier",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THAT'S LIKE, SO TOTALLY \"RAD\"",
+        "value": 800,
+        "question": "It's the straight line extending from the center of a circle to the circumference",
+        "answer": "radius",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THEY'RE INDIGENOUS",
+        "value": 1000,
+        "question": "Indigenous Hawaiians use this 5-letter word for non-indigenous Hawaiians",
+        "answer": "haole",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "KILLER MUSICALS",
+        "value": 1000,
+        "question": "The murder mystery musical \"Something's Afoot\" parodies the plot of this author's \"Ten Little Indians\"",
+        "answer": "Agatha Christie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "INSURANCE",
+        "value": 1000,
+        "question": "It's discrimination in issuing property insurance based on the property's location",
+        "answer": "redlining",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "5 DWARFS",
+        "value": 1000,
+        "question": "In Dickens' \"Old Curiosity Shop\", Quilp the dwarf has his evil eye on this \"Little\" character",
+        "answer": "Little Nell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COOL!",
+        "value": 1000,
+        "question": "In Arctic or subarctic tundra, it's perennially frozen subsoil, also called pergelisol",
+        "answer": "permafrost",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THAT'S LIKE, SO TOTALLY \"RAD\"",
+        "value": 1000,
+        "question": "This electronics chain first opened in 1921 on Brattle Street, near the site of the Boston Massacre",
+        "answer": "RadioShack",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "DUELS",
+      "MOTOR SPORTS",
+      "COUNTRIES OF THE WORLD",
+      "LET'S MAKE A DALE",
+      "SHORT STORIES",
+      "ACRONYMBLE"
+    ],
+    "clues": [
+      {
+        "category": "DUELS",
+        "value": 400,
+        "question": "In 1804, 3 years after his son had been killed in a duel, this man was fatally shot on the same spot by Aaron Burr",
+        "answer": "Alexander Hamilton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOTOR SPORTS",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew reports from the Las Vegas Motor Speedway.)  To keep the rubber on the road, racecar tires adapt an early U.S. slogan & say \"Don't Put\" this \"on Me\"",
+        "answer": "tread",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 400,
+        "question": "The U.S. state known as the \"Land of Shining Mountains\" borders this country",
+        "answer": "Canada (the state is Montana)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LET'S MAKE A DALE",
+        "value": 400,
+        "question": "In the '70s governors of this state included Dale Bumpers & a future president",
+        "answer": "Arkansas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHORT STORIES",
+        "value": 400,
+        "question": "Rats cut through an Inquisition prisoner's ropes, allowing him to escape this Poe title torture",
+        "answer": "\"The Pit and the Pendulum\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ACRONYMBLE",
+        "value": 400,
+        "question": "Certain Americans of British ancestry:WASP",
+        "answer": "White Anglo-Saxon Protestant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "DUELS",
+        "value": 800,
+        "question": "Button Gwinnett was killed in a duel over command of GA.'s military in May 1777, 10 months after signing this",
+        "answer": "Declaration of Independence",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOTOR SPORTS",
+        "value": 800,
+        "question": "The day A.J. Foyt became the first 4-time winner of this race, Janet Guthrie became the first woman to drive in it",
+        "answer": "Indianapolis 500",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 800,
+        "question": "This European grand duchy was founded in 963 when Count Siegfried acquired land in the area",
+        "answer": "Luxembourg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LET'S MAKE A DALE",
+        "value": 800,
+        "question": "Dalia Messick became Dale to make it in the male-dominated comics world & created this female reporter",
+        "answer": "Brenda Starr",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHORT STORIES",
+        "value": 800,
+        "question": "(Hi-Ho, Kermit the Frog here!)  Published in 1865, this \"Celebrated\" story catapulted Mark Twain to fame",
+        "answer": "\"The Celebrated Jumping Frog of Calaveras County\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ACRONYMBLE",
+        "value": 800,
+        "question": "A senior citizen's group:AARP",
+        "answer": "American Association of Retired Persons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "DUELS",
+        "value": 1200,
+        "question": "In 1806 this future president killed Charles Dickinson in a duel after Dickinson denounced him in the press",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOTOR SPORTS",
+        "value": 1200,
+        "question": "(Jimmy of the Clue Crew reports from the Las Vegas Motor Speedway.)  Winston Cup stock car racing is named for a brand of this product, which I won't use when filling up",
+        "answer": "cigarettes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 1200,
+        "question": "The Czech Republic is bordered on the north by Poland, on the east by Slovakia & on the west by this country",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LET'S MAKE A DALE",
+        "value": 1200,
+        "question": "Dale Gardner made his first space flight on this shuttle in 1983; he quit the program after it exploded in 1986",
+        "answer": "Challenger",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHORT STORIES",
+        "value": 1200,
+        "question": "This James Thurber character envisions himself as the world's greatest pistol shot, among other things",
+        "answer": "Walter Mitty",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ACRONYMBLE",
+        "value": 1200,
+        "question": "A government organization:OSHA",
+        "answer": "Occupational Safety and Health Administration",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "DUELS",
+        "value": 1600,
+        "question": "In 1598 this playwright & \"To Celia\" poet narrowly escaped the gallows for killing an actor in a duel",
+        "answer": "Ben Jonson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOTOR SPORTS",
+        "value": 1600,
+        "question": "Seating over 140,000, this state's Talladega Superspeedway claims the title of biggest motor sports facility",
+        "answer": "Alabama",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 1600,
+        "question": "The name of this most populous country in Africa contains the name of one of the countries it borders",
+        "answer": "Nigeria (for Niger)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LET'S MAKE A DALE",
+        "value": 1600,
+        "question": "After you've won friends & influenced people next follow his advice on how to stop worrying & start living",
+        "answer": "Dale Carnegie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHORT STORIES",
+        "value": 1600,
+        "question": "While in prison for embezzlement, he published his 1st short story, \"Whistling Dick's Christmas Stocking\"",
+        "answer": "O. Henry (William Sydney Porter)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ACRONYMBLE",
+        "value": 1600,
+        "question": "For Internet geeks:WYSIWYG",
+        "answer": "What You See Is What You Get",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "DUELS",
+        "value": 2000,
+        "question": "In 1829 Arthur Wellesley, who sported this title, challenged Lord Winchelsea to a duel; both missed their targets",
+        "answer": "Duke of Wellington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOTOR SPORTS",
+        "value": 2000,
+        "question": "This other name for Grand Prix racing refers to the specifications of the Federation Internationale de L'Automobile",
+        "answer": "Formula 1",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 2000,
+        "question": "With over 20 million, this country had more casualties during World War II than any other",
+        "answer": "Soviet Union",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LET'S MAKE A DALE",
+        "value": 2000,
+        "question": "This minstrel tunes up in the tales of Robin Hood",
+        "answer": "Allan-a-Dale",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHORT STORIES",
+        "value": 2000,
+        "question": "His 1921 collection \"The Trembling of a Leaf\" contained \"Miss Thompson\", which was later dramatized as \"Rain\"",
+        "answer": "Somerset Maugham",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ACRONYMBLE",
+        "value": 2000,
+        "question": "To a nuclear physicist:GUT",
+        "answer": "Grand Unified Theory",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "TV HISTORY",
+    "clue": "The 1979 sequel to this miniseries is set in Henning, Tennessee, beginning in 1882",
+    "answer": "Roots"
+  },
+  "gameId": "4096",
+  "gameDate": "Monday, May 27, 2002"
+}

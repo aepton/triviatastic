@@ -1,0 +1,556 @@
+{
+  "title": "Show #3293 - Wednesday, December 23, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "STATE BIRDS",
+      "A CHRISTMAS SONGBOOK",
+      "GUINNESS RECORDS",
+      "BRITISH FICTIONAL CHARACTERS",
+      "THE PERFECT GIFT",
+      "\"JOY\" TO THE WORLD"
+    ],
+    "clues": [
+      {
+        "category": "STATE BIRDS",
+        "value": 100,
+        "question": "Arizona's state bird is a wren named for this type of plant",
+        "answer": "a cactus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A CHRISTMAS SONGBOOK",
+        "value": 100,
+        "question": "This \"jolly happy soul\" had a \"corncob pipe and a button nose and two eyes made out of coal\"",
+        "answer": "Frosty the Snowman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 100,
+        "question": "In 1970 the Pringles plant in Tennessee produced one of these measuring 23\" X 14 1/2\" -- yum! yum!",
+        "answer": "a potato chip",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BRITISH FICTIONAL CHARACTERS",
+        "value": 100,
+        "question": "Disraeli created Vivian Grey; he created Dorian Gray",
+        "answer": "Oscar Wilde",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE PERFECT GIFT",
+        "value": 100,
+        "question": "This greeting card company operates \"Gold Crown\" stores full of gift ideas",
+        "answer": "Hallmark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" TO THE WORLD",
+        "value": 100,
+        "question": "It's slang for a control lever on an airplane or on a video game",
+        "answer": "a joystick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE BIRDS",
+        "value": 200,
+        "question": "There'll be blue hens over the capital, Dover, in this state where they're the state bird",
+        "answer": "Delaware",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A CHRISTMAS SONGBOOK",
+        "value": 200,
+        "question": "\"On the tenth day of Christmas my true love gave to me, ten lords\" a-doin' this",
+        "answer": "leaping",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 200,
+        "question": "Charles Osborne did this every 1 1/2 seconds from 1922 to 1990; what he needed was a good scare!",
+        "answer": "hiccupped",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BRITISH FICTIONAL CHARACTERS",
+        "value": 200,
+        "question": "He created Mrs. Flanders, also known as Moll",
+        "answer": "Daniel Defoe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE PERFECT GIFT",
+        "value": 200,
+        "question": "In the past, a gold watch from an employer followed an employee's decision to take this action",
+        "answer": "retirement",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" TO THE WORLD",
+        "value": 200,
+        "question": "A pleasurable trip in an automobile, especially when driving recklessly",
+        "answer": "a joyride",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE BIRDS",
+        "value": 300,
+        "question": "City name of the state bird seen here",
+        "answer": "the Baltimore oriole",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A CHRISTMAS SONGBOOK",
+        "value": 300,
+        "question": "Elvis sang, \"You'll be doin' all right with your Christmas of white, but I'll have\" this",
+        "answer": "a blue Christmas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 300,
+        "question": "Located near Seattle, the world's largest building in volume is this company's main assembly plant",
+        "answer": "Boeing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BRITISH FICTIONAL CHARACTERS",
+        "value": 300,
+        "question": "Griffin is the name of this H.G. Wells title character",
+        "answer": "the Invisible Man",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE PERFECT GIFT",
+        "value": 600,
+        "question": "(Hi, I'm Bob Eubanks.)  Traditionally, presents for newlyweds' first anniversary are made from this material",
+        "answer": "paper",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" TO THE WORLD",
+        "value": 300,
+        "question": "A \"wrapped up\" baby is described as one of these happy packages",
+        "answer": "a bundle of joy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE BIRDS",
+        "value": 400,
+        "question": "Wyoming honors this blackbird relative whose name also belongs to a legendary Harlem Globetrotter",
+        "answer": "the meadowlark",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A CHRISTMAS SONGBOOK",
+        "value": 400,
+        "question": "\"I saw Mommy\" doing this, \"underneath the mistletoe last night\"",
+        "answer": "kissing Santa Claus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 400,
+        "question": "There are more statues honoring this religious leader than any other person in the world",
+        "answer": "Buddha",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BRITISH FICTIONAL CHARACTERS",
+        "value": 400,
+        "question": "Richard Llewellyn novel with coal miner Gwilym Morgan & minister Mr. Gruffydd",
+        "answer": "How Green Was My Valley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE PERFECT GIFT",
+        "value": 400,
+        "question": "When prom dates exchange flowers, the girl gets a corsage & the boy gets one of these",
+        "answer": "a boutonniere",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" TO THE WORLD",
+        "value": 400,
+        "question": "A classic practical joke, this device vibrates irritatingly when pressed into the hand of another",
+        "answer": "a joy buzzer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE BIRDS",
+        "value": 500,
+        "question": "The willow ptype of this ptundra dweller is Alaska's state bird",
+        "answer": "the ptarmigan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A CHRISTMAS SONGBOOK",
+        "value": 500,
+        "question": "In the 1964 TV special \"Rudolph the Red-Nosed Reindeer\", this singer introduced \"A Holly Jolly Christmas\"",
+        "answer": "Burl Ives",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 500,
+        "question": "A 1987 Sunday edition of this U.S. newspaper holds the record for most massive issue, 12 pounds & 1,612 pages",
+        "answer": "The New York Times",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BRITISH FICTIONAL CHARACTERS",
+        "value": 500,
+        "question": "Self-described \"singleton\" whose bestselling \"diary\" was concocted by Helen Fielding",
+        "answer": "Bridget Jones",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE PERFECT GIFT",
+        "value": 500,
+        "question": "This large gift France gave to the U.S. was dedicated in 1886",
+        "answer": "the Statue of Liberty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"JOY\" TO THE WORLD",
+        "value": 500,
+        "question": "It's the rousing musical composition heard here",
+        "answer": "\"Ode To Joy\" (from Beethoven's 9th)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC NAMES",
+      "THIS MEANS WAR!",
+      "TV PARENTS",
+      "GO WITH THE FLOW",
+      "AT HOME IN EUROPE",
+      "CROSSWORD CLUES \"F\""
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "In May 1927 this American aviator became the first man to fly the Atlantic solo",
+        "answer": "Charles Lindbergh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THIS MEANS WAR!",
+        "value": 200,
+        "question": "It's German for \"struggle\", as in my or \"Mein\" struggle",
+        "answer": "Kampf",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TV PARENTS",
+        "value": 200,
+        "question": "Can we talk?  This comedienne guest-starred as Kathy Griffin's wacky mom on \"Suddenly Susan\"",
+        "answer": "Joan Rivers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GO WITH THE FLOW",
+        "value": 200,
+        "question": "The Nile of Africa",
+        "answer": "the Mediterranean Sea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CROSSWORD CLUES \"F\"",
+        "value": 200,
+        "question": "Dining utensil \"in the road\"(4)",
+        "answer": "fork",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "He abdicated the Russian throne in 1917, a year before he & his family were executed",
+        "answer": "Nicholas II",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THIS MEANS WAR!",
+        "value": 400,
+        "question": "Churchill's famous statement about the R.A.F. begins \"Never in the field of human\" this",
+        "answer": "conflict",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TV PARENTS",
+        "value": 400,
+        "question": "She went from being \"That Girl\" to appearing as Rachel Green's mom on \"Friends\"",
+        "answer": "Marlo Thomas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GO WITH THE FLOW",
+        "value": 400,
+        "question": "The Rio Grande of the U.S.",
+        "answer": "the Gulf of Mexico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AT HOME IN EUROPE",
+        "value": 400,
+        "question": "While living in Davos, Switzerland, far from an ocean, he wrapped up \"Treasure Island\"",
+        "answer": "Robert Louis Stevenson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"F\"",
+        "value": 400,
+        "question": "Morris the Cat's adjective(7)",
+        "answer": "finicky",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 600,
+        "question": "Leopold I became king of this country in 1831 after refusing the throne of Greece",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THIS MEANS WAR!",
+        "value": 600,
+        "question": "Vic Morrow was Sergeant Chip Saunders in this 1960s TV series",
+        "answer": "Combat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TV PARENTS",
+        "value": 600,
+        "question": "Jerry Stiller & Estelle Harris were the ever-screeching parents of this \"Seinfeld\" character",
+        "answer": "George Costanza",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GO WITH THE FLOW",
+        "value": 1200,
+        "question": "The Jordan of Israel",
+        "answer": "the Dead Sea",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AT HOME IN EUROPE",
+        "value": 600,
+        "question": "In 1895 these newlyweds moved into a home on Rue de la Glaciere in Paris, & radiated happiness",
+        "answer": "Pierre & Marie Curie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"F\"",
+        "value": 600,
+        "question": "Mr. Christian's Christian name(8)",
+        "answer": "Fletcher",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 800,
+        "question": "After his mother died in 1827, this Zulu chief became openly psychotic & was murdered the next year",
+        "answer": "Shaka",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THIS MEANS WAR!",
+        "value": 800,
+        "question": "As it's French for \"war\", it makes the title \"The Return of Martin War\"",
+        "answer": "guerre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TV PARENTS",
+        "value": 800,
+        "question": "George Segal plays Jack Gallo, publisher of Blush magazine & Laura San Giacomo's dad on this sitcom",
+        "answer": "Just Shoot Me!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GO WITH THE FLOW",
+        "value": 800,
+        "question": "The Danube of Europe",
+        "answer": "the Black Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AT HOME IN EUROPE",
+        "value": 800,
+        "question": "La Rabida, a Franciscan monastery in Spain, was home to this explorer in 1485 & later, to Hernando Cortes",
+        "answer": "Christopher Columbus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"F\"",
+        "value": 800,
+        "question": "Just, or just blond(4)",
+        "answer": "fair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 1000,
+        "question": "This Austrian archduchess' 1736 marriage established the house of Hapsburg-Lorraine",
+        "answer": "Maria Theresa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THIS MEANS WAR!",
+        "value": 1000,
+        "question": "A Muslim may fulfill one of these fights against evil by heart, tongue, hand or sword",
+        "answer": "jihad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TV PARENTS",
+        "value": 2000,
+        "question": "(Hi, I'm Carol Burnett.)  On the 100th episode of \"Mad About You\", I played Jamie's mom & this actor played her dad",
+        "answer": "Carroll O'Connor",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AT HOME IN EUROPE",
+        "value": 1000,
+        "question": "In the 1890s while studying law, he lived with an Anglo-Indian family at 20 Baron's Court Road, London",
+        "answer": "Mohandas K. Gandhi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CROSSWORD CLUES \"F\"",
+        "value": 1000,
+        "question": "Pits that lack atheists(8)",
+        "answer": "foxholes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FOOD & DRINK",
+    "clue": "This coffee brand was so named because its creator served it only once a year at a yuletide dinner party",
+    "answer": "Yuban"
+  },
+  "gameId": "3293",
+  "gameDate": "Wednesday, December 23, 1998"
+}

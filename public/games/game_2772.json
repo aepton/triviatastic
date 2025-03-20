@@ -1,0 +1,574 @@
+{
+  "title": "Show #5562 - Tuesday, November 11, 2008",
+  "jeopardyRound": {
+    "categories": [
+      "STATE THE LANDMARK",
+      "IT WASN'T RATED R",
+      "ON THE MONEY",
+      "TEEN CUISINE",
+      "ANCIENT HISTORY",
+      "LITERARY RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "STATE THE LANDMARK",
+        "value": 200,
+        "question": "Kealakekua Bay,Nuuanu Pali,Akaka Falls",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "IT WASN'T RATED R",
+        "value": 200,
+        "question": "In 2008 Brendan Fraser took a third stab at this title monster in \"Tomb of the Dragon Emperor\"",
+        "answer": "the Mummy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ON THE MONEY",
+        "value": 200,
+        "question": "In 2002 this neighbor's currency hit a low of 61.79 cents to the U.S. dollar",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TEEN CUISINE",
+        "value": 200,
+        "question": "If you're twisted, you'll love these Wetzel treats in flavors like Jalapeno Cheese Melt & Sinful Cinnamon",
+        "answer": "pretzels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 200,
+        "question": "Queen Hatshepsut of Egypt's 18th Dynasty dressed as a man so that she could remain this type of king",
+        "answer": "a pharaoh",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LITERARY RHYME TIME",
+        "value": 200,
+        "question": "Twain's outdoor recreation areas",
+        "answer": "Mark's parks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE THE LANDMARK",
+        "value": 400,
+        "question": "The Mendenhall Glacier,Klondike Gold Rush National Historical Park",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "IT WASN'T RATED R",
+        "value": 400,
+        "question": "In this spy film a phone-throwing Steve Carell unleashed \"the element of surpraaaah...!\"",
+        "answer": "Get Smart",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ON THE MONEY",
+        "value": 400,
+        "question": "To show peaceful intentions, you can hold up a dime as it has this branch on it",
+        "answer": "the olive branch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TEEN CUISINE",
+        "value": 400,
+        "question": "For a veggie version of this, top the crust with zucchini & bell peppers instead of the usual pepperoni",
+        "answer": "pizza",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 400,
+        "question": "His father told him to \"Seek out a kingdom worthy of thyself, for Macedonia is too little for thee\"",
+        "answer": "Alexander the Great",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LITERARY RHYME TIME",
+        "value": 400,
+        "question": "Austen's throbs & twinges",
+        "answer": "Jane's pains",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE THE LANDMARK",
+        "value": 600,
+        "question": "Delta Blues Museum,Natchez Trace Parkway",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "IT WASN'T RATED R",
+        "value": 600,
+        "question": "Jim Carrey's motto is \"An elephant's faithful, 100%\" in this animated feature",
+        "answer": "Horton Hears a Who!",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ON THE MONEY",
+        "value": 600,
+        "question": "A synonym for \"monarch\", it can also mean an old British gold coin",
+        "answer": "a sovereign (a crown accepted)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TEEN CUISINE",
+        "value": 600,
+        "question": "No horses were harmed to make the Horsey Sauce served with this roast beef chain's sandwiches",
+        "answer": "Arby's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 600,
+        "question": "In 1700 B.C. the palace of Knossos on this Minoan island was destroyed by an earthquake",
+        "answer": "Crete",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LITERARY RHYME TIME",
+        "value": 600,
+        "question": "Harriet Beecher's private agonies",
+        "answer": "Stowe's woes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE THE LANDMARK",
+        "value": 800,
+        "question": "Greenfield Village,Kellogg Bird Sanctuary",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "IT WASN'T RATED R",
+        "value": 800,
+        "question": "It's no fairy tale--or is it?--when Princess Giselle hits Manhattan in this 2007 musical film",
+        "answer": "Enchanted",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ON THE MONEY",
+        "value": 800,
+        "question": "There's a picture of the Bolshoi Theater on the note worth 100 of these",
+        "answer": "the ruble",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TEEN CUISINE",
+        "value": 800,
+        "question": "In July 2008 this chain's Blizzard of the Month was made with Thin Mint Girl Scout cookies",
+        "answer": "Dairy Queen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 800,
+        "question": "The son of Suddhodana, a wealthy ruler, he was born in what's now Nepal around 563 B.C.",
+        "answer": "Buddha",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LITERARY RHYME TIME",
+        "value": 800,
+        "question": "Bradbury's portions of the week",
+        "answer": "Ray's days",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE THE LANDMARK",
+        "value": 1000,
+        "question": "Zion National Park,Monument Valley",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "IT WASN'T RATED R",
+        "value": 1000,
+        "question": "Meryl Streep's daughter is caught up in a musical version of \"My Three Dads\" in this film",
+        "answer": "Mamma Mia!",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ON THE MONEY",
+        "value": 1000,
+        "question": "(Jimmy of the Clue Crew explains with an animated illustration on the monitor.)  The most common theory of the origin of the dollar sign is that instead of writing Ps as a plural, people started putting the S over the P; the P stood for this",
+        "answer": "peso",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TEEN CUISINE",
+        "value": 1000,
+        "question": "For your next party, have your photo printed on these candies; the 13th letter of the alphabet will be on the reverse",
+        "answer": "M&M's",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 1000,
+        "question": "This Babylonian king's code states that if a son strikes his father, the son's hands shall be cut off",
+        "answer": "Hammurabi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LITERARY RHYME TIME",
+        "value": 1000,
+        "question": "Kerouac's burlap bags",
+        "answer": "Jack's sacks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "A TESTAMENT TO YOUTH",
+      "WOMEN IN SPORTS",
+      "BODY WORKS",
+      "ONCE UPON A NOVEMBER",
+      "GUINNESS RECORDS",
+      "FRENCH"
+    ],
+    "clues": [
+      {
+        "category": "A TESTAMENT TO YOUTH",
+        "value": 400,
+        "question": "He was hidden for 3 months before an \"ark of bulrushes\" was built for him",
+        "answer": "Moses",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 400,
+        "question": "It was still love all even after she beat sis Serena for her fifth Wimbledon title",
+        "answer": "Venus Williams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BODY WORKS",
+        "value": 400,
+        "question": "While veins carry blood toward the heart, these vessels carry blood away from the heart",
+        "answer": "arteries",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ONCE UPON A NOVEMBER",
+        "value": 400,
+        "question": "This canal between the Arabian desert & the Sinai peninsula formally opened Nov. 17, 1869",
+        "answer": "the Suez Canal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 400,
+        "question": "The smallest of these recognized by Guinness is the chicken-sized Compsognathus",
+        "answer": "a dinosaur",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FRENCH",
+        "value": 400,
+        "question": "An eleve attends une ecole, this",
+        "answer": "a school",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "A TESTAMENT TO YOUTH",
+        "value": 800,
+        "question": "He sat on his father David's mule before taking his seat on the throne",
+        "answer": "Solomon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 800,
+        "question": "In 2008 this figure skater added a new title: winner of \"Dancing with the Stars\"",
+        "answer": "Kristi Yamaguchi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BODY WORKS",
+        "value": 800,
+        "question": "This reddish-brown organ, the largest inside the body, is believed to perform at least 500 functions",
+        "answer": "the liver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ONCE UPON A NOVEMBER",
+        "value": 800,
+        "question": "This nervous 33-year-old married Mary Todd on Nov. 4, 1842",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 800,
+        "question": "Alan Nash holds the record for crushing these with his toes, 23 in 30 seconds, & that's no yolk!",
+        "answer": "eggshells",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FRENCH",
+        "value": 800,
+        "question": "Une cigogne is French for this wading bird that really delivers",
+        "answer": "a stork",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "A TESTAMENT TO YOUTH",
+        "value": 1200,
+        "question": "His offering of an animal was accepted by God, while his sibling's offering of fruit wasn't",
+        "answer": "Abel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 1200,
+        "question": "(Hi, I'm Misty May-Treanor.  And I'm Kerri Walsh.)Kerri & I won the USA's first gold in women's beach volleyball at the 2004 Olympics held in this city--we didn't lose a single set",
+        "answer": "Athens",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BODY WORKS",
+        "value": 1200,
+        "question": "Hormones from this gland at the base of the neck control the body's metabolism",
+        "answer": "the thyroid gland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ONCE UPON A NOVEMBER",
+        "value": 1200,
+        "question": "This pair saw the Pacific Ocean for the first time at the mouth of the Columbia River on Nov. 7, 1805",
+        "answer": "Lewis & Clark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 1200,
+        "question": "The most votes cast in a national election occurred in May 2004 when 387 million voted in this country",
+        "answer": "India",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FRENCH",
+        "value": 1200,
+        "question": "Sucre is this crystalline substance",
+        "answer": "sugar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "A TESTAMENT TO YOUTH",
+        "value": 1600,
+        "question": "The sons of Zilpah hated this brother for his fancy clothes & the dreams that said he'd reign over them",
+        "answer": "Joseph",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 1600,
+        "question": "In 2008 she revved up to become the first woman to win an IndyCar race, the Indy Japan 300",
+        "answer": "Danica Patrick",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BODY WORKS",
+        "value": 1600,
+        "question": "These 3 pairs of glands, including the sublingual ones, are what make your mouth water",
+        "answer": "salivary glands",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ONCE UPON A NOVEMBER",
+        "value": 1600,
+        "question": "The colonists' response to this act that went into effect Nov. 1, 1765: \"No taxation without representation\"",
+        "answer": "the Stamp Act",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 1600,
+        "question": "In a 110-hour \"Bardathon\", Adrian Hilton read the complete works of this author",
+        "answer": "Shakespeare",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FRENCH",
+        "value": 1600,
+        "question": "Un cheval is a horse; cheveux is this, as on one's tete",
+        "answer": "hair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "A TESTAMENT TO YOUTH",
+        "value": 2000,
+        "question": "He discovered his father's plan after he asked where the lamb was for the burnt offering",
+        "answer": "Isaac",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 2000,
+        "question": "Before scoring that winning goal in the 1999 Women's World Cup, she'd played soccer for a Japanese team",
+        "answer": "Brandi Chastain",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BODY WORKS",
+        "value": 2000,
+        "question": "The plantar fascia is a thick band of tissue that keeps the bones of this body part in place",
+        "answer": "feet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ONCE UPON A NOVEMBER",
+        "value": 2000,
+        "question": "On Nov. 29, 1929 he sent the message \"My calculations indicate that we have reached the vicinity of the South Pole\"",
+        "answer": "Richard Byrd",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 2000,
+        "question": "With a designed speed of 128 mph, the fastest of these rides is Kingda Ka at Six Flags in New Jersey",
+        "answer": "a roller coaster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FRENCH",
+        "value": 2000,
+        "question": "Jamais is this adverb",
+        "answer": "never",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EARTH FACTS",
+    "clue": "Because of the Earth's rotation, a person at sea level is lightest when standing at this degree of latitude",
+    "answer": "0 degrees"
+  },
+  "gameId": "5562",
+  "gameDate": "Tuesday, November 11, 2008"
+}

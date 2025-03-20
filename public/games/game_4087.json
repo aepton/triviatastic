@@ -1,0 +1,574 @@
+{
+  "title": "Show #6549 - Thursday, February 21, 2013",
+  "jeopardyRound": {
+    "categories": [
+      "THE WIT OF OSCAR WILDE",
+      "ORGANIZATIONS",
+      "HEAVY METAL HEROES",
+      "\"B\" NICE",
+      "NAMES IN AMERICAN LORE",
+      "THE YEAR THAT WAS"
+    ],
+    "clues": [
+      {
+        "category": "THE WIT OF OSCAR WILDE",
+        "value": 200,
+        "question": "Relatives \"haven't got the remotest knowledge of how to live, nor the smallest instinct about when to\" do this",
+        "answer": "die",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 200,
+        "question": "After her daughter was killed by an inebriated motorist, Candy Lightner founded this organization",
+        "answer": "M.A.D.D.",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HEAVY METAL HEROES",
+        "value": 200,
+        "question": "He bedeviled us as the lead singer of Black Sabbath before his reality TV fame",
+        "answer": "(Ozzy) Osbourne",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"B\" NICE",
+        "value": 200,
+        "question": "Medically, it's the opposite of malignant",
+        "answer": "benign",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAMES IN AMERICAN LORE",
+        "value": 200,
+        "question": "Born in New England in 1774, he planted his way to central Ohio & beyond",
+        "answer": "Johnny Appleseed",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE YEAR THAT WAS",
+        "value": 200,
+        "question": "Grand Rapids, Michigan became the first city in the U.S. to have this added to its water supply",
+        "answer": "fluoride",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE WIT OF OSCAR WILDE",
+        "value": 400,
+        "question": "In \"A Woman of No Importance\", Wilde wrote, \"One should never trust a woman who tells one her real\" this",
+        "answer": "age",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 400,
+        "question": "The national association for this board game operates an online catalog at www.wordgear.com",
+        "answer": "Scrabble",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HEAVY METAL HEROES",
+        "value": 400,
+        "question": "With his work on songs like \"Hot For Teacher\", some rank him as the greatest heavy metal guitarist",
+        "answer": "Eddie Van Halen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"B\" NICE",
+        "value": 400,
+        "question": "Insurance entitlements, or things you might share with a really good friend",
+        "answer": "benefits",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAMES IN AMERICAN LORE",
+        "value": 400,
+        "question": "He said, \"Before I'd let your steam drill beat me down, Lord, I'd die with this hammer in my hand\"",
+        "answer": "John Henry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE YEAR THAT WAS",
+        "value": 400,
+        "question": "In July dense fog caused a B-25 bomber to crash into this building's 78th & 79th floors",
+        "answer": "The Empire State Building",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE WIT OF OSCAR WILDE",
+        "value": 600,
+        "question": "This handsome title guy likes scandals about others, \"but scandals about myself...have not got the charm of novelty\"",
+        "answer": "Dorian Gray",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 600,
+        "question": "The March of Dimes was established by FDR in 1938 to put an end to this disease",
+        "answer": "polio",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HEAVY METAL HEROES",
+        "value": 600,
+        "question": "1980s heavy metal included this band that featured Izzy, Duff & Axl",
+        "answer": "Guns N' Roses",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"B\" NICE",
+        "value": 600,
+        "question": "A favor or gift, it's a homonym of a Colonial frontiersman's name",
+        "answer": "boon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAMES IN AMERICAN LORE",
+        "value": 600,
+        "question": "This Sioux leader surrendered at Fort Buford in 1881, 5 years after winning a \"little\" battle",
+        "answer": "Sitting Bull",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE YEAR THAT WAS",
+        "value": 600,
+        "question": "Film releases included this classic with Joan Crawford (not Kate Winslet) as a restauranteur",
+        "answer": "Mildred Pierce",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE WIT OF OSCAR WILDE",
+        "value": 800,
+        "question": "This \"is the name everyone gives to their mistakes\"",
+        "answer": "experience",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 800,
+        "question": "We salute you if you know the woman seen here was the first female head of this organization",
+        "answer": "The Salvation Army",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HEAVY METAL HEROES",
+        "value": 800,
+        "question": "\"We're not gonna take it\" if you can't name this band fronted by Dee Snider",
+        "answer": "Twisted Sister",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"B\" NICE",
+        "value": 800,
+        "question": "Robert Burns wrote that the men of Ayr were honest & the lasses were this",
+        "answer": "bonnie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAMES IN AMERICAN LORE",
+        "value": 800,
+        "question": "It was the nickname of high-living turn-of-the-20th century financier James Brady",
+        "answer": "Diamond Jim",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE YEAR THAT WAS",
+        "value": 800,
+        "question": "On September 2, as supreme commander for the Allies, he accepted Japan's surrender",
+        "answer": "MacArthur",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE WIT OF OSCAR WILDE",
+        "value": 1000,
+        "question": "\"Every great man nowadays has his disciples, and it is always\" this one \"who writes the biography\"",
+        "answer": "Judas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ORGANIZATIONS",
+        "value": 1000,
+        "question": "The voice for youngsters who \"cannot vote, lobby or speak for themselves\", the CDF is short for this",
+        "answer": "Children's Defense Fund",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HEAVY METAL HEROES",
+        "value": 1000,
+        "question": "This \"Fistful of Metal\" band named itself for a disease",
+        "answer": "Anthrax",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"B\" NICE",
+        "value": 1000,
+        "question": "Officially, it's the \"B\" in B.P.O.E.",
+        "answer": "benevolent",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAMES IN AMERICAN LORE",
+        "value": 1000,
+        "question": "Known as \"The King of the Keelboatmen\", he was a leading pilot on the Mississippi River",
+        "answer": "Mike Fink",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE YEAR THAT WAS",
+        "value": 1000,
+        "question": "This is the year that was",
+        "answer": "1945",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "U.S. GEOGRAPHY",
+      "PSYCH! (-OLOGY)",
+      "ALMOST BEFORE & AFTER",
+      "ROYAL WEDDINGS",
+      "DIRECTORS' BIG SCREEN FAREWELLS",
+      "THE LARGE HADRON COLLIDER"
+    ],
+    "clues": [
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "This state's highest point is Britton Hill in the panhandle just south of the Alabama border",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PSYCH! (-OLOGY)",
+        "value": 400,
+        "question": "This musical vehicle \"effect\" is where people feel pressured to conform; hop on it!",
+        "answer": "bandwagon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ALMOST BEFORE & AFTER",
+        "value": 400,
+        "question": "\"Indestructible\" airplane recorder that spawned a 1900 Asian revolt vs. foreigners",
+        "answer": "the Black Boxer Rebellion",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ROYAL WEDDINGS",
+        "value": 400,
+        "question": "Prince Philippe of this country wed Mathilde D'Udekem D'Acoz, who speaks Flemish & French, helping bridge a political divide",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DIRECTORS' BIG SCREEN FAREWELLS",
+        "value": 400,
+        "question": "The epic \"A Passage to India\"",
+        "answer": "David Lean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE LARGE HADRON COLLIDER",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew reports from CERN in Switzerland.)  Visible matter accounts for only 4% of the universe; via the LHC scientists look for particles responsible for this type of matter & energy that make up the other 96%",
+        "answer": "dark matter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "Although 500 miles from the Pacific, Lewiston, Idaho is an ocean port thanks to this river's connection with the Columbia",
+        "answer": "Snake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PSYCH! (-OLOGY)",
+        "value": 800,
+        "question": "The image, which is a kitten on a cloud obviously, is part of this test named for the man who introduced it in 1921",
+        "answer": "Rorschach",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ALMOST BEFORE & AFTER",
+        "value": 800,
+        "question": "Fromage-topped potage served at the NFL's championship game",
+        "answer": "French Onion Super Bowl",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ROYAL WEDDINGS",
+        "value": 800,
+        "question": "This 14-year-old married the 15-year-old dauphin Louis by proxy in Vienna on April 19, 1770",
+        "answer": "Marie Antoinette",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DIRECTORS' BIG SCREEN FAREWELLS",
+        "value": 800,
+        "question": "1990's \"La Voce Della Luna\"",
+        "answer": "(Federico) Fellini",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE LARGE HADRON COLLIDER",
+        "value": 800,
+        "question": "The LHC tries to approximate the time when the universe was a hot, dense soup called a QGP, a quark-gluon this",
+        "answer": "plasma",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1200,
+        "question": "Dubuque, Iowa lies at the junction of 3 states: Iowa, Illinois & this one",
+        "answer": "Wisconsin",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PSYCH! (-OLOGY)",
+        "value": 1200,
+        "question": "Accepting a task & then procrastinating is a classic sign of this oxymoronic disorder",
+        "answer": "passive aggressiveness",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ALMOST BEFORE & AFTER",
+        "value": 1200,
+        "question": "Capote's tale of jewelry window shopping starring a \"Beverly Hills 90210\" actress",
+        "answer": "Breakfast at Tiffani Amber Thiessen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ROYAL WEDDINGS",
+        "value": 1200,
+        "question": "To marry Prince Albert of Monaco, Charlene Wittstock wore a gown with 40,000 Swarovski these",
+        "answer": "crystals",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DIRECTORS' BIG SCREEN FAREWELLS",
+        "value": 1200,
+        "question": "A gangster saga, not a spaghetti western: \"Once Upon a Time in America\"",
+        "answer": "Sergio Leone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE LARGE HADRON COLLIDER",
+        "value": 1200,
+        "question": "(Kelly of the Clue Crew reports from CERN in Switzerland.)  In an accelerator, particles circulate in a vacuum tube kept in nearly circular orbits by many of the dipole type of these field-producing objects",
+        "answer": "magnets",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1600,
+        "question": "North Carolina's easternmost point lies on this island where you'll also find a famous cape",
+        "answer": "Hatteras",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PSYCH! (-OLOGY)",
+        "value": 1600,
+        "question": "This Latin word for \"mask\" refers to one's public image as distinguished from the inner self",
+        "answer": "persona",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ALMOST BEFORE & AFTER",
+        "value": 1600,
+        "question": "Legendary, perverse French nobleman who uses the surface of the ground to make his old-timey dwelling",
+        "answer": "Marquis de Sod House",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ROYAL WEDDINGS",
+        "value": 1600,
+        "question": "\"As marriage must sooner or later come to pass\", this king chose Princess Charlotte sight unseen & wed her Sept. 8, 1761",
+        "answer": "George III",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DIRECTORS' BIG SCREEN FAREWELLS",
+        "value": 1600,
+        "question": "His second & last talkie, 1931's \"The Struggle\"",
+        "answer": "(D.W.) Griffith",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE LARGE HADRON COLLIDER",
+        "value": 1600,
+        "question": "Trillions of these positively charged subatomic particles circle the LHC track at 11,245 times per second",
+        "answer": "protons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 2000,
+        "question": "This Minnesota range is the chief deposit of iron ore in the United States",
+        "answer": "Mesabi (Range)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PSYCH! (-OLOGY)",
+        "value": 2000,
+        "question": "A conflict between overt behavior & belief is known as cognitive this 10-letter word",
+        "answer": "dissonance",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ALMOST BEFORE & AFTER",
+        "value": 2000,
+        "question": "Satisfaction over the misfortune that came from someone revealing a truth through a verbal miscue",
+        "answer": "Schadenfreudian Slip",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ROYAL WEDDINGS",
+        "value": 2000,
+        "question": "In 2011 Jigme Wangchuk, the monarch of this Himalayan kingdom, married jetsun pema, a commoner",
+        "answer": "Bhutan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DIRECTORS' BIG SCREEN FAREWELLS",
+        "value": 2000,
+        "question": "Filmed in the '40s about a fellow Russian, \"Ivan the Terrible: part two\"",
+        "answer": "(Sergei) Eisenstein",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE LARGE HADRON COLLIDER",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew reports from CERN in Switzerland.) On July 4, 2012, researchers said they detected a signal with a mass of 125 to 126 billion electron volts that was likely the elusive boson named for this British physicist",
+        "answer": "(Peter) Higgs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "RUSSIAN HISTORY",
+    "clue": "Launched October 1, 1928, it was brought to a premature end in 1932 amid growing hunger",
+    "answer": "5-year plan"
+  },
+  "gameId": "6549",
+  "gameDate": "Thursday, February 21, 2013"
+}

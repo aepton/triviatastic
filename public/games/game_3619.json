@@ -1,0 +1,574 @@
+{
+  "title": "Show #6126 - Monday, April 11, 2011",
+  "jeopardyRound": {
+    "categories": [
+      "RIVER CITY",
+      "HOMER (SIMPSON)'S ODYSSEY",
+      "MEASURE THIS!",
+      "EASY MOLECULAR BIOLOGY",
+      "NAVY SEALS",
+      "ENDS IN \"SS\""
+    ],
+    "clues": [
+      {
+        "category": "RIVER CITY",
+        "value": 200,
+        "question": "Cologne, Germany",
+        "answer": "the Rhine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HOMER (SIMPSON)'S ODYSSEY",
+        "value": 200,
+        "question": "It's the maiden name of the gal Homer married in Shotgun Pete's wedding chapel & of the gal JFK married in Newport",
+        "answer": "Bouvier",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEASURE THIS!",
+        "value": 200,
+        "question": "Contrary to its name, this signature cowboy accessory would actually hold about 96 ounces",
+        "answer": "a ten-gallon hat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EASY MOLECULAR BIOLOGY",
+        "value": 200,
+        "question": "The presence of this letter chromosome determines that a zygote will develop into a male",
+        "answer": "Y",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAVY SEALS",
+        "value": 200,
+        "question": "This wrestler & Minnesota governor served on a SEAL underwater demolition team in the Vietnam era",
+        "answer": "Jesse Ventura",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"SS\"",
+        "value": 200,
+        "question": "Proverbially speaking, it's what \"cleanliness is next to\"",
+        "answer": "godliness",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RIVER CITY",
+        "value": 400,
+        "question": "Basel, Switzerland",
+        "answer": "the Rhine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HOMER (SIMPSON)'S ODYSSEY",
+        "value": 400,
+        "question": "In \"The Homer They Fall\", after learning he can withstand any blow to the head, Homer becomes a pro one of these",
+        "answer": "a boxer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEASURE THIS!",
+        "value": 400,
+        "question": "Used by junks & schooners alike, it's about 1.15 miles",
+        "answer": "a nautical mile",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EASY MOLECULAR BIOLOGY",
+        "value": 400,
+        "question": "Early studies focused on finding the structure not of carbs & fat but of this compound, collagen being one example",
+        "answer": "protein",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAVY SEALS",
+        "value": 400,
+        "question": "U.S. special operations commander Eric T. Olson is the first SEAL to achieve 4-star status as one of these",
+        "answer": "an admiral",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"SS\"",
+        "value": 400,
+        "question": "Place your bets!  Each May Baltimore's Pimlico Track hosts this Triple Crown race",
+        "answer": "the Preakness",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RIVER CITY",
+        "value": 600,
+        "question": "Strasbourg, France",
+        "answer": "the Rhine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HOMER (SIMPSON)'S ODYSSEY",
+        "value": 600,
+        "question": "Homer's dislikes include his boss (Mr. Burns), yard work & his next-door neighbor, this man",
+        "answer": "Ned Flanders",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEASURE THIS!",
+        "value": 600,
+        "question": "Due to drying & planing, the piece of lumber known by this name is actually 1 1/2 inches by 3 1/2 inches",
+        "answer": "a two-by-four",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EASY MOLECULAR BIOLOGY",
+        "value": 600,
+        "question": "These one-celled organisms that may cause disease also produce the \"snipping\" enzymes that create recombinant DNA",
+        "answer": "bacteria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAVY SEALS",
+        "value": 600,
+        "question": "SEAL Christopher Cassidy completed training as one of these in 2006; he was a mission specialist on STS-127",
+        "answer": "an astronaut",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"SS\"",
+        "value": 600,
+        "question": "It describes any invertebrate animal, or a person lacking courage",
+        "answer": "spineless",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RIVER CITY",
+        "value": 800,
+        "question": "Arnhem, Netherlands",
+        "answer": "the Rhine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HOMER (SIMPSON)'S ODYSSEY",
+        "value": 800,
+        "question": "Homer's official bio says he's earned \"the distinction of being the longest-term entry-level employee\" here",
+        "answer": "the Springfield nuclear plant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEASURE THIS!",
+        "value": 800,
+        "question": "Bring your hoe!  This unit of land is equal to 43,560 square feet",
+        "answer": "an acre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EASY MOLECULAR BIOLOGY",
+        "value": 800,
+        "question": "This process is benign when it replicates DNA segments, but makes people nervous when it replicates mammals",
+        "answer": "cloning",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAVY SEALS",
+        "value": 800,
+        "question": "As a SEAL team leader in Vietnam, this Nebraska senator earned the Medal of Honor",
+        "answer": "Bob Kerrey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"SS\"",
+        "value": 800,
+        "question": "From the Greek for \"bottomless\", it's an immeasurably deep chasm or void",
+        "answer": "an abyss",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RIVER CITY",
+        "value": 1000,
+        "question": "Vienna, Austria",
+        "answer": "the Danube",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HOMER (SIMPSON)'S ODYSSEY",
+        "value": 1000,
+        "question": "Homer's hippie mom abandoned him, so he was raised by a non-hippie dad named this",
+        "answer": "Abe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEASURE THIS!",
+        "value": 1000,
+        "question": "In a blood pressure reading such as 115/75, the numbers represent these of mercury",
+        "answer": "millimeters",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EASY MOLECULAR BIOLOGY",
+        "value": 1000,
+        "question": "Linus Pauling used X-ray crystallography to study the patterns of keratin in this body part",
+        "answer": "hair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAVY SEALS",
+        "value": 1000,
+        "question": "SEAL John Gay survived a firefight in this Somali capital after a bullet deflected off the knife he wore",
+        "answer": "Mogadishu",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ENDS IN \"SS\"",
+        "value": 1000,
+        "question": "After you stuff a turkey, you might do this to it, meaning tie up the wings & legs for easier cooking & a nice appearance",
+        "answer": "truss",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT EGYPT",
+      "TITLE ROLE PLAYING",
+      "AMENDMENT HIGHLIGHTS",
+      "BLUE LITERATURE",
+      "\"EU\" FIRST",
+      "I'M NEXT!"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 400,
+        "question": "The Egyptians were the first known civilization to power boats using these, probably large leafy fronds on the bow",
+        "answer": "sails",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TITLE ROLE PLAYING",
+        "value": 400,
+        "question": "\"Lawrence of Arabia\"",
+        "answer": "(Peter) O'Toole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AMENDMENT HIGHLIGHTS",
+        "value": 400,
+        "question": "\"Congress shall make no law\"",
+        "answer": "the 1st",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BLUE LITERATURE",
+        "value": 400,
+        "question": "In this detective's 1892 \"Adventure of the Blue Carbuncle\", the carbuncle was a blue garnet hidden in a goose",
+        "answer": "Sherlock Holmes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"EU\" FIRST",
+        "value": 400,
+        "question": "It's from the Greek for \"well spoken\"; Bindi Irwin gave a moving one for her dad",
+        "answer": "a eulogy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "I'M NEXT!",
+        "value": 400,
+        "question": "Secretaries of State:Madeleine Albright,Colin Powell...",
+        "answer": "(Condoleezza) Rice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 800,
+        "question": "(Jimmy of the Clue Crew shows a map of Egypt on the monitor.)  Egypt originally hugged the Nile River, but over the next 1,200 years, it gradually grew to cover an area reaching as far north as this river by the 1400s B.C.",
+        "answer": "the Euphrates",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TITLE ROLE PLAYING",
+        "value": 800,
+        "question": "\"Turner & Hooch\" (just Turner, please)",
+        "answer": "(Tom) Hanks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AMENDMENT HIGHLIGHTS",
+        "value": 800,
+        "question": "\"A well regulated militia, being necessary\"",
+        "answer": "the 2nd Amendment",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BLUE LITERATURE",
+        "value": 800,
+        "question": "Created by Charles Perrault, this fairy tale villain who killed 6 wives may be based on real murderer Gilles de Rais",
+        "answer": "Bluebeard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"EU\" FIRST",
+        "value": 800,
+        "question": "Traditionally they guarded the harem",
+        "answer": "eunuchs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "I'M NEXT!",
+        "value": 800,
+        "question": "Years in the Chinese calendar:Dog,pig...(a smaller critter)",
+        "answer": "rat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 1200,
+        "question": "During the Old Kingdom, Egyptians would paint their eyelids this color using malachite, an oxide of copper",
+        "answer": "green",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TITLE ROLE PLAYING",
+        "value": 1200,
+        "question": "\"Fantastic Mr. Fox\"",
+        "answer": "(George) Clooney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AMENDMENT HIGHLIGHTS",
+        "value": 1200,
+        "question": "\"Nor shall be compelled in any criminal case to be a witness against himself\"",
+        "answer": "the 5th Amendment",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BLUE LITERATURE",
+        "value": 1200,
+        "question": "4 years after \"The Red Badge of Courage\", he wrote \"The Blue Hotel\", considered one of his finest short stories",
+        "answer": "Stephen Crane",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"EU\" FIRST",
+        "value": 1200,
+        "question": "It's another name for Holy Communion in the Catholic church",
+        "answer": "Eucharist",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "I'M NEXT!",
+        "value": 1200,
+        "question": "Presidents:Van Buren,Harrison...",
+        "answer": "Tyler",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 1600,
+        "question": "A Greek scholar named Callimachus wrote a bibliographical survey of the authors of the books held here",
+        "answer": "the Alexandrian Library",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TITLE ROLE PLAYING",
+        "value": 1600,
+        "question": "\"Peggy Sue Got Married\"",
+        "answer": "Kathleen Turner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AMENDMENT HIGHLIGHTS",
+        "value": 1600,
+        "question": "\"Nor cruel and unusual punishments inflicted\"",
+        "answer": "the 8th",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BLUE LITERATURE",
+        "value": 1600,
+        "question": "In this 1908 romance by Henry de Vere Stacpoole, a pair of 8-year old cousins are marooned on a tropical island",
+        "answer": "The Blue Lagoon",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"EU\" FIRST",
+        "value": 1600,
+        "question": "Surveyors named this city in northeastern Ohio for a mathematician",
+        "answer": "Euclid",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "I'M NEXT!",
+        "value": 1600,
+        "question": "U.N. Secretaries-General:Javier Perez de Cuellar,Boutros Boutros-Ghali...",
+        "answer": "Kofi Annan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 2000,
+        "question": "In some cases you could buy this guide for the departed \"off the rack\" & have a scribe fill in your name",
+        "answer": "the Egyptian Book of the Dead",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TITLE ROLE PLAYING",
+        "value": 2000,
+        "question": "\"Mary Reilly\"",
+        "answer": "Julia Roberts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AMENDMENT HIGHLIGHTS",
+        "value": 2000,
+        "question": "\"Neither slavery nor involuntary servitude\"",
+        "answer": "the 13th",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BLUE LITERATURE",
+        "value": 2000,
+        "question": "Elizabeth Kata wrote the novel this \"of Blue\" on which a 1965 Sidney Poitier movie was based",
+        "answer": "A Patch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"EU\" FIRST",
+        "value": 2000,
+        "question": "It's the brass instrument heard here",
+        "answer": "a euphonium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "I'M NEXT!",
+        "value": 2000,
+        "question": "Popes:Pius XII,John XXIII...",
+        "answer": "Paul VI",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "GEOGRAPHIC ADJECTIVES",
+    "clue": "Of the nations with adjectives in their common names, only this Western Hemisphere one bears the name of a religious order",
+    "answer": "the Dominican Republic"
+  },
+  "gameId": "6126",
+  "gameDate": "Monday, April 11, 2011"
+}

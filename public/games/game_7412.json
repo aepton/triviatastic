@@ -1,0 +1,574 @@
+{
+  "title": "Show #8684 - Thursday, July 14, 2022",
+  "jeopardyRound": {
+    "categories": [
+      "THE FOUNDING FATHERS",
+      "EARTH",
+      "TV SHOWS BY EPISODE TITLE",
+      "UNITS OF MEASURE",
+      "TERRIBLE SUPERVILLAIN NAMES",
+      "THAT'S COLD!"
+    ],
+    "clues": [
+      {
+        "category": "THE FOUNDING FATHERS",
+        "value": 200,
+        "question": "Encyclopedia Britannica calls him \"The Foundingest Father of them all\" (really!)",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "EARTH",
+        "value": 200,
+        "question": "277 miles long & found in the American Southwest, it's one of the largest land gorges on Earth",
+        "answer": "the Grand Canyon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 200,
+        "question": "\"Last Exit to Springfield\"",
+        "answer": "The Simpsons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "UNITS OF MEASURE",
+        "value": 200,
+        "question": "About .26 inches, a unit called this insect's space is based on the length of the gaps in a hive",
+        "answer": "a bee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TERRIBLE SUPERVILLAIN NAMES",
+        "value": 200,
+        "question": "The king can't move without being put in check! Curses! It's this chess situation--a draw!--who no one ever wants to see!",
+        "answer": "a stalemate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THAT'S COLD!",
+        "value": 200,
+        "question": "With a name meaning \"cold\", he's the animated guy with a corncob pipe & a button nose",
+        "answer": "Frosty (the Snowman)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE FOUNDING FATHERS",
+        "value": 400,
+        "question": "Cheers to this Harvard grad, a second cousin of the second president",
+        "answer": "(Samuel) Adams",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EARTH",
+        "value": 400,
+        "question": "The Earth's longest river is the Nile, but this one carries the most water by volume",
+        "answer": "the Amazon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 400,
+        "question": "From 2012: \"Say My Name\"",
+        "answer": "Breaking Bad",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "UNITS OF MEASURE",
+        "value": 400,
+        "question": "The GGE, this substance gallon equivalent, compares the energy content of alternative fuels",
+        "answer": "gasoline",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TERRIBLE SUPERVILLAIN NAMES",
+        "value": 400,
+        "question": "\"Pater Corpus\" doesn't quite have the same ring as this slang term for the build of some fathers",
+        "answer": "a dad bod",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THAT'S COLD!",
+        "value": 400,
+        "question": "About temperature, this adjective can mean cold; when used regarding lettuce, it means fresh & firm",
+        "answer": "crisp",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE FOUNDING FATHERS",
+        "value": 600,
+        "question": "Activist lawyer James Otis is credited with saying that this \"without representation is tyranny\"",
+        "answer": "taxation",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EARTH",
+        "value": 600,
+        "question": "This liquid beneath the Earth's surface is different in Hawaii--it has more molten rock & fewer gases & fragments",
+        "answer": "magma",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 600,
+        "question": "\"Chidi's Choice\"",
+        "answer": "The Good Place",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "UNITS OF MEASURE",
+        "value": 600,
+        "question": "A braza, about 5 1/2 feet, is an old Spanish measure based on the reach of outspread these",
+        "answer": "arms",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TERRIBLE SUPERVILLAIN NAMES",
+        "value": 600,
+        "question": "This insurance duo--the big cost you owe before your insurer kicks in & the money given to your doc as you get services--are just the worst",
+        "answer": "deductible & co-pay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THAT'S COLD!",
+        "value": 600,
+        "question": "This word is paired with an opposite in the name of a relieving cream to treat minor aches & pains of the muscles & joints",
+        "answer": "icy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE FOUNDING FATHERS",
+        "value": 800,
+        "question": "This Virginian first became prominent for his oratory in a 1763 case about whether it was OK to pay clergy with cash rather than tobacco",
+        "answer": "Patrick Henry",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EARTH",
+        "value": 800,
+        "question": "Larger trees are starting to encroach north on this ecosystem defined by its lack of them",
+        "answer": "the tundra",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 800,
+        "question": "\"Wind Sprints\" & \"Black Eyes & Broken Hearts\"",
+        "answer": "Friday Night Lights",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "UNITS OF MEASURE",
+        "value": 800,
+        "question": "A city map, also called a plat, shows the division into single-owner areas called this \"P\" word, a synonym of packages",
+        "answer": "parcels",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TERRIBLE SUPERVILLAIN NAMES",
+        "value": 800,
+        "question": "Listerine says bad breath is \"also known as oral malodor or\" this word; now oral malodor... that'd be a better name",
+        "answer": "halitosis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THAT'S COLD!",
+        "value": 800,
+        "question": "If your office is really \"as cold as\" this space for dry aging, it's well under 40 degrees",
+        "answer": "a meat locker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE FOUNDING FATHERS",
+        "value": 1000,
+        "question": "The \"Penman of the Revolution\", John Dickinson drafted the first version of this predecessor to the Constitution",
+        "answer": "the Articles of Confederation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EARTH",
+        "value": 1000,
+        "question": "Hurricanes don't hit our middle, as this \"effect\" of the rotating earth on wind flow increases the further you get from the equator",
+        "answer": "the Coriolis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TV SHOWS BY EPISODE TITLE",
+        "value": 1000,
+        "question": "\"Riding in Town Cars with Boys\" & \"The Unblairable Lightness of Being\"",
+        "answer": "Gossip Girl",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "UNITS OF MEASURE",
+        "value": 1000,
+        "question": "You can spell \"acre\" with letters in this metric measurement that equals 2.471 acres",
+        "answer": "hectare",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TERRIBLE SUPERVILLAIN NAMES",
+        "value": 1000,
+        "question": "The result for your account of writing a check you can't cover? It's this villain who many need \"protection\" from",
+        "answer": "overdraft",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THAT'S COLD!",
+        "value": 1000,
+        "question": "The food seen here is prepared \"crudo\", Spanish & Italian for this word",
+        "answer": "raw",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "RIVER NAMES",
+      "LITERARY CASTLES",
+      "ROMANCE LANGUAGES",
+      "THE WINDS OF POP CULTURE",
+      "I KNOW WHAT YOU DID",
+      "4 OF THE SAME LETTER"
+    ],
+    "clues": [
+      {
+        "category": "RIVER NAMES",
+        "value": 400,
+        "question": "This river's name comes from a word for \"arrow\", implying that it is faster than the Euphrates",
+        "answer": "the Tigris",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CASTLES",
+        "value": 400,
+        "question": "A Scottish castle is home to this school of witchcraft & wizardry",
+        "answer": "Hogwarts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ROMANCE LANGUAGES",
+        "value": 400,
+        "question": "Spoken in medieval southern France, the dialect langue d'Oc got its name because Oc, not this, meant yes there",
+        "answer": "oui",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE WINDS OF POP CULTURE",
+        "value": 400,
+        "question": "Saying it wasn't a \"protest song\", Bob Dylan did include the lyrics \"How many times must the cannonballs fly\"",
+        "answer": "\"Blowin' In The Wind\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I KNOW WHAT YOU DID",
+        "value": 400,
+        "question": "As Germany's \"chancellor of change\", you ended military conscription & introduced a minimum wage",
+        "answer": "Angela Merkel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "4 OF THE SAME LETTER",
+        "value": 400,
+        "question": "A small figurine like an Academy Award",
+        "answer": "a statuette",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RIVER NAMES",
+        "value": 800,
+        "question": "In Sanskrit, the name of this river comes from \"sindhu\", which means \"river\"",
+        "answer": "the Indus River (the Sindh)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CASTLES",
+        "value": 800,
+        "question": "This Prague author's unfinished novel \"The Castle\" has a man named K trying unsuccessfully to access the title place",
+        "answer": "Kafka",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ROMANCE LANGUAGES",
+        "value": 800,
+        "question": "In 2008 this European country's parliament passed an act officially adopting Brazilian spellings of hundreds of words",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE WINDS OF POP CULTURE",
+        "value": 800,
+        "question": "Seen here, Alexandra Shipp played a younger version of this film mutant originally portrayed by Halle Berry",
+        "answer": "Storm",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I KNOW WHAT YOU DID",
+        "value": 800,
+        "question": "You won the U.S. National All-Around Gymnastics Championships from 2013 to 2016 & in 2018, 2019 & 2021",
+        "answer": "Simone Biles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "4 OF THE SAME LETTER",
+        "value": 800,
+        "question": "At the recent Tokyo Olympics, Alix Klineman & April Ross netted gold in this sport",
+        "answer": "beach volleyball",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RIVER NAMES",
+        "value": 1200,
+        "question": "This river that gave its name to a Georgia city was known as Rio Dulce, or \"sweet river\", to early Spanish explorers",
+        "answer": "the Savannah River",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CASTLES",
+        "value": 1200,
+        "question": "In this 17th century religious allegory, Christian & Hopeful are imprisoned for a time at Doubting Castle",
+        "answer": "The Pilgrim's Progress",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ROMANCE LANGUAGES",
+        "value": 1200,
+        "question": "Ladino, or Sephardi, was carried to the Mideast by people expelled from their homeland in 1492 at the urging of this judicial body",
+        "answer": "the Inquisition",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE WINDS OF POP CULTURE",
+        "value": 1200,
+        "question": "Formerly the Hartford Whalers, they blew into Raleigh in 1997",
+        "answer": "the Hurricanes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I KNOW WHAT YOU DID",
+        "value": 1200,
+        "question": "You took a constitutional oath on October 26, 2020,",
+        "answer": "(Amy Coney) Barrett",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "4 OF THE SAME LETTER",
+        "value": 1200,
+        "question": "An expert in the formal rules & procedures of running an assembly, like the British legislature",
+        "answer": "a parliamentarian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RIVER NAMES",
+        "value": 1600,
+        "question": "Some Europeans called this Chinese river the Blue River, perhaps to distinguish it from the Yellow River",
+        "answer": "the Yangtze",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CASTLES",
+        "value": 1600,
+        "question": "A key antagonist in \"The Chronicles of Narnia\", she lives in a castle full of stone statues",
+        "answer": "the White Witch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ROMANCE LANGUAGES",
+        "value": 1600,
+        "question": "In 1898 an explosion killed the last known speaker of this Adriatic language that shared its name with a dog breed",
+        "answer": "Dalmatian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE WINDS OF POP CULTURE",
+        "value": 1600,
+        "question": "\"Blood On The Coal\" by The Folksmen is on the soundtrack album of this Christopher Guest mockumentary",
+        "answer": "A Mighty Wind",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I KNOW WHAT YOU DID",
+        "value": 1600,
+        "question": "You served as Archbishop of Cape Town from 1986 to 1996",
+        "answer": "(Desmond) Tutu",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "4 OF THE SAME LETTER",
+        "value": 1600,
+        "question": "This adjective means having no previous example known",
+        "answer": "unprecedented",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RIVER NAMES",
+        "value": 2000,
+        "question": "A king of Alba Longa, near present-day Castel Gandolfo, drowned in this river, which was then named for him",
+        "answer": "the Tiber",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LITERARY CASTLES",
+        "value": 2000,
+        "question": "Young Cassandra Mortmain lives in the rundown title structure in \"I Capture the Castle\" by this \"101 Dalmatians\" author",
+        "answer": "Dodie Smith",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ROMANCE LANGUAGES",
+        "value": 2000,
+        "question": "Isolated from its romantic relatives, Romanian has been influenced by this language group of neighbors like Serbia & Bulgaria",
+        "answer": "Slavic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE WINDS OF POP CULTURE",
+        "value": 2000,
+        "question": "Spencer Tracy was on the side of evolution while Fredric March argued creationism in this classic 1960 film",
+        "answer": "Inherit the Wind",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "I KNOW WHAT YOU DID",
+        "value": 2000,
+        "question": "After a huge upset in the 1948 election, you did the honorable thing & conceded to Pres. Truman & sent congratulations",
+        "answer": "Dewey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "4 OF THE SAME LETTER",
+        "value": 2000,
+        "question": "If you support another person's alibi, you provide this 4-\"O\" word from the Latin for \"to strengthen\"",
+        "answer": "corroboration",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE 20th CENTURY",
+    "clue": "Maybe surprisingly, in 1918 this new leader was the first to recognize the independence of Finland",
+    "answer": "Lenin"
+  },
+  "gameId": "8684",
+  "gameDate": "Thursday, July 14, 2022"
+}

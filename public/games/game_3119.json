@@ -1,0 +1,574 @@
+{
+  "title": "Show #4398 - Wednesday, October 22, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "OPERA",
+      "A TOM CRUISE FILM FESTIVAL",
+      "BODIES OF WATER",
+      "OCCUPATION HAZARDS",
+      "PLANT PARENTHOOD",
+      "PRESIDENTIAL RHYME TIME"
+    ],
+    "clues": [
+      {
+        "category": "OPERA",
+        "value": 200,
+        "question": "Stationed in Seville, Don Jose is bewitched by a gypsy girl in this Bizet opera",
+        "answer": "Carmen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "A TOM CRUISE FILM FESTIVAL",
+        "value": 200,
+        "question": "\"I lost the Number 1 draft pick the night before the draft!\"",
+        "answer": "Jerry Maguire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 200,
+        "question": "In 1975 the United Kingdom began piping oil from this sea to its shores",
+        "answer": "the North Sea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATION HAZARDS",
+        "value": 200,
+        "question": "Chafing from chaps, rope burns from lassos & that saddle horn -- watch where you sit if you're one of these",
+        "answer": "cowboy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PLANT PARENTHOOD",
+        "value": 200,
+        "question": "Named for the Virgin Mary, these carnivorous little red beetles can help rid your garden of aphids & other insects",
+        "answer": "ladybugs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL RHYME TIME",
+        "value": 200,
+        "question": "Ulysses' trousers",
+        "answer": "Grant's pants",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OPERA",
+        "value": 400,
+        "question": "Like many of his works, this composer's \"Tannhauser\" is based on Germanic legends",
+        "answer": "(Richard) Wagner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "A TOM CRUISE FILM FESTIVAL",
+        "value": 400,
+        "question": "\"What I wouldn't give for a drop of good old-fashioned Creole blood\"",
+        "answer": "Interview with the Vampire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 400,
+        "question": "The St. Mary's River connects Lake Superior to this second-largest Great Lake",
+        "answer": "Lake Huron",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATION HAZARDS",
+        "value": 400,
+        "question": "If this is you're job you'd be fired if this clue go t by you uncorected",
+        "answer": "copy editor (or proofreader)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PLANT PARENTHOOD",
+        "value": 400,
+        "question": "(Jimmy of the Clue Crew in the laboratory)  Any glass or plastic container can be used to build one of these self-contained indoor gardens",
+        "answer": "terrariums",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL RHYME TIME",
+        "value": 400,
+        "question": "Arthur's school terms",
+        "answer": "Chester's semesters",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OPERA",
+        "value": 600,
+        "question": "Mozart opera in which the count tries to thwart & postpone his valet's wedding",
+        "answer": "The Marriage of Figaro",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "A TOM CRUISE FILM FESTIVAL",
+        "value": 600,
+        "question": "\"I am a Vietnam veteran!  I fought for my country!\"",
+        "answer": "Born on the Fourth of July",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 600,
+        "question": "12,500' above sea level, this South American lake bordering Bolivia & Peru is the world's most navigable lake",
+        "answer": "Lake Titicaca",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATION HAZARDS",
+        "value": 600,
+        "question": "In this job aiding a medical professional, Angie might get a finger nipped by little Billy while X-raying his molar",
+        "answer": "dental hygienist",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PLANT PARENTHOOD",
+        "value": 600,
+        "question": "Juniper & maple are good trees to use in this cultivating art whose name means \"plant in a tray\" in Japanese",
+        "answer": "bonsai",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL RHYME TIME",
+        "value": 600,
+        "question": "Zachary's wardens",
+        "answer": "Taylor's jailers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OPERA",
+        "value": 800,
+        "question": "Musetta has her very own waltz in Act II of this Puccini opera",
+        "answer": "La boheme",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "A TOM CRUISE FILM FESTIVAL",
+        "value": 800,
+        "question": "\"I'm gonna let ya in on a little secret, Ray.  K-mart sucks\"",
+        "answer": "Rain Man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 800,
+        "question": "At Khartoum, Sudan these colorful branches meet to form the Nile River",
+        "answer": "the Blue Nile & the White Nile",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATION HAZARDS",
+        "value": 800,
+        "question": "He has to listen to his wheels going round, round, round all day & may get a paper cut from a transfer",
+        "answer": "bus driver",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PLANT PARENTHOOD",
+        "value": 800,
+        "question": "(Sarah of the Clue Crew in the laboratory)  A must for any gardener, a soil testing kit is used to take a reading of this level, a measure of acidity",
+        "answer": "pH level",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL RHYME TIME",
+        "value": 800,
+        "question": "James' egg parts",
+        "answer": "Polk's yolks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OPERA",
+        "value": 1000,
+        "question": "At 35 he decided for the first time to sit right down & write himself an opera; he produced \"Fidelio\"",
+        "answer": "(Ludwig van) Beethoven",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "A TOM CRUISE FILM FESTIVAL",
+        "value": 1000,
+        "question": "\"They're dead...my team is dead...they knew we were coming\"",
+        "answer": "Mission: Impossible",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BODIES OF WATER",
+        "value": 1000,
+        "question": "After a 1,750-mile trip from Germany, this river breaks into 3 branches in Romania before emptying into the Black Sea",
+        "answer": "the Danube",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "OCCUPATION HAZARDS",
+        "value": 1000,
+        "question": "If this is your job you might get brine in your eye after dropping the cucumber in the barrel",
+        "answer": "pickler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PLANT PARENTHOOD",
+        "value": 1000,
+        "question": "The 3 elements most commonly found in garden fertilizers are phosphorus, potassium & this element",
+        "answer": "nitrogen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTIAL RHYME TIME",
+        "value": 1000,
+        "question": "Tyler's conducting sticks",
+        "answer": "John's batons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE ROYALS",
+      "THE TIGERS",
+      "THE GIANTS",
+      "THE REDS",
+      "THE \"A\"s",
+      "BASEBALL HISTORY"
+    ],
+    "clues": [
+      {
+        "category": "THE ROYALS",
+        "value": 400,
+        "question": "She was the Virgin Queen or Good Queen Bess",
+        "answer": "Elizabeth I",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE TIGERS",
+        "value": 400,
+        "question": "Founded by Claire Chennault, these aviators shot down hundreds of Japanese planes during World War II",
+        "answer": "the Flying Tigers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE GIANTS",
+        "value": 400,
+        "question": "1 Samuel 17 informs us that the Philistine city of Gath was the home of this giant",
+        "answer": "Goliath",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE REDS",
+        "value": 400,
+        "question": "This man's most avid supporters during the Cultural Revolution were students mobilized as \"Red Guards\"",
+        "answer": "Mao Tse-tung",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE \"A\"s",
+        "value": 400,
+        "question": "Winston Churchill said that this weapon \"brought peace, but man alone can keep that peace\"",
+        "answer": "the atomic bomb",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BASEBALL HISTORY",
+        "value": 400,
+        "question": "In a June 19, 1846 game, J.W. Davis of the N.Y. Nine was fined 6 cents for swearing at this person",
+        "answer": "the umpire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE ROYALS",
+        "value": 800,
+        "question": "Louis VI of France was known as this; as a child he must have shopped in le husky department",
+        "answer": "Louis the Fat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE TIGERS",
+        "value": 800,
+        "question": "Now endangered, this largest variety of tiger bears the name of a large Russian region",
+        "answer": "the Siberian tiger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE GIANTS",
+        "value": 800,
+        "question": "In Lilliput he's a giant",
+        "answer": "Gulliver",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE REDS",
+        "value": 800,
+        "question": "In the Catholic Church, they wear red hats",
+        "answer": "cardinals",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE \"A\"s",
+        "value": 800,
+        "question": "Some scientists believe the dinosaurs died out when one of these interstellar objects struck the Earth",
+        "answer": "an asteroid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BASEBALL HISTORY",
+        "value": 800,
+        "question": "To injure opposing players, Ty Cobb was said to sharpen these",
+        "answer": "his spikes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE ROYALS",
+        "value": 1200,
+        "question": "Russia's first ruler with this name was called Kalita, meaning \"moneybags\"; not so terrible",
+        "answer": "Ivan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE TIGERS",
+        "value": 1200,
+        "question": "Genus sphyraena, this long, thin predatory fish with protruding jaws & teeth is known as the \"tiger of the sea\"",
+        "answer": "barracuda",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE GIANTS",
+        "value": 1200,
+        "question": "Jett Rink, a poor ranch hand, becomes an oil millionaire in her novel \"Giant\"",
+        "answer": "Edna Ferber",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE REDS",
+        "value": 1200,
+        "question": "It's the world-famous \"colorful\" area seen here in the 1950s",
+        "answer": "Red Square",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE \"A\"s",
+        "value": 1200,
+        "question": "Whether for a sorcerer or a craft guild, one serves time as one of these before becoming a journeyman",
+        "answer": "apprentice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BASEBALL HISTORY",
+        "value": 1200,
+        "question": "Topps' 1952 series No. 311 was this player's first card & is a holy grail among collectors",
+        "answer": "Mickey Mantle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE ROYALS",
+        "value": 1600,
+        "question": "Charles Edward Stuart could have worn a T.Y.P. necklace for \"The Young Pretender\" or a B.P.C. one for this nickname",
+        "answer": "Bonnie Prince Charlie",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE TIGERS",
+        "value": 1600,
+        "question": "One of this man's most famous poems begins, \"Tyger! Tyger! burning bright, in the forests of the night\"",
+        "answer": "William Blake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE GIANTS",
+        "value": 1600,
+        "question": "\"Giants in the Earth\" is Ole Rolvaag's novel about immigrants from this country adjusting to life on the prairie",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE REDS",
+        "value": 1600,
+        "question": "About 1,200 miles long, it has a maximum depth of almost 10,000 feet",
+        "answer": "the Red Sea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE \"A\"s",
+        "value": 1600,
+        "question": "This \"Khan\" is the spiritual leader of the Ismaili sect of Muslims",
+        "answer": "the Aga Khan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BASEBALL HISTORY",
+        "value": 1600,
+        "question": "2 of the 5 cities that had both National League & American League teams in 1903",
+        "answer": "(2 of 5) Boston, Chicago, New York, Philadelphia, or St. Louis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE ROYALS",
+        "value": 2000,
+        "question": "This first king of Poland was alliteratively nicknamed \"the Brave\"",
+        "answer": "Boleslaw",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE TIGERS",
+        "value": 2000,
+        "question": "The autobiography written by this famous Nepalese was titled \"Tiger of the Snows\"",
+        "answer": "Tenzing Norgay",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE GIANTS",
+        "value": 2000,
+        "question": "Odysseus incurs the wrath of Poseidon by blinding this giant Cyclops",
+        "answer": "Polyphemus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE REDS",
+        "value": 2000,
+        "question": "The flag of this U.K. division features an impressive red dragon with a forked tongue & tail",
+        "answer": "Wales",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE \"A\"s",
+        "value": 2000,
+        "question": "In 1841 ex-president John Quincy Adams represented the mutineers of this ship before the Supreme Court",
+        "answer": "the Amistad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BASEBALL HISTORY",
+        "value": 2000,
+        "question": "During his 22-year career he walked a then-record 2,056 times",
+        "answer": "Babe Ruth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "20th CENTURY NOTABLES",
+    "clue": "Einstein said of him, \"Generations to come will scarcely believe\" one such as he \"walked the Earth in flesh & blood\"",
+    "answer": "Mohandas Gandhi"
+  },
+  "gameId": "4398",
+  "gameDate": "Wednesday, October 22, 2003"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1735 - Friday, February 28, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "STATE CAPITALS",
+      "SEWING",
+      "STAR TREK: TNG",
+      "WEATHER",
+      "WEIGHTS & MEASURES",
+      "ANIMAL PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "STATE CAPITALS",
+        "value": 100,
+        "question": "The U.S. mint in this Rocky Mountain capital is the USA's second-biggest gold depository",
+        "answer": "Denver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SEWING",
+        "value": 100,
+        "question": "This cuplike cover protects your finger when you want to push a needle through material",
+        "answer": "a thimble",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK: TNG",
+        "value": 100,
+        "question": "Sarek, an ambassador from this planet, has appeared in both the old & new series",
+        "answer": "Vulcan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 100,
+        "question": "The primary one of these is caused by 2 refractions & 1 reflection of light by each raindrop",
+        "answer": "a rainbow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 100,
+        "question": "There are this many items in a score",
+        "answer": "20",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL PHRASES",
+        "value": 100,
+        "question": "Someone's breaking point is often referred to as \"the straw that broke\" this animal's \"back\"",
+        "answer": "the camel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "The fort of pioneer settler John A. Sutter has been restored in this capital city",
+        "answer": "Sacramento",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SEWING",
+        "value": 200,
+        "question": "The \"running\" one of these is the most basic; it's used for gathering",
+        "answer": "a stitch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK: TNG",
+        "value": 200,
+        "question": "Middle name of Eugene (yes, it's Eugene) Roddenberry or 1st name of Wil Wheaton's character",
+        "answer": "Wesley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 200,
+        "question": "It's a glass tube in which a column of mercury changes height with changes in temperature",
+        "answer": "a thermometer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 200,
+        "question": "This metric unit of distance is sometimes called a klick",
+        "answer": "a kilometer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL PHRASES",
+        "value": 200,
+        "question": "To something quickly is to do it in \"two shakes of\" this young animal's tail",
+        "answer": "a lamb",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 300,
+        "question": "This Iowa capital is headquarters to more than 50 insurance companies",
+        "answer": "Des Moines",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SEWING",
+        "value": 300,
+        "question": "These come in envelopes that contain pieces of paper shaped like sections of a garment",
+        "answer": "patterns",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK: TNG",
+        "value": 300,
+        "question": "An associate artist of the Royal Shakespeare Company, he plays Captain Jean-Luc Picard",
+        "answer": "Patrick Stewart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 300,
+        "question": "\"Absolute\" this is the term for the amount of moisture in the air",
+        "answer": "humidity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 300,
+        "question": "This unit of measurement is equal to .083 feet",
+        "answer": "an inch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL PHRASES",
+        "value": 300,
+        "question": "To look guilty but smug is to \"Look like the cat that ate\" this",
+        "answer": "the canary",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "The Country Music Hall of Fame & Museum is located in this capital",
+        "answer": "Nashville",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SEWING",
+        "value": 400,
+        "question": "When the \"invisible\" type of this fastener is closed, the teeth are concealed",
+        "answer": "a zipper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK: TNG",
+        "value": 400,
+        "question": "This facility aboard the Enterprise can recreate Victorian London or alien planets",
+        "answer": "the Holodeck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 400,
+        "question": "On the Earth, Cu is copper; in the sky, Cu is this type of cloud",
+        "answer": "cumulus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 400,
+        "question": "There are 16 tablespoons in one of these",
+        "answer": "a cup",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL PHRASES",
+        "value": 400,
+        "question": "One who's clever in a sneaky sort of way is \"Crazy like\" this animal",
+        "answer": "a fox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 1000,
+        "question": "This capital was named for a British city on the English Channel",
+        "answer": "Dover, Delaware",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SEWING",
+        "value": 500,
+        "question": "Skirtmarkers are used to mark these lines",
+        "answer": "hemlines",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STAR TREK: TNG",
+        "value": 500,
+        "question": "When the current Enterprise met a previous Enterprise in a time rift, she returned to play Tasha Yar",
+        "answer": "Denise Crosby",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WEATHER",
+        "value": 500,
+        "question": "More common name for the tropical easterlies",
+        "answer": "the trade winds",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WEIGHTS & MEASURES",
+        "value": 500,
+        "question": "The name of this system of weights & measures comes from Old French meaning \"goods of weight\"",
+        "answer": "avoirdupois",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ANIMAL PHRASES",
+        "value": 500,
+        "question": "To be unusually brave is \"To beard\" this animal \"in his den\"",
+        "answer": "the lion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "19TH CENTURY AMERICA",
+      "ASTROLOGY",
+      "POETS",
+      "WORLD GEOGRAPHY",
+      "LIBRARIES",
+      "LETTER PERFECT"
+    ],
+    "clues": [
+      {
+        "category": "19TH CENTURY AMERICA",
+        "value": 200,
+        "question": "William Gillette's plays \"Held by the Enemy\" & \"Secret Service\" were set in this war",
+        "answer": "the Civil War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 200,
+        "question": "As you might expect, the name of this sign means \"bull\" in Latin",
+        "answer": "Taurus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POETS",
+        "value": 200,
+        "question": "\"Poems, Chiefly in the Scottish Dialect\" was his first published collection of poems",
+        "answer": "Robert Burns",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "It's also the capital of Cape Province, South Africa",
+        "answer": "Cape Town",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 200,
+        "question": "Appropriately, the National Library of Medicine is in this state abbreviated Md.",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 200,
+        "question": "It precedes ray, rated & marks the spot",
+        "answer": "X",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "19TH CENTURY AMERICA",
+        "value": 400,
+        "question": "After the Spanish-American war, the U.S. paid Spain $20 million for this Pacific island group",
+        "answer": "the Philippines",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 400,
+        "question": "Green is a harmonious color for people born under this sign; wearing it might make them less \"crab\"by",
+        "answer": "Cancer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POETS",
+        "value": 400,
+        "question": "Years before his 1st volume of poetry was published in 1913, he was a chicken farmer in Derry, N.H.",
+        "answer": "Robert Frost",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "Among this country's 9 provinces are Liege, Luxembourg & Antwerp",
+        "answer": "Belgium",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 400,
+        "question": "The Folger Shakespeare Library is on this famous hill",
+        "answer": "Capitol Hill",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 400,
+        "question": "Something done to perfect exactness is said to be \"Done to a\" this",
+        "answer": "T",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "19TH CENTURY AMERICA",
+        "value": 600,
+        "question": "On May 10,1876 the Centennial Exposition opened in Fairmount Park in this Pennsylvania city",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 600,
+        "question": "It's the only sign symbolized by a cat",
+        "answer": "Leo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POETS",
+        "value": 600,
+        "question": "Poet & Lincoln biographer who wrote about Lincoln's death in \"Cool Tombs\"",
+        "answer": "Sandburg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 600,
+        "question": "This country's Great Victoria Desert was first crossed in 1875 by Ernest Giles, who named it",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 600,
+        "question": "George Bush selected this univ. in College Station, Texas as the site of his presidential library",
+        "answer": "Texas A&M",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 600,
+        "question": "With a line over it, this Roman numeral for 5 turns into 5,000",
+        "answer": "V",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "19TH CENTURY AMERICA",
+        "value": 1600,
+        "question": "In 1852 this party selected General Winfield Scott as its presidential candidate",
+        "answer": "the Whig Party",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 800,
+        "question": "Boldness, not sheepishness, is a major characteristic of this sign represented by a ram",
+        "answer": "Aries",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POETS",
+        "value": 800,
+        "question": "While England's poet laureate, he wrote \"The Charge of the Light Brigade\"",
+        "answer": "Tennyson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 800,
+        "question": "At 1550 sq. miles, this country's Lake Nasser is one of the world's largest artificial lakes",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 800,
+        "question": "Samuel Pepys left his library to his alma mater, Magdalene College at this university",
+        "answer": "Cambridge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 800,
+        "question": "The only letter not used in spelling any of the 50 states",
+        "answer": "Q",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "19TH CENTURY AMERICA",
+        "value": 1000,
+        "question": "In the War of 1812 the British captured this ship captained by James Lawrence",
+        "answer": "the Chesapeake",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ASTROLOGY",
+        "value": 1000,
+        "question": "This sign is connected to the myth of Eros & Aphrodite, who turned into fish to escape a monster",
+        "answer": "Pisces",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POETS",
+        "value": 1000,
+        "question": "This Quaker poet's \"Snow-Bound\" tells the story of a family isolated during a blizzard",
+        "answer": "John Greenleaf Whittier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 2000,
+        "question": "2 nations occupy this island, the second-largest in the West Indies",
+        "answer": "Hispaniola",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 1000,
+        "question": "The library of King Ashurbanipal was in Nineveh, the last capital of this empire",
+        "answer": "the Assyrian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 1000,
+        "question": "With a little circle on top of it, this letter stands for a unit of length for wavelengths of light",
+        "answer": "A",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "IN THE NEWS",
+    "clue": "In November 1991, 2 people from this country were indicted for the 1988 Pan Am 103 bombing",
+    "answer": "Libya"
+  },
+  "gameId": "1735",
+  "gameDate": "Friday, February 28, 1992"
+}

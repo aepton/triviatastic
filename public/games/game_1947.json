@@ -1,0 +1,574 @@
+{
+  "title": "Show #5269 - Thursday, July 5, 2007",
+  "jeopardyRound": {
+    "categories": [
+      "ART-FULLY STOLEN",
+      "CARTOON CRITTERS",
+      "WHADDYA DRINKIN'?",
+      "NANCY",
+      "YOU'RE HERDING ME!",
+      "\"Z\" FOR YOURSELF"
+    ],
+    "clues": [
+      {
+        "category": "ART-FULLY STOLEN",
+        "value": 200,
+        "question": "In 1998 a diplomat was indicted for smuggling Moche cultural art from this country with a Quechua Indian name",
+        "answer": "Peru",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CARTOON CRITTERS",
+        "value": 200,
+        "question": "Uncle Scrooge",
+        "answer": "duck",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WHADDYA DRINKIN'?",
+        "value": 200,
+        "question": "What makes this cocktail with a magazine's name so worldly? Perhaps it's the cranberry juice & triple sec",
+        "answer": "Cosmopolitan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NANCY",
+        "value": 200,
+        "question": "She had a no. 1 hit in 1966 with \"These Boots Are Made For Walkin'\"",
+        "answer": "Nancy Sinatra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE HERDING ME!",
+        "value": 200,
+        "question": "The biblical Abel herded these",
+        "answer": "sheep",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"Z\" FOR YOURSELF",
+        "value": 200,
+        "question": "Left behind by the Kaiser's army, the 5 halls at Riga's Central Market were once hangars for these airships",
+        "answer": "Zeppelins",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ART-FULLY STOLEN",
+        "value": 400,
+        "question": "After a worldwide hunt, a statue of Sumerian king Entemena was returned to this country after it was stolen in 2003",
+        "answer": "Iraq",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CARTOON CRITTERS",
+        "value": 400,
+        "question": "Chip & Dale",
+        "answer": "chipmunks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WHADDYA DRINKIN'?",
+        "value": 400,
+        "question": "This soft drink's cans used to feature Willy the Hillbilly; in fact, its name is a slang term for \"moonshine\"",
+        "answer": "Mountain Dew",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NANCY",
+        "value": 400,
+        "question": "Though born in Virginia, Nancy, Lady Astor was the first woman to serve in this lower house of Britain's Parliament",
+        "answer": "House of Commons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE HERDING ME!",
+        "value": 400,
+        "question": "Herding these is a traditional basis of the Lapp economy",
+        "answer": "reindeer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"Z\" FOR YOURSELF",
+        "value": 400,
+        "question": "More than 400,000  live on this 640-sq.-mile semiautonomous island off the east coast of Africa",
+        "answer": "Zanzibar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ART-FULLY STOLEN",
+        "value": 600,
+        "question": "A note said \"Thanks for the poor security\" after this painting was stolen during the Lillehammer Olympics in 1994",
+        "answer": "The Scream",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CARTOON CRITTERS",
+        "value": 600,
+        "question": "Magilla",
+        "answer": "gorilla",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WHADDYA DRINKIN'?",
+        "value": 600,
+        "question": "A Greyhound is vodka & this tart juice",
+        "answer": "grapefruit juice",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NANCY",
+        "value": 600,
+        "question": "She's the legal-eagle one-time \"Celebrity Jeopardy!\" contestant seen here",
+        "answer": "Nancy Grace",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE HERDING ME!",
+        "value": 600,
+        "question": "Asia's Wakhi people are herders of this animal that's most at home at over 14,000 feet",
+        "answer": "yaks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"Z\" FOR YOURSELF",
+        "value": 600,
+        "question": "Also the name of a wine, it's the most commonly grown red wine grape in California",
+        "answer": "zinfandel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ART-FULLY STOLEN",
+        "value": 800,
+        "question": "Using a crane & a truck, thieves stole \"Reclining Nude\" by this English sculptor",
+        "answer": "Henry Moore",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CARTOON CRITTERS",
+        "value": 800,
+        "question": "Simba",
+        "answer": "lion",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WHADDYA DRINKIN'?",
+        "value": 800,
+        "question": "This flavorless, naturally effervescent water is named for a town near Wiesbaden in Germany",
+        "answer": "seltzer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NANCY",
+        "value": 800,
+        "question": "Nancy is the girlfriend of the evil Bill Sykes in this Dickens novel",
+        "answer": "Oliver Twist",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE HERDING ME!",
+        "value": 800,
+        "question": "In Bedouin society, the most prestigious people herd these",
+        "answer": "camels",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"Z\" FOR YOURSELF",
+        "value": 800,
+        "question": "This mussel named for its resemblance to an equine has caused havoc with pipes & fish in the Great Lakes",
+        "answer": "zebra mussel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ART-FULLY STOLEN",
+        "value": 1000,
+        "question": "An art dealer forged this Belorussian-born French artist's \"Rabbi et Torah\", then sold the forgery & original",
+        "answer": "Marc Chagall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CARTOON CRITTERS",
+        "value": 1000,
+        "question": "Heckle & Jeckle",
+        "answer": "magpies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WHADDYA DRINKIN'?",
+        "value": 1000,
+        "question": "(Jeff Probst reads the clue from the Fiji Islands.) Yongona is the Fijian name for this ceremonial drink, an infusion made from the roots of a pepper plant",
+        "answer": "kava",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NANCY",
+        "value": 1000,
+        "question": "Today a member of the LPGA Hall of Fame, she was Rookie of the Year & Player of the Year in 1978",
+        "answer": "Nancy Lopez",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE HERDING ME!",
+        "value": 1000,
+        "question": "Animal herded by the lonely fellow in a \"Sound of Music\" song",
+        "answer": "goats",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"Z\" FOR YOURSELF",
+        "value": 1000,
+        "question": "This monarch was born October 8, 1895 in Burgayeti, Albania",
+        "answer": "King Zog",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BELOVED POLAND",
+      "WOMEN IN SONG",
+      "MEN OF LETTERS",
+      "THE DENVER MINT",
+      "EUROPEAN KINGS",
+      "THE \"M-E\"s"
+    ],
+    "clues": [
+      {
+        "category": "BELOVED POLAND",
+        "value": 400,
+        "question": "In 1978 the first Pole in space, Miroslaw Hermaszewski, was launched on one of this nation's spacecrafts",
+        "answer": "the Soviet Union",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SONG",
+        "value": 400,
+        "question": "John Cougar:\"Jack & ____\"",
+        "answer": "Diane",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MEN OF LETTERS",
+        "value": 400,
+        "question": "In a letter to the Ephesians, he wrote that there is \"one Lord, one faith, one baptism\"",
+        "answer": "(St.) Paul",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE DENVER MINT",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew reports from the Denver Mint.) Production of quarters starts with coils of metal fed into a press; it's mainly this metal, that's more associated with pennies",
+        "answer": "copper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EUROPEAN KINGS",
+        "value": 400,
+        "question": "As French King, Charles II was nicknamed this; it seems odd that he was ever \"hair\" to the throne",
+        "answer": "The Bald",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"M-E\"s",
+        "value": 400,
+        "question": "Newspapers, magazines, radio & television",
+        "answer": "media",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BELOVED POLAND",
+        "value": 800,
+        "question": "After the fall of the Communists in 1989, Poland joined NATO in 1999 & this economic group of nations on May 1, 2004",
+        "answer": "the European Union",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SONG",
+        "value": 800,
+        "question": "Hall & Oates:\"____ Smile\"",
+        "answer": "Sara",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MEN OF LETTERS",
+        "value": 800,
+        "question": "In Richardson's epistolary novel, \"Pamela\" is a girl with this job resisting the advances of her mistress' son",
+        "answer": "a serving maid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE DENVER MINT",
+        "value": 800,
+        "question": "The mint stores this, a term for gold bars held for their value as a metal rather than as money",
+        "answer": "bullion",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EUROPEAN KINGS",
+        "value": 800,
+        "question": "This \"Good King\" of Bohemia was killed by his brother Boleslav while on the way to mass",
+        "answer": "Wenceslas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"M-E\"s",
+        "value": 800,
+        "question": "In \"Yellow Submarine\", the Beatles travel to Pepperland to rid it of these blue music haters",
+        "answer": "the Blue Meanies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BELOVED POLAND",
+        "value": 1200,
+        "question": "Winning for Physics & Chemistry, this Polish woman is one of the 2 Nobel Laureates in 2 different fields",
+        "answer": "Marie Curie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SONG",
+        "value": 1200,
+        "question": "David Bowie:\"Blue ____\"",
+        "answer": "Jean",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MEN OF LETTERS",
+        "value": 1200,
+        "question": "2 \"poor folk\" exchange letters in this Russian's psychologically penetrating first novel, from 1846",
+        "answer": "Dostoevsky",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE DENVER MINT",
+        "value": 1200,
+        "question": "(Jon of the Clue Crew reports from the Denver Mint.)  Back when coins were made of gold & silver, putting ridges around them was done to prevent cutting off bits of metal, an act known by this grooming term",
+        "answer": "shaving",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EUROPEAN KINGS",
+        "value": 1200,
+        "question": "In the 1328 Treaty of Northampton, the English affirmed his right to be called King of the Scots",
+        "answer": "Robert the Bruce",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"M-E\"s",
+        "value": 1200,
+        "question": "If you belong to an organization for those with high IQs, you'll know that this is the top surface of an altar",
+        "answer": "mensa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BELOVED POLAND",
+        "value": 1600,
+        "question": "Poland's national anthem is in the style of this dance, named for a region of eastern Poland",
+        "answer": "a mazurka",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SONG",
+        "value": 1600,
+        "question": "Michael Jackson:\"Dirty ____\"",
+        "answer": "Diana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MEN OF LETTERS",
+        "value": 1600,
+        "question": "His last published story, from 1965, takes the form of a letter written by 7-year-old Seymour Glass at summer camp",
+        "answer": "J.D. Salinger",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE DENVER MINT",
+        "value": 1600,
+        "question": "Denver is one of 2 mints producing coins for general circulation; this other facility also engraves the designs",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EUROPEAN KINGS",
+        "value": 1600,
+        "question": "In 1830 he declined the crown of Greece, but a year later the Belgian National Congress elected him king; he accepted",
+        "answer": "King Leopold of Belgium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"M-E\"s",
+        "value": 1600,
+        "question": "Hypnotism",
+        "answer": "mesmerism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BELOVED POLAND",
+        "value": 2000,
+        "question": "Poland's longest river, it flows through Warsaw & empties into the Baltic Sea",
+        "answer": "the Vistula",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WOMEN IN SONG",
+        "value": 2000,
+        "question": "Pam Tillis:\"____, Queen of Denial\"",
+        "answer": "Cleopatra",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MEN OF LETTERS",
+        "value": 2000,
+        "question": "(I'm Hill Harper of CSI: NY.) My motivational book \"Letters to a Young Brother\" was inspired by this book written 100 years ago by Rainer Maria Rilke",
+        "answer": "Letters to a Young Poet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE DENVER MINT",
+        "value": 2000,
+        "question": "(Kelly of the Clue Crew reports from the Denver Mint.)  Presses put designs on coins; a die called the hammer imprints the head side while one appropriately called this imprints the tail",
+        "answer": "the anvil",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EUROPEAN KINGS",
+        "value": 2000,
+        "question": "In 1000 Pope Sylvester II gave this first king of Hungary a gold crown",
+        "answer": "St. Stephen",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"M-E\"s",
+        "value": 2000,
+        "question": "It can be the old section of an Arab city in north Africa, or the name of the city where Muhammad is entombed",
+        "answer": "Medina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MEDICAL HISTORY",
+    "clue": "A patient who told this Frankfurt doctor \"I have lost myself\" was the basis for a paper he gave in 1906",
+    "answer": "Alois Alzheimer"
+  },
+  "gameId": "5269",
+  "gameDate": "Thursday, July 5, 2007"
+}

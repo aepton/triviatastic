@@ -1,0 +1,574 @@
+{
+  "title": "Show #3078 - Wednesday, January 7, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "FAIRIES",
+      "MOTTOES",
+      "THEY ALL PLAYED HAMLET",
+      "\"P\"OTPOURRI",
+      "ISLANDS",
+      "WET & WILD"
+    ],
+    "clues": [
+      {
+        "category": "FAIRIES",
+        "value": 100,
+        "question": "He puts \"sleepy dust\" in children's eyes to help them sleep",
+        "answer": "Sandman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOTTOES",
+        "value": 100,
+        "question": "Be prepared to tell us that this group's motto is \"Be Prepared\"",
+        "answer": "Boy Scouts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THEY ALL PLAYED HAMLET",
+        "value": 100,
+        "question": "Fans from around the world sped to Winnipeg to see this \"Speed\" star play Hamlet there in 1995",
+        "answer": "Keanu Reeves",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"P\"OTPOURRI",
+        "value": 100,
+        "question": "If you've been to a prom, you should know \"prom\" is short for this, also a popular name for a shopping mall",
+        "answer": "Promenade",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ISLANDS",
+        "value": 100,
+        "question": "The Danes call this island dependency in the north Atlantic Gronland",
+        "answer": "Greenland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WET & WILD",
+        "value": 100,
+        "question": "Of a bird, a fish or an insect, what a water boatman is",
+        "answer": "Insect",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FAIRIES",
+        "value": 200,
+        "question": "On stage, this fairy, visible only as a dancing light, swallows poison to save Peter Pan's life",
+        "answer": "Tinker Bell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOTTOES",
+        "value": 200,
+        "question": "\"Ring\" in if you know it's engraved with the motto \"Proclaim Liberty Throughout All The Land...\"",
+        "answer": "Liberty Bell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THEY ALL PLAYED HAMLET",
+        "value": 200,
+        "question": "He's only 9 years younger than Glenn Close, but he called her Mom in Zeffirelli's 1990 version",
+        "answer": "Mel Gibson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"P\"OTPOURRI",
+        "value": 200,
+        "question": "A type of large snake; it may be \"reticulated\"",
+        "answer": "Python",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ISLANDS",
+        "value": 200,
+        "question": "Hey, mon!  The Cayman Islands were colonized about 1734 by British settlers from this nearby island",
+        "answer": "Jamaica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WET & WILD",
+        "value": 200,
+        "question": "The American Water & Irish Water breeds of this dog are both noted for retrieving waterfowl",
+        "answer": "Spaniel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FAIRIES",
+        "value": 300,
+        "question": "In December 1892 \"The Nutcracker\" was first produced with Antonietta Dell'era in this role",
+        "answer": "Sugar Plum Fairy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOTTOES",
+        "value": 300,
+        "question": "Put a feather in your cappa if you know this Greek society's motto is \"Philosophy The Guide Of Life\"",
+        "answer": "Phi Beta Kappa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THEY ALL PLAYED HAMLET",
+        "value": 300,
+        "question": "The role of Obi-Wan Kenobi was light-years away when he played Hamlet at the Old Vic in 1938",
+        "answer": "Sir Alec Guinness",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"P\"OTPOURRI",
+        "value": 300,
+        "question": "From the name of a river, it's the \"fever\" that tends to afflict national politicians",
+        "answer": "Potomac fever",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ISLANDS",
+        "value": 300,
+        "question": "The Safety Islands off French Guiana consist of Royale, Saint-Joseph & this diabolical island",
+        "answer": "Devil's Island",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WET & WILD",
+        "value": 300,
+        "question": "Bubalus babalis is the scientific name of this animal also known as the water ox",
+        "answer": "Water buffalo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FAIRIES",
+        "value": 400,
+        "question": "This mischievous fairy speaks the epilogue of Shakespeare's \"A Midsummer Night's Dream\"",
+        "answer": "Puck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOTTOES",
+        "value": 400,
+        "question": "\"Power To The People\" was one of the mottoes of this '60s militant group, founded in Oakland",
+        "answer": "Black Panthers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THEY ALL PLAYED HAMLET",
+        "value": 800,
+        "question": "He played Hamlet at the New York Shakespeare Festival before he hammed it up as Mike Hammer:",
+        "answer": "Stacy Keach",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"P\"OTPOURRI",
+        "value": 400,
+        "question": "It's the kind of lurid fiction printed on the low-quality paper of the same name",
+        "answer": "Pulp fiction",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ISLANDS",
+        "value": 400,
+        "question": "Politically, this Greek island is divided into 4 departments: Canea, Lasithi, Rethymne & Iraklion",
+        "answer": "Crete",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WET & WILD",
+        "value": 400,
+        "question": "Water hog is another name for this, the largest living rodent, that looks like a giant guinea pig",
+        "answer": "Capybara",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FAIRIES",
+        "value": 500,
+        "question": "Sometimes a fairy will steal one of these & leave a changeling in its place",
+        "answer": "Baby",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOTTOES",
+        "value": 500,
+        "question": "\"Duty, Honor, Country\" is the motto of this New York school",
+        "answer": "U.S. Military Academy/West Point/Army",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THEY ALL PLAYED HAMLET",
+        "value": 500,
+        "question": "This star of \"A Fish Called Wanda\" not only starred in but directed a 1990 production of \"Hamlet\"",
+        "answer": "Kevin Kline",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"P\"OTPOURRI",
+        "value": 500,
+        "question": "This term for a social outcast is from the Tamil for \"drummer\", a position once held by a person of low caste",
+        "answer": "Pariah",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ISLANDS",
+        "value": 500,
+        "question": "This island was specially built for San Francisco's Golden Gate Int'l Exposition of 1939 & 1940",
+        "answer": "Treasure Island",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WET & WILD",
+        "value": 500,
+        "question": "The water opossum is also called the yapok, in honor of this continent's Oyapok River",
+        "answer": "South America",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MYTHOLOGY",
+      "TRAVEL U.S.A.",
+      "ROYALTY",
+      "WOMEN IN SPORTS",
+      "DIBS!",
+      "BEFORE & AFTER"
+    ],
+    "clues": [
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "She had the \"face that launched a thousand ships\"; sounds painful!",
+        "answer": "Helen of Troy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL U.S.A.",
+        "value": 200,
+        "question": "A nat'l memorial near Kitty Hawk features reconstructions of the camp & hangar used by this pair",
+        "answer": "The Wright Brothers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ROYALTY",
+        "value": 200,
+        "question": "Isabella II was proclaimed queen of this country a few days before her third birthday, in 1833",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 200,
+        "question": "In March 1997 this Swiss miss became the youngest player to be ranked No. 1 in women's tennis",
+        "answer": "Martina Hingis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DIBS!",
+        "value": 200,
+        "question": "In 1494 Pope Alexander VI gave this country the right to colonize the east coast of Brazil",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 200,
+        "question": "The great white whale who hosted \"American Bandstand\"",
+        "answer": "Moby Dick Clark",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "Believing Thisbe to be dead after finding her bloody veil, this youth killed himself",
+        "answer": "Pyramus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL U.S.A.",
+        "value": 400,
+        "question": "Open to the public, a St. Louis farm once owned by Ulysses Grant is now operated by this brewery",
+        "answer": "Anheuser-Busch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ROYALTY",
+        "value": 400,
+        "question": "Kipling wrote of this queen, \"Walk wide o' the widow at Windsor, for 'alf o' creation she owns\"",
+        "answer": "Queen Victoria",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 800,
+        "question": "Nancy Lieberman-Cline is among the inductees in the Naismith Memorial Hall of Fame for this sport",
+        "answer": "basketball",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DIBS!",
+        "value": 400,
+        "question": "The Dutch had already sighted Australia, & Aborigines lived there, when he claimed it for England in 1770",
+        "answer": "Captain James Cook",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 400,
+        "question": "\"That Girl\" who wrote the Declaration of Independence",
+        "answer": "Marlo Thomas Jefferson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 600,
+        "question": "She was Pygmalion's \"statuesque\" wife",
+        "answer": "Galatea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL U.S.A.",
+        "value": 600,
+        "question": "Wish you were in Dixie -- National Forest?  You'll find it near Bryce Canyon in this state",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ROYALTY",
+        "value": 600,
+        "question": "He & Carlota landed in Mexico on May 28, 1864",
+        "answer": "Maximilian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 600,
+        "question": "Kathy Whitworth was the first woman in this sport to win a million dollars in prize money",
+        "answer": "Golf",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DIBS!",
+        "value": 600,
+        "question": "This 2-word term coined in 1845 asserted that the U.S. had dibs on land stretching to the Pacific",
+        "answer": "Manifest destiny",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 600,
+        "question": "Now ear this: it's an \"ear\" vegetable served on a spider structure",
+        "answer": "Corn on the cobweb",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1600,
+        "question": "As the muse of this scholarly discipline, Clio probably tended to repeat herself",
+        "answer": "history",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL U.S.A.",
+        "value": 800,
+        "question": "You can visit the Netherlands Museum without ever leaving the USA; it's located in this Michigan city",
+        "answer": "Holland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ROYALTY",
+        "value": 800,
+        "question": "This country's King Carl XVI Gustaf was born Carl Gustaf Folke Hubertus at Haga Castle in 1946",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 800,
+        "question": "In 1996 Christy Martin became the first female pro in this sport to be featured live on national TV",
+        "answer": "Boxing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DIBS!",
+        "value": 800,
+        "question": "When this native group had dibs on the Mexico City area, they called it Tenochtitlan",
+        "answer": "Aztecs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 800,
+        "question": "A Lerner & Loewe musical about a lovely insect who flies away home",
+        "answer": "My Fair Ladybug",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 1000,
+        "question": "Vulcan's Greek counterpart, he created Achilles' armor",
+        "answer": "Hephaestus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRAVEL U.S.A.",
+        "value": 1000,
+        "question": "For some fun in this Pennsylvania city, drop by the Dutch Wonderland Family Fun Park",
+        "answer": "Lancaster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ROYALTY",
+        "value": 1000,
+        "question": "Duchess Sophie of Bavaria married this tiny country's Crown Prince Alois in 1993, in Vaduz",
+        "answer": "Liechtenstein",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WOMEN IN SPORTS",
+        "value": 1000,
+        "question": "In 1997 this 14-year-old American became the youngest women's world figure skating champion",
+        "answer": "Tara Lipinski",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DIBS!",
+        "value": 1000,
+        "question": "The Russians & Japanese both want these northern islands that were first occupied by the Ainu",
+        "answer": "Kuril Islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BEFORE & AFTER",
+        "value": 1000,
+        "question": "Leonardo da Vinci's portrait of Michael Jackson's ex-wife",
+        "answer": "Mona Lisa Marie Presley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ENGLISH LITERATURE",
+    "clue": "This 1726 satire reported the existence of Mars' 2 moons 151 years before Asaph Hall discovered them",
+    "answer": "Gulliver's Travels"
+  },
+  "gameId": "3078",
+  "gameDate": "Wednesday, January 7, 1998"
+}

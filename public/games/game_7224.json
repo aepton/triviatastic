@@ -1,0 +1,574 @@
+{
+  "title": "Show #1901 - Monday, December 7, 1992",
+  "jeopardyRound": {
+    "categories": [
+      "ANIMALS",
+      "FOOTWEAR",
+      "STATE CAPITALS",
+      "MAGAZINES",
+      "ANAGRAMS",
+      "INVISIBLE MEN"
+    ],
+    "clues": [
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "Unlike most other mammals, these \"ships of the desert\" have oval red blood corpuscles",
+        "answer": "camels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOTWEAR",
+        "value": 100,
+        "question": "Lazy people. or their moccasin-like shoes",
+        "answer": "loafers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 100,
+        "question": "Founded by Captain John Augustus Sutter, this capital was an early supply center for gold prospectors",
+        "answer": "Sacramento",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 100,
+        "question": "\"Goings On About Town\" is a popular feature of this Manhattan magazine",
+        "answer": "New Yorker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 100,
+        "question": "Matt Groening named one of the Simpsons this because it's an anagram of \"brat\"",
+        "answer": "Bart (brat)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "INVISIBLE MEN",
+        "value": 100,
+        "question": "As Nick in \"Memoirs of an Invisible Man\", all he wants are his molecules back & Daryl Hannah",
+        "answer": "Chevy Chase",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "Marlin & sailfish closely resemble this fish with a weapon in its name",
+        "answer": "a swordfish",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOTWEAR",
+        "value": 200,
+        "question": "A type of satin, or an item of footwear that can be carpet or ballet",
+        "answer": "a slipper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "Faneuil Hall in this New England capital is known as the \"Cradle of Liberty\"",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "Of who, what or where, the one that's the Australian offspring of People magazine",
+        "answer": "Who",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 200,
+        "question": "It's how Lil felt after eating rotten apples",
+        "answer": "ill (Lil)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "INVISIBLE MEN",
+        "value": 200,
+        "question": "These days Goldie Hawn sees a lot of this \"Now You See Him, Now You Don't\" star",
+        "answer": "Kurt Russell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "The chocolate point, a type of this Asian cat, should have points the color of milk chocolate",
+        "answer": "a Siamese",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOTWEAR",
+        "value": 300,
+        "question": "This canvas boat shoe has the floor surface of a ship in its name",
+        "answer": "a deck shoe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 300,
+        "question": "Until 1969 Iolani Palace in this city served as the state capitol building",
+        "answer": "Honolulu",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 300,
+        "question": "World Monitor Magazine is the sister publication of this newspaper",
+        "answer": "the Christian Science Monitor",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 300,
+        "question": "Our announcer Johnny Gilbert loves this beverage made from honey & water",
+        "answer": "mead (made)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "INVISIBLE MEN",
+        "value": 300,
+        "question": "In a 1951 film this comedy pair joins forces with invisible man Arthur Franz",
+        "answer": "Abbott & Costello",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "You can recognize a cassowary by the horny casque on top of this part of its body",
+        "answer": "its head",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOTWEAR",
+        "value": 400,
+        "question": "You might feel regal when you wear Balmorals because they're named for one of these in Scotland",
+        "answer": "a castle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "First called Mahto, this South Dakota capital was renamed in 1880 for a French fur trader",
+        "answer": "Pierre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "This novelist, John Gregory Dunne's brother, is noted for his celebrity interviews in Vanity Fair",
+        "answer": "Dominick Dunne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 400,
+        "question": "It's a synonym for average, as Marlon could tell you",
+        "answer": "normal (Marlon)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "INVISIBLE MEN",
+        "value": 400,
+        "question": "He wasn't seen very long on TV as \"The Invisible Man\"; his tenure as Illya Kuryakin lasted longer",
+        "answer": "David McCallum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "The coachwhip, which is one of these, jerks or whips its head when it bites, which can cause lacerations",
+        "answer": "a snake",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOTWEAR",
+        "value": 500,
+        "question": "A brand of casual shoes, or deep-fried cornmeal dumplings once used to \"quiet canines\"",
+        "answer": "Hush Puppies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 500,
+        "question": "By 1960 the first ICBMs were housed at Francis E. Warren AFB near this Wyoming capital",
+        "answer": "Cheyenne",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1000,
+        "question": "Diana Vreeland was Harper's Bazaar's fashion editor for 25 years before she moved to this magazine",
+        "answer": "Vogue",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANAGRAMS",
+        "value": 500,
+        "question": "It amuses us to know this name is an Irish variation of James",
+        "answer": "Seamus (amuses)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "INVISIBLE MEN",
+        "value": 500,
+        "question": "You may remember seeing him in \"Cocoon\" & \"Police Academy\" but not in \"The Man Who Wasn't There\"",
+        "answer": "Steve Guttenberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORY",
+      "FRUITS & VEGETABLES",
+      "AUTHORS",
+      "ART",
+      "GOVERNMENT & POLITICS",
+      "TUNNELS"
+    ],
+    "clues": [
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "Legend says a shortage of these in Rome caused Romulus to take them from the Sabines",
+        "answer": "women",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 200,
+        "question": "This fruit varies in length from 4 to 12 inches & a bunch can weigh over 100 pounds",
+        "answer": "bananas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "This author of \"Little Men\" became an acquaintance of Nathaniel Hawthorne in Concord, Mass.",
+        "answer": "(Louisa May) Alcott",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "He moved to Brittany to be with peasants, but because they weren't simple enough, he moved to Tahiti",
+        "answer": "Gauguin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 200,
+        "question": "Supporters & opponents of the Vietnam War were called by these bird terms",
+        "answer": "doves & hawks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TUNNELS",
+        "value": 200,
+        "question": "On Dec. 1, 1990 workers from both sides met in the \"Chunnel\" under this body of water",
+        "answer": "the English Channel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "After this ruler's death, Israel split into 2 kingdoms: Israel in the north & Judah in the south",
+        "answer": "Solomon",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 400,
+        "question": "To quote the Encyclopedia Americana, it's \"the principal canning pear\"",
+        "answer": "a Bartlett",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "This author's pen name may derive from Orrin Henry, a prison guard",
+        "answer": "O. Henry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Born in 1853 at Groot Zundert, the Netherlands, he sold only 1 painting in his lifetime",
+        "answer": "van Gogh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 400,
+        "question": "The 21st Amendment repealed the 18th Amendment, which provided for this",
+        "answer": "prohibition",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TUNNELS",
+        "value": 400,
+        "question": "The Great St. Bernard Tunnel in the Alps connects Switzerland with this country",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "Sent by France to rule Mexico. this man was executed there in 1867",
+        "answer": "Maximilian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 600,
+        "question": "Spinach, carrots & sweet potatoes are good sources for this vitamin that keeps your skin healthy",
+        "answer": "A",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 600,
+        "question": "This author of \"The Source\" attended Swarthmore College on an athletic scholarship",
+        "answer": "(James) Michener",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "The Duchess of Alba may have been the model for his clothed & unclothed Maja paintings",
+        "answer": "Goya",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 600,
+        "question": "In 1901 the duty of protecting the president was given to this branch of the Treasury Department",
+        "answer": "the Secret Service",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TUNNELS",
+        "value": 600,
+        "question": "Completed in 1927, this tunnel under the Hudson River was the world's 1st underwater automobile tunnel",
+        "answer": "the Holland Tunnel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "In 1980 Andrei Sakharov was told to park it in this city",
+        "answer": "Gorky",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 800,
+        "question": "This tropical breakfast fruit can weigh up to 20 lbs. & its latex has an enzyme used in tenderizers",
+        "answer": "papaya",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 800,
+        "question": "James Hilton wrote this sentimental tale of an English schoolmaster in 4 days",
+        "answer": "Goodbye, Mr. Chips",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "Anthony van Dyck was assistant to this Flemish master",
+        "answer": "Peter Paul Rubens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 800,
+        "question": "This independent auditing agency of Congress is abbreviated GAO",
+        "answer": "the General Accounting Office",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TUNNELS",
+        "value": 800,
+        "question": "About 2170 B.C. the first known pedestrian tunnel was dug in Babylonia & passed under this river",
+        "answer": "the Euphrates",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORY",
+        "value": 1000,
+        "question": "The native troops in India known as these mutinied in 1857",
+        "answer": "Sepoys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 1000,
+        "question": "The peel of the bergamot variety of this fruit is used in Earl Grey tea",
+        "answer": "an orange",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 2000,
+        "question": "Anthony Hope created this mythical Central European kingdom for \"The Prisoner of Zenda\"",
+        "answer": "Ruritania",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "American artist John Trumbull is best known for his paintings of this war",
+        "answer": "the Revolutionary War",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT & POLITICS",
+        "value": 1000,
+        "question": "This is the process of submitting a proposed state law to a vote of the people",
+        "answer": "a referendum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TUNNELS",
+        "value": 1000,
+        "question": "The Eisenhower Memorial Tunnel just west of this state capital passes through the Continental Divide",
+        "answer": "Denver, Colorado",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "COUNTRIES OF THE WORLD",
+    "clue": "This island nation has the world's largest Muslim population",
+    "answer": "Indonesia"
+  },
+  "gameId": "1901",
+  "gameDate": "Monday, December 7, 1992"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1430 - Friday, November 16, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "NEWSPAPERS",
+      "MAMMALS",
+      "RECORD LABELS",
+      "ART",
+      "POTENT POTABLES",
+      "STARTS WITH \"END\""
+    ],
+    "clues": [
+      {
+        "category": "NEWSPAPERS",
+        "value": 100,
+        "question": "This D.C. paper led all others in pursuing the story of the Watergate break-in",
+        "answer": "The Washington Post",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MAMMALS",
+        "value": 100,
+        "question": "The primate order is characterized by having these instead of claws",
+        "answer": "fingernails",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RECORD LABELS",
+        "value": 100,
+        "question": "It was named after a nickname of Detroit",
+        "answer": "Motown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 100,
+        "question": "This late artist was also a jewelry designer; you might expect his watches to be limp",
+        "answer": "Salvador Dalí",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 100,
+        "question": "This word that follows golden, silver & gin in cocktail names refers to the addition of soda water",
+        "answer": "fizz",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"END\"",
+        "value": 100,
+        "question": "A bequest or gift, especially to a university",
+        "answer": "an endowment",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 200,
+        "question": "In 1988 Rupert Murdoch sold this NYC tabloid to Peter Kalikow, who's now trying to keep it alive",
+        "answer": "the New York Post",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MAMMALS",
+        "value": 200,
+        "question": "To reach really high foliage the gerenuk, an antelope, does this",
+        "answer": "stands on its hind legs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RECORD LABELS",
+        "value": 200,
+        "question": "You'll also find the name of this British label, begun by Richard Branson in 1973, on an airline",
+        "answer": "Virgin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "The \"Thinker\" guards the entrance to the Philadelphia museum devoted to this sculptor",
+        "answer": "Rodin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 200,
+        "question": "The flowers of this plant give beer its bitter taste",
+        "answer": "hops",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"END\"",
+        "value": 200,
+        "question": "This salad vegetable looks a lot like lettuce except its leaves are curlier",
+        "answer": "endive",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 300,
+        "question": "Both the Cleveland Plain Dealer & this St. Louis paper are owned by the Newhouse family",
+        "answer": "the St. Louis Post-Dispatch",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MAMMALS",
+        "value": 300,
+        "question": "The horn of the rhino is made of these packed together",
+        "answer": "hairs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RECORD LABELS",
+        "value": 300,
+        "question": "This ex-Beatle does his own releases on his own label--Dark Horse",
+        "answer": "George Harrison",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 300,
+        "question": "An artist dedicated to reviving early Renaissance style & methods is described as \"pre-\" this",
+        "answer": "Raphaelite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 300,
+        "question": "This brandy made from hard cider was called Jersey lightning in Colonial times",
+        "answer": "applejack",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"END\"",
+        "value": 300,
+        "question": "It's the brand of dentistry that deals with the tooth pulp & tissues",
+        "answer": "endodontics",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 400,
+        "question": "This paper is noted for its historic rivalry with the Rocky Mountain News",
+        "answer": "The Denver Post",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MAMMALS",
+        "value": 800,
+        "question": "Name given to both the smallest rabbit & the smallest shrew on the North American continent",
+        "answer": "pygmy",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RECORD LABELS",
+        "value": 400,
+        "question": "In 1948 this label introduced the first LP",
+        "answer": "Columbia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Egypt's temple of Abu Simbel features 4 figures of this pharaoh carved out of the rock",
+        "answer": "Ramses II",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 400,
+        "question": "This juice makes a Cape Codder cocktail red",
+        "answer": "cranberry juice",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"END\"",
+        "value": 400,
+        "question": "Completes the title of the Walt Whitman poem \"Out of the Cradle...\"",
+        "answer": "\"Endlessly Rocking\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 500,
+        "question": "Seattle's leading morning paper has this unusual name",
+        "answer": "the Post-Intelligencer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MAMMALS",
+        "value": 500,
+        "question": "The largest & fastest members of the dolphin family, they're also known as orcas",
+        "answer": "killer whales",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RECORD LABELS",
+        "value": 500,
+        "question": "Folk label whose name means \"forefront\"; it had its 1st new release in 8 yrs. with \"Different World\" in 1990",
+        "answer": "Vanguard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 500,
+        "question": "His paintings of flags & targets at a one-man show in 1958 unleashed a storm of controversy",
+        "answer": "Jasper Johns",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 500,
+        "question": "The name of this California co. means a wooden seat built into a wall near an open fireplace",
+        "answer": "Inglenook",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"END\"",
+        "value": 500,
+        "question": "In Greek myth, the moon goddess Selene was in love with this shepherd",
+        "answer": "Endymion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GENERAL SCIENCE",
+      "CLASSICAL MUSIC",
+      "HISTORY",
+      "NEW YORK CITIES",
+      "SHIPS",
+      "IMPRISONED AUTHORS"
+    ],
+    "clues": [
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 200,
+        "question": "If run in reverse an electric motor becomes one of these devices that produces electric current",
+        "answer": "a generator",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "Johann was his actual first name; Wolfgang was 1 of his middle names",
+        "answer": "(Johannes Chrysostomus Wolfgangus Theophilus) Mozart",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "In the first Punic War, the troops of his father, Hamilcar Barca, were defeated by the Romans in Sicily",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITIES",
+        "value": 200,
+        "question": "In a song from \"42nd Street\" people \"shuffled off to\" this New York city",
+        "answer": "Buffalo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 200,
+        "question": "A British crew sailed a replica of this ship from Plymouth, England to Plymouth, Mass. in 1957",
+        "answer": "the Mayflower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IMPRISONED AUTHORS",
+        "value": 200,
+        "question": "He used incidents from his captivity as a pirates' slave for \"Don Quixote\"",
+        "answer": "Cervantes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 400,
+        "question": "It's the branch of biology dealing with heredity; everybody into the pool!",
+        "answer": "genetics",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "As a teenager, this Israeli violinist made his American debut on \"The Ed Sullivan Show\" in 1958",
+        "answer": "Itzhak Perlman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "Abdicating the imperial throne on August 6, 1806, Francis II was its last ruler",
+        "answer": "the Holy Roman Empire",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITIES",
+        "value": 400,
+        "question": "You can visit Thomas Paine's home there, but not Rob Petrie's",
+        "answer": "New Rochelle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 400,
+        "question": "Because many rulers of these Nordic people were buried in their ships, some vessels have survived",
+        "answer": "the Vikings",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IMPRISONED AUTHORS",
+        "value": 400,
+        "question": "This author describes \"One Day in the Life of Ivan Denisovich\" at a Stalinist labor camp",
+        "answer": "Solzhenitsyn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 600,
+        "question": "It's found in layered beds or as nodules in chalk; early man chipped it to form tools",
+        "answer": "flint",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 600,
+        "question": "This Spanish cellist gave White House recitals for Teddy Roosevelt in 1904 & JFK in 1961",
+        "answer": "Casals",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "Union with this Baltic country in 1386 made Poland Europe's largest country",
+        "answer": "Lithuania",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITIES",
+        "value": 600,
+        "question": "It's home to Kodak & Xerox",
+        "answer": "Rochester",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 600,
+        "question": "Of the bow, the forecastle & the poop, the one situated at the stern of a ship",
+        "answer": "the poop",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IMPRISONED AUTHORS",
+        "value": 600,
+        "question": "To escape debtor's prison, John Cleland wrote this bawdy book about \"A Woman of Pleasure\" in 1748",
+        "answer": "Fanny Hill",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 800,
+        "question": "Tube that forms the basis of an oscilloscope",
+        "answer": "a cathode ray tube",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "He produced over 30 operas in London from \"Rinaldo\" in 1711 to \"Deidamia\" in 1741",
+        "answer": "Handel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "In ancient Greece, Athens had its Delian League of city-states while Sparta had this league",
+        "answer": "the Peloponnesian League",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITIES",
+        "value": 1600,
+        "question": "Odysseus might call this city home as it shares its name with the island he was from",
+        "answer": "Ithaca",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 800,
+        "question": "These sailing ships were the largest in the Spanish Armada",
+        "answer": "galleons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IMPRISONED AUTHORS",
+        "value": 800,
+        "question": "In \"Midnight Express\", Billy Hayes gave his account of time spent in prison in this country",
+        "answer": "Turkey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GENERAL SCIENCE",
+        "value": 1000,
+        "question": "This propulsion proposed for interstellar trips uses a flow of electrons & has been tested in Earth orbit",
+        "answer": "an ion drive",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1000,
+        "question": "After this Russian died, his \"Prince Igor\" opera was completed by Rimsky-Korsakov & Glazunov",
+        "answer": "Alexander Borodin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HISTORY",
+        "value": 1000,
+        "question": "Called greatest Catholic missionary of modern times, he introduced Christianity into Japan in 1549",
+        "answer": "Francis Xavier",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NEW YORK CITIES",
+        "value": 1000,
+        "question": "At a congress in this city in 1754 Ben Franklin put forth a plan for unity of the colonies",
+        "answer": "Albany",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHIPS",
+        "value": 1000,
+        "question": "It has surpassed Liberia as the country with the most merchant ships under its flag",
+        "answer": "Panama",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IMPRISONED AUTHORS",
+        "value": 1000,
+        "question": "Though his \"Cell 2455, Death Row\" became a best seller, it didn't save him from execution",
+        "answer": "Caryl Chessman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ISLANDS",
+    "clue": "It's the only inhabited U.S. territory south of the equator",
+    "answer": "American Samoa"
+  },
+  "gameId": "1430",
+  "gameDate": "Friday, November 16, 1990"
+}

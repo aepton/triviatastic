@@ -1,0 +1,574 @@
+{
+  "title": "Show #2474 - Thursday, May 11, 1995",
+  "jeopardyRound": {
+    "categories": [
+      "THE BIBLE",
+      "SPORTS",
+      "FASHION NAMES",
+      "AMERICANA",
+      "IN THE NEWS",
+      "JUST DESSERTS"
+    ],
+    "clues": [
+      {
+        "category": "THE BIBLE",
+        "value": 100,
+        "question": "This garden is the first specific place on earth named in the Bible",
+        "answer": "Eden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "In 1991 Hansel finished 10th in this triple crown race, but won the Preakness & Belmont Stakes",
+        "answer": "Kentucky Derby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FASHION NAMES",
+        "value": 100,
+        "question": "First name in fashion for a Cole & a Klein II",
+        "answer": "Anne",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AMERICANA",
+        "value": 100,
+        "question": "This state's unofficial nickname is \"Little Rhody\"",
+        "answer": "Rhode Island",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 100,
+        "question": "On Jan. 1, 1995 the price of a first class postage stamp increased to this amount",
+        "answer": "32 cents",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 100,
+        "question": "This nut, used to make a popular southern pie, is closely related to the hickory nut",
+        "answer": "pecan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "From Luke we learn the Lord's supper goes back to a dinner during this holiday",
+        "answer": "Passover",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "Brazil is the only nation to appear in every one of these soccer championships",
+        "answer": "World Cup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FASHION NAMES",
+        "value": 200,
+        "question": "It's the fashion line you \"Git\" into",
+        "answer": "Gitano",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AMERICANA",
+        "value": 200,
+        "question": "Franklin Pierce belonged to the Aztec Club, a society of veterans of this war",
+        "answer": "Mexican-American War",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 200,
+        "question": "Putting his family first, this former VP announced he won't seek the presidency in 1996",
+        "answer": "Dan Quayle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 200,
+        "question": "Stiffly beaten, these give an angel food cake its airy texture",
+        "answer": "egg whites",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 300,
+        "question": "\"A very grievous hail\" was the seventh of these",
+        "answer": "plagues (10 plagues on Egypt)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "In 1988 this German tennis star became only the third woman to win the grand slam",
+        "answer": "Steffi Graf",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FASHION NAMES",
+        "value": 300,
+        "question": "In ads Bridget Hall can be seen in this designer's mini polo",
+        "answer": "Ralph Lauren",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AMERICANA",
+        "value": 300,
+        "question": "She spent her last years in a Eureka Springs, Arkansas boarding house known as \"Hatchet Hall\"",
+        "answer": "Carrie Nation",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 300,
+        "question": "Myrlie Evers-Williams, the widow of civil rights leader Medgar Evers, was elected head of this org.",
+        "answer": "NAACP",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 300,
+        "question": "The English Banbury cake is filled with currants, spices & the peel of this citrus fruit",
+        "answer": "orange (lemon)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "When he died, his garments were put on his son Eleazar by his brother Moses",
+        "answer": "Aaron",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "Men from this sport named Male Athlete of the Year by the AP include Ben Hogan & Lee Trevino",
+        "answer": "golf",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FASHION NAMES",
+        "value": 400,
+        "question": "It's a chain of stores, or a term for a tropical country whose economy is based on fruit",
+        "answer": "Banana Republic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AMERICANA",
+        "value": 400,
+        "question": "Originally, the Pennsylvania Dutch painted these signs on barns to protect against evil spirits",
+        "answer": "hex signs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 400,
+        "question": "In a close encounter, the shuttle Discovery rendezvoused with this Russian space station",
+        "answer": "Mir",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 400,
+        "question": "This almond paste confection is also called marchpane",
+        "answer": "marzipan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 500,
+        "question": "In Genesis 32 he wrestled an angel",
+        "answer": "Jacob",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "While with this team, Eric Dickerson set the NFL single-season rushing record wit 2,105 yards",
+        "answer": "Rams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FASHION NAMES",
+        "value": 500,
+        "question": "U.S. state that's the last name of designer Claude",
+        "answer": "Montana",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AMERICANA",
+        "value": 500,
+        "question": "Virginia's Shenandoah River is the largest tributary of this river",
+        "answer": "Potomac",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 1000,
+        "question": "Famous for his scholarship program this longtime Arkansas Senator passed away in 1995",
+        "answer": "(J. William) Fulbright",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "JUST DESSERTS",
+        "value": 500,
+        "question": "The elegant Linzertorte was invented in Linz in this country",
+        "answer": "Austria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "RULERS",
+      "LIBRARIES",
+      "THE BODY HUMAN",
+      "PLAYS & PLAYWRIGHTS",
+      "AROUND THE WORLD",
+      "12-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "RULERS",
+        "value": 200,
+        "question": "In 1468 the Accord of Tores de Guisando recognized her as heiress to the throne of Castile",
+        "answer": "Isabella",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 200,
+        "question": "The New York State Library in this capital has a preliminary copy of the Emancipation Proclamation",
+        "answer": "Albany",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 200,
+        "question": "Its \"pacemaker\" is located at the juncture of the superior vena cava & the right atrium",
+        "answer": "heart",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PLAYS & PLAYWRIGHTS",
+        "value": 200,
+        "question": "This partner of Frederick Loewe wrote the book & the lyrics for \"Brigadoon\"",
+        "answer": "Lerner",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 200,
+        "question": "Table Mountain, near Cape Town in this country, is often enshrined by a cloud called \"The Tablecloth\"",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 200,
+        "question": "This substance is commonly used in making dyes & for preserving biological specimens",
+        "answer": "formaldehyde",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 400,
+        "question": "The biographer Einhard said this great king of the Franks had a surprisingly high-pitched voice",
+        "answer": "Charlemagne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 400,
+        "question": "The Nevada State Library & Archives in this city is the state government's official library",
+        "answer": "Carson City",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 400,
+        "question": "This fibrous cord that attaches the calf to the heel is properly called the tendo calcaneus",
+        "answer": "Achilles tendon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PLAYS & PLAYWRIGHTS",
+        "value": 400,
+        "question": "\"The Cherry Orchard\" opened at the Moscow Art Theatre on this playwright's birthday in 1904",
+        "answer": "Anton Chekhov",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 400,
+        "question": "Some 6,800 French Canadians live on Ile d'Orleans, an island in this province",
+        "answer": "Quebec",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 400,
+        "question": "Term for one who opposed slavery in the U.S.",
+        "answer": "abolitionist",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 600,
+        "question": "The second Hawaiian king to bear this name was also known as Liholiho",
+        "answer": "Kamehameha",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 600,
+        "question": "The Hackley Public Library in Muskegon in this state has a notable collection on lumbering",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 600,
+        "question": "Organs in this \"cavity\" include the spleen & pancreas",
+        "answer": "abdominal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PLAYS & PLAYWRIGHTS",
+        "value": 600,
+        "question": "First published in 1873, \"Emperor and Galilean\" is a 10-act drama by this Norwegian",
+        "answer": "Ibsen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 600,
+        "question": "The city of Montevideo is the commercial center of this country",
+        "answer": "Uruguay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 600,
+        "question": "From the Greek for \"love of man\", it's the helping of mankind through charitable gifts & humanitarianism",
+        "answer": "philanthropy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 800,
+        "question": "Hassan II was commander of this country's royal army before he became its king",
+        "answer": "Morocco",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 800,
+        "question": "This Rochester, Minnesota clinic has its own medical library",
+        "answer": "Mayo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 800,
+        "question": "This thigh bone is the strongest bone in the body",
+        "answer": "femur",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PLAYS & PLAYWRIGHTS",
+        "value": 800,
+        "question": "Best known for comedies like \"Private Lives\", he made his reputation with \"The Vortex\", a serious drama",
+        "answer": "Noël Coward",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 1600,
+        "question": "Vilnius, the capital of this country, was destroyed by the Teutonic Knights in 1377",
+        "answer": "Lithuania",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 1600,
+        "question": "It's the branch of science that studies fossils",
+        "answer": "paleontology",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RULERS",
+        "value": 1000,
+        "question": "In September 1762 the Archbishop of Novgorod anointed her empress",
+        "answer": "Catherine the Great",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LIBRARIES",
+        "value": 1000,
+        "question": "Disraeli was one of the foreign authors who gave books to this city's library after the 1871 fire",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 1000,
+        "question": "Hormones produced by the hypothalamus control this \"master gland\"",
+        "answer": "pituitary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PLAYS & PLAYWRIGHTS",
+        "value": 1000,
+        "question": "A band is heard playing \"John Brown's Body\" at the beginning of his play \"Mourning Becomes Electra\"",
+        "answer": "Eugene O'Neill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 1000,
+        "question": "Mongolia's Academy of Sciences is located on this capital city",
+        "answer": "Ulan Bator",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "12-LETTER WORDS",
+        "value": 1000,
+        "question": "It describes the appearance of someone who's wearing eyeglasses",
+        "answer": "bespectacled",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN LITERATURE",
+    "clue": "Chapter XI of this 1826 novel is prefaced by a Shakespearean quote: \"Cursed be my tribe, if I forgive him\"",
+    "answer": "The Last of the Mohicans"
+  },
+  "gameId": "2474",
+  "gameDate": "Thursday, May 11, 1995"
+}

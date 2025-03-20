@@ -1,0 +1,556 @@
+{
+  "title": "Show #4324 - Thursday, May 22, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "STATE LAKES",
+      "WOMEN OF POP",
+      "IS THERE A POINT TO ALL THIS?",
+      "POL POT-POURRI",
+      "I'M JUST RUNNING IN FOR...",
+      "AT THE \"Y\""
+    ],
+    "clues": [
+      {
+        "category": "STATE LAKES",
+        "value": 200,
+        "question": "Buckeye Lake",
+        "answer": "Ohio",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOMEN OF POP",
+        "value": 200,
+        "question": "In 1978 she starred on the big screen as Sandy in \"Grease\"",
+        "answer": "Olivia Newton-John",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IS THERE A POINT TO ALL THIS?",
+        "value": 200,
+        "question": "A good student knows that GPA stands for this",
+        "answer": "grade point average",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POL POT-POURRI",
+        "value": 200,
+        "question": "In 1949 Pol Pot went to study radio electronics in this city where he ended up joining the French Communist Party",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I'M JUST RUNNING IN FOR...",
+        "value": 200,
+        "question": "...some of the Iams brand of this for Mouser, my American bobtail",
+        "answer": "cat food",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AT THE \"Y\"",
+        "value": 200,
+        "question": "When this song title American stuck a feather in his hat, he called it Macaroni",
+        "answer": "Yankee Doodle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE LAKES",
+        "value": 400,
+        "question": "Yellowstone Lake",
+        "answer": "Wyoming",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOMEN OF POP",
+        "value": 400,
+        "question": "Her rendition of \"One Moment in Time\" was used as a theme song for the 1988 Summer Olympics",
+        "answer": "Whitney Houston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IS THERE A POINT TO ALL THIS?",
+        "value": 400,
+        "question": "In ballet, to dance \"sur les pointes\" is to dance on these",
+        "answer": "toes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POL POT-POURRI",
+        "value": 400,
+        "question": "In January 1979 Vietnamese troops took over this capital city & overthrew Pol Pot",
+        "answer": "Phnom Penh",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I'M JUST RUNNING IN FOR...",
+        "value": 400,
+        "question": "...a couple of new pairs of this -- the no-run type this time",
+        "answer": "panty hose/stockings",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AT THE \"Y\"",
+        "value": 400,
+        "question": "This type of boat's name is from a word meaning \"hunting ship\" & will take up your whole driveway if you park it there",
+        "answer": "yacht",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE LAKES",
+        "value": 600,
+        "question": "Crater Lake",
+        "answer": "Oregon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WOMEN OF POP",
+        "value": 600,
+        "question": "(Sarah of the Clue Crew reports from Motown Records in Detroit.)  Diana Ross was once a secretary at Motown, as was this singer before she went \"Dancing In The Street\" with The Vandellas",
+        "answer": "Martha Reeves",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IS THERE A POINT TO ALL THIS?",
+        "value": 600,
+        "question": "This military academy's 3-word motto is \"Duty, Honor, Country\"",
+        "answer": "West Point",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POL POT-POURRI",
+        "value": 600,
+        "question": "This colorful name for Pol Pot's political movement was given to it by Cambodian king Norodom Sihanouk",
+        "answer": "Khmer Rouge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I'M JUST RUNNING IN FOR...",
+        "value": 600,
+        "question": "...this ropelike material, defined as thread made of 2 or more strands twisted together",
+        "answer": "twine",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AT THE \"Y\"",
+        "value": 600,
+        "question": "The jumble sale held in an English garden would be called one of these in an American suburb",
+        "answer": "yard sale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE LAKES",
+        "value": 800,
+        "question": "Lobster Lake",
+        "answer": "Maine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WOMEN OF POP",
+        "value": 800,
+        "question": "Her \"Mi Reflejo\" album includes a Spanish version of her \"Genie in a Bottle\"",
+        "answer": "Christina Aguilera",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IS THERE A POINT TO ALL THIS?",
+        "value": 800,
+        "question": "Also known as Divisionism, this style of art was best exemplified by Georges Seurat",
+        "answer": "Pointillism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POL POT-POURRI",
+        "value": 800,
+        "question": "Also the year of the U.S. pullout from Vietnam, it's the year Pol Pot seized dictatorial control of Cambodia",
+        "answer": "1975",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I'M JUST RUNNING IN FOR...",
+        "value": 800,
+        "question": "...20 first-class stamps, which will now cost this much total",
+        "answer": "$7.40",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AT THE \"Y\"",
+        "value": 800,
+        "question": "The 1945 conference in this Crimean city determined that a defeated Germany would be divided into 4 zones",
+        "answer": "Yalta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE LAKES",
+        "value": 1000,
+        "question": "Lake of the Ozarks",
+        "answer": "Missouri",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WOMEN OF POP",
+        "value": 1000,
+        "question": "(Hi, I'm Barbara Mandrell.)  I had a pop & a country hit with this 1979 ballad whose title begins \"If Loving You Is Wrong...\"",
+        "answer": "\"I Don't Want To Be Right\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IS THERE A POINT TO ALL THIS?",
+        "value": 1000,
+        "question": "In a perspective drawing, it's the point on the horizon where parallel lines appear to converge",
+        "answer": "vanishing point",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POL POT-POURRI",
+        "value": 1000,
+        "question": "This 1984 Oscar-winning film brought the genocidal horrors of Pol Pot & his regime to the eyes of the world",
+        "answer": "The Killing Fields",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "I'M JUST RUNNING IN FOR...",
+        "value": 1000,
+        "question": "...these fasteners, for my script on three-hole paper; they're also a man's first name",
+        "answer": "brads",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AT THE \"Y\"",
+        "value": 1000,
+        "question": "Incorporated as a city in 1970, this city is the capital of Canada's vast Northwest Territories",
+        "answer": "Yellowknife",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "MY PEOPLE CALL YOUR PEOPLE...",
+      "CLEANUP TIME",
+      "CAPITAL CITY BIRTHPLACES",
+      "BEFORE THEY WON OSCARS",
+      "\"CAN\"NED WORDS"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "In the early 1830s Michael Faraday found that a moving one of these can produce an electric current",
+        "answer": "magnet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MY PEOPLE CALL YOUR PEOPLE...",
+        "value": 400,
+        "question": "In this language spoken by over 160 million people French really is \"Frantsooski\"",
+        "answer": "Russian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CLEANUP TIME",
+        "value": 400,
+        "question": "5 generations of one family have kept this company's \"Pledge\" to shine up American homes",
+        "answer": "S.C. Johnson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 400,
+        "question": "Alanis Morissette,1974",
+        "answer": "Ottawa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BEFORE THEY WON OSCARS",
+        "value": 400,
+        "question": "Tommy Lee Jones guest-starred on the pilot for this TV series, but I was looking at Farrah",
+        "answer": "Charlie's Angels",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SCIENCE",
+        "value": 800,
+        "question": "In 1953 Watson & Crick built a model of the molecular structure of this, the gene-carrying substance",
+        "answer": "DNA",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MY PEOPLE CALL YOUR PEOPLE...",
+        "value": 800,
+        "question": "In German, Schweizer doesn't mean \"humanitarian\"; it refers to people from this country",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CLEANUP TIME",
+        "value": 800,
+        "question": "A Robert Frost poem begins, \"The witch that came (the withered hag) to wash the steps with pail and\" this",
+        "answer": "rag",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 800,
+        "question": "A.A. Milne,1882",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BEFORE THEY WON OSCARS",
+        "value": 800,
+        "question": "She romanced Ian Ziering on \"Beverly Hills 90210\" before she found out that \"Boys Don't Cry\"",
+        "answer": "Hilary Swank",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1200,
+        "question": "In 2002 an 800-mile-diameter planetoid called Quaoar was found 1 billion miles past this 1430-mile-diameter planet",
+        "answer": "Pluto",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MY PEOPLE CALL YOUR PEOPLE...",
+        "value": 1200,
+        "question": "To the Japanese Chile is Chiri & this South American country, Burajiru",
+        "answer": "Brazil",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CLEANUP TIME",
+        "value": 1200,
+        "question": "At the entrance to this, a device called a correlator aligns your wheels with the conveyor",
+        "answer": "car wash",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 1200,
+        "question": "Leni Riefenstahl,1902",
+        "answer": "Berlin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BEFORE THEY WON OSCARS",
+        "value": 1200,
+        "question": "He slayed us as the villainous Dario in the 007 film \"Licence to Kill\" before he got to play in \"Traffic\"",
+        "answer": "Benicio del Toro",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"CAN\"NED WORDS",
+        "value": 1200,
+        "question": "Ill-tempered & quarrelsome",
+        "answer": "cantankerous",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1600,
+        "question": "In the 1920s scientists discovered fossilized dinosaur eggs in this huge Mongolian desert",
+        "answer": "Gobi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MY PEOPLE CALL YOUR PEOPLE...",
+        "value": 1600,
+        "question": "Sassenach is a disparaging Scots & Irish term for people of this land",
+        "answer": "England",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CLEANUP TIME",
+        "value": 1600,
+        "question": "Type of product inspired by the Biblical passage \"Thy garments smell of myrrh, and aloes... out of the ivory palaces\"",
+        "answer": "soap",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 1600,
+        "question": "Soren Kierkegaard,1813",
+        "answer": "Copenhagen",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BEFORE THEY WON OSCARS",
+        "value": 1600,
+        "question": "He played a man called Meatball in \"The Caine Mutiny\" 11 years before he horsed around in \"Cat Ballou\"",
+        "answer": "Lee Marvin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"CAN\"NED WORDS",
+        "value": 1600,
+        "question": "This city in northeastern Ohio is home to the William McKinley memorial & burial site",
+        "answer": "Canton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 2000,
+        "question": "Among the compounds called alkanes, the hexanes are C6H14--& these hydrocarbons are C8H18",
+        "answer": "octanes",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MY PEOPLE CALL YOUR PEOPLE...",
+        "value": 2000,
+        "question": "In this language Danish is called Tanskalainen, Norwegian is Norjalainen & Swedish is Ruotsalainen",
+        "answer": "Finnish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CLEANUP TIME",
+        "value": 2000,
+        "question": "The Eureka Hot Shot 350 gets things clean using this method",
+        "answer": "steam",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CAPITAL CITY BIRTHPLACES",
+        "value": 2000,
+        "question": "Jorge Luis Borges,1899",
+        "answer": "Buenos Aires",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BEFORE THEY WON OSCARS",
+        "value": 2000,
+        "question": "We've lionized him ever since he played the young Richard the Lionhearted on film in \"The Lion in Winter\"",
+        "answer": "Anthony Hopkins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"CAN\"NED WORDS",
+        "value": 2000,
+        "question": "This Christian festival celebrates the day the infant Jesus was taken to the temple by Mary",
+        "answer": "Candlemas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ECONOMIC HISTORY",
+    "clue": "Before the first income tax was levied, the U.S. government got 90% of its revenue in the form of these",
+    "answer": "tariffs"
+  },
+  "gameId": "4324",
+  "gameDate": "Thursday, May 22, 2003"
+}

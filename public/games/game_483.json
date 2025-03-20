@@ -1,0 +1,574 @@
+{
+  "title": "Show #1262 - Tuesday, February 13, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "CHILDREN'S LITERATURE",
+      "U.S. STATES",
+      "CEREALS",
+      "MOVIES",
+      "VOLCANOES",
+      "SPELLING"
+    ],
+    "clues": [
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 100,
+        "question": "This Dr. Seuss animal said, \"'That is that.'  And then he was gone with a tip of his hat.\"",
+        "answer": "The Cat in the Hat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 100,
+        "question": "The Bimini Islands of the Bahamas lie about 50 miles east of this state",
+        "answer": "Florida",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CEREALS",
+        "value": 100,
+        "question": "This cereal isn't named after the Flintstones' daughter but for the little bitty stones it resembles",
+        "answer": "Pebbles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MOVIES",
+        "value": 100,
+        "question": "Tom Hanks & Carrie Fisher were \"Jeopardy!\" fans in this black comedy of life in suburbia",
+        "answer": "The 'Burbs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "VOLCANOES",
+        "value": 100,
+        "question": "Magma that reaches the earth's surface is called this",
+        "answer": "Lava",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPELLING",
+        "value": 100,
+        "question": "A native of Tangier or a citrus fruit",
+        "answer": "T-A-N-G-E-R-I-N-E",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 200,
+        "question": "Robert Louis Stevenson wrote \"A Child's Garden of\" these",
+        "answer": "Verses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 400,
+        "question": "State that suffered the most severe damage from 1989's Hurricane Hugo",
+        "answer": "South Carolina",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CEREALS",
+        "value": 200,
+        "question": "Though the \"Silly Rabbit\" hopes otherwise, he's constantly reminded this cereal is \"for kids\"",
+        "answer": "Trix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MOVIES",
+        "value": 200,
+        "question": "Cassandra Peterson co-wrote & starred in a 1988 film about this \"Mistress of the Dark\"",
+        "answer": "Elvira",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "VOLCANOES",
+        "value": 200,
+        "question": "The word volcano comes from the name of this Roman god of fire",
+        "answer": "Vulcan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPELLING",
+        "value": 200,
+        "question": "It's the continent that surrounds the South Pole",
+        "answer": "A-N-T-A-R-C-T-I-C-A",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 300,
+        "question": "He's the author & illustrator of \"If Beagles Could Fly\"",
+        "answer": "Charles Schulz",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 300,
+        "question": "This state has over 50 peaks above 14,000 feet but none over 14,500 feet",
+        "answer": "Colorado",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CEREALS",
+        "value": 300,
+        "question": "Since 1984 this animal's been depicted on the front of the Kellogg's Corn Flakes box",
+        "answer": "Cornelius the Rooster",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MOVIES",
+        "value": 300,
+        "question": "Kathleen Turner fainted after she was elected queen of her high school reunion in this 1986 film",
+        "answer": "Peggy Sue Got Married",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "VOLCANOES",
+        "value": 300,
+        "question": "Of the world's active volcanoes, about 60% are along the perimeter of this ocean",
+        "answer": "Pacific",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPELLING",
+        "value": 300,
+        "question": "This muscular tube leads from the pharynx to the stomach",
+        "answer": "E-S-O-P-H-A-G-U-S",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 400,
+        "question": "In \"The Jungle Book\" Shere Khan is one of these wild animals",
+        "answer": "a tiger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 400,
+        "question": "Wyoming is nicknamed \"The Equality State\" because it was the first to do this",
+        "answer": "allow women to vote",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CEREALS",
+        "value": 400,
+        "question": "After you've finished all of this doll's cereal, she can use the box as a coffee table",
+        "answer": "Barbie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MOVIES",
+        "value": 400,
+        "question": "According to the title of an animated 1989 film, \"All Dogs\" do this",
+        "answer": "Go to Heaven",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "VOLCANOES",
+        "value": 400,
+        "question": "57 people died when this volcano in the Cascade range erupted in 1980",
+        "answer": "Mount St. Helens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPELLING",
+        "value": 400,
+        "question": "This small Hawaiian guitar was derived from a Portuguese instument",
+        "answer": "U-K-U-L-E-L-E",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 500,
+        "question": "Walter L. Farley wrote 20 novels about this dark horse",
+        "answer": "the Black Stallion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. STATES",
+        "value": 500,
+        "question": "Classified as a Mid-Atlantic state, this state doesn't touch an ocean, but it does border Lake Erie",
+        "answer": "Pennsylvania",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CEREALS",
+        "value": 500,
+        "question": "In addition to being teenage, mutant & ninja-trained, these animals have a cereal",
+        "answer": "Turtles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MOVIES",
+        "value": 500,
+        "question": "She not only starred in \"Nuts\", she produced it & wrote some of the music",
+        "answer": "Barbra Streisand",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "VOLCANOES",
+        "value": 500,
+        "question": "This island nation has more than 100 active volcanoes including Krakatoa",
+        "answer": "Indonesia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPELLING",
+        "value": 500,
+        "question": "A pig-like animal whose name sounds like a slender candle",
+        "answer": "T-A-P-I-R",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "INVENTIONS",
+      "THE VIOLIN",
+      "LANGUAGES",
+      "EXPLORERS",
+      "MEDICINE",
+      "NAME'S THE SAME"
+    ],
+    "clues": [
+      {
+        "category": "INVENTIONS",
+        "value": 200,
+        "question": "In 1979 technicians at this company's Shibaura plant in Tokyo developed the Walkman",
+        "answer": "Sony",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE VIOLIN",
+        "value": 200,
+        "question": "It's a curved, springy stick about 29 inches long with a flat ribbon of hair attached to it",
+        "answer": "the bow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "In French, sentences placing \"ne\" before the verb & \"pas\" after it make it this",
+        "answer": "negative",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 200,
+        "question": "He overestimated the size of Asia & underestimated the Earth, so he thought he'd reached the Orient",
+        "answer": "Christopher Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 200,
+        "question": "Common name for monochromatism, which makes the world seem black, white & gray",
+        "answer": "colorblindness",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 200,
+        "question": "An atoll in the south seas, or the 2-piece bathing suit named for it",
+        "answer": "Bikini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 400,
+        "question": "He experimented with submarines before building the first commercially successful steamboat",
+        "answer": "Robert Fulton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE VIOLIN",
+        "value": 400,
+        "question": "The finest violins ever made, they bear the Latinized form of their maker's name",
+        "answer": "Stradivarius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "An official language of Kenya, its name means \"coast people\"",
+        "answer": "Swahili",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 400,
+        "question": "He was hoping the river named for him would lead him to the Pacific, but he only got to Albany",
+        "answer": "Henry Hudson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 400,
+        "question": "Of measles, mumps or chicken pox, the one for which no vaccine is generally available",
+        "answer": "Chicken pox",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 800,
+        "question": "The current president of baseball's American League, or the singer heard here:",
+        "answer": "Bobby Brown",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 600,
+        "question": "A noise reduction system for audio tapes is named for this man, its inventor",
+        "answer": "Ray Dolby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE VIOLIN",
+        "value": 600,
+        "question": "The rest for this part of the body was invented about 1820, probably by violinist Ludwig Spohr",
+        "answer": "Chin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 600,
+        "question": "Among languages spoken by more than 1 million people, it's the only one whose name begins with \"V\"",
+        "answer": "Vietnamese",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 1200,
+        "question": "He was standing on Darien Peak on the isthmus of Panama when he became the first European to see the Pacific",
+        "answer": "Balboa",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 600,
+        "question": "An exact copy of a cell, a gene or an organism is called this",
+        "answer": "a clone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 600,
+        "question": "The actor who played Jock Ewing on \"Dallas\", or the cartoonist who created \"Garfield\"",
+        "answer": "Jim Davis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 800,
+        "question": "This invention was also called \"The Pennsylvania Fireplace\"",
+        "answer": "the Franklin Stove (or Oven or Furnace)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE VIOLIN",
+        "value": 800,
+        "question": "This Tel Aviv-born violinist overcame polio & first performed in public at age 9",
+        "answer": "Yithzak Perlman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 800,
+        "question": "You don't have to be crazy to know \"meshugga\" is from this language",
+        "answer": "Yiddish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 800,
+        "question": "This founder of Quebec also discovered the large lake named for him",
+        "answer": "Samuel de Champlain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 800,
+        "question": "Nightmares occur during REM sleep, which is defined as this",
+        "answer": "rapid eye movement",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 800,
+        "question": "A D.C. daily newspaper, or the march John Philip Sousa wrote for it",
+        "answer": "The Washington Post",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 1000,
+        "question": "Edwin Herbert Land first demonstrated this invention in 1947",
+        "answer": "the Polaroid camera",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE VIOLIN",
+        "value": 1000,
+        "question": "Baroque composer whose most famous works are the violin concertos known as \"The Four Seasons\"",
+        "answer": "Antonio Vivaldi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1000,
+        "question": "This saint should be praised for coming up with the script for the Russian alphabet",
+        "answer": "St. Cyril (or his brother Methodius)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 1000,
+        "question": "9 years before Da Gama, he led the first European expedition to round the Cape of Good Hope",
+        "answer": "Bartolomeo Diaz",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 1000,
+        "question": "Leukemia is marked by an uncontrolled proliferation of these cells",
+        "answer": "white blood cells",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NAME'S THE SAME",
+        "value": 1000,
+        "question": "Roman goddess associated with the Greek Nike, or the capital of British Columbia",
+        "answer": "Victoria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE REVOLUTIONARY WAR",
+    "clue": "In April 1775 Gen. J. Warren made him an official messenger of the Committee of Safety",
+    "answer": "Paul Revere"
+  },
+  "gameId": "1262",
+  "gameDate": "Tuesday, February 13, 1990"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #1678 - Wednesday, December 11, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "ARCHAEOLOGY",
+      "COUNTRY MUSIC",
+      "OCCUPATIONS",
+      "PIRATES",
+      "GRIMM'S FAIRY TALES",
+      "COMMON BONDS"
+    ],
+    "clues": [
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 100,
+        "question": "This monument near Salisbury, England is the best-known late Neolithic structure",
+        "answer": "Stonehenge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 100,
+        "question": "From 1980 to 1982, this singer & her sisters Louise & Irlene had their own TV variety series on NBC",
+        "answer": "Barbara Mandrell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OCCUPATIONS",
+        "value": 100,
+        "question": "It's the occupation of a person who uses shorthand or a machine to record trial proceedings",
+        "answer": "stenographer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PIRATES",
+        "value": 100,
+        "question": "Some pirates flew red flags, but this background color was the preference of most pirates",
+        "answer": "black",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GRIMM'S FAIRY TALES",
+        "value": 100,
+        "question": "A beautiful princess breaks the spell that turned a handsome prince into one of these amphibians",
+        "answer": "a frog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 100,
+        "question": "Wayne, Isaac,Fig",
+        "answer": "Newtons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 200,
+        "question": "Dendrochronology uses the growth rings of these to try to determine a wooden object's age",
+        "answer": "trees",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 200,
+        "question": "He's been called the \"Baron of Bakersfield\" & his band is the Buckaroos",
+        "answer": "Buck Owens",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OCCUPATIONS",
+        "value": 200,
+        "question": "Truck and cab drivers are sent out to their destinations by workers called these",
+        "answer": "dispatchers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PIRATES",
+        "value": 200,
+        "question": "In 67 B.C., Pompey the Great led a fleet that temporarily cleared this sea of pirates",
+        "answer": "the Mediterranean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GRIMM'S FAIRY TALES",
+        "value": 200,
+        "question": "The elves desert this craftsman after his wife makes tiny little clothes for them",
+        "answer": "the shoemaker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 200,
+        "question": "Shoe,fog,flugel",
+        "answer": "horns",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 300,
+        "question": "A shard is a broken piece of this",
+        "answer": "pottery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 300,
+        "question": "Born Virginia Wynette Pugh, she was the CMA's Female Vocalist of the Year in 1968, '69 & '70",
+        "answer": "Tammy Wynette",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OCCUPATIONS",
+        "value": 300,
+        "question": "On a film, the director of photography or chief cameraman goes by this title",
+        "answer": "cinematographer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PIRATES",
+        "value": 300,
+        "question": "You can see the trial of pirate Israel Hands reenacted in this restored colonial capital of Virginia",
+        "answer": "Williamsburg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GRIMM'S FAIRY TALES",
+        "value": 300,
+        "question": "Snow White lay for a long time in a glass one of these until a piece of apple fell bout of her throat",
+        "answer": "a coffin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 300,
+        "question": "Karolyi,Bartok,Lugosi",
+        "answer": "Belas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 400,
+        "question": "More than 600 statues or Moai have been found on this small Pacific island, most 12-25 feet tall",
+        "answer": "Easter Island",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 800,
+        "question": "A piano-playing cousin of Jerry Lee Lewis, he crossed over onto the pop charts in 1980 with \"Stand By Me\"",
+        "answer": "Mickey Gilley",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OCCUPATIONS",
+        "value": 400,
+        "question": "It's an official authorized to certify documents & take depositions",
+        "answer": "a notary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PIRATES",
+        "value": 400,
+        "question": "Despite his protest that he was \"the innocentest...of them all\", this sea captain was hanged in 1701",
+        "answer": "Captain Kidd",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GRIMM'S FAIRY TALES",
+        "value": 400,
+        "question": "It was this relative who suggested that Hansel & Gretel be left alone in the woods",
+        "answer": "the stepmother",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 400,
+        "question": "Silver Hatchet,South American Leaf,Siamese Fighting",
+        "answer": "fish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 500,
+        "question": "In 1911 Hiram Bingham discovered Machu Picchu, an Inca fortress city, in this country",
+        "answer": "Peru",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 500,
+        "question": "This singer's \"It Wasn't God Who Made Honky Tonk Angels\" was the 1st No. 1 country hit by a female",
+        "answer": "Kitty Wells",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OCCUPATIONS",
+        "value": 500,
+        "question": "A person who uses statistics to calculate risks & premiums for an insurance co. is called this",
+        "answer": "an actuary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PIRATES",
+        "value": 500,
+        "question": "This hirsute pirate was caught & beheaded off the coast of North Carolina in 1718",
+        "answer": "Blackbeard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GRIMM'S FAIRY TALES",
+        "value": 500,
+        "question": "Her mother craved rampion, which sealed this long-haired character's fate",
+        "answer": "Rapunzel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COMMON BONDS",
+        "value": 500,
+        "question": "Dutchman,saucer,buttress",
+        "answer": "flying",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE PLANETS",
+      "GARDENING",
+      "LITERATURE",
+      "PEOPLE",
+      "PHILOSOPHY",
+      "DUBLIN"
+    ],
+    "clues": [
+      {
+        "category": "THE PLANETS",
+        "value": 200,
+        "question": "The astronomical symbol for this planet is a trident",
+        "answer": "Neptune",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GARDENING",
+        "value": 200,
+        "question": "Marigolds are an example of this type of plant which completes its life cycle in a year or less",
+        "answer": "an annual",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "Ma & Pa Joad have 4 sons:Al, Noah, Winfield & this son",
+        "answer": "Tom Joad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 200,
+        "question": "Asked what he was going to do after retiring in 1991, this justice said, \"Sit on my rear end\"",
+        "answer": "Thurgood Marshall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PHILOSOPHY",
+        "value": 200,
+        "question": "Hedonism is the belief that this is the greatest good",
+        "answer": "pleasure",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DUBLIN",
+        "value": 200,
+        "question": "The national cathedral of the Church of Ireland is named for him",
+        "answer": "St. Patrick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE PLANETS",
+        "value": 400,
+        "question": "In 1979 Voyager I photographed volcanoes erupting on Io, a moon of this large planet",
+        "answer": "Jupiter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GARDENING",
+        "value": 400,
+        "question": "Chlorosis, caused by an iron deficiency, turns a plant's leaves this color",
+        "answer": "yellow",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "Shakespeare wrote this tragedy to appeal to James I's fascination with witchcraft",
+        "answer": "Macbeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 400,
+        "question": "She came in fourth in the 1991 80-meter dash for mummies at Wetherby School",
+        "answer": "Princess Di",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PHILOSOPHY",
+        "value": 400,
+        "question": "This 4th century saint drew inspiration for his \"The City of God\" from Plato & St. Paul",
+        "answer": "St. Augustine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DUBLIN",
+        "value": 400,
+        "question": "The Liffey, which has been called \"The Sniffey Liffey\", is one of these",
+        "answer": "a river",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE PLANETS",
+        "value": 600,
+        "question": "It's orbital speed of 30 miles per second is the fastest of any planet",
+        "answer": "Mercury",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GARDENING",
+        "value": 600,
+        "question": "A fertilizer is said to be complete it if contains phosphorus, potassium & this element",
+        "answer": "nitrogen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "There are 2 Isoldes in this German medieval poem, Isolde of Ireland & Isolde of the White Hands",
+        "answer": "Tristan und Isolde",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 600,
+        "question": "This former Surgeon General wrote the article on smoking in the 1990 edition of The Book of Knowledge",
+        "answer": "C. Everett Koop",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PHILOSOPHY",
+        "value": 600,
+        "question": "A leading rationalist, his philosophy became known as Cartesianism",
+        "answer": "(René) Descartes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DUBLIN",
+        "value": 600,
+        "question": "Founded in Dublin in 1759, this brewery is among the largest private employers in Ireland",
+        "answer": "Guinness",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE PLANETS",
+        "value": 800,
+        "question": "In August 1991 the Magellan probe found a channel longer than the Nile on this planet",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GARDENING",
+        "value": 1600,
+        "question": "Using this propagation method, you can grow several kinds of fruit on one tree",
+        "answer": "grafting",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "Robert Louis Stevenson novel subtitled \"Being Memoirs of the Adventures of David Balfour in the Year 1751\"",
+        "answer": "Kidnapped",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 800,
+        "question": "Trying to get back into office after 11 years, this ex-mayor of Philadelphia died in 1991 while campaigning",
+        "answer": "Frank Rizzo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PHILOSOPHY",
+        "value": 800,
+        "question": "This branch of philosophy studies the principles of art & beauty",
+        "answer": "aesthetics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DUBLIN",
+        "value": 800,
+        "question": "In 1988 Dublin celebrated this milestone anniversary",
+        "answer": "its 1000th year anniversary",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE PLANETS",
+        "value": 2000,
+        "question": "This planet's only known moon, Charon, was discovered by James W. Christy in 1978",
+        "answer": "Pluto",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GARDENING",
+        "value": 1000,
+        "question": "Flowers like the larkspur that hold their shape & color when dried are termed this",
+        "answer": "immortelles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "G.K. Chesterton wrote \"The Wisdom...\", \"The Secret...\" & \"The Innocence...\" of this sleuthing cleric",
+        "answer": "Father Brown",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PEOPLE",
+        "value": 1000,
+        "question": "He's in the U.S. Inventors Hall of Fame for his peach, not his potato",
+        "answer": "Luther Burbank",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PHILOSOPHY",
+        "value": 1000,
+        "question": "Jeremy Bentham & John Stuart Mill developed this, which seeks the greatest good for the most people",
+        "answer": "utilitarianism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DUBLIN",
+        "value": 1000,
+        "question": "In the 1920s it became the 1st state-subsidized theatre in an English-speaking country",
+        "answer": "Abbey Theatre",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE SOVIET UNION",
+    "clue": "The head of the Leningrad Communist Party in the 1920s; an opera & ballet theatre is named for him",
+    "answer": "Sergei Kirov"
+  },
+  "gameId": "1678",
+  "gameDate": "Wednesday, December 11, 1991"
+}

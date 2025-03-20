@@ -1,0 +1,574 @@
+{
+  "title": "Show #7566 - Monday, July 3, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "LINES ON THE MAP",
+      "COLLEGES & UNIVERSITIES",
+      "HEALTH & MEDICINE",
+      "MARY TYLER MOORE",
+      "YOU'RE GONNA MAKE IT",
+      "AFTER \"ALL\""
+    ],
+    "clues": [
+      {
+        "category": "LINES ON THE MAP",
+        "value": 200,
+        "question": "This geographic line was first designated by an international conference in 1884",
+        "answer": "the prime meridian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 200,
+        "question": "What started as the Harvard Annex in 1879 was chartered as this women's school in 1894",
+        "answer": "Radcliffe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 200,
+        "question": "Loss of this type of vision, from the Greek for \"circumference\", can be an early sign of glaucoma",
+        "answer": "peripheral",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MARY TYLER MOORE",
+        "value": 200,
+        "question": "Mary was born not in Minneapolis but in this NYC borough & as a child lived in its Flatbush neighborhood",
+        "answer": "Brooklyn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE GONNA MAKE IT",
+        "value": 200,
+        "question": "You'll probably want an espresso machine to make one of these, Italian for coffee with milk",
+        "answer": "latte",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AFTER \"ALL\"",
+        "value": 200,
+        "question": "This unproved assertion or accusation",
+        "answer": "an allegation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LINES ON THE MAP",
+        "value": 400,
+        "question": "Shifting priorities prompted Samoa to adjust this line in 2011 to go back to the future & be on the same day as Australia",
+        "answer": "the international date line",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 400,
+        "question": "Nike was founded by a track coach & a student, both from this university",
+        "answer": "the University of Oregon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 400,
+        "question": "Lyme disease is transmitted to humans by the bite of these infected creatures",
+        "answer": "ticks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MARY TYLER MOORE",
+        "value": 400,
+        "question": "Before she starred in her own self-titled show, Mary starred for 5 seasons in the sitcom named for this other icon",
+        "answer": "Dick Van Dyke",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE GONNA MAKE IT",
+        "value": 400,
+        "question": "You're gonna make one of these, but perhaps not as big as the 97-foot-tall one Horace Burgess built in a white oak",
+        "answer": "a tree house",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AFTER \"ALL\"",
+        "value": 400,
+        "question": "This 8-letter irritant, like pollen",
+        "answer": "an allergen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LINES ON THE MAP",
+        "value": 600,
+        "question": "The border line seen here separates these two nations that were part of the same union until 1523",
+        "answer": "Sweden and Norway",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 600,
+        "question": "Of the 10 University of California campuses, this one in northern California is alphabetically first",
+        "answer": "Berkeley",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 600,
+        "question": "The machine that performs this process is also known as an artificial kidney",
+        "answer": "dialysis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MARY TYLER MOORE",
+        "value": 600,
+        "question": "Mary was a longtime advocate for research into this autoimmune disorder with which she'd been diagnosed at 33",
+        "answer": "diabetes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE GONNA MAKE IT",
+        "value": 600,
+        "question": "A coil of wire, an antenna, an earphone & a diode are the basics to build a simple \"crystal\" one of these",
+        "answer": "a radio",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AFTER \"ALL\"",
+        "value": 600,
+        "question": "This indirect reference",
+        "answer": "allusion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LINES ON THE MAP",
+        "value": 800,
+        "question": "Mauritania north of the Nouakchott-Nema line is mostly this geographic feature",
+        "answer": "the Sahara desert",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 800,
+        "question": "During the War of 1812, students saw the burning of the White House from their dormitories at this Jesuit university",
+        "answer": "Georgetown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 800,
+        "question": "Resting hand tremors & slowed movement called bradykinesia are early signs of this neurological disease",
+        "answer": "Parkinson's disease",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MARY TYLER MOORE",
+        "value": 800,
+        "question": "In 1969's \"Change of Habit\", Mary co-starred as a nun opposite this rock legend in the last of his 31 feature roles",
+        "answer": "Elvis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE GONNA MAKE IT",
+        "value": 800,
+        "question": "You just need a clean glass bottle, some soil & some plants to make one of these, from the Latin for \"earth\"",
+        "answer": "a terrarium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AFTER \"ALL\"",
+        "value": 800,
+        "question": "This verb meaning to reduce in severity",
+        "answer": "alleviate (or allay)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LINES ON THE MAP",
+        "value": 1000,
+        "question": "The route of this fortification, built in the 1930s, stretched for hundreds of miles",
+        "answer": "the Maginot Line",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COLLEGES & UNIVERSITIES",
+        "value": 1000,
+        "question": "In 1817 Col Sylvanus Thayer began an influential 16 yrs. as superintendent at this institution in New York state",
+        "answer": "West Point",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HEALTH & MEDICINE",
+        "value": 1000,
+        "question": "(Kelly shows a joint on the monitor.) Around joints, small fluid-filled sacs reduce friction, but trauma or arthritis can cause this inflammation, leading to pain and limiting range of motion",
+        "answer": "bursitis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MARY TYLER MOORE",
+        "value": 1000,
+        "question": "Mary won a Golden Globe & got an Oscar nomination as the mom in this 1980 tearjerker directed by Robert Redford",
+        "answer": "Ordinary People",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE GONNA MAKE IT",
+        "value": 1000,
+        "question": "You can keep your paper clips from getting scattered by making a simple desk organizer with a neodymium one of these inside",
+        "answer": "a magnet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "AFTER \"ALL\"",
+        "value": 1000,
+        "question": "This small metal item essential for assembling Ikea products",
+        "answer": "an Allen wrench",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THIRD PARTY PRESIDENTIAL CANDIDATES",
+      "LETTER PERFECT",
+      "UNDERWATER",
+      "ANAGRAMMED U.S. CITIES",
+      "MARVEL MOVIE MAGIC",
+      "WE \"LOVE\" TO READ"
+    ],
+    "clues": [
+      {
+        "category": "THIRD PARTY PRESIDENTIAL CANDIDATES",
+        "value": 400,
+        "question": "Seen here is this 2016 Green Party nominee",
+        "answer": "Jill Stein",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 400,
+        "question": "We can think of 10 reasons to name this letter that usually makes a \"Z\" sound leading off a word",
+        "answer": "X",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "UNDERWATER",
+        "value": 400,
+        "question": "An underwater memorial to the USS Arizona is found at this Honolulu location",
+        "answer": "Pearl Harbor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 400,
+        "question": "Keno Spa, Washington",
+        "answer": "Spokane",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MARVEL MOVIE MAGIC",
+        "value": 400,
+        "question": "In the new film \"Spider-Man: Homecoming\", the web-slinger is trying to prove he's worthy of joining this group",
+        "answer": "the Avengers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WE \"LOVE\" TO READ",
+        "value": 400,
+        "question": "Oliver Barrett IV & Jenny Cavilleri are the couple at the heart of this weepie",
+        "answer": "Love Story",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THIRD PARTY PRESIDENTIAL CANDIDATES",
+        "value": 800,
+        "question": "There were surely no beer bashes in support of this party's John P. St. John in 1884",
+        "answer": "Prohibition's",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 800,
+        "question": "\"Gadsby\" was a 50,000-word work of fiction with no using of this non-consonant (Ha!  Did it!  But it was hard to do!)",
+        "answer": "an E",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "UNDERWATER",
+        "value": 800,
+        "question": "On a hippopotamus these openings are surrounded by bristly hairs & have special flaps that close underwater",
+        "answer": "nostrils",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 800,
+        "question": "Diagnose, California",
+        "answer": "San Diego",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MARVEL MOVIE MAGIC",
+        "value": 800,
+        "question": "This title superhero got his name from a list of bets on who would get killed first",
+        "answer": "Deadpool",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WE \"LOVE\" TO READ",
+        "value": 800,
+        "question": "The 2 James Bond novels written by Ian Fleming that fit the category are \"The Spy Who Loved Me\" & this one with Smersh",
+        "answer": "From Russia with Love",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THIRD PARTY PRESIDENTIAL CANDIDATES",
+        "value": 1200,
+        "question": "In 2012 & 2016 the Libertarian Party candidate was this politician",
+        "answer": "(Gary) Johnson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 1200,
+        "question": "This \"score\" measures our love or dislike for brands or celebrities",
+        "answer": "Q",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "UNDERWATER",
+        "value": 1200,
+        "question": "Sharks Underwater Grill is a dining experience at this theme park in Orlando",
+        "answer": "Sea World",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 1200,
+        "question": "Reno Sky, New York",
+        "answer": "Yonkers",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MARVEL MOVIE MAGIC",
+        "value": 1200,
+        "question": "Fittingly, the full name of that flameout Ghost Rider is Johnny this",
+        "answer": "Johnny Blaze",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WE \"LOVE\" TO READ",
+        "value": 1200,
+        "question": "The only Shakespeare play that fits the bill is this comedy",
+        "answer": "Love's Labour's Lost",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THIRD PARTY PRESIDENTIAL CANDIDATES",
+        "value": 1600,
+        "question": "He ran twice as a third party candidate in the 1990s, the second time as the Reform Party's standard bearer",
+        "answer": "H. Ross Perot",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 1600,
+        "question": "Thiamine is this type of vitamin",
+        "answer": "a B vitamin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "UNDERWATER",
+        "value": 1600,
+        "question": "Visit this \"Dry\" park in the straits of Florida & get wet in its many snorkeling adventures",
+        "answer": "Dry Tortugas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 1600,
+        "question": "Seam, Arizona",
+        "answer": "Mesa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MARVEL MOVIE MAGIC",
+        "value": 1600,
+        "question": "Super soldier serum was the stuff that created this title hero",
+        "answer": "Captain America",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WE \"LOVE\" TO READ",
+        "value": 1600,
+        "question": "Teaching in London's East End inspired E.R. Braithwaite to write this 1959 book, later a Sidney Poitier film",
+        "answer": "To Sir, with Love",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THIRD PARTY PRESIDENTIAL CANDIDATES",
+        "value": 2000,
+        "question": "In presidential elections, Norman Thomas repped this party 6 times & Eugene V. Debs, 5 times",
+        "answer": "the Socialist Party",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LETTER PERFECT",
+        "value": 2000,
+        "question": "This type of joint is a pair of hinges at 90 degrees to allow shafts to bend in any direction",
+        "answer": "a U-joint",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "UNDERWATER",
+        "value": 2000,
+        "question": "He's written over 20 books featuring underwater adventurer Dirk Pitt, including 2014's \"Havana Storm\"",
+        "answer": "(Clive) Cussler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANAGRAMMED U.S. CITIES",
+        "value": 2000,
+        "question": "Seam, Iowa",
+        "answer": "Ames",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MARVEL MOVIE MAGIC",
+        "value": 2000,
+        "question": "In the \"Thor\" movies, Idris Elba guards the entry to Asgard via a rainbow bridge with this Norse name",
+        "answer": "Bifrost",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WE \"LOVE\" TO READ",
+        "value": 2000,
+        "question": "In 2007 Oprah's Book Club included this novel by Gabriel Garcia Marquez",
+        "answer": "Love in the Time of Cholera",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "20th CENTURY TRANSPORTATION",
+    "clue": "The first of these to enter service was christened by First Lady Pat Nixon at Dulles Intl. Airport on January 15, 1970",
+    "answer": "the 747"
+  },
+  "gameId": "7566",
+  "gameDate": "Monday, July 3, 2017"
+}

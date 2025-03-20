@@ -1,0 +1,538 @@
+{
+  "title": "Show #3155 - Friday, April 24, 1998",
+  "jeopardyRound": {
+    "categories": [
+      "AROUND THE WORLD",
+      "UNDER THE COVERS",
+      "RIGHT HAND MEN",
+      "BETTER MOUSETRAPS",
+      "WHAT'LL YA HAVE?",
+      "\"CHECK\" PLEASE"
+    ],
+    "clues": [
+      {
+        "category": "AROUND THE WORLD",
+        "value": 100,
+        "question": "It wasn't until 1954, the year after it was first scaled, that a survey set it at 29,028 feet",
+        "answer": "Mount Everest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "UNDER THE COVERS",
+        "value": 100,
+        "question": "Siouxie & the Banshees' cover version of this group's \"Dear Prudence\" hit No. 3 in the U.K.",
+        "answer": "The Beatles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RIGHT HAND MEN",
+        "value": 100,
+        "question": "Snap!Crackle!_____",
+        "answer": "Pop!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BETTER MOUSETRAPS",
+        "value": 100,
+        "question": "This swimsuit made its debut shortly after the appearance of a mushroom cloud over this Pacific atoll",
+        "answer": "Bikini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"CHECK\" PLEASE",
+        "value": 100,
+        "question": "It's the annual general physical exam your doctor gives you",
+        "answer": "Checkup",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 200,
+        "question": "Small ships can travel from this river's mouth 2,300 miles upstream to Iquitos, Peru",
+        "answer": "Amazon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "UNDER THE COVERS",
+        "value": 400,
+        "question": "Dexy's Midnight Runners No. 1 hit heard here in a version by ska band Save Ferris:",
+        "answer": "\"Come On Eileen\"",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RIGHT HAND MEN",
+        "value": 200,
+        "question": "Tom,Dick,_____",
+        "answer": "Harry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BETTER MOUSETRAPS",
+        "value": 200,
+        "question": "Keep your coffee warm in one of these bottles invented by Sir James Dewar in 1892",
+        "answer": "Thermos",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHAT'LL YA HAVE?",
+        "value": 200,
+        "question": "Juice of 1/2 lime1/2 oz. triple sec1 oz. tequila in a salt-rimmed glass",
+        "answer": "Margarita",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"CHECK\" PLEASE",
+        "value": 200,
+        "question": "It's the all-too-common lie about payment being on the way",
+        "answer": "The check's in the mail",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 300,
+        "question": "It's 8 stories high, cylindrical in shape & about 14 feet off the perpendicular",
+        "answer": "Leaning Tower of Pisa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "UNDER THE COVERS",
+        "value": 300,
+        "question": "In 1996 the Fugees updated her 1973 hit \"Killing Me Softly\"",
+        "answer": "Roberta Flack",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RIGHT HAND MEN",
+        "value": 300,
+        "question": "Wynken,Blynken,_____",
+        "answer": "Nod",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BETTER MOUSETRAPS",
+        "value": 300,
+        "question": "Sure hope this guy didn't \"blimp\" up while celebrating his invention of vulcanized rubber",
+        "answer": "Charles Goodyear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHAT'LL YA HAVE?",
+        "value": 300,
+        "question": "Fresh mint1/2 tsp. sugarbourbon",
+        "answer": "Mint julep",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"CHECK\" PLEASE",
+        "value": 300,
+        "question": "Singer heard here with the Fat Boys, updating one of his hits:(\"The Twist\")",
+        "answer": "Chubby Checker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 400,
+        "question": "Anything but boring are the Northern Lights, also known by this Latin name",
+        "answer": "Aurora Borealis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "UNDER THE COVERS",
+        "value": 400,
+        "question": "This artist wrote & sang \"Kiss\", later covered by the Art of Noise & Tom Jones",
+        "answer": "Prince",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RIGHT HAND MEN",
+        "value": 400,
+        "question": "Tinker,Evers,_____",
+        "answer": "Chance",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BETTER MOUSETRAPS",
+        "value": 400,
+        "question": "Cool!  He discovered his deep freezing method for food while in Labrador on a fur trading expedition",
+        "answer": "Clarence Birdseye",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHAT'LL YA HAVE?",
+        "value": 400,
+        "question": "1 oz. vodka1 oz. Kahluafresh cream",
+        "answer": "White Russian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"CHECK\" PLEASE",
+        "value": 400,
+        "question": "Americans who crossed the Berlin Wall to East Berlin used the guard station on Friedrichstrasse nicknamed this",
+        "answer": "\"Checkpoint Charlie\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 500,
+        "question": "1,250-mile-long wonder seen here:",
+        "answer": "Great Barrier Reef",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "UNDER THE COVERS",
+        "value": 500,
+        "question": "Dolly Parton & 10,000 Maniacs have ridden to success with versions of this Cat Stevens song",
+        "answer": "\"Peace Train\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RIGHT HAND MEN",
+        "value": 500,
+        "question": "Shadrach,Meshach,_____",
+        "answer": "Abednego",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BETTER MOUSETRAPS",
+        "value": 500,
+        "question": "This blacksmith improved the plow in the late 1830s by building the first one of steel",
+        "answer": "John Deere",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHAT'LL YA HAVE?",
+        "value": 500,
+        "question": "2 jiggers gin1 tbsp. sugarjuice of 1/2 lemonjuice of 1/2 limeclub soda",
+        "answer": "Gin fizz",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"CHECK\" PLEASE",
+        "value": 500,
+        "question": "This system of government confers enough power on each of its branches to restrain the others",
+        "answer": "Checks and balances",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "JAZZ NICKNAMES",
+      "FROM BEOWULF TO VIRGINIA WOOLF",
+      "MAY DAY!  MAY DAY!",
+      "AND YOUR LITTLE DOG, TOO",
+      "NATURE",
+      "HOMOPHONES"
+    ],
+    "clues": [
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 200,
+        "question": "He was known as Pops as well as Satchmo",
+        "answer": "Louis Armstrong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FROM BEOWULF TO VIRGINIA WOOLF",
+        "value": 200,
+        "question": "To avenge this monster's death, his mother slays a soldier but is later killed by Beowulf",
+        "answer": "Grendel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AND YOUR LITTLE DOG, TOO",
+        "value": 200,
+        "question": "In \"The Wizard of Oz\", a cute cairn terrier named Terry played this little dog",
+        "answer": "Toto",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 200,
+        "question": "Japanese for \"harbor wave\", one of these giant sea waves may form a wall of water over 100 feet long",
+        "answer": "Tsunami",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 200,
+        "question": "With a relaxed dress code, you won't need to wear one at this type of Asian restaurant's bar",
+        "answer": "Tie/Thai",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 400,
+        "question": "With this nickname, Julian Edwin Adderly barrelled down \"Them Dirty Blues\"",
+        "answer": "Cannonball",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FROM BEOWULF TO VIRGINIA WOOLF",
+        "value": 400,
+        "question": "This author planned to have each pilgrim tell 2 tales on the way to Canterbury & 2 on the way back",
+        "answer": "Geoffrey Chaucer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AND YOUR LITTLE DOG, TOO",
+        "value": 400,
+        "question": "He starred in the cartoon \"Canine Casanova\" without his master Mickey Mouse",
+        "answer": "Pluto",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 400,
+        "question": "From the Greek word for \"drop\" & \"dripping\", they're the 2 types of formations seen here:",
+        "answer": "Stalagmites & stalactites",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 400,
+        "question": "Zebulon Pike got only this glimpse of this, his namesake",
+        "answer": "Peek/peak",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 600,
+        "question": "Oran Page, trumpeter & accompanist to Bessie Smith, was known as this, the same as a \"M*A*S*H\" nurse",
+        "answer": "Hot Lips",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FROM BEOWULF TO VIRGINIA WOOLF",
+        "value": 600,
+        "question": "John Milton's 1671 sequel never gained the reputation of this 1667 epic",
+        "answer": "\"Paradise Lost\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AND YOUR LITTLE DOG, TOO",
+        "value": 1200,
+        "question": "Title character who sang the following about her dog (\"Sandy\") in a 1982 film:",
+        "answer": "Annie",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 600,
+        "question": "Since prehistoric times, this single-celled fungus has been used to make beer & bread",
+        "answer": "Yeast",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 600,
+        "question": "What Hurricane Andrew did or how some people felt when he did it",
+        "answer": "Blew/blue",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 800,
+        "question": "He's referrred to as the \"Hi De Ho\" man",
+        "answer": "Cab Calloway",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FROM BEOWULF TO VIRGINIA WOOLF",
+        "value": 800,
+        "question": "\"All you need to know\", according to this Keats ode is \"Beauty is truth, truth beauty\"",
+        "answer": "\"Ode on A Grecian Urn\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MAY DAY!  MAY DAY!",
+        "value": 800,
+        "question": "This singer heard here was born on May 1, 1909:",
+        "answer": "Kate Smith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AND YOUR LITTLE DOG, TOO",
+        "value": 800,
+        "question": "This pet of Nick & Nora Charles was a schnauzer in the novel \"The Thin Man\" & a fox terrier in the films",
+        "answer": "Asta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 800,
+        "question": "In the 1940s zoologist Karl von Frisch discovered that bees use this as a compass",
+        "answer": "the Sun",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 800,
+        "question": "When a hunter aims at this red deer, this often beats faster",
+        "answer": "Hart/heart",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "JAZZ NICKNAMES",
+        "value": 1000,
+        "question": "That he was born as an Armando in 1941 should tell you this \"Chick\" is a guy",
+        "answer": "Chick Corea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FROM BEOWULF TO VIRGINIA WOOLF",
+        "value": 1000,
+        "question": "In this essay Virginia Woolf said women need money & privacy to develop as writers",
+        "answer": "\"A Room of One's Own\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MAY DAY!  MAY DAY!",
+        "value": 1000,
+        "question": "The \"Great Exhibition\" of industry opened at the Crystal Palace in this city May 1, 1851",
+        "answer": "London",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AND YOUR LITTLE DOG, TOO",
+        "value": 1000,
+        "question": "When this tobacco heiress died in 1993, she left a $100,000 trust fund to her dog Minni",
+        "answer": "Doris Duke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NATURE",
+        "value": 2000,
+        "question": "Named for its most prominent feature (its nose), it's the primate seen here:",
+        "answer": "Proboscis monkey",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HOMOPHONES",
+        "value": 1000,
+        "question": "He might predict you'll wind up with more money than expenses",
+        "answer": "Prophet/profit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ACTRESSES & ROLE",
+    "clue": "Kathy Bates played her in 1997; Debbie Reynolds played her in 1964",
+    "answer": "(\"The Unsinkable\") Molly Brown"
+  },
+  "gameId": "3155",
+  "gameDate": "Friday, April 24, 1998"
+}

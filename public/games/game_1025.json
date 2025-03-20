@@ -1,0 +1,574 @@
+{
+  "title": "Show #3674 - Thursday, July 20, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "HAM",
+      "CLASSIC FILM MONSTERS",
+      "EXPERIMENTS",
+      "\"U\" WHO",
+      "KILLERS",
+      "3-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "HAM",
+        "value": 100,
+        "question": "This brand has been jokingly called \"ham that failed its physical\"",
+        "answer": "Spam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILM MONSTERS",
+        "value": 100,
+        "question": "In a 1933 film this big ape was brought to America from his island home on a huge raft",
+        "answer": "King Kong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EXPERIMENTS",
+        "value": 100,
+        "question": "Galen's neighbors heard the squeals of stuck pigs when he proved that veins carry this, not air",
+        "answer": "blood",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"U\" WHO",
+        "value": 100,
+        "question": "When the new \"Love Boat\" set sail in 1998, this \"Vega$\" star was in the captain's seat",
+        "answer": "Robert Urich",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "KILLERS",
+        "value": 100,
+        "question": "In 1990 these insects on the lam from South America since 1957 reached Texas",
+        "answer": "killer bees",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 100,
+        "question": "In the '60s it meant trendy or hip, like a member of a TV \"Squad\"",
+        "answer": "mod",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HAM",
+        "value": 200,
+        "question": "Ham lover seen here:",
+        "answer": "Sam-I-Am",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILM MONSTERS",
+        "value": 200,
+        "question": "In 1982 this film's original Japanese version, \"Gojira\", was shown in America without Raymond Burr's scene",
+        "answer": "Godzilla",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EXPERIMENTS",
+        "value": 200,
+        "question": "In 1952 Hershey & Chase used a Waring model of this machine to study bacteria-eating viruses",
+        "answer": "blender",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"U\" WHO",
+        "value": 200,
+        "question": "This \"Exodus\" author returned in 1999 with a new political novel, \"A God In Ruins\"",
+        "answer": "Leon Uris",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "KILLERS",
+        "value": 200,
+        "question": "The Aum Shinrikyo cult was behind a March 1995 nerve gas attack on this city's subway",
+        "answer": "Tokyo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 200,
+        "question": "For 5 & 7 it's 12",
+        "answer": "sum",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HAM",
+        "value": 300,
+        "question": "This company that makes canned deviled ham once used the slogan \"Branded with the devil but fit for the gods\"",
+        "answer": "Underwood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILM MONSTERS",
+        "value": 300,
+        "question": "The old Gypsy Maleva tells this dead character, \"Your suffering is over...now find peace for eternity\"",
+        "answer": "The Wolf Man",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EXPERIMENTS",
+        "value": 300,
+        "question": "Josef Stefan heated up physics by showing that radiation from a glowing wire was proportional to this",
+        "answer": "temperature",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"U\" WHO",
+        "value": 300,
+        "question": "In 1987 he outraced his son to win his fourth Indianapolis 500",
+        "answer": "Al Unser",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "KILLERS",
+        "value": 300,
+        "question": "\"(Hi, I'm Billy Warlock of \"General Hospital\") In the TV movie \"Honor Thy Father And Mother:  The True Story Of\" these \"Murders\", I played Lyle\"",
+        "answer": "the Menendez murders",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 300,
+        "question": "A criminal charge, it's listed on a \"sheet\"",
+        "answer": "rap",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HAM",
+        "value": 400,
+        "question": "To be given this name, hams must be cured & processed in the Virginia area of the same name",
+        "answer": "Smithfield",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILM MONSTERS",
+        "value": 400,
+        "question": "Dr. Jack Griffin was the real name of this Claude Rains character; there's more to him than meets the eye",
+        "answer": "The Invisible Man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EXPERIMENTS",
+        "value": 800,
+        "question": "NASA's passive seismic experiment detected thousands of lunar seismic events, called these",
+        "answer": "moonquakes",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"U\" WHO",
+        "value": 400,
+        "question": "This Norwegian star of such movies as \"Autumn Sonata\" was actually born in Japan",
+        "answer": "Liv Ullman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "KILLERS",
+        "value": 400,
+        "question": "To get the crown for himself, this Shakespearean king murders 2 little princes",
+        "answer": "Richard III",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 400,
+        "question": "I can't tell either of these 2 3-letter words; I only tell the truth",
+        "answer": "fib & lie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HAM",
+        "value": 500,
+        "question": "Parma ham is the true form of this, Italian for \"ham\"",
+        "answer": "prosciutto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSIC FILM MONSTERS",
+        "value": 500,
+        "question": "Also known as the Gill-Man, he was played by Ben Chapman; underwater scenes were done by Ricou Browning",
+        "answer": "The Creature from the Black Lagoon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "EXPERIMENTS",
+        "value": 500,
+        "question": "1887's Michelson-Morley experiment demolished the idea of this medium that supposedly conducted light",
+        "answer": "aether",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"U\" WHO",
+        "value": 500,
+        "question": "Once a staff writer for The New Yorker, this \"Rabbit, Run\" author still contributes regularly",
+        "answer": "John Updike",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "KILLERS",
+        "value": 500,
+        "question": "The savage Gilles de Rais probably inspired this \"colorful\" character who keeps bodies in a locked room",
+        "answer": "Bluebeard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 500,
+        "question": "A gullible person, or the juice in a tree",
+        "answer": "sap",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HAMLET",
+      "COUNTRY MUSIC STARS",
+      "FERDINAND RULES!",
+      "WAVES",
+      "ON THE RISK BOARD",
+      "3-D"
+    ],
+    "clues": [
+      {
+        "category": "HAMLET",
+        "value": 200,
+        "question": "She tells Laertes, \"There's rosemary, that's for remembrance....and there is pansies, that's for thoughts\"",
+        "answer": "Ophelia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC STARS",
+        "value": 200,
+        "question": "When you see this singer, tell her \"We're Doing Fine\"",
+        "answer": "Reba McEntire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FERDINAND RULES!",
+        "value": 200,
+        "question": "Ferdinand IV rocked!  He conquered this rock in 1309",
+        "answer": "Gibraltar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WAVES",
+        "value": 200,
+        "question": "The WAVES were these \"Accepted for Volunteer Emergency Service\"",
+        "answer": "Women",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ON THE RISK BOARD",
+        "value": 200,
+        "question": "Quebec & this adjacent province are both on the board",
+        "answer": "Ontario",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "3-D",
+        "value": 200,
+        "question": "This is the way the ladies sometimes ride",
+        "answer": "sidesaddle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HAMLET",
+        "value": 400,
+        "question": "Laertes' dad, he says of Hamlet, \"Though this be madness, yet there is method in it\"",
+        "answer": "Polonius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC STARS",
+        "value": 400,
+        "question": "Hats off to this singer who gave a gutsy performance in \"The Newton Boys\"",
+        "answer": "Dwight Yoakam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FERDINAND RULES!",
+        "value": 400,
+        "question": "While king of this country from 1914 to 1927, Ferdinand acquired Transylvania",
+        "answer": "Romania",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WAVES",
+        "value": 400,
+        "question": "Line that follows \"O beautiful for spacious skies\"",
+        "answer": "\"For amber waves of grain\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ON THE RISK BOARD",
+        "value": 400,
+        "question": "Found on the board, it's the 2-word term for the region which includes Morocco & Algeria",
+        "answer": "North Africa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "3-D",
+        "value": 400,
+        "question": "It's the next federal holiday after Memorial Day",
+        "answer": "Independence Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HAMLET",
+        "value": 600,
+        "question": "Character whose lines are heard here: \"I am forbid to tell the secrets of my prison house.  I could a tale unfold...\"",
+        "answer": "The Ghost (Hamlet's father)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC STARS",
+        "value": 600,
+        "question": "In the early '60s fans went \"Crazy\" for her",
+        "answer": "Patsy Cline",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FERDINAND RULES!",
+        "value": 600,
+        "question": "Ferdinand II of Bohemia joined this sort-of-lengthy war in 1619 when he fought a usurper",
+        "answer": "30 Years War",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WAVES",
+        "value": 600,
+        "question": "The man waving, seen here, was designed by this astronomer",
+        "answer": "Carl Sagan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ON THE RISK BOARD",
+        "value": 1200,
+        "question": "This old name of a southeast Asian kingdom lives on in the game",
+        "answer": "Siam (for Thailand)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "3-D",
+        "value": 600,
+        "question": "This arachnid is also known as a harvestman",
+        "answer": "daddy long legs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HAMLET",
+        "value": 1600,
+        "question": "Hamlet's former schoolmates, these 2 minor characters in Shakespeare are title characters in a Stoppard play",
+        "answer": "Rosencrantz & Guildenstern",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC STARS",
+        "value": 800,
+        "question": "This \"outlaw\" was Buddy Holly's bass player",
+        "answer": "Waylon Jennings",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FERDINAND RULES!",
+        "value": 800,
+        "question": "The central power of this empire was dissolved in 1648 during Ferdinand III's watch",
+        "answer": "Holy Roman Empire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WAVES",
+        "value": 800,
+        "question": "First name of Paris stylist Grateau, who introduced his wave in 1872",
+        "answer": "Marcel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ON THE RISK BOARD",
+        "value": 800,
+        "question": "If you go north from the Risk territory of Northern Europe, you get to this peninsular territory",
+        "answer": "Scandinavia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "3-D",
+        "value": 800,
+        "question": "It's a supplement to a book",
+        "answer": "addendum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HAMLET",
+        "value": 1000,
+        "question": "At Hamlet's death, he says, \"Good night, sweet prince; and flights of angels sing thee to thy rest!\"",
+        "answer": "Horatio",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC STARS",
+        "value": 1000,
+        "question": "He was born Harold Lloyd Jenkins, but we know him better by this name",
+        "answer": "Conway Twitty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FERDINAND RULES!",
+        "value": 1000,
+        "question": "Trying to take Castile, Portugal's Ferdinand II aligned himself with the Duke of Lancaster, John of this",
+        "answer": "Gaunt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WAVES",
+        "value": 1000,
+        "question": "To do the wave in the world's biggest stadium, head south to the Maracana in this city",
+        "answer": "Rio de Janeiro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ON THE RISK BOARD",
+        "value": 1000,
+        "question": "In the atlas, this country that gets its own territory is between Pakistan & Turkmenistan",
+        "answer": "Afghanistan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "3-D",
+        "value": 1000,
+        "question": "Wild Bill Hickok cashed his chips in this town",
+        "answer": "Deadwood",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CLASSICAL COMPOSERS",
+    "clue": "Siegfried's funeral march was played when this man's coffin reached the train station in 1883",
+    "answer": "Richard Wagner"
+  },
+  "gameId": "3674",
+  "gameDate": "Thursday, July 20, 2000"
+}

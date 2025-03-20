@@ -1,0 +1,556 @@
+{
+  "title": "Show #4696 - Monday, January 24, 2005",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. LAKES & RIVERS",
+      "YOU'RE A BIG SCREEN MONSTER!",
+      "SCIENCE",
+      "ETIQUETTE",
+      "READER'S DIGEST: AMERICA'S BEST",
+      "FRENCH LESSONS"
+    ],
+    "clues": [
+      {
+        "category": "U.S. LAKES & RIVERS",
+        "value": 200,
+        "question": "It flows over 2300 miles before entering the Mississippi just north of St. Louis",
+        "answer": "the Missouri",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "YOU'RE A BIG SCREEN MONSTER!",
+        "value": 200,
+        "question": "1931:Boris Karloff as his monster",
+        "answer": "Dr. Frankenstein",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "Cosmic rays were first detected by V. F. Hess during a flight by one of these",
+        "answer": "a hot air balloon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 200,
+        "question": "Traditionally, this man who writes a lot of checks gives the first toast at an engagement dinner",
+        "answer": "bride's father",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "READER'S DIGEST: AMERICA'S BEST",
+        "value": 200,
+        "question": "For best movie, Reader's Digest chose 8 films, including this one set at Rick's Cafe Americain",
+        "answer": "Casablanca",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FRENCH LESSONS",
+        "value": 200,
+        "question": "Whether the man or the decor, Louis Quatorze means this king",
+        "answer": "Louis XIV",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. LAKES & RIVERS",
+        "value": 400,
+        "question": "1,645 feet deep, this beautiful blue lake on the California-Nevada border is one of North America's deepest",
+        "answer": "Lake Tahoe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "YOU'RE A BIG SCREEN MONSTER!",
+        "value": 400,
+        "question": "1986:Jeff Goldblum",
+        "answer": "the Fly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "The crepe ring is the transparent C ring in this planet's ring system",
+        "answer": "Saturn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 400,
+        "question": "For rich apartment dwellers, Emily Post recommends tipping a helpful super & a helpful one of these $50 at holiday time",
+        "answer": "a doorman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "READER'S DIGEST: AMERICA'S BEST",
+        "value": 400,
+        "question": "America's \"best lost cause\" is this team whose fans have been waiting since 1908 for another World Series title",
+        "answer": "the (Chicago) Cubs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FRENCH LESSONS",
+        "value": 400,
+        "question": "Quebec first decreed that all these signs must say \"arret\", then decided to allow this as a French word",
+        "answer": "stop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. LAKES & RIVERS",
+        "value": 600,
+        "question": "A major traffic route, the Arlington Memorial Bridge spans this river",
+        "answer": "Potomac",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "YOU'RE A BIG SCREEN MONSTER!",
+        "value": 600,
+        "question": "1933:Claude Raines",
+        "answer": "The Invisible Man",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE",
+        "value": 600,
+        "question": "Albert Ghiorso at Lawrence Berkeley National Lab holds the record for discovering the most of these",
+        "answer": "elements",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 600,
+        "question": "It's the only fork ever placed to the right of the plate",
+        "answer": "a cocktail fork",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "READER'S DIGEST: AMERICA'S BEST",
+        "value": 600,
+        "question": "Lasting a scary 4 minutes, Revenge of the Mummy at 2 of this studio's theme parks is \"America's Best Roller Coaster\"",
+        "answer": "Universal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FRENCH LESSONS",
+        "value": 600,
+        "question": "This organization whose name comes from the French for \"sun\" calls its bungee routine \"ballet without gravity\"",
+        "answer": "Cirque du Soleil",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. LAKES & RIVERS",
+        "value": 800,
+        "question": "(Cheryl of the Clue Crew stands on a lakeshore.)  I'm standing near the shore of this body of water that was once known as \"Lac Des Illinois\"",
+        "answer": "Lake Michigan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "YOU'RE A BIG SCREEN MONSTER!",
+        "value": 800,
+        "question": "1979:Frank Langella",
+        "answer": "Dracula",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE",
+        "value": 800,
+        "question": "In MS-DOS, the .bak file extension meant the file was this type",
+        "answer": "back-up file",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 800,
+        "question": "This 7-letter courtesy title for lawyers is never used in a personal introduction",
+        "answer": "esquire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "READER'S DIGEST: AMERICA'S BEST",
+        "value": 800,
+        "question": "Housing the world's largest indoor swamp, this Nebraska city's Henry Doorly Zoo is \"America's Best\"",
+        "answer": "Omaha",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FRENCH LESSONS",
+        "value": 800,
+        "question": "Mon dieu!  In 1933 this famous French cooking school opened a London branch",
+        "answer": "Le Cordon Bleu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. LAKES & RIVERS",
+        "value": 1000,
+        "question": "This river winds its way through Grand Teton National Park, as well as Hell's Canyon",
+        "answer": "Snake River",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "YOU'RE A BIG SCREEN MONSTER!",
+        "value": 1000,
+        "question": "1951:James Arness",
+        "answer": "the Thing from Another World",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1000,
+        "question": "An isohel on a weather map is a line showing connecting places with an equal amount of this",
+        "answer": "sunshine",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ETIQUETTE",
+        "value": 1000,
+        "question": "When the band strikes up this appropriate serenade from 1911, it's time to get your hat, coat & spouse",
+        "answer": "\"Goodnight, Ladies\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "READER'S DIGEST: AMERICA'S BEST",
+        "value": 1000,
+        "question": "The Digest calls this city America's best tourist attraction saying it has \"its own king\" & is home to the blues",
+        "answer": "Memphis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FRENCH LESSONS",
+        "value": 1000,
+        "question": "Formed by flowing water, the channel called a moulin gets its name from this structure",
+        "answer": "mill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SHIPS' NAMES",
+      "BUSINESS SHOW",
+      "MYTHICAL MENAGERIE",
+      "JOSE CAN YOU SEE",
+      "BY THE DAWN'S EARLY LIGHT",
+      "THE STAR-SPANGLED BANNER"
+    ],
+    "clues": [
+      {
+        "category": "SHIPS' NAMES",
+        "value": 400,
+        "question": "In 1585 John Davis sailed to find the Northwest Passage with 2 ships: Sunneshine & this one (hic!)",
+        "answer": "Moonshine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS SHOW",
+        "value": 400,
+        "question": "On this show, J.R. slept with his sister-in-law, who shot him; Bobby died but then didn't & both ran Ewing Oil",
+        "answer": "Dallas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MYTHICAL MENAGERIE",
+        "value": 400,
+        "question": "In Greek myth, young children were fed to this monster in the labyrinth in an annual tribute",
+        "answer": "the Minotaur",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "JOSE CAN YOU SEE",
+        "value": 400,
+        "question": "The largest of the 4 modern countries Jose de San Martin helped liberate from European rule",
+        "answer": "Argentina",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BY THE DAWN'S EARLY LIGHT",
+        "value": 400,
+        "question": "The \"blue dawn\" is a variety of this climbing vine whose flowers open with the first light of dawn",
+        "answer": "a morning glory",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE STAR-SPANGLED BANNER",
+        "value": 400,
+        "question": "Lawyer and amateur poet Francis Scott key penned the words to \"The Star-Spangled Banner\" during this war",
+        "answer": "the War of 1812",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SHIPS' NAMES",
+        "value": 800,
+        "question": "(Sarah of the Clue Crew stands before an aircraft carrier.)  The U.S.S. Tarawa takes its name from an atoll where a fierce battle between the U.S. & this nation took place",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS SHOW",
+        "value": 800,
+        "question": "This '80s show, let's see... Krystle & Alexis fell into a pond during a catfight... Blake ran the family oil company",
+        "answer": "Dynasty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MYTHICAL MENAGERIE",
+        "value": 800,
+        "question": "In one West African myth, Anansi, a trickster in the form of this, traveled the world on his web strings",
+        "answer": "a spider",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "JOSE CAN YOU SEE",
+        "value": 800,
+        "question": "Former Archbishop Jose Sanchez is a member of this \"college\"",
+        "answer": "the College of Cardinals",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BY THE DAWN'S EARLY LIGHT",
+        "value": 800,
+        "question": "Originating in this country, alboradas, \"dawn songs\", are pieces originally performed in the morning",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE STAR-SPANGLED BANNER",
+        "value": 800,
+        "question": "It's the very last word of the song",
+        "answer": "brave",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SHIPS' NAMES",
+        "value": 1200,
+        "question": "Noted Dandy George Crowninsheild Jr. built the USA's 1st seagoing yacht & called it this woman's \"barge'",
+        "answer": "Cleopatra",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BUSINESS SHOW",
+        "value": 1200,
+        "question": "This TV title character worked for the L.A. Tribune under autocratic publisher Mrs. Pynchon",
+        "answer": "Lou Grant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MYTHICAL MENAGERIE",
+        "value": 1200,
+        "question": "In Hindusim Ganesha, the god of wisdom, has a human body & the head of this mammal",
+        "answer": "an elephant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "JOSE CAN YOU SEE",
+        "value": 1200,
+        "question": "Born in Puerto Rico, U.S. Congressman Jose Serrano represents a district in this Eastern state",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BY THE DAWN'S EARLY LIGHT",
+        "value": 1200,
+        "question": "Longfellow's sonnet about this 14th century British tale spinner calls him \"the poet of the dawn\"",
+        "answer": "Chaucer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE STAR-SPANGLED BANNER",
+        "value": 1200,
+        "question": "Today, the enormous flag mentioned in the song is on display here",
+        "answer": "the Smithsonian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BUSINESS SHOW",
+        "value": 1600,
+        "question": "Take a Blush Magazine quiz written by Maya Gallo & you'll be watching this workplace comedy",
+        "answer": "Just Shoot Me!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MYTHICAL MENAGERIE",
+        "value": 1600,
+        "question": "Both the Aztec god Quetzalcoatl & the Mayan god Kukulcan were these creatures adorned with feathers",
+        "answer": "snakes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "JOSE CAN YOU SEE",
+        "value": 1600,
+        "question": "Of the opera stars known as \"The Three Tenors\", he's the one born in Barcelona",
+        "answer": "(José) Carerras",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BY THE DAWN'S EARLY LIGHT",
+        "value": 1600,
+        "question": "In a series of works from around 1894, this French impressionist painted Rouen Cathedral at Dawn",
+        "answer": "Monet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE STAR-SPANGLED BANNER",
+        "value": 1600,
+        "question": "It's the U.S. state where the original poem was written",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BUSINESS SHOW",
+        "value": 2000,
+        "question": "For Thanksgiving, this sitcom's radio station manager dropped turkeys from a helicopter, thinking they could fly",
+        "answer": "WKRP",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MYTHICAL MENAGERIE",
+        "value": 2000,
+        "question": "Nessus, one of these, half-horse half-man, was killed by Hercules after he tried to rape Hercules' wife",
+        "answer": "a centaur",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "JOSE CAN YOU SEE",
+        "value": 2000,
+        "question": "Serving for a time under Simon Bolivar, Jose Antonio Paez eventually became the 1st president of this country",
+        "answer": "Venezuela",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BY THE DAWN'S EARLY LIGHT",
+        "value": 2000,
+        "question": "The name of this small prehistoric horse of North America comes from Greek for \"dawn horse\"",
+        "answer": "eohippus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE STAR-SPANGLED BANNER",
+        "value": 2000,
+        "question": "The poem that became \"The Star-Spangled Banner\" was first published as \"The Defense of\" this military compound",
+        "answer": "Fort McHenry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MIDDLE EASTERN AFFAIRS",
+    "clue": "The Arab-Israeli War that started on June 5, 1967 ended with a cease-fire on this date in Israel",
+    "answer": "June 10, 1967"
+  },
+  "gameId": "4696",
+  "gameDate": "Monday, January 24, 2005"
+}

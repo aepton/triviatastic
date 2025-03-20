@@ -1,0 +1,574 @@
+{
+  "title": "Show #8110 - Friday, December 6, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "MUGSHOTS",
+      "RETIRED NUMBERS IN SPORTS",
+      "CLOTHING",
+      "LAKES & RIVERS",
+      "ACCORDING TO BLACK'S LAW DICTIONARY",
+      "REMEMBER THE \"L_M_O\""
+    ],
+    "clues": [
+      {
+        "category": "MUGSHOTS",
+        "value": 200,
+        "question": "This outlaw sits for a mugshot. Not pictured, the Sundance Kid",
+        "answer": "Butch Cassidy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "RETIRED NUMBERS IN SPORTS",
+        "value": 200,
+        "question": "After they retired Derek Jeter's No. 2 in 2017, the only single-digit number left for this team was 0",
+        "answer": "the Yankees",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "CLOTHING",
+        "value": 200,
+        "question": "The tapering rear ends of a man's formal jacket are known as these",
+        "answer": "tails",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 200,
+        "question": "(Jimmy of the Clue Crew presents by a display monitor.) The Yenisey River flows north for more than 2,000 miles through the heart of this vast Russian region",
+        "answer": "Siberia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ACCORDING TO BLACK'S LAW DICTIONARY",
+        "value": 200,
+        "question": "It's \"a jury that cannot reach a verdict by the required voting margin--also termed deadlocked jury\"",
+        "answer": "a hung jury",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "REMEMBER THE \"L_M_O\"",
+        "value": 200,
+        "question": "To do it, bend backward & pass under a horizontal bar",
+        "answer": "the limbo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MUGSHOTS",
+        "value": 400,
+        "question": "Did they catch this future Russian leader red-handed?",
+        "answer": "Lenin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "RETIRED NUMBERS IN SPORTS",
+        "value": 400,
+        "question": "Every team in the NHL has retired No. 99 in honor of this \"Great One\"",
+        "answer": "Wayne Gretzky",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "CLOTHING",
+        "value": 400,
+        "question": "This flat, close-fitting collar takes its name from a boy created in 1902 in a children's book",
+        "answer": "a Peter Pan collar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 400,
+        "question": "Lyon is on this river, 1 letter different from the one Bonn is on",
+        "answer": "the Rhône",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ACCORDING TO BLACK'S LAW DICTIONARY",
+        "value": 400,
+        "question": "It's \"an attempt to commit battery, requiring the specific intent to cause physical injury\"",
+        "answer": "assault",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "REMEMBER THE \"L_M_O\"",
+        "value": 400,
+        "question": "Glowing, like some watch dials",
+        "answer": "luminous",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MUGSHOTS",
+        "value": 600,
+        "question": "This dancer and suspected spy was arrested near the end of World War I",
+        "answer": "Mata Hari",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "RETIRED NUMBERS IN SPORTS",
+        "value": 600,
+        "question": "The Seattle Seahawks retired this number to honor the extra player, the fans",
+        "answer": "12",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "CLOTHING",
+        "value": 600,
+        "question": "A wardrobe staple for women is the LBD, short for this",
+        "answer": "a little black dress",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 600,
+        "question": "A flight to Thunder Bay & a 4-hour drive brings you to Canada's Pukaskwa National Park on this Great Lake",
+        "answer": "Lake Superior",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ACCORDING TO BLACK'S LAW DICTIONARY",
+        "value": 600,
+        "question": "This means \"to remove (oneself) as a judge in a particular case because of prejudice or conflict of interest\"",
+        "answer": "recuse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "REMEMBER THE \"L_M_O\"",
+        "value": 600,
+        "question": "Krystal Koach built custom ones",
+        "answer": "limousines",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MUGSHOTS",
+        "value": 800,
+        "question": "This Italian immigrant is at the bottom of his pyramid in his mugshot",
+        "answer": "(Charles) Ponzi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "RETIRED NUMBERS IN SPORTS",
+        "value": 800,
+        "question": "To honor Jackie Robinson, in 2014 UCLA retired this number in every sport",
+        "answer": "42",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "CLOTHING",
+        "value": 800,
+        "question": "Made from leather or other durable material & worn over pants, they're a cowboy's protective leggings",
+        "answer": "chaps",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 800,
+        "question": "Until about 1200, Lake   Mälaren was a bay of this sea & was used by oceangoing vessels to reach Sweden's interior",
+        "answer": "the Baltic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ACCORDING TO BLACK'S LAW DICTIONARY",
+        "value": 800,
+        "question": "It's a 4-syllable \"system of organized crime...involving the extortion of money from businesses by intimidation \"",
+        "answer": "racketeering",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "REMEMBER THE \"L_M_O\"",
+        "value": 800,
+        "question": "\"Everybody's doing\" this, the action of moving from one place to another",
+        "answer": "locomoting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MUGSHOTS",
+        "value": 1000,
+        "question": "This silent film comedian's arrest in 1921 led to a major scandal",
+        "answer": "Fatty Arbuckle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "RETIRED NUMBERS IN SPORTS",
+        "value": 1000,
+        "question": "In 2013 the Bears said this coach's number 89 would be the last number the Chicago NFL team would ever retire",
+        "answer": "(Mike) Ditka",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CLOTHING",
+        "value": 1000,
+        "question": "From the Latin for \"garment\", they are official ecclesiastical robes worn during ceremonies & indicative of rank",
+        "answer": "vestments",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 1000,
+        "question": "Owasco is part of this group of skinny lakes near Syracuse, New York",
+        "answer": "the Finger Lakes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ACCORDING TO BLACK'S LAW DICTIONARY",
+        "value": 1000,
+        "question": "\"A threat of harm made to compel a person... a marriage\" done under it \"is generally voidable\"",
+        "answer": "duress",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "REMEMBER THE \"L_M_O\"",
+        "value": 1000,
+        "question": "In a musical work, it's a theme associated with a particular person or situation",
+        "answer": "a leitmotif",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BACK IN THE 20th CENTURY",
+      "ADJECTIVES",
+      "THE REST OF THE TITLE, PLEASE",
+      "WOMEN!",
+      "OLD BOOKS",
+      "IT'S NOT ROCKET SCIENCE"
+    ],
+    "clues": [
+      {
+        "category": "BACK IN THE 20th CENTURY",
+        "value": 400,
+        "question": "In the 1970s this was rampant, raising prices 14% a year, & the president declared it \"public enemy number one\"",
+        "answer": "inflation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ADJECTIVES",
+        "value": 400,
+        "question": "In a natural, unrefined state, like raw petroleum",
+        "answer": "crude",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE REST OF THE TITLE, PLEASE",
+        "value": 400,
+        "question": "\"Die Hard 2\", promising even more",
+        "answer": "Die Harder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WOMEN!",
+        "value": 400,
+        "question": "The Seven Summits Women Team made history in 2007 when 10 Nepali women joined forces to conquer this nearby peak",
+        "answer": "Mount Everest",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 400,
+        "question": "The Domesday Book, a record of the value & ownership of land in 11th century England, was compiled by order of this king",
+        "answer": "William the Conqueror",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT ROCKET SCIENCE",
+        "value": 400,
+        "question": "It's the study of swatting implements used by Federer & Nadal et al.",
+        "answer": "racket science",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BACK IN THE 20th CENTURY",
+        "value": 800,
+        "question": "In 1954, Russian words meaning \"committee for state security\" got shortened to these 3 letters for an agency",
+        "answer": "KGB",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ADJECTIVES",
+        "value": 800,
+        "question": "This synonym for domesticated is a much shorter word",
+        "answer": "tame",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE REST OF THE TITLE, PLEASE",
+        "value": 800,
+        "question": "From 1991, \"Terminator 2:\" this",
+        "answer": "Judgment Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WOMEN!",
+        "value": 800,
+        "question": "No one has won more women's FIFA World Cup titles than this country",
+        "answer": "the United States",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 800,
+        "question": "In the 4th century Eusebius wrote \"The History of the Church from Christ to\" this emperor who legalized the faith",
+        "answer": "Constantine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT ROCKET SCIENCE",
+        "value": 800,
+        "question": "It's the study of toothed hand tools that permit rotation in only one direction",
+        "answer": "ratchet science",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BACK IN THE 20th CENTURY",
+        "value": 1200,
+        "question": "On Dec. 3, 1973 Pioneer 10 was within 81,000 miles of its cloud tops & would find this planet to be mostly liquid",
+        "answer": "Jupiter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ADJECTIVES",
+        "value": 1200,
+        "question": "Able to be decomposed easily by living organisms, thereby avoiding pollution",
+        "answer": "biodegradable",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE REST OF THE TITLE, PLEASE",
+        "value": 1200,
+        "question": "Delivering on its title, very literally--\"Airplane II: The\" this",
+        "answer": "the Sequel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WOMEN!",
+        "value": 1200,
+        "question": "The Minangkabau, the largest ethnic group of Sumatra, is this type of society in which descent is determined through women",
+        "answer": "matrilineal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 1200,
+        "question": "In the 13th century this saint & philosopher tried to sum up all religious thought in \"Summa Theologica\"",
+        "answer": "Thomas Aquinas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT ROCKET SCIENCE",
+        "value": 1200,
+        "question": "It's investigation into a bone-softening disease caused by vitamin D deficiency",
+        "answer": "rickets science",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BACK IN THE 20th CENTURY",
+        "value": 1600,
+        "question": "Discovered in 1943, streptomycin was the second major one of these wonder drugs & the first effective against tuberculosis",
+        "answer": "antibiotics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ADJECTIVES",
+        "value": 1600,
+        "question": "It's from the Latin for \"hammer\" & refers to metal that can be hammered into a new shape",
+        "answer": "malleable",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE REST OF THE TITLE, PLEASE",
+        "value": 1600,
+        "question": "2015's \"Magic Mike\", getting re-sized",
+        "answer": "XXL",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WOMEN!",
+        "value": 1600,
+        "question": "The sultan of this Middle East country is assuredly proud of his all-female marching band",
+        "answer": "Oman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 1600,
+        "question": "Snorri Sturluson's \"Heimskringla\" from around 1220 A.D. is a collection of these epic narratives about the kings of Norway",
+        "answer": "saga (sagas)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT ROCKET SCIENCE",
+        "value": 1600,
+        "question": "It's chemistry or physics at a New Brunswick, New Jersey school founded in 1766",
+        "answer": "Rutgers science",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BACK IN THE 20th CENTURY",
+        "value": 2000,
+        "question": "Each car on the Ferris wheel seen here held an astonishing 60 people at the 1904 World's Fair in this Midwest city",
+        "answer": "St. Louis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ADJECTIVES",
+        "value": 2000,
+        "question": "It can mean difficult to understand, or traveling in a route similar to a planet's orbit",
+        "answer": "elliptical",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE REST OF THE TITLE, PLEASE",
+        "value": 2000,
+        "question": "In the '80s: \"Breakin' 2\"",
+        "answer": "Electric Boogaloo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WOMEN!",
+        "value": 2000,
+        "question": "Natasha Bedingfield & Pat Benatar have headlined the female-friendly Palm Springs festival named for this late TV star",
+        "answer": "Dinah Shore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OLD BOOKS",
+        "value": 2000,
+        "question": "Chretien de Troyes' 12th c. Arthurian tale about this young knight's search for the grail was the basis for a Wagner opera",
+        "answer": "Parsifal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IT'S NOT ROCKET SCIENCE",
+        "value": 2000,
+        "question": "It's learning acquired at a New York City correctional facility on an East River island",
+        "answer": "Rikers Science",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EUROPE",
+    "clue": "A tourism website for this country noted its colorful history \"filled with barbarians\", royalty, \"& even a movie star\"",
+    "answer": "Monaco"
+  },
+  "gameId": "8110",
+  "gameDate": "Friday, December 6, 2019"
+}

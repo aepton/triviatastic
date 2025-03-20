@@ -1,0 +1,574 @@
+{
+  "title": "Show #6502 - Tuesday, December 18, 2012",
+  "jeopardyRound": {
+    "categories": [
+      "SOCK IT TO ME",
+      "SPORTS TERMS",
+      "TENNESSEE'S WILLIAMS",
+      "\"BLOCK\" PARTY",
+      "EAT PREY",
+      "LOVE"
+    ],
+    "clues": [
+      {
+        "category": "SOCK IT TO ME",
+        "value": 200,
+        "question": "This term for a teenage girl of the 1940s refers to ankle socks folded over at the top",
+        "answer": "bobby socks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TERMS",
+        "value": 200,
+        "question": "In basketball a helpful pass resulting in a score gets you this on the scoresheet",
+        "answer": "an assist",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TENNESSEE'S WILLIAMS",
+        "value": 200,
+        "question": "In 1797 Tennessee's William Blount became the first man expelled from this body & its only member impeached by the House",
+        "answer": "the U.S. Senate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"BLOCK\" PARTY",
+        "value": 200,
+        "question": "This company says it \"has helped clients obtain nearly $50 billion in tax refunds\" & other benefits",
+        "answer": "H&R Block",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EAT PREY",
+        "value": 200,
+        "question": "This bloodsucking insect preys on humans. Sleep tight",
+        "answer": "a bedbug",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LOVE",
+        "value": 200,
+        "question": "This character speaks the line \"Be but sworn my love, and I'll no longer be a Capulet\"",
+        "answer": "Juliet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SOCK IT TO ME",
+        "value": 400,
+        "question": "Unlike most other kinds, tube socks aren't shaped to fit this part of your foot",
+        "answer": "the heel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TERMS",
+        "value": 400,
+        "question": "(Kelly of the Clue Crew walks on the beach at Bondi Beach in Sydney, Australia.)  This basic swimming stroke used by lifesavers was pioneered in Australia during a rescue approach; it's modified to keep the head out of the water & the rescuer's eyes on the victim",
+        "answer": "the Australian crawl",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TENNESSEE'S WILLIAMS",
+        "value": 400,
+        "question": "From 1913 to 1918 Chattanooga lawyer William McAdoo, this man's son-in-law, was also his Treasury secretary",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"BLOCK\" PARTY",
+        "value": 400,
+        "question": "It was Lucy's usual term of non-endearment directed at Charlie Brown",
+        "answer": "Blockhead",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EAT PREY",
+        "value": 400,
+        "question": "This \"royal\" predator of North America ran to about 40 feet long & 7 tons, but isn't around anymore",
+        "answer": "Tyrannosaurus rex",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LOVE",
+        "value": 400,
+        "question": "In an 1850 poem he wrote, \"'Tis better to have loved and lost than never to have loved at all\"",
+        "answer": "Alfred Lord Tennyson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SOCK IT TO ME",
+        "value": 600,
+        "question": "2-word term for an extra little Christmas gift; you can get some at the Starbucks store",
+        "answer": "a stocking stuffer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TERMS",
+        "value": 600,
+        "question": "This term for a golf course is actually a Scottish word for sandy coastal land",
+        "answer": "links",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TENNESSEE'S WILLIAMS",
+        "value": 600,
+        "question": "Governor during reconstruction, William Brownlow mobilized the Tennessee guard to crush this then-new hate group",
+        "answer": "the Ku Klux Klan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"BLOCK\" PARTY",
+        "value": 600,
+        "question": "A hit movie, or an aerial bomb weighing several tons",
+        "answer": "Blockbuster",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EAT PREY",
+        "value": 600,
+        "question": "Don't tread on this venomous predator seen here",
+        "answer": "a (western) rattlesnake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LOVE",
+        "value": 600,
+        "question": "A song by this composer says, \"Birds do it, bees do it, even educated fleas do it, let's do it, let's fall in love\"",
+        "answer": "Cole Porter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SOCK IT TO ME",
+        "value": 800,
+        "question": "Originally green & white, these socks worn by the Campbell clan were named for a county in west Scotland",
+        "answer": "argyle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TERMS",
+        "value": 800,
+        "question": "A cesta is the basket used to catch & throw the pelota, or ball, in this fast sport",
+        "answer": "jai alai",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TENNESSEE'S WILLIAMS",
+        "value": 800,
+        "question": "In 1958 Tennessean William Anderson commanded this submarine on the first voyage under the North Pole's ice pack",
+        "answer": "the USS Nautilus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"BLOCK\" PARTY",
+        "value": 800,
+        "question": "Occupational name for a type of wood-topped table",
+        "answer": "butcher's block",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EAT PREY",
+        "value": 800,
+        "question": "One of the fiercest predators of penguins is the leopard variety of this mammal",
+        "answer": "a seal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LOVE",
+        "value": 800,
+        "question": "In \"The Prophet\" he wrote, \"Love one another, but make not a bond of love: let it rather be a moving sea\"",
+        "answer": "Kahlil Gibran",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SOCK IT TO ME",
+        "value": 1000,
+        "question": "In 1931 ankle socks caused a sensation when Mrs. Fernley-Whittingstall wore them playing this at Forest Hills",
+        "answer": "tennis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TERMS",
+        "value": 1000,
+        "question": "This 6-letter German term means to make a straight downhill run on skis",
+        "answer": "schuss",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TENNESSEE'S WILLIAMS",
+        "value": 1000,
+        "question": "A real-life \"Bones\", forensic anthropologist William Bass founded the \"Body Farm\" at the U. of Tenn. in this city",
+        "answer": "Knoxville",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"BLOCK\" PARTY",
+        "value": 1000,
+        "question": "Alliterative term for a substance taken to reduce the heart rate or to prevent migraines",
+        "answer": "a beta blocker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EAT PREY",
+        "value": 1000,
+        "question": "Called the tiger of the sea, this streamlined ocean predator can be a threat to swimmers wearing shiny objects",
+        "answer": "a barracuda",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LOVE",
+        "value": 1000,
+        "question": "Around 413 A.D. this church father declared, \"Love and do what you will\"",
+        "answer": "St. Augustine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE 12th CENTURY",
+      "GRAMMAR",
+      "THE P-51 MUSTANG",
+      "ARCHITECTURE",
+      "WOODY GUTHRIE",
+      "THIS ISLAND IS YOUR ISLAND"
+    ],
+    "clues": [
+      {
+        "category": "THE 12th CENTURY",
+        "value": 400,
+        "question": "Tradition has it that the first stone for this Paris cathedral was laid in 1163 by Pope Alexander III",
+        "answer": "Notre Dame",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 400,
+        "question": "In standard usage this equals a positive, so \"I didn't do nothing\" means \"I did something\"",
+        "answer": "a double negative",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE P-51 MUSTANG",
+        "value": 400,
+        "question": "The P-51 Mustang's reputation was so great, in the mid-'60s executives at this company named a youth-oriented coupe after it",
+        "answer": "Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 400,
+        "question": "Pendentives are used to place this vaulted circular roof atop a square room",
+        "answer": "a dome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WOODY GUTHRIE",
+        "value": 400,
+        "question": "Woody had a Gibson one of these on which he placed the sticker that read, \"This machine kills Fascists\"",
+        "answer": "a guitar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 400,
+        "question": "Majorca",
+        "answer": "Spain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE 12th CENTURY",
+        "value": 800,
+        "question": "In 1181 this type of exploding star lit up the nighttime sky in Cassiopeia & remained visible for 185 days",
+        "answer": "a supernova",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 800,
+        "question": "In English exactly 3 words, with a total of 6 letters, represent this part of speech",
+        "answer": "the articles",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE P-51 MUSTANG",
+        "value": 800,
+        "question": "The Mustang was the main fighter of this international organization when it began fighting the Korean War",
+        "answer": "the United Nations",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 800,
+        "question": "In a ribbed vault, the ribs provide support, or seem to, for this arachnid-sounding material between the ribs",
+        "answer": "webbing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WOODY GUTHRIE",
+        "value": 800,
+        "question": "Woody didn't like bosses, but this \"Boss\" gave a speech honoring him at 2012's South by Southwest music festival",
+        "answer": "Springsteen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 800,
+        "question": "Mindanao",
+        "answer": "the Philippines",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE 12th CENTURY",
+        "value": 1200,
+        "question": "Berthold V founded this future Swiss capital in 1191 as a military post on the Aare river",
+        "answer": "Bern",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 1200,
+        "question": "Some grammar mavens complain about the use of \"hopefully\" as a sentence one of these, modifying the whole sentence",
+        "answer": "an adverb",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE P-51 MUSTANG",
+        "value": 1200,
+        "question": "This sound barrier breaker flew a Mustang for most of his 12.5 aerial kills during World War II",
+        "answer": "(Chuck) Yeager",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 1200,
+        "question": "As in the home seen here, Desert Modernism thrived in the mid-20th century in this California desert city",
+        "answer": "Palm Springs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WOODY GUTHRIE",
+        "value": 1200,
+        "question": "The aging, ailing Woody was visited by Joan Baez & other stars in the early-'60s revival of this 4-letter style of music",
+        "answer": "folk music",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 1200,
+        "question": "Hispaniola(2, please)",
+        "answer": "Haiti and the Dominican Republic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE 12th CENTURY",
+        "value": 1600,
+        "question": "One of the first books on this branch of medicine also practiced by barbers advocated molten lard",
+        "answer": "surgery",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 1600,
+        "question": "To change a sentence from active to passive voice, you usually add a form of this common verb",
+        "answer": "to be",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE P-51 MUSTANG",
+        "value": 1600,
+        "question": "Often flying P-51 Mustangs, this distinguished African-American unit flew more than 1,500 missions during WWII",
+        "answer": "the Tuskegee Airmen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 1600,
+        "question": "Recipients of the Pritzker Prize receive a medallion based on designs by this Chicagoan, the \"Father of the Skyscraper\"",
+        "answer": "Louis Sullivan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WOODY GUTHRIE",
+        "value": 1600,
+        "question": "In May 1939 Guthrie began writing his column \"Woody Sez\" for People's World, this party's newspaper",
+        "answer": "the Communist Party",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 1600,
+        "question": "Sakhalin",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE 12th CENTURY",
+        "value": 2000,
+        "question": "This queen of France was divorced from Louis VII in March 1152 & married Henry Plantagenet 2 months later",
+        "answer": "Eleanor of Aquitaine",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 2000,
+        "question": "In \"Der Ring Des Nibelungen\", the -en ending indicates this grammatical case, also called the genitive",
+        "answer": "the possessive",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE P-51 MUSTANG",
+        "value": 2000,
+        "question": "In 1944 the P-51 gave the Luftwaffe hell with its new visibility-maximizing type of canopy named for this fragile object",
+        "answer": "a bubble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ARCHITECTURE",
+        "value": 2000,
+        "question": "Inigo Jones restored St. Paul's cathedral from 1633 to 1642, before it burned & was rebuilt by this man",
+        "answer": "Christopher Wren",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WOODY GUTHRIE",
+        "value": 2000,
+        "question": "Guthrie took the title for this 1943 autobiography from one of his songs about a train",
+        "answer": "Bound for Glory",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THIS ISLAND IS YOUR ISLAND",
+        "value": 2000,
+        "question": "MacKenzie King Island",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PEOPLE IN BRITISH HISTORY",
+    "clue": "In 1805 the second in command to this hero said, \"I wish (he) would stop signaling. We all know what we have to do\"",
+    "answer": "(Horatio) Nelson"
+  },
+  "gameId": "6502",
+  "gameDate": "Tuesday, December 18, 2012"
+}

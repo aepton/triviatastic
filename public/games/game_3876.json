@@ -1,0 +1,574 @@
+{
+  "title": "Show #2770 - Friday, September 20, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "PHILOSOPHERS",
+      "FRUITS & VEGETABLES",
+      "THE MOVIES",
+      "WORLD HISTORY",
+      "BOOTS",
+      "\"GREAT\" GEOGRAPHY"
+    ],
+    "clues": [
+      {
+        "category": "PHILOSOPHERS",
+        "value": 100,
+        "question": "Transcendentalist philosopher & teacher Bronson Alcott was this author's father",
+        "answer": "Louisa May Alcott",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 100,
+        "question": "The Royal Ann variety of this fruit is usually the type used to make maraschinos",
+        "answer": "a cherry",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 100,
+        "question": "Lawrence Olivier was an early choice to play Don Vito Corleone in this 1972 film",
+        "answer": "The Godfather",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 100,
+        "question": "In 1949 this city became the capital of the Nationalist Chinese government",
+        "answer": "Taipei",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOOTS",
+        "value": 100,
+        "question": "Waterproof boots, worn over the shoes, that zip, snap or buckle up",
+        "answer": "galoshes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"GREAT\" GEOGRAPHY",
+        "value": 100,
+        "question": "At over 84,000 square miles, it's Europe's largest island",
+        "answer": "Great Britain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 200,
+        "question": "In Chinese this influential philosopher is called K'ung Fu-Tzu",
+        "answer": "Confucius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 200,
+        "question": "Fruit you're most likely to find in a pandowdy",
+        "answer": "an apple",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 200,
+        "question": "In June 1995 this Val Kilmer film had the biggest 3-day opening to that date— $52.8 million",
+        "answer": "Batman Forever",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 200,
+        "question": "A Finnish statesman gave his name to the Mannerheim Line in Finland's 1939 war against this country",
+        "answer": "the Soviet Union (Russia)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOOTS",
+        "value": 200,
+        "question": "Held up by suspenders, these boots & pants combos are used by fishermen",
+        "answer": "waders",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"GREAT\" GEOGRAPHY",
+        "value": 200,
+        "question": "Lewis & Clark National Forest is headquartered in this west central Montana city",
+        "answer": "Great Falls",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 300,
+        "question": "In 1604 philosopher Francis Bacon advocated union between England & this part of the U.K.",
+        "answer": "Scotland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 300,
+        "question": "Don't cry, but when its skin is \"thick and tough, coming winter cold and rough\"",
+        "answer": "an onion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 300,
+        "question": "Timothy Hutton won a Best Supporting Actor Oscar for his debut in this 1980 Robert Redford film",
+        "answer": "Ordinary People",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 300,
+        "question": "In 1599 Richard & Cuthbert Burbage built this famous theatre",
+        "answer": "the Globe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BOOTS",
+        "value": 300,
+        "question": "Traditional color for 1960s go-go boots",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"GREAT\" GEOGRAPHY",
+        "value": 300,
+        "question": "This depression in Africa & the Middle East is the largest fault system on Earth",
+        "answer": "the Great Rift (Valley)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 400,
+        "question": "Philosopher Brunetto Latini influenced this poet, who made him a character in \"The Divine Comedy\"",
+        "answer": "Dante",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 400,
+        "question": "The English, a hothouse variety of this vegetable, can be 2 feet long & has few seeds",
+        "answer": "a cucumber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 400,
+        "question": "This 1939 John Wayne film was based on a Collier's magazine short story, \"Stage to Lordsburg\"",
+        "answer": "Stagecoach",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 400,
+        "question": "In the 16th century Peru was called New Castile & Mexico was called this",
+        "answer": "New Spain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BOOTS",
+        "value": 400,
+        "question": "These calf-high Eskimo boots are usually made of walrus or seal skin",
+        "answer": "mukluks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"GREAT\" GEOGRAPHY",
+        "value": 400,
+        "question": "1 of 2 Australian deserts that fit the category",
+        "answer": "the Great Sandy Desert (or the Great Victoria Desert)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 500,
+        "question": "Jeremy Bentham founded this doctrine whose name comes from utilis, Latin for \"useful\"",
+        "answer": "utilitarianism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 500,
+        "question": "This red-leafed Italian chicory is used as a salad green",
+        "answer": "radicchio",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE MOVIES",
+        "value": 500,
+        "question": "1980 film in which Jack Nicholson yells maniacally \"Heeeeere's Johnny\"",
+        "answer": "The Shining",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 500,
+        "question": "This future president led the 1952 military coup that forced Farouk's abdication",
+        "answer": "Nasser",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOOTS",
+        "value": 500,
+        "question": "These leather boots that cover the knee were named for a 19th century British general",
+        "answer": "Wellingtons",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"GREAT\" GEOGRAPHY",
+        "value": 1000,
+        "question": "Cuba, Hispaniola, Jamaica & Puerto Rico",
+        "answer": "the Greater Antilles",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ROYAL MOTHERS",
+      "SCIENCE",
+      "INTERNATIONAL TRADE TERMS",
+      "MUSICAL INSTRUMENTS",
+      "U.S. LANDMARKS",
+      "LITERATURE"
+    ],
+    "clues": [
+      {
+        "category": "ROYAL MOTHERS",
+        "value": 200,
+        "question": "First name of England's queen mother",
+        "answer": "Elizabeth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "At supersaturation, this relative measurement is above 100%",
+        "answer": "humidity",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL TRADE TERMS",
+        "value": 200,
+        "question": "The Bundesbank is this country's central bank",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 200,
+        "question": "As you might guess, an oliphant was a horn made from the tusk of one of these",
+        "answer": "an elephant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 200,
+        "question": "Name shared by the largest fort in Maine & the home of the U.S. gold depository in Kentucky",
+        "answer": "Fort Knox",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "It begins, \"Alice was beginning to get very tired of sitting by her sister on the bank\"",
+        "answer": "Alice's Adventures in Wonderland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ROYAL MOTHERS",
+        "value": 400,
+        "question": "His mother is the Empress Dowager Nagako",
+        "answer": "Akihito",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "In most people these third molars erupt between the ages of 17 & 21",
+        "answer": "wisdom teeth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL TRADE TERMS",
+        "value": 400,
+        "question": "It's the U.S. government agency that clears imports & collects duties & taxes on them",
+        "answer": "the Bureau of Customs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 400,
+        "question": "Anyone can play a hurdy-gurdy; just do this & press the keys",
+        "answer": "crank the handle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 400,
+        "question": "Built in 1828, the Arcade in this Rhode Island capital is the USA's oldest indoor shopping mall",
+        "answer": "Providence",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "One day before Ashley Wilkes marries Melanie Hamilton, she marries Melanie's brother Charles",
+        "answer": "Scarlett O'Hara",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ROYAL MOTHERS",
+        "value": 600,
+        "question": "He's the firstborn son of Dona Maria de las Mercedes de Borbon y Orleans",
+        "answer": "Juan Carlos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE",
+        "value": 600,
+        "question": "The sun's energy is produced in this central region",
+        "answer": "the core",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL TRADE TERMS",
+        "value": 600,
+        "question": "Among taxes VAT is short for this",
+        "answer": "a value added tax",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 600,
+        "question": "Grelots are these bells; \"Are you listening?\"",
+        "answer": "sleigh bells",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 600,
+        "question": "The Rock of Ages quarry in Vermont is the world's largest pit for this rock",
+        "answer": "granite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "Henry Miller's \"Tropic of Cancer\" tells the story of an American writer in this European capital",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ROYAL MOTHERS",
+        "value": 800,
+        "question": "Princess Sibylla of Saxe-Coburg-Gotha was the mother of this country's King Carl XVI Gustaf",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE",
+        "value": 800,
+        "question": "In humans this organ produces the female gametes by a process called gametogenesis",
+        "answer": "the ovaries",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL TRADE TERMS",
+        "value": 800,
+        "question": "CITES, a convention which the U.S. has signed, controls trade in these, the \"ES\"",
+        "answer": "endangered species",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 1600,
+        "question": "Now belonging to the Smithsonian, the instrument seen here belonged to this jazz musician",
+        "answer": "(\"Dizzy\") Gillespie",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 800,
+        "question": "Kalakaua, Hawaii's last king, built this royal palace",
+        "answer": "the Iolani Palace",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1600,
+        "question": "In this 1863 story, Philip Nolan is court-martialed for aiding Aaron Burr's treasonous plot",
+        "answer": "\"The Man Without a Country\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ROYAL MOTHERS",
+        "value": 1000,
+        "question": "This ruler is the first child of Queen Juliana",
+        "answer": "Queen Beatrix",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1000,
+        "question": "This type of upward \"action\" occurs when a fine tube is placed vertically with one end in water",
+        "answer": "capillary action",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "INTERNATIONAL TRADE TERMS",
+        "value": 1000,
+        "question": "In shipping it's the captain's \"destiny\" to sign this list of all items in the cargo",
+        "answer": "his manifest",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MUSICAL INSTRUMENTS",
+        "value": 1000,
+        "question": "The Appalachian this is a 3-stringed zither that's played in the lap",
+        "answer": "a dulcimer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 1000,
+        "question": "Known for its Long Room, this tavern near Wall Street is named for the West Indian who owned it 1762-1785",
+        "answer": "Fraunces Tavern",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "This companion of Gertrude Stein published her memoir \"What is Remembered\" in 1963",
+        "answer": "Alice (B.) Toklas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SENATORS",
+    "clue": "Former man in space & future man in space both elected to the Senate in 1974",
+    "answer": "John Glenn & Jake Garn"
+  },
+  "gameId": "2770",
+  "gameDate": "Friday, September 20, 1996"
+}

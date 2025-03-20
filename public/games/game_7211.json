@@ -1,0 +1,574 @@
+{
+  "title": "Show #8530 - Friday, December 10, 2021",
+  "jeopardyRound": {
+    "categories": [
+      "WINTER HOLIDAYS",
+      "TEXTING SHORTHAND",
+      "HEY SHAKESPEARE, WHO SAID THAT?",
+      "YACHT ROCK SAILS AGAIN",
+      "U.S. GEOGRAPHY",
+      "GET YOUR SOMETHINGS IN A ROW"
+    ],
+    "clues": [
+      {
+        "category": "WINTER HOLIDAYS",
+        "value": 200,
+        "question": "A February holiday commemorates the Buddha reaching the final state of this goal of the Buddhist path",
+        "answer": "nirvana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TEXTING SHORTHAND",
+        "value": 200,
+        "question": "Too funny! LMSO, I'm \"laughing\" these garments \"off\"",
+        "answer": "socks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HEY SHAKESPEARE, WHO SAID THAT?",
+        "value": 200,
+        "question": "\"Come I to speak in Caesar's funeral. He was my friend, faithful and just to me: but Brutus says he was ambitious\"",
+        "answer": "Mark Antony",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "YACHT ROCK SAILS AGAIN",
+        "value": 200,
+        "question": "This Philly duo--2 guys, 1 mustache--hit No. 1 in 1982 with \"I Can't Go For That\"",
+        "answer": "Hall & Oates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "The Pecos River is a major tributary of this river that it empties into in Texas",
+        "answer": "the Rio Grande",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GET YOUR SOMETHINGS IN A ROW",
+        "value": 200,
+        "question": "East to west by birthplace: Holliday, Rivers, Severinsen",
+        "answer": "Docs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WINTER HOLIDAYS",
+        "value": 400,
+        "question": "Twelfth Night precedes the feast of this, also known as Three Kings' Day",
+        "answer": "the Epiphany",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TEXTING SHORTHAND",
+        "value": 400,
+        "question": "DHYB, \"don't\" do this, meaning something is not likely to happen anytime soon",
+        "answer": "hold your breath",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HEY SHAKESPEARE, WHO SAID THAT?",
+        "value": 400,
+        "question": "\"Deny thy father and refuse thy name; or, if thou wilt not, be but sworn my love\"",
+        "answer": "Juliet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "YACHT ROCK SAILS AGAIN",
+        "value": 400,
+        "question": "This ex-Commodore sailed to the top of the charts in 1983 with \"All Night Long\"",
+        "answer": "(Lionel) Richie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "It's about 130 miles long & in July 2021, it reached about 130 degrees",
+        "answer": "Death Valley",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GET YOUR SOMETHINGS IN A ROW",
+        "value": 400,
+        "question": "By era of popularity: rolltop, tanker, standing",
+        "answer": "desks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WINTER HOLIDAYS",
+        "value": 600,
+        "question": "Celebrated Dec. 23, Festivus includes \"the airing of\" these; \"I got a lot of problems with you people! Now, you're gonna hear about it\"",
+        "answer": "the airing of grievances",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TEXTING SHORTHAND",
+        "value": 600,
+        "question": ".02,this amount of opinion I'm sharing",
+        "answer": "two cents",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HEY SHAKESPEARE, WHO SAID THAT?",
+        "value": 600,
+        "question": "\"I am subject to a tyrant, a sorcerer, that by his cunning hath cheated me of the island\"",
+        "answer": "Caliban",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "YACHT ROCK SAILS AGAIN",
+        "value": 600,
+        "question": "M is for moonlight, as in \"Moonlight Feels Right\" by Starbuck, as well as this xylophone with an unexpected--& amazing!--solo",
+        "answer": "a marimba",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 600,
+        "question": "The Three Sisters in Oregon is a trio of volcanic peaks in this mountain range",
+        "answer": "the Cascades",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GET YOUR SOMETHINGS IN A ROW",
+        "value": 600,
+        "question": "Biggest to smallest: Uno, tarot, pinochle",
+        "answer": "decks",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WINTER HOLIDAYS",
+        "value": 800,
+        "question": "The Jewish festival of trees, Tu Bishvat includes eating fruit, like this one that according to tradition has 613 red seeds",
+        "answer": "a pomegranate",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TEXTING SHORTHAND",
+        "value": 800,
+        "question": "Put down your phone & go outside! All this texting is CWOT, a \"complete\" this",
+        "answer": "waste of time",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HEY SHAKESPEARE, WHO SAID THAT?",
+        "value": 800,
+        "question": "\"'Tis not to make me jealous to say my wife is fair, feeds well, loves company, is free of speech, sings, plays and dances well\"",
+        "answer": "Othello",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "YACHT ROCK SAILS AGAIN",
+        "value": 800,
+        "question": "You can always right your ship with \"Hey Nineteen\" & \"Deacon Blues\" by this jazzy soft-rock band",
+        "answer": "Steely Dan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "In the 1800s this Michigan island was the headquarters for John Jacob Astor's American Fur Company",
+        "answer": "Mackinac",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GET YOUR SOMETHINGS IN A ROW",
+        "value": 800,
+        "question": "In royal succession: Cambridge, Sussex, York",
+        "answer": "Dukes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WINTER HOLIDAYS",
+        "value": 1000,
+        "question": "On December 13 Scandinavians celebrate this female saint; young girls wear white & wear lighted wreaths on their heads",
+        "answer": "Lucia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TEXTING SHORTHAND",
+        "value": 1000,
+        "question": "That was WTMI, meaning this, a lot more facts than I needed",
+        "answer": "way too much information",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HEY SHAKESPEARE, WHO SAID THAT?",
+        "value": 1000,
+        "question": "\"I think there be six Richmonds in the field; five have I slain today instead of him\"",
+        "answer": "King Richard III",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "YACHT ROCK SAILS AGAIN",
+        "value": 1000,
+        "question": "Grover Washington Jr. was so smooth with this title, \"building castles in the sky\", this title again, \"you & I\"",
+        "answer": "\"Just The Two Of Us\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "This region of foothills between the Appalachians & the Atlantic coastal plain is named for a similar area in Italy",
+        "answer": "the Piedmont",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GET YOUR SOMETHINGS IN A ROW",
+        "value": 1000,
+        "question": "In construction order: Afsluit, NIeuwebildt, Omring",
+        "answer": "dikes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GOING MEDIEVAL",
+      "FAMOUS PROFESSORS",
+      "BIG MOVIE ON CAMPUS",
+      "ORGAN RECITAL",
+      "WHERE TO GO ON SABBATICAL",
+      "\"EX\"AM TIME"
+    ],
+    "clues": [
+      {
+        "category": "GOING MEDIEVAL",
+        "value": 400,
+        "question": "Weapons made of this steel named for a Syrian city were highly prized by medieval knights",
+        "answer": "Damascus steel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PROFESSORS",
+        "value": 400,
+        "question": "Teaching aerospace engineering at the University of Cincinnati, was one further step for this man",
+        "answer": "Armstrong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BIG MOVIE ON CAMPUS",
+        "value": 400,
+        "question": "M.I.T.'s domed Maclaurin Building is where this actor works as a janitor in a 1997 film",
+        "answer": "(Matt) Damon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ORGAN RECITAL",
+        "value": 400,
+        "question": "The largest internal organ in humans, it destroys old red blood cells",
+        "answer": "the liver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WHERE TO GO ON SABBATICAL",
+        "value": 400,
+        "question": "Head to Kyoto, where you can visit this type of forest",
+        "answer": "bamboo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"EX\"AM TIME",
+        "value": 400,
+        "question": "5-letter verb meaning to put forth effort",
+        "answer": "exert",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "GOING MEDIEVAL",
+        "value": 800,
+        "question": "In the 6th century Dionysius Exiguus began using this system with a 2-word Latin name to date things since Christ's birth",
+        "answer": "Anno Domini",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PROFESSORS",
+        "value": 800,
+        "question": "In 1979 Stephen Hawking was appointed Lucasian Professor of Mathematics at this university",
+        "answer": "Cambridge",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BIG MOVIE ON CAMPUS",
+        "value": 800,
+        "question": "This 1973 film follows a first-year student's clashes with his contracts prof at Harvard Law School",
+        "answer": "The Paper Chase",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ORGAN RECITAL",
+        "value": 800,
+        "question": "Each of these has a hilum, the point where the bronchi enter",
+        "answer": "the lungs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WHERE TO GO ON SABBATICAL",
+        "value": 800,
+        "question": "Go to Nicaragua & help build a house through this global nonprofit founded in 1976",
+        "answer": "Habitat for Humanity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"EX\"AM TIME",
+        "value": 800,
+        "question": "Archaeologists learn to do this, from Latin for \"hollow out\"",
+        "answer": "excavate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GOING MEDIEVAL",
+        "value": 1200,
+        "question": "Before he became a monk & she became a nun, these medieval lovers had a son named Astrolabe",
+        "answer": "Heloise & Abelard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PROFESSORS",
+        "value": 1200,
+        "question": "This man, who rose to fame in the 1950s, taught poetry at Brooklyn College from 1986 to 1997",
+        "answer": "(Allen) Ginsberg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BIG MOVIE ON CAMPUS",
+        "value": 1200,
+        "question": "Set at a fictional Ivy League university, \"Dear White People\" was filmed at this school's Twin Cities campus",
+        "answer": "the University of Minnesota",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ORGAN RECITAL",
+        "value": 1200,
+        "question": "Producing & secreting hormones, the hypothalamus is part of this organ",
+        "answer": "the brain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WHERE TO GO ON SABBATICAL",
+        "value": 1200,
+        "question": "Follow in Darwin's footsteps & study the wildlife on these islands also called the Archipiélago de Colón",
+        "answer": "the Galápagos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"EX\"AM TIME",
+        "value": 1200,
+        "question": "It's an unofficial name for Britain's treasury",
+        "answer": "the Exchequer",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "GOING MEDIEVAL",
+        "value": 1600,
+        "question": "In the 14th century this Italian poet lost the love of his life, Laura, to the black death",
+        "answer": "Petrarch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PROFESSORS",
+        "value": 1600,
+        "question": "Math professor John Nash, who won a Nobel Prize for his work on game theory, was the subject of this Oscar-winning film",
+        "answer": "A Beautiful Mind",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BIG MOVIE ON CAMPUS",
+        "value": 1600,
+        "question": "Georgia's Emory University was one of the locations for this 2016 movie about NASA's female \"human computers\"",
+        "answer": "Hidden Figures",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ORGAN RECITAL",
+        "value": 1600,
+        "question": "The outer cortex of these paired organs contains follicles & oocytes",
+        "answer": "ovaries",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WHERE TO GO ON SABBATICAL",
+        "value": 1600,
+        "question": "Try this city, where the iconic Hallgrímskirkja Church can be seen for miles",
+        "answer": "Reykjavik",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"EX\"AM TIME",
+        "value": 1600,
+        "question": "A Latin word, this old-timey stage direction means it's time for 2 or more characters to exit a scene",
+        "answer": "exeunt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GOING MEDIEVAL",
+        "value": 2000,
+        "question": "In medieval times this order of monks translated medical texts in their library at Monte Cassino in Italy",
+        "answer": "the Benedictines",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS PROFESSORS",
+        "value": 2000,
+        "question": "\"Nine Nasty Words\" is a 2021 book by this man, who teaches linguistics at Columbia & hosts the podcast \"Lexicon Valley\"",
+        "answer": "John McWhorter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BIG MOVIE ON CAMPUS",
+        "value": 2000,
+        "question": "2 films shot at Notre Dame were \"Knute Rockne: All American\" & this one starring Sean Astin as an unlikely football player",
+        "answer": "Rudy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ORGAN RECITAL",
+        "value": 2000,
+        "question": "The jejunum, part of this organ, gets its name from the Latin for \"fasting\" because it was often found empty after death",
+        "answer": "the small intestine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WHERE TO GO ON SABBATICAL",
+        "value": 2000,
+        "question": "To Canada to visit some of the national parks including Banff in Alberta & this larger, adjoining park to the north",
+        "answer": "Jasper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"EX\"AM TIME",
+        "value": 2000,
+        "question": "In physics this principle means no 2 particles in an atom can share the same set of quantum numbers",
+        "answer": "the (Pauli) exclusion principle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "19th CENTURY BRITISH AUTHORS",
+    "clue": "She called herself \"the daughter of two persons of distinguished literary celebrity\" in an introduction to one of her novels",
+    "answer": "(Mary) Shelley"
+  },
+  "gameId": "8530",
+  "gameDate": "Friday, December 10, 2021"
+}

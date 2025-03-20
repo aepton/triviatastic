@@ -1,0 +1,574 @@
+{
+  "title": "Show #4230 - Friday, January 10, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "AROUND THE WORLD",
+      "TOYS & GAMES",
+      "I'M SUPERSTITIOUS!",
+      "AESOP A.S.A.P.",
+      "THE WHITE HOUSE",
+      "ARE \"WE\" THERE YET?"
+    ],
+    "clues": [
+      {
+        "category": "AROUND THE WORLD",
+        "value": 200,
+        "question": "The province of Zeeland in southwest Holland lent its name to this country in the South Pacific",
+        "answer": "New Zealand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 200,
+        "question": "Ruth Handler named this doll, introduced in 1959 as a teenage fashion model, for her daughter",
+        "answer": "Barbie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "I'M SUPERSTITIOUS!",
+        "value": 200,
+        "question": "You'll get your desired hope if you end up with the larger portion of this turkey piece when it's pulled apart",
+        "answer": "the wishbone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AESOP A.S.A.P.",
+        "value": 200,
+        "question": "One of these creatures talks a lion out of eating him, later saves the lion from a trap",
+        "answer": "mouse",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE WHITE HOUSE",
+        "value": 200,
+        "question": "This was the second U.S. president to live in the first White House",
+        "answer": "John Adams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ARE \"WE\" THERE YET?",
+        "value": 200,
+        "question": "Make a rug or a basket, or zigzag your way through traffic",
+        "answer": "weave",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 400,
+        "question": "Although this South American country is about 2,650 miles long, its average width is less than 110 miles",
+        "answer": "Chile",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 400,
+        "question": "The name of this card game means \"one\" in Spanish",
+        "answer": "Uno",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "I'M SUPERSTITIOUS!",
+        "value": 400,
+        "question": "It's the lucky, mutant plant, seen here",
+        "answer": "a four-leaf clover",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AESOP A.S.A.P.",
+        "value": 400,
+        "question": "Farmer proves strength in unity to sons by showing a bundle of these that can't be broken all at once",
+        "answer": "sticks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE WHITE HOUSE",
+        "value": 400,
+        "question": "The wife of President Benjamin Harrison had this installed in the White House, but was afraid to turn it on & off!",
+        "answer": "electricity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ARE \"WE\" THERE YET?",
+        "value": 400,
+        "question": "Cake cut by those who've just \"tied the knot\"",
+        "answer": "wedding (cake)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 600,
+        "question": "This mountain range, whose name means \"abode of snow\" in Sanskrit, has more than 30 peaks towering above 25,000 feet",
+        "answer": "the Himalayas",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 600,
+        "question": "Harry, seen here, is one of these collectibles",
+        "answer": "a Beanie Baby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "I'M SUPERSTITIOUS!",
+        "value": 600,
+        "question": "If one of these animals crosses your path a superstition says you'll experience misfortune",
+        "answer": "a black cat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AESOP A.S.A.P.",
+        "value": 600,
+        "question": "Fox can't reach these, decides they are sour",
+        "answer": "grapes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE WHITE HOUSE",
+        "value": 600,
+        "question": "One of the three colors used to name rooms on the first floor of the White House",
+        "answer": "green (or red or blue)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ARE \"WE\" THERE YET?",
+        "value": 600,
+        "question": "If you're \"under\" this, you're not feeling well, or maybe getting rained on",
+        "answer": "weather",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 800,
+        "question": "The Gulfs of Aqaba & Suez border this Egyptian peninsula",
+        "answer": "the Sinai Peninsula",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 800,
+        "question": "Despite the name of this game, you don't have to apologize when you send another player's pawn back to the start",
+        "answer": "Sorry!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "I'M SUPERSTITIOUS!",
+        "value": 800,
+        "question": "Break one of these & supposedly you'll have 7 years' bad luck",
+        "answer": "a mirror",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AESOP A.S.A.P.",
+        "value": 800,
+        "question": "Wolf disguised as one of these gets killed by shepherd wanting dinner",
+        "answer": "sheep",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE WHITE HOUSE",
+        "value": 800,
+        "question": "It's the federal \"district\" where you'll find the White House",
+        "answer": "the District of Columbia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ARE \"WE\" THERE YET?",
+        "value": 800,
+        "question": "It's the last name of dictionary compiler Noah",
+        "answer": "Webster",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE WORLD",
+        "value": 1000,
+        "question": "This Iraqi capital was founded on the western bank of the Tigris River in 762 A.D. by the Abbasid Caliph Al-Mansur",
+        "answer": "Baghdad",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TOYS & GAMES",
+        "value": 1000,
+        "question": "If you roll 5 of a kind you've gotten this, the name of a dice game by Milton Bradley",
+        "answer": "Yahtzee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "I'M SUPERSTITIOUS!",
+        "value": 1000,
+        "question": "One well-known superstition is that it's  bad luck to walk under one of these",
+        "answer": "a ladder",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AESOP A.S.A.P.",
+        "value": 1000,
+        "question": "Hungry, lazy grasshopper tries to talk these insects out of food in winter",
+        "answer": "ants",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE WHITE HOUSE",
+        "value": 1000,
+        "question": "British troops burned the White House during this 19th century war",
+        "answer": "the War of 1812",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ARE \"WE\" THERE YET?",
+        "value": 1000,
+        "question": "As the old saying goes, \"a chain is only as strongest as\" this",
+        "answer": "the \"weakest link\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "AROUND THE MALL",
+      "OLD TESTAMENT NAMES",
+      "ANIMATED MOVIES",
+      "FUN IN THE SNOW",
+      "CONQUERORS",
+      "DOUBLE-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "AROUND THE MALL",
+        "value": 400,
+        "question": "Malls including the Oak Hollow Mall in High Point, N.C. use this 2-word term for the place you chow down",
+        "answer": "the food court",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OLD TESTAMENT NAMES",
+        "value": 400,
+        "question": "Chapter 2 of Genesis says God formed him \"of the dust of the ground\"",
+        "answer": "Adam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 400,
+        "question": "Walt Disney's first full-length animated film was about this woman & her housemates",
+        "answer": "Snow White",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FUN IN THE SNOW",
+        "value": 400,
+        "question": "This dog-walking item shares its name with the device that attaches your leg to a snowboard's binding",
+        "answer": "a leash",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CONQUERORS",
+        "value": 400,
+        "question": "While exiled on St. Helena, he said, \"Waterloo will erase the memory of all my victories\"",
+        "answer": "Napoleon (I)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE-LETTER WORDS",
+        "value": 400,
+        "question": "This feline word follows \"Hello\" in the name of a Sanrio character",
+        "answer": "Kitty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE MALL",
+        "value": 800,
+        "question": "This clothing store chain opened its first \"kids\" store in 1986 & started its \"baby\" business 4 years later",
+        "answer": "(The) Gap",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OLD TESTAMENT NAMES",
+        "value": 800,
+        "question": "After stripping him of his coat of many colors, his brothers cast him into a pit, then sold him into slavery",
+        "answer": "Joseph",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 800,
+        "question": "As captain John Smith, Mel Gibson sang songs in this animated film about an American Indian princess",
+        "answer": "Pocahontas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FUN IN THE SNOW",
+        "value": 800,
+        "question": "I'm standing in this mountain range. It's also the name of a Major League Baseball team",
+        "answer": "the Rockies",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CONQUERORS",
+        "value": 800,
+        "question": "On Christmas Day 1066, he was crowned King of England, 72 days after defeating Harold at the Battle of Hastings",
+        "answer": "William the Conqueror",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE-LETTER WORDS",
+        "value": 800,
+        "question": "The Sorting Hat placed Harry Potter in this House at Hogwarts",
+        "answer": "Gryffindor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE MALL",
+        "value": 1200,
+        "question": "Stores at the mall include Radio Shack & Sunglass this, similar to a shack",
+        "answer": "Hut",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OLD TESTAMENT NAMES",
+        "value": 1200,
+        "question": "On Passover, it's traditional to set aside a special cup of wine for this prophet who went to heaven in a chariot of fire",
+        "answer": "Elijah",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 1200,
+        "question": "This title animated animal is the \"Stallion of the Cimarron\"",
+        "answer": "Spirit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FUN IN THE SNOW",
+        "value": 1200,
+        "question": "Even champion skiers started off on the type of slope with this cuddly animal name",
+        "answer": "bunny (slope)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CONQUERORS",
+        "value": 1200,
+        "question": "In 1398 Tamerlane not only conquered Delhi in this country but burned it down",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE-LETTER WORDS",
+        "value": 1200,
+        "question": "A caterpillar emerges from one of these as a butterfly",
+        "answer": "cocoon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE MALL",
+        "value": 1600,
+        "question": "Telescopes are a specialty of the stores of this science-oriented cable TV channel",
+        "answer": "Discovery",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OLD TESTAMENT NAMES",
+        "value": 1600,
+        "question": "Absalom, who was killed after his hair got caught in a tree, was a son of this king",
+        "answer": "(King) David",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 1600,
+        "question": "In a 1989 animated movie, \"All Dogs Go To\" this place",
+        "answer": "Heaven",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FUN IN THE SNOW",
+        "value": 1600,
+        "question": "The predecessor to snowboards was the \"Snurfer,\" which combined these two words",
+        "answer": "surfer & snow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CONQUERORS",
+        "value": 1600,
+        "question": "Under the rule of this \"terrible\" czar, Russia expanded its territory into Siberia",
+        "answer": "Ivan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE-LETTER WORDS",
+        "value": 1600,
+        "question": "Middle name of American architect Frank Wright, born in 1867",
+        "answer": "Lloyd",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AROUND THE MALL",
+        "value": 2000,
+        "question": "This toy seller's name goes back to the (look carefully now) Kaufman Brothers",
+        "answer": "KB",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OLD TESTAMENT NAMES",
+        "value": 2000,
+        "question": "This woman from Moab has her own Old Testament book; it comes after Judges",
+        "answer": "Ruth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANIMATED MOVIES",
+        "value": 2000,
+        "question": "In a film set in Africa, this \"Lion King\" is befriended by a meerkat named Timon & a warthog named Pumbaa",
+        "answer": "Simba",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FUN IN THE SNOW",
+        "value": 2000,
+        "question": "According to Newton's Third Law of Motion, every action has an equal and opposite one of these.",
+        "answer": "reaction",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CONQUERORS",
+        "value": 2000,
+        "question": "In 218 B.C. he crossed the Alps with an army of 40,000 men in just 15 days, braving the elements & hostile tribes",
+        "answer": "Hannibal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE-LETTER WORDS",
+        "value": 2000,
+        "question": "It's a combination of 2 metals; brass is one, combining copper & zinc",
+        "answer": "alloy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "NONFICTION BOOKS",
+    "clue": "\"The Road to Middle-Earth\" is a book about this writer",
+    "answer": "J.R.R. Tolkien"
+  },
+  "gameId": "4230",
+  "gameDate": "Friday, January 10, 2003"
+}

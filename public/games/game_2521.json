@@ -1,0 +1,574 @@
+{
+  "title": "Show #5491 - Monday, June 23, 2008",
+  "jeopardyRound": {
+    "categories": [
+      "STATE OF THE UNION",
+      "MOVIE SONGS",
+      "AFRICA'S OFFICIAL LANGUAGES",
+      "WORDS IN CONTESTANT",
+      "CORPORATE",
+      "RATS"
+    ],
+    "clues": [
+      {
+        "category": "STATE OF THE UNION",
+        "value": 200,
+        "question": "It's the third-largest U.S. state in area",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 200,
+        "question": "\"Hakuna Matata\" was one of 3 tunes nominated for an Oscar from this Disney film",
+        "answer": "The Lion King",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AFRICA'S OFFICIAL LANGUAGES",
+        "value": 200,
+        "question": "In Benin:this",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORDS IN CONTESTANT",
+        "value": 200,
+        "question": "Yo, Shakespeare!It's a 14-line poem",
+        "answer": "a sonnet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CORPORATE",
+        "value": 200,
+        "question": "The Southland Corporation might say \"Oh, thank heaven\" for this chain of 30,000 convenience stores",
+        "answer": "7-11",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "RATS",
+        "value": 200,
+        "question": "With their front teeth perfect for gnawing, rats are members of this mammalian order",
+        "answer": "rodents",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 400,
+        "question": "Heard weekly since 1925, this state's \"Grand Ole Opry\" program is the longest-running live radio show in the U.S.",
+        "answer": "Tennessee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 400,
+        "question": "\"Let's Do\" this \"Again\"--& again, as we watch \"The Rocky Horror Picture Show\" over & over",
+        "answer": "the Time Warp",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AFRICA'S OFFICIAL LANGUAGES",
+        "value": 400,
+        "question": "In Gabon:this",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORDS IN CONTESTANT",
+        "value": 400,
+        "question": "A movement upward, perhaps to climb a hill",
+        "answer": "ascent",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CORPORATE",
+        "value": 400,
+        "question": "In 1999 this shoe company named the largest building at its corporate headquarters after soccer great Mia Hamm",
+        "answer": "Nike",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "RATS",
+        "value": 400,
+        "question": "The Norway rat, the one typically used in lab experiments, is also known as this \"colorful\" rat",
+        "answer": "a brown rat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 600,
+        "question": "As of Jan. 1, 2008, this Pacific Northwest state had the highest statewide minimum wage, $8.07 an hour",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 600,
+        "question": "He had a 1994 hit with \"Streets of Philadelphia\", from a Tom Hanks film",
+        "answer": "Bruce Springsteen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AFRICA'S OFFICIAL LANGUAGES",
+        "value": 600,
+        "question": "In Cameroon:English & this",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORDS IN CONTESTANT",
+        "value": 600,
+        "question": "A usually dissenting subdivision of a religious group",
+        "answer": "a sect",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CORPORATE",
+        "value": 600,
+        "question": "This car-repair chain founded in 1956 shares its name with a king of ancient Phrygia",
+        "answer": "Midas",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "RATS",
+        "value": 600,
+        "question": "Like young canines, baby rats are known by this one-syllable term",
+        "answer": "pups",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 800,
+        "question": "A river in this state is named for the Rappahannock tribe that John Smith met in 1607",
+        "answer": "Virginia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 800,
+        "question": "This classic bluegrass song for banjo & guitar was featured in the film \"Deliverance\"",
+        "answer": "\"Dueling Banjoes\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AFRICA'S OFFICIAL LANGUAGES",
+        "value": 800,
+        "question": "In Equatorial Guinea:Spanish & this",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORDS IN CONTESTANT",
+        "value": 800,
+        "question": "Atomic number 10, this odorless gaseous element is obtained from fractional distillation of liquid air",
+        "answer": "neon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CORPORATE",
+        "value": 800,
+        "question": "Henry Ford called minority stockholders in his corporation these, like the ones that cause dysentery & malaria",
+        "answer": "parasites",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "RATS",
+        "value": 800,
+        "question": "This nautical & rat metaphor refers to people abandoning a losing side",
+        "answer": "rats fleeing a sinking ship",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STATE OF THE UNION",
+        "value": 1000,
+        "question": "Big Pocono State Park is found in this state",
+        "answer": "Pennsylvania",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE SONGS",
+        "value": 1000,
+        "question": "The Oscar for Best Song of 2007 went to a tune from this film about 2 Dublin musicians",
+        "answer": "Once",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AFRICA'S OFFICIAL LANGUAGES",
+        "value": 1000,
+        "question": "In Rwanda:Kinyarwanda, French & this",
+        "answer": "English",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORDS IN CONTESTANT",
+        "value": 1000,
+        "question": "A political subdivision of Switzerland",
+        "answer": "a canton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CORPORATE",
+        "value": 1000,
+        "question": "The discovery of oil in 1879 at Pico Canyon near Los Angeles was the start of what's now this petroleum corporation, stock symbol CVX",
+        "answer": "Chevron",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "RATS",
+        "value": 1000,
+        "question": "Exposed underground variety of rat seen here",
+        "answer": "a naked mole rat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE BODY HUMAN",
+      "SPORTS STUFF",
+      "AROUND EUROPE",
+      "MINDBENDING MISCELLANY",
+      "THE ARTS",
+      "COUNTRIES WITHOUT THEIR VOWELS"
+    ],
+    "clues": [
+      {
+        "category": "THE BODY HUMAN",
+        "value": 400,
+        "question": "The hyoid bone supports this organ & provides attachment sites for muscles used in speaking & swallowing",
+        "answer": "the tongue",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS STUFF",
+        "value": 400,
+        "question": "Christina Aguilera, to this \"animal\" of a golfer: \"Sorry, I don't know much about you. I don't follow tennis\"",
+        "answer": "Tiger Woods",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AROUND EUROPE",
+        "value": 400,
+        "question": "The Hotel Sacher in Vienna was built on the site of the theater where his Ninth Symphony premiered in 1824",
+        "answer": "Beethoven",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MINDBENDING MISCELLANY",
+        "value": 400,
+        "question": "According to Guinness, this present delivered in 1886 was the largest gift ever given",
+        "answer": "the Statue of Liberty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE ARTS",
+        "value": 400,
+        "question": "\"Maria Stuarda\" by Donizetti (libretto by Bardari) is this type of work",
+        "answer": "opera",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES WITHOUT THEIR VOWELS",
+        "value": 400,
+        "question": "RQ",
+        "answer": "Iraq",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 800,
+        "question": "This bone is located on the thumb side of the forearm",
+        "answer": "the radius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS STUFF",
+        "value": 800,
+        "question": "Bill Simmons' \"Now I Can Die in Peace\" chronicles this team's 2004 World Series win, its first since 1918",
+        "answer": "the Red Sox",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AROUND EUROPE",
+        "value": 800,
+        "question": "Every 5 years, this capital city hosts a Frederic Chopin International Piano Competition",
+        "answer": "Warsaw",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MINDBENDING MISCELLANY",
+        "value": 800,
+        "question": "Credited with saving the studio, this canine star was Warner Bros.' most successful star of the 1920s",
+        "answer": "Rin Tin Tin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE ARTS",
+        "value": 800,
+        "question": "If you get the \"pointe\", Darci Kistler found her fame as one of these performers",
+        "answer": "a ballerina",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES WITHOUT THEIR VOWELS",
+        "value": 800,
+        "question": "CB",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 1200,
+        "question": "(Cheryl of the Clue Crew presents the visual.)  Red eye in photographs is the reflection of the flash off the blood vessels from this posterior part of the eye",
+        "answer": "the retina",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS STUFF",
+        "value": 1200,
+        "question": "This quarterback of broken leg fame: \"Nobody in football should be called a genius. A genius is a guy like Norman Einstein\"",
+        "answer": "(Joe) Theismann",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AROUND EUROPE",
+        "value": 1200,
+        "question": "Hop aboard the train and you can get a close-up peek at this peak",
+        "answer": "the Matterhorn",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MINDBENDING MISCELLANY",
+        "value": 1200,
+        "question": "Jim Springer & Jim Lewis, who led similar lives down to their wives' & dogs' names, turned out to be these",
+        "answer": "identical twins",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE ARTS",
+        "value": 1200,
+        "question": "\"Luncheon of the Boating Party\" was an impressive 1881 work by this Impressionist",
+        "answer": "Renoir",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES WITHOUT THEIR VOWELS",
+        "value": 1200,
+        "question": "LGR",
+        "answer": "Algeria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 1600,
+        "question": "A common injury to this joint is a tear of the anterior cruciate ligament",
+        "answer": "the knee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS STUFF",
+        "value": 1600,
+        "question": "In his HBO biopic, an \"epiphanous experience of pure religiosity\" during a 1971 Ali fight inspires him to be a promoter",
+        "answer": "Don King",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AROUND EUROPE",
+        "value": 1600,
+        "question": "Lisbon's monument to the discoveries was built in 1960 to celebrate the 500th anniversary of this prince's death",
+        "answer": "Henry the Navigator",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MINDBENDING MISCELLANY",
+        "value": 1600,
+        "question": "Referring to these 2 Disneyland rides, one designer said, \"I went from sweet little children to dirty old men\"",
+        "answer": "It's A Small World & Pirates of the Caribbean",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE ARTS",
+        "value": 1600,
+        "question": "An architectural style is named for this French fine arts school that dropped architecture in 1968",
+        "answer": "the École des Beaux Arts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES WITHOUT THEIR VOWELS",
+        "value": 1600,
+        "question": "TNS",
+        "answer": "Tunisia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BODY HUMAN",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew gives a physical demonstration.)  Muscles work in pairs, so you can strengthen one by increasing flexibility in the other; the hamstring curl strengthens the hamstring & allows this muscle at the front of the thigh to elongate",
+        "answer": "the quadriceps",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS STUFF",
+        "value": 2000,
+        "question": "(I'm USC athletic director Mike Garrett.)   In 1965 at USC I led the nation in rushing; the year before, this running back played by James Caan in a TV movie achieved the feat",
+        "answer": "(Brian) Piccolo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AROUND EUROPE",
+        "value": 2000,
+        "question": "Amsterdam's name reflects the fact that the city grew up around a dam built on this river",
+        "answer": "the Amstel River",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MINDBENDING MISCELLANY",
+        "value": 2000,
+        "question": "Involving a color & an animal, it's the second most common pub name found in the U.K. & is found on the U.K. coat of arms",
+        "answer": "red lion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE ARTS",
+        "value": 2000,
+        "question": "A 1974 movie tells of Benji; a 12th century Japanese scroll illustrates this \"tale\" by Lady Murasaki",
+        "answer": "(The Tale of) Genji",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES WITHOUT THEIR VOWELS",
+        "value": 2000,
+        "question": "RMN",
+        "answer": "Romania",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PRESIDENTIAL BIRTHPLACES",
+    "clue": "4 U.S. presidents serving in 3 different centuries have been born in the same county in this state",
+    "answer": "Massachusetts"
+  },
+  "gameId": "5491",
+  "gameDate": "Monday, June 23, 2008"
+}

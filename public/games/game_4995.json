@@ -1,0 +1,538 @@
+{
+  "title": "Show #989 - Thursday, December 15, 1988",
+  "jeopardyRound": {
+    "categories": [
+      "ARTISTS",
+      "TECHNOLOGY",
+      "SPORTS",
+      "LANGUAGES",
+      "FAT MUSIC",
+      "SKIN"
+    ],
+    "clues": [
+      {
+        "category": "ARTISTS",
+        "value": 100,
+        "question": "Diego Rivera led the great mural painting movement that flourished in this country after 1920",
+        "answer": "Mexico",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 100,
+        "question": "In 1984, for the 1st time, the Census Bureau began keeping track of these non-human workers",
+        "answer": "robots",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "In 1934 the Portsmouth Spartans of the NFL were bought, moved to Detroit & renamed this",
+        "answer": "Lions",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 100,
+        "question": "The official language of Iraq",
+        "answer": "Arabic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FAT MUSIC",
+        "value": 100,
+        "question": "Hefty rappers who joined Chubby Checker for a new version of \"The Twist\" in 1988",
+        "answer": "The Fat Boys",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SKIN",
+        "value": 100,
+        "question": "From the Greek word for \"skin\", it's a doctor who specializes in skin problems",
+        "answer": "dermatologist",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ARTISTS",
+        "value": 200,
+        "question": "Gutzon Borglum died before completing this huge sculpture, so his son Lincoln finished it for him",
+        "answer": "Mount Rushmore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 200,
+        "question": "In November 1936 a gov't corp. in this country began the world's 1st scheduled TV programming",
+        "answer": "England",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "The Miami Heat & the Charlotte Hornets have now joined this pro league",
+        "answer": "NBA (National Basketball Association)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "This country's constitution recognizes 15 languages, including Urdu & Punjabi but not English",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FAT MUSIC",
+        "value": 400,
+        "question": "He never had a No.1 hit; the closest he came was No. 2 with the following:\"I found my thrill /On Blueberry Hill...\"",
+        "answer": "Fats Domino",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SKIN",
+        "value": 200,
+        "question": "The no. 1 cause of premature aging of the skin",
+        "answer": "sun",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ARTISTS",
+        "value": 300,
+        "question": "Grant Wood used his sister & his dentist as the models for this 1930 painting",
+        "answer": "American Gothic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "Reason Muhammad Ali lost his heavyweight title April 28, 1967",
+        "answer": "he refused induction into the United States Army",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 300,
+        "question": "Johanna Spyri wrote \"Heidi\" in this language",
+        "answer": "German",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FAT MUSIC",
+        "value": 300,
+        "question": "In \"Creeque Alley\", \"No one's getting fat except\" her",
+        "answer": "Mama Cass",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SKIN",
+        "value": 300,
+        "question": "Reason some beauty experts advise applying cold water at the end of a shower",
+        "answer": "to close the pores",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ARTISTS",
+        "value": 400,
+        "question": "Utrillo was best known for painting street scenes of this city",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "The 1950 U.S. defeat of England has been called the greatest upset in the history of this sport",
+        "answer": "soccer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "Guinness says the world's most multilingual living person is Georges Schmidt, former Chief of Terminology here",
+        "answer": "United Nations",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FAT MUSIC",
+        "value": 400,
+        "question": "This singer took Michael Jackson's \"Bad\" & turned it into \"Fat\"",
+        "answer": "\"Weird Al\" Yankovic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SKIN",
+        "value": 400,
+        "question": "Hemoglobin, carotene & melanin all contribute to give skin this characteristic",
+        "answer": "color",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ARTISTS",
+        "value": 500,
+        "question": "One of America's most noted illustrators, he was Andrew Wyeth's father",
+        "answer": "N.C. Wyeth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "In \"The Boys of Summer\" R. Kahn said that rooting for this baseball team was like rooting for U.S. Steel",
+        "answer": "Yankees",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 500,
+        "question": "\"Dank\" in Dutch is this in Italian; you're welcome",
+        "answer": "grazie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FAT MUSIC",
+        "value": 500,
+        "question": "In the polka, reason \"I don't want her, you can have her\"",
+        "answer": "she's too fat for me",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SKIN",
+        "value": 500,
+        "question": "This acne cream may reduce wrinkles, but it can also cause itchy cheeks & red skin",
+        "answer": "retina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FICTIONAL DETECTIVES",
+      "COLORS",
+      "BRITISH HISTORY",
+      "GRAMMAR",
+      "ACTRESSES",
+      "BONES"
+    ],
+    "clues": [
+      {
+        "category": "FICTIONAL DETECTIVES",
+        "value": 200,
+        "question": "At the beginning of \"The Maltese Falcon\", he's ending an affair with his partner's wife",
+        "answer": "(Sam) Spade",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COLORS",
+        "value": 200,
+        "question": "Many Greek houses are painted this color to reflect the sun",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 200,
+        "question": "Known for his Pacific explorations, he was killed by Hawaiian natives in 1779",
+        "answer": "(Captain) Cook",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 200,
+        "question": "It's the predicate in the sentence \"The glass is full.\"",
+        "answer": "is full",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 200,
+        "question": "Her roles have included Maria Callas, the Duchess of Windsor & Natalie Jastrow",
+        "answer": "Jane Seymour",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BONES",
+        "value": 200,
+        "question": "The substitution bones & the membrane bones form this part of the skull that protects the brain",
+        "answer": "cranium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FICTIONAL DETECTIVES",
+        "value": 400,
+        "question": "No arrests were made, even though he confronted the murderers on the Orient Express",
+        "answer": "Hercule Poirot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COLORS",
+        "value": 400,
+        "question": "In culinary terms, it can precede bread, Betty & \"and serve\"",
+        "answer": "brown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 400,
+        "question": "The sinking of this ship on May 7, 1915 led to anti-German riots in London",
+        "answer": "Lusitania",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 400,
+        "question": "Of \"around you & I\", \"around she & me\" or \"around him & me\", the 1 that's grammatically correct",
+        "answer": "around him & me",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 400,
+        "question": "\"I'd like to be a boy if I could change back into a girl again,\" said this star of \"My One & Only\"",
+        "answer": "Twiggy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BONES",
+        "value": 400,
+        "question": "The hyoid bone serves primarily as an anchor for this wagging muscle",
+        "answer": "tongue",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FICTIONAL DETECTIVES",
+        "value": 600,
+        "question": "This eccentric sleuth rarely left his brownstone on New York's West 35th St.",
+        "answer": "Nero Wolfe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COLORS",
+        "value": 600,
+        "question": "It's the name of a color, a liqueur & even a monastery in France",
+        "answer": "chartreuse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 600,
+        "question": "Poet John Milton served as Latin Secretary to this 1st \"Lord Protector\"",
+        "answer": "Oliver Cromwell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 600,
+        "question": "In the sentence \"I have a television set.\", \"television\" acts as this part of speech",
+        "answer": "adjective",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 600,
+        "question": "She provides the speaking voice for Mrs. Roger Rabbit",
+        "answer": "Kathleen Turner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BONES",
+        "value": 600,
+        "question": "Common name for the thoracic basket which protect the heart & lungs",
+        "answer": "rib cage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FICTIONAL DETECTIVES",
+        "value": 800,
+        "question": "He's described in \"The Long Goodbye\" as \"Tarzan on a big red scooter\"",
+        "answer": "Philip Marlowe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COLORS",
+        "value": 1600,
+        "question": "Color mentioned in the titles of 2 1980s best-selling novels by Tom Clancy",
+        "answer": "Red",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 800,
+        "question": "How Victoria was related to Albert before their marriage",
+        "answer": "(first) cousins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 1600,
+        "question": "While a person's might be anger or depression a verb's might be indicative or subjunctive",
+        "answer": "mood",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 800,
+        "question": "In \"Play Misty For Me\", she played the woman who wanted \"Misty\" played for her",
+        "answer": "Jessica Walter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BONES",
+        "value": 800,
+        "question": "The town drunk might not know that this word also describes cartilage that's been turned into bone",
+        "answer": "ossified (ossification)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COLORS",
+        "value": 1000,
+        "question": "Color title of the 1959 Sammy Turner hit song that's \"Dilly Dilly\"",
+        "answer": "\"Lavender Blue\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 1000,
+        "question": "Known as \"the Younger\", he became prime minister in 1783, at only 24 years of age",
+        "answer": "William Pitt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 1000,
+        "question": "Least is the superlative form of this word",
+        "answer": "little",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ACTRESSES",
+        "value": 1000,
+        "question": "Shortest adult woman to win an Oscar, this 4'9\" actress lived \"dangerously\" with Mel Gibson in 1982",
+        "answer": "Linda Hunt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BONES",
+        "value": 1000,
+        "question": "Turtles & snakes don't have one of these bones commonly called a breastbone",
+        "answer": "sternum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICANA",
+    "clue": "The U.S. flag flies 24 hours a day over both his birthplace & his grave",
+    "answer": "Francis Scott Key"
+  },
+  "gameId": "989",
+  "gameDate": "Thursday, December 15, 1988"
+}

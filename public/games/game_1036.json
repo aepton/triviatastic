@@ -1,0 +1,565 @@
+{
+  "title": "Show #3961 - Monday, November 19, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "BRIDGING THE WORLD",
+      "OLD GLORY",
+      "POETRY FILL IN THE BLANK",
+      "GOOD EATS",
+      "ALL SPORT",
+      "COW TIPPING"
+    ],
+    "clues": [
+      {
+        "category": "BRIDGING THE WORLD",
+        "value": 100,
+        "question": "The \"Feelin' Groovy\" Queensboro Bridge",
+        "answer": "New York City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 100,
+        "question": "When the flag's condition makes it no longer fit for display, it should be destroyed, preferably this way",
+        "answer": "by burning",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POETRY FILL IN THE BLANK",
+        "value": 100,
+        "question": "\"A thing of ____ is a joy forever: its loveliness increases\"",
+        "answer": "beauty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GOOD EATS",
+        "value": 100,
+        "question": "For starters, hail this dish made of romaine lettuce, grated cheese, croutons & anchovies",
+        "answer": "a Caesar salad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ALL SPORT",
+        "value": 100,
+        "question": "In a stunning 2001 Super Bowl triumph, this football team beat the Giants 34-7",
+        "answer": "the Baltimore Ravens",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COW TIPPING",
+        "value": 100,
+        "question": "You can use extreme heat or the newer method of extreme cold for this type of iron to mark your cattle",
+        "answer": "a branding iron",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BRIDGING THE WORLD",
+        "value": 200,
+        "question": "Seen here:The Bay Bridge",
+        "answer": "San Francisco-Oakland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 200,
+        "question": "Some say schoolteacher B.J. Cigrand began Flag Day on June 14, 1885 in this \"Dairy State\"",
+        "answer": "Wisconsin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POETRY FILL IN THE BLANK",
+        "value": 200,
+        "question": "\"In a kingdom by the sea, that a maiden there lived whom you may know by the name of ____ ____\"",
+        "answer": "Annabel Lee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GOOD EATS",
+        "value": 200,
+        "question": "This purple-skinned vegetable (which is really a fruit) is popularly served parmigiana",
+        "answer": "an eggplant",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ALL SPORT",
+        "value": 200,
+        "question": "New Winter Olympic sports in Salt Lake City in 2002 will include a women's version of this sport that uses a 2-man sled",
+        "answer": "a bobsled",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COW TIPPING",
+        "value": 200,
+        "question": "If your cow has blisters, check for this virus which had a new outbreak in Great Britain in Feb. 2001",
+        "answer": "hoof-and-mouth",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BRIDGING THE WORLD",
+        "value": 300,
+        "question": "Pontchartrain Bridge (nearby)",
+        "answer": "New Orleans",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 300,
+        "question": "By law the U.S. flag flies 24 hours a day over the village green in this town where the revolution began",
+        "answer": "Lexington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POETRY FILL IN THE BLANK",
+        "value": 300,
+        "question": "\"____ ____ comes on little cat feet\"",
+        "answer": "The fog",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GOOD EATS",
+        "value": 300,
+        "question": "Whether you like these nuts plain, chocolate-covered or in cookies, the Mauna Loa Co. sells it all",
+        "answer": "macadamia nuts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ALL SPORT",
+        "value": 300,
+        "question": "This Major League Baseball team's fans are famous for their \"tomahawk chop\"",
+        "answer": "the Atlanta Braves",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COW TIPPING",
+        "value": 300,
+        "question": "(Sarah of the Clue Crew milks a cow at the Orange County Fair.)  Most of the milk we drink has been fortified, pasteurized, & this, to prevent the cream from separating",
+        "answer": "homogenized",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BRIDGING THE WORLD",
+        "value": 400,
+        "question": "Pont Neuf",
+        "answer": "Paris",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 400,
+        "question": "The U.S. flag first flew in a foreign port on Dec. 2, 1777 when he sailed the Ranger into Nantes, France",
+        "answer": "(John Paul) Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POETRY FILL IN THE BLANK",
+        "value": 400,
+        "question": "\"Do I dare to eat a ____?  I shall wear white flannel trousers, and walk upon the beach\"",
+        "answer": "peach",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GOOD EATS",
+        "value": 800,
+        "question": "The name of this fruit is from the Latin granatum, meaning \"fruit of many seeds\", & rightfully so!",
+        "answer": "a pomegranate",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ALL SPORT",
+        "value": 400,
+        "question": "Previous all-around NCAA champions in this sport include Mitch Gaylord & Kurt Thomas",
+        "answer": "gymnastics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COW TIPPING",
+        "value": 400,
+        "question": "A cow has 4 of these organs, each divided into 4 parts: the rumen, reticulum, omasum & abomasum",
+        "answer": "the stomach",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BRIDGING THE WORLD",
+        "value": 500,
+        "question": "Bridge of Sighs",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OLD GLORY",
+        "value": 500,
+        "question": "The stripes on the U.S. flag were probably adopted from this patriot group's flag which had 5 red & 4 white stripes",
+        "answer": "the Sons of Liberty",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POETRY FILL IN THE BLANK",
+        "value": 500,
+        "question": "\"Because I could not stop for Death, he kindly stopped for me--The carriage held but just Ourselves & ____\"",
+        "answer": "immortality",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GOOD EATS",
+        "value": 500,
+        "question": "On the West Coast if you have these, chances are they're Dungeness",
+        "answer": "crabs",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ALL SPORT",
+        "value": 500,
+        "question": "In Olympic track & field running events, only the marathon is longer than this event",
+        "answer": "10,000 meters",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COW TIPPING",
+        "value": 500,
+        "question": "Improving the diet of cows can greatly reduce the emissions of this greenhouse gas",
+        "answer": "methane",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BIG WOMEN ON CAMPUS",
+      "THEATRE STUFF",
+      "COLLEGE MOVIES",
+      "MUSIC CLASS",
+      "\"I\" OPENERS",
+      "CLOSERS"
+    ],
+    "clues": [
+      {
+        "category": "BIG WOMEN ON CAMPUS",
+        "value": 200,
+        "question": "Molly Zahn & Emma Brunskill get to be big women on this campus as 2001 Rhodes Scholars",
+        "answer": "Oxford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THEATRE STUFF",
+        "value": 200,
+        "question": "(Jimmy of the Clue Crew lets out a yell from the street up to a balcony.)  Stella!  I'm rehearsing to play Stanley Kowalski, like Marlon Brando did in this film",
+        "answer": "Streetcar Named Desire",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 200,
+        "question": "This actor turns into a Klump, a Klump of burning love--Buddy Love--in \"Nutty Professor II: The Klumps\"",
+        "answer": "Eddie Murphy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MUSIC CLASS",
+        "value": 200,
+        "question": "Used for performances, this largest piano is about 9 feet long",
+        "answer": "a grand piano",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"I\" OPENERS",
+        "value": 200,
+        "question": "In a car it's the key to starting your engine",
+        "answer": "the ignition",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BIG WOMEN ON CAMPUS",
+        "value": 400,
+        "question": "In 1980, Andrea Hollen, seen here, became the first woman graduate of this institution",
+        "answer": "West Point",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THEATRE STUFF",
+        "value": 400,
+        "question": "Commedia erudita was the written drama of Italy's Renaissance, in contrast to this improvised form",
+        "answer": "commedia dell'arte",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 400,
+        "question": "In \"Circle of Friends\", Minnie Driver & her pals attend Trinity College in this Irish city",
+        "answer": "Dublin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MUSIC CLASS",
+        "value": 400,
+        "question": "The name of this wooden flute sounds like a device on which you'd tape your favorite music",
+        "answer": "a recorder",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"I\" OPENERS",
+        "value": 400,
+        "question": "Alanis Morissette says \"It's like rain on your wedding day... a free ride when you've already paid\", \"Isn't it\" this?",
+        "answer": "ironic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CLOSERS",
+        "value": 400,
+        "question": "Reseal a bottle of this with the original cork & you may find by morning the carbonation has forced it out",
+        "answer": "champagne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BIG WOMEN ON CAMPUS",
+        "value": 600,
+        "question": "In 2001 Gao Zhan of American University was convicted of this in China, but released",
+        "answer": "espionage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THEATRE STUFF",
+        "value": 600,
+        "question": "James Lipton, seen here, hosts the cable TV series that takes us inside this famed acting school",
+        "answer": "the Actors Studio",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 600,
+        "question": "I would have gone to law school myself if it were anything like this Reese Witherspoon film",
+        "answer": "Legally Blonde",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MUSIC CLASS",
+        "value": 600,
+        "question": "From the Greek for \"wood voice\", it's the instrument heard here",
+        "answer": "a xylophone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"I\" OPENERS",
+        "value": 600,
+        "question": "Until 1930 it was officially known as Constantinople",
+        "answer": "Istanbul",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CLOSERS",
+        "value": 600,
+        "question": "A proverb says \"don't close\" this \"after the horse runs away\"",
+        "answer": "the barn door",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BIG WOMEN ON CAMPUS",
+        "value": 800,
+        "question": "Donna Shalala is president of this university not in her native Ohio but in Florida",
+        "answer": "Miami",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THEATRE STUFF",
+        "value": 1600,
+        "question": "This absurdist who wrote \"The Bald Soprano\" said the 3 biggest influences on his work were Harpo, Chico & Groucho",
+        "answer": "Ionesco",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 800,
+        "question": "Robin Williams played an absent-minded professor who invents a rubbery substance in this 1997 remake",
+        "answer": "Flubber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MUSIC CLASS",
+        "value": 800,
+        "question": "While he didn't invent it, W.C. Handy is often considered \"the father of\" this moody music",
+        "answer": "the blues",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"I\" OPENERS",
+        "value": 1600,
+        "question": "Something's fishy in this zoology branch that studies the life & habits of fishies",
+        "answer": "ichthyology",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CLOSERS",
+        "value": 800,
+        "question": "To properly turn off your computer running Microsoft Windows 95 or 98, first click \"Start\", then this",
+        "answer": "Shut Down",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BIG WOMEN ON CAMPUS",
+        "value": 1000,
+        "question": "Anatomist Florence Sabin was the first woman member of what's now this \"wealthy\" NYC university",
+        "answer": "Rockefeller University",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THEATRE STUFF",
+        "value": 1000,
+        "question": "From the Latinized form of his name, it's the adjective for drama written during the reign of King James I",
+        "answer": "Jacobean",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COLLEGE MOVIES",
+        "value": 1000,
+        "question": "In \"Good Will Hunting\", Matt Damon played a hunky math genius toiling as a janitor at this university",
+        "answer": "MIT",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MUSIC CLASS",
+        "value": 1000,
+        "question": "By the time you graduate you should know that he composed the following",
+        "answer": "(Sir Edward) Elgar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"I\" OPENERS",
+        "value": 1000,
+        "question": "It's the body's ability to fight off disease, or what \"Survivor\" contestants hope to win",
+        "answer": "immunity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CLOSERS",
+        "value": 1000,
+        "question": "Give us this term for the stitch used to close a wound--or has the catgut your tongue?",
+        "answer": "suture",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN LITERATURE",
+    "clue": "John Steinbeck originally called this 1937 short novel \"Something That Happened\"",
+    "answer": "Of Mice and Men"
+  },
+  "gameId": "3961",
+  "gameDate": "Monday, November 19, 2001"
+}

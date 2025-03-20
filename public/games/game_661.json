@@ -1,0 +1,574 @@
+{
+  "title": "Show #4892 - Tuesday, December 13, 2005",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE CLASS",
+      "NFL NICKNAMES",
+      "AMERICANA",
+      "ROUGH ALTERNATE LITERARY ENDINGS",
+      "YOU'RE JUST \"GR\"EAT",
+      "THE APPLE OF MY EYE"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE CLASS",
+        "value": 200,
+        "question": "Your body has millions of these glands, up to 625 per square inch of skin, & they're probably now working overtime",
+        "answer": "sweat glands",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NFL NICKNAMES",
+        "value": 200,
+        "question": "\"Broadway Joe\"",
+        "answer": "Joe Namath",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AMERICANA",
+        "value": 200,
+        "question": "In the 1920s Alvin \"Shipwreck\" Kelly made a name for himself by sitting atop these, often for days at a time",
+        "answer": "flagpoles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ROUGH ALTERNATE LITERARY ENDINGS",
+        "value": 200,
+        "question": "Farmer Arable dabbed the napkin at his mouth.  Mmm!  That Wilbur...  \"Some pig\", indeed!",
+        "answer": "Charlotte's Web",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE JUST \"GR\"EAT",
+        "value": 200,
+        "question": "One particle of sand",
+        "answer": "a grain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE APPLE OF MY EYE",
+        "value": 200,
+        "question": "The 2005 version of the Mac operating system shares its name with this tawny Asian feline",
+        "answer": "a tiger",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 400,
+        "question": "Total number of sides on a Klein bottle or a Mobius strip",
+        "answer": "one",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NFL NICKNAMES",
+        "value": 400,
+        "question": "\"Mean Joe\"",
+        "answer": "Joe Greene",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AMERICANA",
+        "value": 400,
+        "question": "An air and space museum in Wapakoneta, Ohio is named for this Wapakoneta native",
+        "answer": "Neil Armstrong",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ROUGH ALTERNATE LITERARY ENDINGS",
+        "value": 400,
+        "question": "Jenny told me \"Love means never having to say you're sorry\".  But now she was gone, & that nurse was giving me the eye.",
+        "answer": "Love Story",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE JUST \"GR\"EAT",
+        "value": 400,
+        "question": "It's the geographic feature mentioned in Arizona's state nickname",
+        "answer": "the Grand Canyon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE APPLE OF MY EYE",
+        "value": 400,
+        "question": "The Apple iBook & Powerbook are this type of portable computer",
+        "answer": "a laptop (or a notebook)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 600,
+        "question": "If the solar system's 9 planets were lined up smallest to largest, Earth would be this number in line",
+        "answer": "fifth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NFL NICKNAMES",
+        "value": 600,
+        "question": "\"The Refrigerator\"",
+        "answer": "William Perry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AMERICANA",
+        "value": 600,
+        "question": "Robert E. Lee's wife, Mary Ann Randolph Custis, was the great-granddaughter of this first lady",
+        "answer": "Martha Washington",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ROUGH ALTERNATE LITERARY ENDINGS",
+        "value": 600,
+        "question": "Enraged, Lemuel tore the ropes from his body.  His captors were \"not six inches high\"!  His boot rose ominously.",
+        "answer": "Gulliver's Travels",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE JUST \"GR\"EAT",
+        "value": 600,
+        "question": "Not only did Buck Henry pen this 1967 coming-of-age film classic, he played a hotel desk clerk, too",
+        "answer": "The Graduate",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE APPLE OF MY EYE",
+        "value": 600,
+        "question": "Making $1 a year at Apple, he's the Guinness World Record holder for lowest paid chief executive officer",
+        "answer": "(Steve) Jobs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 800,
+        "question": "This prized natural substance is made up of alternating thin plates of calcium carbonate & conchiolin",
+        "answer": "mother of pearl",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NFL NICKNAMES",
+        "value": 800,
+        "question": "\"Too Tall\"",
+        "answer": "(Ed) Jones",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AMERICANA",
+        "value": 800,
+        "question": "In 1811 work began on the 1st national highway, the Cumberland Road, between Illinois & Cumberland in this state",
+        "answer": "Maryland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ROUGH ALTERNATE LITERARY ENDINGS",
+        "value": 800,
+        "question": "Kitty & Levin's marriage is great, she thought.  My guy stinks.  With that, she pushed Hubby under the train.  Whoomp!",
+        "answer": "Anna Karenina",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE JUST \"GR\"EAT",
+        "value": 800,
+        "question": "In 1967 \"The Colonel's Coup\" overthrew the monarchy in this country",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE APPLE OF MY EYE",
+        "value": 800,
+        "question": "\"Take off\" & \"land\" information wirelessly with this Apple WiFi device",
+        "answer": "Airport (Express)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE CLASS",
+        "value": 1000,
+        "question": "What we call a Thermos goes back to the flask this scientist invented in the 1890s",
+        "answer": "Dewar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NFL NICKNAMES",
+        "value": 1000,
+        "question": "\"Sweetness\"",
+        "answer": "Walter Payton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AMERICANA",
+        "value": 1000,
+        "question": "Closed in 2002, this lavish NYC restaurant began as a place for immigrants to gather & drink tea",
+        "answer": "the Russian Tea Room",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ROUGH ALTERNATE LITERARY ENDINGS",
+        "value": 1000,
+        "question": "\"Hey, it's Dantes!  He must've escaped in Abbe Faria's burial shroud!\" shouted Villefort.  So they hanged him.  Fin.",
+        "answer": "The Count of Monte Cristo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "YOU'RE JUST \"GR\"EAT",
+        "value": 1000,
+        "question": "The 4 basic forces in physics are the strong nuclear, the weak nuclear, the electromagnetic & this one",
+        "answer": "gravity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE APPLE OF MY EYE",
+        "value": 1000,
+        "question": "This \"speedy\" Mac software lets you watch movies or graphics on your PC or Mac computer",
+        "answer": "QuickTime",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PHILOSOPHERS",
+      "ACTORS & ACTRESSES",
+      "VERMONT",
+      "CHESS PAINS",
+      "HISTORIC NAMES",
+      "TAKE A LETTER"
+    ],
+    "clues": [
+      {
+        "category": "PHILOSOPHERS",
+        "value": 400,
+        "question": "This existentialist gave the world \"Nausea\", a philosophical novel, in 1938",
+        "answer": "(Jean-Paul) Sartre",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & ACTRESSES",
+        "value": 400,
+        "question": "The middle name of this \"Kill Bill\" star is Karuna & she has a brother named Mipam",
+        "answer": "Uma Thurman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "VERMONT",
+        "value": 400,
+        "question": "Vermont hogs have lived high off this company, eating ice cream waste & loving it (except for mint Oreo)",
+        "answer": "Ben & Jerry's",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CHESS PAINS",
+        "value": 400,
+        "question": "In the endgame, 2 opposing ones of these pieces that always move on the same color often leads to a draw",
+        "answer": "bishops",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "Julius Caesar burst into tears when he thought of how many lands this man had conquered by Julius' age",
+        "answer": "Alexander the Great",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 400,
+        "question": "The Spanish put a tilde above this letter to indicate a palatal nasal sound",
+        "answer": "N",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 800,
+        "question": "Cartesianism, based on mathematical principles, comes from the Latin verison of his name",
+        "answer": "Rene Descartes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & ACTRESSES",
+        "value": 800,
+        "question": "Born in Vancouver in 1981, on film he \"skywalked\" into space in 2002",
+        "answer": "Hayden Christensen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "VERMONT",
+        "value": 800,
+        "question": "Let's not keep silent about the fact that this president was born in Plymouth Notch, Vermont in 1872",
+        "answer": "Calvin Coolidge",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CHESS PAINS",
+        "value": 800,
+        "question": "In the newspaper, your dumb move that lost a knight would be followed by this symbol, maybe 2 of them",
+        "answer": "question marks",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 800,
+        "question": "Born in 1638, the first child of a 22-year marriage, this king was christened Louis Dieudonne, or \"gift of God\"",
+        "answer": "Louis XIV",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 800,
+        "question": "In ASL this letter is indicated by bending the 3 middle fingers to the palm & extending the thumb & pinkie up",
+        "answer": "Y",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 1200,
+        "question": "A Gershwin song says, \"My nights were sour, spent with\" this gloomy German philosopher",
+        "answer": "Schopenhauer",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & ACTRESSES",
+        "value": 1200,
+        "question": "A star of the \"Matrix\" movies, she was named after a Hollies song",
+        "answer": "Carrie-Anne Moss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "VERMONT",
+        "value": 1200,
+        "question": "While living in Arlington, Vt., he featured many of its residents on his Saturday Evening Post covers",
+        "answer": "Norman Rockwell",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CHESS PAINS",
+        "value": 1200,
+        "question": "A guy looking over a game making annoying suggestions is doing this, from a Yiddish word",
+        "answer": "kibitz",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 1200,
+        "question": "In the 1670s, this Quaker preached in Germany, & many of his listeners later came to his American colony",
+        "answer": "William Penn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 1200,
+        "question": "It precedes \"note\" in a slang term for a hundred-dollar bill",
+        "answer": "C",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 1600,
+        "question": "\"Zarathustra's Sister\" is a biography of Elisabeth & her brother, this philosopher",
+        "answer": "Nietzsche",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & ACTRESSES",
+        "value": 1600,
+        "question": "He delivered the \"Jaws\" speech about the shark attack on the Indianapolis' crew",
+        "answer": "(Robert) Shaw",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "VERMONT",
+        "value": 1600,
+        "question": "From Burlington, you can hop aboard the cruise ship The Spirit of Ethan Allen III & cruise this lake",
+        "answer": "Lake Champlain",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CHESS PAINS",
+        "value": 1600,
+        "question": "(Jimmy of the Clue Crew plays chess with Cheryl.)  By moving my rook, I've given my opponent the nasty shock of discovered this",
+        "answer": "check",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 1600,
+        "question": "In 1889 this 74-year old chancellor instituted old age pensions in Germany",
+        "answer": "Bismarck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 1600,
+        "question": "On a piece of sheet music, play loudly when you come to this letter, short for the Italian meaning \"strong\"",
+        "answer": "f",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PHILOSOPHERS",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew reads from Athens, Greece.)  Stoicism, the name for his school of philosophy, is derived from the stoa; he taught his followers here",
+        "answer": "Zeno",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ACTORS & ACTRESSES",
+        "value": 2000,
+        "question": "OK, one more time: John C. McGinley is on \"Scrubs\"; this actor played Amos in the 2002 film \"Chicago\"",
+        "answer": "John C. Reilly",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "VERMONT",
+        "value": 2000,
+        "question": "In 2004 some residents of this city, Vermont's largest & most bustling ski area, wanted to secede & join N.H.",
+        "answer": "Killington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CHESS PAINS",
+        "value": 2000,
+        "question": "In tournament play, a fallen flag means you've lost because this has happened",
+        "answer": "ran out of time",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 2000,
+        "question": "In 1940 he got more votes than any Republican presidential candidate before him, & still lost",
+        "answer": "Wendell Willkie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TAKE A LETTER",
+        "value": 2000,
+        "question": "It's the symbol for the old British penny",
+        "answer": "d",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FACTS ABOUT THE PRESIDENTS",
+    "clue": "He was the only 20th century president who had previously served as U.S. House Minority Leader",
+    "answer": "Gerald Ford"
+  },
+  "gameId": "4892",
+  "gameDate": "Tuesday, December 13, 2005"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #2416 - Monday, February 20, 1995",
+  "jeopardyRound": {
+    "categories": [
+      "MATH",
+      "TV TRIVIA",
+      "U.S. HISTORY",
+      "LEGENDS",
+      "LONDON",
+      "POTPOURRI"
+    ],
+    "clues": [
+      {
+        "category": "MATH",
+        "value": 100,
+        "question": "The name of this branch of math comes from the Arabic al-jabr, meaning \"restoration\"",
+        "answer": "algebra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 100,
+        "question": "Fans of this '60s sitcom have been called \"Jedheads\"",
+        "answer": "The Beverly Hillbillies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 100,
+        "question": "With the nation in a financial panic, FDR ordered this type of holiday a day after his inauguration",
+        "answer": "bank holiday",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LEGENDS",
+        "value": 100,
+        "question": "Altdorf in the Uri canton is the home of this legendary archer",
+        "answer": "William Tell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LONDON",
+        "value": 100,
+        "question": "The ashes of this father of psychoanalysis are housed in Golders Green Crematorium",
+        "answer": "Sigmund Freud",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 100,
+        "question": "Relatively speaking, this tall timepiece was named for a 19th C. song by Henry C. Work",
+        "answer": "grandfather clock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 200,
+        "question": "Unlike odd numbers, even numbers are divisible by this",
+        "answer": "2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 200,
+        "question": "\"Going to Extremes\" was set on Jantique, a fictional island, but filmed on this island, mon",
+        "answer": "Jamaica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 200,
+        "question": "The Battle of Bladensburg in August 1814 preceded the burning of this city by the British",
+        "answer": "Washington, D.C.",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LEGENDS",
+        "value": 200,
+        "question": "Legend says that the father of this Arthurian wizard was an incubus",
+        "answer": "Merlin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LONDON",
+        "value": 200,
+        "question": "The Tomb of the Unknown Warrior & shrine of Edward the Confessor are in this abbey",
+        "answer": "Westminster Abbey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "It's the kind of bear that symbolizes California on California's state seal",
+        "answer": "grizzly bear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 300,
+        "question": "Rarely used anymore, this calculating device employs logarithmic scales to multiply numbers",
+        "answer": "slide rule",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 300,
+        "question": "Pat Corley, who plays Phil the bartender on this sitcom, is a former ballet dancer",
+        "answer": "Murphy Brown",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 600,
+        "question": "In an 1823 address, he declared that the Americas were closed to new European colonization",
+        "answer": "James Monroe",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LEGENDS",
+        "value": 300,
+        "question": "Vachel Lindsay wrote a poem \"In Praise of\" this wandering seed spreader",
+        "answer": "Johnny Appleseed",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LONDON",
+        "value": 300,
+        "question": "This bridge, London's most spectacular, was built by Jones & Barry in 1894",
+        "answer": "Tower Bridge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 300,
+        "question": "Pinocchio might know that this other name for Florence Fennel rhymes with his name",
+        "answer": "Finocchio",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 400,
+        "question": "These can be measured in degrees or radians",
+        "answer": "angles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 400,
+        "question": "In 1969 this \"Twilight Zone\" host entered a new dimension as host of the game show \"Liars Club\"",
+        "answer": "Rod Serling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "When it first met in 1789, the House of Representatives had 65 members; today it's set at this many",
+        "answer": "435",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LEGENDS",
+        "value": 400,
+        "question": "Dagon, the Philistine god of fertility, is the legendary inventor of this basic piece of farm equipment",
+        "answer": "plow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LONDON",
+        "value": 400,
+        "question": "You can ride down Rotten Row in this 340-acre central London park",
+        "answer": "Hyde Park",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "The first of these language schools was founded in 1878 in Providence, Rhode Island",
+        "answer": "Berlitz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MATH",
+        "value": 500,
+        "question": "These are whole numbers used for counting, including zero & negative numbers",
+        "answer": "integers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 500,
+        "question": "This Sally Field series was set in Puerto Rico",
+        "answer": "The Flying Nun",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 500,
+        "question": "In March 1776 the Marine Corps made its 1st landing, at New Providence in this Caribbean island group",
+        "answer": "the Bahamas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LEGENDS",
+        "value": 500,
+        "question": "Scottish water spirits called Kelpies take the shape of these animals & drown their riders",
+        "answer": "horses",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LONDON",
+        "value": 500,
+        "question": "This structure built for the Great Exhibition of 1851 & later moved was destroyed by fire in 1936",
+        "answer": "Crystal Palace",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 500,
+        "question": "Somers Day is a holiday in this British colony once known as the Somers Islands",
+        "answer": "Bermuda",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FAMOUS NAMES",
+      "NATIONAL PARKS",
+      "ART",
+      "SENATORS",
+      "ANCIENT EGYPT",
+      "LITERATURE"
+    ],
+    "clues": [
+      {
+        "category": "FAMOUS NAMES",
+        "value": 200,
+        "question": "This Russian empress' love of literature promoted a correspondence with Voltaire",
+        "answer": "Catherine the Great",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 200,
+        "question": "Notable ones of these in Yellowstone National Park are Riverside, Daisy & Great Fountain",
+        "answer": "geysers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "In 1950 Spanish painter Joan Miro created a mural for this Cambridge, Mass. university",
+        "answer": "Harvard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SENATORS",
+        "value": 200,
+        "question": "He was presiding over the Senate Nov. 22, 1963 when the news reached him of his brother's death",
+        "answer": "Ted Kennedy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 200,
+        "question": "The first of these structures was created by placing series of mastabas atop each other",
+        "answer": "pyramid",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "In his \"The Martian Chronicles\", Earth begins its colonization of Mars in 1999",
+        "answer": "Ray Bradbury",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 400,
+        "question": "This victor at the Alamo served as president of Mexico 5 different times",
+        "answer": "Santa Anna",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 400,
+        "question": "Inland seas covering Kentucky about 300 million years ago formed this park's limestone",
+        "answer": "Mammoth Cave",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Barbari's \"Dead Bird\" of 1504 is considered the 1st modern example of these paintings of inanimate objects",
+        "answer": "still life",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SENATORS",
+        "value": 400,
+        "question": "In 1980, when he was 33, he was the youngest man ever elected to the Senate from Indiana",
+        "answer": "Dan Quayle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 400,
+        "question": "The Ancient Egyptians used this plant to make rope & sails as well as writing material",
+        "answer": "papyrus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "Marooned Scottish sailor Alexander Selkirk was the inspiration for this fictional shipwrecked man",
+        "answer": "Robinson Crusoe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 600,
+        "question": "Records of his 1673 expedition with Marquette were lost when his canoe capsized on the way back",
+        "answer": "Joliet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 600,
+        "question": "Major attractions of this park include El Capitan & several spectacular waterfalls",
+        "answer": "Yosemite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "Pissarro was the only artist displayed in all of this movement's exhibitions of 1874-1886",
+        "answer": "The Impressionists",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SENATORS",
+        "value": 600,
+        "question": "Nancy Kassebaum has represented this state in the Senate since 1978",
+        "answer": "Kansas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 600,
+        "question": "This salad green was part of the rituals of the god Seth & was thought to have magical properties",
+        "answer": "lettuce",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "This 1934 Henry Miller book wasn't published in the U.S. until 1961",
+        "answer": "Tropic of Cancer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 1600,
+        "question": "Rome's greatest orator, he was also known as Tully",
+        "answer": "Cicero",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 800,
+        "question": "Named for a president, this North Dakota park includes the cabin from his Maltese Cross Ranch",
+        "answer": "Theodore Roosevelt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "While on an expedition, artist Rockwell Kent painted scenes of this southern part of Argentina",
+        "answer": "Tierra del Fuego (or Patagonia)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SENATORS",
+        "value": 800,
+        "question": "In 1989 this husband of Lynda Bird Johnson became Virginia's 1st Democratic senator in 16 years",
+        "answer": "Charles Robb",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 800,
+        "question": "The Restoration Stela gives an account of this young pharaoh's efforts to stabilize the government",
+        "answer": "Tutankhamun",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "This 1972 Richard Adams novel concerns a community of rabbits in Berkshire, England",
+        "answer": "Watership Down",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FAMOUS NAMES",
+        "value": 1000,
+        "question": "This cartographer's first projection map of the world was published in 1569",
+        "answer": "Mercator",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "NATIONAL PARKS",
+        "value": 1000,
+        "question": "The USA's largest Alaska cedar is found in this largest national park in Washington",
+        "answer": "Olympic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 2000,
+        "question": "According to its title, Frans Hals' most famous portrait depicts a cavalier doing this",
+        "answer": "laughing",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SENATORS",
+        "value": 1000,
+        "question": "This W.V. Democrat & president pro tem didn't learn his real name was Cornelius Sale until his teens",
+        "answer": "Robert Byrd",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANCIENT EGYPT",
+        "value": 1000,
+        "question": "The statues of this pharaoh at Abu Simbel are more than 65 feet tall",
+        "answer": "Ramses",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "Professors Hanky & Panky are characters in his \"Erewhon Revisited\"",
+        "answer": "Samuel Butler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE DECLARATION OF INDEPENDENCE",
+    "clue": "At 70, he was the oldest signer of the Declaration of Independence",
+    "answer": "Benjamin Franklin"
+  },
+  "gameId": "2416",
+  "gameDate": "Monday, February 20, 1995"
+}

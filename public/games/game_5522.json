@@ -1,0 +1,574 @@
+{
+  "title": "Show #7467 - Tuesday, February 14, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "STUDYING ABROAD",
+      "SCI-FI BOOKS",
+      "THE CLASSIC MARQUEE INGREDIENT",
+      "\"FR\"",
+      "GOTTA CRAM",
+      "TIME TO PULL AN ALL-NIGHTER"
+    ],
+    "clues": [
+      {
+        "category": "STUDYING ABROAD",
+        "value": 200,
+        "question": "Congratulations! You're a Rhodes Scholar! Now pack your bags because you'll be studying at this university",
+        "answer": "Oxford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCI-FI BOOKS",
+        "value": 200,
+        "question": "The \"hard rain\" in Neal Stephenson's \"Seveneves\" comes from this natural satellite that's broken up & falling to Earth bit by bit",
+        "answer": "the moon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE CLASSIC MARQUEE INGREDIENT",
+        "value": 200,
+        "question": "Benedict or over easy",
+        "answer": "eggs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "\"FR\"",
+        "value": 200,
+        "question": "At Christmas, some people go nutty for this",
+        "answer": "fruitcake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GOTTA CRAM",
+        "value": 200,
+        "question": "The largest crowd for a hockey game came in 2010 when 104,173 fans filled Michigan's \"Big House\" in this city",
+        "answer": "Ann Arbor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TIME TO PULL AN ALL-NIGHTER",
+        "value": 200,
+        "question": "A song by them says, \"The story of my life, I take her home, I drive all night to keep her warm\"",
+        "answer": "One Direction",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 400,
+        "question": "If you're interested in Asian culture, spend a semester abroad studying at Mahidol University in this Thai capital",
+        "answer": "Bangkok",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCI-FI BOOKS",
+        "value": 400,
+        "question": "This Max Brooks novel tells of the drug Phalanx, which failed to stop the Undead Hordes",
+        "answer": "World War Z",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE CLASSIC MARQUEE INGREDIENT",
+        "value": 400,
+        "question": "Bourguignon or tartare",
+        "answer": "beef",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "\"FR\"",
+        "value": 400,
+        "question": "Among the crimes Bernie Madoff pled guilty to: securities this, mail this & wire this",
+        "answer": "fraud",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GOTTA CRAM",
+        "value": 400,
+        "question": "Every seat at the play is taken; it's SRO, short for this",
+        "answer": "standing room only",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TIME TO PULL AN ALL-NIGHTER",
+        "value": 400,
+        "question": "We'll be up for a while, so let's watch \"Clubland\" on this channel & then \"Music Feed\" into the wee hours",
+        "answer": "MTV",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 600,
+        "question": "Your time in Greece would of course include a visit to this ancient temple",
+        "answer": "the Parthenon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCI-FI BOOKS",
+        "value": 600,
+        "question": "Dubbed \"wildly inaccurate\", it \"supplanted the great Encyclopedia Galactica as the... repository of all knowledge\"",
+        "answer": "The Hitchhiker's Guide to the Galaxy",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE CLASSIC MARQUEE INGREDIENT",
+        "value": 600,
+        "question": "E fagioli or primavera",
+        "answer": "pasta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"FR\"",
+        "value": 600,
+        "question": "The one seen here appears on the  wall of a basilica in Italy",
+        "answer": "a fresco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GOTTA CRAM",
+        "value": 600,
+        "question": "If the airplane has too many fliers & you have low priority, you accept this status & hope a seat opens up",
+        "answer": "standby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TIME TO PULL AN ALL-NIGHTER",
+        "value": 600,
+        "question": "It's gonna be an all-out comic binge, starting with all the DC reboots in their \"New\" this number event",
+        "answer": "52",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 800,
+        "question": "A program on Holocaust studies includes a visit to Birkenau, part of this largest concentration camp",
+        "answer": "Auschwitz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCI-FI BOOKS",
+        "value": 800,
+        "question": "Thomas in this James Dashner sci-fi book awakens being \"jerked upward like an old lift in a mine shaft\"",
+        "answer": "The Maze Runner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE CLASSIC MARQUEE INGREDIENT",
+        "value": 800,
+        "question": "Kiev or a la King",
+        "answer": "chicken",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"FR\"",
+        "value": 800,
+        "question": "Bono for U2 or Eddie Vedder for Pearl Jam",
+        "answer": "a frontman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GOTTA CRAM",
+        "value": 800,
+        "question": "In 2016 El Pollo Loco introduced new quesadillas that were called this, something you might say about your fluffy sofa",
+        "answer": "overstuffed",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TIME TO PULL AN ALL-NIGHTER",
+        "value": 800,
+        "question": "Except for 1940 to 1948, this 24-hour endurance race has been run in France every year since 1923",
+        "answer": "Le Mans",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STUDYING ABROAD",
+        "value": 1000,
+        "question": "Students can work with leading physicists at this center near Geneva that studies subatomic particles",
+        "answer": "CERN",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCI-FI BOOKS",
+        "value": 1000,
+        "question": "Hiroshi Sakurazaka's \"All You Need Is Kill\" was \"reborn\" in 2014 as this Tom Cruise flick",
+        "answer": "Edge of Tomorrow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE CLASSIC MARQUEE INGREDIENT",
+        "value": 1000,
+        "question": "Louie or cakes",
+        "answer": "crab",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"FR\"",
+        "value": 1000,
+        "question": "It entered our vocabulary in 1953 when the Oil & Gas Journal called it \"a new exploratory tool\"",
+        "answer": "fracking",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GOTTA CRAM",
+        "value": 1000,
+        "question": "It's any condition where things grind to a halt, specifically a traffic jam where cars don't clear an intersection",
+        "answer": "gridlock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TIME TO PULL AN ALL-NIGHTER",
+        "value": 1000,
+        "question": "This alliterative country singer went bonkers in 2014 playing 10 shows in 10 cities in 24 hours",
+        "answer": "Hunter Hayes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ALL KINDS OF TV",
+      "CLASSICAL MUSIC",
+      "10-LETTER WORDS",
+      "SIX FEET UNDER",
+      "A HISTORY LESSON",
+      "GET A JOB!"
+    ],
+    "clues": [
+      {
+        "category": "ALL KINDS OF TV",
+        "value": 400,
+        "question": "The \"Dr.\"-ate of this mustached talk show host is in clinical psychology",
+        "answer": "Dr. Phil",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "\"Glory to God in the highest\" is one of numerous Biblical verses used in the text of this Handel work",
+        "answer": "Messiah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 400,
+        "question": "One's partner in crime",
+        "answer": "an accomplice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SIX FEET UNDER",
+        "value": 400,
+        "question": "The 6 feet (OK, legs) under an insect are typically attached to this, the middle of its 3 body sections",
+        "answer": "the thorax",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "A HISTORY LESSON",
+        "value": 400,
+        "question": "In 1249 King Alfonso III eliminated the last Moorish stronghold in this neighbor of Spain",
+        "answer": "Portugal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 400,
+        "question": "George Balanchine was a renowned one of these, a creator of dances",
+        "answer": "choreographer",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ALL KINDS OF TV",
+        "value": 800,
+        "question": "You'll find \"Trisha's Southern Kitchen\" on this network",
+        "answer": "the Food Network",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "\"Gran Vals\" by Francisco Tárrega would still be pretty obscure if it hadn't become one of these, courtesy of Nokia",
+        "answer": "a ringtone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 800,
+        "question": "Name shared by the decorative device & the bird seen here",
+        "answer": "a nutcracker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SIX FEET UNDER",
+        "value": 800,
+        "question": "For these biting pests of the family Culicidae, that annoying whine helps attract mates",
+        "answer": "mosquitoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "A HISTORY LESSON",
+        "value": 800,
+        "question": "Czar Alexander II signed the 1867 Treaty of Cession that gave this territory to the United States",
+        "answer": "Alaska",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 800,
+        "question": "You can use \"person\" instead of \"boy\" in this word for one who clears tables",
+        "answer": "busboy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ALL KINDS OF TV",
+        "value": 1200,
+        "question": "In 2017 Kaitlin Olson of this show set in a Pennsylvania bar got a new sitcom as \"The Mick\"",
+        "answer": "It's Always Sunny in Philadelphia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1200,
+        "question": "Originally, his \"A Little Night Music\" contained an additional minuet, but it has been lost",
+        "answer": "Mozart",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 1200,
+        "question": "\"Madam, I'm Adam\" is a famous one",
+        "answer": "a palindrome",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SIX FEET UNDER",
+        "value": 1200,
+        "question": "That's no fun! The Indian walking this usually reproduces via parthenogenesis",
+        "answer": "a stick",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "A HISTORY LESSON",
+        "value": 1200,
+        "question": "In 1513 Machiavelli was accused of conspiracy against this Florentine family & was tortured on the rack",
+        "answer": "the Medicis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 1200,
+        "question": "They get their name from where they might wait for the politicians whose votes they want to influence",
+        "answer": "lobbyist",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ALL KINDS OF TV",
+        "value": 1600,
+        "question": "This CBS series about FBI profilers rolls on, Hotch or no Hotch",
+        "answer": "Criminal Minds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1600,
+        "question": "One of Bartok's last works was a concerto for this instrument that often plays second fiddle to the fiddle",
+        "answer": "viola",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 1600,
+        "question": "It describes the circles seen here",
+        "answer": "concentric",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SIX FEET UNDER",
+        "value": 1600,
+        "question": "These social insects use the \"waggle dance\" to communicate the location of distant food sources",
+        "answer": "bees",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "A HISTORY LESSON",
+        "value": 1600,
+        "question": "In 1608 this captain & a few other colonists left Jamestown & explored the Chesapeake Bay & its tributaries",
+        "answer": "(John) Smith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 1600,
+        "question": "Put in a little O.T. studying & you could be one of these health professionals, an O.T.",
+        "answer": "occupational therapist",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ALL KINDS OF TV",
+        "value": 2000,
+        "question": "MeTV has a pairing of Matlock & this other TV attorney, first name Perry",
+        "answer": "Perry Mason",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 2000,
+        "question": "As choir director for St. Thomas Church in Leipzig, he wrote 6 cantatas known as the \"Christmas Oratorio\"",
+        "answer": "(Johann Sebastian) Bach",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "10-LETTER WORDS",
+        "value": 2000,
+        "question": "Background music for a movie, or a line drawn beneath a word",
+        "answer": "underscore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SIX FEET UNDER",
+        "value": 2000,
+        "question": "Killing weak trees (good) but also healthy ones (not good), the pine engraver is this alliterative type of beetle",
+        "answer": "a bark beetle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "A HISTORY LESSON",
+        "value": 2000,
+        "question": "In 1910 Louis Botha became this country's first prime minister, a post he held until 1919",
+        "answer": "South Africa",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GET A JOB!",
+        "value": 2000,
+        "question": "This profession takes its name from a Greek word meaning \"chief builder\"",
+        "answer": "an architect",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WRITERS",
+    "clue": "A New Orleans literary festival in his honor includes various panels, a walking tour & a Stanley & Stella shouting contest",
+    "answer": "Tennessee Williams"
+  },
+  "gameId": "7467",
+  "gameDate": "Tuesday, February 14, 2017"
+}

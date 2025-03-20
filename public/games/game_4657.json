@@ -1,0 +1,574 @@
+{
+  "title": "Show #4374 - Thursday, September 18, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "BORN ON THE FOURTH OF JULY",
+      "WALL STREET",
+      "PLATOON",
+      "SALVADOR",
+      "THE \"DOOR\"s",
+      "OLIVER STONE"
+    ],
+    "clues": [
+      {
+        "category": "BORN ON THE FOURTH OF JULY",
+        "value": 200,
+        "question": "1826:Composed \"Jeanie With The Light Brown Hair\" & \"Oh! Susanna\"",
+        "answer": "Stephen Foster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WALL STREET",
+        "value": 200,
+        "question": "Originally the rolls of paper on which stock info was printed, it's come to mean the flow of prices on electronic boards",
+        "answer": "ticker tape",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PLATOON",
+        "value": 200,
+        "question": "From 1968 to 1971, a platoon of the U.S. Army's 47th Infantry specialized in the use of this breed of scout dogs",
+        "answer": "German Shepherds",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SALVADOR",
+        "value": 200,
+        "question": "Salvador Dali said, \"At the age of six I wanted to be a cook. At seven I wanted to be\" this French Emperor",
+        "answer": "Napoleon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE \"DOOR\"s",
+        "value": 200,
+        "question": "This 3-word term refers to how Fuller Brush men & Avon ladies sell their products",
+        "answer": "door-to-door",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "OLIVER STONE",
+        "value": 200,
+        "question": "This Oliver Stone film is based in part on New Orleans D.A. Jim Garrison's book \"On the Trail of the Assassins\"",
+        "answer": "JFK",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BORN ON THE FOURTH OF JULY",
+        "value": 400,
+        "question": "1804:His first novel was \"Fanshawe\" & his last was \"The Marble Faun\"",
+        "answer": "Nathaniel Hawthorne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WALL STREET",
+        "value": 400,
+        "question": "A gambling term, it now refers to stocks with a long history of sustained earnings & uninterrupted dividends",
+        "answer": "blue chips",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PLATOON",
+        "value": 400,
+        "question": "Platoon level training for these Navy commandos includes nighttime parachute jumps & underwater demolition",
+        "answer": "SEALs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SALVADOR",
+        "value": 400,
+        "question": "This \"Spartacus\" star once lived next door to Dali, & described him as \"a crazy man\"",
+        "answer": "Kirk Douglas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE \"DOOR\"s",
+        "value": 400,
+        "question": "On TV's \"Rhoda\", it was Carlton's job",
+        "answer": "doorman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "OLIVER STONE",
+        "value": 400,
+        "question": "The 2003 documentary \"Comandante\" recounts Oliver Stone's meeting with this dictator",
+        "answer": "Fidel Castro",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BORN ON THE FOURTH OF JULY",
+        "value": 600,
+        "question": "1883:Cartoonist responsible for the convoluted design seen here",
+        "answer": "Rube Goldberg",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WALL STREET",
+        "value": 600,
+        "question": "This \"deep\" 3-letter nickname refers to an area of the exchange where a particular stock is traded",
+        "answer": "the pit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PLATOON",
+        "value": 600,
+        "question": "This lowest-ranking officer usually leads a platoon",
+        "answer": "second lieutenant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SALVADOR",
+        "value": 600,
+        "question": "Dali called this fellow Spanish artist a genius, and painted a bizarre 1947 portrait of him",
+        "answer": "Picasso",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE \"DOOR\"s",
+        "value": 600,
+        "question": "Don't fall for this one! It's a hinged or sliding portal in a floor",
+        "answer": "trap door",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "OLIVER STONE",
+        "value": 600,
+        "question": "Oliver Stone & Alan Parker co-wrote the screenplay for this Madonna musical",
+        "answer": "Evita",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BORN ON THE FOURTH OF JULY",
+        "value": 800,
+        "question": "1807:His Red Shirts captured Sicily & Naples in 1860",
+        "answer": "Garibaldi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WALL STREET",
+        "value": 800,
+        "question": "This term refers to the amount of money that must be deposited when borrowing toward purchasing securities",
+        "answer": "margin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PLATOON",
+        "value": 800,
+        "question": "Itself a subdivision of a company, a platoon consists of 2 to 4 of these units made up of 10 to 12 people",
+        "answer": "a squad",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SALVADOR",
+        "value": 800,
+        "question": "Dali wrote that this art movement \"was to be more and more identified with me, and with me only\"",
+        "answer": "Surrealism",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE \"DOOR\"s",
+        "value": 800,
+        "question": "\"Welcoming\" name of the U.S. trade policy toward China announced in 1899",
+        "answer": "Open Door",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "OLIVER STONE",
+        "value": 800,
+        "question": "This actor took direction from Oliver Stone as football coach Tony D'Amato in \"Any Given Sunday\"",
+        "answer": "Al Pacino",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BORN ON THE FOURTH OF JULY",
+        "value": 1000,
+        "question": "Art Nouveau Austrian who originated the art seen here",
+        "answer": "Gustav Klimt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WALL STREET",
+        "value": 1000,
+        "question": "Using a bull as its symbol, it's one of the world's largest managers of financial assets",
+        "answer": "Merrill Lynch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PLATOON",
+        "value": 1000,
+        "question": "In this Norman Mailer novel, an American platoon is stationed on the Japanese-held island of Anopopei",
+        "answer": "The Naked and the Dead",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SALVADOR",
+        "value": 1000,
+        "question": "There's a magnificent museum devoted to Dali in this \"saintly\" Florida city",
+        "answer": "St. Petersburg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE \"DOOR\"s",
+        "value": 1000,
+        "question": "This Edna Ferber-George S. Kaufman play tells the story of a group of aspiring actresses living in a boarding house",
+        "answer": "Stage Door",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "OLIVER STONE",
+        "value": 1000,
+        "question": "Oliver Stone's 1994 film \"Natural Born Killers\" starred Woody Harrelson & her as the title psychopaths",
+        "answer": "Juliette Lewis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HABITAT FOR HUMANITY",
+      "HYBRID FRUIT",
+      "19th CENTURY AMERICAN LIT",
+      "I'VE GOT THAT ALBUM!",
+      "LANGUAGES",
+      "TODAY'S FORECAST"
+    ],
+    "clues": [
+      {
+        "category": "HABITAT FOR HUMANITY",
+        "value": 400,
+        "question": "He said he learned more about the needy working with Habitat for Humanity than as Governor or President",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HYBRID FRUIT",
+        "value": 400,
+        "question": "A lime crossed with this exotic citrus fruit equals a limequat",
+        "answer": "a kumquat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICAN LIT",
+        "value": 400,
+        "question": "Harriet Beecher Stowe said that God wrote this book, \"I merely did his dictation\"",
+        "answer": "Uncle Tom's Cabin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "I'VE GOT THAT ALBUM!",
+        "value": 400,
+        "question": "1982:\"Billie Jean\",\"Beat It\",\"Wanna Be Startin' Somethin'\"",
+        "answer": "Thriller",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "Of Dravidian, Sino-Tibetan or Indo-European, the language family with the most speakers",
+        "answer": "Indo-European",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TODAY'S FORECAST",
+        "value": 400,
+        "question": "\"I Got You Babe\" is partly Cher, partly this",
+        "answer": "Sonny (sunny)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HABITAT FOR HUMANITY",
+        "value": 800,
+        "question": "(Jimmy Carter presents the clue.)  Each partner family has to invest 500 hours of labor, called the sweat type of this financial term",
+        "answer": "equity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HYBRID FRUIT",
+        "value": 800,
+        "question": "The original cross between this fruit & a plum resulted in a plumcot",
+        "answer": "an apricot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICAN LIT",
+        "value": 800,
+        "question": "In 1880 an illustrated volume of his \"A Tramp Abroad\" included an appendix titled \"The Awful German Language\"",
+        "answer": "Mark Twain",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "I'VE GOT THAT ALBUM!",
+        "value": 800,
+        "question": "1969:\"Something\",\"Here Comes The Sun\",\"Come Together\"",
+        "answer": "Abbey Road",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 800,
+        "question": "1 of 2 African nations for which Portuguese is the official language",
+        "answer": "(1 of) Angola or Mozambique",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TODAY'S FORECAST",
+        "value": 800,
+        "question": "Get your brolly out--Elizabeth II does it over England",
+        "answer": "reign (rain)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HABITAT FOR HUMANITY",
+        "value": 1200,
+        "question": "(Jimmy Carter presents the clue.)  In 2002, these were at 40-year lows in the U.S., but still not as low as Habitat's, which are zero",
+        "answer": "mortgage interest rates",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HYBRID FRUIT",
+        "value": 1200,
+        "question": "Burpee says that its hybrid Bartlett melon tastes like an apple & the Bartlett type of this",
+        "answer": "a pear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICAN LIT",
+        "value": 1200,
+        "question": "This 1854 series of essays on self-reliance was subtitled \"Or, Life in the Woods\"",
+        "answer": "Walden",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "I'VE GOT THAT ALBUM!",
+        "value": 1200,
+        "question": "1979:\"Comfortably Numb\",\"Another Brick In The Wall\",\"Is There Anybody Out There?\"",
+        "answer": "The Wall",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1200,
+        "question": "This Celtic dialect of the Isle of Man is a form of Goidelic, which is closely related to Scottish Gaelic",
+        "answer": "Manx",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TODAY'S FORECAST",
+        "value": 1200,
+        "question": "There's a slight this, our 19th President",
+        "answer": "Hayes (haze)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HABITAT FOR HUMANITY",
+        "value": 1600,
+        "question": "(Jimmy Carter presents the clue.)  It's a horizontal framing member over a door, or what I'll try not to take as I walk around the site",
+        "answer": "a header",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HYBRID FRUIT",
+        "value": 1600,
+        "question": "The tangelo gets its name from the tangerine & this grapefruit relative",
+        "answer": "pomelo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICAN LIT",
+        "value": 1600,
+        "question": "In \"The Scarlet Letter\", she \"raised a great scandal ... in godly Master Dimmesdale's church\"",
+        "answer": "Hester Prynne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "I'VE GOT THAT ALBUM!",
+        "value": 1600,
+        "question": "1977:\"God Save The Queen\",\"Anarchy In The U.K.\",\"Pretty Vacant\"",
+        "answer": "Never Mind the Bollocks",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1600,
+        "question": "Pilipino is largely based on this indigenous language of central Luzon",
+        "answer": "Tagalog",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TODAY'S FORECAST",
+        "value": 1600,
+        "question": "Hire too many actors for your play, or toss your fishing line out too far",
+        "answer": "overcast",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HABITAT FOR HUMANITY",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew presents the clue.)  Habitat's founder, Millard Fuller, wrote a book called \"The Theology of\" this striking tool",
+        "answer": "the hammer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HYBRID FRUIT",
+        "value": 2000,
+        "question": "It's obtained by crossing the raspberry, the blackberry & the loganberry",
+        "answer": "boysenberry",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "19th CENTURY AMERICAN LIT",
+        "value": 2000,
+        "question": "This James Fenimore Cooper character is known as Hawkeye, Long Rifle & Pathfinder",
+        "answer": "Natty Bumppo",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "I'VE GOT THAT ALBUM!",
+        "value": 2000,
+        "question": "1993:\"Leaving Las Vegas\",\"Run, Baby, Run\",\"All I Wanna Do\"",
+        "answer": "Tuesday Night Music Club",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 2000,
+        "question": "The Cuzco dialect of this language was the language of the Incan empire",
+        "answer": "Quechua",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "TODAY'S FORECAST",
+        "value": 2000,
+        "question": "In October 2002 this Hannah who reported for CNN & NBC joined the new CBS \"Early Show\"",
+        "answer": "Storm",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ADVENTURERS",
+    "clue": "On his deathbed in 1324, he reportedly said, \"I have not told half of what I saw\"",
+    "answer": "Marco Polo"
+  },
+  "gameId": "4374",
+  "gameDate": "Thursday, September 18, 2003"
+}

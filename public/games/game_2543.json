@@ -1,0 +1,574 @@
+{
+  "title": "Show #5500 - Friday, July 4, 2008",
+  "jeopardyRound": {
+    "categories": [
+      "THE LIBERTY BELL",
+      "I'LL HAVE SECONDS",
+      "NORSE MYTHOLOGY",
+      "MAG-NIFICENT",
+      "THE SCREEN ACTORS GUILD",
+      "\"SAG\""
+    ],
+    "clues": [
+      {
+        "category": "THE LIBERTY BELL",
+        "value": 200,
+        "question": "This Pennsylvania city officially owns the bell",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "I'LL HAVE SECONDS",
+        "value": 200,
+        "question": "In 70 A.D. the second temple was destroyed in this city",
+        "answer": "Jerusalem",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NORSE MYTHOLOGY",
+        "value": 200,
+        "question": "Nidhogg, one of these mythical fire-breathers, gnaws at the roots of the cosmic tree",
+        "answer": "a dragon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MAG-NIFICENT",
+        "value": 200,
+        "question": "This illustrated mag had a shaky start in 1954 with unpopular coverage of snooty events like yacht races",
+        "answer": "Sports Illustrated",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE SCREEN ACTORS GUILD",
+        "value": 200,
+        "question": "He succeeded Robert Montgomery as Guild president in 1947 & later went on to even bigger things",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SAG\"",
+        "value": 200,
+        "question": "Michigan bay that's part of Lake Huron",
+        "answer": "Saginaw Bay",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE LIBERTY BELL",
+        "value": 400,
+        "question": "Appropriately, it's the number of times the Liberty Bell is symbolically tapped each year on July 4",
+        "answer": "13",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "I'LL HAVE SECONDS",
+        "value": 400,
+        "question": "The USSR's first man in space program was Vostok, \"east\"; its second was Voskhod, or this event in the east",
+        "answer": "sunrise",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NORSE MYTHOLOGY",
+        "value": 400,
+        "question": "This god is known by dozens & dozens of names including Sidfodr, \"Father of Victories\"",
+        "answer": "Odin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MAG-NIFICENT",
+        "value": 400,
+        "question": "This news magazine was started in 1923 so that \"busy men\" could stay informed",
+        "answer": "Time",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE SCREEN ACTORS GUILD",
+        "value": 400,
+        "question": "Of 12,000, 20,000, or 120,000, the one closest to SAG's current U.S. membership",
+        "answer": "120,000",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SAG\"",
+        "value": 400,
+        "question": "It's the ninth astrological sign",
+        "answer": "Sagittarius",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE LIBERTY BELL",
+        "value": 600,
+        "question": "Ironically, the Liberty Bell was rung in February 1761 when this man ascended the throne",
+        "answer": "George III",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "I'LL HAVE SECONDS",
+        "value": 600,
+        "question": "The second & last German emperor of this name took the throne in 1888",
+        "answer": "Wilhelm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NORSE MYTHOLOGY",
+        "value": 600,
+        "question": "For Norse gods, the \"core\" of eternal youth was found in these fruits supplied by the goddess Iduna",
+        "answer": "apples",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MAG-NIFICENT",
+        "value": 600,
+        "question": "Articles in the first edition of this magazine, in 1936, featured ratings of cereal, soap & stockings",
+        "answer": "Consumer Reports",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE SCREEN ACTORS GUILD",
+        "value": 600,
+        "question": "In 2008 the SAG Award for a Stunt Ensemble in a Movie went to this Matt Damon Flick",
+        "answer": "The Bourne Ultimatum",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SAG\"",
+        "value": 600,
+        "question": "It's purple in a popular Zane Grey title",
+        "answer": "sage (Riders of the Purple Sage)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE LIBERTY BELL",
+        "value": 800,
+        "question": "The bell is 25% tin, 70% this metal",
+        "answer": "copper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "I'LL HAVE SECONDS",
+        "value": 800,
+        "question": "The Second Amendment guarantees the right to bear arms & mentions \"a well regulated\" one of these",
+        "answer": "a militia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NORSE MYTHOLOGY",
+        "value": 800,
+        "question": "Thurheim, or \"Place of Might\", is this god's realm in Asgard",
+        "answer": "Thor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MAG-NIFICENT",
+        "value": 800,
+        "question": "Bell, Edison & Pasteur wrote for this mag, founded in 1872, that also devoted early attention to evolution theory",
+        "answer": "Popular Science",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE SCREEN ACTORS GUILD",
+        "value": 800,
+        "question": "Nominated for an Oscar in 1998, this \"Titanic\" co-star was a founding member of the Screen Actors Guild in 1933",
+        "answer": "Gloria Stuart",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SAG\"",
+        "value": 800,
+        "question": "Giant succulent of the American Southwest",
+        "answer": "the saguaro cactus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE LIBERTY BELL",
+        "value": 1000,
+        "question": "The bell may have cracked in February 1846 while ringing in his 114th birthday",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "I'LL HAVE SECONDS",
+        "value": 1000,
+        "question": "Hercules' second labor was to slay this snakelike water creature",
+        "answer": "the (Lernaean) Hydra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NORSE MYTHOLOGY",
+        "value": 1000,
+        "question": "This trickster shouldn't have stolen Sif's golden hair; he had to replace it with real gold",
+        "answer": "Loki",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MAG-NIFICENT",
+        "value": 1000,
+        "question": "This urbane magazine wrote in its 1925 start that \"it is not edited for the old lady in Dubuque\"",
+        "answer": "The New Yorker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE SCREEN ACTORS GUILD",
+        "value": 1000,
+        "question": "SAG shares jurisdiction over TV actors with this sister union",
+        "answer": "A(merican) F(ederation of) T(elevision and) R(adio) A(rtists)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"SAG\"",
+        "value": 1000,
+        "question": "Teddy Roosevelt's New York mansion",
+        "answer": "Sagamore Hill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "COUNTRY MUSIC",
+      "AUTHORS' HOMES",
+      "SUE ME!",
+      "TRYING TO MAKE ME GO TO RIYADH",
+      "I SAID \"NO\", \"NO\", \"NO\""
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "A whole lot of shakin' goes on in this science that deals almost exclusively with earthquakes",
+        "answer": "seismology",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 400,
+        "question": "In a 1970s hit, Waylon & Willie urged, \"Mammas don't let your babies grow up to be\" these",
+        "answer": "cowboys",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' HOMES",
+        "value": 400,
+        "question": "Washington Irving's gracious home Sunnyside overlooks this river",
+        "answer": "the Hudson River",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SUE ME!",
+        "value": 400,
+        "question": "After the success of \"Valley of the Dolls\", she proved that \"Once Is Not Enough\"",
+        "answer": "Jacqueline Susann",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TRYING TO MAKE ME GO TO RIYADH",
+        "value": 400,
+        "question": "In the 1940s, Saudi Arabia's revenues in this industry helped fund most of the development of modern Riyadh",
+        "answer": "oil",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "I SAID \"NO\", \"NO\", \"NO\"",
+        "value": 400,
+        "question": "His nautical exploits are outlined in Genesis 6-9",
+        "answer": "Noah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 800,
+        "question": "Mass number is defined as the number of neutrons & these particles in an atom's nucleus",
+        "answer": "protons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 800,
+        "question": "Daughter Miley duetted with him on the recent hit \"Ready, Set, Don't Go\"",
+        "answer": "Billy Ray Cyrus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' HOMES",
+        "value": 800,
+        "question": "When the people of Nohant, France refer to \"the Chateau\", they mean the home of this 19th C. woman",
+        "answer": "George Sand",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SUE ME!",
+        "value": 800,
+        "question": "In addition to her CNBC show, she's also hosted her own \"Financial Freedom\" hour on QVC",
+        "answer": "Suze Orman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TRYING TO MAKE ME GO TO RIYADH",
+        "value": 800,
+        "question": "To supply Riyadh, in Central Saudi Arabia, the Bowaib Project has 18 of these producing 80,000 cubic meters of water per day",
+        "answer": "wells",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "I SAID \"NO\", \"NO\", \"NO\"",
+        "value": 800,
+        "question": "I predict you'll know he wrote his 16th century Prophecies in quatrains",
+        "answer": "Nostradamus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1200,
+        "question": "Like you, dicotyledonous plants have a network of these, but theirs carry food & water",
+        "answer": "veins",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 1200,
+        "question": "When he sings \"You're My Better Half\", he's no doubt referring to Nicole Kidman",
+        "answer": "Keith Urban",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' HOMES",
+        "value": 1200,
+        "question": "You can visit the home of this poet and buddy of Wordsworth on Lime Street in the village of Nether Stowe",
+        "answer": "Samuel Taylor Coleridge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SUE ME!",
+        "value": 1200,
+        "question": "Stop the insanity!  This diet & fitness guru recently made a comeback with a new website & online community",
+        "answer": "Susan Powter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TRYING TO MAKE ME GO TO RIYADH",
+        "value": 1200,
+        "question": "Riyadh lies on what was one of these fertile desert spots at the confluence of several wadis",
+        "answer": "an oasis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "I SAID \"NO\", \"NO\", \"NO\"",
+        "value": 1200,
+        "question": "Name shared by twin border cities of the U.S. & Mexico just south of Tucson",
+        "answer": "Nogales",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 1600,
+        "question": "Pauling found an \"alpha\" type of this spiral in proteins; Watson & Crick found a \"double\" one in DNA",
+        "answer": "a helix",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 1600,
+        "question": "At 16 Taylor Swift shot to fame with a 2006 hit named for this country superstar",
+        "answer": "Tim McGraw",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' HOMES",
+        "value": 1600,
+        "question": "This creator of Willy Wonka wrote in a hut whose decor included bits of his own spine from an operation",
+        "answer": "Roald Dahl",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SUE ME!",
+        "value": 1600,
+        "question": "Since its inception in 1982, the foundation named for her has invested $1 billion to find a cure for breast cancer",
+        "answer": "(Susan G.) Komen",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TRYING TO MAKE ME GO TO RIYADH",
+        "value": 1600,
+        "question": "Perhaps you could stay at the Holiday Inn Riyadh-Minhal before busing to the Hajj in this city",
+        "answer": "Mecca",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "I SAID \"NO\", \"NO\", \"NO\"",
+        "value": 1600,
+        "question": "Latin legal plea meaning to accept the charges without admitting guilt",
+        "answer": "nolo contendere",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 2000,
+        "question": "(Jimmy of the Clue Crew explains a chemical reaction.) A chemical reaction between food coloring & bleach, which contains this chemical, NaClO3, turns the colored liquid into a colorless compound",
+        "answer": "sodium chlorate",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 2000,
+        "question": "Jason Alexander & William Shatner are among the celebrities who appear in his \"Celebrity\" & \"Online\" videos",
+        "answer": "Brad Paisley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS' HOMES",
+        "value": 2000,
+        "question": "(Jon of the Clue Crew delivers the clue from Rowan Oak in Oxford, Mississippi.)  The woman who lived here in Rowan Oak prior to Faulkner was the basis for the title woman in \"A Rose for\" her",
+        "answer": "Emily",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SUE ME!",
+        "value": 2000,
+        "question": "Her bestsellers include \"The Senator's Wife\", \"While I Was Gone\" & \"The Good Mother\"",
+        "answer": "Sue Miller",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRYING TO MAKE ME GO TO RIYADH",
+        "value": 2000,
+        "question": "He was born in Riyadh in 1957, the 17th of 52 children sired by his construction magnate dad",
+        "answer": "Osama bin Laden",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "I SAID \"NO\", \"NO\", \"NO\"",
+        "value": 2000,
+        "question": "A vocabulary or system of words used in a particular discipline",
+        "answer": "a nomenclature",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FOREIGN COUNTRIES",
+    "clue": "Of the world's 10 largest countries in total area, the 2 whose names start & end with \"A\" (Algeria is number 11)",
+    "answer": "Australia & Argentina"
+  },
+  "gameId": "5500",
+  "gameDate": "Friday, July 4, 2008"
+}

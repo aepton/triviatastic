@@ -1,0 +1,574 @@
+{
+  "title": "Show #8080 - Friday, October 25, 2019",
+  "jeopardyRound": {
+    "categories": [
+      "SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES",
+      "FOREIGN WORDS & PHRASES",
+      "LET'S TALK ABOUT FLIGHT CLUB",
+      "DAM THAT RIVER!",
+      "'90s NEWSMAKERS",
+      "THE EASTERN CONFERENCE"
+    ],
+    "clues": [
+      {
+        "category": "SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES",
+        "value": 200,
+        "question": "Timber was needed for battleships & gun stock, so Smokey Bear was created during this war to warn of the dangers of forest fires",
+        "answer": "the Second World War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 200,
+        "question": "In the original Italian, this coffee drink with steamed milk has \"caffé\" before it",
+        "answer": "latte",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LET'S TALK ABOUT FLIGHT CLUB",
+        "value": 200,
+        "question": "Now on public display in Ohio, an aircraft popularly known by this name was used by JFK starting in 1962",
+        "answer": "Air Force One",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DAM THAT RIVER!",
+        "value": 200,
+        "question": "Aswan High Dam",
+        "answer": "the Nile",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 200,
+        "question": "In 1996 the fairy tale was over as Buckingham Palace announced an agreement in the divorce of this couple",
+        "answer": "Prince Charles & Princess Diana",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE EASTERN CONFERENCE",
+        "value": 200,
+        "question": "In 1963 Jim Brown led the Eastern Conference to a 30-20 victory in this NFL all-star game",
+        "answer": "the Pro Bowl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES",
+        "value": 400,
+        "question": "Smokey was named for Smokey Joe Martin, a member of this famed urban force for 46 years & a hero of the \"Greenwich Volcano\" blaze",
+        "answer": "the New York Fire Department",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 400,
+        "question": "The name of this craft is Japanese for \"folding paper\"",
+        "answer": "origami",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LET'S TALK ABOUT FLIGHT CLUB",
+        "value": 400,
+        "question": "(Sarah of the Clue Crew presents by a display monitor.) Amelia Earhart left New Guinea on July 2, 1937, with but three more stops on her worldwide quest--Howland Island, this future state capital, and Oakland",
+        "answer": "Honolulu",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DAM THAT RIVER!",
+        "value": 400,
+        "question": "Lake Winnibigoshish Reservoir Dam in Minnesota & Melvin Price Locks & Dam in Illinois",
+        "answer": "the Mississippi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 400,
+        "question": "This Georgian published \"To Renew America\" & also became Speaker of the House",
+        "answer": "Newt Gingrich",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE EASTERN CONFERENCE",
+        "value": 400,
+        "question": "In 2001 this 76ers guard became the shortest NBA MVP in history & was the All-Star Game MVP in an Eastern Conference victory",
+        "answer": "Allen Iverson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES",
+        "value": 600,
+        "question": "Prior to Smokey Bear's debut in 1944, the U.S. Forest Service used this Disney deer in ads",
+        "answer": "Bambi",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 600,
+        "question": "Oy, you're so clumsy--in fact, you're this Yiddish word for a clumsy person, from a word meaning \"wooden beam\"",
+        "answer": "a klutz",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LET'S TALK ABOUT FLIGHT CLUB",
+        "value": 600,
+        "question": "As 100,000 waited in Paris on May 21, 1927, he saw \"danger of killing people with my propeller and I quickly came to a stop\"",
+        "answer": "Lindbergh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DAM THAT RIVER!",
+        "value": 600,
+        "question": "Three Gorges Dam",
+        "answer": "the Yangtze",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 600,
+        "question": "Nearly 6 months after the attack on Nancy Kerrigan, this skater was stripped of her national title & banned from the sport for life",
+        "answer": "Tonya Harding",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE EASTERN CONFERENCE",
+        "value": 600,
+        "question": "Georgetown & Villanova compete in this NCAA conference",
+        "answer": "the Big East",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES",
+        "value": 800,
+        "question": "In 1950 Smokey got a living symbol: a bear cub that survived a forest fire in this state; his burns were treated in Santa Fe",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 800,
+        "question": "The name of this mythical sea monster was released from the Norwegian language",
+        "answer": "the Kraken",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LET'S TALK ABOUT FLIGHT CLUB",
+        "value": 800,
+        "question": "The U.S. Army's Sikorsky UH-60 is called this; 2 of them were at the center of a notorious incident in Mogadishu in 1993",
+        "answer": "Black Hawks",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DAM THAT RIVER!",
+        "value": 800,
+        "question": "Gorky Dam at Nizhny Novgorod",
+        "answer": "the Volga",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 800,
+        "question": "In 1998 this leader fired his entire cabinet, though many would resume their posts",
+        "answer": "Boris Yeltsin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE EASTERN CONFERENCE",
+        "value": 800,
+        "question": "The Impact, Revolution & 2 teams called United compete in the Eastern Conference of this league",
+        "answer": "the MLS (Major League Soccer)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES",
+        "value": 1000,
+        "question": "This deep-voiced actor who played Bradley Cooper's brother in \"A Star Is Born\" has been the voice of Smokey for over a decade\"Only you can prevent wildfires.\"",
+        "answer": "(Sam) Elliott",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 1000,
+        "question": "A pair of Mandarin ducks in your home are great for love luck in this harmonious Chinese living space practice",
+        "answer": "feng shui",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LET'S TALK ABOUT FLIGHT CLUB",
+        "value": 1000,
+        "question": "On Nov. 2, 1947 Howard Hughes took this plane on its only flight, cruising about one mile at 70 feet for one minute",
+        "answer": "the Spruce Goose",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DAM THAT RIVER!",
+        "value": 1000,
+        "question": "The Kariba Dam at the border of Zambia & Zimbabwe",
+        "answer": "the Zambezi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "'90s NEWSMAKERS",
+        "value": 1000,
+        "question": "U.S. diplomat Richard Holbrooke is best remembered for brokering the Balkan peace accords named for this Ohio city",
+        "answer": "the Dayton Accords",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE EASTERN CONFERENCE",
+        "value": 1000,
+        "question": "His move to the NBA's Eastern Conference paid off as he led Toronto to the 2019 title & was named Finals MVP",
+        "answer": "Leonard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "KIDD STUFF",
+      "ANCIENT ROME FICTION",
+      "ONCE UPON A TIME...",
+      "FROM B TO A",
+      "ANIMAL COMMUNITY",
+      "THE WESTERN CONFERENCE"
+    ],
+    "clues": [
+      {
+        "category": "KIDD STUFF",
+        "value": 400,
+        "question": "The illustration shows pirate William Kidd hiding his treasure on Gardiners Island near Montauk in this state",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME FICTION",
+        "value": 400,
+        "question": "Thornton Wilder's novel about the time of Julius Caesar in Rome has this title, like an unlucky date for Julius",
+        "answer": "The Ides of March",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ONCE UPON A TIME...",
+        "value": 400,
+        "question": "Robert Carlyle played Mr. Gold, AKA this spinner of straw, in ABC's \"Once Upon a Time\"",
+        "answer": "Rumpelstiltskin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FROM B TO A",
+        "value": 400,
+        "question": "These single-celled organisms, some causing disease, are some of the smallest life forms",
+        "answer": "bacteria",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ANIMAL COMMUNITY",
+        "value": 400,
+        "question": "To make this home for the birth of their young, foxes enlarge burrows of other animals",
+        "answer": "a den",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE WESTERN CONFERENCE",
+        "value": 400,
+        "question": "Attended by 46 delegations, the San Francisco Conference of 1945 gave birth to this international organization",
+        "answer": "the United Nations",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "KIDD STUFF",
+        "value": 800,
+        "question": "The USS Kidd in Baton Rouge, this lethal-sounding type of ship, is named for the first U.S. Navy flag officer killed in WWII",
+        "answer": "a destroyer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME FICTION",
+        "value": 800,
+        "question": "\"The Gladiator\" & \"Rebellion\" are the subtitles of Ben Kane's books about this man who led a slave army against Rome",
+        "answer": "Spartacus",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ONCE UPON A TIME...",
+        "value": 800,
+        "question": "Leonardo DiCaprio plays \"Bounty Law\" actor Rick Dalton in this director's \"Once Upon a Time... in Hollywood\"",
+        "answer": "Quentin Tarantino",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FROM B TO A",
+        "value": 800,
+        "question": "It's not just any old Catholic church--it's one with special status from the Vatican",
+        "answer": "a basilica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ANIMAL COMMUNITY",
+        "value": 800,
+        "question": "Shoaling fish move in the same direction but each does its own thing; fish doing this similar word use coordinated moves",
+        "answer": "schooling fish",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE WESTERN CONFERENCE",
+        "value": 800,
+        "question": "At the 1822 Guayaquil Conference, José de San Martín met this other South American liberator in western Ecuador",
+        "answer": "‎(Simón) Bolívar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "KIDD STUFF",
+        "value": 1200,
+        "question": "In 2014 this Hall of Fame point guard was traded from the Nets to the Bucks--as a head coach",
+        "answer": "Jason Kidd",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME FICTION",
+        "value": 1200,
+        "question": "When the death of a popular politician threatens to destroy the Roman Republic, Gordianus the Finder must solve \"A Murder on\" this famous road",
+        "answer": "the Appian Way",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ONCE UPON A TIME...",
+        "value": 1200,
+        "question": "This Spanish-born star played El Mariachi for the last time in \"Once Upon a Time in Mexico\"",
+        "answer": "Antonio Banderas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FROM B TO A",
+        "value": 1200,
+        "question": "The sounds of this traditional Russian instrument are heard here",
+        "answer": "a balalaika",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ANIMAL COMMUNITY",
+        "value": 1200,
+        "question": "The dotted humming frog is in no danger from this spider seen here; they have reached an arrangement",
+        "answer": "a tarantula",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE WESTERN CONFERENCE",
+        "value": 1200,
+        "question": "South by Southwest is an annual festival in this Texas city",
+        "answer": "Austin, Texas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "KIDD STUFF",
+        "value": 1600,
+        "question": "In 1934 journalist Ronald Kidd founded the NCCL, the British equivalent of this U.S. group that protects people's CLs",
+        "answer": "the ACLU (American Civil Liberties Union)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME FICTION",
+        "value": 1600,
+        "question": "In \"The Eagle of the Ninth\", a soldier seeks to discover what became of a legion that went missing in this faraway island",
+        "answer": "Britain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ONCE UPON A TIME...",
+        "value": 1600,
+        "question": "This martial artist was in \"Once Upon a Time in China\"",
+        "answer": "Jet Li",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FROM B TO A",
+        "value": 1600,
+        "question": "This Hindu creator god is often depicted seated on a lotus throne",
+        "answer": "Brahma",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ANIMAL COMMUNITY",
+        "value": 1600,
+        "question": "Konrad Lorenz found that newly hatched ducklings followed him due to this \"I\" process, as if he were their parent",
+        "answer": "imprinting",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE WESTERN CONFERENCE",
+        "value": 1600,
+        "question": "The 1920 Conference of San Remo along Italy's western Riviera decided the fate of this empire's former territories",
+        "answer": "the Ottoman Empire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "KIDD STUFF",
+        "value": 2000,
+        "question": "This 3-named author went back to the 19th century in her novel \"The Invention of Wings\"",
+        "answer": "Sue Monk Kidd",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT ROME FICTION",
+        "value": 2000,
+        "question": "This novel by Robert Graves is written as the memoir of a reluctant 1st century Roman emperor",
+        "answer": "I, Claudius",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ONCE UPON A TIME...",
+        "value": 2000,
+        "question": "This Italian director gave us \"Once Upon a Time in the West\" & \"Once Upon a Time in America\"",
+        "answer": "Sergio Leone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FROM B TO A",
+        "value": 2000,
+        "question": "Color comes to a garden from this ornamental vine",
+        "answer": "Bougainvillea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ANIMAL COMMUNITY",
+        "value": 2000,
+        "question": "Mud baths remove bugs from the Cape buffalo, & if that doesn't get them all, the cattle type of this white wading bird helps",
+        "answer": "the egret",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE WESTERN CONFERENCE",
+        "value": 2000,
+        "question": "The 2018 Emerging Cascadia Innovation Corridor Conference featured this Washington gov. who's trying to stop climate change",
+        "answer": "(Jay) Inslee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BRITISH HISTORY",
+    "clue": "In 2018 Parliament Square got its first statue of a woman, Millicent Fawcett, a founding member of the London Society for Women's this",
+    "answer": "Suffrage"
+  },
+  "gameId": "8080",
+  "gameDate": "Friday, October 25, 2019"
+}

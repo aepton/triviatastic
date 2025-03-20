@@ -1,0 +1,574 @@
+{
+  "title": "Show #1952 - Tuesday, February 16, 1993",
+  "jeopardyRound": {
+    "categories": [
+      "CHILDREN'S LITERATURE",
+      "SPORTS",
+      "SPECIES IDs",
+      "DRIVER'S ED.",
+      "THE 1980s",
+      "FOREIGN WORDS & PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 100,
+        "question": "He dedicated \"The Prince and the Pauper\" to his daughters Susie & Clara",
+        "answer": "Mark Twain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "When first played in 1967, it was called the AFL-NFL World Championship Game",
+        "answer": "Super Bowl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SPECIES IDs",
+        "value": 100,
+        "question": "If you see a snake flare its hood, it's one of these & it's poisonous",
+        "answer": "cobra",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DRIVER'S ED.",
+        "value": 100,
+        "question": "A \"WRONG WAY\" sign is often seen near a sign that says \"DO NOT\" do this",
+        "answer": "enter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE 1980s",
+        "value": 100,
+        "question": "In 1985, just 3 months after launching its new soft drink, this co. agreed to bring back the \"Classic\"",
+        "answer": "Coca-Cola",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 100,
+        "question": "\"J'ai perdu un verre de contact\" means \"I've lost a contact lens\" in this language",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 200,
+        "question": "When Wilbur the pig meets her, she's hanging from her home waving one of her 8 legs at him",
+        "answer": "Charlotte",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "On Nov. 2, 1992, this L.A. Laker retired from professional basketball for the second time in a year",
+        "answer": "Magic Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SPECIES IDs",
+        "value": 200,
+        "question": "The ears on the African variety of this mammal are twice as big as those on the Indian",
+        "answer": "elephant",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DRIVER'S ED.",
+        "value": 200,
+        "question": "It's against the law to use a revoked or suspended one of these",
+        "answer": "driver's license",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE 1980s",
+        "value": 200,
+        "question": "From 1981 to 1985 Jeane Kirkpatrick served as America's first female ambassador to this organization",
+        "answer": "United Nations",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 200,
+        "question": "Your parents might not want you to stay out past mitternacht, which is this time in German",
+        "answer": "midnight",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 300,
+        "question": "Lucy Maud Montgomery called her 1909 sequel to \"Anne of Green Gables\" \"Anne of\" this place",
+        "answer": "Avonlea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "In 1992 this team won 3 World Series games in their last at bat",
+        "answer": "Toronto Blue Jays",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SPECIES IDs",
+        "value": 300,
+        "question": "If a bear is white & can swim, it's this type of bear",
+        "answer": "polar bear",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DRIVER'S ED.",
+        "value": 300,
+        "question": "A sign with 2 Rs on it doesn't mean Ronald Reagan is nearby but that you're close to one of these",
+        "answer": "railroad crossing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE 1980s",
+        "value": 300,
+        "question": "In July 1980 President Carter signed a measure requiring 4 million men born in 1960 & 1961 to do this",
+        "answer": "register for the draft",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 300,
+        "question": "The Esperanto word for this relative is kuzo: if you don't know it, you can figure it out",
+        "answer": "cousin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 400,
+        "question": "Englishwoman who based Mrs. Tiggy-Winkle on her own pet hedgehog who drank from a doll's teacup",
+        "answer": "Beatrix Potter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "With earnings exceeding $18 million, this Czech player is the career prize money leader in men's tennis",
+        "answer": "Ivan Lendl",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SPECIES IDs",
+        "value": 400,
+        "question": "The common variety of this mammal has black fur & a single or double white stripe down its back",
+        "answer": "skunk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DRIVER'S ED.",
+        "value": 400,
+        "question": "Where there's opposing traffic, 2 solid lines of this color mean don't pass",
+        "answer": "yellow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE 1980s",
+        "value": 400,
+        "question": "In 1981 Belize in Central America gained its independence from this country",
+        "answer": "Great Britain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 400,
+        "question": "\"Ik spreek geen Nederlands\" means \"I do not speak\" this language",
+        "answer": "Dutch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 500,
+        "question": "He emigrated to England after his aunt Lucy moved to the Home for Retired Bears in Lima",
+        "answer": "Paddington",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "In 1991 Mike Powell snapped this man's 10-year, 65-meet unbeaten streak in the long jump",
+        "answer": "Carl Lewis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SPECIES IDs",
+        "value": 1000,
+        "question": "Its pouch is attached all the way around the lower mandible & may hold over 12 quarts",
+        "answer": "pelican",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DRIVER'S ED.",
+        "value": 500,
+        "question": "When parking your car facing downhill you should do this with your front wheels",
+        "answer": "turn them to the right (turn them towards the curb)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE 1980s",
+        "value": 500,
+        "question": "She said of her 1983 shuttle flight, \"I'm sure it's the most fun I'll ever have in my life\"",
+        "answer": "Sally Ride",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 500,
+        "question": "Yes, it's Swedish for \"yes\"",
+        "answer": "ja",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "COLONIAL AMERICA",
+      "THE SCHOOL PLAY",
+      "ISLANDS",
+      "POETRY",
+      "FRUITS & VEGETABLES",
+      "COMPOSERS"
+    ],
+    "clues": [
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 200,
+        "question": "Great Britain's Proclamation of 1763 forbade the colonists to settle west of these mountains",
+        "answer": "Appalachians",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE SCHOOL PLAY",
+        "value": 200,
+        "question": "\"Look at Me, I'm Sandra Dee\" is a song from this musical",
+        "answer": "Grease",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ISLANDS",
+        "value": 200,
+        "question": "\"The Emerald Isle\"",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 200,
+        "question": "Sections of Longfellow's \"The Courtship of\" this man include \"John Alden\" & \"Priscilla\"",
+        "answer": "Myles Standish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 200,
+        "question": "Most of the prunes produced in California are from the Agen variety of this fruit",
+        "answer": "plums",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 200,
+        "question": "He tried to get sole guardianship of his nephew Karl Beethoven after his brother Caspar's death",
+        "answer": "Ludwig van Beethoven",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 400,
+        "question": "First published in 1732, its authorship was attributed to a Richard Saunders",
+        "answer": "Poor Richard's Almanack",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE SCHOOL PLAY",
+        "value": 400,
+        "question": "In this musical, Seymour, who works at Mr. Mushnik's Flower Shop, has his heart set on Audrey",
+        "answer": "Little Shop of Horros",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ISLANDS",
+        "value": 400,
+        "question": "Shisaldin, a volcano on Unimak Island, is the highest point in this Alaskan island group",
+        "answer": "Aleutians",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 400,
+        "question": "From 1910 to 1912 this \"Chicago\" poet served as secretary to the Mayor of Milwaukee",
+        "answer": "Sandburg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 400,
+        "question": "This cole slaw vegetable is believed to be the oldest leafy vegetable grown today",
+        "answer": "cabbage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "This father of \"The Waltz King\" is nicknamed \"The Father of the Waltz\"",
+        "answer": "Johann Strauss Sr.",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 600,
+        "question": "One of the foods eaten by the colonists was these strips of beef",
+        "answer": "jerky",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE SCHOOL PLAY",
+        "value": 600,
+        "question": "In this play George Gibbs proposes to Emily Webb over ice cream sodas in the drugstore",
+        "answer": "Our Town",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ISLANDS",
+        "value": 600,
+        "question": "This Chilean island in the South Pacific is called Rapa Nui by the Polynesians who live there",
+        "answer": "Easter Island",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 1200,
+        "question": "This Samuel Taylor Coleridge poem is subtitled \"Or, a Vision in a Dream, A Fragment\"",
+        "answer": "Kubla Khan",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 600,
+        "question": "Sometimes used for jams & jellies, Catawbas are a type of this fruit",
+        "answer": "grapes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 600,
+        "question": "He married his second wife, Anna Magdalena Wilcken, in 1721 & they had 13 children together",
+        "answer": "(Johann Sebastian) Bach",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 800,
+        "question": "In 1606 this king gave the London Company & the Plymouth Company rights to settle the Atlantic coast",
+        "answer": "James I",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE SCHOOL PLAY",
+        "value": 800,
+        "question": "A band instrument salesman visits a small Iowa town in this Meredith Willson production",
+        "answer": "The Music Man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ISLANDS",
+        "value": 800,
+        "question": "This island is Japan's most populous",
+        "answer": "Honshu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 800,
+        "question": "The 44 sonnets in this Elizabeth Barrett Browning work tell of her love for her husband Robert",
+        "answer": "Sonnets from the Portuguese",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 800,
+        "question": "March to May is the peak season for the globe variety of this thistlelike vegetable",
+        "answer": "artichokes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 800,
+        "question": "Paul Whiteman conducted the premiere of this man's \"Grand Canyon Suite\" in 1931",
+        "answer": "Ferde Grofé",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COLONIAL AMERICA",
+        "value": 2000,
+        "question": "This elected legislature that met in Virginia July 30, 1619 was the first in any English colony",
+        "answer": "House of Burgesses",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE SCHOOL PLAY",
+        "value": 1000,
+        "question": "This Kaufman & Hart comedy is about the more than slightly off-center Sycamore Family",
+        "answer": "You Can't Take It with You",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ISLANDS",
+        "value": 1000,
+        "question": "This small \"royal\" island is Canada's most densely populated province",
+        "answer": "Prince Edward Island",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POETRY",
+        "value": 1000,
+        "question": "In \"Ode to a Nightingale\", he wrote, \"Thou was not born for death, immortal bird!\"",
+        "answer": "Keats",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FRUITS & VEGETABLES",
+        "value": 1000,
+        "question": "It's what we usually call the netted melon; Europeans use the name for a different variety",
+        "answer": "cantaloupe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1000,
+        "question": "He wrote his last symphony, the \"Pathetique\", in the town of Klin, not far from Moscow",
+        "answer": "Tchaikovsky",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "EUROPE",
+    "clue": "2 of the 5 mainland European nations that touch only 1 other country",
+    "answer": "(2 of) Portugal, Denmark, San Marino, Vatican City & Monaco"
+  },
+  "gameId": "1952",
+  "gameDate": "Tuesday, February 16, 1993"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #2291 - Monday, July 18, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "COUNTRIES OF THE WORLD",
+      "GAMES",
+      "FADS & FASHIONS",
+      "FIRE",
+      "PLANTS",
+      "BOOKS & AUTHORS"
+    ],
+    "clues": [
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 100,
+        "question": "This country's smallest land region, the St. Lawrence Lowlands, harbors over 1/2 its population",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GAMES",
+        "value": 100,
+        "question": "Mayfair is the most valuable property in the British version of this game",
+        "answer": "Monopoly",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FADS & FASHIONS",
+        "value": 100,
+        "question": "In 1943 these \"suits\" were worn with wide-brimmed hats & long chains",
+        "answer": "zoot suits",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FIRE",
+        "value": 100,
+        "question": "During the summer of 1988, about 1/3 of this national park's 2.2 million acres was burned",
+        "answer": "Yellowstone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PLANTS",
+        "value": 100,
+        "question": "The oak tree that produces this bottle stopper material yields little of it for its first 20 years",
+        "answer": "cork",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 100,
+        "question": "The first book of Paul Scott's \"The Raj Quartet\" is called \"The Jewel in\" this",
+        "answer": "the Crown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 200,
+        "question": "This country's westernmost mainland point lies in the region of Brittany",
+        "answer": "France",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GAMES",
+        "value": 200,
+        "question": "It's the only chess piece that always stays on squares of the same color",
+        "answer": "the bishop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FADS & FASHIONS",
+        "value": 200,
+        "question": "This Brazilian bombshell of the 1940s sent America tutti-frutti",
+        "answer": "Carmen Miranda",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FIRE",
+        "value": 200,
+        "question": "In 1608 fire swept through this British colony in America",
+        "answer": "Jamestown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PLANTS",
+        "value": 200,
+        "question": "Pumpkin is probably the most famous \"winter\" variety of this vegetable",
+        "answer": "squash",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "Nelson Algren wrote \"The Man with the Golden Arm\" & Ian Fleming wrote this book with a similar title",
+        "answer": "The Man with the Golden Gun",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 300,
+        "question": "This Central American nation has been called the \"Crossroads of the World\"",
+        "answer": "Panama",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GAMES",
+        "value": 300,
+        "question": "Among the suspects in Clue, he's the military man",
+        "answer": "Colonel Mustard",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FADS & FASHIONS",
+        "value": 300,
+        "question": "To be fashionable, F. Scott Fitzgerald's Bernice did it to her hair",
+        "answer": "bobbed it",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FIRE",
+        "value": 300,
+        "question": "A fire melted this London   tourist attraction in 1925, but it later reopened",
+        "answer": "Madame Tussauds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PLANTS",
+        "value": 300,
+        "question": "These large brown seaweeds were once burned to obtain potash for glassmaking",
+        "answer": "kelp",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 300,
+        "question": "This \"devilish\" 1967 novel by Ira Levin inspired a \"rebirth\" of occult fiction",
+        "answer": "Rosemary's Baby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 400,
+        "question": "In its official language, this small Balkan country's name means \"the land of the eagle\"",
+        "answer": "Albania",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GAMES",
+        "value": 400,
+        "question": "In this game it's possible but very difficult to score 501 points in 9 throws",
+        "answer": "darts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FADS & FASHIONS",
+        "value": 800,
+        "question": "A fad in the '50s was this style of music, an example of which is heard here:\"Down the way /Where the nights are gay /And the sun shines daily on the mountaintop /I took a trip on a sailing ship /And when I reached Jamaica I made a stop /But I'm sad to say /I'm on my way /Won't be back for many a day /My heart is down...\"",
+        "answer": "calypso",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FIRE",
+        "value": 400,
+        "question": "One in Los Angeles burned in 1986; one in Alexandria in 47 B.C.",
+        "answer": "a library",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PLANTS",
+        "value": 400,
+        "question": "Trifolium repens, a type of this plant is the original Irish shamrock",
+        "answer": "clover",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 400,
+        "question": "His unfinished novel \"The Mystery of Edwin Drood\" opens in an opium den",
+        "answer": "Charles Dickens",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "COUNTRIES OF THE WORLD",
+        "value": 500,
+        "question": "Cotton is the major cash crop of this largest country in Africa",
+        "answer": "the Sudan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GAMES",
+        "value": 500,
+        "question": "In this card game a hand that has no card higher than a 9 is called a yarborough",
+        "answer": "bridge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FADS & FASHIONS",
+        "value": 500,
+        "question": "In 1953 this fad clothing style for men hit 2 inches above the knee",
+        "answer": "Bermuda shorts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FIRE",
+        "value": 500,
+        "question": "A 1992 Academy Award nominee was the IMAX film on the \"Fires of\" this Persian Gulf country",
+        "answer": "Kuwait",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PLANTS",
+        "value": 500,
+        "question": "The dried female flowers of this plant are used to flavor beer; the male flowers can be used in salads",
+        "answer": "hops",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 500,
+        "question": "He wrote \"The Positive Power of Jesus Christ\" as well as \"The Power of Positive Thinking\"",
+        "answer": "Norman Vincent Peale",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FLORIDA",
+      "FAMOUS LIBRAS",
+      "TREATIES",
+      "THE EARTH",
+      "SHAKESPEARE",
+      "8-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "FLORIDA",
+        "value": 200,
+        "question": "This park is the largest subtropical wilderness in the U.S.",
+        "answer": "the Everglades",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LIBRAS",
+        "value": 200,
+        "question": "Most Libras love harmony & balance, but this Libra singer likes a \"Whole Lotta Shakin' Goin' On\"",
+        "answer": "Jerry Lee Lewis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TREATIES",
+        "value": 200,
+        "question": "The Lateran Treaty of 1929 established this as Italy's state religion",
+        "answer": "Roman Catholicism",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE EARTH",
+        "value": 200,
+        "question": "This natural satellite of the Earth once may have been part of the planet, or a separate planet itself",
+        "answer": "the Moon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 200,
+        "question": "The prologue of this romantic tragedy tells us, \"A pair of star-crossed lovers take their life\"",
+        "answer": "Romeo and Juliet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 200,
+        "question": "Eastern, or pertaining to the countries of the East",
+        "answer": "Oriental",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FLORIDA",
+        "value": 400,
+        "question": "This city is the seat of  Dade County",
+        "answer": "Miami",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LIBRAS",
+        "value": 400,
+        "question": "Mark your calendar: Sept, 28, 1994 is the 60th birthday of this French \"Sex Kitten\"",
+        "answer": "Brigitte Bardot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TREATIES",
+        "value": 400,
+        "question": "In 1919, by a vote of 55 to 39, the U.S. Senate refused to ratify this treaty",
+        "answer": "the Treaty of Versailles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE EARTH",
+        "value": 400,
+        "question": "Though round for the most part, the Earth is slightly flattened at these 2 extremes",
+        "answer": "the poles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 400,
+        "question": "Shylock's last words in this play are \"I am not well; send the deed after me and I will sign it\"",
+        "answer": "The Merchant of Venice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 400,
+        "question": "To mix or throw together objects, such as eggs",
+        "answer": "scramble",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FLORIDA",
+        "value": 600,
+        "question": "Pat Booth's novel \"Palm Beach\" is dedicated to this \"Prize\" socialite turned novelist",
+        "answer": "Roxanne Pulitzer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LIBRAS",
+        "value": 600,
+        "question": "In Oct. 1820 this Swedish songbird was born under the sign of the scales, not the sign of the \"Nightingale\"",
+        "answer": "Jenny Lind",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TREATIES",
+        "value": 600,
+        "question": "In Jan. 1993 President Bush & Boris Yeltsin signed START II, START standing for this",
+        "answer": "Strategic Arms Reduction Treaty",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE EARTH",
+        "value": 600,
+        "question": "Some 200 million years ago, there was a single, giant one of these called Pangaea",
+        "answer": "a continent",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 600,
+        "question": "In \"The Merry Wives of Windsor\", this rotund & ribald rogue has a page named Robin",
+        "answer": "Falstaff",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 600,
+        "question": "The name of this gambling game is from the Latin for \"wheel\"",
+        "answer": "roulette",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FLORIDA",
+        "value": 800,
+        "question": "In 1513, in the area of what's now this city, Ponce de Leon took possession of the region for Spain",
+        "answer": "St. Augustine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LIBRAS",
+        "value": 800,
+        "question": "Libras are said to be quite passionate, like this Libra admiral who had his eye on Lady Hamilton",
+        "answer": "Admiral Nelson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TREATIES",
+        "value": 1600,
+        "question": "The Montreux Convention of 1936 restored these 2 straits to full Turkish control",
+        "answer": "the Dardanelles & the Bosporus",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE EARTH",
+        "value": 800,
+        "question": "It's believed that the inner core of the Earth is as hot as 9,000º  F. & made up of iron & this metal",
+        "answer": "nickel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1600,
+        "question": "In \"Henry VIII\" this cardinal's first line is \"The Duke of Buckingham's surveyor, ha?\"",
+        "answer": "Wolsey",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 800,
+        "question": "Used in lamp filaments & high-temperature materials, it has the highest melting point of any metal",
+        "answer": "tungsten",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FLORIDA",
+        "value": 1000,
+        "question": "They're the mythical creatures featured in shows at Weeki Wachee Spring",
+        "answer": "mermaids",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS LIBRAS",
+        "value": 1000,
+        "question": "Many Libras have musical talent, like this Libra composer known for his \"Fascinating Rhythm\"",
+        "answer": "George Gershwin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TREATIES",
+        "value": 1000,
+        "question": "Negotiated by Ito Hirobumi & Li Hung-chang, the Treaty of Shimonoseki ended this 1894-95 war",
+        "answer": "the Sino-Japanese War",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE EARTH",
+        "value": 1000,
+        "question": "The 3 types of rock that make up the Earth's crust are igneous, sedimentary & this",
+        "answer": "metamorphic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 1000,
+        "question": "Much of \"As You Like It\" takes place in this forest",
+        "answer": "the Forest of Arden",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 1000,
+        "question": "Also called a pick, it's a small, flexible piece of material used to pluck guitar strings",
+        "answer": "a plectrum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "STAGE STARS",
+    "clue": "Her stage name came from reading fellow performers' tea leaves",
+    "answer": "Gypsy Rose Lee"
+  },
+  "gameId": "2291",
+  "gameDate": "Monday, July 18, 1994"
+}

@@ -1,0 +1,565 @@
+{
+  "title": "Show #3655 - Friday, June 23, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "THE SOPRANOS",
+      "EUROPEAN RIVERS",
+      "MARSHMALLOW CUISINE",
+      "FISHY WORDS",
+      "REMEMBER 1999?",
+      "THAT'S HISTORY"
+    ],
+    "clues": [
+      {
+        "category": "THE SOPRANOS",
+        "value": 100,
+        "question": "New Jersey native James Gandolfini plays mobster Tony Soprano on this network's \"The Sopranos\"",
+        "answer": "HBO",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "EUROPEAN RIVERS",
+        "value": 100,
+        "question": "It's London's chief water supply",
+        "answer": "Thames River",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MARSHMALLOW CUISINE",
+        "value": 100,
+        "question": "The treats made with margarine, marshmallows & this \"talking\" Kellogg's cereal have only 3 grams of fat per serving",
+        "answer": "Rice Krispies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FISHY WORDS",
+        "value": 100,
+        "question": "To complain about minor issues",
+        "answer": "Carp",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER 1999?",
+        "value": 100,
+        "question": "100 million stamps incorrectly placing this big landmark in Colorado instead of Arizona won't be released",
+        "answer": "Grand Canyon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THAT'S HISTORY",
+        "value": 100,
+        "question": "In 1925 Reza Pahlavi deposed the last of the Kajars & took over as Shah of this country",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 200,
+        "question": "When Dr. Melfi put Tony on this brand of antidepressant, it had some side effects on his married life",
+        "answer": "Prozac",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EUROPEAN RIVERS",
+        "value": 200,
+        "question": "In Paris the banks of this river have been designated a UNESCO World Heritage Site",
+        "answer": "Seine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MARSHMALLOW CUISINE",
+        "value": 200,
+        "question": "You always want another of these campfire treats, marshmallows, chocolate & graham crackers (hence their name)",
+        "answer": "s'mores",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FISHY WORDS",
+        "value": 200,
+        "question": "It's a place for a bird to roost or for a person to sit",
+        "answer": "perch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER 1999?",
+        "value": 200,
+        "question": "Bank of America was taken to task for its employee-adopt-one-of-these machines-&-keep-them-clean program",
+        "answer": "ATM",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THAT'S HISTORY",
+        "value": 200,
+        "question": "This rebel group in Nicaragua was named for an anti-American rebel of the 1920s",
+        "answer": "Sandinistas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 300,
+        "question": "This famous son, the \"Choirboy of the Board\", played himself & joined the richest poker game in Jersey",
+        "answer": "Frank Sinatra Jr.",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EUROPEAN RIVERS",
+        "value": 300,
+        "question": "In 1992 Slovaks altered this river's course on the border of Slovakia & Hungary to improve navigation",
+        "answer": "Danube",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MARSHMALLOW CUISINE",
+        "value": 300,
+        "question": "This marshmallow sandwich from the Chattanooga Bakery, a favorite in the South with RC Cola, has been around since 1917",
+        "answer": "MoonPie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FISHY WORDS",
+        "value": 300,
+        "question": "A small quantity you might pat on with a finger",
+        "answer": "Dab",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER 1999?",
+        "value": 300,
+        "question": "He got a new car, the Lancia Jubilee, seen here with some of his Guards:",
+        "answer": "Pope John Paul II",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THAT'S HISTORY",
+        "value": 300,
+        "question": "In 1976 Spain ceded Spanish Sahara to Mauritania & this country",
+        "answer": "Morocco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 400,
+        "question": "Before she played Tony's mom, Nancy Marchand won 4 Emmys as Ed Asner's publisher boss on this show",
+        "answer": "Lou Grant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EUROPEAN RIVERS",
+        "value": 400,
+        "question": "In 1937 this Russian river's first hydroelectric project was completed at Ivankovo",
+        "answer": "Volga",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MARSHMALLOW CUISINE",
+        "value": 400,
+        "question": "Trademark name of the marshmallow treats seen here; they're Easter favorites:",
+        "answer": "Peeps",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FISHY WORDS",
+        "value": 800,
+        "question": "Since 1777 this ale has been brewed in Burton on Trent, England, a town with exceptional well water",
+        "answer": "Bass",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER 1999?",
+        "value": 400,
+        "question": "E-mails flew as moves were made to name Saint Isidore of Seville the patron saint of this global system",
+        "answer": "Internet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THAT'S HISTORY",
+        "value": 400,
+        "question": "When the Tuscaroras joined, the Iroquois League updated its name to this",
+        "answer": "League of Six Nations",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 500,
+        "question": "Once rock & roll's Little Steven & Miami Steve, he plays Soprano lieutenant Silvio Dante",
+        "answer": "Steven Van Zandt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EUROPEAN RIVERS",
+        "value": 500,
+        "question": "This country's longest river, the Gudena, winds 98 miles through the Jutland Peninsula",
+        "answer": "Denmark",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MARSHMALLOW CUISINE",
+        "value": 500,
+        "question": "Adding almonds & marshmallows to chocolate ice cream, this \"grand\" ice cream company created Rocky Road",
+        "answer": "Dreyer's (Edy's accepted)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FISHY WORDS",
+        "value": 500,
+        "question": "In Spanish it can mean \"pretty\" as well as a tuna-like fish",
+        "answer": "bonito",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "REMEMBER 1999?",
+        "value": 500,
+        "question": "This craft that had its 15 minutes of fame in 1961 was recovered from the ocean floor in 1999",
+        "answer": "Liberty Bell (Gus Grissom's capsule)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THAT'S HISTORY",
+        "value": 500,
+        "question": "This Alexandrian added latitude & longitude lines to his maps around 151 A.D.",
+        "answer": "Ptolemy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE SOPRANOS",
+      "HEY, ARNOLD!",
+      "FUN FACTS ABOUT STATES & CAPITALS",
+      "WORMS",
+      "PRO WRESTLING",
+      "HIGH \"IQ\""
+    ],
+    "clues": [
+      {
+        "category": "THE SOPRANOS",
+        "value": 200,
+        "question": "Luisa Tetrazzini was famed for her ability to hit these; we hope she ended her career on one",
+        "answer": "High note",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "HEY, ARNOLD!",
+        "value": 200,
+        "question": "Eggsactly!  He led the capture of Fort Ticonderoga from the Brits in 1775",
+        "answer": "Benedict Arnold",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FUN FACTS ABOUT STATES & CAPITALS",
+        "value": 200,
+        "question": "The only state capital whose name ends in 3 vowels, it's also the northernmost",
+        "answer": "Juneau, Alaska",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORMS",
+        "value": 200,
+        "question": "This former NBA rebounding champ is nicknamed \"The Worm\"",
+        "answer": "Dennis Rodman",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PRO WRESTLING",
+        "value": 200,
+        "question": "In the '80s Bobby Eaton & Stan Lane were called Midnight Express, among the greatest of these \"teams\"",
+        "answer": "Tag teams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HIGH \"IQ\"",
+        "value": 200,
+        "question": "It's a small shop specializing in fashionable & often expensive clothing",
+        "answer": "Boutique",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 400,
+        "question": "Lillian Russell made her debut in this duo's \"H.M.S. Pinafore\" & later became a star of burlesque",
+        "answer": "Gilbert & Sullivan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "HEY, ARNOLD!",
+        "value": 400,
+        "question": "He clubbed & sliced his way to victory in the 1960 U.S. Open",
+        "answer": "Arnold Palmer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FUN FACTS ABOUT STATES & CAPITALS",
+        "value": 400,
+        "question": "The only state whose name ends in 3 vowels",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORMS",
+        "value": 400,
+        "question": "This man, already pronounced a heretic, was formally declared an outlaw by 1521's Edict of Worms",
+        "answer": "Martin Luther",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PRO WRESTLING",
+        "value": 400,
+        "question": "This '50s wrestler whose name advertised his good looks used to toss bobby pins to his fans",
+        "answer": "Gorgeous George",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HIGH \"IQ\"",
+        "value": 400,
+        "question": "Don't take it personally, it's just a detailed analysis of a subject or literary work",
+        "answer": "Critique",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 600,
+        "question": "Amelita Galli-Curci brightened up opera as this type of soprano, Italian for \"coloring\"",
+        "answer": "Coloratura",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "HEY, ARNOLD!",
+        "value": 600,
+        "question": "If you've looked over copies of \"Dover Beach\", you know he penned it",
+        "answer": "Matthew Arnold",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FUN FACTS ABOUT STATES & CAPITALS",
+        "value": 600,
+        "question": "One of the original 13, it's the only state whose name ends in 3 consonants",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORMS",
+        "value": 600,
+        "question": "According to a proverb about how much abuse one will tolerate, \"Even a worm will\" do this",
+        "answer": "Turn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PRO WRESTLING",
+        "value": 600,
+        "question": "Wrestler Captain Lou Albano played her dad in the video for \"Girls Just Want to Have Fun\"",
+        "answer": "Cyndi Lauper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HIGH \"IQ\"",
+        "value": 600,
+        "question": "\"Everything Must Go\" at this type of sale held by a company that's \"all washed up\"",
+        "answer": "Liquidation sale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 800,
+        "question": "Singer Rosa Ponselle's parents hopefully gave her this middle name, the last name of singer Dame Nellie",
+        "answer": "Melba",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "HEY, ARNOLD!",
+        "value": 800,
+        "question": "This \"Study of History\" author saw history as a succession of civilizations, not political entities",
+        "answer": "Arnold Toynbee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FUN FACTS ABOUT STATES & CAPITALS",
+        "value": 1600,
+        "question": "The only state capital whose name ends in 3 consonants, namely R, C & K",
+        "answer": "Bismarck, North Dakota",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORMS",
+        "value": 800,
+        "question": "Seen here, this classic singing group had a No. 1 hit in 1952 with the \"Glow Worm\"",
+        "answer": "The Mills Brothers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PRO WRESTLING",
+        "value": 800,
+        "question": "Steve Austin got this nickname when his then wife insisted he drink his tea while it was still hot",
+        "answer": "\"Stone Cold\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HIGH \"IQ\"",
+        "value": 800,
+        "question": "This No. 1 song from 1963 was written & performed by Sister Luc-Gabrielle",
+        "answer": "\"Dominique\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE SOPRANOS",
+        "value": 1000,
+        "question": "In 1976 Gwyneth Jones sang Brunhilde in the centenary performances of this Richard Wagner tetralogy",
+        "answer": "The \"Ring\" Cycle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "HEY, ARNOLD!",
+        "value": 1000,
+        "question": "The 12-tone system of musical composition was created by this self-taught Austrian",
+        "answer": "Arnold Schoenberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FUN FACTS ABOUT STATES & CAPITALS",
+        "value": 1000,
+        "question": "It's the only state whose name begins with 2 vowels",
+        "answer": "Iowa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORMS",
+        "value": 2000,
+        "question": "This adjective that means \"worm-shaped\" is used to describe the human appendix",
+        "answer": "Vermiform",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HIGH \"IQ\"",
+        "value": 1000,
+        "question": "Maputo is its capital",
+        "answer": "Mozambique",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CHILDREN'S LITERATURE",
+    "clue": "\"Max et les Maximonstres\" is the French title of this children's classic",
+    "answer": "\"Where the Wild Things Are\""
+  },
+  "gameId": "3655",
+  "gameDate": "Friday, June 23, 2000"
+}

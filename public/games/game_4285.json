@@ -1,0 +1,574 @@
+{
+  "title": "Show #6663 - Wednesday, July 31, 2013",
+  "jeopardyRound": {
+    "categories": [
+      "THIS CATEGORY HAS \"IZE\"",
+      "WHAT'S FOR BREAKFAST?",
+      "AUTHORS",
+      "LET'S PLAY A GAME",
+      "TV TIME",
+      "CAPITAL MAP IT ALL"
+    ],
+    "clues": [
+      {
+        "category": "THIS CATEGORY HAS \"IZE\"",
+        "value": 200,
+        "question": "You do this to tell someone you're sorry for what you did",
+        "answer": "apologize",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR BREAKFAST?",
+        "value": 200,
+        "question": "Grab a cup of this, like Dannon's \"Fruit on the Bottom\"; it's a good source of calcium",
+        "answer": "yogurt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "He wove the Book of Revelation into his final Narnia book, \"The Last Battle\"",
+        "answer": "C.S. Lewis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LET'S PLAY A GAME",
+        "value": 200,
+        "question": "Extracting a pencil to cure \"Writer's Cramp\" in the patient in this game might require the nerves of a surgeon",
+        "answer": "Operation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TV TIME",
+        "value": 200,
+        "question": "\"Here comes\" this pint-sized beauty pageant sensation aka Alana Thompson",
+        "answer": "Honey Boo Boo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CAPITAL MAP IT ALL",
+        "value": 200,
+        "question": "No roads lead intothis state capital",
+        "answer": "Juneau",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THIS CATEGORY HAS \"IZE\"",
+        "value": 400,
+        "question": "To punish a sports player for an infraction",
+        "answer": "penalize",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR BREAKFAST?",
+        "value": 400,
+        "question": "How about a Belgian one of these treats, made in an iron & served with butter & maple syrup",
+        "answer": "a waffle",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "On June 2, 2003 she awoke from a dream with the characters Edward & Isabella in mind",
+        "answer": "Stephenie Meyer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LET'S PLAY A GAME",
+        "value": 400,
+        "question": "We hope the Gingerbread People avoid the Molasses Swamp & make it to the Lollipop Woods in this board game",
+        "answer": "Candy Land",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TV TIME",
+        "value": 400,
+        "question": "SpongeBob & Squidward work at this restaurant",
+        "answer": "the Krusty Krab",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CAPITAL MAP IT ALL",
+        "value": 400,
+        "question": "It was first settled in 1624",
+        "answer": "Albany",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THIS CATEGORY HAS \"IZE\"",
+        "value": 600,
+        "question": "To sprinkle the forehead with water to signify entry into the faith",
+        "answer": "baptize",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR BREAKFAST?",
+        "value": 600,
+        "question": "I'll cook some huevos rancheros, these served on tortillas & topped with salsa",
+        "answer": "eggs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 600,
+        "question": "As a teenager in Missouri, he got a job as a writer on his brother's newspaper, the Hannibal Western Union",
+        "answer": "Mark Twain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LET'S PLAY A GAME",
+        "value": 600,
+        "question": "In the classic Milton Bradley game, a battleship is 4 squares & this is the biggest vessel, taking up 5",
+        "answer": "the naval carrier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TV TIME",
+        "value": 600,
+        "question": "Get mom, dad, brother & sis to join you for shows like \"Melissa & Joey\" on the network called ABC this",
+        "answer": "Family",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CAPITAL MAP IT ALL",
+        "value": 600,
+        "question": "It became the state capital in 1854",
+        "answer": "Sacramento",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THIS CATEGORY HAS \"IZE\"",
+        "value": 800,
+        "question": "To kill microorganisms in preparation for surgery",
+        "answer": "sterilize",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR BREAKFAST?",
+        "value": 800,
+        "question": "A Southern favorite is the buttermilk type of these small quick breads smothered in gravy",
+        "answer": "a biscuit",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 800,
+        "question": "Captain George North was the pseudonym this author first used for \"Treasure Island\"",
+        "answer": "Robert Louis Stevenson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LET'S PLAY A GAME",
+        "value": 800,
+        "question": "The weapons in this game have included a rope, a lead pipe, a knife, a wrench, a revolver & a candlestick",
+        "answer": "Clue",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TV TIME",
+        "value": 800,
+        "question": "On \"Phineas and Ferb,\" a lone platypus stands up against the evil plans of this doctor",
+        "answer": "Dr. Doofenshmirtz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CAPITAL MAP IT ALL",
+        "value": 800,
+        "question": "It lies on both sides of the Kennebec River",
+        "answer": "Augusta",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THIS CATEGORY HAS \"IZE\"",
+        "value": 1000,
+        "question": "To sing in pleasant addition to the main singer",
+        "answer": "harmonize",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WHAT'S FOR BREAKFAST?",
+        "value": 1000,
+        "question": "For the record there's no fish called a lox--the lox on your bagel is made from this fish",
+        "answer": "salmon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AUTHORS",
+        "value": 1000,
+        "question": "While living in Paris in the 1820s, this \"Rip Van Winkle\" author wrote plays to support himself",
+        "answer": "Washington Irving",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LET'S PLAY A GAME",
+        "value": 1000,
+        "question": "This game in which little men are lined up on rods in rows is also called table soccer",
+        "answer": "foosball",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TV TIME",
+        "value": 1000,
+        "question": "A PSA, which tells you to do something good like read books or install smoke alarms, stands for this announcement",
+        "answer": "public service",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CAPITAL MAP IT ALL",
+        "value": 1000,
+        "question": "On November 25, 1861, it became a territorial capital",
+        "answer": "Carson City",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PEAKS & VALLEYS",
+      "MUSEUMS",
+      "YOU DO THE MATH",
+      "WORLD HISTORY",
+      "LET ME ENTERTAIN YOU",
+      "FOREIGN WORDS & PHRASES"
+    ],
+    "clues": [
+      {
+        "category": "PEAKS & VALLEYS",
+        "value": 400,
+        "question": "The Willamette Valley is the agricultural heart of this \"Beaver State\"",
+        "answer": "Oregon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 400,
+        "question": "To visit the Museum of the Confederacy, you have to go to this Virginia capital",
+        "answer": "Richmond",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 400,
+        "question": "If you have 2 dozen dolls & you sell 1/3 of them, you're left with this many",
+        "answer": "16",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 400,
+        "question": "In 1969 Apollo 11 landed humans here for the first time ever",
+        "answer": "the Moon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LET ME ENTERTAIN YOU",
+        "value": 400,
+        "question": "Drake & Eminem were featured artists on \"Loud\", an album from this single-named singer",
+        "answer": "Rihanna",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 400,
+        "question": "Sayonara means this in Tokyo; hey, we just got here",
+        "answer": "goodbye",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PEAKS & VALLEYS",
+        "value": 800,
+        "question": "Among the world's deepest, Nepal's Kali Gandaki River Valley lies between 2 26,000-foot peaks in this range",
+        "answer": "the Himalayas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 800,
+        "question": "This Paris museum is the most visited art museum in the world",
+        "answer": "the Louvre",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 800,
+        "question": "Your class forms a leapfrog league with teams made up of 4 players each; with 28 kids in your class, there are this many teams",
+        "answer": "7",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 800,
+        "question": "On Sept. 3, 1939 Great Britain & then France declared war on Germany, & this war was on",
+        "answer": "World War II",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LET ME ENTERTAIN YOU",
+        "value": 800,
+        "question": "Steve Carell voiced \"superbad superdad\" Gru, a criminal mastermind-turned-family man in this animated pic",
+        "answer": "Despicable Me",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 800,
+        "question": "People in Paris mainly use this word to say yes, yes, yes all the way home",
+        "answer": "oui",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PEAKS & VALLEYS",
+        "value": 1200,
+        "question": "Trying to find the highest peak in this mountain system? The \"trail\" leads to Mount Mitchell in North Carolina",
+        "answer": "the Appalachian Mountains",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 1200,
+        "question": "In 2012 the Children's Museum of Indianapolis had an exhibit honoring this classic toy spud",
+        "answer": "Mr. Potato Head",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 1200,
+        "question": "Vacation has taken you to a country where it's 4 pesos to every dollar, so your $7.50 gets you this many pesos",
+        "answer": "30 pesos",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1200,
+        "question": "In August 2008 the Summer Olympics took place in this Asian country",
+        "answer": "China",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LET ME ENTERTAIN YOU",
+        "value": 1200,
+        "question": "Jamie, Adam & their team separate truth from urban legend on this Discovery Channel show",
+        "answer": "MythBusters",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 1200,
+        "question": "If you like your potato chips salzig in Salzburg, you like them this way",
+        "answer": "salty",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PEAKS & VALLEYS",
+        "value": 1600,
+        "question": "The Valley of them was the burial site for most of the pharaohs of Ancient Egypt's New Kingdom",
+        "answer": "the Kings",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 1600,
+        "question": "What's called \"The Oldest House Museum Complex\" is located in this Florida city, the USA's oldest city",
+        "answer": "St. Augustine",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 1600,
+        "question": "You've got $2,000 saved for that Ferrari; at 5.5% annual interest, you'll make this much towards your goal in one year",
+        "answer": "$110",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1600,
+        "question": "The Gregorian one of these replaced the Julian one in 1582 & moved the date forward 10 days to catch things up",
+        "answer": "a calendar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LET ME ENTERTAIN YOU",
+        "value": 1600,
+        "question": "She's tall & thin, she's blonde, she's a Best Country Solo Performance Grammy winner for her song \"Mean\"",
+        "answer": "Taylor Swift",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 1600,
+        "question": "\"Buenas tardes\" said our tour guide in Madrid; he meant this",
+        "answer": "good afternoon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PEAKS & VALLEYS",
+        "value": 2000,
+        "question": "Go ahead, build a house on Madera Volcano in Nicaragua--it's this word meaning \"sleeping\"",
+        "answer": "dormant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSEUMS",
+        "value": 2000,
+        "question": "A hand-pulled hose cart is on display at the Orange County, New York museum of these professionals",
+        "answer": "firefighters",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "YOU DO THE MATH",
+        "value": 2000,
+        "question": "You can eat 2 pancakes in a minute & a half, so it'll take you this long to eat 8",
+        "answer": "6 minutes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 2000,
+        "question": "This khan, the grandson of Genghis Khan, ruled much of Asia by the time he died in 1294",
+        "answer": "Kublai",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LET ME ENTERTAIN YOU",
+        "value": 2000,
+        "question": "He's short & round, he's pink, he's the title video game character in his \"Return to Dream Land\"",
+        "answer": "Kirby",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FOREIGN WORDS & PHRASES",
+        "value": 2000,
+        "question": "Beethoven put this Italian word for a brisk tempo on 3 of the 4 movements of his Fifth Symphony",
+        "answer": "allegro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE CIVIL WAR",
+    "clue": "Abraham Lincoln called this document, which took effect in 1863, \"a fit and necessary war measure\"",
+    "answer": "the Emancipation Proclamation"
+  },
+  "gameId": "6663",
+  "gameDate": "Wednesday, July 31, 2013"
+}

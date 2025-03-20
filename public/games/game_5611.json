@@ -1,0 +1,574 @@
+{
+  "title": "Show #7512 - Tuesday, April 18, 2017",
+  "jeopardyRound": {
+    "categories": [
+      "FROM THEIR INAUGURAL ADDRESSES",
+      "IN THE DICTIONARY",
+      "GRAVE MATTERS",
+      "STATE THE CITY",
+      "DRINKS FOR EVERYONE!",
+      "GAMBLING ON VEGAS MOVIES"
+    ],
+    "clues": [
+      {
+        "category": "FROM THEIR INAUGURAL ADDRESSES",
+        "value": 200,
+        "question": "\"In your hands, my dissatisfied countrymen, and not in mine, is the momentous issue of civil war\"",
+        "answer": "Lincoln",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 200,
+        "question": "The name of a land agent gives us this tactic for refusing to buy a company's products",
+        "answer": "boycott",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GRAVE MATTERS",
+        "value": 200,
+        "question": "Frank Sinatra's epitaph is this song title (but not \"And babe, won't that be fine\")",
+        "answer": "\"The Best Is Yet To Come\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE THE CITY",
+        "value": 200,
+        "question": "Ohio: The most populous on Lake Erie",
+        "answer": "Cleveland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DRINKS FOR EVERYONE!",
+        "value": 200,
+        "question": "Part of a tradition dating back centuries, a toji is a master overseer of the creation of this fermented beverage",
+        "answer": "sake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GAMBLING ON VEGAS MOVIES",
+        "value": 200,
+        "question": "New-in-town alcoholic writer Nicolas Cage decides to have his last ride in Vegas in this 1995 film",
+        "answer": "Leaving Las Vegas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FROM THEIR INAUGURAL ADDRESSES",
+        "value": 400,
+        "question": "\"Government is not the solution to our problem; government is the problem\"",
+        "answer": "Reagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 400,
+        "question": "As a verb, it means to stop the flow of blood; as an adjective, steadfast or loyal",
+        "answer": "stanch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GRAVE MATTERS",
+        "value": 400,
+        "question": "The central nave of the National Pantheon of Venezuela is dedicated to this liberator of South America",
+        "answer": "Bolívar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE THE CITY",
+        "value": 400,
+        "question": "Massachusetts: A \"saucy\" place on the Blackstone Canal",
+        "answer": "Worcester",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DRINKS FOR EVERYONE!",
+        "value": 400,
+        "question": "Untappd is an app used by drinkers of this beverage to keep track of what they drink & to share notes on taste",
+        "answer": "beer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GAMBLING ON VEGAS MOVIES",
+        "value": 400,
+        "question": "Fiance Nicolas Cage had a rough plane ride over Vegas in this 1992 film",
+        "answer": "Honeymoon in Vegas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FROM THEIR INAUGURAL ADDRESSES",
+        "value": 600,
+        "question": "From his second inaugural address: \"I see one-third of a nation ill-housed, ill-clad, ill-nourished\"",
+        "answer": "Franklin Roosevelt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 600,
+        "question": "It's the holiday-themed term for a hidden bonus in a film or computer game",
+        "answer": "an Easter egg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GRAVE MATTERS",
+        "value": 600,
+        "question": "In 2016 this basketball coach of the Lady Vols was laid to rest in Mount Carmel Cemetery in Tennessee",
+        "answer": "Pat Summitt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE THE CITY",
+        "value": 600,
+        "question": "Indiana: Named for a \"Mad\" major general",
+        "answer": "Fort Wayne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DRINKS FOR EVERYONE!",
+        "value": 600,
+        "question": "One story says that this cocktail got its name from the Italian vermouth manufacturer this & Rossi",
+        "answer": "martini",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GAMBLING ON VEGAS MOVIES",
+        "value": 600,
+        "question": "Newly paroled Nicolas Cage had a rough plane ride into Vegas in this 1997 film",
+        "answer": "Con Air",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FROM THEIR INAUGURAL ADDRESSES",
+        "value": 800,
+        "question": "\"My fellow citizens: the world and we have passed the midway point of a century of continuing challenge\"",
+        "answer": "Eisenhower",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 800,
+        "question": "A few pages after bagel, you'll find this somewhat similar onion roll",
+        "answer": "a bialy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GRAVE MATTERS",
+        "value": 800,
+        "question": "When Spenser was buried near Chaucer at Westminster Abbey, the concept of this area was begun",
+        "answer": "Poets' Corner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE THE CITY",
+        "value": 800,
+        "question": "Down south, \"the birthplace of California\"",
+        "answer": "San Diego",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DRINKS FOR EVERYONE!",
+        "value": 800,
+        "question": "A tax-dodging \"ring\" during the Grant administration was named for this liquor",
+        "answer": "whiskey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GAMBLING ON VEGAS MOVIES",
+        "value": 800,
+        "question": "A security guard exposition called this \"Mall Cop\" character back to duty in a Vegas-set sequel",
+        "answer": "Paul Blart: Mall Cop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FROM THEIR INAUGURAL ADDRESSES",
+        "value": 1000,
+        "question": "\"I have just taken the oath of office on the Bible my mother gave me just a few years ago\"",
+        "answer": "(Jimmy) Carter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "IN THE DICTIONARY",
+        "value": 1000,
+        "question": "It's the long word specifically for a 150th anniversary",
+        "answer": "a sesquicentennial",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GRAVE MATTERS",
+        "value": 1000,
+        "question": "Edith Piaf is among those buried in this Paris cemetery",
+        "answer": "Père Lachaise",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE THE CITY",
+        "value": 1000,
+        "question": "Michigan: Served by Gerald R. Ford International Airport",
+        "answer": "Grand Rapids",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DRINKS FOR EVERYONE!",
+        "value": 1000,
+        "question": "Admiral Edward Vernon is known as the father of this 4-letter rum drink for sailors",
+        "answer": "grog",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GAMBLING ON VEGAS MOVIES",
+        "value": 1000,
+        "question": "In \"Lost in America\" the Desert Inn doesn't have as much heart as this actor hopes after his wife loses the nest egg",
+        "answer": "Albert Brooks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BASEBALL",
+      "POWER HITTERS",
+      "FOWL",
+      "DUG OUT",
+      "\"GRAND\" SLAM",
+      "DOUBLE PLAY"
+    ],
+    "clues": [
+      {
+        "category": "BASEBALL",
+        "value": 400,
+        "question": "In 2016 Cleveland's hopes died as this team won it all for the first time since the year Grover Cleveland died",
+        "answer": "the (Chicago) Cubs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "POWER HITTERS",
+        "value": 400,
+        "question": "John J. Astor IV built the St. Regis, wrote a sci-fi novel & designed a turbine engine before his fatal trip on this ship",
+        "answer": "the Titanic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOWL",
+        "value": 400,
+        "question": "The 7 subspecies of this goose include Hudson Bay & Vancouver",
+        "answer": "a Canadian goose (or Canada goose)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DUG OUT",
+        "value": 400,
+        "question": "No medieval British castle is complete without one of these dug around it",
+        "answer": "a moat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"GRAND\" SLAM",
+        "value": 400,
+        "question": "\"Race 'n' Chase\" was the working title for this video game series",
+        "answer": "Grand Theft Auto",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE PLAY",
+        "value": 400,
+        "question": "\"American Buffalo\" & \"Glengarry Glen Ross\"",
+        "answer": "(David) Mamet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BASEBALL",
+        "value": 800,
+        "question": "Babe Ruth was the first to wear No. 3 for the Yankees; this man was their first No. 4",
+        "answer": "Lou Gehrig",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "POWER HITTERS",
+        "value": 800,
+        "question": "Her forbes.com profile says it all: \"$2.9 billion... producer, entrepreneur, personality, philanthropist\"",
+        "answer": "Oprah Winfrey",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOWL",
+        "value": 800,
+        "question": "Around 1520 Spanish explorers introduced this largest native North American game bird to Europe",
+        "answer": "the turkey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DUG OUT",
+        "value": 800,
+        "question": "At Kimberley, South Africa, you can visit \"The Big Hole\", dug for the purpose of finding these",
+        "answer": "diamonds",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"GRAND\" SLAM",
+        "value": 800,
+        "question": "The 5th Amendment: \"No person shall be held to answer\" for a capital crime except on \"indictment of\" one of these",
+        "answer": "a grand jury",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE PLAY",
+        "value": 800,
+        "question": "\"Tartuffe\" & \"The Imaginary Invalid\"",
+        "answer": "Molière",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BASEBALL",
+        "value": 1200,
+        "question": "Before they were named for their hosiery, this American League team was known simply as the Americans",
+        "answer": "the (Boston) Red Sox",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "POWER HITTERS",
+        "value": 1200,
+        "question": "Ted Turner took a $7 billion hit after this company merged with AOL in 2001 but rest easy; Ted's still doing okay",
+        "answer": "Time Warner",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FOWL",
+        "value": 1200,
+        "question": "\"The Joy of Cooking\" says this fowl was once served \"under glass\" to keep it moist between oven & table",
+        "answer": "pheasant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DUG OUT",
+        "value": 1200,
+        "question": "Sebastien le Prestre de Vauban was an early practitioner of this type of warfare named for what was dug",
+        "answer": "a trench",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"GRAND\" SLAM",
+        "value": 1200,
+        "question": "Epilepsy can involve this French-named type of seizure with severe convulsions & loss of consciousness",
+        "answer": "grand mal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE PLAY",
+        "value": 1200,
+        "question": "\"Ghosts\" & \"The Wild Duck\"",
+        "answer": "(Henrik) Ibsen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BASEBALL",
+        "value": 1600,
+        "question": "In 2012 Miguel Cabrera got on his horse & became the first hitter to win this distinction since 1967",
+        "answer": "the Triple Crown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "POWER HITTERS",
+        "value": 1600,
+        "question": "In the 1920s & '30s this camera man gave away $75 million, which was more than half his fortune",
+        "answer": "(George) Eastman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FOWL",
+        "value": 1600,
+        "question": "Gulls will follow flocks of the common Merganser type of this to steal its prey",
+        "answer": "duck",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DUG OUT",
+        "value": 1600,
+        "question": "Britain's Anatomy Act of 1832 halted this practice that involved some digging, presumably at night",
+        "answer": "grave robbery",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"GRAND\" SLAM",
+        "value": 1600,
+        "question": "It's the big ballet leap being performed here",
+        "answer": "a grand jeté",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE PLAY",
+        "value": 1600,
+        "question": "\"An American Daughter\" & \"The Heidi Chronicles\"",
+        "answer": "(Wendy) Wasserstein",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BASEBALL",
+        "value": 2000,
+        "question": "Wins above replacement is a statistic in this field of baseball statistical analysis",
+        "answer": "sabermetrics",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "POWER HITTERS",
+        "value": 2000,
+        "question": "@jack is the handle of this Twitter CEO",
+        "answer": "(Jack) Dorsey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FOWL",
+        "value": 2000,
+        "question": "In the 1950s breeder Te Makowsky took the chicken with this British geographic name & made it \"rock\"",
+        "answer": "Cornish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DUG OUT",
+        "value": 2000,
+        "question": "Isaac & Abraham dug wells in this town of southern Israel whose name means \"seven wells\"",
+        "answer": "Beersheba",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"GRAND\" SLAM",
+        "value": 2000,
+        "question": "It makes sense that this Colorado city is found where the Gunnison & Colorado Rivers meet",
+        "answer": "Grand Junction",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DOUBLE PLAY",
+        "value": 2000,
+        "question": "\"True West\" & \"Buried Child\"",
+        "answer": "Sam Shepard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MILITARY INNOVATIONS",
+    "clue": "The U.S. Navy's photonics mast has replaced this familiar device",
+    "answer": "a periscope"
+  },
+  "gameId": "7512",
+  "gameDate": "Tuesday, April 18, 2017"
+}

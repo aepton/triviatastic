@@ -1,0 +1,574 @@
+{
+  "title": "Show #8895 - Friday, June 16, 2023",
+  "jeopardyRound": {
+    "categories": [
+      "CONTINENTAL GEOGRAPHY",
+      "BIRTHSTONES",
+      "3-LETTER WORDS ENDING IN X",
+      "GREASE & ROAM",
+      "NIGHT SKIES",
+      "FINISH LAST"
+    ],
+    "clues": [
+      {
+        "category": "CONTINENTAL GEOGRAPHY",
+        "value": 200,
+        "question": "In the 17th century this continent was given the name New Holland",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 200,
+        "question": "This June birthstone is the only one produced by a living organism",
+        "answer": "pearl",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER WORDS ENDING IN X",
+        "value": 200,
+        "question": "Suit for a formal",
+        "answer": "a tux",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GREASE & ROAM",
+        "value": 200,
+        "question": "A rating of 10W-40 means a multigrade engine oil has a viscosity of 10 in cold weather, 40 in warm; the \"W\" stands for this",
+        "answer": "winter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NIGHT SKIES",
+        "value": 200,
+        "question": "With a small telescope & averted vision, it's possible to see the galaxy M51 near the handle of this asterism",
+        "answer": "the Big Dipper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FINISH LAST",
+        "value": 200,
+        "question": "Last-place competitors in this bicycle race are known as the \"lanterne rouge\", like the red light on the back of a vehicle",
+        "answer": "the Tour de France",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CONTINENTAL GEOGRAPHY",
+        "value": 400,
+        "question": "Africa's 54 nations are more than any other continent has, with this country the newest",
+        "answer": "South Sudan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 400,
+        "question": "Big in the Southwest, it's one of the birthstones for December",
+        "answer": "turquoise",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER WORDS ENDING IN X",
+        "value": 400,
+        "question": "To dishonestly influence something to reach a predetermined outcome",
+        "answer": "fix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GREASE & ROAM",
+        "value": 400,
+        "question": "Boat owners know about marine grease from Lucas Oil, headquartered in this Midwest city where its name is on a football stadium",
+        "answer": "Indianapolis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NIGHT SKIES",
+        "value": 400,
+        "question": "Illuminating the dark chrysalis of space, M6 emerges in Scorpius & is called this insect cluster; its stars resemble wings",
+        "answer": "butterfly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FINISH LAST",
+        "value": 400,
+        "question": "Fenwick & Pretension are horses that finished last in this annual Triple Crown race in Maryland",
+        "answer": "the Preakness",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CONTINENTAL GEOGRAPHY",
+        "value": 600,
+        "question": "It's the windiest continent & on average, the highest",
+        "answer": "Antarctica",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 600,
+        "question": "Ranging from light purple to deep royal purple, it's the birthstone for February",
+        "answer": "amethyst",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER WORDS ENDING IN X",
+        "value": 600,
+        "question": "To bewitch someone or cast a spell upon them is to do this",
+        "answer": "hex",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GREASE & ROAM",
+        "value": 600,
+        "question": "Automotive grease is heavily used in this system that provides steering stability & keeps passengers from bouncing all over the place",
+        "answer": "the suspension",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NIGHT SKIES",
+        "value": 600,
+        "question": "Betelgeuse, a red supergiant star in this constellation with a famous belt, may go supernova soon... in 100,000 years",
+        "answer": "Orion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FINISH LAST",
+        "value": 600,
+        "question": "With apologies to our good fans in Ohio, this NFL team is the most recent to finish a season with 0 wins",
+        "answer": "the (Cleveland) Browns",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CONTINENTAL GEOGRAPHY",
+        "value": 800,
+        "question": "Asia & North America are just 55 miles apart where the Chukchi Peninsula almost meets this Alaskan one",
+        "answer": "the Seward Peninsula",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 800,
+        "question": "Composed of hydrated silica, this October birthstone is known for its play of color",
+        "answer": "opal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER WORDS ENDING IN X",
+        "value": 800,
+        "question": "To disturb with minor irritations",
+        "answer": "vex",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GREASE & ROAM",
+        "value": 800,
+        "question": "A type of this clear oil also found on pharmacy shelves is often used to break in airplane engines",
+        "answer": "mineral oil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NIGHT SKIES",
+        "value": 800,
+        "question": "Mizar A & B are what's called a visual this word, like a kind of computer code, for their apparent closeness",
+        "answer": "a binary system",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FINISH LAST",
+        "value": 800,
+        "question": "After a 10-72 last-place finish in the 2015-16 season, this team got the first overall draft pick & chose Ben Simmons",
+        "answer": "the Philadelphia 76ers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CONTINENTAL GEOGRAPHY",
+        "value": 1000,
+        "question": "This continent bears the name of a mythological Phoenician princess pursued by Zeus",
+        "answer": "Europe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BIRTHSTONES",
+        "value": 1000,
+        "question": "Red spots of iron oxide give a birthstone for March this name",
+        "answer": "bloodstone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "3-LETTER WORDS ENDING IN X",
+        "value": 1000,
+        "question": "No war, for a Roman",
+        "answer": "pax",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GREASE & ROAM",
+        "value": 1000,
+        "question": "Used in cars with stick shifts, gear oil protects meshing moving parts after a driver releases this pedal",
+        "answer": "the clutch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NIGHT SKIES",
+        "value": 1000,
+        "question": "NGC 6355 is one of these star clusters named for their somewhat spherical shape",
+        "answer": "a globular cluster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FINISH LAST",
+        "value": 1000,
+        "question": "Known as \"Mr. Cub\" & a player on more than one last-place team, he said, \"The only way to prove that you're a good sport is to lose\"",
+        "answer": "Ernie Banks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "HISTORIC GROUPS",
+      "OPPOSITIONAL BOOK TITLES",
+      "GO TELL IT ON THE FOUNTAIN",
+      "THAT EUROPEAN LANGUAGE",
+      "CUFFING SEASON",
+      "THIS IS ALL A BIT MUCH"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC GROUPS",
+        "value": 400,
+        "question": "Around 1870 the U.S.-based Fenian Brotherhood hoped to conquer Canada & force Great Britain to free this island",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OPPOSITIONAL BOOK TITLES",
+        "value": 400,
+        "question": "A young woman reopens a closed homicide case with dangerous results in Holly Jackson's \"A Good Girl's Guide to\" this crime",
+        "answer": "murder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GO TELL IT ON THE FOUNTAIN",
+        "value": 400,
+        "question": "In this Swiss city for Red Cross meetings check out the Jet d'Eau; it can shoot 7 tons of water about 450 feet high",
+        "answer": "Geneva",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THAT EUROPEAN LANGUAGE",
+        "value": 400,
+        "question": "Spoken in the very first IKEA store",
+        "answer": "Swedish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CUFFING SEASON",
+        "value": 400,
+        "question": "It was SZA szn on TikTok after she sang about \"cuffing\" a large man for the cold months on this NBC show",
+        "answer": "Saturday Night Live",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THIS IS ALL A BIT MUCH",
+        "value": 400,
+        "question": "This word refers to the great flood endured by Noah, or torrential rain of non-biblical proportions",
+        "answer": "diluvial (deluge)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GROUPS",
+        "value": 800,
+        "question": "Bleda & his younger brother became co-rulers of this group of nomadic invaders in 434",
+        "answer": "the Huns",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OPPOSITIONAL BOOK TITLES",
+        "value": 800,
+        "question": "The subtitle of this nonfiction work by a Catholic sister is \"An Eyewitness Account of the Death Penalty in the United States\"",
+        "answer": "Dead Man Walking",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GO TELL IT ON THE FOUNTAIN",
+        "value": 800,
+        "question": "Here's the Fountain of Wealth, representing oneness in spirit in this city-state at the tip of the Malay Peninsula",
+        "answer": "Singapore",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THAT EUROPEAN LANGUAGE",
+        "value": 800,
+        "question": "This language of Scotland was suppressed in the 18th century",
+        "answer": "Scottish Gaelic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CUFFING SEASON",
+        "value": 800,
+        "question": "In this 1999 film Laurence Fishburne breaks the chains off his handcuffs before jumping out of a building & into Keanu's arms",
+        "answer": "The Matrix",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THIS IS ALL A BIT MUCH",
+        "value": 800,
+        "question": "You've \"gone\" this, like Goldie Hawn in a movie title & Anna Faris in the remake",
+        "answer": "overboard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GROUPS",
+        "value": 1200,
+        "question": "Perhaps a candidate for a name change, Robespierre's Committee of Public Safety exercised control during this 1793-94 period",
+        "answer": "the Reign of Terror",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OPPOSITIONAL BOOK TITLES",
+        "value": 1200,
+        "question": "\"Enormous Smallness\" is Matthew Burgess' portrait of this poet who often used no uppercase letters",
+        "answer": "e.e. cummings",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GO TELL IT ON THE FOUNTAIN",
+        "value": 1200,
+        "question": "Versailles' statue of this Roman god rising symbolically at dawn on his chariot to light the world is seen here",
+        "answer": "Apollo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THAT EUROPEAN LANGUAGE",
+        "value": 1200,
+        "question": "Mark Twain said capitalizing every noun is one of its few good qualities",
+        "answer": "German",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CUFFING SEASON",
+        "value": 1200,
+        "question": "The cuffs worn by this superhero in the 1970s TV show are made from feminum, a metal mined on Paradise Island",
+        "answer": "Wonder Woman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THIS IS ALL A BIT MUCH",
+        "value": 1200,
+        "question": "There may be a bit of chagrin involved when this long word comes before \"of riches\" in an idiom",
+        "answer": "embarrassment",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GROUPS",
+        "value": 1600,
+        "question": "Even the Industrial Workers of the World say theories on how they got this nickname are on shaky ground",
+        "answer": "the Wobblies",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OPPOSITIONAL BOOK TITLES",
+        "value": 1600,
+        "question": "This Harvard symbologist character first shows up in Dan Brown's \"Angels & Demons\"",
+        "answer": "Robert Langdon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GO TELL IT ON THE FOUNTAIN",
+        "value": 1600,
+        "question": "Fed by an aqueduct built in 19 B.C., this fountain in Italy got its name from its location at the convergence of 3 roads",
+        "answer": "the Trevi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THAT EUROPEAN LANGUAGE",
+        "value": 1600,
+        "question": "Rz is usually a single sound, but surprise! Not in Marznac",
+        "answer": "Polish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "CUFFING SEASON",
+        "value": 1600,
+        "question": "This Bulls & Lakers coach once used the basketball-appropriate malaphor \"I'm shooting from the cuff\"",
+        "answer": "(Phil) Jackson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THIS IS ALL A BIT MUCH",
+        "value": 1600,
+        "question": "It means wastefully extravagant, like an offspring in Luke 15",
+        "answer": "prodigal",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC GROUPS",
+        "value": 2000,
+        "question": "The 1926 Balfour report brought about this 12-letter group \"equal in status, in no way subordinate one to another\"",
+        "answer": "the Commonwealth (of Nations)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OPPOSITIONAL BOOK TITLES",
+        "value": 2000,
+        "question": "A page from this visionary English poet & artist's \"The Marriage of Heaven & Hell\" from around 1790 is seen here",
+        "answer": "William Blake",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GO TELL IT ON THE FOUNTAIN",
+        "value": 2000,
+        "question": "The world's longest bridge fountain at 3,740 feet, Seoul's Moonlight Rainbow shoots water recycled from this river below",
+        "answer": "the Han",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THAT EUROPEAN LANGUAGE",
+        "value": 2000,
+        "question": "Remember your double vowels: tuli is fire, tuuli is wind",
+        "answer": "Finnish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "CUFFING SEASON",
+        "value": 2000,
+        "question": "It was lit when this Titan hung with mankind but it got real dark after Zeus cuffed him to that mountain",
+        "answer": "Prometheus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THIS IS ALL A BIT MUCH",
+        "value": 2000,
+        "question": "From the Greek for \"fullness\", this 8-letter word can mean an overabundance",
+        "answer": "a plethora",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AMERICAN GEOGRAPHY",
+    "clue": "Native Americans called it Okwa-ta, or \"wide water\"; Pierre Le Moyne d'Iberville would rename it for a countryman",
+    "answer": "Lake Pontchartrain"
+  },
+  "gameId": "8895",
+  "gameDate": "Friday, June 16, 2023"
+}

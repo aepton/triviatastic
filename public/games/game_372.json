@@ -1,0 +1,565 @@
+{
+  "title": "Show #2817 - Tuesday, November 26, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "HISTORIC NAMES",
+      "INVENTIONS",
+      "HOME RUN SLUGGERS",
+      "ANNUAL EVENTS",
+      "FASHION",
+      "ALPHABET SOUP"
+    ],
+    "clues": [
+      {
+        "category": "HISTORIC NAMES",
+        "value": 100,
+        "question": "In 1211, his force of over 50,000 soldiers broke through the Great Wall of China",
+        "answer": "Genghis Khan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 100,
+        "question": "The phrase \"the sands of time\" refers to this invention, common since the 14th century",
+        "answer": "Hourglass",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "HOME RUN SLUGGERS",
+        "value": 100,
+        "question": "He was born October 20, 1931 and named for Hall of Fame catcher Mickey Cochrane",
+        "answer": "Mickey Mantle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 100,
+        "question": "This Florida city's 1565 founding is observed in September at the Mission of Nombre de Dios",
+        "answer": "St. Augustine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 100,
+        "question": "In 1996 this 2-piece bathing suit celebrated its 50th anniversary",
+        "answer": "Bikini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ALPHABET SOUP",
+        "value": 100,
+        "question": "A constitutional addition proposed for women in the 1970s",
+        "answer": "E.R.A. (Equal Rights Amendment)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 200,
+        "question": "Among his rules & theorems were \"Don't eat beans\" & the more famous one about the square of the hypotenuse",
+        "answer": "Pythagoras",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 200,
+        "question": "He held a 1794 patent for a device he invented in just 10 days, for cleaning greenseed cotton",
+        "answer": "Eli Whitney",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HOME RUN SLUGGERS",
+        "value": 200,
+        "question": "On July 27, 1974 in the only game he ever pitched, Dodger Rex Hudson gave up this man's 726th home run",
+        "answer": "Hank Aaron",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 200,
+        "question": "The Hatillo Festival of the Masks is a colorful December event in this U.S. commonwealth",
+        "answer": "Puerto Rico",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 200,
+        "question": "This puckered & striped cotton suit for men can now be found in a variety of styles & colors",
+        "answer": "Seersucker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ALPHABET SOUP",
+        "value": 200,
+        "question": "The 2 letters that designated a 33 1/3 RPM record",
+        "answer": "LP",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 300,
+        "question": "This city was almost 2000 years old when Nebuchadnezzar II developed it as an urban model",
+        "answer": "Babylon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 300,
+        "question": "An 1890s bottle cap invented by William Painter was lined with this; plastic-lined ones appeared years later",
+        "answer": "Cork",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HOME RUN SLUGGERS",
+        "value": 300,
+        "question": "When he slugged 61 home runs in 1961, his batting average was only .269",
+        "answer": "Roger Maris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 300,
+        "question": "Traditionally, this African-American holiday begins December 26 & lasts for 7 days",
+        "answer": "Kwanzaa",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 300,
+        "question": "Everything old is new again with this style of clothing reflecting the '70s & earlier decades",
+        "answer": "Retro",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ALPHABET SOUP",
+        "value": 300,
+        "question": "BLT is a sandwich & B. LIT. is this degree",
+        "answer": "Bachelor of Literature",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 400,
+        "question": "It took him 9 years to write \"An Inquiry Into the Nature and Causes of the Wealth of Nations\"",
+        "answer": "Adam Smith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 400,
+        "question": "His 1861 cylindrical pin-tumbler lock was an adaptation of ancient Egyptian lock designs",
+        "answer": "Linus Yale",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HOME RUN SLUGGERS",
+        "value": 400,
+        "question": "In 1996, for the 4th time in history, 2 players hit 50 homers in a season:  Brady Anderson & this Oakland player",
+        "answer": "Mark McGwire",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 400,
+        "question": "The Antigonish Highland Games have been held in this Canadian province every year since 1861",
+        "answer": "Nova Scotia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 400,
+        "question": "Selleria by Carla Fendi is a new line of these accessories inspired by ones made by her mother",
+        "answer": "Purses",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ALPHABET SOUP",
+        "value": 400,
+        "question": "The cities that hosted the summer Olympics in 1968, 1972, 1976 & 1980 all begin with this letter",
+        "answer": "M",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "HISTORIC NAMES",
+        "value": 500,
+        "question": "Salim The Grim was the father of this \"magnificent\" ruler",
+        "answer": "Suleiman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 500,
+        "question": "After a trip to Africa, Ann Moore created this pouch to carry your child on your chest, like women in Togo",
+        "answer": "Snugli",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HOME RUN SLUGGERS",
+        "value": 500,
+        "question": "This former Phillies 3rd baseman led the National League in home runs a record 8 times",
+        "answer": "Mike Schmidt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ANNUAL EVENTS",
+        "value": 1000,
+        "question": "It dates back to an 1810 party celebrating the bethrothal of Princess Therese to the crown prince of Bavaria",
+        "answer": "Oktoberfest",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FASHION",
+        "value": 500,
+        "question": "Yves St. Laurent created a dress line named for this Dutch artist featuring blocks of color banded with black",
+        "answer": "Piet Mondrian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ALPHABET SOUP",
+        "value": 500,
+        "question": "It's probably Karel Capek's best known play",
+        "answer": "R.U.R.",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LATIN AMERICA",
+      "1796",
+      "OPERA LIBRETTISTS",
+      "POLITICS",
+      "VETERINARY MEDICINE",
+      "THEY ALMOST STARRED IN..."
+    ],
+    "clues": [
+      {
+        "category": "LATIN AMERICA",
+        "value": 200,
+        "question": "About 80% of Latin America belongs to this religious denomination",
+        "answer": "Roman Catholic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "1796",
+        "value": 200,
+        "question": "Ben Franklin sold this publication in 1757, but it continued until 1796",
+        "answer": "Poor Richard's Almanack",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OPERA LIBRETTISTS",
+        "value": 200,
+        "question": "This \"Ragtime\" composer wrote the libretto for his own opera, \"Trimonisha\", and choreographed it too",
+        "answer": "Scott Joplin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POLITICS",
+        "value": 200,
+        "question": "On August 10, 1996 Bob Dole chose this former Buffalo Bills quarterback as his running mate",
+        "answer": "Jack Kemp (of Occidental College)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "VETERINARY MEDICINE",
+        "value": 200,
+        "question": "Today's pets can be treated with physiotherapy, herbal medicine & this Chinese method that uses needles",
+        "answer": "Acupuncture",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THEY ALMOST STARRED IN...",
+        "value": 200,
+        "question": "Producer Pandro S. Berman planned to star Katharine Hepburn as Velvet Brown in this equine film",
+        "answer": "\"National Velvet\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LATIN AMERICA",
+        "value": 400,
+        "question": "In 1979 this leftist rebel group named for a guerrilla leader toppled Nicaragua's Somoza dynasty",
+        "answer": "Sandinistas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "1796",
+        "value": 400,
+        "question": "On November 17 this Russian empress died  in St. Petersburg at age 67",
+        "answer": "Catherine the Great",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OPERA LIBRETTISTS",
+        "value": 400,
+        "question": "This French novelist, a pere without peer, penned the libretto for Monpou's \"Le Piquillo\"",
+        "answer": "Alexandre Dumas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POLITICS",
+        "value": 400,
+        "question": "In 1972 Bill Clinton directed the Texas campaign of this Democratic presidential nominee",
+        "answer": "George McGovern",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "VETERINARY MEDICINE",
+        "value": 400,
+        "question": "The \"round\" type of this internal parasite often infects puppies through the mother's blood",
+        "answer": "Worm",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THEY ALMOST STARRED IN...",
+        "value": 400,
+        "question": "Bette Davis wanted to play Martha in this 1966 film, but Elizabeth Taylor got the part and an Oscar",
+        "answer": "Who's Afraid of Virginia Woolf?",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LATIN AMERICA",
+        "value": 600,
+        "question": "The name of this Mayan center of culture on the Yucatan means \"mouth of the wells of the Itza\"",
+        "answer": "Chichen Itza",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "1796",
+        "value": 600,
+        "question": "In 1796 this future U.S. president helped draft Tennessee's new constitution",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OPERA LIBRETTISTS",
+        "value": 600,
+        "question": "The childrens' opera \"The Fisherman and His Wife\" has a libretto by this author:  \"Rabbit, Run\" to see it",
+        "answer": "John Updike",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "VETERINARY MEDICINE",
+        "value": 600,
+        "question": "Parainfluenza is often called this \"cough\" because it afflicts dogs kept in large groups",
+        "answer": "Kennel Cough",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THEY ALMOST STARRED IN...",
+        "value": 1200,
+        "question": "Grace Kelly was supposed to play Maggie Politt in this film, based on a play, but moved to Monaco instead",
+        "answer": "Cat on a Hot Tin Roof",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LATIN AMERICA",
+        "value": 800,
+        "question": "This Guyanese capital once had the Dutch name Stabroek",
+        "answer": "Georgetown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "1796",
+        "value": 800,
+        "question": "Born in Massachusetts in 1796, this educator helped create the U.S.A.'s 1st state board of education",
+        "answer": "Horace Mann",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OPERA LIBRETTISTS",
+        "value": 800,
+        "question": "\"J'Accuse\" this \"Nana\" novelist of writing the libretto for Bruneau's opera \"Messidor\"",
+        "answer": "Emile Zola",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POLITICS",
+        "value": 800,
+        "question": "Born of Italian immigrant parents, this former New York governor could scarcely speak English when he began school",
+        "answer": "Mario Cuomo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "VETERINARY MEDICINE",
+        "value": 800,
+        "question": "Sex hormones may be given to cats stricken with alopecia, loss of this",
+        "answer": "Hair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THEY ALMOST STARRED IN...",
+        "value": 800,
+        "question": "Director Josh Logan wanted Elizabeth Taylor to play Nellie Forbush in this movie musical",
+        "answer": "South Pacific",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LATIN AMERICA",
+        "value": 1000,
+        "question": "On September 11, 1973, military forces seized power in Chile and this Marxist president perished",
+        "answer": "Salvador Allende",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "1796",
+        "value": 1000,
+        "question": "In 1796 after almost 150 years of control by this country, Ceylon came under British administration",
+        "answer": "The Netherlands/Holland",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OPERA LIBRETTISTS",
+        "value": 1000,
+        "question": "\"Ariane & Bluebeard\" features a libretto by this Belgian who gave us \"The Blue Bird\"",
+        "answer": "Maurice Maeterlinck",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POLITICS",
+        "value": 2000,
+        "question": "In 1987 this Maryland senator became the 1st Democratic woman to have served in both houses of Congress",
+        "answer": "Barbara Mikulski",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "VETERINARY MEDICINE",
+        "value": 1000,
+        "question": "Fever is a sign of this disease caused by parvovirus in cats & by a paramixovirus in dogs",
+        "answer": "Distemper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THEY ALMOST STARRED IN...",
+        "value": 1000,
+        "question": "Delays caused Stephen Boyd to quit this 1963 epic; Richard Burton replaced him & the rest is history",
+        "answer": "Cleopatra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SHORT STORIES",
+    "clue": "Set on Christmas Eve, it begins \"One dollar and 87 cents.  That was all.  And 60 cents of it was in pennies.\"",
+    "answer": "\"The Gift of the Magi\""
+  },
+  "gameId": "2817",
+  "gameDate": "Tuesday, November 26, 1996"
+}

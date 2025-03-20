@@ -1,0 +1,574 @@
+{
+  "title": "Show #2769 - Thursday, September 19, 1996",
+  "jeopardyRound": {
+    "categories": [
+      "NATURE",
+      "LANGUAGES",
+      "POP CULTURE",
+      "U.S. HISTORY",
+      "ROOMS",
+      "____ THE ____"
+    ],
+    "clues": [
+      {
+        "category": "NATURE",
+        "value": 100,
+        "question": "Leaves change color in autumn due to a breakdown of this green pigment",
+        "answer": "chlorophyll",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 100,
+        "question": "Most people in Taiwan speak a Min dialect of this language",
+        "answer": "Chinese",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 100,
+        "question": "The credits to this July 1996 movie claimed \"No animal or alien was harmed in the making of this film\"",
+        "answer": "Independence Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 100,
+        "question": "As a result of this 1861-65 conflict, over 600,000 died and 375,000 were wounded",
+        "answer": "the U.S. Civil War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ROOMS",
+        "value": 100,
+        "question": "It's a series of connecting rooms in a hotel; the \"bridal\" one is perfect for honeymooners",
+        "answer": "a suite",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 100,
+        "question": "Children's game in which a line of people mimic the person at the head of the line",
+        "answer": "Follow the Leader",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 200,
+        "question": "This flightless bird of New Zealand shares its name with a fruit",
+        "answer": "a kiwi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "Ionic was a historic division of this European language",
+        "answer": "Greek",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 200,
+        "question": "This 1981-87 police series is the only show to win Emmys for Best Drama 4 straight years",
+        "answer": "Hill Street Blues",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 200,
+        "question": "In 1666 Puritan families founded a village that later became this largest New Jersey city",
+        "answer": "Newark",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ROOMS",
+        "value": 200,
+        "question": "This kind of room named for the beverage served in it became popular in the late 18th century",
+        "answer": "a tea room",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 200,
+        "question": "Hank Ketcham's comic strip creation",
+        "answer": "Dennis the Menace",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 300,
+        "question": "Silica derived from this giant grass is used in making an Oriental medicine called tabasheer",
+        "answer": "bamboo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 300,
+        "question": "It's the language in which the Koran was written",
+        "answer": "Arabic",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 300,
+        "question": "In 1992 she became the only Miss America ever to top the Billboard charts",
+        "answer": "Vanessa Williams",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 300,
+        "question": "On Sept. 10, 1813 he sailed from South Bass Island off Ohio's shore to battle the British",
+        "answer": "Oliver Hazard Perry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ROOMS",
+        "value": 300,
+        "question": "Sometimes it's a small private room for prayer & meditation, but more often it's a place to hang your clothes",
+        "answer": "a closet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 300,
+        "question": "Set out on a journey, or a command to beat it, Jack",
+        "answer": "hit the road",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 400,
+        "question": "The potato is an example of this swollen part of a stem that grows underground",
+        "answer": "a tuber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "The dialect of Bucharest is the standard form of this language",
+        "answer": "Romanian",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 400,
+        "question": "In 1976 this American became the first woman tennis player to reach $1 million in career prize money",
+        "answer": "Chris Evert",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "In 1869 the U.S. attempted to annex this nation on eastern Hispaniola",
+        "answer": "the Dominican Republic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ROOMS",
+        "value": 400,
+        "question": "The name of this kind of waiting room, actually means \"before room\"",
+        "answer": "an anteroom",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 400,
+        "question": "Out of public view, like at the theater",
+        "answer": "behind the scenes",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 500,
+        "question": "Apis Mellifera is the scientific name for this insect",
+        "answer": "the honeybee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1000,
+        "question": "\"Bogurodzica\", the oldest text in this language, has been ascribed to Wojciech in the 10th century",
+        "answer": "Polish",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "POP CULTURE",
+        "value": 500,
+        "question": "This Susan Sarandon baseball film was directed by Ron Shelton, a former minor league player",
+        "answer": "Bull Durham",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 500,
+        "question": "This third party of the 1890s called for free silver & government ownership of railroads",
+        "answer": "the Populist (or People's) Party",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ROOMS",
+        "value": 500,
+        "question": "It can be a room used for telephone solicitations of the steamiest room on a ship",
+        "answer": "a boiler room",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "____ THE ____",
+        "value": 500,
+        "question": "A 1964 Arthur Miller play or, as Adam & Eve learned the hard way, when winter comes",
+        "answer": "After the Fall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ASIAN AMERICANS",
+      "FURNITURE",
+      "PRESIDENTIAL NICKNAMES",
+      "THE BIBLE",
+      "STATE CAPITALS",
+      "NOVELS"
+    ],
+    "clues": [
+      {
+        "category": "ASIAN AMERICANS",
+        "value": 200,
+        "question": "This judge in the O.J. Simpson trial also presided over the Charles Keating trial",
+        "answer": "(Lance) Ito",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FURNITURE",
+        "value": 200,
+        "question": "It's the highly ornamented seat of a sovereign",
+        "answer": "a throne",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 200,
+        "question": "\"The Red Fox of Kinderhook\", he was also called \"The Little Magician\"",
+        "answer": "Martin Van Buren",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "Deuteronomy 13 reminds thee that God took thee out of the house of bondage in this country",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 200,
+        "question": "This capital of Alaska is located in the panhandle region of the state",
+        "answer": "Juneau",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 200,
+        "question": "His 1863 work \"Kazaki\" or \"The Cossacks\" secured this count's reputation as a novelist",
+        "answer": "Tolstoy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ASIAN AMERICANS",
+        "value": 400,
+        "question": "She was World Figure Skating champion in 1991 & '92",
+        "answer": "Kristi Yamaguchi",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FURNITURE",
+        "value": 400,
+        "question": "Louix XIV owned 413 of these; we don't know how many were four-posters",
+        "answer": "a bed",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 400,
+        "question": "\"The Tennessee Tailor\" was a nickname of this president who was a tailor in Tennessee",
+        "answer": "Andrew Johnson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "The letter of James is addressed to these scattered groups of Israel",
+        "answer": "the Twelve Tribes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 400,
+        "question": "It's where you'd find Sutter's Fort Historic Park",
+        "answer": "Sacramento",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 400,
+        "question": "In a Dickens book, Bill Sikes kills Nancy for helping this title character",
+        "answer": "Oliver Twist",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ASIAN AMERICANS",
+        "value": 600,
+        "question": "Entrepreneur Rocky Aoki founded this Japanese steakhouse chain famous for its hibachi tables",
+        "answer": "Benihana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FURNITURE",
+        "value": 600,
+        "question": "In Japan a byobu is a folding one of these that usually has 6 panels",
+        "answer": "a screen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 600,
+        "question": "This successor of Garfield was called \"The Gentleman Boss\"",
+        "answer": "Chester Arthur",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 600,
+        "question": "He was a righteous man, blameless in his generation\" so God saved him and his family",
+        "answer": "Noah",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 600,
+        "question": "Assassinated in this city in 1935, Huey P. Long is buried on the Capitol grounds",
+        "answer": "Baton Rouge",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 600,
+        "question": "Casper Gutman & his gunsel Wilmer are characters in this Dashiell Hammett novel",
+        "answer": "The Maltese Falcon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ASIAN AMERICANS",
+        "value": 800,
+        "question": "He's the only Hawaiian politician to hold elected office every year since Hawaii became a state",
+        "answer": "(Daniel) Inouye",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FURNITURE",
+        "value": 800,
+        "question": "Authors Ralph & Terry Kovel say these were numerous due to the large number of elderly Shakers",
+        "answer": "rocking chairs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 800,
+        "question": "This president who dies in 1901 was nicknamed \"The idol of Ohio\"",
+        "answer": "McKinley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 800,
+        "question": "Angry at the Philistines, he caught 300 foxes, set their tails on fire & turned them loose in the fields",
+        "answer": "Samson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 800,
+        "question": "This city founded in 1836 was originally inhabited by Winnebago indians",
+        "answer": "Madison",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 800,
+        "question": "This American's first novel \"Player Piano\", was reissued as \"Utopia 14\" in 1954",
+        "answer": "Kurt Vonnegut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ASIAN AMERICANS",
+        "value": 2000,
+        "question": "This musician won his first Grammy in 1985 for \"Bach: The Unaccompanied Cello Suites\"",
+        "answer": "Yo-Yo Ma",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FURNITURE",
+        "value": 1000,
+        "question": "In 1946 this New York museum gave furniture designer Charles Eames a one-man show",
+        "answer": "the Museum of Modern Art",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "PRESIDENTIAL NICKNAMES",
+        "value": 1000,
+        "question": "The first to take office on the death of a president, he was called \"The Accidental President\"",
+        "answer": "Tyler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 2000,
+        "question": "The king's eunuch gave Daniel's companions Hananiah, Mishael & Azariah these Babylonian names",
+        "answer": "Shadrach, Meshach & Abednego",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "STATE CAPITALS",
+        "value": 1000,
+        "question": "North Carolina's \"Research Triangle\" is bounded by Durham, Chapel Hill & this capital city",
+        "answer": "Raleigh",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NOVELS",
+        "value": 1000,
+        "question": "His \"One Hundred Years of Solitude\" covers several generations of the Buendia family",
+        "answer": "Gabriel García Márquez",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FILM DIRECTORS",
+    "clue": "This actor-writer-director born in 1963 was named for a Burt Reynolds TV character",
+    "answer": "Quentin Tarantino"
+  },
+  "gameId": "2769",
+  "gameDate": "Thursday, September 19, 1996"
+}

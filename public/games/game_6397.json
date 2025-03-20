@@ -1,0 +1,574 @@
+{
+  "title": "Show #1259 - Thursday, February 8, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "TEEN TRIVIA",
+      "WEAPONS",
+      "ANIMALS",
+      "NONFICTION",
+      "GEMS & JEWELRY",
+      "THE SENSES"
+    ],
+    "clues": [
+      {
+        "category": "TEEN TRIVIA",
+        "value": 100,
+        "question": "You have to be at least 17 to be in this annual competition held in Atlantic City",
+        "answer": "Miss America Pageant",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 100,
+        "question": "Contrary to popular belief, not all boomerangs do this",
+        "answer": "return to the thrower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "Males of this Australian marsupial are called boomers",
+        "answer": "kangaroo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 100,
+        "question": "With over 39 mil. copies sold, his \"Baby & Child Care\" is the top U.S. paperback of all time",
+        "answer": "Dr. Spock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 100,
+        "question": "Washington institution where you'd find the 45.5 carat Hope Diamond on display",
+        "answer": "Smithsonian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE SENSES",
+        "value": 100,
+        "question": "Braille is meant to be \"read\" by this sense",
+        "answer": "touch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "TEEN TRIVIA",
+        "value": 200,
+        "question": "If your teen years seem tough, relax: you're only a teenager for this many years",
+        "answer": "7",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 200,
+        "question": "Guinness won't print any new records for swallowing these: \"Count Desmond\" is the champ",
+        "answer": "swords",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "2 of 3 continents on which no wild bears live",
+        "answer": "(2 of) Africa & Australia (or Antarctica)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 200,
+        "question": "Her 1984 memoirs were entitled \"First Lady from Plains\"",
+        "answer": "Rosalynn Carter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 400,
+        "question": "Some of the finest of these gems are taken from the Persian Gulf between Oman & Qatar",
+        "answer": "pearls",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE SENSES",
+        "value": 200,
+        "question": "It's the location of these that allow the brain to determine the direction of a sound source",
+        "answer": "ears",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "TEEN TRIVIA",
+        "value": 300,
+        "question": "The punctuation mark found in the name of Teen Magazine in front of the letter T",
+        "answer": "apostrophe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 300,
+        "question": "According to legend, you can destroy a vampire by driving one of these thru his heart",
+        "answer": "stake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "A male sheep is a ram; a female is this",
+        "answer": "ewe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 300,
+        "question": "This 1848 book closes with the words \"Workers of the world, unite!\"",
+        "answer": "The Communist Manifesto",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 300,
+        "question": "The Ancient Chinese not only carved it into jewelry, they buried it with their dead",
+        "answer": "jade",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE SENSES",
+        "value": 300,
+        "question": "The 2 senses you're supposed to activate at railroad crossings",
+        "answer": "sight & hearing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TEEN TRIVIA",
+        "value": 400,
+        "question": "People Magazine said this group's second album, \"Hangin' Tough\", \"ignited a coast-to-coast teen frenzy\"",
+        "answer": "New Kids on the Block",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 400,
+        "question": "A weapon for Galahad's dad; it's a diminutive of his name",
+        "answer": "lance",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "The U.S. Navy has trained these whales, Orcinus orca, to recover objects from great depths",
+        "answer": "killer whales",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 400,
+        "question": "Ernest Hemingway's 1932 book \"Death in the Afternoon\" is about this sport",
+        "answer": "bullfighting",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 400,
+        "question": "Copper gives the bluish green color to this stone which is found in Iran & the South-Western U.S.",
+        "answer": "turquoise",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE SENSES",
+        "value": 400,
+        "question": "Sense receptors include the retina in the eye & these on the tongue",
+        "answer": "taste buds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TEEN TRIVIA",
+        "value": 500,
+        "question": "As a teen he played J.R., a teenage murderer, in \"Heathers\"",
+        "answer": "Christian Slater",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 500,
+        "question": "\"Fishy\" name for a spear used by infantry during the renaissance",
+        "answer": "pike",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "Skins of this goat antelope are prized for polishing, but most cloths sold under its name are sheepskin",
+        "answer": "chamois",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NONFICTION",
+        "value": 500,
+        "question": "It was Linda Ellerbee's sign-off phrase on NBC News Overnight & the title of her 1986 book",
+        "answer": "And So It Goes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GEMS & JEWELRY",
+        "value": 500,
+        "question": "Those born on Valentine's Day don't have a red ruby for a birthstone but this purple quartz",
+        "answer": "amethyst",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE SENSES",
+        "value": 500,
+        "question": "Closing off this sense affects the taste sense, too",
+        "answer": "smell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ISLANDS",
+      "AMERICAN WOMEN",
+      "ENGLISH LITERATURE",
+      "BOTANY",
+      "HISTORY",
+      "NUMBER, PLEASE"
+    ],
+    "clues": [
+      {
+        "category": "ISLANDS",
+        "value": 200,
+        "question": "NYC's borough of Brooklyn & Queens are on this large island",
+        "answer": "Long Island",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN WOMEN",
+        "value": 200,
+        "question": "This model & wife of Billy Joel says she was a chubby & self-conscious teenager",
+        "answer": "Christie Brinkley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 200,
+        "question": "She's called Joan la Pucelle in Shakespeare's \"King Henry VI, Part I\"",
+        "answer": "Joan of Arc",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 200,
+        "question": "New Jersey greenhouses surpass all others on the mainland in growing these corsage flowers",
+        "answer": "orchids",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HISTORY",
+        "value": 200,
+        "question": "The reign of the Guptas, when Sanskrit lit. flowered, has been called the classical age of this country",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 200,
+        "question": "When a triumvirate rules, this many people are in charge",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 400,
+        "question": "This Texas city & island is named for a viceroy of Mexico, Bernardo de Galvez",
+        "answer": "Galveston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN WOMEN",
+        "value": 400,
+        "question": "In 1984 she became the first woman nominated by a major party for Vice President of the U.S.",
+        "answer": "Geraldine Ferraro",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 400,
+        "question": "This was the only published work by Jonathan Swift for which he received payment -- £200",
+        "answer": "Gulliver's Travels",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 400,
+        "question": "To grow this fruit in California, at least 1 male palm is planted in each acre of 49 female palms",
+        "answer": "date",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HISTORY",
+        "value": 400,
+        "question": "Eamon de Valera, who was born in New York City, was prime minister & president of this country",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 400,
+        "question": "Number of miles in the annual race held on Memorial Day at the Indianapolis Motor Speedway",
+        "answer": "500",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 600,
+        "question": "The 3 largest islands in this sea are Sicily, Sardinia & Cyprus",
+        "answer": "Mediterranean Sea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN WOMEN",
+        "value": 600,
+        "question": "Lynne Cheney chairs the Nat'l Endowment for the Humanities, & her husband, Richard, holds this cabinet post",
+        "answer": "Secretary of Defense",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 600,
+        "question": "This author was knighted in 1908 for his work in the Boer War, not for Sherlock Holmes",
+        "answer": "Sir Arthur Conan Doyle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 600,
+        "question": "When a seed sprouts, the first thing to break out of the coat is this part of the plant",
+        "answer": "root",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HISTORY",
+        "value": 600,
+        "question": "He was killed in the Philippines, but his ship went on to circumnavigate the earth",
+        "answer": "Magellan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 600,
+        "question": "A sonnet is a poem of this many lines, usually written in iambic pentameter",
+        "answer": "14",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 1600,
+        "question": "The island on which this 1945 event took place:",
+        "answer": "Iwo Jima",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN WOMEN",
+        "value": 800,
+        "question": "She was the Ghostbusters' receptionist on film & plays cute little Mary Jo on TV's \"Designing Women\"",
+        "answer": "Annie Potts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 1600,
+        "question": "He also wrote \"The Charge of the Heavy Brigade\"",
+        "answer": "Alfred Lord Tennyson",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 800,
+        "question": "In 1960 this green plant pigment was produced in the laboratory for the first time",
+        "answer": "chlorophyll",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HISTORY",
+        "value": 800,
+        "question": "It was only after the Yalta Conference in 1945 that this country agreed to enter the war against Japan",
+        "answer": "Soviet Union",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 800,
+        "question": "Boccaccio wrote \"The Decameron\", which literally means this many days' work",
+        "answer": "10",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ISLANDS",
+        "value": 1000,
+        "question": "Now part of Papua New Guinea, this archipelago was named for the chancellor of Germany in 1884",
+        "answer": "Bismarck",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN WOMEN",
+        "value": 1000,
+        "question": "Appointed by Ronald Reagan, she was the first woman to head the U.S. delegation to the U.N.",
+        "answer": "(Jeane) Kirkpatrick",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 1000,
+        "question": "Charlotte Cradock, this novelist's wife, was the inspiration for \"Amelia\" & Sophia in \"Tom Jones\"",
+        "answer": "Henry Fielding",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 1000,
+        "question": "A 4,600-year-old bristlecone variety of this tree is thought o be the world's oldest living thing",
+        "answer": "pine tree",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HISTORY",
+        "value": 1000,
+        "question": "After killing the defenders of the pass at Thermopylae, the Persians destroyed this city in 480 B.C.",
+        "answer": "Athens",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "NUMBER, PLEASE",
+        "value": 1000,
+        "question": "If you know the First Congress met in 1789, you can figure out this is the number of the current one",
+        "answer": "101st",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PRESIDENTS",
+    "clue": "The only U.S. president who served previously as U.S. representative to the U.N.",
+    "answer": "George Bush"
+  },
+  "gameId": "1259",
+  "gameDate": "Thursday, February 8, 1990"
+}

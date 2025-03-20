@@ -1,0 +1,574 @@
+{
+  "title": "Show #1480 - Friday, January 25, 1991",
+  "jeopardyRound": {
+    "categories": [
+      "RIVERS",
+      "3-LETTER WORDS",
+      "BOTTOMS UP!",
+      "SCIENCE",
+      "MAGAZINES",
+      "JOHNNY MERCER LYRICS"
+    ],
+    "clues": [
+      {
+        "category": "RIVERS",
+        "value": 100,
+        "question": "Lake Tear of the Clouds is the source of this river, the longest in New York State",
+        "answer": "Hudson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 100,
+        "question": "A sacred sister",
+        "answer": "Nun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BOTTOMS UP!",
+        "value": 100,
+        "question": "The dry white variety of this wine is used in a martini; the sweet variety, in a Manhattan",
+        "answer": "Vermouth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 100,
+        "question": "When light is passed thru a prism, it produces this spread of colors",
+        "answer": "Spectrum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 100,
+        "question": "Byte magazine covers new trends & technology related to the use of these",
+        "answer": "Computers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "JOHNNY MERCER LYRICS",
+        "value": 100,
+        "question": "Johnny told this river, \"I'm crossing you in style someday\"",
+        "answer": "\"Moon River\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "RIVERS",
+        "value": 200,
+        "question": "It curves thru Paris for about 8 miles, dividing the city into right & left banks",
+        "answer": "Seine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 200,
+        "question": "As a verb, you do it with your hands to get a drink; as a noun, it's something you drink from",
+        "answer": "Cup",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BOTTOMS UP!",
+        "value": 200,
+        "question": "This sweet sparkling wine hails from the Italian town of Asti",
+        "answer": "Spumante",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "It's the branch of chemistry that deals with carbon compounds",
+        "answer": "Organic Chemistry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "The Apothecary is a quarterly magazine for members of this profession",
+        "answer": "Pharmacists",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "JOHNNY MERCER LYRICS",
+        "value": 200,
+        "question": "Phrase following \"So you met someone who set you back on your heels\"",
+        "answer": "\"Goody Goody\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "RIVERS",
+        "value": 300,
+        "question": "South of Terre Haute, this river forms the boundary between Indiana & Illinois",
+        "answer": "Wabash",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 300,
+        "question": "In the title of an Aesop fable, this insect shared billing with a grasshopper",
+        "answer": "Ant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BOTTOMS UP!",
+        "value": 300,
+        "question": "A liquor that's 100 proof contains this percentage of alcohol",
+        "answer": "50%",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 300,
+        "question": "All lines of longitude are measured east or west of this line",
+        "answer": "Prime Meridian",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 300,
+        "question": "\"Boys' Life\" & \"Exploring\" magazine are both published by this organization",
+        "answer": "Boy Scouts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "JOHNNY MERCER LYRICS",
+        "value": 300,
+        "question": "Song that urges \"E-lim-inate the negative; latch on to the affirmative; don't mess with Mr. In-Between\"",
+        "answer": "\"Ac-Cent-Tchu-Ate the Positive\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "RIVERS",
+        "value": 400,
+        "question": "To most Chinese, it's known as the Chang-Jiang, or \"long river\"",
+        "answer": "Yangtze",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 400,
+        "question": "It can mean to crowd about & annoy, or the crowd itself",
+        "answer": "Mob",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BOTTOMS UP!",
+        "value": 400,
+        "question": "To make it, combine gin, vodka, cola, and a twist of lemon, but not a drop of tea",
+        "answer": "Long Island Ice Tea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "The Big Dipper is part of this constellation",
+        "answer": "Ursa Major",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "Yes, it's the name of the magazine Hugh Hefner founded in 1972 for contemporary men & women",
+        "answer": "\"Oui!\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "JOHNNY MERCER LYRICS",
+        "value": 800,
+        "question": "Johnny wrote the updated lyrics for this classic in the 1940s:",
+        "answer": "\"Glow-Worm\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "RIVERS",
+        "value": 500,
+        "question": "In Greek myth, this river flows by Hades; in reality, it's in Alabama",
+        "answer": "Styx",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "3-LETTER WORDS",
+        "value": 500,
+        "question": "When preceding \"out\", it means \"to just barely make a living\"",
+        "answer": "Eke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BOTTOMS UP!",
+        "value": 500,
+        "question": "Often served at a brunch, it's made with equal amounts of champagne & orange juice",
+        "answer": "Mimosa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 500,
+        "question": "The most important source of uranium & radium is this mineral ore",
+        "answer": "Pitchblende",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 500,
+        "question": "Covering combat & military subjects, it's the journal of professional adventurers",
+        "answer": "\"Soldier of Fortune\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "JOHNNY MERCER LYRICS",
+        "value": 500,
+        "question": "\"A woman's a two-face, a worriesome thing who'll leave you to sing\" this song",
+        "answer": "\"The Blues in the Night\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD HISTORY",
+      "BOOKS & AUTHORS",
+      "TEXTILES",
+      "FIRST LADIES",
+      "MATH",
+      "MEDICAL SPECIALTIES"
+    ],
+    "clues": [
+      {
+        "category": "WORLD HISTORY",
+        "value": 200,
+        "question": "Both Lord Protectors of Great Britain, Oliver & Richard had this last name",
+        "answer": "Cromwell",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 200,
+        "question": "Joel Engle's book about him is subtitled \"The Dreams & Nightmares of Life in the \"Twilight Zone\" \"",
+        "answer": "Rod Serling",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TEXTILES",
+        "value": 200,
+        "question": "Some products are sanforized to prevent this",
+        "answer": "Shrinkage",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 200,
+        "question": "Speaking of her husband, she joked, \"Anyone who eats pork rinds can't be all good\"",
+        "answer": "Barbara Bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MATH",
+        "value": 200,
+        "question": "It's the correct name for a 90-degree angle",
+        "answer": "Right Angle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MEDICAL SPECIALTIES",
+        "value": 200,
+        "question": "To have your teeth straightened, you'd seek out this type of dentist",
+        "answer": "Orthodontist",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 400,
+        "question": "The Montreux Convention of 1936 recognized this country's right to fortify the Dardanelles",
+        "answer": "Turkey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 400,
+        "question": "Peter Straub collaborated with this man on the wildly successful best-seller, \"The Talisman\"",
+        "answer": "Stephen King",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TEXTILES",
+        "value": 400,
+        "question": "About one-third of the world's wool is produced by this country",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 400,
+        "question": "A portrait of her, painted by her husband, hangs in grandson David's dining room",
+        "answer": "Mamie Eisenhower",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MATH",
+        "value": 400,
+        "question": "To find the product of two or more numbers, use this process",
+        "answer": "Multiplication",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MEDICAL SPECIALTIES",
+        "value": 400,
+        "question": "Someone who's trained to put patients to sleep before surgery is called this",
+        "answer": "Anesthesiologist",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 600,
+        "question": "This liner was sunk by the submarine U-20 on May 7, 1915",
+        "answer": "Lusitania",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 600,
+        "question": "Isabel, niece of this former president of Chile, wrote her first novel in exile in Venezuela",
+        "answer": "Salvador Allende",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TEXTILES",
+        "value": 600,
+        "question": "One of the oldest textile fabrics; it comes from the stock of the flax plant",
+        "answer": "Linen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 600,
+        "question": "First name shared by the wives of Millard Fillmore & John Adams",
+        "answer": "Abigail",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MATH",
+        "value": 600,
+        "question": "In geometry, the term for two or more figures that are identical in size and shape",
+        "answer": "Congruent",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MEDICAL SPECIALTIES",
+        "value": 600,
+        "question": "Disorders of the brain & nervous system are the concern of this medical specialist",
+        "answer": "Neurologist",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1600,
+        "question": "Former slave Jean-Jacque Dessalines ruled this country as emperor Jacque I from 1804-1806",
+        "answer": "Haiti",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 800,
+        "question": "Tapes in the title of Lawrence Sanders' first novel, published in 1970",
+        "answer": "\"The Anderson Tapes\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TEXTILES",
+        "value": 800,
+        "question": "The word textile comes from the Latin \"texere\", meaning to do this",
+        "answer": "Weave",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 1600,
+        "question": "When she came out in 1947, Charlie Knickerbocker proclaimed her \"Queen Deb of the Year\"",
+        "answer": "Jacqueline Bouvier Kennedy Onassis",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MATH",
+        "value": 800,
+        "question": "The symbol for this looks like a number 8 lying on its side",
+        "answer": "Infinity",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MEDICAL SPECIALTIES",
+        "value": 800,
+        "question": "Type of doctor who's an expert in treating acne or removing a mole",
+        "answer": "Dermatologist",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1000,
+        "question": "England's Henry V won this battle in France on St. Christan's Day in 1415",
+        "answer": "Agincourt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BOOKS & AUTHORS",
+        "value": 1000,
+        "question": "He was a member of the House of Commons before he wrote \"Not a Penny More, Not a Penny Less\"",
+        "answer": "Jeffrey Archer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TEXTILES",
+        "value": 1000,
+        "question": "This 1764 invention by James Hargreaves permitted a spinner to make eight or more yarns at once",
+        "answer": "Spinning Jenny",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 1000,
+        "question": "Sarah Bernhardt claims she once saved this extravagant first lady from falling to her death on a ship",
+        "answer": "Mary Todd Lincoln",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MATH",
+        "value": 1000,
+        "question": "A dodecahedron is a solid figure with this many faces",
+        "answer": "12",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MEDICAL SPECIALTIES",
+        "value": 1000,
+        "question": "An otorhinolaryngologist specializes in treating these three body parts",
+        "answer": "Ear, Nose & Throat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MONARCHS",
+    "clue": "One of two English kings since William the Conqueror who were never crowned",
+    "answer": "Edward V or Edward VIII"
+  },
+  "gameId": "1480",
+  "gameDate": "Friday, January 25, 1991"
+}

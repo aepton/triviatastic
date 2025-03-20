@@ -1,0 +1,556 @@
+{
+  "title": "Show #1406 - Monday, October 15, 1990",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD GEOGRAPHY",
+      "LIGHT",
+      "FIELD HOCKEY",
+      "BIBLICAL QUOTES",
+      "BEARDS",
+      "WEDNESDAY"
+    ],
+    "clues": [
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 100,
+        "question": "In the Sahara, these include the Siwa & the Al Kufra & they're not mirages",
+        "answer": "oases",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "LIGHT",
+        "value": 100,
+        "question": "Another name for a nimbus, the luminous ring of light above the head of a saint",
+        "answer": "a halo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FIELD HOCKEY",
+        "value": 100,
+        "question": "Normally only this player who guards the cage can kick the ball or stop it with his body",
+        "answer": "the goalie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 100,
+        "question": "In Exodus, it follows \"Thou shalt give life for life, eye for eye\"",
+        "answer": "tooth for tooth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BEARDS",
+        "value": 100,
+        "question": "Some depictions of Uncle Sam show him with this small chin beard, named for an animal who also has one",
+        "answer": "a goatee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "WEDNESDAY",
+        "value": 100,
+        "question": "Lent begins on this day",
+        "answer": "Ash Wednesday",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "Zugspitze, this country's highest peak, lies in the Bavarian Alps",
+        "answer": "Germany",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "LIGHT",
+        "value": 200,
+        "question": "Source of the first light mentioned in \"The Star-Spangled Banner\"",
+        "answer": "the dawn's early light",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FIELD HOCKEY",
+        "value": 200,
+        "question": "Field hockey is the national sport of this country & its neighbor Pakistan",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 200,
+        "question": "According to John 8:32, \"ye shall know the truth, and the truth shall\" do this",
+        "answer": "set you free (or make you free)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BEARDS",
+        "value": 200,
+        "question": "Ancient kings & queens of this country wore false beards as a symbol of royalty",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "WEDNESDAY",
+        "value": 200,
+        "question": "Wednesday was named for this chief Teutonic god",
+        "answer": "Odin (or Woden)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 300,
+        "question": "The 2 large urban areas in this British dependency are Victoria & Kowloon",
+        "answer": "Hong Kong",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "LIGHT",
+        "value": 300,
+        "question": "It's New Latin for \"light of the North\"",
+        "answer": "aurora borealis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FIELD HOCKEY",
+        "value": 300,
+        "question": "Hockey comes from hoquet, French for this shepherd's staff that looks like a hockey stick",
+        "answer": "a shepherd's crook",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 300,
+        "question": "\"And Saul said to\" him, \"thou art not able to go against this Philistine, for thou art but a youth\"",
+        "answer": "David",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BEARDS",
+        "value": 300,
+        "question": "He was the first U.S. president to wear one while in office",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WEDNESDAY",
+        "value": 300,
+        "question": "Jane Fonda starred in this 1966 farce about an executive who uses his lover's apartment as a tax deduction",
+        "answer": "Any Wednesday",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "Only 1 mile off the coast of Turkey, the island of Samos belongs to this country",
+        "answer": "Greece",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "LIGHT",
+        "value": 400,
+        "question": "The room at the top of a lighthouse, or the light an old conductor waved to signal the engineer",
+        "answer": "lantern",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FIELD HOCKEY",
+        "value": 400,
+        "question": "Maximum length of a field hockey field, with no end zones either",
+        "answer": "100 yards",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 800,
+        "question": "Believing Joseph to be dead, he said, \"I will go down into the grave unto my son, mourning\"",
+        "answer": "Jacob",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BEARDS",
+        "value": 400,
+        "question": "Coleridge's old seaman with a long grey beard and glittering eye",
+        "answer": "the Ancient Mariner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "WEDNESDAY",
+        "value": 400,
+        "question": "It's what Solomon Grundy did on Wednesday",
+        "answer": "(got) married",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 500,
+        "question": "The occupied West Bank is on the west bank of this river",
+        "answer": "Jordan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LIGHT",
+        "value": 500,
+        "question": "In films of the 1930s & '40s set in the theater, it precedes \"Parade\", \"Glamour\" & \"Serenade\"",
+        "answer": "Footlight",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FIELD HOCKEY",
+        "value": 500,
+        "question": "2 positions played in an offensive backfield in football or a defensive backfield in field hockey",
+        "answer": "fullback & halfback",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 500,
+        "question": "Gathering his first disciples, Peter & Andrew, Jesus said, \"Follow me, and I shall make you\" these",
+        "answer": "fishers of men",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BEARDS",
+        "value": 500,
+        "question": "The pointed beard named for the Flemish painter whose subjects wore them",
+        "answer": "Van Dyke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "WEDNESDAY",
+        "value": 500,
+        "question": "The original version of \"Sounds of Silence\" appeared on this Simon & Garfunkel album",
+        "answer": "Wednesday Morning, 3 A.M.",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "U.S. HISTORY",
+      "AFRICA",
+      "BUSINESS BIGGIES",
+      "GHOST STORIES",
+      "THE GREAT LAKES",
+      "BURT LANCASTER"
+    ],
+    "clues": [
+      {
+        "category": "U.S. HISTORY",
+        "value": 200,
+        "question": "In March 1836 Santa Ana captured this fortified mission",
+        "answer": "the Alamo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 200,
+        "question": "Typical features in northern cities include open-air bazaars & these Islamic houses of worship",
+        "answer": "a mosque",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS BIGGIES",
+        "value": 200,
+        "question": "Frank Robinson, a bookkeeper, named this soft drink and created the script for its logo in 1886",
+        "answer": "Coca-Cola",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GHOST STORIES",
+        "value": 200,
+        "question": "\"The Story Of The Goblins Who Stole A Sexton\" was the first of many Christmas ghost stories by this author",
+        "answer": "Charles Dickens",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT LAKES",
+        "value": 200,
+        "question": "The one that shares its name with a Canadian province",
+        "answer": "Lake Ontario",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BURT LANCASTER",
+        "value": 200,
+        "question": "\"Tough Guys\" was Burt's 7th film with this dimpled tough guy",
+        "answer": "Kirk Douglas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "The first astronaut to become a Rear Admiral; he was also the first American in space",
+        "answer": "Alan Shepard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 400,
+        "question": "In 1976 he declared himself Uganda's President for Life; 3 years later he fled for his life",
+        "answer": "Idi Amin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS BIGGIES",
+        "value": 400,
+        "question": "Famous for \"Super Mario Bros.\", this company donated $3 million to M.I.T. to study how kids learn when they play",
+        "answer": "Nintendo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GHOST STORIES",
+        "value": 400,
+        "question": "Lady Windermere's fans know this playwright also created \"The Canterville Ghost\"",
+        "answer": "(Oscar) Wilde",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT LAKES",
+        "value": 400,
+        "question": "Bordered by the states of New York, Pennsylvania, Ohio, & Michigan, it's the farthest south",
+        "answer": "Erie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BURT LANCASTER",
+        "value": 400,
+        "question": "In a 1955 film based on a Tennessee Williams play, Burt sported this title tattoo on his chest",
+        "answer": "a rose tattoo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 600,
+        "question": "Arthur Bremer shot 4 people May 15, 1972 including this governor",
+        "answer": "George Wallace",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 600,
+        "question": "Since 1985 famine victims have received at least $50 million in aid from the proceeds of this pop record",
+        "answer": "\"We Are The World\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS BIGGIES",
+        "value": 600,
+        "question": "In the 1930s, this company now headquartered in Armonk, N.Y., produced its first electric typewriter",
+        "answer": "IBM",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GHOST STORIES",
+        "value": 600,
+        "question": "This creator of the Headless Horseman also wrote about the beautiful ghost of a guillotine victim",
+        "answer": "Washington Irving",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT LAKES",
+        "value": 600,
+        "question": "The Straits of Mackinac & St. Mary's River link this lake to the neighboring one",
+        "answer": "Lake Huron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BURT LANCASTER",
+        "value": 600,
+        "question": "In a memorable scene in this 1953 film, Burt sizzled on the sand with Deborah Kerr",
+        "answer": "From Here to Eternity",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 800,
+        "question": "By pressing a button in the White House in 1913, this President blew up Gamboa Dike in Panama",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 800,
+        "question": "About 1/4 the size of the U.S., this country south of Egypt is Africa's largest",
+        "answer": "the Sudan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS BIGGIES",
+        "value": 1600,
+        "question": "In 1978 this company became the 1st to exceed $100 billion in assets",
+        "answer": "AT&T",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GHOST STORIES",
+        "value": 800,
+        "question": "In 1959 Shirley Jackson wrote about \"The Haunting of\" this \"House\"",
+        "answer": "Hill House",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT LAKES",
+        "value": 1600,
+        "question": "Before man-made additions, all the Great Lakes ultimately drained into this river",
+        "answer": "the St. Lawrence",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 1000,
+        "question": "This noted redistrictor from Massachusetts was James Madison's Vice President",
+        "answer": "Elbridge Gerry",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AFRICA",
+        "value": 1000,
+        "question": "This hot, dusty wind blows out of Africa into southern Europe",
+        "answer": "the sirocco",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BUSINESS BIGGIES",
+        "value": 1000,
+        "question": "Saatchi & Saatchi is one of the world's largest firms in this business",
+        "answer": "advertising",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GHOST STORIES",
+        "value": 1000,
+        "question": "\"The Phantom Hag\" is attributed to this 19th-century Frenchman who wrote hundreds of short stories",
+        "answer": "Guy de Maupassant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE GREAT LAKES",
+        "value": 1000,
+        "question": "Superior, Wisconsin & this Minnesota town form a huge inland port on the western terminus of the Great Lakes",
+        "answer": "Duluth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BRITISH AUTHORS",
+    "clue": "He was the first winner of the Nobel Prize for Literature who was born in Asia; he won in 1907",
+    "answer": "Rudyard Kipling"
+  },
+  "gameId": "1406",
+  "gameDate": "Monday, October 15, 1990"
+}

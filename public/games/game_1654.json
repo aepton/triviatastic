@@ -1,0 +1,574 @@
+{
+  "title": "Show #3580 - Friday, March 10, 2000",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "THE CINEMA",
+      "NON-RELIGIOUS HOLIDAYS",
+      "ISLANDS",
+      "NAME THE DECADE",
+      "DIRTY 4-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 100,
+        "question": "In biology it's a finger; in math, a figure like 1",
+        "answer": "a digit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE CINEMA",
+        "value": 100,
+        "question": "Minnie Driver provided the voice of Jane in this 1999 Disney blockbuster",
+        "answer": "Tarzan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NON-RELIGIOUS HOLIDAYS",
+        "value": 100,
+        "question": "Joan Crawford died on May 10, the date of this holiday in many countries other than the U.S.",
+        "answer": "Mother's Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ISLANDS",
+        "value": 100,
+        "question": "An island named for the animal seen here belongs to this country[kangaroo]",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 100,
+        "question": "Elizabeth II became Queen of England",
+        "answer": "the 1950s",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DIRTY 4-LETTER WORDS",
+        "value": 100,
+        "question": "It's the filmy covering soap may leave",
+        "answer": "scum",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "A free-falling body accelerates at a rate of about 1 g, g coming from this word",
+        "answer": "gravity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE CINEMA",
+        "value": 200,
+        "question": "This Eddie Murphy remake of a Jerry Lewis film was the biggest-grossing comedy of the summer in 1996",
+        "answer": "The Nutty Professor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NON-RELIGIOUS HOLIDAYS",
+        "value": 200,
+        "question": "Islamic Republic Day in Iran is celebrated on this date, no foolin'",
+        "answer": "April 1",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ISLANDS",
+        "value": 200,
+        "question": "This \"Valley Island\" is found between the islands of Molokai & Hawaii",
+        "answer": "Maui",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 200,
+        "question": "The American Revolution began",
+        "answer": "the 1770s",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DIRTY 4-LETTER WORDS",
+        "value": 200,
+        "question": "On iron, it's mainly hydrated ferric oxide",
+        "answer": "rust",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 300,
+        "question": "Pre-Y1K scientists figured this organ gave out light; they were, of course, wrong",
+        "answer": "eye",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE CINEMA",
+        "value": 300,
+        "question": "She co-starred with Arnold Schwarzenegger in \"Eraser\" & sang its theme, \"Where Do We Go From Here\"",
+        "answer": "Vanessa Williams",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NON-RELIGIOUS HOLIDAYS",
+        "value": 600,
+        "question": "It was first celebrated in the U.S. in February 1866 as a memorial service",
+        "answer": "Lincoln's Birthday",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ISLANDS",
+        "value": 300,
+        "question": "The healthful climate of this south Atlantic island didn't help Napoleon; he died there",
+        "answer": "St. Helena",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 300,
+        "question": "The Pilgrims landed at Plymouth Rock",
+        "answer": "the 1620s",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DIRTY 4-LETTER WORDS",
+        "value": 300,
+        "question": "An adjective for a vile smell, or a noun that pairs with file",
+        "answer": "rank",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "These in the skies of Albuquerque on October 3, 1999 were a fine example of Charles' Law in action",
+        "answer": "hot air balloons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE CINEMA",
+        "value": 400,
+        "question": "In this 1999 film, Clint Eastwood plays a reporter out to prove the guilt or innocence of a condemned murderer",
+        "answer": "True Crime",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NON-RELIGIOUS HOLIDAYS",
+        "value": 400,
+        "question": "Discovery Day in the Bahamas is observed on this date",
+        "answer": "October 12",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ISLANDS",
+        "value": 400,
+        "question": "It's the largest island in the Malay Archipelago & the second largest in the world",
+        "answer": "New Guinea",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 400,
+        "question": "Picasso painted \"Guernica\"",
+        "answer": "the 1930s",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "DIRTY 4-LETTER WORDS",
+        "value": 400,
+        "question": "This term for a sticky, greasy substance came from the brand name of a cleaning solvent",
+        "answer": "gunk",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 500,
+        "question": "The 5-kingdom system is made up of animals, bacteria, plants, protists & these",
+        "answer": "fungi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE CINEMA",
+        "value": 500,
+        "question": "This dancer introduced \"Something's Gotta Give\" in his 1955 film \"Daddy Long Legs\"",
+        "answer": "Fred Astaire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NON-RELIGIOUS HOLIDAYS",
+        "value": 500,
+        "question": "On this British holiday, service people like postmen & trash collectors get gifts",
+        "answer": "Boxing Day (December 26)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ISLANDS",
+        "value": 500,
+        "question": "Sounds hypothetical, but it's the real-life island prison in \"The Count of Monte Cristo\"",
+        "answer": "Chateau d'If",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAME THE DECADE",
+        "value": 500,
+        "question": "Santa Anna led his assault on the Alamo",
+        "answer": "the 1830s",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "DIRTY 4-LETTER WORDS",
+        "value": 500,
+        "question": "An anagram of whey's partner is this term for a crusty deposit",
+        "answer": "crud",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LIONS",
+      "MASONS",
+      "THE ROTARY CLUB",
+      "ODD FELLOWS",
+      "OPTIMISTS",
+      "THE \"Y\""
+    ],
+    "clues": [
+      {
+        "category": "LIONS",
+        "value": 200,
+        "question": "The Barbary lion, now essentially extinct, is best known for eating early members of this group in the Coliseum",
+        "answer": "Christians",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MASONS",
+        "value": 200,
+        "question": "This 1858 invention was John Mason's contribution to the art of canning",
+        "answer": "Mason jar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE ROTARY CLUB",
+        "value": 200,
+        "question": "After testing, this technology began to replace the rotary dial in November 1963",
+        "answer": "touch-tone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ODD FELLOWS",
+        "value": 200,
+        "question": "He comes upon some odd fellows playing ninepins, gets ripped on their liquor & falls asleep for 20 years",
+        "answer": "Rip Van Winkle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OPTIMISTS",
+        "value": 200,
+        "question": "On Oct. 25 of this year, the New York Journal headlined, \"Experts Predict Rising Market\"--oops",
+        "answer": "1929",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE \"Y\"",
+        "value": 200,
+        "question": "You're in balance if you know it's the complement of \"yang\"",
+        "answer": "yin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LIONS",
+        "value": 400,
+        "question": "As well as these on their paws, lions have a patch of rough skin on their tails called the same thing",
+        "answer": "claw",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MASONS",
+        "value": 400,
+        "question": "This comedian was born with the name Yacov Moshe Maza",
+        "answer": "Jackie Mason",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE ROTARY CLUB",
+        "value": 400,
+        "question": "On an airplane they're \"fixed\"; on a helicopter they're actually \"rotary\"",
+        "answer": "wings",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ODD FELLOWS",
+        "value": 400,
+        "question": "Jed Shaner set a Guinness record in 1991 by covering himself with some 343,000 of these insects",
+        "answer": "bees",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OPTIMISTS",
+        "value": 800,
+        "question": "Optimistic 4-word phrase spoken by the title object seen here:",
+        "answer": "\"I think I can\"",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE \"Y\"",
+        "value": 400,
+        "question": "This single-celled fungus can ferment sugars & carbohydrates",
+        "answer": "yeast",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LIONS",
+        "value": 600,
+        "question": "(I'm Chris Claiborne of the Detroit Lions.)  In the wild, lions' favorite prey are antelopes & this member of the horse family",
+        "answer": "zebra",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MASONS",
+        "value": 600,
+        "question": "He led the cast of the 1959 film \"Journey to the Center of the Earth\", seen here:",
+        "answer": "James Mason",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE ROTARY CLUB",
+        "value": 600,
+        "question": "The rotary or rotator cuff is part of this joint",
+        "answer": "shoulder",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ODD FELLOWS",
+        "value": 600,
+        "question": "This legendary lumberjack was so huge that when he was a baby it took 5 storks to deliver him",
+        "answer": "Paul Bunyan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OPTIMISTS",
+        "value": 600,
+        "question": "On May 25, 1961 JFK called for the U.S. to achieve this goal by decade's end",
+        "answer": "to put a man on the Moon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE \"Y\"",
+        "value": 600,
+        "question": "In 1485 the Tudor family of rulers replaced this Plantaganet house",
+        "answer": "York",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LIONS",
+        "value": 800,
+        "question": "The highly developed carnassial teeth shear these cords that connect muscle to bone",
+        "answer": "Tendons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MASONS",
+        "value": 800,
+        "question": "This actress received 3 of her 4 Academy Award nominations for films written by Neil Simon",
+        "answer": "Marsha Mason",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE ROTARY CLUB",
+        "value": 800,
+        "question": "The Philadelphia Public Ledger in the 1840s was the first to use this invention by Richard Hoe",
+        "answer": "a rotary press",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ODD FELLOWS",
+        "value": 800,
+        "question": "Commodus, emperor of this, enjoyed dressing up like Hercules (he thought he was Hercules reincarnated)",
+        "answer": "Rome",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "OPTIMISTS",
+        "value": 800,
+        "question": "Norman Vincent Peale's best-known work is \"The Power of\" this",
+        "answer": "Positive Thinking",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE \"Y\"",
+        "value": 800,
+        "question": "Expanded from the tetragrammaton, it's a Hebrew name for God",
+        "answer": "Yahweh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LIONS",
+        "value": 2000,
+        "question": "The lion's genus & species is sometimes given by this 3-letter word repeated",
+        "answer": "Leo",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MASONS",
+        "value": 1000,
+        "question": "In 1987 this guitarist recorded a new version of \"Classical Gas\" with Mannheim Steamroller",
+        "answer": "Mason Williams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE ROTARY CLUB",
+        "value": 1000,
+        "question": "This German made his name with his 1956 epitrochoidal or rotary engine",
+        "answer": "Felix Wankel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ODD FELLOWS",
+        "value": 1000,
+        "question": "Ike Snopes falls in love with a cow in this novelist's Snopes Trilogy",
+        "answer": "William Faulkner",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "OPTIMISTS",
+        "value": 1000,
+        "question": "In 1989 scientists raised energy hopes when they claimed this nuclear reaction at room temperature",
+        "answer": "cold/nuclear fusion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE \"Y\"",
+        "value": 1000,
+        "question": "This bright-winged type of woodpecker is the state bird of Alabama",
+        "answer": "the yellowhammer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FICTIONAL CHARACTERS",
+    "clue": "In a 1963 book this character found out his family motto in Latin would be \"Orbis Non Sufficit\"",
+    "answer": "James Bond (\"The World Is Not Enough\")"
+  },
+  "gameId": "3580",
+  "gameDate": "Friday, March 10, 2000"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #5083 - Wednesday, October 18, 2006",
+  "jeopardyRound": {
+    "categories": [
+      "OCTOBERFEST",
+      "SIX EDUCATION",
+      "WEBSITES",
+      "2 WORDS IN ONE",
+      "I LOVE NY",
+      "THEY HATE L.A."
+    ],
+    "clues": [
+      {
+        "category": "OCTOBERFEST",
+        "value": 200,
+        "question": "He first appeared in the comic strip \"Peanuts\" in October 1950 but didn't walk on 2 legs until 1956",
+        "answer": "Snoopy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SIX EDUCATION",
+        "value": 200,
+        "question": "It's the sixth consonant in the English alphabet",
+        "answer": "H",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WEBSITES",
+        "value": 200,
+        "question": "This California-based company calls itself the \"world's largest online DVD movie rental service\"",
+        "answer": "Netflix",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "2 WORDS IN ONE",
+        "value": 200,
+        "question": "\"Smog\" is produced from these 2 words",
+        "answer": "smoke & fog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "I LOVE NY",
+        "value": 200,
+        "question": "La Grenouille, on 52nd near Fifth, means this animal & does serve its legs",
+        "answer": "a frog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THEY HATE L.A.",
+        "value": 200,
+        "question": "S.J. Perelman had a lot to say about this \"cinematic\" boulevard, like \"it's tawdriness is unspeakable\"",
+        "answer": "Hollywood Boulevard",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "OCTOBERFEST",
+        "value": 400,
+        "question": "On Oct. 5, 1947 he gave the first presidential address televised from the White House",
+        "answer": "Truman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SIX EDUCATION",
+        "value": 400,
+        "question": "A memorable episode of this 1970s TV show was entitled \"Steve Austin, Fugitive\"",
+        "answer": "The Six Million Dollar Man",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WEBSITES",
+        "value": 400,
+        "question": "historywired.si.edu gives a glimpse of some of the 3 million objects in storage at the National Museum of this",
+        "answer": "American History",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "2 WORDS IN ONE",
+        "value": 400,
+        "question": "\"Chunnel\", formed from these 2 words, was originally dug up in the 1920s",
+        "answer": "channel & tunnel",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "I LOVE NY",
+        "value": 400,
+        "question": "In Queens, you can visit the Unisphere, built for this 1964 event",
+        "answer": "the World's Fair",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THEY HATE L.A.",
+        "value": 400,
+        "question": "This comedian who moved here in 1913 called L.A. ugly, hot & oppressive; we'd rather he'd stayed silent",
+        "answer": "Charlie Chaplin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "OCTOBERFEST",
+        "value": 600,
+        "question": "Bringing the world to the brink of war, the Cuban Missile Crisis occurred during October of this year",
+        "answer": "1962",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SIX EDUCATION",
+        "value": 600,
+        "question": "It's the 2-word name for the 6-cylinder alignment used in the famous Jaguar XK6 engine",
+        "answer": "a straight six (or an in-line six)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WEBSITES",
+        "value": 600,
+        "question": "Dr. Neil Clark Warren founded this online dating service that uses \"29 key dimensions of compatibility\"",
+        "answer": "eHarmony (or eharmony.com)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "2 WORDS IN ONE",
+        "value": 600,
+        "question": "Parts of these 2 words can be seen in \"camcorder\"",
+        "answer": "camera & recorder",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "I LOVE NY",
+        "value": 600,
+        "question": "Handwerker was the last name of the man who opened this \"famous\" Coney Island culinary emporium in 1916",
+        "answer": "Nathan's",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THEY HATE L.A.",
+        "value": 600,
+        "question": "This \"Schindler's List\" star called L.A. a fascist place where people think they're moral because they jog",
+        "answer": "Liam Neeson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "OCTOBERFEST",
+        "value": 800,
+        "question": "Accompanied by 21 men, he seized a federal arsenal in a famous raid in October 1859",
+        "answer": "John Brown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SIX EDUCATION",
+        "value": 800,
+        "question": "In a Pirandello title, they're \"in search of an author\"",
+        "answer": "six characters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WEBSITES",
+        "value": 800,
+        "question": "This online job search website has a section to meet its characters, including Swoop & 'Cruiter",
+        "answer": "Monster (or monster.com)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "2 WORDS IN ONE",
+        "value": 800,
+        "question": "\"Avionics\" flies from these words",
+        "answer": "aviation & electronics",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "I LOVE NY",
+        "value": 800,
+        "question": "On \"Sex and the City\", Samantha moved to this now-trendy West Side district known for its butcher trade",
+        "answer": "the Meatpacking District",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THEY HATE L.A.",
+        "value": 800,
+        "question": "In this 1977 movie Woody Allen says L.A.'s \"only cultural advantage\" is a right turn on a red light",
+        "answer": "Annie Hall",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "OCTOBERFEST",
+        "value": 1000,
+        "question": "Instead of Columbus Day, many Latin Americans celebrate their culture in \"Dia de\" this",
+        "answer": "la Raza",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SIX EDUCATION",
+        "value": 1000,
+        "question": "Les six, of the 1910s & '20s, were a group of 6 of these that included Georges Auric",
+        "answer": "musicians",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WEBSITES",
+        "value": 1000,
+        "question": "www.mayo.com is the website of this brand that's known as Best Foods west of the Rockies",
+        "answer": "Hellmann's",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "2 WORDS IN ONE",
+        "value": 1000,
+        "question": "A cross between a Labrador retriever & another breed, the non-allergenic dog seen here is called this",
+        "answer": "a Labradoodle",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "I LOVE NY",
+        "value": 1000,
+        "question": "The bridge named for this Italian explorer is featured in \"Saturday Night Fever\" & the New York Marathon",
+        "answer": "the Verrazano (Bridge)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THEY HATE L.A.",
+        "value": 1000,
+        "question": "An Oscar-nominated screenwriter in the 1930s, this witty woman called L.A. \"a horror to me\"",
+        "answer": "Dorothy Parker",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "20th CENTURY AUTHORS",
+      "MUSICAL THEATRE",
+      "OH \"MY\"",
+      "ELEMENTAL ETYMOLOGIES",
+      "NEWSPAPERS",
+      "IN THE HEADLINES"
+    ],
+    "clues": [
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 400,
+        "question": "Ayn Rand once cited this late Mike Hammer author as her favorite popular writer",
+        "answer": "Mickey Spillane",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATRE",
+        "value": 400,
+        "question": "Sally Bowles is a singer at the Kit Kat Club in this musical set in Berlin",
+        "answer": "Cabaret",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "OH \"MY\"",
+        "value": 400,
+        "question": "It borders Thailand",
+        "answer": "Myanmar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ELEMENTAL ETYMOLOGIES",
+        "value": 400,
+        "question": "This gas was named for the Greek word for \"sun\" after it was discovered during an eclipse in 1868",
+        "answer": "helium",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 400,
+        "question": "In the 1780s John Walter started this London newspaper to show off his printing works",
+        "answer": "the London Times",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "IN THE HEADLINES",
+        "value": 400,
+        "question": "She reported & made news when she announced she'd leave NBC to anchor the CBS Evening News",
+        "answer": "Katie Couric",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 800,
+        "question": "A friend since childhood, she helped Truman Capote research \"In Cold Blood\" before publishing her own novel",
+        "answer": "(Harper) Lee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATRE",
+        "value": 800,
+        "question": "One of the major hits of 1973, \"Raisin\" was a musical version of this 1959 Lorraine Hansberry play",
+        "answer": "A Raisin in the Sun",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "OH \"MY\"",
+        "value": 800,
+        "question": "This type of infarction is a heart attack",
+        "answer": "a myocardial infarction",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ELEMENTAL ETYMOLOGIES",
+        "value": 800,
+        "question": "It was named from the Greek for \"maker of water\", as water was produced when this element burned",
+        "answer": "hydrogen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 800,
+        "question": "Charles Foster Kane published the Inquirer; this model for Kane published the Examiner",
+        "answer": "(William Randolph) Hearst",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "IN THE HEADLINES",
+        "value": 800,
+        "question": "He & the late Kenneth Lay, his predecessor as Enron CEO, were tried & convicted in 2006",
+        "answer": "(Jeffrey) Skilling",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 1200,
+        "question": "It's no mystery that this Englishwoman wrote romantic fiction under the pen name Mary Westmacott",
+        "answer": "Agatha Christie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATRE",
+        "value": 1200,
+        "question": "Jane sings \"Waiting For This Moment\" in this swinging Disney musical that opened on Broadway in 2006",
+        "answer": "Tarzan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "OH \"MY\"",
+        "value": 1200,
+        "question": "It's the golden variety of the famous copycat seen here",
+        "answer": "a mynah bird",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ELEMENTAL ETYMOLOGIES",
+        "value": 1200,
+        "question": "Romans called this Cyprium, the metal of Cyprus",
+        "answer": "copper",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 1200,
+        "question": "(Jon of the Clue Crew walks in a New Hampshire park holding a newspaper.)  One of the USA's most solidly conservative newspapers, the New Hampshire Union Leader is published in this largest New Hampshire city",
+        "answer": "Manchester",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "IN THE HEADLINES",
+        "value": 1200,
+        "question": "It turned out that Hwang Woo Suk, a scientist from this country, had not managed to clone human embryos as he said",
+        "answer": "South Korea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 1600,
+        "question": "On publication in 1915, his \"The Rainbow\" was labeled obscene & banned, & unsold copies were destroyed",
+        "answer": "D.H. Lawrence",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATRE",
+        "value": 1600,
+        "question": "This musical about a sleepwear company is based on the novel \"7-1/2 cents\", the hourly raise wanted by the workers",
+        "answer": "The Pajama Game",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "OH \"MY\"",
+        "value": 1600,
+        "question": "It's an indefinite number, as in an indefinite number of possibilities",
+        "answer": "a myriad",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ELEMENTAL ETYMOLOGIES",
+        "value": 1600,
+        "question": "Californium & this other element not found in nature are named for their university of discovery",
+        "answer": "berkelium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 1600,
+        "question": "France's satirical Canard enchainee, \"Chained Duck\", got its name from the censorship of l'Homme libre, meaning this",
+        "answer": "the free man",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "IN THE HEADLINES",
+        "value": 1600,
+        "question": "In 2005 this former judge was selected by President Bush to head the Dept. of Homeland Security",
+        "answer": "Michael Chertoff",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "20th CENTURY AUTHORS",
+        "value": 2000,
+        "question": "Ancestors of this elusive modern author protested after Hawthorne used their name in \"The House of the Seven Gables\"",
+        "answer": "Thomas Pynchon",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSICAL THEATRE",
+        "value": 2000,
+        "question": "Rich patron Vera Simpson is \"bewitched, bothered and bewildered\" by this title song & dance pal",
+        "answer": "Pal Joey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "OH \"MY\"",
+        "value": 2000,
+        "question": "I'll be such a fun guy if you tell me this name for the study of fungi",
+        "answer": "mycology",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ELEMENTAL ETYMOLOGIES",
+        "value": 2000,
+        "question": "This element's name comes from the Greek word for \"color\", because of the many colors of its compounds",
+        "answer": "chromium",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NEWSPAPERS",
+        "value": 2000,
+        "question": "Name of both Indianapolis' & Kansas City's biggest daily papers",
+        "answer": "the Star",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "IN THE HEADLINES",
+        "value": 2000,
+        "question": "This Grand Ayatollah, Iraq's leading Shiite cleric, influenced many with his support of elections",
+        "answer": "Grand Ayatollah Sistani",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE 50 STATES",
+    "clue": "The constitution for the proposed state of Sequoyah served in large part as the basis for this state's constitution",
+    "answer": "Oklahoma"
+  },
+  "gameId": "5083",
+  "gameDate": "Wednesday, October 18, 2006"
+}

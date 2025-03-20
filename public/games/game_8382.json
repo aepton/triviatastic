@@ -1,0 +1,574 @@
+{
+  "title": "Show #2226 - Monday, April 18, 1994",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE",
+      "CHARLIE CHAPLIN FILMS",
+      "BUILDINGS",
+      "U.S.A.",
+      "THE FOURTH",
+      "BY THE NUMBERS"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE",
+        "value": 100,
+        "question": "Folic acid is necessary for the production of red blood cells in this part of the bones",
+        "answer": "the marrow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHARLIE CHAPLIN FILMS",
+        "value": 100,
+        "question": "The first time these were awarded, Chaplin got 2 nominations & a special award for \"The Circus\"",
+        "answer": "Oscars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BUILDINGS",
+        "value": 100,
+        "question": "Pepi I of the Sixth Dynasty was entombed in one of these",
+        "answer": "a pyramid",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S.A.",
+        "value": 100,
+        "question": "Fans of this Massachusetts capital call it the \"Hub of the Universe\"",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE FOURTH",
+        "value": 100,
+        "question": "This Wisconsin capital is named after the fourth president",
+        "answer": "Madison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BY THE NUMBERS",
+        "value": 100,
+        "question": "It's the number of days in September, April, June or November",
+        "answer": "30",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "Threonine, glycine & leucine are 3 of these \"acids\" that make up proteins",
+        "answer": "amino acids",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHARLIE CHAPLIN FILMS",
+        "value": 200,
+        "question": "Marlon Brando & Sophia Loren starred in \"A Countess from\" this place, Chaplin's last film",
+        "answer": "Hong Kong",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BUILDINGS",
+        "value": 200,
+        "question": "One of these usually tops a rotunda",
+        "answer": "a dome",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "U.S.A.",
+        "value": 200,
+        "question": "Brigham City in this state is so proud of its peaches that it celebrates Peach Days every year",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE FOURTH",
+        "value": 200,
+        "question": "It's the fourth reindeer mentioned in \"A Visit from St. Nicholas\"",
+        "answer": "Vixen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BY THE NUMBERS",
+        "value": 200,
+        "question": "Having increased to 15 stripes by 1795, the American flag returned to this many in 1818",
+        "answer": "13",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 300,
+        "question": "He formulated his 3 laws of motion in 1687",
+        "answer": "Newton",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CHARLIE CHAPLIN FILMS",
+        "value": 300,
+        "question": "This Jackie Coogan movie was the first feature-length film that Chaplin wrote & directed",
+        "answer": "The Kid",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BUILDINGS",
+        "value": 300,
+        "question": "A minaret is the slim tower on one of these",
+        "answer": "a mosque",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "U.S.A.",
+        "value": 300,
+        "question": "Old Original Bookbinder's, which opened in 1865, is this Pennsylvania city's most famous restaurant",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE FOURTH",
+        "value": 300,
+        "question": "Asia's longest river, it's the world's fourth longest",
+        "answer": "The Yangtze",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BY THE NUMBERS",
+        "value": 300,
+        "question": "In their No. 1 hit, ? & the Mysterians wanted you to \"Cry, Cry Cry Cry\" this many tears",
+        "answer": "96",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "This element has 3 natural isotopes: mass numbers 234, 235 & 238",
+        "answer": "uranium",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CHARLIE CHAPLIN FILMS",
+        "value": 400,
+        "question": "This \"Stone Face\" silent screen comedian appeared in Chaplin's 1952 film \"Limelight\"",
+        "answer": "Buster Keaton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BUILDINGS",
+        "value": 400,
+        "question": "It can be a resort hotel or a house used during the hunting season",
+        "answer": "a lodge",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "U.S.A.",
+        "value": 400,
+        "question": "You'll find the Butler Institute of American Art in this \"youthful\" Ohio city",
+        "answer": "Youngstown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE FOURTH",
+        "value": 800,
+        "question": "The fourth-largest island in the Mediterranean, it lies between Italy & France",
+        "answer": "Corsica",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BY THE NUMBERS",
+        "value": 400,
+        "question": "It's slang for a piano",
+        "answer": "88",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE",
+        "value": 500,
+        "question": "Shockley, Brattain & Bardeen won a Nobel Prize for this electronic \"transfer resistor\"",
+        "answer": "a transistor",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CHARLIE CHAPLIN FILMS",
+        "value": 500,
+        "question": "Chaplin falls in love with a blind flower girl in this 1931 release that some consider his best",
+        "answer": "City Lights",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BUILDINGS",
+        "value": 500,
+        "question": "A hippodrome is used for horse races & a velodrome is used for these races",
+        "answer": "bicycles",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "U.S.A.",
+        "value": 500,
+        "question": "At 13,161 feet, Wheeler Peak in the Sangre de Cristo Mountains is the highest point in this state",
+        "answer": "New Mexico",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE FOURTH",
+        "value": 500,
+        "question": "Jeopardy! once featured a category on this Shakespearean play's \"Part 2\"",
+        "answer": "Henry IV",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BY THE NUMBERS",
+        "value": 500,
+        "question": "In \"The Charge of the Light Brigade\", it's the number of soldiers who rode \"Into the Valley of Death\"",
+        "answer": "600",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE FRENCH REVOLUTION",
+      "CONTEMPORARY WOMEN",
+      "TREES",
+      "ARTISTS",
+      "RANCHES",
+      "PLAYWRIGHTS"
+    ],
+    "clues": [
+      {
+        "category": "THE FRENCH REVOLUTION",
+        "value": 200,
+        "question": "This instrument of death was nicknamed \"The Widow\"",
+        "answer": "the guillotine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CONTEMPORARY WOMEN",
+        "value": 200,
+        "question": "In 1993 this \"French Chef\" became the 1st woman inducted into the Culinary Inst. of America's Hall of Fame",
+        "answer": "Julia Child",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TREES",
+        "value": 200,
+        "question": "The strong, hard wood of the ash tree is used for oars & this piece of baseball equipment",
+        "answer": "a bat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ARTISTS",
+        "value": 200,
+        "question": "Gustav Vigeland's former studio is now a museum in this Norwegian capital",
+        "answer": "Oslo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "RANCHES",
+        "value": 200,
+        "question": "At the turn of the century, the Eaton Ranch near Sheridan, Wyoming became the 1st of these western vacation resorts",
+        "answer": "a dude ranch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 200,
+        "question": "When George S. Kaufman was asked to write one of these for himself, he replied, \"Over my dead body!\"",
+        "answer": "an epitaph",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE FRENCH REVOLUTION",
+        "value": 400,
+        "question": "On July 14, 1789 the Marquis de Launay, governor of this Paris fortress, was murdered by a crowd",
+        "answer": "the Bastille",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CONTEMPORARY WOMEN",
+        "value": 400,
+        "question": "The winningest player in tennis, she announced that 1994, her 22nd year on the tour, will be her last",
+        "answer": "Martina Navratilova",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TREES",
+        "value": 400,
+        "question": "It is believed that this religious leader received enlightenment under a bodhi or bo tree",
+        "answer": "Buddha",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ARTISTS",
+        "value": 400,
+        "question": "Several notable works by the Venetian artist Tintoretto depict this patron saint of Venice",
+        "answer": "St. Mark",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "RANCHES",
+        "value": 400,
+        "question": "This ranch near Corpus Christi, Texas is about 2/3 the size of Delaware",
+        "answer": "the King Ranch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 400,
+        "question": "This \"Tom Jones\" author's 1736 comedy \"Pasquin\" satirizes 18th century theatre",
+        "answer": "(Henry) Fielding",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE FRENCH REVOLUTION",
+        "value": 600,
+        "question": "Now a garden, this royal residence near the Louvre was stormed twice in 1792",
+        "answer": "the Tuileries",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CONTEMPORARY WOMEN",
+        "value": 600,
+        "question": "This Kennedy family member founded the Special Olympics & serves as its honorary chairman",
+        "answer": "Eunice Shriver",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TREES",
+        "value": 600,
+        "question": "The quaking species is the most common type of this tree in North America",
+        "answer": "the aspen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ARTISTS",
+        "value": 600,
+        "question": "Hans Holbein the Younger designed a macabre series of woodcuts called the \"Dance of\" this",
+        "answer": "Death",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "RANCHES",
+        "value": 1200,
+        "question": "The 250,000-acre Parker Ranch in this state is one of the largest U.S. cattle ranches under single ownership",
+        "answer": "Hawaii",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 600,
+        "question": "Her first play, \"The Children's Hour\", premiered in 1934 & ran for 691 performances",
+        "answer": "Lillian Hellman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE FRENCH REVOLUTION",
+        "value": 800,
+        "question": "In July 1793 this radical was stabbed to death by Girondist sympathizer Charlotte Corday",
+        "answer": "(Jean-Paul) Marat",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CONTEMPORARY WOMEN",
+        "value": 800,
+        "question": "This TV journalist's father, William Ling, was a diplomat in Chiang Kai-Shek's government",
+        "answer": "Connie Chung",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TREES",
+        "value": 800,
+        "question": "Scientificially speaking, this tropical fruit tree is Mangifera indica",
+        "answer": "the mango tree",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ARTISTS",
+        "value": 800,
+        "question": "Around 1908 the group known as the Ashcan school rose to prominence in this U.S. metropolis",
+        "answer": "New York",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "RANCHES",
+        "value": 800,
+        "question": "This ranch that features 10 half-buried automobiles inspired a Bruce Springsteen song",
+        "answer": "the Cadillac Ranch",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 800,
+        "question": "This 19th century Swede married women named Siri, Frida & Harriet, but never a \"Miss Julie\"",
+        "answer": "Strindberg",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE FRENCH REVOLUTION",
+        "value": 1000,
+        "question": "On June 4, 1794 this Jacobin leader was elected president of the National Convention",
+        "answer": "Robespierre",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CONTEMPORARY WOMEN",
+        "value": 1000,
+        "question": "In 1981 & 1983 this future governor was named Woman of the Year by the Texas Women's Political Caucus",
+        "answer": "Ann Richards",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TREES",
+        "value": 1000,
+        "question": "Ascolano, Manzanillo & Mission are commercially important kinds of this tree",
+        "answer": "an olive tree",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ARTISTS",
+        "value": 2000,
+        "question": "This Englishman known for his black & white art nouveau drawings was only 25 when he died in 1898",
+        "answer": "(Aubrey) Beardsley",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "RANCHES",
+        "value": 1000,
+        "question": "This 1902 Owen Wister novel is set in Wyoming on Judge Henry's Sunk Creek Ranch",
+        "answer": "The Virginian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 1000,
+        "question": "This author of \"Every Man in His Humour\" must have been out of humor when he killed a man in a duel in 1598",
+        "answer": "Ben Jonson",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "CHILDREN'S LITERATURE",
+    "clue": "Jennifer Greenway's \"A Real Little Bunny\" is a sequel to this Margery Williams classic",
+    "answer": "The Velveteen Rabbit"
+  },
+  "gameId": "2226",
+  "gameDate": "Monday, April 18, 1994"
+}

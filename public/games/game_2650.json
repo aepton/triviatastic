@@ -1,0 +1,556 @@
+{
+  "title": "Show #4321 - Monday, May 19, 2003",
+  "jeopardyRound": {
+    "categories": [
+      "THAT'S MY ATTORNEY GENERAL",
+      "MERCURIAL",
+      "LITERARY LINES",
+      "SHATTERING ALLUSIONS",
+      "EARNINGS FROM THE CRYPT",
+      "HOW ODD!"
+    ],
+    "clues": [
+      {
+        "category": "THAT'S MY ATTORNEY GENERAL",
+        "value": 200,
+        "question": "John Ashcroft",
+        "answer": "George W. Bush",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MERCURIAL",
+        "value": 200,
+        "question": "The Mercury News bills itself as \"The Newspaper of\" this California tech area",
+        "answer": "Silicon Valley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERARY LINES",
+        "value": 200,
+        "question": "\"This is a story of how a Baggins had an adventure\" is a line from Chapter 1 of this novel",
+        "answer": "The Hobbit",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHATTERING ALLUSIONS",
+        "value": 200,
+        "question": "A person who can get out of tight situations is one of these, the name of a '20s escape artist",
+        "answer": "a Houdini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EARNINGS FROM THE CRYPT",
+        "value": 200,
+        "question": "With $37 million in 1 year, the \"King\" of the world's top-earning late celebrities is this man",
+        "answer": "Elvis Presley",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HOW ODD!",
+        "value": 200,
+        "question": "To make the film \"The Sound of Music\" shorter, a theater manager in Seoul, South Korea cut all of these out of it",
+        "answer": "the songs",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THAT'S MY ATTORNEY GENERAL",
+        "value": 400,
+        "question": "Janet Reno",
+        "answer": "Bill Clinton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MERCURIAL",
+        "value": 400,
+        "question": "In the early '60s this man known as Q became a vice president at Mercury Records",
+        "answer": "Quincy Jones",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERARY LINES",
+        "value": 400,
+        "question": "Completes the concluding line from \"Gone with the Wind\": \"After all...\"",
+        "answer": "\"tomorrow is another day\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHATTERING ALLUSIONS",
+        "value": 400,
+        "question": "2 feuding families can be the Montagues & the Capulets or the Hatfields & these",
+        "answer": "the McCoys",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EARNINGS FROM THE CRYPT",
+        "value": 400,
+        "question": "Of the 2 Beatles who qualify for the Forbes list, this man made more with a total of $20 million",
+        "answer": "John Lennon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HOW ODD!",
+        "value": 400,
+        "question": "Reportedly, when Henry Ford built his first automobile, he forgot to put in one of these gears",
+        "answer": "reverse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THAT'S MY ATTORNEY GENERAL",
+        "value": 600,
+        "question": "Robert Kennedy(2 presidents, please)",
+        "answer": "John F. Kennedy & Lyndon B. Johnson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MERCURIAL",
+        "value": 600,
+        "question": "The Mercury is the WNBA team in this city in which the mercury has hit 122",
+        "answer": "Phoenix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERARY LINES",
+        "value": 600,
+        "question": "1954 novel that contains the lines \"This is our island.  It's a good island.  Until the grown-ups come to fetch us we'll have fun\"",
+        "answer": "Lord of the Flies",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHATTERING ALLUSIONS",
+        "value": 600,
+        "question": "You may be \"read\" this; England passed the original one back in 1715 to deal with noisy protests",
+        "answer": "the riot act",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EARNINGS FROM THE CRYPT",
+        "value": 600,
+        "question": "The highest-earning late female celebrity is this sex symbol who pulled in $7 million",
+        "answer": "Marilyn Monroe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HOW ODD!",
+        "value": 600,
+        "question": "It's the only precious gem composed of only one element",
+        "answer": "diamond (carbon)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THAT'S MY ATTORNEY GENERAL",
+        "value": 800,
+        "question": "Edwin Meese III",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MERCURIAL",
+        "value": 800,
+        "question": "This Mercury astronaut didn't make it into orbit when launched May 5, 1961",
+        "answer": "Alan Shepard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERARY LINES",
+        "value": 800,
+        "question": "\"1984\" begins, \"It was a bright cold day in April, and the clocks were striking\" this odd hour",
+        "answer": "13",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHATTERING ALLUSIONS",
+        "value": 800,
+        "question": "The double whammy goes back to Evil-Eye Fleegle, a character in this Al Capp strip",
+        "answer": "Li'l Abner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EARNINGS FROM THE CRYPT",
+        "value": 800,
+        "question": "With $28 million, the number 2-earning late celebrity in the world is this cartoonist",
+        "answer": "Charles Schulz",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HOW ODD!",
+        "value": 800,
+        "question": "This insect, the Musca domestica, can become a great-grandmother in only 60 days",
+        "answer": "common housefly",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THAT'S MY ATTORNEY GENERAL",
+        "value": 1000,
+        "question": "Elliot Richardson",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MERCURIAL",
+        "value": 1000,
+        "question": "The most famous broadcast of \"The Mercury Theater on the Air\" was this tale about Mars, broadcast October 30, 1938",
+        "answer": "War of the Worlds",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERARY LINES",
+        "value": 1000,
+        "question": "This 1934 novel begins \"Monsieur Van Gogh!  It's time to wake up!\"",
+        "answer": "Lust for Life",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHATTERING ALLUSIONS",
+        "value": 1000,
+        "question": "Being in the middle of things puts you at this, the point on the surface above the focus of an earthquake",
+        "answer": "the epicenter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EARNINGS FROM THE CRYPT",
+        "value": 1000,
+        "question": "At $10 million made in a year, this man is certainly the highest-earning late Jamaican on the list",
+        "answer": "Bob Marley",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HOW ODD!",
+        "value": 1000,
+        "question": "His name may be erased from your head, but he directed odd movies like \"Eraserhead\" & \"Mulholland Drive\"",
+        "answer": "David Lynch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PHYSICAL SCIENCE",
+      "POND CROSSERS",
+      "GUINNESS RECORDS",
+      "AFRICAN COUNTRIES BY CITIES",
+      "SKI YOU AT THE MOVIES",
+      "\"RH\" FACTOR"
+    ],
+    "clues": [
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 400,
+        "question": "If a recipe told you to bring carbon to this point, you'd need to raise its temperature to 8,720 degrees",
+        "answer": "the boiling point",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "POND CROSSERS",
+        "value": 400,
+        "question": "Once NYC's chief engineer, Marc Brunel later spent 19 years digging the first tunnel under this British river",
+        "answer": "Thames",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 400,
+        "question": "Tish, one of these won by a British couple at a fair in 1956, swam happily in its bowl for a record 43 years",
+        "answer": "goldfish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN COUNTRIES BY CITIES",
+        "value": 400,
+        "question": "Zagazig, Memphis,Aswan",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SKI YOU AT THE MOVIES",
+        "value": 400,
+        "question": "This actor who owns his own ski resort did much of his own skiing in the 1969 film \"Downhill Racer\"",
+        "answer": "Robert Redford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"RH\" FACTOR",
+        "value": 400,
+        "question": "The African species of this mammal are either hook-lipped or square-lipped",
+        "answer": "rhinoceros",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 800,
+        "question": "A 1992 experiment using surface tension on polished silicon got water to defy physics by doing this",
+        "answer": "to go up",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "POND CROSSERS",
+        "value": 800,
+        "question": "In the 1820s American publishers ignored his bird drawings, so he took them to England",
+        "answer": "John James Audubon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 800,
+        "question": "Though its name is only 3 letters long, it's the biggest retail fashion chain",
+        "answer": "Gap",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN COUNTRIES BY CITIES",
+        "value": 800,
+        "question": "Kimberley,Humansdorp,Soweto",
+        "answer": "South Africa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SKI YOU AT THE MOVIES",
+        "value": 800,
+        "question": "Peter Sellers \"Clouseaus\" in on jewel thief David Niven at a ski resort in this 1964 film",
+        "answer": "The Pink Panther",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"RH\" FACTOR",
+        "value": 800,
+        "question": "This island 12 miles off the coast of Turkey was the site of one of the 7 Wonders of the Ancient World",
+        "answer": "Rhodes (the Colossus)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 1200,
+        "question": "This field is measured in nanoteslas -- it's about 60,000 nanoteslas at the poles & 30,000 at the equator",
+        "answer": "Earth's magnetic field",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 1200,
+        "question": "In this 1996 film Madonna went through a record 85 costume changes",
+        "answer": "Evita",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN COUNTRIES BY CITIES",
+        "value": 1200,
+        "question": "Tangier,Meknes,Casablanca",
+        "answer": "Morocco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SKI YOU AT THE MOVIES",
+        "value": 1200,
+        "question": "An Oscar-winning documentary profiled Yuichiro Miura, \"The Man Who Skied Down\" this mountain",
+        "answer": "Mount Everest",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"RH\" FACTOR",
+        "value": 1200,
+        "question": "From the Greek for \"orator\", it's the art of using language effectively & persuasively",
+        "answer": "rhetoric",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 1600,
+        "question": "In 1925 Wolfgang Pauli stated his exclusion principle -- no 2 of these particles in an atom can be in the same state",
+        "answer": "electrons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 1600,
+        "question": "Guinness lists this product line as the most successful portable music system",
+        "answer": "Sony Walkman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN COUNTRIES BY CITIES",
+        "value": 1600,
+        "question": "Malindi,Machakos,Mombasa",
+        "answer": "Kenya",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SKI YOU AT THE MOVIES",
+        "value": 1600,
+        "question": "In a 1969 film, Dean Martin's daughter Claudia & this star of \"Adam-12\" got \"Ski Fever\"",
+        "answer": "Martin Milner",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"RH\" FACTOR",
+        "value": 1600,
+        "question": "In 1910 this future South Korean president became the first Korean to earn a Ph.D. from an American university",
+        "answer": "Syngman Rhee",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PHYSICAL SCIENCE",
+        "value": 2000,
+        "question": "Its formula is H2S & it smells like rotten eggs",
+        "answer": "hydrogen sulfide",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "POND CROSSERS",
+        "value": 2000,
+        "question": "This last name of British lord Jeffrey, who captured Montreal, is on a Massachusetts college",
+        "answer": "Amherst",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GUINNESS RECORDS",
+        "value": 2000,
+        "question": "Alan Whitworth figures when he's done in 2007, his sketch of this fortification in England will be 73 miles long",
+        "answer": "Hadrian's Wall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AFRICAN COUNTRIES BY CITIES",
+        "value": 2000,
+        "question": "Tobruk,Benghazi,As-Sidrah",
+        "answer": "Libya",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SKI YOU AT THE MOVIES",
+        "value": 2000,
+        "question": "(Sarah of the Clue Crew at a ski resort in Colorado)  I've wanted to go skiing ever since I saw Audrey Hepburn meet Cary Grant at a ski resort in this classic 1963 caper",
+        "answer": "Charade",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"RH\" FACTOR",
+        "value": 2000,
+        "question": "Irises have this horizontal, underground stem which produces shoots & roots of a new plant",
+        "answer": "rhizome",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "AWARDS",
+    "clue": "The organization that sponsored the Stage Door Canteens during WWII is now known for these annual awards",
+    "answer": "Tony Awards"
+  },
+  "gameId": "4321",
+  "gameDate": "Monday, May 19, 2003"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #3945 - Friday, October 26, 2001",
+  "jeopardyRound": {
+    "categories": [
+      "THROWING THE BOOK AT YOU",
+      "THE PRODUCE DEPT.",
+      "SOFTWARE THAT BYTES",
+      "BELOVED SINGERS",
+      "BALTIMORE",
+      "\"BEL\"LISSIMO!"
+    ],
+    "clues": [
+      {
+        "category": "THROWING THE BOOK AT YOU",
+        "value": 100,
+        "question": "\"Alexey... was the third son of Fyodor... who became notorious... because of his tragic... death\"",
+        "answer": "The Brothers Karamazov",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE PRODUCE DEPT.",
+        "value": 100,
+        "question": "Casaba &Santa Claus",
+        "answer": "melons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SOFTWARE THAT BYTES",
+        "value": 100,
+        "question": "A dangerous new virus is actually 2 files which share their names with these 2 Shakespearean lovers",
+        "answer": "Romeo & Juliet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BELOVED SINGERS",
+        "value": 100,
+        "question": "Now starring on \"Touched by an Angel\", in the '50s she brought gospel music to Las Vegas",
+        "answer": "Della Reese",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BALTIMORE",
+        "value": 100,
+        "question": "Begun in 1815, America's first large-scale monument to this man towers above Mount Vernon Place",
+        "answer": "George Washington",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"BEL\"LISSIMO!",
+        "value": 100,
+        "question": "Bats love to hang out in this church tower",
+        "answer": "belfry",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THROWING THE BOOK AT YOU",
+        "value": 200,
+        "question": "\"Dean was having his kicks; he put on a jazz record, grabbed Marylou... and bounced against her with the beat\"",
+        "answer": "On the Road",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE PRODUCE DEPT.",
+        "value": 200,
+        "question": "Acorn &Hubbard",
+        "answer": "squash",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SOFTWARE THAT BYTES",
+        "value": 200,
+        "question": "A virus was sent as a picture of this 20-year-old tennis star; needless to say it was a popular virus",
+        "answer": "Anna Kournikova",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BELOVED SINGERS",
+        "value": 200,
+        "question": "This singer's shapely shaved head stars in the video for R.E.M.'s \"Strange Currencies\"",
+        "answer": "Michael Stipe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BALTIMORE",
+        "value": 200,
+        "question": "The 1814 bombardment of this nearby site is commemorated on Defenders' Day",
+        "answer": "Fort McHenry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"BEL\"LISSIMO!",
+        "value": 200,
+        "question": "(Sarah of the Clue Crew is ready to dive into a pool,)  Unfortunately, it's what I'm about to do here",
+        "answer": "belly flop",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THROWING THE BOOK AT YOU",
+        "value": 300,
+        "question": "\"Like a leaden knell the words came back at him: War is Peace Freedom is Slavery Ignorance is Strength\"",
+        "answer": "1984",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE PRODUCE DEPT.",
+        "value": 300,
+        "question": "Savoy &bok choy",
+        "answer": "cabbage",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SOFTWARE THAT BYTES",
+        "value": 600,
+        "question": "A type of virus is named after this surreptitious instrument of war used by ancient Greeks",
+        "answer": "Trojan Horse",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BELOVED SINGERS",
+        "value": 300,
+        "question": "The vocals of this country singer were featured in Disney's \"Robin Hood\"",
+        "answer": "Roger Miller",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BALTIMORE",
+        "value": 300,
+        "question": "\"Liberty Heights\" & \"Diner\" are among the Baltimore-set movies by this Baltimore-born writer & director",
+        "answer": "Barry Levinson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"BEL\"LISSIMO!",
+        "value": 300,
+        "question": "As 1 word, it's a poisonous plant also called deadly nightshade; as 2 words, it's a Stevie Nicks album",
+        "answer": "belladonna/\"Bella Donna\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THROWING THE BOOK AT YOU",
+        "value": 400,
+        "question": "\"40 years ago, certain persons went up to Laputa... and... came back with a very little smattering in mathematics\"",
+        "answer": "Gulliver's Travels",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE PRODUCE DEPT.",
+        "value": 400,
+        "question": "Greengage &Santa Rosa",
+        "answer": "plums",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SOFTWARE THAT BYTES",
+        "value": 400,
+        "question": "Every March 6 your computer can be infected by this virus named for a Renaissance artist",
+        "answer": "Michelangelo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BELOVED SINGERS",
+        "value": 400,
+        "question": "Shawn Colvin said her life was changed by this singer whose biggest album was \"Court and Spark\"",
+        "answer": "Joni Mitchell",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BALTIMORE",
+        "value": 400,
+        "question": "Famous for its medical school, this university celebrated its 125th anniversary in 2001",
+        "answer": "Johns Hopkins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"BEL\"LISSIMO!",
+        "value": 400,
+        "question": "Eric Clapton had these title \"Blues\" in 1973",
+        "answer": "\"Bell Bottom Blues\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THROWING THE BOOK AT YOU",
+        "value": 500,
+        "question": "\"'Miss Jean Louise, stand up.  Your father's passin.'\"",
+        "answer": "To Kill a Mockingbird",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE PRODUCE DEPT.",
+        "value": 500,
+        "question": "Scarlet Globe &White Icicle",
+        "answer": "radishes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SOFTWARE THAT BYTES",
+        "value": 500,
+        "question": "This \"pest\" virus that originated in the Philippines was sent via an amorous attachment",
+        "answer": "Love Bug Virus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BELOVED SINGERS",
+        "value": 500,
+        "question": "(Cheryl of the Clue Crew is on the stage of the Apollo Theatre in New York City.)  This \"Sassy\" singer won an amateur contest here in 1942 with her rendition of \"Body and Soul\"",
+        "answer": "Sarah Vaughan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BALTIMORE",
+        "value": 500,
+        "question": "Horse racing's Preakness Stakes runs each May at this racetrack",
+        "answer": "Pimlico",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"BEL\"LISSIMO!",
+        "value": 500,
+        "question": "This 1940 novel is set near Segovia, Spain in 1937",
+        "answer": "For Whom the Bell Tolls",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PHYSICISTS",
+      "SPEECH",
+      "THE SUPREME COURT",
+      "BALLET",
+      "DUTCH ROYALTY",
+      "COMPOUND WORDS"
+    ],
+    "clues": [
+      {
+        "category": "PHYSICISTS",
+        "value": 200,
+        "question": "In 1804 Joseph Gay-Lussac went up, up & away in one of these to research the atmosphere",
+        "answer": "balloon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPEECH",
+        "value": 200,
+        "question": "The roof of the mouth; a cleft one may lead to difficulty in articulation",
+        "answer": "palate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE SUPREME COURT",
+        "value": 200,
+        "question": "In a 2001 book David Brock said he lied in a 1993 book slamming her, Clarence Thomas' nemesis at confirmation",
+        "answer": "Anita Hill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 200,
+        "question": "Herr Drosselmeyer brings Clara a special Christmas gift in this 1892 ballet",
+        "answer": "The Nutcracker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DUTCH ROYALTY",
+        "value": 200,
+        "question": "Born in 1943, Princess Margriet was named for the Marguerite flower, a symbol of resistance against this group",
+        "answer": "the Nazis",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COMPOUND WORDS",
+        "value": 200,
+        "question": "You can be \"as dead as\" this, a word combining a portal & a fastener",
+        "answer": "doornail",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PHYSICISTS",
+        "value": 400,
+        "question": "New data seem to confirm the \"negative gravity\" that this 20th century genius proposed & then abandoned",
+        "answer": "Albert Einstein",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPEECH",
+        "value": 400,
+        "question": "The national association for this disorder says not to fill in sufferers' words or tell them, \"just relax\"",
+        "answer": "stuttering",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE SUPREME COURT",
+        "value": 400,
+        "question": "Eisenhower said his 2 biggest mistakes as president were nominating William Brennan & this chief justice",
+        "answer": "Earl Warren",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 400,
+        "question": "Act three, scene one of this ballet is called \"The Awakening\"",
+        "answer": "Sleeping Beauty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DUTCH ROYALTY",
+        "value": 400,
+        "question": "When Princess Laurentien studied at UC Berkeley, she wrote a thesis on \"Street Prostitution in\" this nearby city",
+        "answer": "San Francisco",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COMPOUND WORDS",
+        "value": 400,
+        "question": "Meaning \"to peddle\", it attaches to iron or war",
+        "answer": "monger",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PHYSICISTS",
+        "value": 600,
+        "question": "Georges Lemaitre's idea of the explosion of a primeval atom gave rise to this theory",
+        "answer": "Big Bang Theory",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPEECH",
+        "value": 600,
+        "question": "Type of \"stop\" heard in a Cockney pronounciation of \"little\"",
+        "answer": "glottal stop",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE SUPREME COURT",
+        "value": 600,
+        "question": "This current Supreme Court justice's first & middle names have a papal sound",
+        "answer": "John Paul Stevens",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 600,
+        "question": "Prince Siegfried & Odette drown themselves toward the end of this classic ballet",
+        "answer": "Swan Lake",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DUTCH ROYALTY",
+        "value": 600,
+        "question": "Seen here, Prince William-Alexander, the heir to the throne, is the eldest child of this queen",
+        "answer": "Beatrix",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COMPOUND WORDS",
+        "value": 600,
+        "question": "Meal to end a period of non-eating",
+        "answer": "breakfast",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PHYSICISTS",
+        "value": 800,
+        "question": "In 2000 a group of physicists finally found evidence of the Tau type of this subatomic particle",
+        "answer": "neutrino",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SPEECH",
+        "value": 800,
+        "question": "One \"intonation contour\" is the rising pitch at the end of a sentence that's the standard signal for this",
+        "answer": "a question",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE SUPREME COURT",
+        "value": 800,
+        "question": "In 1778 he was president of the Continental Congress; 11 years later, he became chief justice",
+        "answer": "John Jay",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 1600,
+        "question": "This ballet by Agnes De Mille is subtitled \"The Courting at Burnt Ranch\"",
+        "answer": "Rodeo",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DUTCH ROYALTY",
+        "value": 800,
+        "question": "In 1980 she celebrated her 71st birthday by abdicating the Dutch throne",
+        "answer": "Queen Juliana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COMPOUND WORDS",
+        "value": 800,
+        "question": "As an afterthought, P.S. is short for this",
+        "answer": "postscript",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PHYSICISTS",
+        "value": 1000,
+        "question": "In the 19th century this 3-named British scientist established the kinetic theory of gases -- smart!",
+        "answer": "James Clerk Maxwell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SPEECH",
+        "value": 2000,
+        "question": "Read my lips -- the consonants M & B are phonetically this type of sound",
+        "answer": "labial",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE SUPREME COURT",
+        "value": 1000,
+        "question": "The biography \"The Judge from Beacon Hill\" covers his life & his 3 decades on the Supreme Court",
+        "answer": "Oliver Wendell Holmes",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BALLET",
+        "value": 1000,
+        "question": "This title character has the face & arms of a woman & a body of feathers that tapers off in flames",
+        "answer": "The Firebird",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DUTCH ROYALTY",
+        "value": 1000,
+        "question": "This mother of Queen Wilhelmina had the same first name as a Jane Austen heroine",
+        "answer": "Emma",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COMPOUND WORDS",
+        "value": 1000,
+        "question": "Words meaning \"academy\" & \"court\" merge to form this place where me & Julio hung out",
+        "answer": "schoolyard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "'90s MOVIES",
+    "clue": "It was based on the true story of the 4 Niland brothers of Tonawanda, New York",
+    "answer": "Saving Private Ryan"
+  },
+  "gameId": "3945",
+  "gameDate": "Friday, October 26, 2001"
+}
