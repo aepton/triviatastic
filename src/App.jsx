@@ -3,6 +3,7 @@ import './App.css';
 import JeopardyBoard from './components/JeopardyBoard';
 import WelcomeModal from './components/WelcomeModal';
 import JoinGameModal from './components/JoinGameModal';
+import UserSetupModal from './components/UserSetupModal';
 import { loadJeopardyArchive, convertToJeopardyBoardFormat } from './parseArchive';
 import fetchJArchiveGame from './jarchiveLoader';
 import { loadGameAndGenerateIdentifier } from './utils/gameUtils';
@@ -16,6 +17,7 @@ function App() {
   const [gameIdentifier, setGameIdentifier] = useState(null);
   const [showWelcomeModal, setShowWelcomeModal] = useState(true);
   const [showJoinModal, setShowJoinModal] = useState(false);
+  const [showUserSetupModal, setShowUserSetupModal] = useState(false);
   const jeopardyBoardRef = useRef(null);
 
   // Effect to check for game identifier in URL parameters when the app loads
@@ -26,6 +28,7 @@ function App() {
     if (identifierParam) {
       setGameIdentifier(identifierParam);
       setShowWelcomeModal(false);
+      setShowUserSetupModal(true); // Show user setup when joining via URL
       // Here we would typically look up the game associated with this identifier
       // For now, we'll just display the identifier
       setMessage(`Joined game with identifier: ${identifierParam}`);
@@ -145,8 +148,9 @@ function App() {
       // Load the board with the current round
       loadBoardWithArchiveData(gameData, round);
       
-      // Close the welcome modal
+      // Close the welcome modal and show user setup
       setShowWelcomeModal(false);
+      setShowUserSetupModal(true);
       
       setMessage(`Created game with identifier: ${identifier}`);
     } catch (error) {
@@ -163,16 +167,23 @@ function App() {
     updateUrlWithIdentifier(identifier);
     setShowJoinModal(false);
     setShowWelcomeModal(false);
+    setShowUserSetupModal(true); // Show user setup after joining
     setMessage(`Joined game with identifier: ${identifier}`);
-    
-    // In a real implementation, we would fetch the game data associated with this identifier
-    // For now, we'll just display the identifier
   };
   
   // Show the join game modal
   const handleShowJoinModal = () => {
     setShowWelcomeModal(false);
     setShowJoinModal(true);
+  };
+
+  // Handle user setup
+  const handleSaveUsers = (users) => {
+    // Pass users to JeopardyBoard
+    if (jeopardyBoardRef.current && typeof jeopardyBoardRef.current.setUsers === 'function') {
+      jeopardyBoardRef.current.setUsers(users);
+    }
+    setShowUserSetupModal(false);
   };
 
   return (
@@ -198,6 +209,14 @@ function App() {
           onJoinWithIdentifier={handleJoinWithIdentifier}
         />
       )}
+
+      {/* Show user setup modal after creating/joining game */}
+      {showUserSetupModal && (
+        <UserSetupModal 
+          onClose={() => setShowUserSetupModal(false)}
+          onSaveUsers={handleSaveUsers}
+        />
+      )}
       
       <div className="archive-tools">
         {archiveData && (
@@ -213,7 +232,10 @@ function App() {
         )}
       </div>
       
-      <JeopardyBoard ref={jeopardyBoardRef} />
+      <JeopardyBoard 
+        ref={jeopardyBoardRef} 
+        onRequestUserSetup={() => setShowUserSetupModal(true)}
+      />
     </div>
   );
 }

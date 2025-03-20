@@ -93,13 +93,15 @@ const JeopardyBoard = forwardRef((props, ref) => {
   const [categories, setCategories] = useState(DEFAULT_CATEGORIES);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [showUserSetupModal, setShowUserSetupModal] = useState(true);
   const [users, setUsers] = useState([]);
 
-  // Expose the setCategories method to parent components via ref
+  // Expose methods to parent components via ref
   useImperativeHandle(ref, () => ({
     setCategories: (newCategories) => {
       setCategories(newCategories);
+    },
+    setUsers: (newUsers) => {
+      setUsers(newUsers);
     }
   }));
 
@@ -134,21 +136,16 @@ const JeopardyBoard = forwardRef((props, ref) => {
   };
 
   const handleResetUsers = () => {
-    setShowUserSetupModal(true);
+    // Signal to parent component to show the user setup modal
+    if (props.onRequestUserSetup) {
+      props.onRequestUserSetup();
+    }
   };
 
   return (
     <div className="jeopardy-container">
       {isLoading && <div className="loading">Loading...</div>}
       {error && <div className="error">Error: {error}</div>}
-      
-      {/* User Setup Modal */}
-      {showUserSetupModal && (
-        <UserSetupModal 
-          onClose={() => setShowUserSetupModal(false)} 
-          onSaveUsers={handleSaveUsers} 
-        />
-      )}
       
       <div className="jeopardy-board">
         {categories.map((category, index) => (
