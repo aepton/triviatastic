@@ -1,0 +1,475 @@
+{
+  "title": "Show #52 - Tuesday, November 20, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD GEOGRAPHY",
+      "CHILDREN'S LITERATURE",
+      "FOOD",
+      "BUSINESS & INDUSTRY",
+      "TV TRIVIA",
+      "ROAD WORK"
+    ],
+    "clues": [
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 100,
+        "question": "It's Erin or Eire in Gaelic",
+        "answer": "Ireland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 100,
+        "question": "\"Treasure Island's\" peg-legged pirate",
+        "answer": "Long John Silver",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FOOD",
+        "value": 100,
+        "question": "Massachusetts town for which fig-filled cookies are named",
+        "answer": "Newton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 100,
+        "question": "Nation's largest single user of almonds is this chocolate maker",
+        "answer": "Hershey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 100,
+        "question": "Played Rev. Fordwick on \"The Waltons\" but is best known as Jack Tripper",
+        "answer": "John Ritter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ROAD WORK",
+        "value": 100,
+        "question": "What Ray Charles told \"Jack\" to do",
+        "answer": "hit the road",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "Where Persian rugs are made",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 200,
+        "question": "After winning by a \"hare\", he said, \"Slow but sure wins the race\"",
+        "answer": "the tortoise",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "America's largest crop, more accurately called maize",
+        "answer": "corn",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 200,
+        "question": "Only company that sells rotary engine cars in U.S.",
+        "answer": "Mazda",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 200,
+        "question": "Her character \"Mama\" died in a TV special, but was resurrected for \"Mama's Family\"",
+        "answer": "Vicki Lawrence",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ROAD WORK",
+        "value": 200,
+        "question": "The beat of Karl Malden's Detective Stone",
+        "answer": "the streets of San Francisco",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 300,
+        "question": "It's the largest island in Europe & 7th largest in the world",
+        "answer": "Great Britain",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 300,
+        "question": "Kellogg's reduced amount of this mineral in Frosted Rice after the flakes were attracted to magnets",
+        "answer": "iron",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 300,
+        "question": "Babies are no longer this food maker's \"only business\"; it's also in insurance",
+        "answer": "Gerber",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 300,
+        "question": "Crime \"The Fugitive\" was accused of",
+        "answer": "murder (murdering his wife)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ROAD WORK",
+        "value": 600,
+        "question": "Where Eddie Grant \"rocked down to\" in this hit:\"Now in the street there is violence / And, and a lots of work to be done / No place to hang out our washing / And, and I can't blame all on the sun...\"",
+        "answer": "\"Electric Avenue\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "Widely considered a vegetable tho botanists call it a fruit, it was once thought to be poisonous",
+        "answer": "a tomato",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 400,
+        "question": "Company that distributes Stolichnaya vodka from Russia & makes soft drinks there",
+        "answer": "Pepsi-Cola",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 400,
+        "question": "The two occupations of TV's \"Odd Couple\"",
+        "answer": "sportswriter & photographer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ROAD WORK",
+        "value": 400,
+        "question": "In the '20s, area around Times Square where music composers worked",
+        "answer": "Tin Pan Aley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FOOD",
+        "value": 500,
+        "question": "After defeats by Texans & Americans, this Mexican introduced chewing gum to U.S.",
+        "answer": "General Antonio López de Santa Anna",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 500,
+        "question": "Owned by IT&T it's America's largest seed company",
+        "answer": "Burpee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 500,
+        "question": "1950s comedy that was first to be filmed with 3 cameras before a live audience",
+        "answer": "I Love Lucy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANATOMY",
+      "THE '50s",
+      "FAMILIAR PHRASES",
+      "SPORTS",
+      "GOVERNMENT",
+      "MOVIES"
+    ],
+    "clues": [
+      {
+        "category": "ANATOMY",
+        "value": 200,
+        "question": "Of smiling & frowning the one it takes more muscles to do",
+        "answer": "frowning",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE '50s",
+        "value": 200,
+        "question": "In August 1956, Ringling Brothers Circus performed its last show in one",
+        "answer": "a big top (tent)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 200,
+        "question": "What you are if you've \"bought the farm\" or \"cashed in your chips\"",
+        "answer": "dead",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "In 1880 baseball it took 9 balls to do what today only takes 4",
+        "answer": "walk",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 200,
+        "question": "Choosing someone for office by voting",
+        "answer": "an election",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MOVIES",
+        "value": 200,
+        "question": "She actually said \"I want to be let alone\"",
+        "answer": "Greta Garbo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANATOMY",
+        "value": 400,
+        "question": "The taste sensation that goes with sweet, sour, & salty",
+        "answer": "bitter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE '50s",
+        "value": 400,
+        "question": "From 7/4/59 to 7/3/60 the U.S. flag had this many stars",
+        "answer": "49",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 400,
+        "question": "From the inquisitive male goose, it means \"to glance at\"",
+        "answer": "to take a gander",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "Derived from \"l'oeuf\", French for egg, it means 0 in tennis",
+        "answer": "love",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 400,
+        "question": "From Latin \"clothed in white\", a person running for office",
+        "answer": "a candidate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MOVIES",
+        "value": 400,
+        "question": "\"Any Which Way You Can\"was its sequel",
+        "answer": "Every Which Way But Loose",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANATOMY",
+        "value": 600,
+        "question": "The liquid part of the blood",
+        "answer": "plasma",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE '50s",
+        "value": 600,
+        "question": "Due to illness, John Foster Dulles resigned from this office in '59",
+        "answer": "Secretary of State",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 600,
+        "question": "It can also be said \"Emerge odorous as an American beauty\"",
+        "answer": "Come out smelling like a rose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPORTS",
+        "value": 600,
+        "question": "Sport played by the L.A. Thunderbirds and the N.Y. Bombers",
+        "answer": "roller derby",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 1200,
+        "question": "Organizations or issues not based on political affiliations",
+        "answer": "non-partisan",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MOVIES",
+        "value": 600,
+        "question": "Original wording of the Hollywood Sign",
+        "answer": "Hollywoodland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANATOMY",
+        "value": 800,
+        "question": "Common eye color that's most sensitive to light",
+        "answer": "blue",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE '50s",
+        "value": 800,
+        "question": "Controversial topic of best-seller \"The Search for Bridey Murphy\"",
+        "answer": "reincarnation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FAMILIAR PHRASES",
+        "value": 1600,
+        "question": "1st done to accept a pugilist's challenge, in politics, it means \"to enter the competition\"",
+        "answer": "throw one's hat into the ring",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 800,
+        "question": "Someone who doesn't believe in this category",
+        "answer": "an anarchist",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MOVIES",
+        "value": 800,
+        "question": "Coppola released this film's 70 mm print with a different ending than the 35mm",
+        "answer": "Apocalypse Now",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANATOMY",
+        "value": 1000,
+        "question": "Vitamin the skin produces when exposed to the sun",
+        "answer": "vitamin D",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIES",
+        "value": 1000,
+        "question": "Actor who rode bomb to oblivion at the end of Dr. Strangelove",
+        "answer": "Slim Pickens",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE BIBLE",
+    "clue": "First person in the Bible to be imprisoned",
+    "answer": "Joseph"
+  },
+  "gameId": "52",
+  "gameDate": "Tuesday, November 20, 1984"
+}

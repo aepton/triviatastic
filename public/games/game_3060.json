@@ -1,0 +1,511 @@
+{
+  "title": "Show #308 - Wednesday, November 13, 1985",
+  "jeopardyRound": {
+    "categories": [
+      "ROCKS & MINERALS",
+      "DOUBLE DOUBLE LETTERS",
+      "HOLLYWOOD DOGS",
+      "SHAKESPEARE",
+      "MS.",
+      "SODA POP QUIZ"
+    ],
+    "clues": [
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 100,
+        "question": "Term for the minerals from which metals are extracted",
+        "answer": "ore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DOUBLE DOUBLE LETTERS",
+        "value": 100,
+        "question": "He raises & tends the honey kind",
+        "answer": "beekeeper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 100,
+        "question": "“Sweets to the sweet: Farewell!” were Hamlet's mother's words at this woman's funeral",
+        "answer": "Ophelia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MS.",
+        "value": 100,
+        "question": "Nancy Ross, Angela Davis, & Geraldine Ferraro all sought this office in 1984",
+        "answer": "vice president (of the United States)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 100,
+        "question": "It's what gives soda pop the bubbles",
+        "answer": "carbon dioxide",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 200,
+        "question": "Single-letter chemical designation of a diamond",
+        "answer": "C",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DOUBLE DOUBLE LETTERS",
+        "value": 200,
+        "question": "On a sailor's chest it might say “Mother”; on Cher it's a butterfly",
+        "answer": "tattoo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HOLLYWOOD DOGS",
+        "value": 200,
+        "question": "Higgins played the title role of this 1974 film",
+        "answer": "Benji",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 200,
+        "question": "Part of Cassius' anatomy Brutus calls “itching” when accusing him of greed",
+        "answer": "palm",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MS.",
+        "value": 200,
+        "question": "Joan Benoit was 1st to win this Olympic event, finally offered for women in '84",
+        "answer": "marathon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 200,
+        "question": "Caleb Bradham named his elixir this because it was supposed to relieve dyspepsia",
+        "answer": "Pepsi Cola",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 300,
+        "question": "Largest block ever found of it in U.S., 56 tons, was used for Tomb of the Unknown Soldier",
+        "answer": "marble",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DOUBLE DOUBLE LETTERS",
+        "value": 600,
+        "question": "1984 film which featured the following:",
+        "answer": "Footloose",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 300,
+        "question": "“Other women cloy the appetites they feed, but she makes hungry where most she satisfies”",
+        "answer": "Cleopatra",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MS.",
+        "value": 300,
+        "question": "Kristine Holderied was 1st to graduate top in her class from 1 of these",
+        "answer": "service academy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 300,
+        "question": "They spent $250,000 to develop a can so the shuttle crew could drink their new formula in space",
+        "answer": "Coke",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 400,
+        "question": "Mark Twain defined it as a hole in the groud with a liar standing at the top",
+        "answer": "mine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DOUBLE DOUBLE LETTERS",
+        "value": 400,
+        "question": "Quality of ice, eels, & banana peels",
+        "answer": "slipperiness",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 400,
+        "question": "Susanna & the twins, Hamnet & Judith",
+        "answer": "Shakespeare's children",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 400,
+        "question": "Fenton & Fowler's calls this elite Detroit ginger ale the best soft drink in the world",
+        "answer": "Vernor's",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 500,
+        "question": "Fizzing when acid is applied, this mineral is the base of the Portland cement industry",
+        "answer": "limestone",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DOUBLE DOUBLE LETTERS",
+        "value": 500,
+        "question": "A tenant under lease",
+        "answer": "lessee",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SHAKESPEARE",
+        "value": 500,
+        "question": "The lines \"And thereby hangs a tale\" & \"All the world's a stage\" come from this comedy",
+        "answer": "As You Like It",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SODA POP QUIZ",
+        "value": 500,
+        "question": "It was originally called bib-label lithiated lemon-lime soda",
+        "answer": "7 Up",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "POLITICAL SLOGANS",
+      "TREES",
+      "RODGERS & HAMMERSTEIN",
+      "BRITISH HISTORY",
+      "HOLIDAYS",
+      "\"SAINTS\""
+    ],
+    "clues": [
+      {
+        "category": "POLITICAL SLOGANS",
+        "value": 200,
+        "question": "“Hell no, we won't go” was a chant often heard at rallies against this war",
+        "answer": "Vietnam War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TREES",
+        "value": 200,
+        "question": "Arboreal symbol of strength",
+        "answer": "oak",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "RODGERS & HAMMERSTEIN",
+        "value": 200,
+        "question": "The pair's lyricist",
+        "answer": "Hammerstein",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 200,
+        "question": "They've been guarding British royalty since 1485 & gin bottles since 1820",
+        "answer": "Beefeaters",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS",
+        "value": 200,
+        "question": "October holiday which Mexicans call Dia de la Raza is celebrated in the U.S. as this",
+        "answer": "Columbus Day",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SAINTS\"",
+        "value": 200,
+        "question": "A patron saint of Russia, he was probably skinny & never wore a red suit",
+        "answer": "St. Nicholas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "POLITICAL SLOGANS",
+        "value": 400,
+        "question": "In the early 1930s Americans were told that it was “just around the corner”",
+        "answer": "prosperity",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TREES",
+        "value": 400,
+        "question": "Of the Tree of Life, Tree of Knowledge, or the Tree of Righteousness, the 1 forbidden to Adam",
+        "answer": "Knowledge",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "RODGERS & HAMMERSTEIN",
+        "value": 400,
+        "question": "The “Times’” Brooks Atkinson called it “an original & beautiful excursion into... the Far East",
+        "answer": "The King and I",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 400,
+        "question": "Founder of the nursing profession, she was named after the city in which she was born",
+        "answer": "Florence Nightingale",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS",
+        "value": 400,
+        "question": "Meaning “removal of meat”, it's Rio's 4-day pre-Lenten festival",
+        "answer": "Carnival",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SAINTS\"",
+        "value": 400,
+        "question": "At 5th & 50th, its Lady Chapel is the place to get married, if you're in NYC - & Catholic",
+        "answer": "St. Patrick's Cathedral",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "POLITICAL SLOGANS",
+        "value": 600,
+        "question": "He railed against the “do-nothing 80th congress” during his whistle-stop campaign",
+        "answer": "Truman",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TREES",
+        "value": 600,
+        "question": "The cry “sap's a runnin’” refers to this tree",
+        "answer": "maple tree",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "RODGERS & HAMMERSTEIN",
+        "value": 600,
+        "question": "Their 1st professional collaboration was this 1943 landmark musical",
+        "answer": "Oklahoma!",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 600,
+        "question": "First Roman army to invade Britain was led by this general",
+        "answer": "Caesar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS",
+        "value": 600,
+        "question": "O. Henry called it the most  “purely American” holiday",
+        "answer": "Thanksgiving",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SAINTS\"",
+        "value": 600,
+        "question": "“St. Elsewhere” is the nickname for this TV hospital",
+        "answer": "St. Eligius",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "POLITICAL SLOGANS",
+        "value": 800,
+        "question": "“Four more years of the full dinner pail” symbolized this president's re-election campaign in 1900",
+        "answer": "McKinley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TREES",
+        "value": 1600,
+        "question": "Continent on which the densest, tallest & most valuable stand of timber is found",
+        "answer": "North America",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "RODGERS & HAMMERSTEIN",
+        "value": 800,
+        "question": "Character who is “corny as Kansas in August”",
+        "answer": "Nellie Forbush",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 800,
+        "question": "The penultimate Anglo-Saxon king, Edward was known by this pious title",
+        "answer": "Edward the Confessor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS",
+        "value": 800,
+        "question": "Muslims fast during daylight hours for this entire month",
+        "answer": "Ramadan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SAINTS\"",
+        "value": 1600,
+        "question": "Chorea, as in choreographer, is a condition associated with rheumatic fever formerly called this",
+        "answer": "St. Vitus (Dance)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "POLITICAL SLOGANS",
+        "value": 1000,
+        "question": "In 1912, this pres. candidate declared, “We stand at Armageddon, & we battle for the Lord”",
+        "answer": "Teddy Roosevelt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TREES",
+        "value": 1000,
+        "question": "Hindu for “trader” this unusual tree whose branches grow down can look like a mini-forest",
+        "answer": "Banyan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "RODGERS & HAMMERSTEIN",
+        "value": 1000,
+        "question": "Stuart Damon & Lesley Ann Warren starred in this only R & H musical written for TV",
+        "answer": "Cinderella",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 1000,
+        "question": "Though it sounds like a grim volume, it's just William the Conqueror's survey of the British kingdom",
+        "answer": "The Domesday Book",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HOLIDAYS",
+        "value": 1000,
+        "question": "Until 1752, the 13 colonies observed Annunciation Day, the 25th of this month, as New Year's",
+        "answer": "March",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BIOLOGY",
+    "clue": "Of the 4, blood group of the universal recipient",
+    "answer": "AB"
+  },
+  "gameId": "308",
+  "gameDate": "Wednesday, November 13, 1985"
+}

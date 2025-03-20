@@ -1,0 +1,556 @@
+{
+  "title": "Show #370 - Friday, February 7, 1986",
+  "jeopardyRound": {
+    "categories": [
+      "FOOD",
+      "WAR STORIES",
+      "\"TIME\"LY SONGS",
+      "5-LETTER WORDS",
+      "GEOGRAPHY",
+      "HARDWARE STORE"
+    ],
+    "clues": [
+      {
+        "category": "FOOD",
+        "value": 100,
+        "question": "Steak named for the shape of its bone",
+        "answer": "T-bone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 100,
+        "question": "Classic children's novel & Disney movie, \"Johnny Tremain\", is set during this war",
+        "answer": "the Revolutionary War",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"TIME\"LY SONGS",
+        "value": 100,
+        "question": "\"You must remember this\", the theme song for \"Casablanca\"",
+        "answer": "\"As Time Goes By\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 100,
+        "question": "Army officer above a captain but below a lieutenant colonel",
+        "answer": "a major",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 100,
+        "question": "From Cree words \"win nipee\" meaning muddy water, it's the capital of Manitoba",
+        "answer": "Winnipeg",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HARDWARE STORE",
+        "value": 100,
+        "question": "A wrench with fixed & adjustable jaw at right angles, it's a primate's favorite",
+        "answer": "a monkey wrench",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "From Turkish for \"dough\", you can pick the pockets of this Mideastern bread",
+        "answer": "pita",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 200,
+        "question": "\"The Road Back\" is sequel to this famous novel of WWI by Erich Remarque",
+        "answer": "All Quiet On The Western Front",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"TIME\"LY SONGS",
+        "value": 200,
+        "question": "\"Does anybody really care\" about this Chicago song?",
+        "answer": "\"Does Anybody Really Know What Time It Is?\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 200,
+        "question": "Among his \"Marx\" of success were silence & musical virtuosity",
+        "answer": "Harpo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 200,
+        "question": "It's bordered by the Bristol Channel, Cardigan Bay, the Irish Sea, & England",
+        "answer": "Wales",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HARDWARE STORE",
+        "value": 200,
+        "question": "To repair a leaky faucet, all you might need is this little flat or beveled rubber piece",
+        "answer": "a washer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FOOD",
+        "value": 300,
+        "question": "\"Don't bother me\", I'm eating this Pennsylvania Dutch molasses pie",
+        "answer": "shoo-fly",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 300,
+        "question": "Kurt Vonnegut's novel of U.S. soldier who watches bombing of Dresden while German prisoner",
+        "answer": "Slaughterhouse Five",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"TIME\"LY SONGS",
+        "value": 300,
+        "question": "Kodak used this Paul Anka song in a '70s ad campaign",
+        "answer": "\"Times Of Your Life\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 300,
+        "question": "Scottish for a square of turf, amateur golfers often become pros at producing one",
+        "answer": "a divot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 600,
+        "question": "Besides Spanish, 3 of 4 other official languages of South American countries",
+        "answer": "Portuguese, English, French & Dutch",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HARDWARE STORE",
+        "value": 300,
+        "question": "3 types of this hardware found on doors are self-closing, pivot, & butterfly",
+        "answer": "hinges",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "When smoked with juniper brush, this food is associated with the German town of Westphalia",
+        "answer": "Black Forest ham",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 400,
+        "question": "Coppola based his Vietnam war epic, \"Apocalypse Now\", on \"Heart of Darkness\" by this Polish-born author",
+        "answer": "Joseph Conrad",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"TIME\"LY SONGS",
+        "value": 400,
+        "question": "This 1979 song was Captain & Tennille's 2nd #1 hit & last Top 40 hit",
+        "answer": "\"Do That To Me One More Time\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 400,
+        "question": "13 witches",
+        "answer": "a coven",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 400,
+        "question": "This desert is home to Africa's Bushmen",
+        "answer": "the Kalahari",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HARDWARE STORE",
+        "value": 400,
+        "question": "Appropriate way \"Laugh-In\" actress Judy Carne would have asked for a light bulb holder",
+        "answer": "\"Socket to me!\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FOOD",
+        "value": 500,
+        "question": "French for stewed fruit, it can also be the bowl it's served in",
+        "answer": "compote",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WAR STORIES",
+        "value": 500,
+        "question": "Stephen Vincent Benet won the Pulitzer Prize for this epic poem of the Civil War",
+        "answer": "John Brown's Body",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"TIME\"LY SONGS",
+        "value": 500,
+        "question": "After 1977's \"Year Of The Cat\", a year went by before Al Stewart had this 2nd hit",
+        "answer": "\"Time Passages\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "5-LETTER WORDS",
+        "value": 500,
+        "question": "Gary the gardener would use this protective covering of sawdust, leaves, etc. on his soil",
+        "answer": "mulch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 500,
+        "question": "You'd find the cities of Kotte 'n' Kandy on this \"Serendipitous\" island",
+        "answer": "Sri Lanka",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HARDWARE STORE",
+        "value": 500,
+        "question": "A cutting bit used to enlarge holes, it might cause the user ennui",
+        "answer": "a boring bit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "NATURE",
+      "GRAMMAR",
+      "'70s THEATER",
+      "THE OLD WEST",
+      "SHAPING UP",
+      "\"B.O.\""
+    ],
+    "clues": [
+      {
+        "category": "NATURE",
+        "value": 200,
+        "question": "Like a tree, you can tell the age of a fish by counting these on its scales",
+        "answer": "rings",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 200,
+        "question": "Because usage favors \"who\", this grammatically useful related word may someday disappear",
+        "answer": "whom",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "'70s THEATER",
+        "value": 200,
+        "question": "Peter Gennaro won Tony for choreographing Andrea McArdle in this 1977 hit",
+        "answer": "Annie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 200,
+        "question": "Lawman William Barclay Masterson's nickname",
+        "answer": "Bat Masterson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SHAPING UP",
+        "value": 200,
+        "question": "Proof of a good workout is breaking into this before going into the steam room",
+        "answer": "a sweat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"B.O.\"",
+        "value": 200,
+        "question": "New York's 1st big one was November 9, 1965",
+        "answer": "a blackout",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 400,
+        "question": "This bodily feature makes birds different from all other animals",
+        "answer": "feathers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 400,
+        "question": "Every complete sentence must have a subject & this part containing the verb",
+        "answer": "a predicate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "'70s THEATER",
+        "value": 400,
+        "question": "A \"Babe on Broadway\" in 1941 film, it wasn't until 1979's \"Sugar Babies\" he made a real Broadway debut",
+        "answer": "Mickey Rooney",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 400,
+        "question": "It's ad read, \"Young, skinny fellows not over 18, must be expert riders & willing to risk death daily...\"",
+        "answer": "the Pony Express",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SHAPING UP",
+        "value": 400,
+        "question": "How many meters you've run if you finish a 10K race",
+        "answer": "10,000",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"B.O.\"",
+        "value": 400,
+        "question": "\"Suddenly\", he's one of pop musics top artists",
+        "answer": "Billy Ocean",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 1200,
+        "question": "It's the direct result of rapid expansion & contraction of air in path of a lightning bolt",
+        "answer": "thunder",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 600,
+        "question": "In the sentence \"Julie gave Jules a jab in the jaw\", the indirect object",
+        "answer": "Jules",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "'70s THEATER",
+        "value": 600,
+        "question": "Ntozake Shange wrote a 1977 play \"For Colored Girls Who Have Considered\" this",
+        "answer": "Suicide",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 600,
+        "question": "Doc Holliday's mistress; Dean Martin & John Wayne were among her movie sons",
+        "answer": "Katie Elder",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SHAPING UP",
+        "value": 600,
+        "question": "Hot term for catabolic tissue breakdown, it's what Jane Fonda \"goes for\"",
+        "answer": "the burn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"B.O.\"",
+        "value": 1200,
+        "question": "The following was theme of this 1959 Best Foreign Film:",
+        "answer": "Black Orpheus",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 800,
+        "question": "Sunlight reflected by the earth that illuminates the dark part of the moon",
+        "answer": "Earthshine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "'70s THEATER",
+        "value": 800,
+        "question": "Phil Silvers received a Tony in 1972 revival of this play based on Plautus",
+        "answer": "A Funny Thing Happened on the Way to the Forum",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 800,
+        "question": "\"Half horse, half alligator\", he was a famous fighting keelboater & marksman of early 1800s",
+        "answer": "Mike Fink",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SHAPING UP",
+        "value": 800,
+        "question": "Serious body builders go for the \"washboard\" effect with these muscles",
+        "answer": "the abdominals",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"B.O.\"",
+        "value": 800,
+        "question": "This former Boston Bruin might get \"defensive\" if you talk to him about hockey",
+        "answer": "Bobby Orr",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "NATURE",
+        "value": 1000,
+        "question": "Colorful term that refers to the gradual heating of Earth's atmosphere by carbon dioxide in the air",
+        "answer": "the Greenhouse Effect",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "'70s THEATER",
+        "value": 1000,
+        "question": "On Jan. 5, 1980, only 4th time in history, Broadway lights were dimmed in tribute to this composer",
+        "answer": "Richard Rodgers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE OLD WEST",
+        "value": 1000,
+        "question": "The Great Plains, last great frontier to be exploited, was opened up by this Act of 1862",
+        "answer": "the Homestead Act",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SHAPING UP",
+        "value": 1000,
+        "question": "Exercising to the point of oxygen debt puts you in this condition, meaning \"without oxygen\"",
+        "answer": "anaerobic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"B.O.\"",
+        "value": 1000,
+        "question": "Chile's liberator",
+        "answer": "Bernardo O'Higgins",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ROYALTY",
+    "clue": "Just as wife of U.S. President is called \"First Lady\", husband of a reigning British Queen is called this",
+    "answer": "Prince Consort"
+  },
+  "gameId": "370",
+  "gameDate": "Friday, February 7, 1986"
+}

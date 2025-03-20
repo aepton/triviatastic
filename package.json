@@ -6,13 +6,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "crawl:game": "node crawlJArchive.js game",
+    "crawl:range": "node crawlJArchive.js range",
+    "crawl:season": "node crawlJArchive.js season",
+    "crawl:seasons": "node crawlJArchive.js seasons",
+    "generate-index": "node generateGameIndex.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "jsdom": "^24.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

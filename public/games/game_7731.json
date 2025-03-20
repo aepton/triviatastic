@@ -1,0 +1,502 @@
+{
+  "title": "Show #100 - Friday, January 25, 1985",
+  "jeopardyRound": {
+    "categories": [
+      "PRESIDENTS",
+      "INSIGNIAS",
+      "GAME SHOWS",
+      "SPACE",
+      "SPORTS TRIVIA",
+      "STARTS WITH \"OO\""
+    ],
+    "clues": [
+      {
+        "category": "PRESIDENTS",
+        "value": 100,
+        "question": "Both U.S. Grant & Jeff Davis graduated from there",
+        "answer": "West Point (U.S. Military Academy)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "INSIGNIAS",
+        "value": 100,
+        "question": "3 C's or a double H on a cowboy's cow",
+        "answer": "a brand",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GAME SHOWS",
+        "value": 100,
+        "question": "Phrase which follows a new contestant's name on \"The Price is Right\"",
+        "answer": "Come on down!",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPACE",
+        "value": 100,
+        "question": "In 1959, Frankie Avalon sang to this planet's goddess",
+        "answer": "Venus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SPORTS TRIVIA",
+        "value": 100,
+        "question": "A major thoroughfare in W. Berlin is named for this Olympic legend",
+        "answer": "Jesse Owens",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"OO\"",
+        "value": 100,
+        "question": "Pass out slowly, as slime through your fingers",
+        "answer": "ooze",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 200,
+        "question": "Throughout his term, FDR was often confined to a wheelchair due to this illness",
+        "answer": "polio",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "INSIGNIAS",
+        "value": 200,
+        "question": "Number of stripes on a U.S. Army sergeant's insignia",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GAME SHOWS",
+        "value": 200,
+        "question": "The show which added the word \"zonk\" to our vocabulary",
+        "answer": "Let's Make a Deal",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPACE",
+        "value": 200,
+        "question": "The original German code name for this 1942 rocket was \"A-4\"",
+        "answer": "the V-2",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SPORTS TRIVIA",
+        "value": 200,
+        "question": "Calif. Angels' home run king, he holds all-time record for striking out",
+        "answer": "Reggie Jackson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 300,
+        "question": "Nixon's Western White House was in this California town",
+        "answer": "San Clemente",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "INSIGNIAS",
+        "value": 300,
+        "question": "Their newest trefoil, or 3-leaf clover emblem has the faces of 3 young women on it",
+        "answer": "the Girl Scouts",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "GAME SHOWS",
+        "value": 300,
+        "question": "She was the original dice girl on \"High Rollers\"",
+        "answer": "Ruta Lee",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPACE",
+        "value": 300,
+        "question": "In this book, the Martians attack Chobham, England, not Grovers Mills, New Jersey",
+        "answer": "The War of the Worlds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 400,
+        "question": "\"Petticoat Gov't\" referred to his wife running things when he was ill",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "INSIGNIAS",
+        "value": 400,
+        "question": "On a uniform, it's how the braided cord known as a \"fourragere\" is worn",
+        "answer": "over one's shoulder (and in through the armpit)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "GAME SHOWS",
+        "value": 400,
+        "question": "Show on which John Daly might have said, \"7 down, 3 to go, Arlene\"",
+        "answer": "What's My Line?",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPACE",
+        "value": 400,
+        "question": "Rocket used to lift the Apollo program capsules into orbit",
+        "answer": "the Saturn",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SPORTS TRIVIA",
+        "value": 400,
+        "question": "His autobiography is subtitled \"Just Like Any Other 7' Black Millionaire Who Lives Next Door\"",
+        "answer": "Wilt Chamberlain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 500,
+        "question": "Ran country without a telephone during a 3-month fishing trip to his native New England",
+        "answer": "Calvin Coolidge",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "INSIGNIAS",
+        "value": 500,
+        "question": "On the side of an aluminum can, two arrows forming a circle stand for this",
+        "answer": "recyclable",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "GAME SHOWS",
+        "value": 500,
+        "question": "Long-running show hosted at different times by Jack Narz, Bob Clayton & Hugh Downs",
+        "answer": "Concentration",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SPACE",
+        "value": 500,
+        "question": "It lasted 17 days after the Apollo 11 astronauts returned from the Moon",
+        "answer": "quarantine (isolation)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SPORTS TRIVIA",
+        "value": 500,
+        "question": "Only driver to have won Indy 500 four times",
+        "answer": "A.J. Foyt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "REVOLUTIONS",
+      "FAMOUS QUOTES",
+      "BROADWAY",
+      "CLASSICAL MUSIC",
+      "MEDICINE",
+      "LABOR UNIONS"
+    ],
+    "clues": [
+      {
+        "category": "REVOLUTIONS",
+        "value": 200,
+        "question": "Liberty, equality, fraternity  was its motto",
+        "answer": "the French Revolution",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS QUOTES",
+        "value": 200,
+        "question": "California governor who said, \"A tree's a tree, how many redwoods do you need to look at?\"",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY",
+        "value": 200,
+        "question": "\"Odd Couple's\" original Oscar who reprised his role on screen",
+        "answer": "Walter Matthau",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "Belgian instrument maker who invented the Saxophone in 1840s",
+        "answer": "(Adolphe) Sax",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 200,
+        "question": "Blood group known as the \"universal donor\"",
+        "answer": "O",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LABOR UNIONS",
+        "value": 200,
+        "question": "Ron Leibman & Sally Field tried to organize textile workers in this '79 film",
+        "answer": "Norma Rae",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "REVOLUTIONS",
+        "value": 400,
+        "question": "Ironically, closing the universities was part of this late '60s Chinese revolution",
+        "answer": "the Cultural Revolution",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS QUOTES",
+        "value": 400,
+        "question": "Completes the quote \"Laugh & the world laughs with you, weep...\"",
+        "answer": "and you weep alone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY",
+        "value": 400,
+        "question": "Life of Black boxing champ Jack Johnson was inspiration for this '68 show",
+        "answer": "The Great White Hope",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "Rate of tempo classified as largo, lento or adagio",
+        "answer": "slowly",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 400,
+        "question": "Located behind the tongue, they may prevent entrance of bacteria, but are often removed",
+        "answer": "tonsils",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "REVOLUTIONS",
+        "value": 600,
+        "question": "Rochambeau, DeKalb, von Steuben & Pulaski fought in it",
+        "answer": "the American Revolution",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS QUOTES",
+        "value": 600,
+        "question": "1st to say, \"I belong to no organized political party–I am a Democrat\"",
+        "answer": "Will Rogers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY",
+        "value": 600,
+        "question": "Musical remake of \"Some Like It Hot\"",
+        "answer": "Sugar",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 600,
+        "question": "Words to most oratorios come from this book",
+        "answer": "the Bible",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 600,
+        "question": "A person with \"macrodontia\" has very large ones",
+        "answer": "teeth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "REVOLUTIONS",
+        "value": 800,
+        "question": "Samuel Slater brought this revolution from England to U.S. by memorizing machine plans",
+        "answer": "the Industrial Revolution",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS QUOTES",
+        "value": 1600,
+        "question": "Mies van der Rohe's instruction to artists on composition",
+        "answer": "less is more",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY",
+        "value": 800,
+        "question": "Play in which the actors traded roles; Quinn playing the saint & Olivier, the king",
+        "answer": "Becket",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "The English horn is an alto version of this",
+        "answer": "an oboe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 800,
+        "question": "Although real, tension headaches & ulcers are said to be this type of disease",
+        "answer": "psychosomatic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LABOR UNIONS",
+        "value": 1600,
+        "question": "Better-known name of the Labor Management Relations Act of 1947",
+        "answer": "the Taft-Hartley Act",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "REVOLUTIONS",
+        "value": 1000,
+        "question": "English king beheaded in Puritan Revolution",
+        "answer": "Charles I",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FAMOUS QUOTES",
+        "value": 1000,
+        "question": "The rest of this Lt. Perry dispatch read: \"2 ships, 2 brigs, 1 schooner & 1 sloop\"",
+        "answer": "We have met the enemy and they are ours",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BROADWAY",
+        "value": 1000,
+        "question": "Last name of twins Anthony, who wrote \"Sleuth\", & Peter, who wrote \"Equus\"",
+        "answer": "Shaffer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1000,
+        "question": "Lively piece by Schumann or Humperdinck, or film with Garfield & Crawford",
+        "answer": "Humoresque",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MEDICINE",
+        "value": 1000,
+        "question": "Common name for winter   condition \"congelation\"",
+        "answer": "frostbite",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE WORLD",
+    "clue": "With 168 persons per sq. mi., the continent with the highest population density",
+    "answer": "Europe"
+  },
+  "gameId": "100",
+  "gameDate": "Friday, January 25, 1985"
+}

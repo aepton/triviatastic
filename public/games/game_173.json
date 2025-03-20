@@ -1,0 +1,457 @@
+{
+  "title": "Show #1 - Monday, September 10, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "LAKES & RIVERS",
+      "INVENTIONS",
+      "ANIMALS",
+      "FOREIGN CUISINE",
+      "ACTORS & ROLES",
+      "NUMBER PLEASE"
+    ],
+    "clues": [
+      {
+        "category": "LAKES & RIVERS",
+        "value": 100,
+        "question": "River mentioned most often in the Bible",
+        "answer": "the Jordan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 100,
+        "question": "Marconi's wonderful wireless",
+        "answer": "a radio",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "These rodents first got to America by stowing away on ships",
+        "answer": "rats",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CUISINE",
+        "value": 100,
+        "question": "The \"coq\" in coq au vin",
+        "answer": "chicken",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 100,
+        "question": "Video in which Michael Jackson plays a werewolf & a zombie",
+        "answer": "\"Thriller\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 200,
+        "question": "Scottish word for lake",
+        "answer": "loch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 200,
+        "question": "In 1869 an American minister created this \"oriental\" transportation",
+        "answer": "a rickshaw",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "There are about 40,000 muscles & tendons in this part of an elephant's body",
+        "answer": "the trunk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CUISINE",
+        "value": 200,
+        "question": "A British variety is called \"bangers\", a Mexican variety, \"chorizo\"",
+        "answer": "sausages",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 200,
+        "question": "2 \"Saturday Night\" alumni who tried \"Trading Places\"",
+        "answer": "Dan Aykroyd & Eddie Murphy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 600,
+        "question": "River in this famous song:",
+        "answer": "the Volga River",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 300,
+        "question": "A 1920's hunting trip to Canada inspired Birdseye's food preserving method",
+        "answer": "freezing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "When husbands \"pop\" for an ermine coat, they're actually buying this fur",
+        "answer": "a weasel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CUISINE",
+        "value": 300,
+        "question": "Jewish crepe filled with cheese",
+        "answer": "a blintz",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 300,
+        "question": "He may \"Never Say Never Again\" when asked to be Bond",
+        "answer": "Sean Connery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 400,
+        "question": "American river only 33 miles shorter than the Mississippi",
+        "answer": "the Missouri",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 400,
+        "question": "This fastener gets its name from a brand of galoshes it was used on",
+        "answer": "a zipper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "Close relative of the pig, though its name means \"river horse\"",
+        "answer": "a hippopotamus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOREIGN CUISINE",
+        "value": 400,
+        "question": "French for a toothsome cut of beef served to a twosome",
+        "answer": "Châteaubriand",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 400,
+        "question": "The blonde preferred in the film \"Gentlemen Prefer Blondes\"",
+        "answer": "Marilyn Monroe",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LAKES & RIVERS",
+        "value": 500,
+        "question": "World's largest lake, nearly 5 times as big as Superior",
+        "answer": "the Caspian Sea",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "If this species of hybrid's parents were reversed, you'd get a hinny",
+        "answer": "mule",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ACTORS & ROLES",
+        "value": 500,
+        "question": "Sam Shepard played this barrier breaker in \"The Right Stuff\"",
+        "answer": "Colonel Chuck Yeager",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE BIBLE",
+      "'50'S TV",
+      "NATIONAL LANDMARKS",
+      "WEIGHTS & MEASURES",
+      "NOTORIOUS",
+      "4-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "When \"Joshua Fit The Battle Of Jericho\", these took a tumble",
+        "answer": "the walls",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "'50'S TV",
+        "value": 200,
+        "question": "Occupation of Richard Diamond, Peter Gunn & Mike Hammer",
+        "answer": "private eyes (or private detectives)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NATIONAL LANDMARKS",
+        "value": 200,
+        "question": "She came from France to harbor America's freedom",
+        "answer": "the Statue of Liberty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 200,
+        "question": "It was probably a lyre, not a fiddle, if he played it while Rome burned",
+        "answer": "Nero",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 200,
+        "question": "Pulled the trigger or what's in a jigger",
+        "answer": "a shot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "His price was 30 pieces of silver",
+        "answer": "Judas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "'50'S TV",
+        "value": 400,
+        "question": "She was \"Our Miss Brooks\"",
+        "answer": "Eve Arden",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NATIONAL LANDMARKS",
+        "value": 400,
+        "question": "When he was home, George Washington slept here",
+        "answer": "Mount Vernon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 400,
+        "question": "His book, translated as \"My Struggle\", outlined plans to conquer Europe",
+        "answer": "Adolf Hitler",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 400,
+        "question": "Basketball defense or Serling's twilight area",
+        "answer": "a zone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 600,
+        "question": "According to the Bible, it wasn't necessarily an apple",
+        "answer": "the forbidden fruit (or fruit of the Tree of Knowledge)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "'50'S TV",
+        "value": 600,
+        "question": "Amount Michael Anthony gave out each week on behalf of John Beresford Tipton",
+        "answer": "$1 million",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NATIONAL LANDMARKS",
+        "value": 600,
+        "question": "The cornerstone of Massachusetts, it bears the date 1620",
+        "answer": "Plymouth Rock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 600,
+        "question": "Lenin called him ruthless, and his purges proved he was",
+        "answer": "Stalin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 600,
+        "question": "Little girls do it with a rope, Van Halen does it in a song",
+        "answer": "to jump",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 800,
+        "question": "Though its name means \"city of peace\", it's seen over 30 wars, the last in 1967",
+        "answer": "Jerusalem",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "'50'S TV",
+        "value": 800,
+        "question": "His card read \"Have gun, will travel\"",
+        "answer": "the Paladin (Richard Boone)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NATIONAL LANDMARKS",
+        "value": 800,
+        "question": "Site where John Hancock signed his \"John Hancock\"",
+        "answer": "Independence Hall",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 1600,
+        "question": "It's the first 4-letter word in \"The Star Spangled Banner\"",
+        "answer": "what",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 1000,
+        "question": "According to 1st Timothy, it is the \"root of all evil\"",
+        "answer": "the love of money",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "'50'S TV",
+        "value": 1000,
+        "question": "Name under which experimenter Don Herbert taught viewers all about science",
+        "answer": "Mr. Wizard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NATIONAL LANDMARKS",
+        "value": 1000,
+        "question": "D.C. building shaken by November '83 bomb blast",
+        "answer": "the Capitol",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NOTORIOUS",
+        "value": 1000,
+        "question": "After the deed, he leaped to the stage shouting \"Sic semper tyrannis\"",
+        "answer": "John Wilkes Booth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 1000,
+        "question": "The president takes one before stepping into office",
+        "answer": "an oath",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HOLIDAYS",
+    "clue": "The third Monday of January starting in 1986",
+    "answer": "Martin Luther King Day"
+  },
+  "gameId": "1",
+  "gameDate": "Monday, September 10, 1984"
+}

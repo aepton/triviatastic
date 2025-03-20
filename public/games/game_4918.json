@@ -1,0 +1,511 @@
+{
+  "title": "Show #499 - Thursday, November 6, 1986",
+  "jeopardyRound": {
+    "categories": [
+      "AUTOMOBILES",
+      "JEWELRY",
+      "\"B\" MOVIES",
+      "MAN IN SPACE",
+      "OLD TESTAMENT",
+      "DIRTY WORDS"
+    ],
+    "clues": [
+      {
+        "category": "AUTOMOBILES",
+        "value": 100,
+        "question": "They've long been the world's largest automaker",
+        "answer": "G.M. (General Motors)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "JEWELRY",
+        "value": 100,
+        "question": "This Beatle got his stage name from the jewelry he wore",
+        "answer": "Ringo Starr",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"B\" MOVIES",
+        "value": 100,
+        "question": "This 1984 film left \"Mutiny on\" off the title",
+        "answer": "The Bounty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 100,
+        "question": "\"Escape velocity\" refers to escaping this",
+        "answer": "earth's gravitation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "OLD TESTAMENT",
+        "value": 100,
+        "question": "He's been called the world's 1st farmer & murderer",
+        "answer": "Cain",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "DIRTY WORDS",
+        "value": 100,
+        "question": "Hall where soldiers eat, it often seems appropriately named",
+        "answer": "mess hall",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AUTOMOBILES",
+        "value": 200,
+        "question": "This company's Z-car is considered biggest-selling sports car in history",
+        "answer": "Datsun (Nissan)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "JEWELRY",
+        "value": 200,
+        "question": "Film series which featured the notorious jewel thief known as \"The Phantom\"",
+        "answer": "The Pink Panther",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"B\" MOVIES",
+        "value": 200,
+        "question": "After losing in '76, they broke training in '77 & went to Japan in '78",
+        "answer": "The Bad News Bears",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 200,
+        "question": "Trying for a soft landing here, Russian Lunas 5, 6, 7 & 8 missed it entirely or crashed",
+        "answer": "the moon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "OLD TESTAMENT",
+        "value": 200,
+        "question": "Noah might have inherited his longevity from him, his grandfather, who lived to age 969",
+        "answer": "Methuselah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "DIRTY WORDS",
+        "value": 200,
+        "question": "Baseball's Baker, singer Springfield, or Clayton Farlow's son",
+        "answer": "Dusty",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AUTOMOBILES",
+        "value": 300,
+        "question": "New on U.S. import market is this Fiat-like car made in Yugoslavia",
+        "answer": "Yugo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "JEWELRY",
+        "value": 300,
+        "question": "Originally worn to ward off evil, they now hang from bracelets as vacation memories",
+        "answer": "charms",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"B\" MOVIES",
+        "value": 300,
+        "question": "1938 movie whose title precedes what happens before boy loses girl",
+        "answer": "Boy Meets Girl",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 300,
+        "question": "On 6/3/65, Ed White became 1st from U.S. to duplicate this feat Alexei Leonov performed in March",
+        "answer": "walking in space",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "OLD TESTAMENT",
+        "value": 300,
+        "question": "With 700 wives, it's a wonder he found time for his 300 concubines",
+        "answer": "Solomon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "DIRTY WORDS",
+        "value": 300,
+        "question": "Wet spongy earth, or what follows \"ad-\" \"quag-\"",
+        "answer": "mire",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AUTOMOBILES",
+        "value": 400,
+        "question": "In 1954, Packard agreed to merge with this car company which is also no longer around",
+        "answer": "Studebaker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "JEWELRY",
+        "value": 400,
+        "question": "From an Old French word for \"hanging\", one might be found hanging around a neck",
+        "answer": "pendant",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"B\" MOVIES",
+        "value": 400,
+        "question": "In 1985 version, Richard Pryor had to spend $29 mil. more than Dennis O'Keefe had to spend in 1945",
+        "answer": "Brewster's Millions",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 800,
+        "question": "Number of the Apollo mission that put the 2nd man on the Moon",
+        "answer": "11",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DIRTY WORDS",
+        "value": 400,
+        "question": "A dye used in microscopy, or a way to color wood",
+        "answer": "stain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AUTOMOBILES",
+        "value": 500,
+        "question": "First company to build diesel powered cars",
+        "answer": "Mercedes Benz",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "JEWELRY",
+        "value": 500,
+        "question": "A new copy of this ring is made for each pope & the old one destroyed to prevent forgeries",
+        "answer": "Fisherman's Ring",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MAN IN SPACE",
+        "value": 500,
+        "question": "It was the U.S. equivalent to the Soviet Salyut",
+        "answer": "Skylab",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "DIRTY WORDS",
+        "value": 500,
+        "question": "This 4-letter word for porn is also a popular antacid spelled backwards",
+        "answer": "smut",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MEDICINE",
+      "3rd WORLD CAPITALS",
+      "WILD WEST",
+      "LABOR UNIONS",
+      "SEPTEMBER",
+      "SPICY NAMES"
+    ],
+    "clues": [
+      {
+        "category": "MEDICINE",
+        "value": 200,
+        "question": "Researchers stress most skin cancer can be prevented if you resist overexposure to this",
+        "answer": "sun",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "3rd WORLD CAPITALS",
+        "value": 200,
+        "question": "To see 1st bullring built in the Americas, bullfight aficionados should go to this Peruvian capital",
+        "answer": "Lima",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WILD WEST",
+        "value": 200,
+        "question": "James Marshall was the one who discovred the gold in 1848, while building a mill for him",
+        "answer": "Sutter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LABOR UNIONS",
+        "value": 200,
+        "question": "Though their average salary was $363,000 a year, players in this sport struck for 2 days in 1985",
+        "answer": "baseball",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "SEPTEMBER",
+        "value": 200,
+        "question": "Leaving on his 2nd voyage Sept. 25, 1493, his ship count was up from 3 to 17",
+        "answer": "Christopher Columbus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPICY NAMES",
+        "value": 200,
+        "question": "This British actor spiced up Shakespeare before becoming Hollywood's star Sherlock Holmes",
+        "answer": "Basil Rathbone",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MEDICINE",
+        "value": 400,
+        "question": "He took care of the silkworms, chickens & sheep in France before turning to the rabid dogs",
+        "answer": "Pasteur",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "3rd WORLD CAPITALS",
+        "value": 400,
+        "question": "This country's only railroad connects the 2 cities of Ad Dammam & Riyadh, its capital",
+        "answer": "Saudi Arabia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WILD WEST",
+        "value": 400,
+        "question": "He was killed July 15, 1881 by Lincoln County, N.M. sheriff Pat Garrett",
+        "answer": "Billy the Kid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "LABOR UNIONS",
+        "value": 400,
+        "question": "Teamsters leader who said he did unto others what they did unto him, only worse",
+        "answer": "Jimmy Hoffa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "SEPTEMBER",
+        "value": 400,
+        "question": "On Sept. 8, 1858, in a speech in Clinton, Ill., he said his \"You can fool all of the people...\" line",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPICY NAMES",
+        "value": 800,
+        "question": "Singer of the following:\"Come on-a my house my house, I'm gonna give you candy /Come on-a my house, my house, I'm gonna give a you /Apple a plum and apricot-a too eh /Come on-a my house, my house a come on...\"",
+        "answer": "Rosemary Clooney",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "3rd WORLD CAPITALS",
+        "value": 1200,
+        "question": "Baseball star R. Clemente died in plane crash on way to aid earthquake victims in this C. Amer. capital",
+        "answer": "Managua",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WILD WEST",
+        "value": 600,
+        "question": "He was shot in the back by a member of his own gang who wanted the reward money",
+        "answer": "Jesse James",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "LABOR UNIONS",
+        "value": 600,
+        "question": "In 1946 Walter Reuther became president of this union, which he led until his death in 1970",
+        "answer": "United Auto Workers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "SEPTEMBER",
+        "value": 600,
+        "question": "It was formed Sept. 9, 1926, as a service of the Radio Corp. of America",
+        "answer": "NBC (National Broadcasting Company)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPICY NAMES",
+        "value": 600,
+        "question": "Actor who made his movie debut as Frank N. Furter in \"The Rocky Horror Picture Show\"",
+        "answer": "Tim Curry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "3rd WORLD CAPITALS",
+        "value": 800,
+        "question": "In 1985, the World Conference of the Decade for Women was held in this East African capital",
+        "answer": "Nairobi, Kenya",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WILD WEST",
+        "value": 800,
+        "question": "It was the longest of the overland trails used by western settlers",
+        "answer": "Oregon Trail",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "LABOR UNIONS",
+        "value": 800,
+        "question": "In 1925 A. Philip Randolph founded 1st predominantly black union for workers in this trade",
+        "answer": "sleeping car porters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "SEPTEMBER",
+        "value": 800,
+        "question": "In Sept. 1959, this foreign leader visited Coon Rapids, Iowa",
+        "answer": "Nikita Khrushchev",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPICY NAMES",
+        "value": 800,
+        "question": "Once the Charleston champ of Texas, in 1945 she was highest-paid performer in Hollywood",
+        "answer": "Ginger Rogers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WILD WEST",
+        "value": 1000,
+        "question": "As this lover of hers was about to be arrested for murder, \"Big Nose\" Katie Elder set livery stable afire",
+        "answer": "Doc Holliday",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LABOR UNIONS",
+        "value": 1000,
+        "question": "The armed forces of this NATO country are unionized",
+        "answer": "the Netherlands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "SEPTEMBER",
+        "value": 1000,
+        "question": "Only state admitted to Union in Sept., its largest city was founded by Spanish settlers in Sept. 1781",
+        "answer": "California",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPICY NAMES",
+        "value": 1000,
+        "question": "H.L. Mencken, Maryland journalist & critic of middle-class America, was dubbed this",
+        "answer": "The Sage of Baltimore",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "TELEVISION",
+    "clue": "In 1986, 3 stars of this Emmy winning 1966 comedy series went on a 20th anniversary tour",
+    "answer": "The Monkees"
+  },
+  "gameId": "499",
+  "gameDate": "Thursday, November 6, 1986"
+}

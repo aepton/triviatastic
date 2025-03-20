@@ -1,9 +1,11 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
 import JeopardyBoard from './components/JeopardyBoard';
+import WelcomeModal from './components/WelcomeModal';
+import JoinGameModal from './components/JoinGameModal';
 import { loadJeopardyArchive, convertToJeopardyBoardFormat } from './parseArchive';
 import fetchJArchiveGame from './jarchiveLoader';
-import exportJeopardyData from './exportArchiveData';
+import { loadGameAndGenerateIdentifier } from './utils/gameUtils';
 
 function App() {
   const [isLoading, setIsLoading] = useState(false);
@@ -11,16 +13,22 @@ function App() {
   const [round, setRound] = useState('jeopardy'); // 'jeopardy' or 'doubleJeopardy'
   const [archiveData, setArchiveData] = useState(null);
   const [gameId, setGameId] = useState(null);
+  const [gameIdentifier, setGameIdentifier] = useState(null);
+  const [showWelcomeModal, setShowWelcomeModal] = useState(true);
+  const [showJoinModal, setShowJoinModal] = useState(false);
   const jeopardyBoardRef = useRef(null);
 
-  // Effect to check for game ID in URL parameters when the app loads
+  // Effect to check for game identifier in URL parameters when the app loads
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
-    const gameIdParam = params.get('game_id');
+    const identifierParam = params.get('id');
     
-    if (gameIdParam) {
-      setGameId(gameIdParam);
-      fetchGameById(gameIdParam);
+    if (identifierParam) {
+      setGameIdentifier(identifierParam);
+      setShowWelcomeModal(false);
+      // Here we would typically look up the game associated with this identifier
+      // For now, we'll just display the identifier
+      setMessage(`Joined game with identifier: ${identifierParam}`);
     }
   }, []);
   
@@ -53,9 +61,6 @@ function App() {
       // Load the board with the current round
       loadBoardWithArchiveData(data, round);
       
-      // Update URL with the game ID for sharing
-      updateUrlWithGameId(id);
-      
       setMessage(`Successfully loaded game #${id}: ${data.title}!`);
     } catch (error) {
       console.error('Error fetching game:', error);
@@ -65,29 +70,13 @@ function App() {
     }
   };
   
-  // Update URL with game ID for sharing
-  const updateUrlWithGameId = (id) => {
-    if (!id) return;
+  // Update URL with game identifier for sharing
+  const updateUrlWithIdentifier = (identifier) => {
+    if (!identifier) return;
     
     const url = new URL(window.location.href);
-    url.searchParams.set('game_id', id);
+    url.searchParams.set('id', identifier);
     window.history.replaceState({}, '', url.toString());
-  };
-
-  const handleParseArchive = async () => {
-    try {
-      setIsLoading(true);
-      setMessage('Parsing archive.html file...');
-      
-      // Export to JSON file
-      await exportJeopardyData();
-      setMessage('Successfully parsed and exported Jeopardy data to file!');
-    } catch (error) {
-      console.error('Error parsing archive:', error);
-      setMessage(`Error: ${error.message}`);
-    } finally {
-      setIsLoading(false);
-    }
   };
 
   const loadBoardWithArchiveData = (data, currentRound) => {
@@ -130,36 +119,87 @@ function App() {
       setIsLoading(false);
     }
   };
-  
-  const handleFetchGameById = () => {
-    const id = prompt('Enter the J-Archive game ID:');
-    if (id) {
-      fetchGameById(id);
-    }
-  };
 
   const toggleRound = () => {
     const newRound = round === 'jeopardy' ? 'doubleJeopardy' : 'jeopardy';
     setRound(newRound);
+  };
+  
+  // Handle creating a new game
+  const handleCreateGame = async (selectedGameId) => {
+    try {
+      setIsLoading(true);
+      setMessage(`Loading game #${selectedGameId}...`);
+      
+      // Load the game and generate an identifier
+      const { gameData, identifier } = await loadGameAndGenerateIdentifier(selectedGameId);
+      
+      // Store the game data and ID
+      setArchiveData(gameData);
+      setGameId(selectedGameId);
+      setGameIdentifier(identifier);
+      
+      // Update URL with the game identifier
+      updateUrlWithIdentifier(identifier);
+      
+      // Load the board with the current round
+      loadBoardWithArchiveData(gameData, round);
+      
+      // Close the welcome modal
+      setShowWelcomeModal(false);
+      
+      setMessage(`Created game with identifier: ${identifier}`);
+    } catch (error) {
+      console.error('Error creating game:', error);
+      setMessage(`Error: ${error.message}`);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+  
+  // Handle joining a game with identifier
+  const handleJoinWithIdentifier = (identifier) => {
+    setGameIdentifier(identifier);
+    updateUrlWithIdentifier(identifier);
+    setShowJoinModal(false);
+    setShowWelcomeModal(false);
+    setMessage(`Joined game with identifier: ${identifier}`);
+    
+    // In a real implementation, we would fetch the game data associated with this identifier
+    // For now, we'll just display the identifier
+  };
+  
+  // Show the join game modal
+  const handleShowJoinModal = () => {
+    setShowWelcomeModal(false);
+    setShowJoinModal(true);
   };
 
   return (
     <div className="app">
       <h1 className="title">¡Jeopardy!</h1>
       
+      {/* Show the welcome modal on initial load */}
+      {showWelcomeModal && (
+        <WelcomeModal 
+          onClose={() => setShowWelcomeModal(false)}
+          onCreateGame={handleCreateGame}
+          onJoinGame={handleShowJoinModal}
+        />
+      )}
+      
+      {/* Show the join game modal when requested */}
+      {showJoinModal && (
+        <JoinGameModal 
+          onClose={() => {
+            setShowJoinModal(false);
+            setShowWelcomeModal(true);
+          }}
+          onJoinWithIdentifier={handleJoinWithIdentifier}
+        />
+      )}
+      
       <div className="archive-tools">
-      {false &&
-        <div className="button-group">          
-        <button 
-          onClick={handleFetchGameById} 
-          disabled={isLoading}
-          className="load-button"
-        >
-          {isLoading ? 'Fetching...' : 'Fetch Game by ID'}
-        </button>
-      </div>      
-      }
-
         {archiveData && (
           <div className="round-selector">
             <button 

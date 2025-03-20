@@ -1,0 +1,511 @@
+{
+  "title": "Show #569 - Thursday, February 12, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. GEOGRAPHY",
+      "BRITISH SUCCESSION",
+      "MOVIES",
+      "PERFUME",
+      "ZEBRAS",
+      "\"SOUR\""
+    ],
+    "clues": [
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 100,
+        "question": "It's always been Pennsylvania's most populous city",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BRITISH SUCCESSION",
+        "value": 100,
+        "question": "Only son of George I",
+        "answer": "George II",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MOVIES",
+        "value": 100,
+        "question": "This Marx brother played Jayne Mansfield's true love in \"Will Success Spoil Rock Hunter?\"",
+        "answer": "Groucho Marx",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "PERFUME",
+        "value": 100,
+        "question": "Loren wears it \"with a passion\"",
+        "answer": "Sophia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ZEBRAS",
+        "value": 100,
+        "question": "Only continent to which zebras are native",
+        "answer": "Africa",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SOUR\"",
+        "value": 100,
+        "question": "An old prospector in Alaska or what he made his bread from",
+        "answer": "sourdough",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "Of California's Salton Sea, Ariz.'s Salt River & Utah's Great Salt Lake, the 1 that doesn't have salt water",
+        "answer": "Salt River",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BRITISH SUCCESSION",
+        "value": 200,
+        "question": "2nd son of George V, he was the current queen's father",
+        "answer": "George VI",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MOVIES",
+        "value": 200,
+        "question": "When Johnny Carson turned down the lead in \"The Thomas Crown Affair\", this star got the role",
+        "answer": "Steve McQueen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ZEBRAS",
+        "value": 200,
+        "question": "TV sitcom on which the main character called his racially mixed daughter-in-law a zebra",
+        "answer": "The Jeffersons",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SOUR\"",
+        "value": 200,
+        "question": "Concluding he couldn't get them, Aesop's fox disparaged what he originally wanted, calling them this",
+        "answer": "sour grapes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 300,
+        "question": "This 7th-largest city in the U.S. is the 2nd-largest in California",
+        "answer": "San Diego",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BRITISH SUCCESSION",
+        "value": 300,
+        "question": "Henry IV was the last 14th c. king of England; this man was 1st to become king in the 15th c.",
+        "answer": "Henry V",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MOVIES",
+        "value": 300,
+        "question": "Film in which Roy Scheider several times uttered the line \"I think we need a bigger boat\"",
+        "answer": "Jaws",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ZEBRAS",
+        "value": 300,
+        "question": "In England, a deer crossing is for deer, but a zebra crossing is for these",
+        "answer": "pedestrians",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SOUR\"",
+        "value": 300,
+        "question": "A morose man or a fermented feline",
+        "answer": "sourpuss",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "The 2 points farthest apart in the 50 states are in Florida & this state",
+        "answer": "Hawaii",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BRITISH SUCCESSION",
+        "value": 400,
+        "question": "Henry VIII's father",
+        "answer": "Henry VII",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MOVIES",
+        "value": 400,
+        "question": "Picasso's estate & Cary Grant lent paintings seen in this 1986 Robert Redford film",
+        "answer": "Legal Eagles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ZEBRAS",
+        "value": 400,
+        "question": "Professional sport in which 7 \"zebras\" officiate",
+        "answer": "football",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SOUR\"",
+        "value": 400,
+        "question": "Grain beaten to a pulp to make bourbon scalded with fresh hot \"slop\" left over from previous distillation",
+        "answer": "sour mash",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 500,
+        "question": "This state name is Indian word meaning \"great western river\", by which they probably meant the Columbia",
+        "answer": "Oregon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BRITISH SUCCESSION",
+        "value": 500,
+        "question": "In Scotland, he was King James VI, in England this 1st Stuart on the throne was called this",
+        "answer": "James I",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "MOVIES",
+        "value": 500,
+        "question": "Dentist role filled by Walter Huston in \"The Outlaw\" & Kirk Douglas in \"Gunfight at the O.K. Corral\"",
+        "answer": "Doc Holliday",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ZEBRAS",
+        "value": 500,
+        "question": "In Simon & Garfunkel's 1967 song, \"At the Zoo\", zebras are said to have these political views",
+        "answer": "reactionary",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"SOUR\"",
+        "value": 500,
+        "question": "Candy the British sometimes call acid drops",
+        "answer": "sour balls",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BUSINESS & INDUSTRY",
+      "WOMEN'S GYMNASTICS",
+      "W W II",
+      "TV TRIVIA",
+      "LANGUAGES",
+      "\"SWEET\""
+    ],
+    "clues": [
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 200,
+        "question": "When Kemmons Wilson opened his 1st hotel in 1952, he named it after this 1942 Bing Crosby film",
+        "answer": "Holiday Inn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WOMEN'S GYMNASTICS",
+        "value": 200,
+        "question": "More common name for the asymmetric bars",
+        "answer": "uneven parallel bars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "W W II",
+        "value": 200,
+        "question": "It's said 1 of field marshal Montgomery's 2 rules of war was \"never invade\" this country as Germany did",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 200,
+        "question": "Though he was more flint than calcium, \"Star Trek\"s Dr. McCoy had this nickname",
+        "answer": "\"Bones\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "Only sovereign state in which Latin is an official language",
+        "answer": "Vatican City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"SWEET\"",
+        "value": 200,
+        "question": "In tennis, it's the part of a racket's strings that provides top power & sensitivity",
+        "answer": "sweet spot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 400,
+        "question": "Trying to attract this California business, Virginia is using slogan \"Virginia ought to be shot\"",
+        "answer": "the movie industry",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WOMEN'S GYMNASTICS",
+        "value": 400,
+        "question": "Bela Karolyi defected from this country & coached Mary Lou Retton to her Olympic medals",
+        "answer": "Romania",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "W W II",
+        "value": 400,
+        "question": "This weapon was the defining characteristic of a German panzer division",
+        "answer": "tank",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 400,
+        "question": "If you asked Mork to take you to his leader, he'd take you to this fat Orkan",
+        "answer": "Orson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "Corsicans speak their own language related to Italian as well as this, the official one",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"SWEET\"",
+        "value": 400,
+        "question": "George Washington Carver developed 118 products from them",
+        "answer": "sweet potatoes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WOMEN'S GYMNASTICS",
+        "value": 600,
+        "question": "Age of Nadia Comaneci when she became Olympic all-around champion in 1976",
+        "answer": "14",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "W W II",
+        "value": 600,
+        "question": "In less than 3 years, he rose from Lt. Col. to Supreme Commander of Allied forces",
+        "answer": "Eisenhower",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 600,
+        "question": "On \"The A-Team\", the \"B.A.\" in B.A. Baracus stands for this",
+        "answer": "Bad Attitude",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1200,
+        "question": "Foreign language in which part of this No. 1 hit for Joe Dowell is sung:\"Can't you see I love you / Please don't break my heart in two / That's not hard to do...\"",
+        "answer": "German",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"SWEET\"",
+        "value": 600,
+        "question": "Ed Begley won an Oscar playing Boss Finley in screen version of this Tennessee Williams play",
+        "answer": "Sweet Bird of Youth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WOMEN'S GYMNASTICS",
+        "value": 800,
+        "question": "She was: so sprightly & impressive at '72 Olympics, some dubbed her \"The Munchkin of Munich\"",
+        "answer": "Olga Korbut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "W W II",
+        "value": 800,
+        "question": "This world leader died 18 days before Hitler",
+        "answer": "FDR",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 800,
+        "question": "In one \"Peanuts\" TV special, the Easter bunny was replaced by \"the Easter\" this",
+        "answer": "the Easter beagle",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 800,
+        "question": "While Yiddish is derived mainly from German, Ladino is a Jewish language based on this one",
+        "answer": "Spanish",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"SWEET\"",
+        "value": 800,
+        "question": "In the famous hymn, it precedes \"that saved a wretch like me!\"",
+        "answer": "Amazing grace! how sweet the sound",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WOMEN'S GYMNASTICS",
+        "value": 1000,
+        "question": "In competiton, it's the 1st event of the 4 apparatus events",
+        "answer": "the vault",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "W W II",
+        "value": 1000,
+        "question": "This island was site of the 1st U.S. offensive in the Pacific",
+        "answer": "island of Guadalcanal",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 2000,
+        "question": "The names of all 4 of Jock Ewing's sons",
+        "answer": "J.R., Bobby, Ray, and Gary",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1000,
+        "question": "Translation of this familiar sentence in Esperanto: \"En la komenco Dio kreis la cielon kaj le teron\"",
+        "answer": "In the beginning, God created the heaven and the earth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"SWEET\"",
+        "value": 1000,
+        "question": "Called \"one of the mushiest songs in history\", in it Ben Bolt is asked, \"Oh, don't you remember\" her",
+        "answer": "\"Sweet Alice\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MYTHOLOGY",
+    "clue": "Her name indicates she received \"gifts from all\" the gods",
+    "answer": "Pandora"
+  },
+  "gameId": "569",
+  "gameDate": "Thursday, February 12, 1987"
+}

@@ -1,0 +1,547 @@
+{
+  "title": "Show #48 - Wednesday, November 14, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "WOMEN IN POLITICS",
+      "THE OSCARS",
+      "IRELAND",
+      "FOOTBALL",
+      "NAME YOUR POISON",
+      "TRIVIA"
+    ],
+    "clues": [
+      {
+        "category": "WOMEN IN POLITICS",
+        "value": 100,
+        "question": "Mayor who always leaves her heart in San Francisco",
+        "answer": "Dianne Feinstein",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 100,
+        "question": "Mary Poppins' \"Chimney Sweep\" song that won in '64",
+        "answer": "\"Chim Chim Cher-ee\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IRELAND",
+        "value": 100,
+        "question": "Ireland's green gem of a nickname",
+        "answer": "the Emerald Isle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FOOTBALL",
+        "value": 100,
+        "question": "Chicago's NFL team",
+        "answer": "the Bears",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NAME YOUR POISON",
+        "value": 100,
+        "question": "In the Cary Grant classic, it goes with old lace",
+        "answer": "arsenic",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 100,
+        "question": "Its symbol is still Nipper, listening to his master's voice",
+        "answer": "RCA",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WOMEN IN POLITICS",
+        "value": 200,
+        "question": "Only five women have been elected for full terms to this Congressional body",
+        "answer": "the Senate",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 200,
+        "question": "Won her first acting Oscar for \"Butterfield 8\"",
+        "answer": "Elizabeth Taylor",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IRELAND",
+        "value": 200,
+        "question": "The gift of gab can be had by kissing this",
+        "answer": "the Blarney Stone",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FOOTBALL",
+        "value": 200,
+        "question": "Nickname for field from early rules requiring waffle-like markings",
+        "answer": "the gridiron",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NAME YOUR POISON",
+        "value": 200,
+        "question": "The skeletal symbol for poison & pirates",
+        "answer": "the skull & crossbones",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 200,
+        "question": "Substance advertised by the slogan, \"When it rains, it pours\"",
+        "answer": "Morton salt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WOMEN IN POLITICS",
+        "value": 300,
+        "question": "In '58, Sweden's Agda Rossel was first woman to head a delegation to this",
+        "answer": "the United Nations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 300,
+        "question": "Edgar Bergen's special '37 Oscar, appropriately, was made of this material",
+        "answer": "wood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IRELAND",
+        "value": 600,
+        "question": "Style of poetry named for Irish city and popularized by Edward Lear",
+        "answer": "a limerick",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FOOTBALL",
+        "value": 300,
+        "question": "Special helmets were made to fit the large head of this Buffalo halfback star",
+        "answer": "O.J. Simpson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NAME YOUR POISON",
+        "value": 300,
+        "question": "Standard warning about it is \"leaves of three, let it be\"",
+        "answer": "poison ivy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 300,
+        "question": "The most commonly used word in written English",
+        "answer": "the",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WOMEN IN POLITICS",
+        "value": 400,
+        "question": "Until 1971, women couldn't vote in this neutral nation",
+        "answer": "Switzerland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 400,
+        "question": "Unflappable actor on stage when '74 awards were streaked",
+        "answer": "David Niven",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IRELAND",
+        "value": 400,
+        "question": "Song also known as \"Londonderry Air\"",
+        "answer": "\"O Danny Boy\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FOOTBALL",
+        "value": 400,
+        "question": "What PAT stands for",
+        "answer": "point after touchdown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NAME YOUR POISON",
+        "value": 400,
+        "question": "Malicious mail",
+        "answer": "a poison pen letter",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 400,
+        "question": "The most commonly used word in spoken English",
+        "answer": "I",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WOMEN IN POLITICS",
+        "value": 500,
+        "question": "Recent president who appointed more women to his cabinet than any other",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE OSCARS",
+        "value": 500,
+        "question": "Only X-rated film to win a Best Picture Oscar",
+        "answer": "Midnight Cowboy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "IRELAND",
+        "value": 500,
+        "question": "What \"Erin go bragh\" means",
+        "answer": "Ireland Forever (Long Live Ireland accepted)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FOOTBALL",
+        "value": 500,
+        "question": "Position the Gipper played",
+        "answer": "a halfback",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NAME YOUR POISON",
+        "value": 500,
+        "question": "Cleopatra's venomous nemesis",
+        "answer": "an asp",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "U.S. CITIES",
+      "RELIGION",
+      "ENGLISH LITERATURE",
+      "THE GARDEN",
+      "REPUBLICANS",
+      "\"DAY\" TIME"
+    ],
+    "clues": [
+      {
+        "category": "U.S. CITIES",
+        "value": 200,
+        "question": "The home of TV's Ewings",
+        "answer": "Dallas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "Completes Trinity with father & son",
+        "answer": "the Holy Ghost",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 200,
+        "question": "Occupation of James Bond",
+        "answer": "a spy (secret agent)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE GARDEN",
+        "value": 200,
+        "question": "Grafted together, they form the potomato",
+        "answer": "a tomato & potato",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 200,
+        "question": "'70s president once offered contracts by Detroit Lions & the Green Bay Packers",
+        "answer": "Gerald Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"DAY\" TIME",
+        "value": 200,
+        "question": "Follows \"Zip-a-dee-doo-dah, zip-a-dee-ay\"",
+        "answer": "\"my, oh, my, what a wonderful day\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 400,
+        "question": "It's at the other end of the Bay Bridge from San Francisco",
+        "answer": "Oakland",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 400,
+        "question": "The Jewish Sabbath begins at sunset on this day",
+        "answer": "Friday",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 400,
+        "question": "The Romantic period ended in 1832 with the death of this author of \"Ivanhoe\"",
+        "answer": "Sir Walter Scott",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE GARDEN",
+        "value": 400,
+        "question": "Christian Dior, King's Ransom and American Beauty by another name",
+        "answer": "a rose",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 400,
+        "question": "First elected GOP senator in Tennessee history, now Senate Majority Leader",
+        "answer": "Howard Baker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"DAY\" TIME",
+        "value": 400,
+        "question": "June 6, 1944",
+        "answer": "D-Day",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 1200,
+        "question": "Iowa city with 3 U's in its name",
+        "answer": "Dubuque",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 600,
+        "question": "Casting stones at the Three Pillars of Mina is a rite of the pilgrimage to this city",
+        "answer": "Mecca",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 600,
+        "question": "Elizabethan poets used the sonnet, a form from this Mediterranean country",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE GARDEN",
+        "value": 600,
+        "question": "A worldwide group of insects commonly known as plant lice",
+        "answer": "aphids",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 600,
+        "question": "In 1974, became 2nd vice president to be appointed, not elected",
+        "answer": "Nelson Rockefeller",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"DAY\" TIME",
+        "value": 600,
+        "question": "MC Jack Bailey turned sobbing women into this",
+        "answer": "Queen for a Day",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 800,
+        "question": "Not surprisingly, this Connecticut city is at the mouth of the Thames River",
+        "answer": "New London",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 800,
+        "question": "He wears the Fisherman's Ring",
+        "answer": "the Pope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 800,
+        "question": "Playwright John Osborne's \"hostile glance behind\"",
+        "answer": "Look Back in Anger",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 800,
+        "question": "Edward Brooke, first Black in the Senate since Reconstruction, represented this state",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"DAY\" TIME",
+        "value": 800,
+        "question": "Truffaut's movie about making a movie",
+        "answer": "Day for Night",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 1000,
+        "question": "Indiana city which means \"high ground\" in French",
+        "answer": "Terre Haute",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 1000,
+        "question": "Egyptians mourn this sun god's death each night",
+        "answer": "Ra",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 1000,
+        "question": "Satire in which Swift attacked the hypocrisy he saw in kings, teachers, & courtiers",
+        "answer": "Gulliver's Travels",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "REPUBLICANS",
+        "value": 1000,
+        "question": "In '64, this South Carolina senator switched from Democrat to Republican",
+        "answer": "Strom Thurmond",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"DAY\" TIME",
+        "value": 2000,
+        "question": "John Reed's story of the Russian Revolution",
+        "answer": "10 Days that Shook the World",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "FOOD",
+    "clue": "By worth, the largest single grocery item imported into the U.S.",
+    "answer": "coffee"
+  },
+  "gameId": "48",
+  "gameDate": "Wednesday, November 14, 1984"
+}

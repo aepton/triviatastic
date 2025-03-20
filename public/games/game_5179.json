@@ -1,0 +1,547 @@
+{
+  "title": "Show #755 - Friday, December 11, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "STARTS WITH \"H\"",
+      "IOWA",
+      "THE ROYAL FAMILY",
+      "BOTTOMS UP",
+      "BILLIARDS",
+      "FINAL RESTING PLACES"
+    ],
+    "clues": [
+      {
+        "category": "STARTS WITH \"H\"",
+        "value": 100,
+        "question": "50% milk & 50% cream",
+        "answer": "half and half",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 100,
+        "question": "The Hawkeye State is Iowa's nickname, the oak is its state tree, & the geode is this",
+        "answer": "the state mineral (or rock)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE ROYAL FAMILY",
+        "value": 100,
+        "question": "By rights, he'll be the next King of England",
+        "answer": "Charles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BOTTOMS UP",
+        "value": 100,
+        "question": "U.S. Customs law states you have to be at least this age to bring alcohol into the U.S.",
+        "answer": "21",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BILLIARDS",
+        "value": 100,
+        "question": "You might put a bit of this \"language\" on a ball to make it spin the way you want",
+        "answer": "English",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 100,
+        "question": "Mumtaz Mahal's mausoleum",
+        "answer": "The Taj Mahal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STARTS WITH \"H\"",
+        "value": 200,
+        "question": "According to Webster's. you can give one by slipping in a match above someone's shoe sole & lighting it",
+        "answer": "a hot foot",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 400,
+        "question": "1957 musical written by an Iowan from which the following comes:\"Oh, there's nothing halfway /About the Iowa way to treat you /When we treat you /Which we may not do at all /There's an Iowa kind of special /Chip-on-the-shoulder attitude /We've never been without /That we recall /We can be cold /As our falling...\"",
+        "answer": "The Music Man",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE ROYAL FAMILY",
+        "value": 200,
+        "question": "Edward VIII abdicated the throne even tho she'd tried to end their affair & run away to France",
+        "answer": "Wallis Warfield Simpson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BOTTOMS UP",
+        "value": 200,
+        "question": "Term used to mean a wine is unsweet, rather than sweet",
+        "answer": "brut (dry and sekt acceptable)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BILLIARDS",
+        "value": 200,
+        "question": "Piece of billiards equipment composed of a butt, shaft, & tip",
+        "answer": "the cue stick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 200,
+        "question": "Thomas Jefferson is buried here",
+        "answer": "Monticello",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STARTS WITH \"H\"",
+        "value": 300,
+        "question": "From Old English for \"stone\", it means sharpening a knife with a stone",
+        "answer": "hone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 300,
+        "question": "Though Iowa is 3rd to Texas & Nebraska in U.S. beef cattle, it leads in production of this animal",
+        "answer": "hogs",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE ROYAL FAMILY",
+        "value": 300,
+        "question": "Trooping the Colour, an annual military ceremony, celebrates this royal event",
+        "answer": "the Queen's birthday",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BOTTOMS UP",
+        "value": 300,
+        "question": "In 1789 a Baptist minister in Kentucky was 1st to make this type of whiskey",
+        "answer": "bourbon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BILLIARDS",
+        "value": 300,
+        "question": "World Book calls it the most popular pool, or pocket billiards, game in the U.S.",
+        "answer": "8-ball",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 300,
+        "question": "Geoffrey Chaucer, Isaac Newton, & Dr. Livingstone, I presume, are all entombed in this church",
+        "answer": "Westminster Abbey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STARTS WITH \"H\"",
+        "value": 400,
+        "question": "Expression which \"sanctifies\" a city in Spain or Ohio",
+        "answer": "Holy Toledo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "IOWA",
+        "value": 400,
+        "question": "It's the name of Iowa's longest interior river as well as its capital",
+        "answer": "Des Moines",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE ROYAL FAMILY",
+        "value": 400,
+        "question": "In 1974 Ian Ball was committed to a mental institution after trying to kidnap this princess",
+        "answer": "Princess Anne",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BOTTOMS UP",
+        "value": 400,
+        "question": "Known for its brewery & its book, this company is also Britain's, & the world's, largest Scotch maker",
+        "answer": "Guinness",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BILLIARDS",
+        "value": 400,
+        "question": "In 9-ball the balls are racked not into a triangle but into this shape",
+        "answer": "a diamond",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 400,
+        "question": "An unmarked tomb in the Inner Hebrides holds the body of this king, Shakespeare's slain Thane",
+        "answer": "Macbeth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE ROYAL FAMILY",
+        "value": 500,
+        "question": "He was the last King of England",
+        "answer": "George VI",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BOTTOMS UP",
+        "value": 500,
+        "question": "The two main groups of alcoholic beverages are fermented, like beer, & this type, like gin",
+        "answer": "distilled",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FINAL RESTING PLACES",
+        "value": 500,
+        "question": "Though his tomb is in Seville, this explorer's remains remain in Santo Domingo",
+        "answer": "Christopher Columbus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BOTANY",
+      "THE CLERGY",
+      "TECHNOLOGY",
+      "ICELAND",
+      "ACTOR & ACTRESSES",
+      "8-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "BOTANY",
+        "value": 200,
+        "question": "As a young man, Luther Burbank was strongly influenced by the works of this evolutionist",
+        "answer": "Darwin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "THE CLERGY",
+        "value": 200,
+        "question": "Highest ratings in history of ABC's \"Nightline\" came when Ted Koppel had this couple as guests",
+        "answer": "Jim & Tammy Bakker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 200,
+        "question": "In turn, they've used the sun, water or sand, weights, coiled springs, pendulums, etc....",
+        "answer": "clocks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ICELAND",
+        "value": 200,
+        "question": "Since this seismic threat is everpresent, most homes in Iceland are built of reinforced concrete",
+        "answer": "earthquake",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ACTOR & ACTRESSES",
+        "value": 200,
+        "question": "\"The Great Dictator\" was the 1st film in which he spoke",
+        "answer": "Charles Chaplin",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 200,
+        "question": "You can find this part of your body between your neck & arm",
+        "answer": "your shoulder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 400,
+        "question": "When used in botany, \"old world\" is a synonym for this hemisphere",
+        "answer": "the Eastern Hemisphere",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "THE CLERGY",
+        "value": 400,
+        "question": "He described his political followers as a \"Rainbow Coalition\"",
+        "answer": "Jesse Jackson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 400,
+        "question": "Device in your home that might have a pickup cartridge & cuing lever",
+        "answer": "a (phonograph) turntable",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ICELAND",
+        "value": 400,
+        "question": "Of none, 3, or 13, the number of navigable rivers in Iceland",
+        "answer": "none",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ACTOR & ACTRESSES",
+        "value": 400,
+        "question": "Her father, the most decorated U.S. pilot of WWII, named her after \"The Swoose\", his B-17 bomber",
+        "answer": "Swoosie Kurtz",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 400,
+        "question": "From Latin for \"grandson\" or \"nephew\", it's hiring your grandson or nephew",
+        "answer": "nepotism",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 600,
+        "question": "Chloroplasts are structures containing chlorophyll in plants, & thus, able to perform this process",
+        "answer": "photosynthesis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "THE CLERGY",
+        "value": 600,
+        "question": "The Rev. Carl McIntyre organized marches in all 50 states & D.C. promoting victory in this war",
+        "answer": "Vietnam",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 600,
+        "question": "New dishes made to hold this substance play the theme to \"General Hospital\"",
+        "answer": "soap (soap dishes)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ICELAND",
+        "value": 600,
+        "question": "Under a NATO agreement, the only foreign military forces on Iceland belong to this country",
+        "answer": "the United States",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ACTOR & ACTRESSES",
+        "value": 600,
+        "question": "Sean Connery was playing James Bond while James Coburn struck sparks as this \"comic strip imitation\"",
+        "answer": "Our Man Flint",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 1200,
+        "question": "A galosh",
+        "answer": "an overshoe",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 800,
+        "question": "The bets variety of this hydrocarbon is the orange pigment in carrots",
+        "answer": "carotene",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "THE CLERGY",
+        "value": 800,
+        "question": "It's said this Harlem \"father\" taught his followers never to say \"hello\" because if began w/a swear word",
+        "answer": "Father Devine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 800,
+        "question": "Edison designed his movie camera to use the roll film invented by this man",
+        "answer": "George Eastman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ICELAND",
+        "value": 800,
+        "question": "So many Icelanders have the same name that phone books will list this along with name & address",
+        "answer": "the occupation",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ACTOR & ACTRESSES",
+        "value": 800,
+        "question": "This \"Star Wars\" star wrote of drug dependency in \"Postcards from the Edge\"",
+        "answer": "Carrie Fisher",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 800,
+        "question": "If you're a criminal, this type of platform can be fatal",
+        "answer": "a scaffold",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BOTANY",
+        "value": 1000,
+        "question": "Halophytes are plants adapted to live in soils containing high concentrations of this common compound",
+        "answer": "salts",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "THE CLERGY",
+        "value": 1000,
+        "question": "This late Episcopal bishop was tried for heresy for questioning the trinity",
+        "answer": "Bishop (James) Pike",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TECHNOLOGY",
+        "value": 1000,
+        "question": "In 1899 this Italian-born inventor sent a radio wave across the English Channel",
+        "answer": "(Guglielmo) Marconi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ICELAND",
+        "value": 1000,
+        "question": "From Old Norse for \"tale\", these narratives such as the \"Edda\", are considered foundation of Iceland's culture",
+        "answer": "the sagas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ACTOR & ACTRESSES",
+        "value": 2000,
+        "question": "The 2 charming Frenchmen who starred with Leslie Caron in \"Fanny\"",
+        "answer": "Maurice Chevalier & Charles Boyer",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "8-LETTER WORDS",
+        "value": 1000,
+        "question": "This describes thin, not uncommon, air",
+        "answer": "rarefied",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ELECTIONS",
+    "clue": "1st president for whom 18-year-olds across the USA could have voted",
+    "answer": "Richard Nixon"
+  },
+  "gameId": "755",
+  "gameDate": "Friday, December 11, 1987"
+}

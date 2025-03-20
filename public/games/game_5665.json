@@ -1,0 +1,502 @@
+{
+  "title": "Show #704 - Thursday, October 1, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "U.S. CITIES",
+      "OXYMORONS",
+      "SURVEY SAYS",
+      "NETWORK BRASS",
+      "BIBLICAL QUOTES",
+      "\"NU\" WORDS"
+    ],
+    "clues": [
+      {
+        "category": "U.S. CITIES",
+        "value": 100,
+        "question": "This group not only founded Salt Lake City, but also Mesa, Arizona",
+        "answer": "Mormons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OXYMORONS",
+        "value": 100,
+        "question": "In \"Romeo & Juliet\" Juliet delivers the famous oxymoron, \"Parting is\" this",
+        "answer": "such sweet sorrow",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SURVEY SAYS",
+        "value": 100,
+        "question": "A 1986 Good Housekeeping survey showed this animal is the top U.S. pet",
+        "answer": "dog",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NETWORK BRASS",
+        "value": 100,
+        "question": "Of tinker, tailor, soldier, or spy, the one who headed NBC for 5 years, 1981-86",
+        "answer": "(Grant) Tinker",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 100,
+        "question": "In the Lord's Prayer, item requested following \"Give us this day...\"",
+        "answer": "our daily bread",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"NU\" WORDS",
+        "value": 100,
+        "question": "It can precede family, war, or energy",
+        "answer": "nuclear",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 200,
+        "question": "It's been called \"40 suburbs in search of a city\", \"Smogville\", & \"La-La Land\"",
+        "answer": "Los Angeles",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "OXYMORONS",
+        "value": 200,
+        "question": "For a big appetite, you might order a seafood cocktail made with these large shellfish",
+        "answer": "giant shrimp (jumbo shrimp)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SURVEY SAYS",
+        "value": 200,
+        "question": "A USA Today poll published in early May, 1987 said 3% of adults polled never see this relative",
+        "answer": "mom",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NETWORK BRASS",
+        "value": 200,
+        "question": "Kevin Wendle & Garth Ancier, responsible for this new 4th network's shows, are 28 & 29 yrs. old respectively",
+        "answer": "Fox",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 200,
+        "question": "In the Psalms, David said \"Yea, though I walk through\" this valley, \"I will fear no evil\"",
+        "answer": "valley of the shadow of death",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"NU\" WORDS",
+        "value": 200,
+        "question": "Rubens was famous for painting full-bodied females in this state",
+        "answer": "nude",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 300,
+        "question": "New England city in which about 1850, Ephraim W. Bull developed a popular table grape",
+        "answer": "Concord",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OXYMORONS",
+        "value": 300,
+        "question": "A polyethylene water tumbler",
+        "answer": "plastic glass",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SURVEY SAYS",
+        "value": 300,
+        "question": "Of Oreos, lamb chops, or popcorn, food judged in a survey for Korbel as going well with champagne",
+        "answer": "Oreos",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 300,
+        "question": "Some 20 times in the Bible, the land of Canaan is described as \"flowing with\" these",
+        "answer": "milk & honey",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"NU\" WORDS",
+        "value": 300,
+        "question": "Something annoying, unpleasant, or obnoxious, such as your neighbor's kid, not yours",
+        "answer": "nuisance",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 400,
+        "question": "State which includes a port city named for co-founder Henry M. Shreve",
+        "answer": "Louisiana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OXYMORONS",
+        "value": 800,
+        "question": "Headlines of long ago",
+        "answer": "old news",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SURVEY SAYS",
+        "value": 400,
+        "question": "45% of vice presidents & personnel directors surveyed said this was the worst day of the week",
+        "answer": "Monday",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BIBLICAL QUOTES",
+        "value": 400,
+        "question": "The 1st thing God is quoted in the Bible as saying",
+        "answer": "Let there be light",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"NU\" WORDS",
+        "value": 400,
+        "question": "While Mayan Indians used dots & lines for these, Romans used letters",
+        "answer": "numerals",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "U.S. CITIES",
+        "value": 500,
+        "question": "Oldest surviving tobacco shop in U.S. is in this city for which 2 brands of cigarettes were named",
+        "answer": "Winston-Salem",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OXYMORONS",
+        "value": 500,
+        "question": "From French, it's the term for a mentally disabled person who shows extraordinary talent in 1 area",
+        "answer": "idiot savant",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SURVEY SAYS",
+        "value": 500,
+        "question": "In a survey of Calif. state university students, only 10% could identify this man on the $10 bill",
+        "answer": "Alexander Hamilton",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"NU\" WORDS",
+        "value": 500,
+        "question": "A subtle distinction or variation, especially in color",
+        "answer": "nuance",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "COMPOSERS",
+      "TENNIS",
+      "WORLD WAR II",
+      "STAMPS & COINS",
+      "BLACK AMERICA",
+      "FAMOUS LORENZOS"
+    ],
+    "clues": [
+      {
+        "category": "COMPOSERS",
+        "value": 200,
+        "question": "This, Beethoven's last symphony, was premiered after only 2 rehearsals",
+        "answer": "9th",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 200,
+        "question": "The largest crowd ever for a tennis match assembled at this Texas stadium in 1973",
+        "answer": "Astrodome",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 200,
+        "question": "Top Axis leader whose corpse was hung head down outside a garage at the end of the war",
+        "answer": "Mussolini",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STAMPS & COINS",
+        "value": 200,
+        "question": "Records go back to the 4th cent. B.C. of people found guilty of dealing in this",
+        "answer": "counterfeiting",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 400,
+        "question": "Heard here, he was 1st major black performer to host a prime time TV network variety series:\"They tried to tell us we're too young...\"",
+        "answer": "Nat King Cole",
+        "isDailyDouble": true,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LORENZOS",
+        "value": 200,
+        "question": "Arlene Dahl's famous son, his dad Fernando might have told him, \"You look mahvelous\"",
+        "answer": "Lorenzo Lamas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "At 1st rejected by the French army as too small, Ravel later became a truck driver in this war",
+        "answer": "World War I",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 400,
+        "question": "Term for a slow, lofted shot",
+        "answer": "lob",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 400,
+        "question": "In 1943, his partisan forces gave him the title \"Marshal of Yugoslavia\"",
+        "answer": "Tito",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STAMPS & COINS",
+        "value": 400,
+        "question": "Decade in which the price of 1st-class postage stamps in U.S. broke into double digits by going up to 10¢",
+        "answer": "1970s",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 400,
+        "question": "Emmett Ashford was the first black man to be one of these in the major leagues",
+        "answer": "umpire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LORENZOS",
+        "value": 400,
+        "question": "This English author was called \"Lorenzo\" by his friends, & probably by \"Women in Love\" with him, too",
+        "answer": "D.H. Lawrence",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 600,
+        "question": "Some experts believe Schumann, Mahler, & this composer of the \"Messiah\" were manic-depressives",
+        "answer": "Handel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 600,
+        "question": "The 1st time an Eastern European nation won the Davis Cup was when this country beat Italy in 1980",
+        "answer": "Czechoslovakia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 600,
+        "question": "World War II broke out in Europe just 9 days after Germany signed a non-aggression pact with this country",
+        "answer": "Russia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 600,
+        "question": "This trumpeter called his autobiography \"to Be or not...to Bop\"",
+        "answer": "Dizzy Gillespie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LORENZOS",
+        "value": 600,
+        "question": "He not only co-produced \"Rhoda\", he played Carlton, her doorman",
+        "answer": "Lorenzo Music",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1600,
+        "question": "2 of 3 works by Respighi with \"Rome\" or \"Roman\" in the title",
+        "answer": "(2 of) \"The Pines of Rome\", \"The Fountains of Rome\" & \"Roman Festivals\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TENNIS",
+        "value": 800,
+        "question": "The net crosses this number of parallel lines on a standard tennis court",
+        "answer": "5",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 800,
+        "question": "Ordered by FDR from Philippines, MacArthur made his famous \"I shall return\" pledge from this S. Pacific ally",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 800,
+        "question": "1st black congressman from a southern state, she was 1st black keynote speaker at a Dem. nat'l convention",
+        "answer": "Barbara Jordan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LORENZOS",
+        "value": 800,
+        "question": "He dedicated his treatise \"The Prince\" to Lorenzo the Magnificent's grandson Lorenzo",
+        "answer": "Machiavelli",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TENNIS",
+        "value": 1000,
+        "question": "In 1953, this 18-year-old called \"Little Mo\" became 1st woman to win all 4 grand slam events in the same year",
+        "answer": "Marueen Connolly",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WORLD WAR II",
+        "value": 1000,
+        "question": "\"Anschluss\" was the term for the 1938 forced union of these 2 countries",
+        "answer": "Germany & Austria",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BLACK AMERICA",
+        "value": 1000,
+        "question": "Born a slave in N.Y., I. Van Wagener worked for both abolition & women's rights using this unusual name",
+        "answer": "Sojourner Truth",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LORENZOS",
+        "value": 1000,
+        "question": "Renaissance family to which both \"Lorenzo the Magnificent\" & his grandson belonged",
+        "answer": "Medicis",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "ELECTIONS",
+    "clue": "Last third-party presidential candidate to carry any state",
+    "answer": "George Wallace"
+  },
+  "gameId": "704",
+  "gameDate": "Thursday, October 1, 1987"
+}

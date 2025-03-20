@@ -128,3 +128,15 @@
   font-size: 0.9rem;
   color: #444;
 }
+
+/* Game identifier display */
+.game-identifier {
+  background-color: #0066CC;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  margin: 1rem 0;
+  font-weight: bold;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}

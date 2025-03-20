@@ -1,0 +1,466 @@
+{
+  "title": "Show #141 - Monday, March 25, 1985",
+  "jeopardyRound": {
+    "categories": [
+      "EASY MATH",
+      "FOOD FACTS",
+      "QUOTE, UNQUOTE",
+      "EGYPT",
+      "CRIME & PUNISHMENT",
+      "\"BROWNS\""
+    ],
+    "clues": [
+      {
+        "category": "EASY MATH",
+        "value": 100,
+        "question": "The answer to 65 divided by 4/7 x 0",
+        "answer": "zero",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 100,
+        "question": "The average adult male needs 3000 a day, a female, 2200",
+        "answer": "calories",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "QUOTE, UNQUOTE",
+        "value": 100,
+        "question": "Play in which Queen Gertrude, while watching a play, says, \"The lady doth protest too much\"",
+        "answer": "Hamlet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "EGYPT",
+        "value": 100,
+        "question": "Egyptian-born actor Michael Shalhoub, his most famous role was a Russian doctor",
+        "answer": "Omar Sharif",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 100,
+        "question": "In California, this auto necessity is made at Folsom Prison",
+        "answer": "license plates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "EASY MATH",
+        "value": 200,
+        "question": "Number of first-class stamps in a $20 roll",
+        "answer": "a hundred",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 200,
+        "question": "Though leader in total world food production at 35%, this continent has 59% of the world's population",
+        "answer": "Asia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "QUOTE, UNQUOTE",
+        "value": 200,
+        "question": "At the 1st Battle of Bull Run, Bernard Bee said, \"There is Jackson, standing like...\" this",
+        "answer": "a stone wall",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "EGYPT",
+        "value": 400,
+        "question": "Italian opera set in Egypt featuring this march:",
+        "answer": "Aida",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 200,
+        "question": "They were 1st trained to help with police work about 1900 in Ghent, Belgium",
+        "answer": "dogs",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "EASY MATH",
+        "value": 300,
+        "question": "Decimal equivalent of 3/4",
+        "answer": ".75",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 300,
+        "question": "This process does not \"heal\" food, but preserves it",
+        "answer": "curing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "QUOTE, UNQUOTE",
+        "value": 300,
+        "question": "Pop artist who claimed \"in the future everyone will be famous for 15 minutes\"",
+        "answer": "Andy Warhol",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "EGYPT",
+        "value": 300,
+        "question": "Leader assassinated at parade celebrating 8th anniversary of Yom Kippur War",
+        "answer": "Sadat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 300,
+        "question": "It's estimated there are about 40,000 separate police agencies in this country",
+        "answer": "the United States",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "EASY MATH",
+        "value": 400,
+        "question": "Sum of the 3 Billy Goats Gruff, the 3 Little Pigs & Goldilocks & the 3 Bears",
+        "answer": "10",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 400,
+        "question": "Paris cooking school named after ribbons worn by the Order of the Holy Ghost",
+        "answer": "Cordon Bleu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "QUOTE, UNQUOTE",
+        "value": 400,
+        "question": "\"I can't mate in captivity.\" explained this feminist on why she's never married",
+        "answer": "Gloria Steinem",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "EGYPT",
+        "value": 400,
+        "question": "Albanian founder of the last Egyptian dynasty; his namesake is a famous prizefighter",
+        "answer": "Muhammad Ali",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EASY MATH",
+        "value": 500,
+        "question": "The square root of 225",
+        "answer": "15",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD FACTS",
+        "value": 500,
+        "question": "Colorful term used to describe effort to increase food production in developing countries",
+        "answer": "the green revolution",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "QUOTE, UNQUOTE",
+        "value": 500,
+        "question": "Completes the saying \"The trouble with a kitten is that...\"",
+        "answer": "it grows to a cat",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CRIME & PUNISHMENT",
+        "value": 500,
+        "question": "A 43-year old mother of 4 recently broke up a $3.5 billion ring dealing in this drug",
+        "answer": "cocaine",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PRESIDENTS",
+      "ROCKS & MINERALS",
+      "MOVIE TRIVIA",
+      "SOCIAL STUDIES",
+      "MAMMALS",
+      "AMERICAN LITERATURE"
+    ],
+    "clues": [
+      {
+        "category": "PRESIDENTS",
+        "value": 200,
+        "question": "'70s president who, as a model, once appeared in \"Look\" magazine",
+        "answer": "Gerald Ford",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ROCKS & MINERALS",
+        "value": 200,
+        "question": "A sparking rock or a Michigan city",
+        "answer": "Flint",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 200,
+        "question": "It was known as the dingus, the stuff dreams are made of & the black bird",
+        "answer": "the Maltese Falcon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SOCIAL STUDIES",
+        "value": 200,
+        "question": "3-letter term for fashions that come & go quickly, such as hula hoops & coonskin caps",
+        "answer": "a fad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 200,
+        "question": "\"Vampire\" variety of these actually do feed on the blood of other animals",
+        "answer": "bats",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 200,
+        "question": "Sport defined by Hemingway as \"Death in the Afternoon\"",
+        "answer": "bullfighting",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 400,
+        "question": "This office remained vacant during Truman's 1st administration",
+        "answer": "the vice-presidency",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 400,
+        "question": "Character from American history played on screen more than any other",
+        "answer": "Abe Lincoln",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SOCIAL STUDIES",
+        "value": 400,
+        "question": "\"Jus soli\", the right of soil, makes you this in the country of your birth",
+        "answer": "a citizen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 400,
+        "question": "General name for the wild rabbits of Canada, the U.S. & Mexico; Peter is one",
+        "answer": "a cottontail",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 400,
+        "question": "In 1843, the Merriams took over the rights to his dictionary",
+        "answer": "Webster",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 600,
+        "question": "Said he could either run the country or control his daughter Alice, \"But not both\"",
+        "answer": "Teddy Roosevelt",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 600,
+        "question": "A sequel's now being planned to this top grossing film, called in France \"S.O.S. Phantomes\"",
+        "answer": "Ghostbusters",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SOCIAL STUDIES",
+        "value": 600,
+        "question": "Not a radioactive clan, but the core group of one's relatives",
+        "answer": "the nuclear family",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 600,
+        "question": "Before hunting, a pack of these meets & howls to keep other packs from its territory",
+        "answer": "wolves",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 600,
+        "question": "Her \"Giant\" grew into an epic movie",
+        "answer": "Edna Ferber",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 800,
+        "question": "Probably our most scholarly president, he was only one to earn a Ph.D.",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 800,
+        "question": "To protect his image, Buster Keaton's MGM contract did not allow him to do this onscreen",
+        "answer": "smile",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SOCIAL STUDIES",
+        "value": 800,
+        "question": "U.S. equivalent to the bourgeoisie which developed between the aristocrats & the peasants in France",
+        "answer": "business class or middle class (merchant class accepted)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MAMMALS",
+        "value": 800,
+        "question": "This swimming African animal \"yawns\" as an aggressive gesture before it attacks",
+        "answer": "a hippo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 800,
+        "question": "\"Death Comes for\" him Willa Cather's classic",
+        "answer": "the Archbishop",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 1000,
+        "question": "In 1940, FDR beat him to win 3rd term",
+        "answer": "Wendell Willkie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 2000,
+        "question": "4-generation film family which includes a knighted actor, his father, daughters & grandchildren",
+        "answer": "the Redgraves",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SOCIAL STUDIES",
+        "value": 1000,
+        "question": "It's suffered by one who goes from his simple society to a very complex one",
+        "answer": "culture shock",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "AMERICAN LITERATURE",
+        "value": 1000,
+        "question": "Novelist & poet who went \"Trout Fishing in America\"",
+        "answer": "(Richard) Brautigan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "This cereal co. which owns Parker Bros. & Lionel Trains is the largest toy maker in the world",
+    "answer": "General Mills"
+  },
+  "gameId": "141",
+  "gameDate": "Monday, March 25, 1985"
+}

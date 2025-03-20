@@ -7,6 +7,7 @@ A React application that displays a Jeopardy-style grid of categories and questi
 - Jeopardy-style game board with categories and dollar values
 - Interactive tiles that flip to reveal questions and answers
 - Ability to load custom questions and categories from a URL
+- J-Archive crawler to extract and store game data locally
 
 ## Running the Application
 
@@ -49,6 +50,82 @@ Example:
 ]
 ```
 
+## J-Archive Crawler
+
+The repository includes a crawler script that can extract game data from J-Archive and store it locally as JSON files. This allows you to have a local cache of Jeopardy games to use with the application.
+
+### Prerequisites
+
+Before running the crawler, install the required dependencies:
+
+```
+npm install
+```
+
+### Crawling Games
+
+The crawler provides several options for extracting data:
+
+#### Crawl a single game
+
+```
+npm run crawl:game <gameId>
+```
+
+Example:
+```
+npm run crawl:game 7815
+```
+
+#### Crawl a range of games
+
+```
+npm run crawl:range <startId> <endId>
+```
+
+Example:
+```
+npm run crawl:range 7800 7850
+```
+
+#### Crawl all games from a specific season
+
+```
+npm run crawl:season <seasonId>
+```
+
+Example:
+```
+npm run crawl:season 38
+```
+
+#### Crawl multiple seasons
+
+```
+npm run crawl:seasons <startSeason> <endSeason>
+```
+
+Example:
+```
+npm run crawl:seasons 35 38
+```
+
+### Generating a Game Index
+
+After crawling games, you can generate an index file that makes it easier to navigate the available games:
+
+```
+npm run generate-index
+```
+
+This will create a `game-index.json` file in the `public` directory that contains metadata for all crawled games.
+
+### File Structure
+
+- Crawled game data is stored in the `public/games` directory as JSON files
+- Each game is stored in a file named `game_<gameId>.json`
+- The index file is stored at `public/game-index.json`
+
 ## Building for Production
 
 To build the application for production:
@@ -64,3 +141,4 @@ The build artifacts will be stored in the `dist/` directory.
 - React
 - Vite
 - CSS for styling
+- JSDOM for HTML parsing in the crawler

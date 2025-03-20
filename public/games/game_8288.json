@@ -1,0 +1,520 @@
+{
+  "title": "Show #361 - Monday, January 27, 1986",
+  "jeopardyRound": {
+    "categories": [
+      "MEDALS & DECORATIONS",
+      "BEAUTY SHOP",
+      "BIRDS",
+      "SPORTS",
+      "4-LETTER WORDS",
+      "STUPID ANSWERS"
+    ],
+    "clues": [
+      {
+        "category": "MEDALS & DECORATIONS",
+        "value": 100,
+        "question": "The Order of Lenin is this country's highest decoration",
+        "answer": "the Soviet Union",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BEAUTY SHOP",
+        "value": 100,
+        "question": "Once worn mostly for cosmetic reasons, it was common to take them out before meals",
+        "answer": "false teeth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "BIRDS",
+        "value": 100,
+        "question": "From Spanish \"bobo\", meaning dunce, a clumsy bird or the prize it might win",
+        "answer": "booby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPORTS",
+        "value": 100,
+        "question": "Vast majority of National Hockey League players are from this country",
+        "answer": "Canada",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 100,
+        "question": "\"Man of red earth\" in Hebrew, since it's said God used red clay for the 1st man",
+        "answer": "Adam",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 100,
+        "question": "Middle East country whose capital is Kuwait",
+        "answer": "Kuwait",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MEDALS & DECORATIONS",
+        "value": 200,
+        "question": "From 1813 through WWII, it was Germany's highest military decoration",
+        "answer": "the Iron Cross",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BEAUTY SHOP",
+        "value": 200,
+        "question": "A former book seller began this cosmetics company in 1886, later naming it after the Bard's river",
+        "answer": "Avon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BIRDS",
+        "value": 200,
+        "question": "2 toes at the back act as braces to help them hold on as they peck at trees",
+        "answer": "a woodpecker",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "Though it's the world's most popular sport, it hasn't succeeded on professional level in the U.S.",
+        "answer": "soccer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 200,
+        "question": "In polite society, you can do it with a basketball but not with a doughnut",
+        "answer": "dunk",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 200,
+        "question": "NBC's \"Walt Disney's Wonderful World of Color\" was 1st broadcast this way in 1961",
+        "answer": "in color",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MEDALS & DECORATIONS",
+        "value": 300,
+        "question": "This country awards the Order of St. Olaf",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BEAUTY SHOP",
+        "value": 600,
+        "question": "Before this was developed, people relied on perfumes, talcum powder, & bicarbonate of soda",
+        "answer": "deodorant",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 300,
+        "question": "As a boy, this baseball great earned money carrying satchels at the Mobile railroad depot",
+        "answer": "Satchel Paige",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 300,
+        "question": "Some men do it reading \"Playboy\"; dogs do it to cool off",
+        "answer": "pant",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 300,
+        "question": "The radio show \"Hear It Now\" became this when adapted for television",
+        "answer": "See It Now",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MEDALS & DECORATIONS",
+        "value": 400,
+        "question": "A Briton who displays initials \"V.C.\" after his name has received this medal",
+        "answer": "the Victoria Cross",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BEAUTY SHOP",
+        "value": 400,
+        "question": "The 2nd century Greek, Galen, was 1st to give a skin care product this \"cool\" name",
+        "answer": "cold cream",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "Basketball's former Baltimore Bullets now represent this city",
+        "answer": "Washington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 400,
+        "question": "In \"The Mikado\", Ko-Ko had a little one of these",
+        "answer": "a list",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 400,
+        "question": "Of a pound of bricks, a pound of feathers, or a pound of iron, the 1 which weighs the most",
+        "answer": "none of them (they all weigh exactly the same)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MEDALS & DECORATIONS",
+        "value": 500,
+        "question": "This country grants the Grand Cordon of the Supreme Order of the Chrysanthemum, but only to men",
+        "answer": "Japan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BEAUTY SHOP",
+        "value": 500,
+        "question": "Romans used to shadow their eyelids gold with this, the world's most expensive spice",
+        "answer": "saffron",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 500,
+        "question": "Of the 4 \"major\" pro tournaments, it's the only 1 Sam Snead never won",
+        "answer": "the U.S. Open",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "4-LETTER WORDS",
+        "value": 500,
+        "question": "A watery way to rest tired feet",
+        "answer": "soak",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "STUPID ANSWERS",
+        "value": 500,
+        "question": "Until beaten by United 25 years ago, this airline was #1 in America",
+        "answer": "American Airlines",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ENGLISH LITERATURE",
+      "TRANSPORTATION",
+      "ANCIENT WORLDS",
+      "MOVIE PAIRS",
+      "COMPOSERS",
+      "\"TABLE\" TALK"
+    ],
+    "clues": [
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 200,
+        "question": "In Mallory, it seated 150, the siege perilous reserved for the most pure & perfect knight",
+        "answer": "the Round Table",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ANCIENT WORLDS",
+        "value": 200,
+        "question": "Pliny the Younger was not his son but his nephew",
+        "answer": "Pliny the Elder",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PAIRS",
+        "value": 200,
+        "question": "Their movie partnership started in 1976 as a couple of \"Silver Streakers\"",
+        "answer": "Gene Wilder & Richard Pryor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 200,
+        "question": "Since his sons were musicians, this greatest Baroque composer could have written a family fugue",
+        "answer": "J.S. Bach",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"TABLE\" TALK",
+        "value": 200,
+        "question": "Where you'd hope to roll a 7 or 11 on the 1st throw in Las Vegas",
+        "answer": "at the craps table",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 400,
+        "question": "\"It vanished quite slowly, beginning with the end of the tail & ending with the grin\"",
+        "answer": "the Cheshire Cat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "In 1969, Crosby, Stills, & Nash rode high on this North African train",
+        "answer": "the Marrakesh Express",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT WORLDS",
+        "value": 400,
+        "question": "Construction of this longest structure ever built began in 5th century B.C.",
+        "answer": "the Great Wall of China",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PAIRS",
+        "value": 400,
+        "question": "In 1985, they were the \"Perfect\" couple",
+        "answer": "John Travolta & Jamie Curtis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 400,
+        "question": "Composer & conductor of official Olympic fanfare for 1984 Summer Games",
+        "answer": "John Williams",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"TABLE\" TALK",
+        "value": 400,
+        "question": "From 1x1 to 9x9, for example",
+        "answer": "the multiplication table",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ENGLISH LITERATURE",
+        "value": 600,
+        "question": "Robert Burns called this creature a \"wee, sleekit, cow'rin tim'rous beastie\"",
+        "answer": "a mouse",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 600,
+        "question": "For the ride on this, the French test pilot brought pate, the Saudi prince, a few dates for snacks",
+        "answer": "the Space Shuttle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT WORLDS",
+        "value": 600,
+        "question": "The Medes were allied in a dual empire with these people",
+        "answer": "the Persians",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PAIRS",
+        "value": 600,
+        "question": "The \"reunion\" of these Oscar winners in \"Falling in Love\" was labeled by one critic \"falling asleep\"",
+        "answer": "Meryl Streep & Robert De Niro",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 600,
+        "question": "He did film scores for \"Our Town\" & \"The Red Pony\", as well as the ballet \"Rodeo\"",
+        "answer": "Aaron Copland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"TABLE\" TALK",
+        "value": 600,
+        "question": "In this 1958 film, Lancaster & Hayworth were at 1, David Niven at another, & Wendy Hiller at a 3rd",
+        "answer": "Separate Tables",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 800,
+        "question": "It's what Reuter used to send the news between his German & Belgian telegraph stations",
+        "answer": "pigeons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT WORLDS",
+        "value": 800,
+        "question": "Its earliest recorded name was Albion",
+        "answer": "Britain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PAIRS",
+        "value": 800,
+        "question": "Newlyweds in \"The Quiet Man\", they split up 21 years later in \"McLintock\"",
+        "answer": "John Wayne & Maureen O'Hara",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 800,
+        "question": "This Hungarian pianist helped many younger composers such as Wagner, Dvorak & Grieg",
+        "answer": "Liszt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"TABLE\" TALK",
+        "value": 1600,
+        "question": "The 1st line of \"The Wiffenpoof Song\"",
+        "answer": "\"To the tables down at Mory's\"",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TRANSPORTATION",
+        "value": 1000,
+        "question": "John Ford tried to drive it to an Academy Award, but \"Gone with the Wind\" won",
+        "answer": "Stagecoach",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ANCIENT WORLDS",
+        "value": 1000,
+        "question": "This Jewish \"Roman\" was only historian to provide contemporary account of Masada",
+        "answer": "Josephus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MOVIE PAIRS",
+        "value": 1000,
+        "question": "In 1930, she was \"Min\" & he was \"Bill\"",
+        "answer": "Marie Dressler & Wallace Beery",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "COMPOSERS",
+        "value": 1000,
+        "question": "Composer of the \"London\" & \"Drum Roll\" symphonies, he was an enthusiastic hunter & fisherman",
+        "answer": "Joseph Haydn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"TABLE\" TALK",
+        "value": 1000,
+        "question": "Unlike \"a la carte\", with each course charged separately, this meal comes complete at a fixed price",
+        "answer": "table d'hôte",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LANGUAGES",
+    "clue": "In the 16th & 17th centuries it replaced Latin as the language of diplomacy & official documents",
+    "answer": "French"
+  },
+  "gameId": "361",
+  "gameDate": "Monday, January 27, 1986"
+}

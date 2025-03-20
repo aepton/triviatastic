@@ -1,0 +1,511 @@
+{
+  "title": "Show #728 - Wednesday, November 4, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "MAMMALS",
+      "MONEY",
+      "MUSIC",
+      "MEDICINES",
+      "MARTIAL ARTS",
+      "MISS MANNERS"
+    ],
+    "clues": [
+      {
+        "category": "MAMMALS",
+        "value": 100,
+        "question": "Bad news; rats now live on all continents, having finally spread to this 1",
+        "answer": "Antarctica",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MUSIC",
+        "value": 100,
+        "question": "In 1322, this official condemned the use of polyphony in church music",
+        "answer": "the pope",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 100,
+        "question": "Calling itself \"America's Travel Insurance\", Dramamine is used for this",
+        "answer": "motion sickness",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MARTIAL ARTS",
+        "value": 100,
+        "question": "The Japanese word for this martial art means \"empty hand\"",
+        "answer": "karate",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MISS MANNERS",
+        "value": 100,
+        "question": "In regard to sending this type of Christmas letter, Miss Manners says no-no, it's too impersonal",
+        "answer": "mimeographed (Xerox)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS",
+        "value": 200,
+        "question": "No, the bobcat wasn't originally called Robert; it got its name due to this",
+        "answer": "(short) tail",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MUSIC",
+        "value": 400,
+        "question": "The only letters of the alphabet used to name notes in current Western musical notation",
+        "answer": "A, B, C, D, E, F & G",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 200,
+        "question": "Propa P.H. & Tackle are used to tackle this problem",
+        "answer": "acne",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MARTIAL ARTS",
+        "value": 200,
+        "question": "Martial artists attack with a shout to put maximum force into the blow & to do this",
+        "answer": "intimidate (startle, frighten the opponent)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MISS MANNERS",
+        "value": 200,
+        "question": "The only time it's correct for a lady to call upon a man is if he's old & ill, & has extended this",
+        "answer": "an invitation to do so",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS",
+        "value": 300,
+        "question": "While only humans pray, only these animals bray, says Webster's Third",
+        "answer": "donkeys",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MONEY",
+        "value": 300,
+        "question": "If you were buying a violin in Ireland, or wisteria in Syria, you'd use bills marked in this unit",
+        "answer": "pounds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MUSIC",
+        "value": 300,
+        "question": "While \"semibreves\" are whole notes, \"minims\" are these",
+        "answer": "half notes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 300,
+        "question": "Able to explode in its pure form, this antiseptic, H2O2, is sold as a 3% solution",
+        "answer": "(hydrogen) peroxide",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MARTIAL ARTS",
+        "value": 300,
+        "question": "Though there is no universal system of belt ranking, this color usually denotes beginners",
+        "answer": "white",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MISS MANNERS",
+        "value": 300,
+        "question": "It's wrong to wear these before dusk, except the one on your wedding ring",
+        "answer": "diamonds",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS",
+        "value": 400,
+        "question": "Because its stomach has this many compartments, it's said a cow has this many stomachs",
+        "answer": "4",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MONEY",
+        "value": 400,
+        "question": "In 1924, the zloty replaced the mark as this country's currency",
+        "answer": "Poland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MUSIC",
+        "value": 400,
+        "question": "The alto member of the violin family",
+        "answer": "viola",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MEDICINES",
+        "value": 400,
+        "question": "You can often save money by requesting a prescription under this name, not the brand name",
+        "answer": "generic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MARTIAL ARTS",
+        "value": 400,
+        "question": "Sho Kosugi entered, took revenge, & dominated a film series as this type of martial warrior",
+        "answer": "ninja",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MISS MANNERS",
+        "value": 400,
+        "question": "The correct fur to wear while in mourning is this \"Rolls-Royce\" of the weasel family",
+        "answer": "sable",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS",
+        "value": 500,
+        "question": "The only marsupials native to North America",
+        "answer": "possums",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MUSIC",
+        "value": 500,
+        "question": "In the early 19th century, clubs were formed to sing short pieces of choral music called this",
+        "answer": "glees",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MARTIAL ARTS",
+        "value": 500,
+        "question": "The most graceful & gentle of the martial arts, it's practiced mainly as a means of meditation",
+        "answer": "tai chi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MISS MANNERS",
+        "value": 500,
+        "question": "Miss Manners' alter ego, or the name to whom her royalty checks are made out",
+        "answer": "Judith Martin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MATHEMATICS",
+      "MYTHOLOGY",
+      "MAGAZINES",
+      "MELVILLE",
+      "MOVIE MAKERS",
+      "\"MAY\" DAY"
+    ],
+    "clues": [
+      {
+        "category": "MATHEMATICS",
+        "value": 200,
+        "question": "The next square in the series 4, 9, 16,...",
+        "answer": "25",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 200,
+        "question": "Odin's oldest son",
+        "answer": "Thor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 200,
+        "question": "Many products display this magazine's seal on their labels",
+        "answer": "Good Housekeeping",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MELVILLE",
+        "value": 200,
+        "question": "Melville's book \"White Jacket\" helped abolish this form of corporal punishment on ships",
+        "answer": "whipping (flogging)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MOVIE MAKERS",
+        "value": 200,
+        "question": "It's said \"North by Northwest\" convinced Ian Fleming this man would be the best director for Bond films",
+        "answer": "Alfred Hitchcock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"MAY\" DAY",
+        "value": 200,
+        "question": "Dustin & Warren didn't write most of those lousy songs in \"Ishtar\"; she & Paul Williams did",
+        "answer": "Elaine May",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 400,
+        "question": "Of the 36 rolls on a pair of dice, you have this many ways to roll a seven, whether you \"root\" for it or not",
+        "answer": "6",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MYTHOLOGY",
+        "value": 400,
+        "question": "Angered by this girl, Athena changed her curling locks to snakes",
+        "answer": "Medusa",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 400,
+        "question": "It pays $400 for funny, true stories about life in the military, on campus or at work",
+        "answer": "Reader's Digest",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MELVILLE",
+        "value": 400,
+        "question": "Between sea voyages, Melville had this job at a Honolulu bowling alley",
+        "answer": "pin setter",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MOVIE MAKERS",
+        "value": 400,
+        "question": "Once an actor for D.W. Griffith, this silent comedy director later formed the Keystone Company",
+        "answer": "Mack Sennett",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"MAY\" DAY",
+        "value": 400,
+        "question": "It's egg yolks, oil, lemon juice & seasonings beaten together until thick",
+        "answer": "mayonnaise",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 1200,
+        "question": "To measure speed, you need know only these 2 things",
+        "answer": "distance & time",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 600,
+        "question": "Triangle Publications of Radnor, PA, famous for the Daily Racing Form, also publishes this weekly",
+        "answer": "TV Guide",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MELVILLE",
+        "value": 600,
+        "question": "Melville 1st went to sea after failing to become a surveyor on this N.Y. state transportation project",
+        "answer": "the Erie Canal",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MOVIE MAKERS",
+        "value": 1200,
+        "question": "Director of the film from which the following was taken:",
+        "answer": "Barbra Streisand",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"MAY\" DAY",
+        "value": 600,
+        "question": "The English translation of the Cuban song, \"Quizas, Quizas, Quizas\"",
+        "answer": "\"Maybe, Maybe, Maybe\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 800,
+        "question": "A 9-year-old boy coined this \"nonsensical\" term for the number 1 followed by 100 zeros",
+        "answer": "googol",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 800,
+        "question": "After working as a CIA agent in Mexico under E. Howard Hunt, William Buckley founded this magazine",
+        "answer": "The National Review",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MELVILLE",
+        "value": 800,
+        "question": "On Dec. 16, 1773, Melville's grandfather participated in this act of rebellion",
+        "answer": "Boston Tea Party",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MOVIE MAKERS",
+        "value": 800,
+        "question": "He observed, \"They let the studio janitor cut 'The Magnificent Ambersons' in my absence\"",
+        "answer": "Orson Welles",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"MAY\" DAY",
+        "value": 800,
+        "question": "Rod Stewart sang to her, \"The morning sun, when it's in your face, really shows your age\"",
+        "answer": "Maggie May",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MATHEMATICS",
+        "value": 1000,
+        "question": "A king complained \"The elements were difficult\", but this Greek replied, \"There is no royal way to geometry\"",
+        "answer": "Euclid",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MAGAZINES",
+        "value": 1000,
+        "question": "It's subtitled \"Man at His Best\"",
+        "answer": "Esquire",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MELVILLE",
+        "value": 1000,
+        "question": "This title character's last words are \"God bless Captain Vere!\"",
+        "answer": "Billy Budd",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MOVIE MAKERS",
+        "value": 1000,
+        "question": "Director of \"On The Waterfront\", \"He's the kind of man who sends a suit out to be cleaned & rumpled\"",
+        "answer": "Elia Kazan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"MAY\" DAY",
+        "value": 1000,
+        "question": "From Old French \"mahaignier\", to maim, it's disfigurement that renders the victim defenseless",
+        "answer": "mayhem",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MONARCHS",
+    "clue": "Ruler whose 59-yr. reign over England ending in 1820, is 2nd only to his granddaughter Victoria's 63 yrs.",
+    "answer": "King George III"
+  },
+  "gameId": "728",
+  "gameDate": "Wednesday, November 4, 1987"
+}

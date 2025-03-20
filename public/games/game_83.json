@@ -1,0 +1,574 @@
+{
+  "title": "Show #732 - Tuesday, November 10, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "WORLD CAPITALS",
+      "APOLLO 11",
+      "STORYTELLERS",
+      "MR. MOVIES",
+      "MEATS",
+      "ANCIENT VIPs"
+    ],
+    "clues": [
+      {
+        "category": "WORLD CAPITALS",
+        "value": 100,
+        "question": "\"The Rome of the North\" is how famed sculptor Rodin described this Czech capital",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "APOLLO 11",
+        "value": 100,
+        "question": "Some 1 million spectators surrounded this space center to watch the lift-off",
+        "answer": "Cape Kennedy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STORYTELLERS",
+        "value": 100,
+        "question": "\"Call him\" the narrator of \"Moby Dick\"",
+        "answer": "Ishmael",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "MR. MOVIES",
+        "value": 100,
+        "question": "In 1962, \"Mr. Hobbs Took\" this",
+        "answer": "A Vacation",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "MEATS",
+        "value": 100,
+        "question": "This cut is a pig's hind leg above the hock",
+        "answer": "ham",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 100,
+        "question": "Books about him were written by Plato & Xenophon, both students of his",
+        "answer": "Socrates",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 200,
+        "question": "Foreign embassies are located in Jiddah, some 500 miles from this country's capital, Riyadh",
+        "answer": "Saudi Arabia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "APOLLO 11",
+        "value": 200,
+        "question": "\"Peaceful\" site on the moon where the lunar module touched down",
+        "answer": "the Sea of Tranquility",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STORYTELLERS",
+        "value": 200,
+        "question": "ABC radio commentator who tells \"The Rest of the Story\"",
+        "answer": "Paul Harvey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "MR. MOVIES",
+        "value": 200,
+        "question": "Though Diane Keaton never found the title character in this 1977 film, she found someone really nuts",
+        "answer": "Looking for Mr. Goodbar",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "MEATS",
+        "value": 200,
+        "question": "A long-standing tradition in France, hippophagy is the consumption of this",
+        "answer": "horse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 200,
+        "question": "This Hebrew king taxed his people into rebellion, which may not have been too wise",
+        "answer": "Solomon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 300,
+        "question": "\"From the halls of Montezuma to the shores of Tripoli\" refers to the capitals of these two countries",
+        "answer": "Mexico & Libya",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "APOLLO 11",
+        "value": 300,
+        "question": "Astronomic name for the booster rocket used to power the launch",
+        "answer": "Saturn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STORYTELLERS",
+        "value": 300,
+        "question": "Some sources say it was Carnegie Hall; others say it was the '67 Newport Festival where he first sang \"Alice's Restaurant\"",
+        "answer": "Arlo Guthrie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "MR. MOVIES",
+        "value": 300,
+        "question": "Of James Cagney, Henry Fonda or Jack Lemmon, the one who won an Oscar for \"Mr. Roberts\"",
+        "answer": "Jack Lemmon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "MEATS",
+        "value": 300,
+        "question": "These gastropods are sometimes fed aromatic herbs to give them a special savor",
+        "answer": "snail",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 300,
+        "question": "The period during which he ruled is often referred to as \"The Golden Age of Athens\"",
+        "answer": "Pericles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 400,
+        "question": "Founded in 1496 by Columbus's brother, this Dominican capitol is the oldest European city in the new world",
+        "answer": "Santo Domingo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "APOLLO 11",
+        "value": 800,
+        "question": "The three crew members of Apollo 11",
+        "answer": "Neil Armstrong, Buzz Aldrin, and Michael Collins",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STORYTELLERS",
+        "value": 400,
+        "question": "In addition to her \"Fairie Tale Theatre\", she now has \"Tall Tales and Legends\" playing on cable",
+        "answer": "Shelley Duvall",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "MR. MOVIES",
+        "value": 400,
+        "question": "Of this 1939 film, the \"New York Times\" said \"More fun even than the Senate itself!\"",
+        "answer": "Mr. Smith Goes to Washington",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "MEATS",
+        "value": 400,
+        "question": "One of the largest edible fish, these huge flatfish can measure over 5 X 10 feet and can exceed 700 pounds",
+        "answer": "halibut",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 400,
+        "question": "Uncle of Caligula and stepfather of Nero, this Roman emperor was poisoned by his wife, Nero's mother",
+        "answer": "Claudius",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD CAPITALS",
+        "value": 500,
+        "question": "Construction of this planned Asian capital began in 1912; the government was moved there in 1931",
+        "answer": "New Delhi, India",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "APOLLO 11",
+        "value": 500,
+        "question": "While the lunar lander was code-named \"Eagle\", the command module was code-named this",
+        "answer": "Columbia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STORYTELLERS",
+        "value": 500,
+        "question": "He wrote two collections of modern fables, several fairytales, and \"My World and Welcome to It\"",
+        "answer": "James Thurber",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "MR. MOVIES",
+        "value": 500,
+        "question": "\"Mr. Pennypacker\", \"Mr. Scoutmaster\", and \"Mr. Belvedere\" are some of his title characters",
+        "answer": "Clifton Webb",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "MEATS",
+        "value": 500,
+        "question": "Used to cure many meats including bacon, it's the creosote & formaldehyde in this that help preserve things",
+        "answer": "smoke",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ANCIENT VIPs",
+        "value": 500,
+        "question": "In the 6th century B.C., he conquered Babylon and made Persia the greatest empire in the world",
+        "answer": "Cyrus the Great",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PHYSICS",
+      "PRESIDENTS",
+      "STARTS WITH \"P\"",
+      "POETIC TERMS",
+      "NEPAL",
+      "GREAT DAMES"
+    ],
+    "clues": [
+      {
+        "category": "PHYSICS",
+        "value": 200,
+        "question": "A shotgun's powerful recoil is an example of his third law of motion",
+        "answer": "Isaac Newton",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 200,
+        "question": "General whose Presidential campaign song was written by Irving Berlin",
+        "answer": "Dwight Eisenhower",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "STARTS WITH \"P\"",
+        "value": 200,
+        "question": "The word \"pram\" is short for this",
+        "answer": "perambulator",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "POETIC TERMS",
+        "value": 200,
+        "question": "The sonnet originated in this country with such poets as Guitoni D'Arretzo",
+        "answer": "Italy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NEPAL",
+        "value": 200,
+        "question": "It consists of two red triangles outlined in blue with white symbols of the sun and the moon",
+        "answer": "the flag of Nepal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GREAT DAMES",
+        "value": 200,
+        "question": "In 1952, she sprang her \"Mousetrap\"",
+        "answer": "Agatha Christie",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 400,
+        "question": "The term horsepower came about when James Watt compared work done by a horse to work done by this",
+        "answer": "steam engine",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 400,
+        "question": "All elected Presidents who are members of this party died in office",
+        "answer": "Whig",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "STARTS WITH \"P\"",
+        "value": 800,
+        "question": "Movie that featured the following music:",
+        "answer": "Picnic",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POETIC TERMS",
+        "value": 400,
+        "question": "These funny five-line verses often end with the name of a place; or, a place in Ireland",
+        "answer": "Limerick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NEPAL",
+        "value": 400,
+        "question": "At Lumbini, you can visit the birthplace of this \"Enlightened One\"",
+        "answer": "Buddha",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GREAT DAMES",
+        "value": 400,
+        "question": "She played \"Hamlet\" at the age of 73 and a Vulcan high priestess in \"Star Trek III\"",
+        "answer": "Dame Judith Anderson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 600,
+        "question": "If it were not for the retarding influence of this, raindrops would attain bullet-like speeds",
+        "answer": "the atmosphere",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 600,
+        "question": "This Iowan was the first President born west of the Mississippi",
+        "answer": "Herbert Hoover",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "STARTS WITH \"P\"",
+        "value": 600,
+        "question": "This extinct early man is known from fossils found at Chukutien",
+        "answer": "Peking Man",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POETIC TERMS",
+        "value": 600,
+        "question": "A deliberate violation of the rules of rhyming or grammar, not a little piece of paper from the DMV",
+        "answer": "poetic license",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NEPAL",
+        "value": 600,
+        "question": "This Sherpa who went to the top of the world with Edmund Hillary died in 1986 at the age of 72",
+        "answer": "Tenzing Norgay",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GREAT DAMES",
+        "value": 600,
+        "question": "She helped her husband survive an attempted assassination & was Nureyev's partner for over fifteen years",
+        "answer": "Dame Margot Fonteyn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 800,
+        "question": "Pulling the cloth off a table without disturbing the dishes is the principle of this",
+        "answer": "inertia",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 1600,
+        "question": "The last President to sport a moustache or beard while in office",
+        "answer": "William Howard Taft",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "STARTS WITH \"P\"",
+        "value": 800,
+        "question": "As being of great price purchased with all she had, Hester Prynne named her child this",
+        "answer": "Pearl",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POETIC TERMS",
+        "value": 800,
+        "question": "16th century poet who perfected in \"The Faerie Queene\" the stanza named for him",
+        "answer": "Edmund Spenser",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NEPAL",
+        "value": 800,
+        "question": "\"Wooden temple\", the meaning of this city's name, refers to the 400-year old one in its central square",
+        "answer": "Kathmandu",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GREAT DAMES",
+        "value": 800,
+        "question": "She starred as Cleopatra and Olivier's Juliet, long before booking \"A Passage to India\"",
+        "answer": "Dame Peggy Ashcroft",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PHYSICS",
+        "value": 1000,
+        "question": "Term for the speed of a body in a specified direction",
+        "answer": "velocity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 1000,
+        "question": "The \"54º40' or Fight\" fever over Oregon helped elect this president, the only one ever to be speaker of the U.S. House",
+        "answer": "James K. Polk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "STARTS WITH \"P\"",
+        "value": 1000,
+        "question": "The small cogwheel that engages a larger cogwheel",
+        "answer": "pinion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "POETIC TERMS",
+        "value": 1000,
+        "question": "It's an echoic term for words like \"hiss\" that imitate an actual sound",
+        "answer": "onomatopoeia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NEPAL",
+        "value": 1000,
+        "question": "Told to jump from 600 feet, these tough Nepalese soldiers, not knowing they'd get chutes, said 300 feet was easier",
+        "answer": "Gurkhas",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GREAT DAMES",
+        "value": 1000,
+        "question": "This Maori diva from New Zealand sang with Nelson Riddle and at Prince Charles's wedding",
+        "answer": "Kiri Te Kanawa",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE BIBLE",
+    "clue": "The first verse of this book says, \"There was a man in the land of Uz that feared God and eschewed evil\"",
+    "answer": "Job"
+  },
+  "gameId": "732",
+  "gameDate": "Tuesday, November 10, 1987"
+}

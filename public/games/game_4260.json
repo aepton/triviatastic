@@ -1,0 +1,574 @@
+{
+  "title": "Show #337 - Tuesday, December 24, 1985",
+  "jeopardyRound": {
+    "categories": [
+      "CARTOONS",
+      "EXPLORERS",
+      "TRIPLE TALK",
+      "THE THEATRE",
+      "THE BEATLES",
+      "LAWS & RULES"
+    ],
+    "clues": [
+      {
+        "category": "CARTOONS",
+        "value": 100,
+        "question": "He was the original voice of Mickey Mouse",
+        "answer": "Walt Disney",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 100,
+        "question": "Eric the Red lied, calling his discovery this to attract settlers",
+        "answer": "Greenland",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TRIPLE TALK",
+        "value": 100,
+        "question": "Comes between \"In the valley of the Jolly\" & \"Green Giant\"",
+        "answer": "ho, ho, ho",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "THE THEATRE",
+        "value": 100,
+        "question": "He had Tallulah Bankhead in mind when he wrote the part of Blanche DuBois",
+        "answer": "Tennessee Williams",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 100,
+        "question": "Their 1st movie",
+        "answer": "A Hard Day's Night",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LAWS & RULES",
+        "value": 100,
+        "question": "He systematized the rules for whist, then backgammon, then chess...",
+        "answer": "Hoyle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CARTOONS",
+        "value": 200,
+        "question": "Tweetie Pie \"t'awt\" he \"taw\" this \"puddy tat\"",
+        "answer": "Sylvester",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 400,
+        "question": "He took this famous picture of Buzz Aldrin standing on the Moon:",
+        "answer": "Neil Armstrong",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TRIPLE TALK",
+        "value": 200,
+        "question": "You do it to your boat, gently down the stream",
+        "answer": "row, row, row",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE THEATRE",
+        "value": 200,
+        "question": "1961's \"Come Blow Your Horn\" was this playwright's 1st Broadway hit",
+        "answer": "Neil Simon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 200,
+        "question": "\"It was 20 years ago today\" that this person \"taught the band to play\"",
+        "answer": "Sgt. Pepper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "LAWS & RULES",
+        "value": 200,
+        "question": "Under the laws of physics, when raised to 100° C. at sea level, water will do this",
+        "answer": "boil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CARTOONS",
+        "value": 300,
+        "question": "In \"Mouse Musketeers\" this cat & mouse speak with French accents",
+        "answer": "Tom & Jerry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 300,
+        "question": "Let go by English Muscovy Co., Dutch East India Co. hired him to captain the \"Half Moon\"",
+        "answer": "Henry Hudson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TRIPLE TALK",
+        "value": 300,
+        "question": "In \"The King and I\", Yul Brynner's famous line that fits the category",
+        "answer": "et cetera, et cetera, et cetera",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE THEATRE",
+        "value": 300,
+        "question": "Biblical character whom Archibald MacLeish called J.B.",
+        "answer": "Job",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 300,
+        "question": "Popular name for their double album titled \"The Beatles\"",
+        "answer": "The White Album",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "LAWS & RULES",
+        "value": 300,
+        "question": "His detective Holmes scrupulously followed the rules of deductive reasoning",
+        "answer": "Arthur Conan Doyle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CARTOONS",
+        "value": 400,
+        "question": "\"Dad\" to Alvin, Simon, & Theodore",
+        "answer": "Dave Seville",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 400,
+        "question": "Later renamed this, Bartolomeu Dias called it \"Cape of Storms\"",
+        "answer": "Cape of Good Hope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TRIPLE TALK",
+        "value": 400,
+        "question": "According to The Teddy Bears' 1958 hit \"To know, know, know him is\" this",
+        "answer": "To love, love, love him",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE THEATRE",
+        "value": 400,
+        "question": "Where children play, or an Edward Albee play",
+        "answer": "The Sandbox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 400,
+        "question": "1969 album recorded after \"Let It Be\" but released before it",
+        "answer": "Abbey Road",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "LAWS & RULES",
+        "value": 400,
+        "question": "According to the rules of fencing, this sword's target area is only the torso",
+        "answer": "foil",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CARTOONS",
+        "value": 500,
+        "question": "Kids would draw on plastic sheet over TV screen to help this '50s animated hero",
+        "answer": "Winky Dink",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EXPLORERS",
+        "value": 500,
+        "question": "Lincoln Ellsworth explored this region by airplane, dirigible, & submarine",
+        "answer": "arctic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TRIPLE TALK",
+        "value": 500,
+        "question": "While the trolley went \"clang, clang, clang\" my heartstrings went this",
+        "answer": "zing, zing, zing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE THEATRE",
+        "value": 500,
+        "question": "What an audience should \"willingly suspend\"",
+        "answer": "disbelief",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE BEATLES",
+        "value": 500,
+        "question": "Beatle whose 1968 movie soundtrack, \"Wonderwall Music\" was 1st album released by Apple Records",
+        "answer": "George Harrison",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "LAWS & RULES",
+        "value": 500,
+        "question": "Under Jewish law, he is the person who performs the circumcision ritual",
+        "answer": "mohel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MOVIE TRIVIA",
+      "FRUITS",
+      "NUCLEAR PHYSICS",
+      "NEBRASKA",
+      "THE BIBLE",
+      "ON A \"WIM\""
+    ],
+    "clues": [
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 200,
+        "question": "Disc jockey heard on the radio in \"American Graffiti\"",
+        "answer": "Wolfman Jack",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FRUITS",
+        "value": 200,
+        "question": "Its sweet varieties are the common, the blood, & the navel",
+        "answer": "oranges",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 200,
+        "question": "The deuterium to fuel fusion reactors is found in this water covering ¾ of earth's surface",
+        "answer": "seawater",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NEBRASKA",
+        "value": 200,
+        "question": "It was state capital before Lincoln",
+        "answer": "Omaha",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 200,
+        "question": "\"Ask & it shall be given you; seek\", & this will happen",
+        "answer": "ye shall find",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ON A \"WIM\"",
+        "value": 200,
+        "question": "Site of the All-England Lawn Tennis Club",
+        "answer": "Wimbledon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 400,
+        "question": "Film famous for the line \"You ain't heard nothin' yet, folks\"",
+        "answer": "The Jazz Singer",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FRUITS",
+        "value": 400,
+        "question": "According to legend, this tree's leaves clothed Adam & Eve after they ate their fateful fruit",
+        "answer": "fig",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 400,
+        "question": "The ancient Greek Democritus gave us this word meaning \"something that can't be cut\"",
+        "answer": "atom",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NEBRASKA",
+        "value": 400,
+        "question": "Nebraska is the only state in which legislators are chosen on this apolitical basis",
+        "answer": "non-partisan election",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 400,
+        "question": "What the Christ child was wrapped in before being laid in the manger",
+        "answer": "swaddling clothes",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ON A \"WIM\"",
+        "value": 400,
+        "question": "He says, \"I would gladly pay you Tuesday for a hamburger today\"",
+        "answer": "Wimpy (J. Wellington Wimpy)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 600,
+        "question": "Blonde & beautiful Elsa, who weighed 400 lbs., was this",
+        "answer": "lioness",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FRUITS",
+        "value": 600,
+        "question": "Continent which grows over 75% of the world's grapes",
+        "answer": "Europe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 600,
+        "question": "Antiprotons, antineutrons, & positrons combine to form this negative substance",
+        "answer": "antimatter",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NEBRASKA",
+        "value": 600,
+        "question": "A Pulitzer Prize was won for reports on how poorly this charitable home handled its huge endowment",
+        "answer": "Boys Town",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 600,
+        "question": "While Moses was away, the Hebrews played at worshipping this idol",
+        "answer": "golden calf",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ON A \"WIM\"",
+        "value": 600,
+        "question": "Formerly a fashion item, it's still worn today by nuns as a head covering",
+        "answer": "wimple",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 1600,
+        "question": "The two masked heroes Clayton Moore played on the screen",
+        "answer": "The Lone Ranger & Zorro",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FRUITS",
+        "value": 800,
+        "question": "After Louis XIV cut his lips on this unpeeled Caribbean fruit, he forbade French cultivation",
+        "answer": "pineapple",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 800,
+        "question": "To show the paths of charged particles, they're sent through this fog-filled enclosure",
+        "answer": "cloud chamber",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NEBRASKA",
+        "value": 800,
+        "question": "In 1867, Congress overrode this President's veto to make Nebraska our 37th state",
+        "answer": "Johnson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 800,
+        "question": "The book of Genesis refers to the promised land by this ancient name",
+        "answer": "Canaan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ON A \"WIM\"",
+        "value": 800,
+        "question": "Ian Carmichael portrayed this aristocratic detective created by Dorothy L. Sayers",
+        "answer": "Wimsey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 1000,
+        "question": "President portrayed by Brian Keith in \"The Wind and the Lion\"",
+        "answer": "Teddy Roosevelt",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FRUITS",
+        "value": 2000,
+        "question": "Two fruits that combine to breed tangelos",
+        "answer": "tangerine and grapefruit",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "NUCLEAR PHYSICS",
+        "value": 1000,
+        "question": "Mousetraps loaded with ping-pong balls show this effect in Disney's \"Our Friend the Atom\"",
+        "answer": "chain reaction",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NEBRASKA",
+        "value": 1000,
+        "question": "Golden-voiced editor of the \"Omaha World-Herald\" who ran for President 3 times",
+        "answer": "William Jennings Bryan",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "THE BIBLE",
+        "value": 1000,
+        "question": "When giving alms, you shouldn't let your left hand know this",
+        "answer": "what the right hand is doing",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "ON A \"WIM\"",
+        "value": 1000,
+        "question": "Where Robert Browning went to visit his fiancee at home, sometimes on a whim",
+        "answer": "Wimpole Street (Barretts of)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "SPORTS",
+    "clue": "1 of 2 sports which, in order to avoid injuries, ban left-handed playing",
+    "answer": "(1 of) jai alai or polo"
+  },
+  "gameId": "337",
+  "gameDate": "Tuesday, December 24, 1985"
+}

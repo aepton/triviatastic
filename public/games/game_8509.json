@@ -1,0 +1,511 @@
+{
+  "title": "Show #751 - Monday, December 7, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "TAX FACTS",
+      "BRITISH LITERATURE",
+      "\"IF\"FY SONGS",
+      "WHAT'S IN A NAME?",
+      "POTENT POTABLES",
+      "POTPOURRI"
+    ],
+    "clues": [
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 100,
+        "question": "When Rebecca, a nice Jewish girl, was accused of witchcraft, this Sir Walter Scott hero championed her",
+        "answer": "Ivanhoe",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "\"IF\"FY SONGS",
+        "value": 100,
+        "question": "Called the most appealing of The Beatles early love songs, it asked, \"Would you promise to be true?\"",
+        "answer": "\"If I Fell In Love With You\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WHAT'S IN A NAME?",
+        "value": 100,
+        "question": "His name means \"chief strong arm\", but he made \"1 giant leap for mankind\"",
+        "answer": "(Neil) Armstrong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 100,
+        "question": "Recipes for a Highland Fling designate this type of liquor",
+        "answer": "Scotch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 100,
+        "question": "Much like our \"G.I. Joe\", \"Tommy Atkins\" represents the typical soldier of this country",
+        "answer": "England",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 200,
+        "question": "James Hilton tale in which the high lama reveals himself to be 250-yr.-old founder of Shangri-La",
+        "answer": "Lost Horizon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "\"IF\"FY SONGS",
+        "value": 200,
+        "question": "Song in which Eddie Cantor exclaimed, \"Oh! Oh! Oh! What a girl\"",
+        "answer": "\"If You Knew Susie\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WHAT'S IN A NAME?",
+        "value": 200,
+        "question": "Tho this Russian's last name is derived from \"hunchback\", he doesn't have one, just a red spot on his head",
+        "answer": "(Mikhail) Gorbachev",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 200,
+        "question": "Among this company's brands are Four Roses, 7 Crown, & V.O.",
+        "answer": "Seagrams",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 200,
+        "question": "A. & S. Batt have set up a 24 hr. emergency hot line to save alligators living in this part of Manhattan",
+        "answer": "the sewers",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 300,
+        "question": "Daughter of dustman Alfred Doolittle",
+        "answer": "Eliza",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "\"IF\"FY SONGS",
+        "value": 600,
+        "question": "Condition under which you could hear this tale:\"In a castle dark or a fortress strong / With chains upon my feet / You know that ghost is me / And I will never be set free...\"",
+        "answer": "\"If You Could Read My Mind\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WHAT'S IN A NAME?",
+        "value": 300,
+        "question": "Norwegian for \"bear from the castle\", this Swede was a bar on the tennis courts",
+        "answer": "Björn Borg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 300,
+        "question": "Grabbing the bottle which holds 26.6 ounces, or protecting yourself from self-incrimination",
+        "answer": "taking the fifth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 300,
+        "question": "Highest personal fine ever, $50 million was levied in 1986 against this Wall Street \"insider\"",
+        "answer": "(Ivan) Boesky",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 400,
+        "question": "Among his title characters was Kimball O'Hara, a 13-year-old orphan in Lahore, India",
+        "answer": "(Rudyard) Kipling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "\"IF\"FY SONGS",
+        "value": 400,
+        "question": "Circumstances under which \"ev'ry man would be as free as a bird, ev'ry voice would be a voice to be heard\"",
+        "answer": "\"If I Ruled The World\"",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WHAT'S IN A NAME?",
+        "value": 400,
+        "question": "As \"God's gracious gift, this Dixon has the gift of prediction, or so says the \"Enquirer\"",
+        "answer": "Jeane Dixon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 400,
+        "question": "In separate TV ads, he tells kids to say no to alcohol & sings \"Tonight\" for Michelob",
+        "answer": "Phil Collins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 400,
+        "question": "He was last seen July 30,1975, in a Detroit area restaurant",
+        "answer": "Jimmy Hoffa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BRITISH LITERATURE",
+        "value": 500,
+        "question": "Book in which Joe Gargery reflects, \"On the rampage, Pip, & off the rampage, Pip; such is life!\"",
+        "answer": "Great Expectations",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "\"IF\"FY SONGS",
+        "value": 500,
+        "question": "Yvonne Elliman sang, \"Am I strong enough to see it thru? Go crazy is what I'll do\" if this happens",
+        "answer": "\"If I Can't Have You\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "WHAT'S IN A NAME?",
+        "value": 500,
+        "question": "The name of this actress means \"strong harp player\", not \"Mary's crazy neighbor\"",
+        "answer": "Valerie Harper",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 500,
+        "question": "To make a traditional daiquiri you need this kind of liquor",
+        "answer": "rum",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "POTPOURRI",
+        "value": 500,
+        "question": "Original painting of G. Washington doing this was destroyed in a WWII allied raid on Bremen, Germany",
+        "answer": "crossing the Delaware",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT HISTORY",
+      "DIRECTIONAL GEOGRAPHY",
+      "WORD ORIGINS",
+      "SCIENCE",
+      "UNREAL ESTATE",
+      "HOME GAMES"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 200,
+        "question": "Not surprisingly, this Roman named his first child Julia",
+        "answer": "Julius Caesar",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DIRECTIONAL GEOGRAPHY",
+        "value": 200,
+        "question": "It's the southernmost country in Central America",
+        "answer": "Panama",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 200,
+        "question": "This ballpark feature may have gotten its name from its usual proximity to the Bull Durham tobacco sign",
+        "answer": "the bullpen",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 200,
+        "question": "While some predatory birds use these alone to kill prey, some use their beaks & these",
+        "answer": "their talons",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 200,
+        "question": "While the real Bali is in Indonesia, the fictional \"Bali Ha'i\" is in this musical",
+        "answer": "South Pacific",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HOME GAMES",
+        "value": 200,
+        "question": "1 question in this home game reads, \"Will your partner say whoopie does or doesn't make him sleepy?\"",
+        "answer": "The Newlywed Game",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 400,
+        "question": "Manetho chronicled 30 dynasties of rulers of this ancient land",
+        "answer": "Egypt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DIRECTIONAL GEOGRAPHY",
+        "value": 400,
+        "question": "This Hawaiian island is not only farthest south & east, but closest to the U.S. mainland",
+        "answer": "Hawaii",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "From Dutch for \"little man\", it's where clothes hang out in store windows",
+        "answer": "mannequin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 400,
+        "question": "On a cross section of a tree trunk, it's what  is furthest away from the heartwood",
+        "answer": "the bark",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 400,
+        "question": "Dilly Dally, Flub-a-Dub & Clarabell were all residents of this town",
+        "answer": "Doodyville",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HOME GAMES",
+        "value": 400,
+        "question": "While playing the board game of this ABC soap, you can be Erica Kane",
+        "answer": "All My Children",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 600,
+        "question": "At this ancient site in Iraq, the \"handwriting   on the walls\" is now mostly graffiti",
+        "answer": "Babylon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DIRECTIONAL GEOGRAPHY",
+        "value": 1200,
+        "question": "2 of the 3 Communist countries which form most of Greece's northern border",
+        "answer": "(2 of) Bulgaria, Yugoslavia or Albania",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 600,
+        "question": "It's said this term for a tramp came from migrant workers who carried farm implements with them",
+        "answer": "hobo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 600,
+        "question": "This element comprises 40% of simple carbohydrates, like glucose",
+        "answer": "carbon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 600,
+        "question": "According to Jan & Dean, the population of this \"City\" consisted of \"2 girls for every boy\"",
+        "answer": "Surf City",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HOME GAMES",
+        "value": 600,
+        "question": "The L.A. Herald Examiner cried, \"Heaven help our children, this \"Best Picture\" of '86 now has a home game",
+        "answer": "Platoon",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 800,
+        "question": "The Trojan War on which Homer based his epic took place in what is now this country",
+        "answer": "Turkey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 800,
+        "question": "In early days, factory workers were \"given\" back this bag in which they had brought their tools to work",
+        "answer": "given the sack",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 800,
+        "question": "This plant is no longer widely grown to produce blue dye since the dye can be made synthetically",
+        "answer": "indigo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 800,
+        "question": "Comic strip \"location\" where Skeezix was found on a door step, grew up & fathered children of his own",
+        "answer": "Gasoline Alley",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HOME GAMES",
+        "value": 800,
+        "question": "The object of the game based on this TV sitcom is to keep Skippy out of the Keaton family portrait",
+        "answer": "Family Ties",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT HISTORY",
+        "value": 1000,
+        "question": "Many systems of \"justice\" are based on the codification of Roman laws by this Eastern emperor",
+        "answer": "Justinian",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1000,
+        "question": "When Byzantine emperor Leo III destroyed church statues we got this word which means \"image breaker\" in Greek",
+        "answer": "iconoclast",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SCIENCE",
+        "value": 2000,
+        "question": "1 of 3 things that occur when an object accelerates towards the speed of light",
+        "answer": "(1 of) time slows down & mass increases & it gets smaller",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 1000,
+        "question": "Archie Bunker lived in the real Corona District of Queens, N.Y., on this unreal street",
+        "answer": "Hauser Street",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HOME GAMES",
+        "value": 1000,
+        "question": "1st based on a board game, this TV game show now has a home game based on itself",
+        "answer": "Scrabble",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "PRESIDENTS",
+    "clue": "This letter begins the last names of 3 20th century presidents, more than any other",
+    "answer": "R"
+  },
+  "gameId": "751",
+  "gameDate": "Monday, December 7, 1987"
+}

@@ -1,0 +1,502 @@
+{
+  "title": "Show #151 - Monday, April 8, 1985",
+  "jeopardyRound": {
+    "categories": [
+      "FIRST LADIES",
+      "GARDENS",
+      "WEAPONS",
+      "BUTLERS",
+      "VIRGINIA",
+      "POP QUIZ"
+    ],
+    "clues": [
+      {
+        "category": "FIRST LADIES",
+        "value": 100,
+        "question": "Her marriage to a Mass. senator in '53 was Society's \"Wedding of the Year\"",
+        "answer": "Jacqueline Bouvier Kennedy (Onassis)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GARDENS",
+        "value": 100,
+        "question": "Not flowers but hotels & houses grow on this Monopoly board \"garden\"",
+        "answer": "Marvin Gardens",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS",
+        "value": 100,
+        "question": "Movie name given to the theory of weapons in space debated by Reagan & Mondale",
+        "answer": "Star Wars",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BUTLERS",
+        "value": 100,
+        "question": "6'9\" TV butler, he always entered the room with a deep \"You rang?\"",
+        "answer": "Lurch",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "VIRGINIA",
+        "value": 100,
+        "question": "You go there to visit the Tomb of the Unknown Soldier",
+        "answer": "Arlington National Cemetery",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 100,
+        "question": "In 1886, the 1st batch of this \"Real Thing\" was concocted in Atlanta",
+        "answer": "Coca-Cola",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 200,
+        "question": "He was introduced to his future first lady, Dolley Todd, by Aaron Burr",
+        "answer": "James Madison",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GARDENS",
+        "value": 200,
+        "question": "Robert Louis Stevenson's masterpiece of children's literature",
+        "answer": "A Child's Garden of Verse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS",
+        "value": 200,
+        "question": "A bubble gum or a rocket launcher",
+        "answer": "a bazooka",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BUTLERS",
+        "value": 200,
+        "question": "William Powell & David Niven both played this bum-to-butler role",
+        "answer": "My Man Godfrey",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "VIRGINIA",
+        "value": 200,
+        "question": "Now a restored tourist   attraction, this city became Colonial Virginia's capital in 1699",
+        "answer": "Williamsburg",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 200,
+        "question": "Reynolds created the 1st one for pop in 1963",
+        "answer": "the aluminum can",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 300,
+        "question": "From 1945 to 1951, Eleanor Roosevelt was a delegate to this U.N. body",
+        "answer": "the General Assembly",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GARDENS",
+        "value": 300,
+        "question": "'72 hit that summed up Rick Nelson's feelings about being considered only a rock 'n' roller",
+        "answer": "\"Garden Party\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WEAPONS",
+        "value": 300,
+        "question": "Said to have been created in Bayonne, France in 1641, soldiers have been stuck with it ever since",
+        "answer": "the bayonet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BUTLERS",
+        "value": 300,
+        "question": "He received '81 Oscar for playing \"Arthur's\" butler",
+        "answer": "John Gielgud",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "VIRGINIA",
+        "value": 600,
+        "question": "It's 1 of America's best-loved square dances",
+        "answer": "the Virginia reel",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 300,
+        "question": "This sweetener has all but replaced saccharin in sodas",
+        "answer": "NutraSweet (or aspartame)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 400,
+        "question": "Since she was raised in Kentucky, many accused her of disloyalty to the Union cause",
+        "answer": "Mary Todd Lincoln",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 400,
+        "question": "Instrument of death used in the cult \"Texas... Massacre\" film",
+        "answer": "chainsaw",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BUTLERS",
+        "value": 400,
+        "question": "The valet given to Bertie Wooster by P.G. Wodehouse",
+        "answer": "Jeeves",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "VIRGINIA",
+        "value": 400,
+        "question": "Virginia Senator Harry F. Byrd's brother was this polar explorer",
+        "answer": "Admiral Byrd",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "POP QUIZ",
+        "value": 400,
+        "question": "Suggested drinking times of this soda were 10, 2 & 4",
+        "answer": "Dr Pepper",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FIRST LADIES",
+        "value": 500,
+        "question": "She was an extra in 1936's \"Becky Sharp\" & \"Small Town Girl\"",
+        "answer": "Pat Nixon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 500,
+        "question": "The city of Damascus was noted for making this curved sword",
+        "answer": "the scimitar",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "VIRGINIA",
+        "value": 500,
+        "question": "In 1862, \"Stonewall\" Jackson fought his way through this beautiful Virginia valley",
+        "answer": "Shenandoah (Valley)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ANCIENT LEGENDS",
+      "INVENTIONS",
+      "ANIMALS",
+      "ART",
+      "NUMBER PLEASE",
+      "BRITISH HISTORY"
+    ],
+    "clues": [
+      {
+        "category": "ANCIENT LEGENDS",
+        "value": 200,
+        "question": "King of Phrygia who received the golden touch from Bacchus",
+        "answer": "Midas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 200,
+        "question": "Cyrus McCormick invention that made farmers' lives less \"grim\"",
+        "answer": "a reaper",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "One of the longest dams in existence, over 2,200 feet long, was built by these",
+        "answer": "beavers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "Cliche about paintings that ends \"but I know what I like\"",
+        "answer": "\"I don't know (anything about) art\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 200,
+        "question": "Number of equal sides in an isosceles triangle",
+        "answer": "2",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 200,
+        "question": "The only British Prime Minister to win the Nobel Prize for Literature",
+        "answer": "Winston Churchill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT LEGENDS",
+        "value": 400,
+        "question": "Daedalus & Icarus escaped from prison this way",
+        "answer": "by flying",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 400,
+        "question": "Type of camera invented by Edwin Land",
+        "answer": "the Polaroid (instant camera)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "\"Soup can\" artist who did drawings for \"Amy Vanderbilt's Etiquette\"",
+        "answer": "Andy Warhol",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 400,
+        "question": "Total \"swans a-swimming\" in the familiar Christmas carol",
+        "answer": "seven",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 400,
+        "question": "Ritualistic sport in which knights with blunted lances attempted to unhorse each other",
+        "answer": "jousting",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT LEGENDS",
+        "value": 600,
+        "question": "As Venus was to the Romans, she was to the Greeks",
+        "answer": "Aphrodite",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 600,
+        "question": "Russian-American Vladimir Zworykin invented the iconoscope & kinescope, both used in this",
+        "answer": "television",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 600,
+        "question": "Duchamp's descended a staircase",
+        "answer": "nude",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 600,
+        "question": "In track & field, it's known as a metric mile",
+        "answer": "the 1500-meter race",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 1200,
+        "question": "On Aug. 24, 1814, the British invaded this country's capital",
+        "answer": "the United States",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT LEGENDS",
+        "value": 800,
+        "question": "The principal river of the nether world",
+        "answer": "the river Styx",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 800,
+        "question": "Elias Howe won the sewing machine patent rights in a dispute with him",
+        "answer": "Singer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "A picture or pattern made by inlaying pieces of colored material",
+        "answer": "a mosaic",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 800,
+        "question": "The number of hats of Bartholomew Cubbins",
+        "answer": "500",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 800,
+        "question": "Henry VIII outlawed the payment of \"Peter's pence\" to him",
+        "answer": "the Pope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANCIENT LEGENDS",
+        "value": 1000,
+        "question": "Shaw named a play for this woman-hating sculptor who came to love the statue he created",
+        "answer": "Pygmalion",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "INVENTIONS",
+        "value": 1000,
+        "question": "Except for patents on design only, they expire after this much time",
+        "answer": "17 years",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "This American city's Art Institute is home to \"American Gothic\" by Grant Wood",
+        "answer": "Chicago",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 2000,
+        "question": "187 mL. of champagne",
+        "answer": "split",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 1000,
+        "question": "Government official & diarist who gave us 1st-hand account of London's Great Fire",
+        "answer": "(Samuel) Pepys",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE CALENDAR",
+    "clue": "In 1984, the Cotton, Fiesta, Orange, Rose & Sugar Bowls were all played on this date",
+    "answer": "January 2"
+  },
+  "gameId": "151",
+  "gameDate": "Monday, April 8, 1985"
+}

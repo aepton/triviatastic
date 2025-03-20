@@ -1,0 +1,475 @@
+{
+  "title": "Show #40 - Friday, November 2, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "AUTHORS",
+      "BABY CARE",
+      "UNREAL ESTATE",
+      "CELEBRITY TRIVIA",
+      "GERMANY",
+      "\"MY, MY\""
+    ],
+    "clues": [
+      {
+        "category": "AUTHORS",
+        "value": 100,
+        "question": "President who won a Pulitzer for \"Profiles in Courage\"",
+        "answer": "JFK",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BABY CARE",
+        "value": 100,
+        "question": "It's not unusual for infants to do it 20 hours a day",
+        "answer": "sleep",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 100,
+        "question": "\"2nd to the right & then straight on til morning\" it's Peter Pan's pad",
+        "answer": "never-never land",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY TRIVIA",
+        "value": 100,
+        "question": "While he was top in his class & later pres., his brother, Billy, was a high school drop-out",
+        "answer": "Jimmy Carter",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"MY, MY\"",
+        "value": 100,
+        "question": "1960's TV show, what Tim O'Hara called his uncle Martin",
+        "answer": "My Favorite Martian",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 200,
+        "question": "\"Gone with the Wind\" was the only book she ever wrote",
+        "answer": "Margaret Mitchell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 200,
+        "question": "Paradise where High Lama lived in James Hilton's \"Lost Horizon\"",
+        "answer": "Shangri-La",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY TRIVIA",
+        "value": 200,
+        "question": "ABC interviewer, in '71 article she described Richard Nixon as \"rather sexy\"",
+        "answer": "Barbara Walters",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "GERMANY",
+        "value": 200,
+        "question": "It's what a woman does with her dirndl",
+        "answer": "put on (she wears it)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"MY, MY\"",
+        "value": 200,
+        "question": "What Mae West was to W.C. Fields",
+        "answer": "My Little Chickadee",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 300,
+        "question": "13 books of the New Testament are attributed to him",
+        "answer": "St. Paul",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 300,
+        "question": "'50s \"Naughty Lady\" cruised this street",
+        "answer": "Shady Lane",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY TRIVIA",
+        "value": 300,
+        "question": "Actor originally turned down by American-Negro Theater because of thick West Indian accent",
+        "answer": "Sidney Poitier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "GERMANY",
+        "value": 300,
+        "question": "He appointed Hitler Chancellor & had a Zeppelin named after him",
+        "answer": "Hindenburg",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"MY, MY\"",
+        "value": 600,
+        "question": "Frankie Valli's look but don't touch hit:\"Carried your books from school / Playin' make believe you're married to me...\"",
+        "answer": "\"My Eyes Adored You\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 400,
+        "question": "Gave up NY dental practice to write 54 novels, mostly about the West",
+        "answer": "Zane Grey",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "UNREAL ESTATE",
+        "value": 400,
+        "question": "Played the aging movie queen who lived at 10086 Sunset Boulevard",
+        "answer": "Gloria Swanson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CELEBRITY TRIVIA",
+        "value": 400,
+        "question": "Welsh poet who sold 1st poem at age 12 which he had plagiarized from a newspaper",
+        "answer": "Dylan Thomas",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "GERMANY",
+        "value": 400,
+        "question": "Neither E. nor W. Germany joined this international organization until 1973",
+        "answer": "the United Nations",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"MY, MY\"",
+        "value": 400,
+        "question": "Gale Storm",
+        "answer": "My Little Margie",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AUTHORS",
+        "value": 500,
+        "question": "A founder of the American Civil Liberties Union, better known for \"The Jungle\"",
+        "answer": "Upton Sinclair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CELEBRITY TRIVIA",
+        "value": 500,
+        "question": "A Univ. of Calif. engineering degree prepared this cartoonist for his way-out inventions",
+        "answer": "Rube Goldberg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "GERMANY",
+        "value": 500,
+        "question": "German philosopher who created concept of \"Superman\" & said \"God is dead\"",
+        "answer": "Nietzsche",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"MY, MY\"",
+        "value": 500,
+        "question": "In Ireland, \"the sweetest flow'r that grows\"",
+        "answer": "\"My Wild Irish Rose\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "EXPLORERS",
+      "WORD ORIGINS",
+      "BIOLOGY",
+      "ROCK OF THE 80'S",
+      "\"I\" LANDS",
+      "PARTNERS"
+    ],
+    "clues": [
+      {
+        "category": "EXPLORERS",
+        "value": 200,
+        "question": "Marco Polo's transportation from Palestine, to Kublai Khan's palace",
+        "answer": "a camel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 200,
+        "question": "Greek philosopher Anaximander believed humans evolved from these aquatic creatures",
+        "answer": "fish",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ROCK OF THE 80'S",
+        "value": 200,
+        "question": "4 years after his death, this ex-Beatle had a hit with \"I'm Stepping Out\"",
+        "answer": "John Lennon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"I\" LANDS",
+        "value": 200,
+        "question": "Land of the Ganges & Gandhis",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "PARTNERS",
+        "value": 200,
+        "question": "Oscar-winning comics known abroad as \"Flip & Flop\" or \"Fat & Skinny\"",
+        "answer": "Laurel & Hardy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "From \"G.P.\" for general purpose army vehicle",
+        "answer": "a Jeep",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 400,
+        "question": "19th century French scientist who proved bacteria caused disease",
+        "answer": "Pasteur",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ROCK OF THE 80'S",
+        "value": 400,
+        "question": "Though now he's \"Dancing in the Dark\", in the '70s he was \"Born to Run\"",
+        "answer": "Bruce Springsteen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"I\" LANDS",
+        "value": 400,
+        "question": "In its official language, French, its name is \"Republique de la Cote d'Ivoire\"",
+        "answer": "the Ivory Coast",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "PARTNERS",
+        "value": 400,
+        "question": "Washington Post pair who spilled Watergate scandal",
+        "answer": "Woodward & Bernstein",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 600,
+        "question": "In 1940, H.L. Mencken invented word \"ecdysiast\" meaning this",
+        "answer": "a stripper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 600,
+        "question": "Biggest difference between a plant & a rock",
+        "answer": "a plant is alive",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ROCK OF THE 80'S",
+        "value": 600,
+        "question": "According to Huey Lewis, it's still beating",
+        "answer": "\"The Heart Of Rock & Roll\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "\"I\" LANDS",
+        "value": 600,
+        "question": "Despite its name, glaciers cover only 1/8 of its area",
+        "answer": "Iceland",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "PARTNERS",
+        "value": 600,
+        "question": "'61 Yankees' Slugging \"M & M\" duo",
+        "answer": "Mantle & Maris",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1600,
+        "question": "Teddy Roosevelt term for someone charging others with corruption",
+        "answer": "muckraker",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 800,
+        "question": "Study of relationships of living things to each other & their environment",
+        "answer": "ecology",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ROCK OF THE 80'S",
+        "value": 800,
+        "question": "They \"blinded him with science\"",
+        "answer": "Thomas Dolby",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "\"I\" LANDS",
+        "value": 800,
+        "question": "Its capital is Baghdad",
+        "answer": "Iraq",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "PARTNERS",
+        "value": 800,
+        "question": "Superhero stars of own individual comics who are currently in \"World's Finest Comics\"",
+        "answer": "Batman & Superman",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 1000,
+        "question": "Adjective for independent contractor, originally a mercenary soldier with his own spear",
+        "answer": "freelance",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1000,
+        "question": "Building blocks of proteins",
+        "answer": "amino acids",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ROCK OF THE 80'S",
+        "value": 1000,
+        "question": "These superstars are together in a \"State of Shock\"",
+        "answer": "Michael Jackson & Mick Jagger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "\"I\" LANDS",
+        "value": 1000,
+        "question": "In 1947, its independence was settled over 5000 miles from its shores",
+        "answer": "Israel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "PARTNERS",
+        "value": 2000,
+        "question": "The '64 Republican presidential ticket",
+        "answer": "Goldwater & Miller",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "NUMBER, PLEASE",
+    "clue": "Number of most recent year that reads the same when turned up-side down",
+    "answer": "1961"
+  },
+  "gameId": "40",
+  "gameDate": "Friday, November 2, 1984"
+}

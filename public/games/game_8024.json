@@ -1,0 +1,538 @@
+{
+  "title": "Show #183 - Wednesday, May 22, 1985",
+  "jeopardyRound": {
+    "categories": [
+      "PRESIDENTIAL FIRSTS",
+      "BABY CARE",
+      "NICKNAMES",
+      "TEXAS",
+      "FICTIONAL ANIMALS",
+      "\"NOSE\"s"
+    ],
+    "clues": [
+      {
+        "category": "PRESIDENTIAL FIRSTS",
+        "value": 100,
+        "question": "First president to address congress in a radio broadcast, though we remember him as \"silent\"",
+        "answer": "Coolidge",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BABY CARE",
+        "value": 100,
+        "question": "For kids like Linus, it provides social \"security\"",
+        "answer": "his blanket",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 100,
+        "question": "The Leathernecks",
+        "answer": "the Marines",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "TEXAS",
+        "value": 100,
+        "question": "Where in Texas \"The stars at night are big & bright (clap, clap, clap, clap)...\"",
+        "answer": "\"Deep In The Heart Of Texas\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "FICTIONAL ANIMALS",
+        "value": 100,
+        "question": "Mr. Moose, Bunny Rabbit & Dancing Bear all visited his TV Treasure House",
+        "answer": "Captain Kangaroo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "\"NOSE\"s",
+        "value": 100,
+        "question": "A photo finish generally means this is how the horserace was won",
+        "answer": "by a nose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL FIRSTS",
+        "value": 200,
+        "question": "First president to serve more than 8 years",
+        "answer": "Franklin Delano Roosevelt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "BABY CARE",
+        "value": 200,
+        "question": "By law, paint on new baby cribs must be free of this element",
+        "answer": "lead",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 200,
+        "question": "Since 11 of her 12 husbands met untimely deaths, Martha Jane Canary earned this \"disastrous\" nickname",
+        "answer": "Calamity Jane",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TEXAS",
+        "value": 200,
+        "question": "This city is largest in Texas & 5th largest in the U.S.",
+        "answer": "Houston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "FICTIONAL ANIMALS",
+        "value": 200,
+        "question": "Appropriate Sonny & Cher song Paul Bunyan might have sung to his ox",
+        "answer": "\"I Got You Babe\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "\"NOSE\"s",
+        "value": 200,
+        "question": "How some pay for expensive rhinoplasty",
+        "answer": "they pay through the nose",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL FIRSTS",
+        "value": 300,
+        "question": "The first Republican to win the presidency",
+        "answer": "Abraham Lincoln",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "BABY CARE",
+        "value": 300,
+        "question": "With diphtheria & pertussis, the \"T\" in DPT",
+        "answer": "tetanus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "NICKNAMES",
+        "value": 600,
+        "question": "Before \"nipping it\" off in later life, Burt Reynolds & Marlon Brando shared this childhood nickname",
+        "answer": "Bud",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "TEXAS",
+        "value": 300,
+        "question": "You can get a $65,000 desk shaped like your favorite cow at this Texas-based dept. store",
+        "answer": "Neiman Marcus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "FICTIONAL ANIMALS",
+        "value": 300,
+        "question": "The 1st animal Alice saw in Wonderland",
+        "answer": "the White Rabbit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "\"NOSE\"s",
+        "value": 300,
+        "question": "It protects a spaceship from heat when re-entering the Earth's atmosphere",
+        "answer": "the nose cone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL FIRSTS",
+        "value": 400,
+        "question": "First president to visit Communist China",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "BABY CARE",
+        "value": 400,
+        "question": "Doctor Spock says that until he's old enough to put his lost teeth under it, he's better off without it",
+        "answer": "a pillow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TEXAS",
+        "value": 400,
+        "question": "In 1978, William P. Clements became the 1st Republican since 1869 to be elected this",
+        "answer": "governor",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "FICTIONAL ANIMALS",
+        "value": 400,
+        "question": "Famous animal Sears uses on its line of children's clothing",
+        "answer": "Winnie the Pooh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "\"NOSE\"s",
+        "value": 400,
+        "question": "Rest & ice & pressure relieve it; polyps or a fight could provoke it",
+        "answer": "a nose bleed",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTIAL FIRSTS",
+        "value": 500,
+        "question": "George Washington's practice of regularly consulting dept. heads gave rise to this concept",
+        "answer": "cabinet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "BABY CARE",
+        "value": 500,
+        "question": "Most experts agree that nursing mothers should drink at least this much milk a day",
+        "answer": "a quart",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TEXAS",
+        "value": 500,
+        "question": "As big as Rhode Island, this \"royal\" ranch is Texas' largest",
+        "answer": "the King Ranch",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "FICTIONAL ANIMALS",
+        "value": 500,
+        "question": "Nurse Nana was one in James Barrie's \"Peter Pan\"",
+        "answer": "dog",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "\"NOSE\"s",
+        "value": 500,
+        "question": "A hand-held bouquet in Victorian Eng. which signified \"He loves me\" or \"Not\" by type of flowers",
+        "answer": "a nosegay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "CLASSICAL MUSIC",
+      "GOVERNMENT",
+      "20TH CENTURY",
+      "GREEK MYTHOLOGY",
+      "TOUGH TRIVIA",
+      "STARTS WITH \"G\""
+    ],
+    "clues": [
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "Common name of the instrument known as the pianoforte",
+        "answer": "the piano",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 200,
+        "question": "British P.M. who said \"Democracy is the worst system devised by man, except for the others\"",
+        "answer": "Winston Churchill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "20TH CENTURY",
+        "value": 200,
+        "question": "As a result of this 1912 disaster, all steamships must have enough lifeboats for all passengers",
+        "answer": "the Titanic disaster",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 200,
+        "question": "She was the patron goddess & guardian of what is now Greece's capital city",
+        "answer": "Athena",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TOUGH TRIVIA",
+        "value": 200,
+        "question": "None of the members of this Herb Alpert band are Hispanics",
+        "answer": "the Tijuana Brass",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"G\"",
+        "value": 200,
+        "question": "Francisco Franco's superlative title",
+        "answer": "generalissimo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "The instrumental prelude to an opera",
+        "answer": "the overture",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 400,
+        "question": "A representative government, or what Plato called his ideal state",
+        "answer": "the republic",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "20TH CENTURY",
+        "value": 400,
+        "question": "In December '84, the Pentagon announced it would put a spy satellite over this country",
+        "answer": "the Soviet Union",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 400,
+        "question": "To Greeks a race of mighty women; to South Americans, their mighty river",
+        "answer": "Amazon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TOUGH TRIVIA",
+        "value": 400,
+        "question": "Words with which Betty Furness assured appliance buyers",
+        "answer": "You can be sure if it's Westinghouse",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"G\"",
+        "value": 400,
+        "question": "The study of aging",
+        "answer": "gerontology",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 600,
+        "question": "Known in his time as a plagiarist, he composed the \"Messiah\"",
+        "answer": "George Frideric Handel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 600,
+        "question": "Chief executive of a Canadian province, or the French equivalent of prime minister",
+        "answer": "a premier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "20TH CENTURY",
+        "value": 600,
+        "question": "This world group dissolved in 1946, the same year the first U.N. General Assembly met",
+        "answer": "the League of Nations",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 600,
+        "question": "Though known as Helen of Troy, she was actually queen of this warlike city-state",
+        "answer": "Sparta",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TOUGH TRIVIA",
+        "value": 600,
+        "question": "In 1907, he became a bank robber to raise funds for fledgling Bolshevik Party",
+        "answer": "Stalin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "STARTS WITH \"G\"",
+        "value": 600,
+        "question": "Condition caused by too many cars in one area, prohibiting movement in any direction",
+        "answer": "gridlock",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1600,
+        "question": "Prokofiev's folk fable with title characters played by a string quartet & 3 horns",
+        "answer": "Peter and the Wolf",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 800,
+        "question": "He is the U.S. government's chief law enforcement officer",
+        "answer": "the attorney general",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "20TH CENTURY",
+        "value": 800,
+        "question": "He was famous for leaving Roosevelt Field, N.Y., May 20, 1927, alone",
+        "answer": "Lindbergh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 800,
+        "question": "Like Lot's wife, this fabled musician should never have looked back",
+        "answer": "Orpheus",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TOUGH TRIVIA",
+        "value": 800,
+        "question": "Title character's favorite baseball player in \"The Old Man & the Sea\"",
+        "answer": "Joe DiMaggio",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1000,
+        "question": "An Offenbach opera is based on his Tales",
+        "answer": "(E.T.A.) Hoffmann",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GOVERNMENT",
+        "value": 1000,
+        "question": "It's West Germany's lower house of parliament",
+        "answer": "Bundestag",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "20TH CENTURY",
+        "value": 2000,
+        "question": "In March 1979, this mediator signed the Camp David peace treaty as the witness",
+        "answer": "President Carter",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "GREEK MYTHOLOGY",
+        "value": 1000,
+        "question": "With snakes for hair & eyes that weep blood, the \"Eumenides\" pursued & tormented sinners",
+        "answer": "the Furies (or the Erinyes)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TOUGH TRIVIA",
+        "value": 1000,
+        "question": "\"Unusual\" middle name of former Defense Secretary Robert S. McNamara",
+        "answer": "Strange",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE OSCARS",
+    "clue": "From 1978-81, all Oscar winners for Best Supporting Actress had these same initials",
+    "answer": "M.S."
+  },
+  "gameId": "183",
+  "gameDate": "Wednesday, May 22, 1985"
+}

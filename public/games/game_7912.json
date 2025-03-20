@@ -1,0 +1,529 @@
+{
+  "title": "Show #55 - Friday, November 23, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "ANIMALS",
+      "ENGLISH EDIBLES",
+      "GAMES",
+      "RELIGION",
+      "TV TRIVIA",
+      "GOOD AS GOLD"
+    ],
+    "clues": [
+      {
+        "category": "ANIMALS",
+        "value": 100,
+        "question": "The babies of elephants, whales & cows",
+        "answer": "calves",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ENGLISH EDIBLES",
+        "value": 100,
+        "question": "In London, a Wimpy with everything",
+        "answer": "a hamburger",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "GAMES",
+        "value": 100,
+        "question": "The number opposite 2 on a die",
+        "answer": "5",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 100,
+        "question": "At Christmas its officers conduct street corner collections",
+        "answer": "the Salvation Army",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 100,
+        "question": "It was thrown into the Minneapolis air by Mary Tyler Moore at the opening of her show",
+        "answer": "her hat",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GOOD AS GOLD",
+        "value": 100,
+        "question": "Movie producer whose original name was Schmuel Gelbfisz",
+        "answer": "Samuel Goldwyn",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 200,
+        "question": "They travel in gaggles",
+        "answer": "geese",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ENGLISH EDIBLES",
+        "value": 200,
+        "question": "Using this British term the piano player might have been called \"Swiss Roll\" Morton",
+        "answer": "a jelly roll",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "GAMES",
+        "value": 200,
+        "question": "He takes a wife, who takes a child, who takes a nurse, etc.",
+        "answer": "the farmer in the dell",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 200,
+        "question": "Vow of sexual abstinence taken by Catholic priests & nuns",
+        "answer": "celibacy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 200,
+        "question": "He married Miss Vicki on \"The Tonight Show\" in 1969",
+        "answer": "Tiny Tim",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "GOOD AS GOLD",
+        "value": 200,
+        "question": "He carried only Arizona & the southern states in the '64 election",
+        "answer": "Barry Goldwater",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 300,
+        "question": "In Siberia freezing preserved 50,000 year old steak from this extinct mammal",
+        "answer": "a mammoth",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GAMES",
+        "value": 300,
+        "question": "It's the largest bill in Monopoly",
+        "answer": "$500",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 300,
+        "question": "Book of the Bible in which Moses makes his exit from Egypt",
+        "answer": "the Exodus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 300,
+        "question": "\"Three's Company\" spinoff that centered around the landlord & his wife",
+        "answer": "The Ropers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "GOOD AS GOLD",
+        "value": 300,
+        "question": "Star of Steven Spielberg's 1st theatrical feature \"The Sugarland Express\"",
+        "answer": "Goldie Hawn",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 400,
+        "question": "Animal a hippophobe fears",
+        "answer": "a horse",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GAMES",
+        "value": 400,
+        "question": "The end person on this team called an anchor, really pulls his weight",
+        "answer": "a tug-of-war",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "RELIGION",
+        "value": 800,
+        "question": "Composer of this inspiring chorus:\"Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah...\"",
+        "answer": "Wagner",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 400,
+        "question": "His cover was greeting card salesman when he wasn't a secret agent",
+        "answer": "Maxwell Smart",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "GOOD AS GOLD",
+        "value": 400,
+        "question": "Milwaukee school teacher, she immigrated to Palestine & began political career",
+        "answer": "Golda Meir",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "ANIMALS",
+        "value": 500,
+        "question": "Tallest dog used in Ireland to hunt wolves & elk",
+        "answer": "an Irish Wolfhound",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "RELIGION",
+        "value": 500,
+        "question": "Diabolical leader of the doomed People's Temple",
+        "answer": "Jim Jones",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TV TRIVIA",
+        "value": 500,
+        "question": "Longest-running soap opera on television, it premiered Sept. 3, 1951",
+        "answer": "Search for Tomorrow",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "GOOD AS GOLD",
+        "value": 500,
+        "question": "Singer who recorded \"Watching Scotty Grow\" but saw \"Honey\" become a bigger hit",
+        "answer": "Bobby Goldsboro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "WORLD HISTORY",
+      "WEAPONS",
+      "MATH PROBLEMS",
+      "WOMEN",
+      "PROVERBS",
+      "CZECH, PLEASE"
+    ],
+    "clues": [
+      {
+        "category": "WORLD HISTORY",
+        "value": 200,
+        "question": "In 1980 Iraq invaded this country",
+        "answer": "Iran",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 200,
+        "question": "Used by Dennis the Menace or David the slayer",
+        "answer": "a slingshot",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "MATH PROBLEMS",
+        "value": 200,
+        "question": "60 nickels equals this many dollars",
+        "answer": "3",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WOMEN",
+        "value": 200,
+        "question": "Popular term for the president's wife",
+        "answer": "the first lady",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PROVERBS",
+        "value": 200,
+        "question": "They flock together",
+        "answer": "birds of a feather",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "CZECH, PLEASE",
+        "value": 200,
+        "question": "Cultural center of Holy Roman Empire; today Czechoslovakia's capital",
+        "answer": "Prague",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 400,
+        "question": "This Civil War was fought from 1936-39",
+        "answer": "the Spanish Civil War",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 400,
+        "question": "Odd weapon for OddJob",
+        "answer": "a hat",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "MATH PROBLEMS",
+        "value": 400,
+        "question": "Area of a rectangle 6 feet by 9 feet",
+        "answer": "54 feet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "WOMEN",
+        "value": 400,
+        "question": "Donna Reed's role on \"Dallas\"",
+        "answer": "Miss Ellie",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PROVERBS",
+        "value": 400,
+        "question": "A single decomposed Granny Smith destroys the entire keg",
+        "answer": "one bad apple spoils the whole bunch",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "CZECH, PLEASE",
+        "value": 400,
+        "question": "Blue boundary between Slovakia and Hungary",
+        "answer": "the Danube",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1200,
+        "question": "50,000 youngsters were lost on this disastrous military campaign in 1212",
+        "answer": "the Children's Crusade",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 600,
+        "question": "A hatchet, it's said, but not proven, Indians buried it for peace",
+        "answer": "a tomahawk",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "MATH PROBLEMS",
+        "value": 600,
+        "question": "At 50 miles per hour,length of time it takes to go 225 miles",
+        "answer": "4 1/2 hours",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "WOMEN",
+        "value": 600,
+        "question": "FDR made Frances Perkins the 1st women member of this",
+        "answer": "the Cabinet",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PROVERBS",
+        "value": 600,
+        "question": "The worth of an ounce of prevention",
+        "answer": "a pound of cure",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "CZECH, PLEASE",
+        "value": 600,
+        "question": "Shared occupation of Smetana, Janacek & Dvorak",
+        "answer": "composers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 800,
+        "question": "He was Roman emperor when Christ was born",
+        "answer": "Augustus Caesar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 800,
+        "question": "They were designed to destroy submarines by shock waves",
+        "answer": "depth charges",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "MATH PROBLEMS",
+        "value": 1600,
+        "question": "The smaller of a 5 gallon water bottle or a 20 liter gas tank",
+        "answer": "the 5 gallon water bottle",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "WOMEN",
+        "value": 800,
+        "question": "Cover Girl golfer from the land down under",
+        "answer": "Jan Stephenson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PROVERBS",
+        "value": 800,
+        "question": "Only Shakespeare play title that's a proverb",
+        "answer": "All's Well That Ends Well",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CZECH, PLEASE",
+        "value": 800,
+        "question": "Karel Capek's work \"R.U.R.\" introduced this word for mechanical men meaning \"work\"",
+        "answer": "robots",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WORLD HISTORY",
+        "value": 1000,
+        "question": "The 1928 Kellogg-Briand Pact outlawed this",
+        "answer": "war",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "WEAPONS",
+        "value": 1000,
+        "question": "The extras in operas",
+        "answer": "spear carriers",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WOMEN",
+        "value": 1000,
+        "question": "In 1916 she opened the 1st birth control clinic",
+        "answer": "Margaret Sanger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "PROVERBS",
+        "value": 1000,
+        "question": "Proverb that was changed for title of '73 Bond film",
+        "answer": "live and let live",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CZECH, PLEASE",
+        "value": 1000,
+        "question": "Girl from Laurel & Hardy film based on Balfe's opera comes from here",
+        "answer": "Bohemia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE OSCARS",
+    "clue": "In 1971 & 1973, these 2 Best Actors refused the Oscars they had won",
+    "answer": "Marlon Brando & George C. Scott"
+  },
+  "gameId": "55",
+  "gameDate": "Friday, November 23, 1984"
+}

@@ -1,0 +1,511 @@
+{
+  "title": "Show #741 - Monday, November 23, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "WEATHER",
+      "FLOWERS",
+      "WORD ORIGINS",
+      "SPORTS EQUIPMENT",
+      "WORLD GEOGRAPHY",
+      "MOVIE QUOTES"
+    ],
+    "clues": [
+      {
+        "category": "FLOWERS",
+        "value": 100,
+        "question": "World Book lists it as the national flower of turkey, as well as the Netherlands",
+        "answer": "the tulip",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 100,
+        "question": "This word for a Catholic church comes from the Greek for king, \"Basileus\"",
+        "answer": "basilica",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SPORTS EQUIPMENT",
+        "value": 100,
+        "question": "Table tennis rackets or paddles are also called this, even though they're not used for hitting home runs",
+        "answer": "bats",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 100,
+        "question": "Norway & Great Britain are among those who share the oil fields in this sea",
+        "answer": "the North Sea",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MOVIE QUOTES",
+        "value": 100,
+        "question": "\"Mr. Kane was a man who got everything he wanted, & then lost it\"",
+        "answer": "Citizen Kane",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "WEATHER",
+        "value": 200,
+        "question": "After he proved that lightning is electrical, he invented lightning rods",
+        "answer": "(Benjamin) Franklin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FLOWERS",
+        "value": 200,
+        "question": "Botanists force certain white lilies to do this early so they can be sold at Easter",
+        "answer": "bloom",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 200,
+        "question": "The Italian word for \"pity\", it's used to describe a sculpture of the Virgin Mary in mourning",
+        "answer": "a pieta",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SPORTS EQUIPMENT",
+        "value": 200,
+        "question": "Golf balls can have 491 more of these than Kirk Douglas",
+        "answer": "dimples",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 200,
+        "question": "The Northern Territory, with its capital, Darwin, takes up about 1/6 of this country",
+        "answer": "Australia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MOVIE QUOTES",
+        "value": 200,
+        "question": "\"It's a white whale. Skin your eyes for him.\"",
+        "answer": "Moby Dick",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "WEATHER",
+        "value": 600,
+        "question": "Weather phenomenon which caused E. Coast radio stations to play the following in 9 1985:\"... calling Gloria? / Gloria, don't you think you're fallin'? / If everybody wants you, why isn't anybody...\"",
+        "answer": "hurricanes",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 300,
+        "question": "Though its name is from Spanish for \"bleeding\", it's a fruit punch made with wine",
+        "answer": "sangria",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SPORTS EQUIPMENT",
+        "value": 300,
+        "question": "In the U.S., bicycles must be equipped with these safety features on the front, rear, & pedals",
+        "answer": "reflector shields",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 300,
+        "question": "Name of the Mexican land mass containing La Paz & Ensenada",
+        "answer": "Baja California (Lower California)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MOVIE QUOTES",
+        "value": 300,
+        "question": "\"Laugh now, Heathcliff. There's no laughter in hell.\"",
+        "answer": "Wuthering Heights",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "WEATHER",
+        "value": 400,
+        "question": "As Dennis Conner could tell you, the \"Fremantle Doctor\" is 1 of these",
+        "answer": "a wind",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FLOWERS",
+        "value": 400,
+        "question": "From Old French for \"lily flower\", it's an iris as well as a heraldic device",
+        "answer": "a fleur-de-lis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WORD ORIGINS",
+        "value": 400,
+        "question": "From the Russian words   for \"self\", & \"to boil”, it's the urn you use to boil yourself some water",
+        "answer": "a samovar",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SPORTS EQUIPMENT",
+        "value": 400,
+        "question": "All that's needed to play this sport in the U.S. are 16 stones, 8 brooms, & an ice rink",
+        "answer": "curling",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 400,
+        "question": "Columbus named an island he found \"Dominica\", Italian for this day on which he 1st saw it",
+        "answer": "Sunday",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MOVIE QUOTES",
+        "value": 400,
+        "question": "\"Please don't call me Mr. deWinter\"",
+        "answer": "Rebecca",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "WEATHER",
+        "value": 500,
+        "question": "These days are named for the star Sirius, not the pooped-out way canines look in late July & August",
+        "answer": "dog days",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FLOWERS",
+        "value": 500,
+        "question": "While Russians celebrate May Day on the 1st Hawaiians celebrate this",
+        "answer": "Lei Day",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SPORTS EQUIPMENT",
+        "value": 500,
+        "question": "Hotdoggers in this sport might own a \"Tony Hawk\" \"Gonzo\" or \"Stonefish\" model",
+        "answer": "skateboarding",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD GEOGRAPHY",
+        "value": 500,
+        "question": "Once a term for mythical lands w. of Europe, Caribbean isles are divided into Greater or Lesser ones",
+        "answer": "the Antilles islands",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MOVIE QUOTES",
+        "value": 500,
+        "question": "\"Years from now, when you talk about this--and you will--be kind\"",
+        "answer": "Tea and Sympathy",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "THE DICTIONARY",
+      "OPERA",
+      "AMERICAN HISTORY",
+      "ARCHAEOLOGY",
+      "\"T\" TIME",
+      "SAID OF CELEBS"
+    ],
+    "clues": [
+      {
+        "category": "THE DICTIONARY",
+        "value": 200,
+        "question": "Webster's 3rd International is one example of this \"non -condensed\" type of dictionary",
+        "answer": "unabridged",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 200,
+        "question": "Some operas have one before each act, but most  just have one before the curtain rises",
+        "answer": "an overture",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 200,
+        "question": "The 1962 Cuban Crisis ended when the Soviet Union removed these",
+        "answer": "missiles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 200,
+        "question": "A cromlech is a prehistoric monument of upright stones placed, like at Stonehenge,  in this shape",
+        "answer": "a circle",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"T\" TIME",
+        "value": 200,
+        "question": "Term for a camera's long-distance lens",
+        "answer": "telephoto",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SAID OF CELEBS",
+        "value": 200,
+        "question": "Herb Caen once said this 1964 presidential candidate was \"as American as Apple Strudel\"",
+        "answer": "Barry Goldwater",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE DICTIONARY",
+        "value": 400,
+        "question": "What began as \"The N.E.D.,\" in 1884 is known as this today",
+        "answer": "the Oxford English Dictionary",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 400,
+        "question": "In a sermon about this 1925 trial, Billy Sunday called evolution \"jackass nonsense\"",
+        "answer": "the Scopes Monkey Trial",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ARCHAEOLOGY",
+        "value": 400,
+        "question": "Relative & absolute dating are not terms for an archaeologist's social life,  but for this",
+        "answer": "dating for how old things are (age of a find, an artifact)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "\"T\" TIME",
+        "value": 800,
+        "question": "The only sign of the zodiac with a Latin name, that fits this category",
+        "answer": "Taurus",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SAID OF CELEBS",
+        "value": 400,
+        "question": "Golf's \"Golden Bear\", described as having \"a face as innocent as milk, & a build like a chocolate eclair\"",
+        "answer": "Jack Nicklaus",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE DICTIONARY",
+        "value": 600,
+        "question": "The 16-volume Deutsches Worterbuch was begun in the 19th century by these brothers",
+        "answer": "the Brothers Grimm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 600,
+        "question": "Composer of \"Fidelio\", this German once looked so sloppy he was thrown into jail  as a vagabond",
+        "answer": "Beethoven",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 600,
+        "question": "In 1937, Republicans angrily accused FDR of trying to \"pack\" this",
+        "answer": "the Supreme Court",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "\"T\" TIME",
+        "value": 600,
+        "question": "A tawdry tragedy, or a 3-hanky movie",
+        "answer": "a tearjerker",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SAID OF CELEBS",
+        "value": 600,
+        "question": "\"He labored like a mountain and brought forth a mouse\"",
+        "answer": "Walt Disney",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE DICTIONARY",
+        "value": 1600,
+        "question": "\"Odd Couple\" playwright & \"Odd Couple\" actor who are both on American Heritage's usage panel",
+        "answer": "Neil Simon & Tony Randall",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 800,
+        "question": "This Italian who conducted the premieres of \"La boheme\" & \"Pagliacci\", later directed the NBC Symphony",
+        "answer": "Toscanini",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 800,
+        "question": "When \"Boss\" James M. Curley was fined $42,629 for fraud, many of this city's citizens chipped in to pay",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "\"T\" TIME",
+        "value": 800,
+        "question": "Dangling decoration found on a mortar board or a stripper",
+        "answer": "a tassel",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SAID OF CELEBS",
+        "value": 800,
+        "question": "Author of \"The Affluent Society\", he was once dubbed,\"the non-economist's economist\"",
+        "answer": "John Kenneth Galbraith",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE DICTIONARY",
+        "value": 1000,
+        "question": "Term for the marks which indicate phonetic quality",
+        "answer": "diacritical marks",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "OPERA",
+        "value": 1000,
+        "question": "This Russian, an absent-minded professor, may just have forgotten to finish \"Prince Igor\"",
+        "answer": "(Alexander) Borodin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "AMERICAN HISTORY",
+        "value": 1000,
+        "question": "While serving as Speaker of the House in 1820, he promoted the Missouri Compromise",
+        "answer": "Henry Clay",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "\"T\" TIME",
+        "value": 1000,
+        "question": "A small, slender seagull",
+        "answer": "a tern",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SAID OF CELEBS",
+        "value": 1000,
+        "question": "A critic said she had \"two expressions--joy & indigestion\", & apparently 2 were enough for Wm. R. Hearst",
+        "answer": "Marion Davies",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "LOVE & MARRIAGE",
+    "clue": "In vast majority of states, in order to marry without parental consent, you must be at least this old",
+    "answer": "18"
+  },
+  "gameId": "741",
+  "gameDate": "Monday, November 23, 1987"
+}

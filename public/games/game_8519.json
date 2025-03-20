@@ -1,0 +1,520 @@
+{
+  "title": "Show #555 - Friday, January 23, 1987",
+  "jeopardyRound": {
+    "categories": [
+      "CITIZENSHIP TEST",
+      "MOVIE TRIVIA",
+      "COUNTRY MUSIC",
+      "RUGS & CARPETS",
+      "DOGS",
+      "THE MOON"
+    ],
+    "clues": [
+      {
+        "category": "CITIZENSHIP TEST",
+        "value": 100,
+        "question": "Before it is enacted, a suggested new law submitted to Congress is called this",
+        "answer": "a bill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 100,
+        "question": "Sport subject of 1986 films \"The Best of Times\" & \"Wildcats\"",
+        "answer": "football",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 100,
+        "question": "He describes his brand of country music saying,\"It's not Western, it's Waylon\"",
+        "answer": "Waylon Jennings",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RUGS & CARPETS",
+        "value": 100,
+        "question": "It's rolled out for Queen Elizabeth, Ronald Reagan, & the ducks at Memphis's Peabody Hotel",
+        "answer": "the red carpet",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DOGS",
+        "value": 100,
+        "question": "There is evidence of rare airborne transmission of this feared disease usually transmitted through bites",
+        "answer": "rabies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "THE MOON",
+        "value": 100,
+        "question": "From Latin \"luna\" for \"moon\", we get this moonstruck name for a maniac",
+        "answer": "lunacy (or lunatic)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CITIZENSHIP TEST",
+        "value": 200,
+        "question": "According to the Declaration of Independence, the unalienable rights of people include these 3",
+        "answer": "life, liberty, and the pursuit of happiness",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 200,
+        "question": "1977 film starring Didi Conn which gave Debby Boone a hit song",
+        "answer": "You Light Up My Life",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 200,
+        "question": "In 1985, a court ruled that she was the composer of the 1980 hit, \"9 to 5\"",
+        "answer": "Dolly Parton",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RUGS & CARPETS",
+        "value": 200,
+        "question": "Restyling a toupee or dancing in a lively manner",
+        "answer": "to cut a rug",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DOGS",
+        "value": 200,
+        "question": "Australia has spent huge sums of money to exterminate this wild dog that kills sheep & wallabies",
+        "answer": "the dingo",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "THE MOON",
+        "value": 200,
+        "question": "The \"capture\" theory says before captured by Earth's gravity, the moon was this",
+        "answer": "a planet (or asteroid)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CITIZENSHIP TEST",
+        "value": 300,
+        "question": "The number of representatives a state sends to the House depends on this",
+        "answer": "its population as determined by the census",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 300,
+        "question": "1986 headline \"New Pippi Found in Florida\" announced talent search had found new girl to play her",
+        "answer": "Pippi Longstocking",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 300,
+        "question": "Though \"Wheel of Fortune\" is tops now, in the late '70s this country show was #1 in TV syndication",
+        "answer": "Hee-Haw",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "RUGS & CARPETS",
+        "value": 300,
+        "question": "One was 1st patentedon Sept. 19, 1876 by Melville R. Bissell",
+        "answer": "a carpet sweeper",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DOGS",
+        "value": 300,
+        "question": "From Old English for \"mixture\", it's a dog with a checkered past",
+        "answer": "a mongrel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "THE MOON",
+        "value": 600,
+        "question": "Serenity,Ingenuity, &Fertility",
+        "answer": "the names of seas on the Moon",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CITIZENSHIP TEST",
+        "value": 400,
+        "question": "Fraction of U.S. Senate seats up for election every 2 years",
+        "answer": "a third",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 400,
+        "question": "Director Milos Forman said this 1979 film of his was once run on TV with 9 musical numbers cut for time",
+        "answer": "Hair",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 400,
+        "question": "In song, Eddy Arnold pleads, \"Make the world go away; get it off these.\"",
+        "answer": "shoulders",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DOGS",
+        "value": 400,
+        "question": "Ancient Assyrians & Babylonians reportedly used this massive breed of dogs to hunt lions",
+        "answer": "a mastiff",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "THE MOON",
+        "value": 400,
+        "question": "Moon goddess who was to the Romans what Artemis was to the Greeks",
+        "answer": "Diana",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CITIZENSHIP TEST",
+        "value": 500,
+        "question": "The words on the Great Seal of the United States, \"E Pluribus Unum,\" mean this",
+        "answer": "from many, one",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "MOVIE TRIVIA",
+        "value": 500,
+        "question": "Title profession of the character Travis Bickle in 1976 film",
+        "answer": "Taxi Driver",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "COUNTRY MUSIC",
+        "value": 500,
+        "question": "His \"Kaw-Liga\" & \"Take These Chains From My Heart\" hit #1 after his death",
+        "answer": "Hank Williams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DOGS",
+        "value": 500,
+        "question": "While trailing game, scent hounds give out deep, long, barks, a process called this",
+        "answer": "baying",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE MOON",
+        "value": 500,
+        "question": "Phase the moon is in about 7 days after a new moon",
+        "answer": "first quarter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PLAYWRIGHTS",
+      "EPIDEMICS",
+      "HIGHWAYS & BYWAYS",
+      "BRITISH HISTORY",
+      "TIMELY CLASSICS",
+      "2-LETTER WORDS"
+    ],
+    "clues": [
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 200,
+        "question": "An \"earnest\" affair with the Marquess of Queensbury's son landed this author in Reading Gaol",
+        "answer": "Oscar Wilde",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 200,
+        "question": "Daughter of Catherine of Aragon, she got this nickname because hundreds died at the stake during her reign",
+        "answer": "Bloody Mary",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TIMELY CLASSICS",
+        "value": 200,
+        "question": "Piano piece by Chopin that takes a little more or less than 60 seconds, depending on who's playing",
+        "answer": "\"The Minute Waltz\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 200,
+        "question": "It's \"ground\" to express a grievance or swung to split wood",
+        "answer": "an ax",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 400,
+        "question": "It's said he wrote a 30-second play on the back of a postcard, perhaps while \"Waiting for Godot\"",
+        "answer": "Samuel Beckett",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "EPIDEMICS",
+        "value": 400,
+        "question": "Venereal disease once called \"the French disease\" by the Italians & \"the Italian disease\" by the French",
+        "answer": "syphilis",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "HIGHWAYS & BYWAYS",
+        "value": 400,
+        "question": "Brasilia's 1½-mile-long Monumental Axis holds this world record",
+        "answer": "the widest street in the world",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "TIMELY CLASSICS",
+        "value": 400,
+        "question": "Tchaikovsky wrote this piece in 1880, 68 years after the year in its title",
+        "answer": "the 1812 Overture",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 400,
+        "question": "In the 1960s, for the left, it followed right",
+        "answer": "on",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 600,
+        "question": "He became ill onstage in his own play & died the same night, proving he was no \"Malade Imaginiaire\"",
+        "answer": "Molière",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "EPIDEMICS",
+        "value": 600,
+        "question": "The Antonine Plague that killed 5,000 a day in Rome is thought to be this common childhood disease",
+        "answer": "measles",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "HIGHWAYS & BYWAYS",
+        "value": 600,
+        "question": "The part of U.S. Route 1 running through this city is Biscayne Blvd.",
+        "answer": "Miami",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 600,
+        "question": "English admiral whose fleet flattened Napoleon's in the Nile",
+        "answer": "Admiral Nelson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TIMELY CLASSICS",
+        "value": 1200,
+        "question": "Nickname of Haydn's Symphony No. 101, it comes from the sounds heard here:[Instrumental music plays]",
+        "answer": "the Clock Symphony",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 600,
+        "question": "Kate's is Max; Allie's is Charles",
+        "answer": "ex",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 1600,
+        "question": "1 of 2 Pulitzer Prize-winning playwrights who've also received Oscar nominationsfor acting",
+        "answer": "Sam Shepard (or Jason Miller)",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "EPIDEMICS",
+        "value": 800,
+        "question": "A global outbreak of this common disease in 1918 & 1919 is thought to be the worst epidemic ever",
+        "answer": "the flu (influenza)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "HIGHWAYS & BYWAYS",
+        "value": 800,
+        "question": "Though but a trail, this road connecting the 21 California missions was called the \"Royal Highway\"",
+        "answer": "El Camino Real",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BRITISH HISTORY",
+        "value": 800,
+        "question": "Country in which the Sepoys, native members of the British Army, revolted over grease used on bullets",
+        "answer": "India",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TIMELY CLASSICS",
+        "value": 800,
+        "question": "In \"Fantasia\", Ben Alligator dances a pas de deux with Hyacinth Hippo to this Ponchielli music",
+        "answer": "the Dance of the Hours",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 800,
+        "question": "Circumference divided by diameter",
+        "answer": "pi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PLAYWRIGHTS",
+        "value": 1000,
+        "question": "In his lifetime, his failures included \"Days Without End\", \"Lazarus Laughed\", & his first 2 marriages",
+        "answer": "Eugene O'Neill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EPIDEMICS",
+        "value": 1000,
+        "question": "From Greek for \"all the people\", the term for a worldwide epidemic",
+        "answer": "a pandemic",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "HIGHWAYS & BYWAYS",
+        "value": 1000,
+        "question": "Rome street most associated with Fellini's \"La Dolce Vita\"",
+        "answer": "Via Veneto",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "TIMELY CLASSICS",
+        "value": 1000,
+        "question": "In 1912 the 1st conductor of this Stravinsky ballet predicted it would cause a scandal & in 1913 it did",
+        "answer": "The Rite of Spring",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "2-LETTER WORDS",
+        "value": 1000,
+        "question": "Adjective used interjectionally with various body parts to express doubt or disapproval",
+        "answer": "my",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE CONTINENTS",
+    "clue": "The only continent crossed by the Tropic of Cancer, the Equator & the Tropic of Capricorn",
+    "answer": "Africa"
+  },
+  "gameId": "555",
+  "gameDate": "Friday, January 23, 1987"
+}

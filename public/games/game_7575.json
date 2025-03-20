@@ -1,0 +1,475 @@
+{
+  "title": "Show #7 - Tuesday, September 18, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "PRESIDENTS",
+      "CHILDREN'S LITERATURE",
+      "JUST NAMES",
+      "BUSINESS & INDUSTRY",
+      "\"UPS\" & \"DOWNS\"",
+      "LITERARY QUOTES"
+    ],
+    "clues": [
+      {
+        "category": "PRESIDENTS",
+        "value": 100,
+        "question": "Only president born in California",
+        "answer": "Richard Nixon",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 100,
+        "question": "Aesop character that won by a \"hare\"",
+        "answer": "turtle (or tortoise)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "JUST NAMES",
+        "value": 100,
+        "question": "Man's name, bird's beak, or a restaurant's check",
+        "answer": "Bill",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 100,
+        "question": "Utica, NY was the site of his first 5 & 10¢ store",
+        "answer": "Woolworth",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "\"UPS\" & \"DOWNS\"",
+        "value": 100,
+        "question": "Where Petula Clark would go when she was feeling low",
+        "answer": "\"Downtown\"",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "LITERARY QUOTES",
+        "value": 100,
+        "question": "Literary \"quoth\" of Poe's raven",
+        "answer": "Nevermore",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 200,
+        "question": "In '24, we \"kept cool\" with him",
+        "answer": "Calvin Coolidge",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 200,
+        "question": "Crusoe named him for the day they met",
+        "answer": "Friday",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "JUST NAMES",
+        "value": 200,
+        "question": "What you stick your pimento in",
+        "answer": "an Olive",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 200,
+        "question": "Atlanta-based firm that owns Minute Maid, Hi-C & Columbia Pictures",
+        "answer": "Coca-Cola",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "LITERARY QUOTES",
+        "value": 200,
+        "question": "He was a \"better man\" than Rudyard Kipling",
+        "answer": "Gunga Din",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 300,
+        "question": "All presidents from 1960-80 had served in this branch of the military",
+        "answer": "the Navy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 300,
+        "question": "They called Robin Hood's companion this, though he was over 7' tall",
+        "answer": "Little John",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "JUST NAMES",
+        "value": 300,
+        "question": "A single serving of butter for Mrs. Nixon",
+        "answer": "Pat",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 300,
+        "question": "U.S. company that builds Renault cars",
+        "answer": "American Motors",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "LITERARY QUOTES",
+        "value": 300,
+        "question": "Milne's \"bear of very little brain\"",
+        "answer": "Winnie-the-Pooh",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 400,
+        "question": "Alaska & Hawaii became states under this president",
+        "answer": "Eisenhower",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 400,
+        "question": "Gulliver's tiny people",
+        "answer": "the Lilliputians",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "JUST NAMES",
+        "value": 400,
+        "question": "A fast rabbit or used to lift one",
+        "answer": "a Jack",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 400,
+        "question": "A \"rock\" solid reputation has made them #1 in life insurance",
+        "answer": "Prudential",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "LITERARY QUOTES",
+        "value": 400,
+        "question": "In cable from Europe he said, \"The report of my death was an exaggeration\"",
+        "answer": "Mark Twain",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRESIDENTS",
+        "value": 500,
+        "question": "President who was born Leslie L. King",
+        "answer": "Gerald Ford",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CHILDREN'S LITERATURE",
+        "value": 500,
+        "question": "In one Grimm tale, she's Rose Red's sister",
+        "answer": "Snow White",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "JUST NAMES",
+        "value": 500,
+        "question": "A completely honest hot dog",
+        "answer": "a Frank",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BUSINESS & INDUSTRY",
+        "value": 500,
+        "question": "In 1950, they offered 1st all-purpose credit card",
+        "answer": "Diners Club",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "LITERARY QUOTES",
+        "value": 500,
+        "question": "It completes: \"Theirs not to make reply, theirs not to reason why...\"",
+        "answer": "Theirs but to do and die",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "ART",
+      "U.S. LANDMARKS",
+      "SPORTS",
+      "RAILROADS",
+      "BOTANY",
+      "WEIGHTS & MEASURES"
+    ],
+    "clues": [
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "Pope Julius II ordered him to paint the Sistine Chapel",
+        "answer": "Michelangelo",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 200,
+        "question": "For her 100th birthday, she'll get her torch back",
+        "answer": "the Statue of Liberty",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 200,
+        "question": "It's the Run for the Roses in the Bluegrass State",
+        "answer": "the Kentucky Derby",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "RAILROADS",
+        "value": 200,
+        "question": "Office for conductor & living quarters for crew, it is often red",
+        "answer": "a caboose",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BOTANY",
+        "value": 200,
+        "question": "Celebrated botanist, or civic subject of Carson monologues",
+        "answer": "(Luther) Burbank",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 400,
+        "question": "Name for the Virgin Mary in many paintings",
+        "answer": "the Madonna",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 400,
+        "question": "There were no known successful escapes from this \"Rock\" in S.F. bay",
+        "answer": "Alcatraz",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 400,
+        "question": "In Japan its name is sumo, in nightclubs its name is mud",
+        "answer": "wrestling",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "RAILROADS",
+        "value": 800,
+        "question": "Where Glenn Miller was headed on this choo choo:Instrumental music plays",
+        "answer": "Chattanooga",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BOTANY",
+        "value": 400,
+        "question": "Longfellow's \"spreading\" tree, now battling extinction by blight",
+        "answer": "the chestnut tree",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 1200,
+        "question": "Born on Crete, Domenicos Theotocopoulos was called \"The Greek\" by Spaniards",
+        "answer": "El Greco",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 600,
+        "question": "Last Memorial Day, a Vietnam casualty was interred at this Arlington shrine",
+        "answer": "the Tomb of the Unknown Soldier",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 600,
+        "question": "Legendary site of first baseball game",
+        "answer": "Cooperstown",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 600,
+        "question": "Favorite food of pandas, it's the world's largest grass",
+        "answer": "bamboo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 800,
+        "question": "Rodin's sculptured tribute to eggheads",
+        "answer": "The Thinker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 800,
+        "question": "Plays are still performed at this site of Lincoln's assassination",
+        "answer": "Ford's Theater",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 800,
+        "question": "Her hairstyle & style on the ice made her famous in the '76 Olympics",
+        "answer": "Dorothy Hamill",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BOTANY",
+        "value": 800,
+        "question": "This \"tree's\" branches pointed way out of desert, so Mormons named it for Biblical leader",
+        "answer": "the Joshua tree",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ART",
+        "value": 1000,
+        "question": "It's combined with pigment to make tempera paint",
+        "answer": "egg yolk",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. LANDMARKS",
+        "value": 1000,
+        "question": "At 555' 5\", this 100-year-old all-stone structure is world's tallest",
+        "answer": "the Washington Monument",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SPORTS",
+        "value": 1000,
+        "question": "Great-Grandson of Chief Black Hawk & 1 of 1st in NFL Hall of Fame",
+        "answer": "Jim Thorpe",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "RAILROADS",
+        "value": 1000,
+        "question": "It met the Union Pacific at Promontory, Utah, in 1869",
+        "answer": "the Central Pacific",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "BOTANY",
+        "value": 1000,
+        "question": "Largest specimen of this tree has 350 large trunks & over 3,000 small ones",
+        "answer": "the banyan tree",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "WORLD HISTORY",
+    "clue": "Country where Napoleon met his \"Waterloo\"",
+    "answer": "Belgium"
+  },
+  "gameId": "7",
+  "gameDate": "Tuesday, September 18, 1984"
+}

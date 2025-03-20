@@ -1,0 +1,493 @@
+{
+  "title": "Show #56 - Monday, November 26, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "AFRICA",
+      "FOOD",
+      "FIRST AID",
+      "NUMBER PLEASE",
+      "BEN FRANKLIN",
+      "TRIVIA"
+    ],
+    "clues": [
+      {
+        "category": "AFRICA",
+        "value": 100,
+        "question": "Central Africa's short people",
+        "answer": "the Pygmies",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 100,
+        "question": "When you step on these, they let out a little \"wine\"",
+        "answer": "grapes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FIRST AID",
+        "value": 100,
+        "question": "Any remedy which counteracts a swallowed poison",
+        "answer": "an antidote",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 100,
+        "question": "An unlucky Friday or a baker's dozen",
+        "answer": "13",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "BEN FRANKLIN",
+        "value": 100,
+        "question": "His spectacle invention that's a sight for sore eyes",
+        "answer": "bifocals",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 100,
+        "question": "At last count there were only 70 of these head servants left in England",
+        "answer": "butlers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 200,
+        "question": "S. Africa's form of segregation",
+        "answer": "apartheid",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 200,
+        "question": "Satanic term for food prepared with strong seasoning, as of eggs or ham",
+        "answer": "devilled",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FIRST AID",
+        "value": 200,
+        "question": "To prevent swelling & discoloring from a blow to the body, apply this kind of compress immediately",
+        "answer": "a cold compress",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 200,
+        "question": "Number of stars on American flag raised at Iwo Jima",
+        "answer": "48",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "BEN FRANKLIN",
+        "value": 200,
+        "question": "\"Fish & guests stink in 3 days\" are among this almanac's wise words",
+        "answer": "Poor Richard('s Almanack)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 200,
+        "question": "Nobody wants to hear all of this camp song about decreasing containers of brew",
+        "answer": "\"99 Bottles Of Beer On The Wall\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 300,
+        "question": "Tanganyika & Zanzibar joined to form this country",
+        "answer": "Tanzania",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 300,
+        "question": "French term for meat served in its own juice",
+        "answer": "au jus",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FIRST AID",
+        "value": 300,
+        "question": "Kind of shot given to prevent lockjaw after a puncture wound",
+        "answer": "a tetanus shot",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 300,
+        "question": "Square inches in a square foot",
+        "answer": "144",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "BEN FRANKLIN",
+        "value": 300,
+        "question": "He was president of the 1st society to press for its abolition",
+        "answer": "slavery",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 300,
+        "question": "A stew of various meats, a jar of mixed flower petals, or an old \"Jeopardy\" category",
+        "answer": "potpourri",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 400,
+        "question": "Africa's largest fresh-water lake, it's main source of the Nile",
+        "answer": "Lake Victoria",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 400,
+        "question": "Found in rye bread, these seeds are also flavoring of kummel liqueur",
+        "answer": "caraway seeds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FIRST AID",
+        "value": 400,
+        "question": "This \"hug\" is recommended as effective method to remove object blocking windpipe",
+        "answer": "the Heimlich maneuver",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 800,
+        "question": "Total of trombones & cornets in \"The Music Man\" tune",
+        "answer": "186",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "BEN FRANKLIN",
+        "value": 400,
+        "question": "The postal service actually showed a profit when he held this position",
+        "answer": "Postmaster General",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "TRIVIA",
+        "value": 400,
+        "question": "This president is said to be related to John Kennedy, Princess Di & F. Mitterand",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "AFRICA",
+        "value": 500,
+        "question": "Kenyatta was leader of this bloody movement to end British rule in Kenya",
+        "answer": "the Mau Maus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "FOOD",
+        "value": 500,
+        "question": "The thymus & pancreas of young calves are sources of this meat",
+        "answer": "sweetbreads",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FIRST AID",
+        "value": 500,
+        "question": "Full name for CPR",
+        "answer": "cardiopulmonary resuscitation",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "NUMBER PLEASE",
+        "value": 500,
+        "question": "Age range of an octogenarian",
+        "answer": "the 80s (or 80-89)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TRIVIA",
+        "value": 500,
+        "question": "The place you most readily find \"QWERTYUIOP\"; you can spell it using only these letters",
+        "answer": "a typewriter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "GRAMMAR",
+      "WORLD OF FASHION",
+      "ART",
+      "U.S. GEOGRAPHY",
+      "TV DETECTIVES",
+      "BIOLOGY"
+    ],
+    "clues": [
+      {
+        "category": "GRAMMAR",
+        "value": 200,
+        "question": "While either takes or, neither always takes this",
+        "answer": "nor",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF FASHION",
+        "value": 200,
+        "question": "The hat in the Mexican hat dance",
+        "answer": "a sombrero",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ART",
+        "value": 200,
+        "question": "A painting of inanimate objects, not people",
+        "answer": "a still life",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 200,
+        "question": "It's \"where the wind comes sweeping down the plain\"",
+        "answer": "Oklahoma",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "TV DETECTIVES",
+        "value": 200,
+        "question": "He was Detective Lieutenant Dan August before he was Sharky",
+        "answer": "Burt Reynolds",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 400,
+        "question": "The interjection in \"Whew! This is a tough answer\"",
+        "answer": "whew",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF FASHION",
+        "value": 400,
+        "question": "South Seas garb worn by Dorothy Lamour on \"The Road\"",
+        "answer": "a sarong",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 400,
+        "question": "State whose counties include Crockett, Zapata & Pecos",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "TV DETECTIVES",
+        "value": 400,
+        "question": "He played father-in-law to Betty Jones & now is uncle to Matt Houston",
+        "answer": "Buddy Ebsen",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 400,
+        "question": "Wurlitzer's pride, or what tissues grouped together form",
+        "answer": "an organ",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 600,
+        "question": "Punctuation mark of the imperative mode",
+        "answer": "an exclamation mark",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "WORLD OF FASHION",
+        "value": 600,
+        "question": "Where on his body an Arab would wear the traditional keffiyeh",
+        "answer": "his head",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1200,
+        "question": "One of two states ending in \"T\"",
+        "answer": "(1 of) Connecticut and Vermont",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "TV DETECTIVES",
+        "value": 1200,
+        "question": "Name of station police work out of in series with this theme",
+        "answer": "(the) Hill Street (station)",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 600,
+        "question": "Serology is the study of this body fluid closely resembling sea water",
+        "answer": "blood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 800,
+        "question": "Historic pass at junction of TN., KY., & VA., associated with Daniel Boone",
+        "answer": "the Cumberland Gap",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "TV DETECTIVES",
+        "value": 800,
+        "question": "Ex-\"radio receptionist\" now \"partner in crime\" with Lynda Carter",
+        "answer": "Loni Anderson",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 800,
+        "question": "In 1600's, amateur Dutch scientist van Leeuwenhoek discovered bacteria by using this",
+        "answer": "a microscope",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "GRAMMAR",
+        "value": 1000,
+        "question": "The word, phrase or clause a pronoun must agree with",
+        "answer": "the antecedent",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "U.S. GEOGRAPHY",
+        "value": 1000,
+        "question": "Mountain range that surrounds city of Atlanta",
+        "answer": "the Blue Ridge Mountains",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "TV DETECTIVES",
+        "value": 1000,
+        "question": "Det. whose show was spun off from \"Barney Miller\", but thrown back due to small ratings",
+        "answer": "Fish",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BIOLOGY",
+        "value": 1000,
+        "question": "Exobiology is the study of living things here",
+        "answer": "space",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS & INDUSTRY",
+    "clue": "Country that manufactures the most cars per year",
+    "answer": "Japan"
+  },
+  "gameId": "56",
+  "gameDate": "Monday, November 26, 1984"
+}

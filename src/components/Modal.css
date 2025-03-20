@@ -25,6 +25,17 @@
   max-width: 600px;
 }
 
+.welcome-modal {
+  max-width: 450px;
+  text-align: center;
+}
+
+.welcome-options p,
+.game-id-prompt p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
 .modal-content h2 {
   margin-top: 0;
   text-align: center;
@@ -52,7 +63,24 @@
 .modal-actions {
   display: flex;
   justify-content: center;
+  gap: 1rem;
   margin-top: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.game-id-prompt .modal-actions {
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-id-prompt .form-group {
+  display: flex;
+  width: 100%;
+  gap: 0.5rem;
+}
+
+.game-id-prompt .form-group input {
+  flex: 1;
 }
 
 .btn-primary {
@@ -64,10 +92,36 @@
   font-size: 1rem;
   cursor: pointer;
   transition: background-color 0.2s;
+  min-width: 150px;
 }
 
 .btn-primary:hover {
   background-color: #00008b;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+/* Game identifier display */
+.game-identifier {
+  background-color: #0000AF;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  margin: 1rem 0;
+  font-weight: bold;
 }
 
 /* Guessing modal specific styles */

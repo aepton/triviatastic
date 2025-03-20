@@ -1,0 +1,547 @@
+{
+  "title": "Show #528 - Wednesday, December 17, 1986",
+  "jeopardyRound": {
+    "categories": [
+      "STARTS WITH \"I\"",
+      "SPORTS TRIVIA",
+      "IN THE NEWS",
+      "FICTIONAL CHARACTERS",
+      "POTENT POTABLES",
+      "SUDDEN DEATH"
+    ],
+    "clues": [
+      {
+        "category": "STARTS WITH \"I\"",
+        "value": 100,
+        "question": "The University of Pennsylvania's is 1 of 8 colleges in this league",
+        "answer": "the Ivy League",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TRIVIA",
+        "value": 100,
+        "question": "This city of his birth provided Charles Dillon Stengel with his nickname, Casey",
+        "answer": "Kansas City",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 100,
+        "question": "Major news story that \"leaked\" out of Russia April 28, 1986",
+        "answer": "Chernobyl (the nuclear disaster)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 100,
+        "question": "Novel which features the Joad family, Dust Bowl farmers who move to California",
+        "answer": "Grapes of Wrath",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 100,
+        "question": "It's added to a gin fizz to make it fizz",
+        "answer": "carbonated soda (or soda water or carbonated water)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SUDDEN DEATH",
+        "value": 100,
+        "question": "A proverb states \"See\" this Italian port city \"and die\"",
+        "answer": "Naples",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "STARTS WITH \"I\"",
+        "value": 200,
+        "question": "While it's an infraction in hockey, it really makes the cake",
+        "answer": "icing",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TRIVIA",
+        "value": 200,
+        "question": "In 1986, this ABC show celebrated the thrill of its 25th anniversary",
+        "answer": "The Wide World of Sports",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 200,
+        "question": "He called Mayor Clint Eastwood to ask \"What's an actor who once played with a monkey doing in politics?\"",
+        "answer": "Ronald Reagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 200,
+        "question": "During his 7 voyages, he was sold into slavery, met the cyclops, & got stuck on 2 desert islands",
+        "answer": "Sinbad",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 200,
+        "question": "Whether called a golden spike, golden screw. or screwdriver, it just contains these 2 liquids",
+        "answer": "vodka & orange juice",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SUDDEN DEATH",
+        "value": 200,
+        "question": "Though this actor died a sudden death on Dallas in 1985, he showed up in the shower in 1986",
+        "answer": "Patrick Duffy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "STARTS WITH \"I\"",
+        "value": 300,
+        "question": "On \"Superman\" TV series, rank of Metropolis policeman William Henderson",
+        "answer": "inspector",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SPORTS TRIVIA",
+        "value": 300,
+        "question": "Since \"S\" stands for \"sacrifice\", this letter has been used to symbolize \"strikeout\" since the 1860s",
+        "answer": "K",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 300,
+        "question": "Gov. Deukmejian said \"She fainted very gracefully\" as she toured California Pavilion at Expo '86",
+        "answer": "Princess Diana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 300,
+        "question": "Wilfred, son of Cedric the Saxon, is the title character of this Sir Walter Scott novel",
+        "answer": "Ivanhoe",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 300,
+        "question": "From Latin \"to open\", it's a drink taken to open a meal",
+        "answer": "an apéritif",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SUDDEN DEATH",
+        "value": 300,
+        "question": "With this fun couple, \"He was her man, but he done her wrong\", so she shot him",
+        "answer": "Frankie & Johnny",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "STARTS WITH \"I\"",
+        "value": 800,
+        "question": "In cities, it's usually surrounded by 4 crosswalks",
+        "answer": "an intersection",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 400,
+        "question": "During search for Shuttle debris, the Navy found a floating bag with $13 mil. worth of this contraband",
+        "answer": "cocaine",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 400,
+        "question": "In 1925 Anita Loos novel, hair color of Lorelei Lee",
+        "answer": "blonde",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 400,
+        "question": "Mixer's measure that can run about 1/32 of an ounce, not 100 yards",
+        "answer": "a dash",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SUDDEN DEATH",
+        "value": 400,
+        "question": "According to the Great Karnak \"the noise a sheep makes when it explodes\"",
+        "answer": "sis, boom, baa",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "STARTS WITH \"I\"",
+        "value": 500,
+        "question": "This saint was born in the castle of Loyola, Azpeitia, Spain",
+        "answer": "Ignatius",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "IN THE NEWS",
+        "value": 500,
+        "question": "Not wanting to show passports, diplomats going between this city's halves will show ID cards instead",
+        "answer": "Berlin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "FICTIONAL CHARACTERS",
+        "value": 500,
+        "question": "She helped grandfather to tend goats & Klara, an invalid child, to walk",
+        "answer": "Heidi",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 500,
+        "question": "It's said Jefferson Davis used to lace this bourbon drink with a tablespoonful of French brandy",
+        "answer": "a mint julep",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SUDDEN DEATH",
+        "value": 500,
+        "question": "It's who, on June 3 1953, jumped off the Tallahatchee Bridge",
+        "answer": "Billie Joe McAllister",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "LANGUAGES",
+      "CONSTELLATIONS",
+      "LABOR",
+      "CLASSICAL MUSIC",
+      "QUOTES",
+      "SPINELESS JELLYFISH"
+    ],
+    "clues": [
+      {
+        "category": "LANGUAGES",
+        "value": 200,
+        "question": "Since they're no longer spoken, Sumerian, Etruscan & Gothic are given this lifeless name",
+        "answer": "dead languages",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CONSTELLATIONS",
+        "value": 200,
+        "question": "The Great Square, an astronomical landmark, connects Andromeda & this winged horse",
+        "answer": "Pegasus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LABOR",
+        "value": 200,
+        "question": "Slang for a worker who crosses picket lines; your mother might have told you not to pick it",
+        "answer": "a scab",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 200,
+        "question": "Completes the title of the Strauss waltz, \"On the Beautiful...\"",
+        "answer": "Blue Danube",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "QUOTES",
+        "value": 200,
+        "question": "According to Kris Kristofferson, it's \"just another word for nothing left to lose\"",
+        "answer": "freedom",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SPINELESS JELLYFISH",
+        "value": 200,
+        "question": "He showed he was yellow inside as well as out after Dorothy hit him for scaring Toto",
+        "answer": "the Cowardly Lion",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 400,
+        "question": "Besides English, the play \"Children of a Lesser God\" makes use of this special language",
+        "answer": "sign language",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CONSTELLATIONS",
+        "value": 400,
+        "question": "To find this, follow the line formed by the \"pointer\" stars of the Big Dipper's ladle",
+        "answer": "the North Star (or Pole Star)",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LABOR",
+        "value": 400,
+        "question": "From 1979-83, the UAW headquarters in Detroit wouldn't allow any of these in the parking lot",
+        "answer": "a foreign car",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 400,
+        "question": "This \"King of Swing\" recorded Mozart's Quintet in A Major for Clarinet & Strings",
+        "answer": "Benny Goodman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "QUOTES",
+        "value": 400,
+        "question": "Completes the line from Stephen Crane, \"He wished that he, too, had a wound, a...\"",
+        "answer": "red badge of courage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SPINELESS JELLYFISH",
+        "value": 400,
+        "question": "For 1986 TV movie, he reprised his role as Deputy Barney Fife",
+        "answer": "Don Knotts",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 600,
+        "question": "The film \"Shoah\" credits translation of this language to \"Mrs. Apfelbaum\"",
+        "answer": "Yiddish",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CONSTELLATIONS",
+        "value": 600,
+        "question": "Living along this \"line\", you can, at one time or another, see all the constellations",
+        "answer": "the equator",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LABOR",
+        "value": 600,
+        "question": "1947 labor act which made the \"closed shop\" agreement illegal",
+        "answer": "the Taft-Hartley Act",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 600,
+        "question": "Composer noted for piano playing & playing around with Georges Sand",
+        "answer": "Frédéric Chopin",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "QUOTES",
+        "value": 600,
+        "question": "Nathan Forrest is quoted as coining this rule of war: \"Get there 1st with...\" this",
+        "answer": "the most",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SPINELESS JELLYFISH",
+        "value": 1200,
+        "question": "Title of the following:\"Promise me, Son, not to do the things I've done / Walk away from trouble if you can / Now, it won't mean you're weak if you turn the other cheek / I hope you're old enough to understand...\"",
+        "answer": "\"Coward Of The County\"",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 800,
+        "question": "Foreign language in which U.S. commercials for both Fibre Trim & Perma Soft were done",
+        "answer": "French",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CONSTELLATIONS",
+        "value": 800,
+        "question": "Part of the Big Dog, it appears as the brightest star in our night sky",
+        "answer": "Sirius (the Dog Star)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LABOR",
+        "value": 800,
+        "question": "Based on their occupation, U.S. union the 7 dwarfs might join today to get a health plan & pension",
+        "answer": "the United Mine Workers",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 800,
+        "question": "Haydn's Symphony No. 94 in G Major was named this, from the sudden loud chord which made the lades wake up",
+        "answer": "the Surprise Symphony",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "QUOTES",
+        "value": 800,
+        "question": "Shakespeare wrote that it was wasteful & ridiculous \"to gild refined gold or paint...\" this",
+        "answer": "the lily",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SPINELESS JELLYFISH",
+        "value": 800,
+        "question": "Now come to mean any meek person, it was the last name of Caspar in H.T. Webster's comic strip",
+        "answer": "Milquetoast",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "LANGUAGES",
+        "value": 1000,
+        "question": "Language that originally gave us the word \"language\"",
+        "answer": "Latin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "LABOR",
+        "value": 1000,
+        "question": "It is considered the successor to the Knights of Labor",
+        "answer": "the AFL (the American Federation of Labor)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "CLASSICAL MUSIC",
+        "value": 1000,
+        "question": "In \"Spring Symphony\", Nastassja Kinski plays Clara Wieck, pianist & wife of this composer",
+        "answer": "Schumann",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "QUOTES",
+        "value": 2000,
+        "question": "In 1955 play, Tennessee Williams wrote, \"Nothing's more determined than...\" this",
+        "answer": "a cat on a hot tin roof",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SPINELESS JELLYFISH",
+        "value": 1000,
+        "question": "Bully from \"Tom Brown's Schooldays\" who became reluctant hero of George McDonald Fraser series",
+        "answer": "Harry Flashman",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "KID STUFF",
+    "clue": "In tic-tac-toe, maximum number of X's you can have on the board without winning",
+    "answer": "5"
+  },
+  "gameId": "528",
+  "gameDate": "Wednesday, December 17, 1986"
+}

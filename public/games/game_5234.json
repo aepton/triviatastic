@@ -1,0 +1,475 @@
+{
+  "title": "Show #15 - Friday, September 28, 1984",
+  "jeopardyRound": {
+    "categories": [
+      "EDUCATION",
+      "TRENDS",
+      "U.S. HISTORY",
+      "THE COMICS",
+      "THE HOME",
+      "WORLD SERIES"
+    ],
+    "clues": [
+      {
+        "category": "EDUCATION",
+        "value": 100,
+        "question": "Traditional color of the one-room schoolhouse",
+        "answer": "red",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TRENDS",
+        "value": 100,
+        "question": "French crescent rolls now stuffed with everything from Spinach to chocolate",
+        "answer": "croissants",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 100,
+        "question": "Planned under Eisenhower, invasion of this Caribbean island failed under Kennedy",
+        "answer": "Cuba",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "WORLD SERIES",
+        "value": 100,
+        "question": "It took them 65 yrs. to win for Brooklyn, only 2 to win for L.A.",
+        "answer": "the Dodgers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "EDUCATION",
+        "value": 200,
+        "question": "First American home of higher education, it educated JFK",
+        "answer": "Harvard",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TRENDS",
+        "value": 200,
+        "question": "Inspired by Spielberg hit, these dolls come both cuddly & creepy",
+        "answer": "Gremlins",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "Episode in history this song is associated with:\"Once I built a railroad, I made it run /Made it race against time...\"",
+        "answer": "the Great Depression",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "THE COMICS",
+        "value": 200,
+        "question": "This bow-tied redhead's been going to Riverdale High for over 40 years",
+        "answer": "Archie Andrews",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WORLD SERIES",
+        "value": 200,
+        "question": "5 home runs in '77 Series, 3 in 1 game, earned him nickname \"Mr. October\"",
+        "answer": "Reggie Jackson",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "EDUCATION",
+        "value": 300,
+        "question": "Brown v. Board of Education ruling outlawed this",
+        "answer": "segregated schools",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TRENDS",
+        "value": 300,
+        "question": "Sought-after Canadian board game that places mind over minutia",
+        "answer": "Trivial Pursuit",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 300,
+        "question": "From 1836-45, this state was an independent country",
+        "answer": "Texas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "THE COMICS",
+        "value": 300,
+        "question": "Walt Kelly comic character who 1st said, \"We have met the enemy & he is us\"",
+        "answer": "Pogo",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "THE HOME",
+        "value": 300,
+        "question": "Tuber that soaks up excess salt when added to your stew",
+        "answer": "the potato",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "WORLD SERIES",
+        "value": 300,
+        "question": "Played in the most World Series (14), all for the Yankees, & is now their manager",
+        "answer": "Yogi Berra",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "EDUCATION",
+        "value": 400,
+        "question": "Brooke Shields recently had her Triangle Club Revue debut at this Ivy League college",
+        "answer": "Princeton",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TRENDS",
+        "value": 400,
+        "question": "To use one, stick your floppy in your disk drive & boot",
+        "answer": "your computer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 400,
+        "question": "In '34, LA gov. known as \"Kingfish\" proposed guaranteed income of $5,000 per family",
+        "answer": "Huey Long",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "THE COMICS",
+        "value": 400,
+        "question": "Bratty bros. whose German name means both \"hangover\" & \"the yowling of cats\"",
+        "answer": "the Katzenjammer Kids",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WORLD SERIES",
+        "value": 400,
+        "question": "Team that threw Series in 1919 \"Black Sox\" scandal",
+        "answer": "the Chicago White Sox",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "EDUCATION",
+        "value": 500,
+        "question": "A progressive preschool program was named for this Italian woman",
+        "answer": "Maria Montessori",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TRENDS",
+        "value": 500,
+        "question": "Swimwear that lets you tan all over without taking it all off",
+        "answer": "the unsuit",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "U.S. HISTORY",
+        "value": 500,
+        "question": "Many consider his appointment as Chief Justice in 1801 most important appointment in U.S. history",
+        "answer": "John Marshall",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "THE COMICS",
+        "value": 500,
+        "question": "Peanuts' Schroeder celebrates it every December 16",
+        "answer": "Beethoven's birthday",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WORLD SERIES",
+        "value": 500,
+        "question": "Though they'd never before finished higher than 9th, amazingly they won the '69 Series",
+        "answer": "the New York Mets",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "TYPES OF GOVERNMENT",
+      "GEOGRAPHY",
+      "TV TRADEMARKS",
+      "LITERATURE",
+      "POTENT POTABLES",
+      "CHEMISTRY"
+    ],
+    "clues": [
+      {
+        "category": "TYPES OF GOVERNMENT",
+        "value": 200,
+        "question": "State ruled by a king, queen or emperor",
+        "answer": "a monarchy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 200,
+        "question": "World's longest mountain chain, stretching 4,500 miles across South America",
+        "answer": "the Andes",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "TV TRADEMARKS",
+        "value": 200,
+        "question": "Keeps a cool head thanks to his Mohawk hairdo",
+        "answer": "Mr. T",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "She found things \"curiouser & curiouser\" in Wonderland",
+        "answer": "Alice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 200,
+        "question": "It makes a Black Russian \"white\"",
+        "answer": "cream",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "TYPES OF GOVERNMENT",
+        "value": 400,
+        "question": "From the Greek, it means \"the people rule\"",
+        "answer": "a democracy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 400,
+        "question": "1 of 3 countries with territory on 2 continents",
+        "answer": "(1 of) Turkey, Russia or Egypt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "TV TRADEMARKS",
+        "value": 400,
+        "question": "Before he was grounded, Tattoo announced its arrival  every week",
+        "answer": "de plane",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 400,
+        "question": "A sprinkle of salt & slice of lime traditionally accompany it",
+        "answer": "tequila",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "TYPES OF GOVERNMENT",
+        "value": 600,
+        "question": "According to Marx, under this system, government is supposed to wither away",
+        "answer": "communism",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 600,
+        "question": "Direction you generally travel in sailing up the Nile",
+        "answer": "South",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "TV TRADEMARKS",
+        "value": 600,
+        "question": "Jim Rockford's beach home",
+        "answer": "mobile home or trailer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 600,
+        "question": "Cartoon critters who share their name with holiday rum & eggnog mix",
+        "answer": "Tom & Jerry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "TYPES OF GOVERNMENT",
+        "value": 800,
+        "question": "The one who's in charge under anarchy",
+        "answer": "no one",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 800,
+        "question": "\"Mexican\" region that also contains parts of Guatemala and nearly all of Belize",
+        "answer": "the Yucatan",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "TV TRADEMARKS",
+        "value": 800,
+        "question": "his easy chair traveled from Queens to the Smithsonian",
+        "answer": "Archie Bunker",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 800,
+        "question": "The liquid you use less of to make your martini dry",
+        "answer": "vermouth",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "CHEMISTRY",
+        "value": 800,
+        "question": "World's cheapest metal, it's an essential element in the blood",
+        "answer": "iron",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "TYPES OF GOVERNMENT",
+        "value": 1000,
+        "question": "In a theocracy, those thought to be his representatives rule",
+        "answer": "God",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "GEOGRAPHY",
+        "value": 2000,
+        "question": "\"From the halls of Montezuma to the shores of Tripoli\" refer to these 2 countries",
+        "answer": "Mexico & Libya",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "TV TRADEMARKS",
+        "value": 1000,
+        "question": "The loser of the week was the winner of Dick & Dan's digital appendage",
+        "answer": "the Fickle Finger of Fate Award",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "He gave us his cockeyed world in \"My World & Welcome to It\"",
+        "answer": "Thurber",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "POTENT POTABLES",
+        "value": 1000,
+        "question": "A wine's fragrance",
+        "answer": "bouquet",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CHEMISTRY",
+        "value": 1000,
+        "question": "After oxygen, this element associated with computer chips is the most common in the earth's crust",
+        "answer": "silicon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "MATHEMATICS",
+    "clue": "The number of zeros in 1 trillion",
+    "answer": "12"
+  },
+  "gameId": "15",
+  "gameDate": "Friday, September 28, 1984"
+}
