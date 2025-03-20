@@ -1,7 +1,6 @@
 import React, { useState, useEffect, forwardRef, useImperativeHandle } from 'react';
 import './JeopardyBoard.css';
 import Category from './Category';
-import UserSetupModal from './UserSetupModal';
 import Scoreboard from './Scoreboard';
 
 // Default data in case the fetch fails
@@ -94,6 +93,31 @@ const JeopardyBoard = forwardRef((props, ref) => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
   const [users, setUsers] = useState([]);
+  const [tileStates, setTileStates] = useState({});
+  const [lastUpdated, setLastUpdated] = useState(null);
+  
+  // Initialize tile states when categories change
+  useEffect(() => {
+    const newTileStates = {};
+    
+    categories.forEach((category, categoryIndex) => {
+      category.questions.forEach((question, questionIndex) => {
+        const tileId = `${categoryIndex}-${questionIndex}`;
+        if (!tileStates[tileId]) {
+          newTileStates[tileId] = {
+            isFlipped: false,
+            isAnswerShown: false,
+            isBlank: false
+          };
+        } else {
+          // Preserve existing state if it exists
+          newTileStates[tileId] = tileStates[tileId];
+        }
+      });
+    });
+    
+    setTileStates(newTileStates);
+  }, [categories]);
 
   // Expose methods to parent components via ref
   useImperativeHandle(ref, () => ({
@@ -102,6 +126,22 @@ const JeopardyBoard = forwardRef((props, ref) => {
     },
     setUsers: (newUsers) => {
       setUsers(newUsers);
+    },
+    getCurrentState: () => {
+      return {
+        categories,
+        users,
+        tileStates,
+        lastUpdated: new Date().toISOString()
+      };
+    },
+    loadState: (state) => {
+      if (!state) return;
+      
+      if (state.categories) setCategories(state.categories);
+      if (state.users) setUsers(state.users);
+      if (state.tileStates) setTileStates(state.tileStates);
+      if (state.lastUpdated) setLastUpdated(state.lastUpdated);
     }
   }));
 
@@ -128,17 +168,36 @@ const JeopardyBoard = forwardRef((props, ref) => {
 
   const handleSaveUsers = (newUsers) => {
     setUsers(newUsers);
-    setShowUserSetupModal(false);
   };
 
   const handleScoreUpdate = (updatedUsers) => {
     setUsers(updatedUsers);
+    
+    // Signal a state change to trigger save
+    if (props.onStateChange) {
+      props.onStateChange();
+    }
   };
 
   const handleResetUsers = () => {
     // Signal to parent component to show the user setup modal
     if (props.onRequestUserSetup) {
       props.onRequestUserSetup();
+    }
+  };
+  
+  // Handle a tile state change
+  const handleTileStateChange = (categoryIndex, questionIndex, newState) => {
+    const tileId = `${categoryIndex}-${questionIndex}`;
+    
+    setTileStates(prevStates => ({
+      ...prevStates,
+      [tileId]: newState
+    }));
+    
+    // Signal a state change to trigger save
+    if (props.onStateChange) {
+      props.onStateChange();
     }
   };
 
@@ -148,12 +207,15 @@ const JeopardyBoard = forwardRef((props, ref) => {
       {error && <div className="error">Error: {error}</div>}
       
       <div className="jeopardy-board">
-        {categories.map((category, index) => (
+        {categories.map((category, categoryIndex) => (
           <Category 
-            key={index} 
-            category={category} 
+            key={categoryIndex}
+            category={category}
+            categoryIndex={categoryIndex}
             users={users}
             onScoreUpdate={handleScoreUpdate}
+            tileStates={tileStates}
+            onTileStateChange={handleTileStateChange}
           />
         ))}
       </div>

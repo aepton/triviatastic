@@ -7,6 +7,7 @@ import UserSetupModal from './components/UserSetupModal';
 import { loadJeopardyArchive, convertToJeopardyBoardFormat } from './parseArchive';
 import fetchJArchiveGame from './jarchiveLoader';
 import { loadGameAndGenerateIdentifier } from './utils/gameUtils';
+import { saveGameState, loadGameState } from './utils/storageUtils';
 
 function App() {
   const [isLoading, setIsLoading] = useState(false);
@@ -29,11 +30,29 @@ function App() {
       setGameIdentifier(identifierParam);
       setShowWelcomeModal(false);
       setShowUserSetupModal(true); // Show user setup when joining via URL
-      // Here we would typically look up the game associated with this identifier
-      // For now, we'll just display the identifier
+      
+      // Load the saved game state from Digital Ocean Spaces
+      fetchGameState(identifierParam);
+      
       setMessage(`Joined game with identifier: ${identifierParam}`);
     }
   }, []);
+
+  // Set up periodic syncing for game state
+  useEffect(() => {
+    if (!gameIdentifier) return;
+    
+    // Save initial state when game identifier is set
+    saveCurrentGameState();
+    
+    // Set up polling interval for fetching updates (every 5 seconds)
+    const syncInterval = setInterval(() => {
+      fetchGameState(gameIdentifier);
+    }, 5000);
+    
+    // Clean up interval when component unmounts or identifier changes
+    return () => clearInterval(syncInterval);
+  }, [gameIdentifier]);
   
   // Effect to reload the board when round changes
   useEffect(() => {
@@ -152,6 +171,10 @@ function App() {
       setShowWelcomeModal(false);
       setShowUserSetupModal(true);
       
+      // Initial save of game state to Digital Ocean Spaces
+      // This will be called again after the users are set up
+      saveCurrentGameState();
+      
       setMessage(`Created game with identifier: ${identifier}`);
     } catch (error) {
       console.error('Error creating game:', error);
@@ -177,11 +200,74 @@ function App() {
     setShowJoinModal(true);
   };
 
+  // Save current game state to Digital Ocean Spaces
+  const saveCurrentGameState = async () => {
+    if (!gameIdentifier || !jeopardyBoardRef.current) return;
+    
+    try {
+      const gameState = jeopardyBoardRef.current.getCurrentState();
+      
+      // Add game metadata
+      const stateToSave = {
+        ...gameState,
+        gameId,
+        round,
+        metadata: {
+          savedAt: new Date().toISOString(),
+          gameIdentifier,
+        }
+      };
+      
+      // Save to Digital Ocean Spaces
+      await saveGameState(gameIdentifier, stateToSave);
+      console.log(`Game state saved for ${gameIdentifier}`);
+    } catch (error) {
+      console.error('Error saving game state:', error);
+    }
+  };
+  
+  // Fetch game state from Digital Ocean Spaces
+  const fetchGameState = async (identifier) => {
+    if (!identifier || !jeopardyBoardRef.current) return;
+    
+    try {
+      // Fetch the state from Digital Ocean Spaces
+      const gameState = await loadGameState(identifier);
+      
+      if (gameState) {
+        // Update local state with fetched data
+        if (gameState.gameId && gameState.gameId !== gameId) {
+          setGameId(gameState.gameId);
+        }
+        
+        if (gameState.round && gameState.round !== round) {
+          setRound(gameState.round);
+        }
+        
+        // Load the state into the board
+        jeopardyBoardRef.current.loadState(gameState);
+        
+        console.log(`Game state loaded for ${identifier}, last updated: ${gameState.lastUpdated}`);
+      }
+    } catch (error) {
+      console.error('Error fetching game state:', error);
+    }
+  };
+  
+  // Handle game state changes
+  const handleGameStateChange = () => {
+    // Save game state whenever a change occurs
+    saveCurrentGameState();
+  };
+
   // Handle user setup
   const handleSaveUsers = (users) => {
     // Pass users to JeopardyBoard
     if (jeopardyBoardRef.current && typeof jeopardyBoardRef.current.setUsers === 'function') {
       jeopardyBoardRef.current.setUsers(users);
+      
+      // Save state after users are added
+      saveCurrentGameState();
     }
     setShowUserSetupModal(false);
   };
@@ -235,6 +321,7 @@ function App() {
       <JeopardyBoard 
         ref={jeopardyBoardRef} 
         onRequestUserSetup={() => setShowUserSetupModal(true)}
+        onStateChange={handleGameStateChange}
       />
     </div>
   );

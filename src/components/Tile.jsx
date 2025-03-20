@@ -2,34 +2,55 @@ import React, { useState } from 'react';
 import './Tile.css';
 import GuessingModal from './GuessingModal';
 
-function Tile({ question, users, onScoreUpdate }) {
-  const [isFlipped, setIsFlipped] = useState(false);
-  const [isAnswerShown, setIsAnswerShown] = useState(false);
-  const [isBlank, setIsBlank] = useState(false);
+function Tile({ 
+  question, 
+  categoryIndex, 
+  questionIndex, 
+  users, 
+  onScoreUpdate, 
+  tileState, 
+  onTileStateChange 
+}) {
   const [showGuessingModal, setShowGuessingModal] = useState(false);
+  
+  // Destructure tile state
+  const { isFlipped, isAnswerShown, isBlank } = tileState || {
+    isFlipped: false, 
+    isAnswerShown: false, 
+    isBlank: false
+  };
+
+  const updateTileState = (newState) => {
+    onTileStateChange(categoryIndex, questionIndex, {
+      ...tileState,
+      ...newState
+    });
+  };
 
   const handleClick = () => {
     if (!isFlipped) {
-      setIsFlipped(true);
+      updateTileState({ isFlipped: true });
     } else if (!isAnswerShown) {
-      setIsAnswerShown(true);
+      updateTileState({ isAnswerShown: true });
     } else if (!isBlank && !showGuessingModal && users && users.length > 0) {
       // Show guessing modal if users are available
       setShowGuessingModal(true);
     } else if (!isBlank) {
       // If no users or modal was dismissed, go to blank state
-      setIsBlank(true);
+      updateTileState({ isBlank: true });
     } else {
       // Reset tile if clicked when blank
-      setIsFlipped(false);
-      setIsAnswerShown(false);
-      setIsBlank(false);
+      updateTileState({ 
+        isFlipped: false, 
+        isAnswerShown: false, 
+        isBlank: false 
+      });
     }
   };
 
   const handleGuessingModalClose = () => {
     setShowGuessingModal(false);
-    setIsBlank(true); // Transition to blank state after guessing
+    updateTileState({ isBlank: true }); // Transition to blank state after guessing
   };
 
   return (
