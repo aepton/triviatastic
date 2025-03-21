@@ -10,24 +10,27 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
   const [hasSubmissions, setHasSubmissions] = useState({});
   
   useEffect(() => {
-    // Initialize state for each user
+    // Initialize state for each user, but only when component first mounts
+    // or when new users are added (not when users are updated with new scores)
     const initialAnswers = {};
     const initialWagers = {};
     const initialCorrect = {};
     const initialSubmissions = {};
     
     users.forEach(user => {
-      initialAnswers[user.name] = "";
-      initialWagers[user.name] = "";
-      initialCorrect[user.name] = null;
-      initialSubmissions[user.name] = false;
+      // Preserve existing values if they exist, otherwise initialize to empty
+      initialAnswers[user.name] = playerAnswers[user.name] || "";
+      initialWagers[user.name] = playerWagers[user.name] || "";
+      initialCorrect[user.name] = correctGuessers[user.name] !== undefined ? correctGuessers[user.name] : null;
+      initialSubmissions[user.name] = hasSubmissions[user.name] || false;
     });
     
     setPlayerAnswers(initialAnswers);
     setPlayerWagers(initialWagers);
     setCorrectGuessers(initialCorrect);
     setHasSubmissions(initialSubmissions);
-  }, [users]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
   
   // Poll for submitted answers regularly if not showing answers yet
   useEffect(() => {
@@ -318,6 +321,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
                     onChange={(e) => handleAnswerChange(user.name, e.target.value)}
                     placeholder="Answer"
                     readOnly={showAnswers}
+                    data-1p-ignore="true"
                   />
                   
                   <input
@@ -326,6 +330,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
                     onChange={(e) => handleWagerChange(user.name, e.target.value)}
                     placeholder="Wager"
                     readOnly={showAnswers}
+                    data-1p-ignore="true"
                   />
                   
                   {!showAnswers && (

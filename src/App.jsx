@@ -421,7 +421,7 @@ function App() {
       // Save to Digital Ocean Spaces (this also saves to localStorage internally)
       await saveGameState(gameIdentifier, stateToSave);
       
-      console.log(`Game state saved for ${gameIdentifier}`);
+      console.log(`Game state saved for ${gameIdentifier}`, stateToSave);
     } catch (error) {
       console.error('Error saving game state:', error);
     }
@@ -475,7 +475,10 @@ function App() {
         
         // Always load the full state with categories and tile states
         // This ensures joiners see the correct categories when they join
-        jeopardyBoardRef.current.loadState(gameState);
+        // Don't load state if we're in final jeopardy to prevent wiping input values
+        if (gameState.round !== 'finalJeopardy' || !showFinalJeopardyModal) {
+          jeopardyBoardRef.current.loadState(gameState);
+        }
         
         console.log(`Game state loaded for ${identifier}, last updated: ${gameState.lastUpdated}`, gameState);
       }
@@ -499,7 +502,14 @@ function App() {
       if (isGameCreator) {
         console.log('Game creator saving state after score update');
         // Explicitly pass the round to avoid React's asynchronicity issues
-        saveCurrentGameState(updatedUsers, round);
+        
+        // For Final Jeopardy, only update the users without refreshing the full state
+        if (round === 'finalJeopardy') {
+          // Just update users without a full state reload to preserve input values
+          saveCurrentGameState(updatedUsers, round, showFinalJeopardyModal);
+        } else {
+          saveCurrentGameState(updatedUsers, round);
+        }
       } else {
         console.log('Game joiner not saving state after score update');
       }
