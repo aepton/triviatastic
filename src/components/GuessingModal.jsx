@@ -5,9 +5,9 @@ function GuessingModal({ users, questionValue, onClose, onScoreUpdate }) {
   const [correctGuessers, setCorrectGuessers] = useState([]);
   const [incorrectGuessers, setIncorrectGuessers] = useState([]);
 
-  const toggleUserGuess = (userId, isCorrect) => {
-    if (isCorrect) {
-      // Handle correct guessers
+  const toggleUserGuess = (userId, guessStatus) => {
+    if (guessStatus === 'correct') {
+      // Toggle correct status
       if (correctGuessers.includes(userId)) {
         setCorrectGuessers(correctGuessers.filter(id => id !== userId));
       } else {
@@ -15,8 +15,8 @@ function GuessingModal({ users, questionValue, onClose, onScoreUpdate }) {
         // Remove from incorrect if present
         setIncorrectGuessers(incorrectGuessers.filter(id => id !== userId));
       }
-    } else {
-      // Handle incorrect guessers
+    } else if (guessStatus === 'incorrect') {
+      // Toggle incorrect status
       if (incorrectGuessers.includes(userId)) {
         setIncorrectGuessers(incorrectGuessers.filter(id => id !== userId));
       } else {
@@ -24,6 +24,10 @@ function GuessingModal({ users, questionValue, onClose, onScoreUpdate }) {
         // Remove from correct if present
         setCorrectGuessers(correctGuessers.filter(id => id !== userId));
       }
+    } else {
+      // Clear both statuses (neutral state)
+      setCorrectGuessers(correctGuessers.filter(id => id !== userId));
+      setIncorrectGuessers(incorrectGuessers.filter(id => id !== userId));
     }
   };
 
@@ -54,42 +58,31 @@ function GuessingModal({ users, questionValue, onClose, onScoreUpdate }) {
   return (
     <div className="modal-overlay">
       <div className="modal-content guessing-modal">
-        <h2>Who Guessed Correctly/Incorrectly?</h2>
-        <h3>Value: ${questionValue}</h3>
+        <h2>Who Guessed?</h2>
         
         <form onSubmit={handleSubmit}>
-          <div className="players-container">
-            <div className="correct-guessers">
-              <h4>Correct Guessers (+${questionValue})</h4>
-              {users.map(user => (
-                <div key={`correct-${user.name}`} className="player-choice">
-                  <label className={correctGuessers.includes(user.name) ? 'selected' : ''}>
-                    <input
-                      type="checkbox"
-                      checked={correctGuessers.includes(user.name)}
-                      onChange={() => toggleUserGuess(user.name, true)}
-                    />
-                    {user.name}
-                  </label>
+          <div className="players-list">
+            {users.map(user => (
+              <div key={user.name} className="player-guess-row">
+                <span className="player-name">{user.name}</span>
+                <div className="guess-toggles">
+                  <button 
+                    type="button"
+                    className={`toggle-btn ${correctGuessers.includes(user.name) ? 'correct-active' : ''}`}
+                    onClick={() => toggleUserGuess(user.name, correctGuessers.includes(user.name) ? 'neutral' : 'correct')}
+                  >
+                    ✓
+                  </button>
+                  <button 
+                    type="button"
+                    className={`toggle-btn ${incorrectGuessers.includes(user.name) ? 'incorrect-active' : ''}`}
+                    onClick={() => toggleUserGuess(user.name, incorrectGuessers.includes(user.name) ? 'neutral' : 'incorrect')}
+                  >
+                    ✗
+                  </button>
                 </div>
-              ))}
-            </div>
-            
-            <div className="incorrect-guessers">
-              <h4>Incorrect Guessers (-${questionValue})</h4>
-              {users.map(user => (
-                <div key={`incorrect-${user.name}`} className="player-choice">
-                  <label className={incorrectGuessers.includes(user.name) ? 'selected' : ''}>
-                    <input
-                      type="checkbox"
-                      checked={incorrectGuessers.includes(user.name)}
-                      onChange={() => toggleUserGuess(user.name, false)}
-                    />
-                    {user.name}
-                  </label>
-                </div>
-              ))}
-            </div>
+              </div>
+            ))}
           </div>
           
           <div className="modal-actions">

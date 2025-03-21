@@ -21,22 +21,64 @@ function App() {
   const [showUserSetupModal, setShowUserSetupModal] = useState(false);
   const jeopardyBoardRef = useRef(null);
 
-  // Effect to check for game identifier in URL parameters when the app loads
+  // Effect to check for game identifier or game ID in URL parameters when the app loads
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const identifierParam = params.get('id');
+    const gameIdParam = params.get('gameid');
+
+    console.log('got identifierParam:', identifierParam);
+    console.log('got gameIdParam:', gameIdParam);
     
     if (identifierParam) {
+      // Handle joining a game with an identifier
       setGameIdentifier(identifierParam);
       setShowWelcomeModal(false);
-      setShowUserSetupModal(true); // Show user setup when joining via URL
+      setShowUserSetupModal(false); // Show user setup when joining via URL
       
       // Load the saved game state from Digital Ocean Spaces
       fetchGameState(identifierParam);
       
       setMessage(`Joined game with identifier: ${identifierParam}`);
+    } else if (gameIdParam) {
+      // Handle loading a specific game by ID
+      setShowWelcomeModal(false);
+      setIsLoading(true);
+      setMessage(`Loading game #${gameIdParam}...`);
+      
+      // Directly load the game and generate identifier
+      loadGameAndGenerateIdentifier(gameIdParam)
+        .then(({ gameData, identifier }) => {
+          // Store the game data and ID
+          setArchiveData(gameData);
+          setGameId(gameIdParam);
+          setGameIdentifier(identifier);
+          
+          // Update URL with the game identifier
+          updateUrlWithIdentifier(identifier);
+          
+          // Load the board with the current round
+          loadBoardWithArchiveData(gameData, round);
+          
+          // Show user setup
+          setShowUserSetupModal(true);
+          
+          // Initial save of game state
+          saveCurrentGameState();
+          
+          setMessage(`Loaded game #${gameIdParam}`);
+        })
+        .catch(error => {
+          console.error('Error loading game:', error);
+          setMessage(`Error: ${error.message}`);
+          setShowWelcomeModal(true); // Show welcome modal if loading fails
+        })
+        .finally(() => {
+          setIsLoading(false);
+        });
     }
-  }, []);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [/* Dependency array intentionally empty to only run on mount */]);
 
   // Set up periodic syncing for game state
   useEffect(() => {
