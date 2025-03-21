@@ -78,8 +78,29 @@ const JeopardyBoard = forwardRef((props, ref) => {
       if (!state) return;
       
       if (state.categories) setCategories(state.categories);
-      if (state.users) setUsers(state.users);
-      if (state.tileStates) setTileStates(state.tileStates);
+      
+      // Always update users when they're available in the state
+      if (state.users && state.users.length > 0) {
+        setUsers(state.users);
+      }
+      
+      // Properly merge tile states, preserving local interaction state but taking remote data
+      if (state.tileStates) {
+        setTileStates(prevTileStates => {
+          const newTileStates = {...prevTileStates};
+          
+          // Update all tiles from remote state
+          Object.keys(state.tileStates).forEach(tileId => {
+            newTileStates[tileId] = {
+              ...newTileStates[tileId],
+              ...state.tileStates[tileId]
+            };
+          });
+          
+          return newTileStates;
+        });
+      }
+      
       if (state.lastUpdated) setLastUpdated(state.lastUpdated);
     }
   }));
@@ -114,7 +135,7 @@ const JeopardyBoard = forwardRef((props, ref) => {
     
     // Signal a state change to trigger save
     if (props.onStateChange) {
-      props.onStateChange();
+      props.onStateChange(updatedUsers);
     }
   };
 
@@ -134,10 +155,8 @@ const JeopardyBoard = forwardRef((props, ref) => {
       [tileId]: newState
     }));
     
-    // Signal a state change to trigger save
-    if (props.onStateChange) {
-      props.onStateChange();
-    }
+    // No longer trigger save on tile state changes
+    // Only the handleScoreUpdate function will trigger saves
   };
 
   return (

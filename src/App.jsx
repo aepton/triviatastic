@@ -19,6 +19,7 @@ function App() {
   const [showWelcomeModal, setShowWelcomeModal] = useState(true);
   const [showJoinModal, setShowJoinModal] = useState(false);
   const [showUserSetupModal, setShowUserSetupModal] = useState(false);
+  const [users, setUsers] = useState([]);
   const jeopardyBoardRef = useRef(null);
 
   // Effect to check for game identifier or game ID in URL parameters when the app loads
@@ -26,9 +27,6 @@ function App() {
     const params = new URLSearchParams(window.location.search);
     const identifierParam = params.get('id');
     const gameIdParam = params.get('gameid');
-
-    console.log('got identifierParam:', identifierParam);
-    console.log('got gameIdParam:', gameIdParam);
     
     if (identifierParam) {
       // Handle joining a game with an identifier
@@ -242,16 +240,22 @@ function App() {
     setShowJoinModal(true);
   };
 
-  // Save current game state to Digital Ocean Spaces
-  const saveCurrentGameState = async () => {
+  // Save current game state to Digital Ocean Spaces and localStorage
+  const saveCurrentGameState = async (customUsers = null) => {
     if (!gameIdentifier || !jeopardyBoardRef.current) return;
     
     try {
+      // Get current state from the board
       const gameState = jeopardyBoardRef.current.getCurrentState();
+      
+      // Use custom users if provided, otherwise fallback to the priority order
+      const usersToSave = customUsers || 
+                          (gameState.users && gameState.users.length > 0 ? gameState.users : users);
       
       // Add game metadata
       const stateToSave = {
         ...gameState,
+        users: usersToSave, // Make sure users are explicitly included
         gameId,
         round,
         metadata: {
@@ -260,20 +264,23 @@ function App() {
         }
       };
       
-      // Save to Digital Ocean Spaces
+      console.log('Saving game state', stateToSave);
+      
+      // Save to Digital Ocean Spaces (this also saves to localStorage internally)
       await saveGameState(gameIdentifier, stateToSave);
+      
       console.log(`Game state saved for ${gameIdentifier}`);
     } catch (error) {
       console.error('Error saving game state:', error);
     }
   };
   
-  // Fetch game state from Digital Ocean Spaces
+  // Fetch game state from Digital Ocean Spaces (with localStorage fallback)
   const fetchGameState = async (identifier) => {
     if (!identifier || !jeopardyBoardRef.current) return;
     
     try {
-      // Fetch the state from Digital Ocean Spaces
+      // Fetch the state from Digital Ocean Spaces (with localStorage fallback)
       const gameState = await loadGameState(identifier);
       
       if (gameState) {
@@ -286,6 +293,11 @@ function App() {
           setRound(gameState.round);
         }
         
+        // Update App-level users state if users exist in loaded state
+        if (gameState.users && gameState.users.length > 0) {
+          setUsers(gameState.users);
+        }
+        
         // Load the state into the board
         jeopardyBoardRef.current.loadState(gameState);
         
@@ -296,20 +308,28 @@ function App() {
     }
   };
   
-  // Handle game state changes
-  const handleGameStateChange = () => {
-    // Save game state whenever a change occurs
+  // Handle game state changes (only called when points are awarded after guesses)
+  const handleGameStateChange = (updatedUsers) => {
+    // Update App-level users state with the latest scores
+    if (updatedUsers && updatedUsers.length > 0) {
+      setUsers(updatedUsers);
+    }
+    
+    // Save game state only when scores are updated
     saveCurrentGameState();
   };
 
   // Handle user setup
-  const handleSaveUsers = (users) => {
+  const handleSaveUsers = (newUsers) => {
+    // Update the App-level state with users
+    setUsers(newUsers);
+    
     // Pass users to JeopardyBoard
     if (jeopardyBoardRef.current && typeof jeopardyBoardRef.current.setUsers === 'function') {
-      jeopardyBoardRef.current.setUsers(users);
+      jeopardyBoardRef.current.setUsers(newUsers);
       
-      // Save state after users are added
-      saveCurrentGameState();
+      // Pass the newUsers directly to saveCurrentGameState to ensure users are saved correctly
+      saveCurrentGameState(newUsers);
     }
     setShowUserSetupModal(false);
   };

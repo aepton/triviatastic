@@ -44,7 +44,7 @@ function WelcomeModal({ onClose, onCreateGame, onJoinGame }) {
   return (
     <div className="modal-overlay">
       <div className="modal-content welcome-modal">
-        <h2>Welcome to Jeopardy!</h2>
+        <h2>Welcome to ¡Jeopardy!</h2>
         
         {!showGameIdPrompt ? (
           <div className="welcome-options">
