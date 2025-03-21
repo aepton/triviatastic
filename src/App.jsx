@@ -532,6 +532,11 @@ function App() {
     <div className="app">
       <h1 className="title">¡Jeopardy!</h1>
       
+      {/* Display game title when available */}
+      {archiveData && archiveData.title && (
+        <div className="game-title">{archiveData.title}</div>
+      )}
+      
       {/* Show the welcome modal on initial load */}
       {showWelcomeModal && (
         <WelcomeModal 

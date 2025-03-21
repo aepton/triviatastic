@@ -1,6 +1,7 @@
 .app {
   max-width: 1200px;
   margin: 0 auto;
+  position: relative;
 }
 
 .title {
@@ -11,6 +12,22 @@
   text-shadow: 3px 3px 0 #000;
   font-weight: bold;
   letter-spacing: 1px;
+}
+
+.game-title {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #0066CC;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .archive-tools {
@@ -139,4 +156,10 @@
   font-weight: bold;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   text-align: center;
+}
+
+/* Disable 1Password autofill */
+input {
+  autocomplete: "off";
+  -webkit-autofill: "off";
 }

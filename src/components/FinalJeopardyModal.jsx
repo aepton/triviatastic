@@ -180,20 +180,36 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
       currentWager: playerWagers[userName]
     });
     
+    // Determine if we should toggle off or set to a new value
+    const newCorrectValue = correctGuessers[userName] === isCorrect ? null : isCorrect;
+    
     // Update the correct/incorrect state
     setCorrectGuessers(prev => ({
       ...prev,
-      [userName]: isCorrect
+      [userName]: newCorrectValue
     }));
     
-    // If we're toggling to a definite state (true or false), update scores immediately
-    if (isCorrect !== null) {
-      // Find the user
-      const userToUpdate = users.find(user => user.name === userName);
-      if (userToUpdate) {
-        const wager = parseInt(playerWagers[userName] || 0, 10);
-        const scoreChange = isCorrect ? wager : -wager;
-        
+    // Calculate score changes
+    const userToUpdate = users.find(user => user.name === userName);
+    if (userToUpdate) {
+      const wager = parseInt(playerWagers[userName] || 0, 10);
+      let scoreChange = 0;
+      
+      // If toggling off, reverse the previous change
+      if (correctGuessers[userName] === true && newCorrectValue === null) {
+        scoreChange = -wager; // Undo previous correct answer
+      } else if (correctGuessers[userName] === false && newCorrectValue === null) {
+        scoreChange = wager; // Undo previous incorrect answer
+      } 
+      // If setting to a new value
+      else if (newCorrectValue === true) {
+        scoreChange = wager; // Add wager for correct
+      } else if (newCorrectValue === false) {
+        scoreChange = -wager; // Subtract wager for incorrect
+      }
+      
+      // Only update scores if there's a change
+      if (scoreChange !== 0) {
         // Create updated users array with the new score
         const updatedUsers = users.map(user => {
           if (user.name === userName) {
@@ -205,24 +221,14 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
           return user;
         });
         
-        // Update local state with the new scores
-        // This ensures our component has the latest scores
-        const localUsersCopy = [...users];
-        const userIndex = localUsersCopy.findIndex(u => u.name === userName);
-        if (userIndex !== -1) {
-          localUsersCopy[userIndex] = {
-            ...localUsersCopy[userIndex],
-            score: localUsersCopy[userIndex].score + scoreChange
-          };
-        }
-        
         // Update parent components with new scores
         onScoreUpdate(updatedUsers);
         
         // Log after updating scores to see if anything changed
         console.log(`After score update for ${userName}`, {
           answer: playerAnswers[userName],
-          wager: playerWagers[userName]
+          wager: playerWagers[userName],
+          scoreChange
         });
       }
     }
@@ -336,14 +342,20 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
                       <button 
                         type="button"
                         className={`toggle-btn ${correctGuessers[user.name] === true ? 'correct-active' : ''}`}
-                        onClick={() => toggleUserGuess(user.name, correctGuessers[user.name] === true ? null : true)}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          toggleUserGuess(user.name, true);
+                        }}
                       >
                         ✓
                       </button>
                       <button 
                         type="button"
                         className={`toggle-btn ${correctGuessers[user.name] === false ? 'incorrect-active' : ''}`}
-                        onClick={() => toggleUserGuess(user.name, correctGuessers[user.name] === false ? null : false)}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          toggleUserGuess(user.name, false);
+                        }}
                       >
                         ✗
                       </button>
