@@ -4,6 +4,7 @@ import JeopardyBoard from './components/JeopardyBoard';
 import WelcomeModal from './components/WelcomeModal';
 import JoinGameModal from './components/JoinGameModal';
 import UserSetupModal from './components/UserSetupModal';
+import FinalJeopardyModal from './components/FinalJeopardyModal';
 import { loadJeopardyArchive, convertToJeopardyBoardFormat } from './parseArchive';
 import fetchJArchiveGame from './jarchiveLoader';
 import { loadGameAndGenerateIdentifier } from './utils/gameUtils';
@@ -12,7 +13,8 @@ import { saveGameState, loadGameState } from './utils/storageUtils';
 function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [message, setMessage] = useState('');
-  const [round, setRound] = useState('jeopardy'); // 'jeopardy' or 'doubleJeopardy'
+  const [round, setRound] = useState('jeopardy'); // 'jeopardy', 'doubleJeopardy', or 'finalJeopardy'
+  const [showFinalJeopardyModal, setShowFinalJeopardyModal] = useState(false);
   const [archiveData, setArchiveData] = useState(null);
   const [gameId, setGameId] = useState(null);
   const [gameIdentifier, setGameIdentifier] = useState(null);
@@ -86,9 +88,11 @@ function App() {
     saveCurrentGameState();
     
     // Set up polling interval for fetching updates (every 5 seconds)
+    /*
     const syncInterval = setInterval(() => {
       fetchGameState(gameIdentifier);
     }, 5000);
+    */
     
     // Clean up interval when component unmounts or identifier changes
     return () => clearInterval(syncInterval);
@@ -97,7 +101,11 @@ function App() {
   // Effect to reload the board when round changes
   useEffect(() => {
     if (archiveData) {
-      loadBoardWithArchiveData(archiveData, round);
+      if (round === 'finalJeopardy') {
+        setShowFinalJeopardyModal(true);
+      } else {
+        loadBoardWithArchiveData(archiveData, round);
+      }
     }
   }, [round, archiveData]);
 
@@ -183,8 +191,19 @@ function App() {
   };
 
   const toggleRound = () => {
-    const newRound = round === 'jeopardy' ? 'doubleJeopardy' : 'jeopardy';
+    let newRound;
+    if (round === 'jeopardy') {
+      newRound = 'doubleJeopardy';
+    } else if (round === 'doubleJeopardy') {
+      newRound = 'finalJeopardy';
+    } else {
+      newRound = 'jeopardy';
+    }
     setRound(newRound);
+  };
+  
+  const handleFinalJeopardyClose = () => {
+    setShowFinalJeopardyModal(false);
   };
   
   // Handle creating a new game
@@ -366,6 +385,18 @@ function App() {
         />
       )}
       
+      {/* Final Jeopardy Modal */}
+      {showFinalJeopardyModal && archiveData && (
+        <FinalJeopardyModal
+          category={archiveData.finalJeopardy.category}
+          clue={archiveData.finalJeopardy.clue}
+          answer={archiveData.finalJeopardy.answer}
+          users={users.map(user => ({ ...user, gameId }))}
+          onClose={handleFinalJeopardyClose}
+          onScoreUpdate={handleGameStateChange}
+        />
+      )}
+      
       <div className="archive-tools">
         {archiveData && (
           <div className="round-selector">
@@ -374,7 +405,11 @@ function App() {
               className={`load-button ${round === 'jeopardy' ? 'active' : ''}`}
               disabled={isLoading}
             >
-              {round === 'jeopardy' ? 'Switch to Double Jeopardy' : 'Switch to Jeopardy'}
+              {round === 'jeopardy' 
+                ? 'Switch to Double Jeopardy' 
+                : round === 'doubleJeopardy' 
+                  ? 'Switch to Final Jeopardy' 
+                  : 'Switch to Jeopardy'}
             </button>
           </div>
         )}
