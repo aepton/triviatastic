@@ -2,7 +2,7 @@ import React from 'react';
 import './Category.css';
 import Tile from './Tile';
 
-function Category({ category, categoryIndex, users, onScoreUpdate, tileStates, onTileStateChange }) {
+function Category({ category, categoryIndex, users, onScoreUpdate, tileStates, onTileStateChange, isGameCreator = false }) {
   return (
     <div className="category">
       <div className="category-title">{category.title}</div>
@@ -25,6 +25,7 @@ function Category({ category, categoryIndex, users, onScoreUpdate, tileStates, o
               onScoreUpdate={onScoreUpdate}
               tileState={tileState}
               onTileStateChange={onTileStateChange}
+              isGameCreator={isGameCreator}
             />
           );
         })}

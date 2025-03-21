@@ -9,7 +9,8 @@ function Tile({
   users, 
   onScoreUpdate, 
   tileState, 
-  onTileStateChange 
+  onTileStateChange,
+  isGameCreator = false // Add isGameCreator prop with default value false
 }) {
   const [showGuessingModal, setShowGuessingModal] = useState(false);
   
@@ -32,8 +33,8 @@ function Tile({
       updateTileState({ isFlipped: true });
     } else if (!isAnswerShown) {
       updateTileState({ isAnswerShown: true });
-    } else if (!isBlank && !showGuessingModal && users && users.length > 0) {
-      // Show guessing modal if users are available
+    } else if (!isBlank && !showGuessingModal && users && users.length > 0 && isGameCreator) {
+      // Show guessing modal if users are available and this is the game creator
       setShowGuessingModal(true);
     } else if (!isBlank) {
       // If no users or modal was dismissed, go to blank state
@@ -48,9 +49,14 @@ function Tile({
     }
   };
 
-  const handleGuessingModalClose = () => {
+  const handleGuessingModalClose = (updatedUsers) => {
     setShowGuessingModal(false);
     updateTileState({ isBlank: true }); // Transition to blank state after guessing
+    
+    // If we have updated users, pass them to the score update handler
+    if (updatedUsers && onScoreUpdate) {
+      onScoreUpdate(updatedUsers);
+    }
   };
 
   return (
@@ -75,7 +81,9 @@ function Tile({
             {!isAnswerShown ? (
               <div className="tile-hint">Click for answer</div>
             ) : (
-              <div className="tile-hint">{users && users.length > 0 ? 'Click to score' : 'Click to blank'}</div>
+              <div className="tile-hint">
+                {users && users.length > 0 && isGameCreator ? 'Click to score' : 'Click to blank'}
+              </div>
             )}
           </div>
         )}

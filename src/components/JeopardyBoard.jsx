@@ -27,7 +27,7 @@ const fetchJeopardyData = async (url) => {
   }
 };
 
-const JeopardyBoard = forwardRef((props, ref) => {
+const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
   const [categories, setCategories] = useState(EMPTY_CATEGORIES);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -74,6 +74,23 @@ const JeopardyBoard = forwardRef((props, ref) => {
         lastUpdated: new Date().toISOString()
       };
     },
+    resetTileStates: () => {
+      // Create fresh tile states for all current categories
+      const newTileStates = {};
+      
+      categories.forEach((category, categoryIndex) => {
+        category.questions.forEach((question, questionIndex) => {
+          const tileId = `${categoryIndex}-${questionIndex}`;
+          newTileStates[tileId] = {
+            isFlipped: false,
+            isAnswerShown: false,
+            isBlank: false
+          };
+        });
+      });
+      
+      setTileStates(newTileStates);
+    },
     loadState: (state) => {
       if (!state) return;
       
@@ -89,12 +106,18 @@ const JeopardyBoard = forwardRef((props, ref) => {
         setTileStates(prevTileStates => {
           const newTileStates = {...prevTileStates};
           
-          // Update all tiles from remote state
+          // Update all tiles from remote state, but only sync "isBlank" property for guessed tiles
           Object.keys(state.tileStates).forEach(tileId => {
-            newTileStates[tileId] = {
-              ...newTileStates[tileId],
-              ...state.tileStates[tileId]
-            };
+            // If this is a new tile that didn't exist before, create it
+            if (!newTileStates[tileId]) {
+              newTileStates[tileId] = state.tileStates[tileId];
+            } else {
+              // For existing tiles, we only want to sync the isBlank property
+              // This ensures we don't overwrite local interaction state
+              if (state.tileStates[tileId].isBlank) {
+                newTileStates[tileId].isBlank = state.tileStates[tileId].isBlank;
+              }
+            }
           });
           
           return newTileStates;
@@ -165,17 +188,20 @@ const JeopardyBoard = forwardRef((props, ref) => {
       {error && <div className="error">Error: {error}</div>}
       
       <div className="jeopardy-board">
-        {categories.map((category, categoryIndex) => (
-          <Category 
-            key={categoryIndex}
-            category={category}
-            categoryIndex={categoryIndex}
-            users={users}
-            onScoreUpdate={handleScoreUpdate}
-            tileStates={tileStates}
-            onTileStateChange={handleTileStateChange}
-          />
-        ))}
+        <div className="categories-container">
+          {categories.map((category, categoryIndex) => (
+            <Category 
+              key={categoryIndex}
+              category={category}
+              categoryIndex={categoryIndex}
+              users={users}
+              onScoreUpdate={handleScoreUpdate}
+              tileStates={tileStates}
+              onTileStateChange={handleTileStateChange}
+              isGameCreator={isGameCreator}
+            />
+          ))}
+        </div>
       </div>
       
       {/* Reset Users Button */}

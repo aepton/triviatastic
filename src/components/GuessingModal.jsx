@@ -51,8 +51,13 @@ function GuessingModal({ users, questionValue, onClose, onScoreUpdate }) {
       };
     });
     
-    onScoreUpdate(scoreUpdates);
-    onClose();
+    // First update scores via the callback to ensure it happens
+    if (onScoreUpdate) {
+      onScoreUpdate(scoreUpdates);
+    }
+    
+    // Then close the modal - this will also update tile state
+    onClose(scoreUpdates);
   };
 
   return (
