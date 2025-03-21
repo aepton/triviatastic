@@ -158,36 +158,6 @@ function App() {
     }
   }, [round, showFinalJeopardyModal, isGameCreator]);
 
-  // Function to fetch a game by ID from J-Archive
-  const fetchGameById = async (id) => {
-    try {
-      setIsLoading(true);
-      setMessage(`Fetching game #${id} from J-Archive...`);
-      
-      // Use our jarchiveLoader utility to fetch and parse the game
-      const data = await fetchJArchiveGame(id);
-      
-      if (!data) {
-        throw new Error('Failed to parse game data');
-      }
-      
-      // Store the parsed data
-      setArchiveData(data);
-      
-      // Store the game ID
-      setGameId(id);
-      
-      // Load the board with the current round
-      loadBoardWithArchiveData(data, round);
-      
-      setMessage(`Successfully loaded game #${id}: ${data.title}!`);
-    } catch (error) {
-      console.error('Error fetching game:', error);
-      setMessage(`Error: ${error.message}`);
-    } finally {
-      setIsLoading(false);
-    }
-  };
   
   // Update URL with game identifier for sharing
   const updateUrlWithIdentifier = (identifier) => {
@@ -213,31 +183,6 @@ function App() {
     }
   };
 
-  const handleLoadArchiveData = async () => {
-    try {
-      setIsLoading(true);
-      setMessage('Loading data from archive.html...');
-      
-      // Parse the archive.html file
-      const data = await loadJeopardyArchive();
-      
-      if (!data) {
-        throw new Error('Failed to parse archive.html');
-      }
-      
-      // Store the archive data for later use
-      setArchiveData(data);
-      
-      // Load the board with the current round
-      loadBoardWithArchiveData(data, round);
-      
-    } catch (error) {
-      console.error('Error loading archive data:', error);
-      setMessage(`Error: ${error.message}`);
-    } finally {
-      setIsLoading(false);
-    }
-  };
 
   const toggleRound = () => {
     let newRound;

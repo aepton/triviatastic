@@ -376,7 +376,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
           <button onClick={() => {
             setShowFinalScores(true);
           }} className="btn-secondary">
-            Close
+            Final
           </button>
         </div>
       </div>
