@@ -1,0 +1,574 @@
+{
+  "title": "Show #8997 - Tuesday, December 19, 2023",
+  "jeopardyRound": {
+    "categories": [
+      "MAMMALS IN LATIN",
+      "CAUTIONARY RHYMES",
+      "KING'S CROSSING",
+      "ALWAYS IN FASHION",
+      "UNOFFICIAL TEAM NICKNAMES",
+      "FAMOUS LAST WORDS"
+    ],
+    "clues": [
+      {
+        "category": "MAMMALS IN LATIN",
+        "value": 200,
+        "question": "Porcus",
+        "answer": "a pig",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CAUTIONARY RHYMES",
+        "value": 200,
+        "question": "An old adage tells us, \"Red sky at night, sailors' delight. Red sky at morning, sailors take\" this",
+        "answer": "warning",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "KING'S CROSSING",
+        "value": 200,
+        "question": "In a late 18th century National Convention vote he could not afford to lose, this French king was condemned to death, 387 to 334",
+        "answer": "Louis XVI",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ALWAYS IN FASHION",
+        "value": 200,
+        "question": "This animal pattern is found in a variety of colors on everything from clothing & fashion accessories to furniture",
+        "answer": "leopard (print)",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "UNOFFICIAL TEAM NICKNAMES",
+        "value": 200,
+        "question": "The 'Aints: This city's NFL squad during a 1980s lean stretch",
+        "answer": "the New Orleans Saints",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LAST WORDS",
+        "value": 200,
+        "question": "It's the station at the end of a transport line, like Grand Central",
+        "answer": "terminal",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS IN LATIN",
+        "value": 400,
+        "question": "Ursus",
+        "answer": "a bear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CAUTIONARY RHYMES",
+        "value": 400,
+        "question": "Scouts should know that the phrase \"leaves of three, let it be\" refers to this plant",
+        "answer": "poison ivy",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "KING'S CROSSING",
+        "value": 400,
+        "question": "Hark! the Harald angels sang in 1066 for Harald the Ruthless, king of this country, who was killed going up against Harold II",
+        "answer": "Norway",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ALWAYS IN FASHION",
+        "value": 400,
+        "question": "In 2023 Levi Strauss & Co. celebrated the 150th anniversary of these numeric jeans",
+        "answer": "501s",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "UNOFFICIAL TEAM NICKNAMES",
+        "value": 400,
+        "question": "The Peach Clobbers: The hard-hitting 2013 edition of this MLB team",
+        "answer": "the Atlanta Braves",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LAST WORDS",
+        "value": 400,
+        "question": "Revelation contains the line \"I am Alpha &\" this, \"the beginning & the end\"",
+        "answer": "Omega",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS IN LATIN",
+        "value": 600,
+        "question": "Cetus",
+        "answer": "a whale",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CAUTIONARY RHYMES",
+        "value": 600,
+        "question": "Do this \"in white, you will have chosen all right\" but do it \"in green, ashamed to be seen\" & worse, \"in red, you'll wish yourself dead\"",
+        "answer": "marry",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "KING'S CROSSING",
+        "value": 600,
+        "question": "Unhorsed! Unhorsed! On Aug. 22, 1485 he lost his kingdom & his life after getting unhorsed",
+        "answer": "Richard III",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ALWAYS IN FASHION",
+        "value": 600,
+        "question": "Always in fashion is this type of coat; the name referring to the color & the hair it's traditionally made from",
+        "answer": "camel",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "UNOFFICIAL TEAM NICKNAMES",
+        "value": 600,
+        "question": "The Broad Street Bullies: This NHL city's Flyers",
+        "answer": "Philadelphia",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LAST WORDS",
+        "value": 600,
+        "question": "Grammatically, this 2-word phrase refers to a period; California drivers are asked to come to one before a crosswalk",
+        "answer": "a full stop",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS IN LATIN",
+        "value": 800,
+        "question": "Vacca",
+        "answer": "a cow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CAUTIONARY RHYMES",
+        "value": 800,
+        "question": "\"Red touch yellow, kill a fellow\" refers to the lethal coral snake; \"red touch black, friend of jack\", to this harmless \"royal\" one",
+        "answer": "a king snake",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "KING'S CROSSING",
+        "value": 800,
+        "question": "In 1516, 11 years after losing the queen he called the \"most excellent wife king ever had\", this Castile royal left the castle",
+        "answer": "Ferdinand",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ALWAYS IN FASHION",
+        "value": 800,
+        "question": "Popularly associated with Ray-Ban, these were originally created to protect military pilots' eyes from glare",
+        "answer": "Aviator sunglasses",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "UNOFFICIAL TEAM NICKNAMES",
+        "value": 800,
+        "question": "Phi Slama Jama: The 1983 Houston Cougars, led by this \"Nigerian Nightmare\" & future Hall of Famer",
+        "answer": "Hakeem Olajuwon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LAST WORDS",
+        "value": 800,
+        "question": "\"Blow of mercy\" in French, it's a finishing blow at the end of combat",
+        "answer": "a coup de grâce",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "MAMMALS IN LATIN",
+        "value": 1000,
+        "question": "Cervus",
+        "answer": "a deer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CAUTIONARY RHYMES",
+        "value": 1000,
+        "question": "These 2 days of the week are rough, as day 1's \"child is full of woe\" & day 2's child \"has far to go\"",
+        "answer": "Wednesday & Thursday",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "KING'S CROSSING",
+        "value": 1000,
+        "question": "On May 31, 1740, Friedrich Wilhelm I made his royal exit in Potsdam in this German-ruled kingdom founded 39 years before",
+        "answer": "Prussia",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ALWAYS IN FASHION",
+        "value": 1000,
+        "question": "This French couture designer's New Look included A-line skirts & dresses in his 1955 spring collection",
+        "answer": "Christian Dior",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "UNOFFICIAL TEAM NICKNAMES",
+        "value": 1000,
+        "question": "The Greatest Show on Turf: The late '90s-early 2000s edition of this team, then in St. Louis",
+        "answer": "the Rams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "FAMOUS LAST WORDS",
+        "value": 1000,
+        "question": "On televisions it refers to clarity of visual detail; legally, it's a verdict or final decision",
+        "answer": "a resolution",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "FROM THE FRENCH",
+      "CORNERSTONES",
+      "SUPER SUCCESSFUL SEQUELS",
+      "AUSTRALIAN BOOKS & AUTHORS",
+      "IT HAPPENED IN 2023",
+      "COUNTRIES INSIDE OTHER COUNTRY NAMES"
+    ],
+    "clues": [
+      {
+        "category": "FROM THE FRENCH",
+        "value": 400,
+        "question": "The flying Montgolfier brothers used this word for a fabric device that slows your fall",
+        "answer": "a parachute",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "CORNERSTONES",
+        "value": 400,
+        "question": "The cornerstone for their monument was laid atop Kill Devil Hill on December 17, 1928",
+        "answer": "the Wright brothers",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "SUPER SUCCESSFUL SEQUELS",
+        "value": 400,
+        "question": "2022: Captain Pete Mitchell is back in the cockpit",
+        "answer": "Top Gun: Maverick",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "AUSTRALIAN BOOKS & AUTHORS",
+        "value": 400,
+        "question": "Marcus Clarke's \"For the Term of His Natural Life\" is partly set on this island, then called Van Diemen's Land",
+        "answer": "Tasmania",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IT HAPPENED IN 2023",
+        "value": 400,
+        "question": "Tragedy struck this island in August as wildfires ravaged the historic town of Lahaina",
+        "answer": "Maui",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES INSIDE OTHER COUNTRY NAMES",
+        "value": 400,
+        "question": "Inside the name Somalia, you can find this other conflict-plagued land to the west",
+        "answer": "Mali",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "FROM THE FRENCH",
+        "value": 800,
+        "question": "Naturally, the French gave us this word for the year a wine was bottled",
+        "answer": "vintage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "CORNERSTONES",
+        "value": 800,
+        "question": "In the cornerstone for the Thompson Memorial A.M.E. Zion Church in Auburn, N.Y., she placed a coin with a profile of John Brown",
+        "answer": "Harriet Tubman",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "SUPER SUCCESSFUL SEQUELS",
+        "value": 800,
+        "question": "2015: A new theme park creates Indominus rex, a genetically modified dinosaur",
+        "answer": "Jurassic World",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "AUSTRALIAN BOOKS & AUTHORS",
+        "value": 800,
+        "question": "Patrick White's \"The Eye of the Storm\", about a matriarch & her children, has been called a Down Under version of this 1608 play",
+        "answer": "King Lear",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IT HAPPENED IN 2023",
+        "value": 800,
+        "question": "In February, one of these, reportedly carrying spy tech from China, was shot down off the coast of South Carolina",
+        "answer": "a balloon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES INSIDE OTHER COUNTRY NAMES",
+        "value": 800,
+        "question": "A nation on Hispaniola carries within its name this other Caribbean island country",
+        "answer": "Dominica",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "FROM THE FRENCH",
+        "value": 1200,
+        "question": "Words meaning \"one-eyed\" led to this word from French for a single eyeglass",
+        "answer": "a monocle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "CORNERSTONES",
+        "value": 1200,
+        "question": "The cornerstone for this U.S. school's oldest building, the Wren Building, was placed in 1695",
+        "answer": "William & Mary",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "SUPER SUCCESSFUL SEQUELS",
+        "value": 1200,
+        "question": "2009: This first \"Transformers\" sequel was No. 1 in domestic box office for the year",
+        "answer": "Revenge of the Fallen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "AUSTRALIAN BOOKS & AUTHORS",
+        "value": 1200,
+        "question": "The title of a novel about settler/indigenous conflict is from a quote about \"a secret river of\" this in Australian history",
+        "answer": "blood",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IT HAPPENED IN 2023",
+        "value": 1200,
+        "question": "On September 15, some 13,000 members of this union went on strike against Ford, G.M. & Stellantis",
+        "answer": "the United Auto Workers",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES INSIDE OTHER COUNTRY NAMES",
+        "value": 1200,
+        "question": "2 of the 3 countries that carry the nation of Guinea within their own names",
+        "answer": "(2 of) Papua New Guinea, Guinea-Bissau & Equatorial Guinea",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "FROM THE FRENCH",
+        "value": 1600,
+        "question": "Beans are a necessity in this dish, whose name in French originally meant a dish used on the stove",
+        "answer": "cassoulet",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "CORNERSTONES",
+        "value": 1600,
+        "question": "In 1759 the cornerstone for the oldest synagogue in the U.S., the Touro Synagogue, was laid in this Rhode Island city",
+        "answer": "Newport",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "SUPER SUCCESSFUL SEQUELS",
+        "value": 1600,
+        "question": "2010: Jeff Bridges & Bruce Boxleitner reprise their roles in a digital world",
+        "answer": "Tron: Legacy",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "AUSTRALIAN BOOKS & AUTHORS",
+        "value": 1600,
+        "question": "This sweeping, multi-decade Colleen McCullough novel includes an ill-fated affair between a priest & a young woman",
+        "answer": "The Thorn Birds",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IT HAPPENED IN 2023",
+        "value": 1600,
+        "question": "When park rangers in Queensland found Toadzilla, a nearly 6-pound one of these invasive amphibians, they had first thought it was fake",
+        "answer": "a cane toad",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES INSIDE OTHER COUNTRY NAMES",
+        "value": 1600,
+        "question": "Inside the name of the most populous nation in Africa, you'll find this uranium-rich desert nation",
+        "answer": "Niger (in Nigeria)",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "FROM THE FRENCH",
+        "value": 2000,
+        "question": "This side post of a window or doorway gets its name from Middle French for \"leg\"",
+        "answer": "a jamb",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "CORNERSTONES",
+        "value": 2000,
+        "question": "At the laying of the cornerstone for the Bunker Hill Monument, the Marquis de Lafayette & this famous orator led the ceremony",
+        "answer": "Daniel Webster",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "SUPER SUCCESSFUL SEQUELS",
+        "value": 2000,
+        "question": "2020: Detectives played by Will Smith & Martin Lawrence fight drug lords in Miami",
+        "answer": "Bad Boys for Life",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "AUSTRALIAN BOOKS & AUTHORS",
+        "value": 2000,
+        "question": "A group of Yanks & Aussies await the arrival of nuclear fallout from the Northern Hemisphere in this Nevil Shute novel",
+        "answer": "On the Beach",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IT HAPPENED IN 2023",
+        "value": 2000,
+        "question": "On January 8, government buildings in Brazil's capital were stormed by supporters of this ousted president",
+        "answer": "Jair Bolsonaro",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "COUNTRIES INSIDE OTHER COUNTRY NAMES",
+        "value": 2000,
+        "question": "This Arabian Peninsula nation's name can be found within the name of a European country with a Black Sea coast",
+        "answer": "Oman (from Romania)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "INVENTIONS",
+    "clue": "Invented in 1816, it takes its name from Greek for \"chest\" & \"observe\"",
+    "answer": "a stethoscope"
+  },
+  "gameId": "8997",
+  "gameDate": "Tuesday, December 19, 2023"
+}

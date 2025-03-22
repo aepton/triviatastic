@@ -1,0 +1,574 @@
+{
+  "title": "Show #9043 - Wednesday, February 21, 2024",
+  "jeopardyRound": {
+    "categories": [
+      "SCIENCE QUIZ",
+      "1990s MUSIC",
+      "FUN & GAMES",
+      "BOOZY",
+      "IT'S REIGNING MEN!",
+      "HALLELUJAH!"
+    ],
+    "clues": [
+      {
+        "category": "SCIENCE QUIZ",
+        "value": 200,
+        "question": "This fourth state of matter occurs when atoms in a gas are ionized",
+        "answer": "plasma",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "1990s MUSIC",
+        "value": 200,
+        "question": "\"Shakedown\" is the first word of this Smashing Pumpkins song named for a year",
+        "answer": "1979",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FUN & GAMES",
+        "value": 200,
+        "question": "A tossed beanbag that has run afoul of the rules is deemed a stanker in this pastime",
+        "answer": "cornhole",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BOOZY",
+        "value": 200,
+        "question": "When it comes to this potent potable, go for one labeled \"100% blue agave\"",
+        "answer": "tequila",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IT'S REIGNING MEN!",
+        "value": 200,
+        "question": "In a job that does not seem short of perks, the king of this nation hands each Nobel laureate a diploma & a medal annually",
+        "answer": "Sweden",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HALLELUJAH!",
+        "value": 200,
+        "question": "Ending in -ee, this interjection expresses delight; the -ie version was a member of the Youth International Party",
+        "answer": "yippee",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE QUIZ",
+        "value": 400,
+        "question": "A key to quantum mechanics is the notion that both radiation & matter can act as either particles or these",
+        "answer": "waves",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "1990s MUSIC",
+        "value": 400,
+        "question": "(Diane Warren presents the clue.) This song that Toni Braxton wasn't too keen to record became her signature hit & won her a Grammy",
+        "answer": "\"Un-Break My Heart\"",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FUN & GAMES",
+        "value": 400,
+        "question": "Scott Salvadore won the \"mane event\" for the championships of this hairstyle with his 'do named \"The Lord's Drapes\"",
+        "answer": "a mullet",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BOOZY",
+        "value": 400,
+        "question": "An in-escape-able song by Rupert Holmes wonders if you like these cocktails & getting caught in the rain",
+        "answer": "piña coladas",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IT'S REIGNING MEN!",
+        "value": 400,
+        "question": "The I didn't even rule Egypt for a year & a half, but this pharaoh II of the 19th dynasty clocked in for 66, 1279-1213 B.C.",
+        "answer": "Ramses",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HALLELUJAH!",
+        "value": 400,
+        "question": "Also starting & ending with H, this exultant cry was greatly used on Hulu's \"The Great\"",
+        "answer": "huzzah",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE QUIZ",
+        "value": 600,
+        "question": "Most snapping turtles are this type of equal-opportunity eater, happy to eat any old animal or vegetable for brunch",
+        "answer": "an omnivore",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "1990s MUSIC",
+        "value": 600,
+        "question": "This Brit pop group made listeners feel bubbly with the song \"Champagne Supernova\"",
+        "answer": "Oasis",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FUN & GAMES",
+        "value": 600,
+        "question": "In 2023 Post Malone paid big bucks for a card from this enduring card game that featured the One Ring from \"The Lord of the Rings\"",
+        "answer": "Magic: The Gathering",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BOOZY",
+        "value": 600,
+        "question": "This golfer has his name on the drink of iced tea & lemonade; spike it with vodka & you've got a John Daly",
+        "answer": "Arnold Palmer",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IT'S REIGNING MEN!",
+        "value": 600,
+        "question": "A 1920 sovereign ordinance of this nation had the future Rainier III receive his mother's family name of Grimaldi",
+        "answer": "Monaco",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HALLELUJAH!",
+        "value": 600,
+        "question": "dictionary.com has 3 consecutive A's in this slang word, but you can draw it out even more before queen if you want to really show elation",
+        "answer": "yaaas",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE QUIZ",
+        "value": 800,
+        "question": "Chloroplasts are where this energy conversion process takes place in plants",
+        "answer": "photosynthesis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "1990s MUSIC",
+        "value": 800,
+        "question": "Clips from the show \"Happy Days\" were used in this band's video for the song \"Buddy Holly\"",
+        "answer": "Weezer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FUN & GAMES",
+        "value": 800,
+        "question": "\"Baldur's Gate 3\" is a 2023 video game juggernaut based on the 5E rules for this tabletop role-playing game",
+        "answer": "Dungeons & Dragons",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BOOZY",
+        "value": 800,
+        "question": "Though quite sweet, the name of this almond-flavored liqueur means \"little bitter\"",
+        "answer": "amaretto",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IT'S REIGNING MEN!",
+        "value": 800,
+        "question": "Ivan the Terrible's murder of his son in 1581 led to this family's dynasty that began in 1613 & would have the last czarring role",
+        "answer": "the Romanovs",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HALLELUJAH!",
+        "value": 800,
+        "question": "American music fans best know the band Blur for their song that starts with this shriek of triumph",
+        "answer": "woo-hoo!",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "SCIENCE QUIZ",
+        "value": 1000,
+        "question": "This 12-letter word describes the richness of life forms in a given environment",
+        "answer": "biodiversity",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "1990s MUSIC",
+        "value": 1000,
+        "question": "This Red Hot Chili Peppers tune implores, \"Take me to the place I love, take me all the way\"",
+        "answer": "\"Under The Bridge\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FUN & GAMES",
+        "value": 1000,
+        "question": "In this centuries-old game with a hyphenated name, you throw a knife at your opponent's feet; what could go wrong?",
+        "answer": "mumblety-peg",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BOOZY",
+        "value": 1000,
+        "question": "Many a classic cocktail calls for a wee bit o' this Scotch whisky liqueur flavored with heather honey",
+        "answer": "Drambuie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IT'S REIGNING MEN!",
+        "value": 1000,
+        "question": "In his royal.uk bio: \"mentally unfit to rule during the last decade of his reign\"; \"most attractive of the Hanoverian monarchs\"",
+        "answer": "George III",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HALLELUJAH!",
+        "value": 1000,
+        "question": "As an interjection, it means freakin' awesome, dude! As a noun, a less freakin' awesome unit of scientific measurement",
+        "answer": "rad",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PLACES TO VISIT",
+      "AMERICAN AUTHORS",
+      "ART & ARTISTS",
+      "ENDS IN \"IR\"",
+      "EXTREMELY RANDOM CALCULATIONS",
+      "MR. STEVE MARTIN"
+    ],
+    "clues": [
+      {
+        "category": "PLACES TO VISIT",
+        "value": 400,
+        "question": "Italy has 59 UNESCO World Heritage Sites, including this city & its lagoon",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 400,
+        "question": "In 2023 this author of \"Jazz\" & \"The Bluest Eye\" was honored on a U.S. stamp, unveiled at Princeton, where she taught",
+        "answer": "Morrison",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 400,
+        "question": "A Brussels museum has a \"Landscape with the Fall of\" him, later than the famous one, this time with Daedalus still up in the air",
+        "answer": "Icarus",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "ENDS IN \"IR\"",
+        "value": 400,
+        "question": "It's a tchotchke or doodad, perhaps the \"Virginia is for lovers\" key chain picked up on a vacation",
+        "answer": "souvenir",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "EXTREMELY RANDOM CALCULATIONS",
+        "value": 400,
+        "question": "Total degrees in a circle divided by justices on the U.S. Supreme Court",
+        "answer": "40",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "MR. STEVE MARTIN",
+        "value": 400,
+        "question": "Waking up in \"Planes, Trains and Automobiles\", Steve realizes the hand of this late, great actor is not between 2 pillows",
+        "answer": "(John) Candy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PLACES TO VISIT",
+        "value": 800,
+        "question": "Head to this Thai capital to see the Grand Palace or the Emerald Buddha",
+        "answer": "Bangkok",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 800,
+        "question": "She's the author of \"The Kitchen God's Wife\" & \"The Bonesetter's Daughter\"",
+        "answer": "Amy Tan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 800,
+        "question": "Picasso liked to draw this bird, also his daughter's name translated from  Spanish",
+        "answer": "dove",
+        "isDailyDouble": true,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "ENDS IN \"IR\"",
+        "value": 800,
+        "question": "According to National Geographic, the world's largest man-made one by surface area is Lake Volta in Ghana",
+        "answer": "a reservoir",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "EXTREMELY RANDOM CALCULATIONS",
+        "value": 800,
+        "question": "Traditional number of Hercules' labors times books in the Pentateuch",
+        "answer": "60",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "MR. STEVE MARTIN",
+        "value": 800,
+        "question": "In 2021 Mr. Steve Martin co-created this Hulu series where New Yorkers are just droppin' like flies",
+        "answer": "Only Murders in the Building",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PLACES TO VISIT",
+        "value": 1200,
+        "question": "Tourists who make their way to these islands 600 miles off South America often miss the fur seals, which love rocky & shady areas",
+        "answer": "the Galápagos",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 1200,
+        "question": "Early in his career, this author of \"The Corrections\" earned extra money working in a seismology lab at Harvard",
+        "answer": "Franzen",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 1200,
+        "question": "Van Gogh is among those who painted the parable of this \"Good\" guy who helped someone in need",
+        "answer": "the Good Samaritan",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "ENDS IN \"IR\"",
+        "value": 1200,
+        "question": "Gurez & Changthangi are sheep breeds from this disputed place on the Indian subcontinent",
+        "answer": "Kashmir",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "EXTREMELY RANDOM CALCULATIONS",
+        "value": 1200,
+        "question": "ML in Roman numerals minus Douglas Adams' answer to \"life, the universe and everything\"",
+        "answer": "1,008",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "MR. STEVE MARTIN",
+        "value": 1200,
+        "question": "This title Daryl Hannah character says to Steve, \"You have a big nose! You have a beautiful, great, big, flesh-&-bone nose!\"",
+        "answer": "Roxanne",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PLACES TO VISIT",
+        "value": 1600,
+        "question": "The Bab Agnaou is one of the gates in the wall around the medina of this Moroccan city",
+        "answer": "Marrakesh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 1600,
+        "question": "This alliterative author of Western novels wrote several Hopalong Cassidy books under the pen name Tex Burns",
+        "answer": "Louis L'Amour",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 1600,
+        "question": "17th century Dutch people you can see at the Rijksmuseum include 34 in \"The Night Watch\" by Rembrandt & one in the work seen here by him",
+        "answer": "Vermeer",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "ENDS IN \"IR\"",
+        "value": 1600,
+        "question": "This word for a slaughterhouse is borrowed from French",
+        "answer": "abattoir",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "EXTREMELY RANDOM CALCULATIONS",
+        "value": 1600,
+        "question": "Number of U.S. states in 1958 divided by the number of our solar system's planets after Pluto's demotion",
+        "answer": "6",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "MR. STEVE MARTIN",
+        "value": 1600,
+        "question": "OK, so it's complicated--in \"It's Complicated\", Steve's co-star was this man, also Steve's co-host for the Oscars",
+        "answer": "Alec Baldwin",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PLACES TO VISIT",
+        "value": 2000,
+        "question": "Among China's many tourist offerings is this temple in Hunan, famous for its kung fu monks",
+        "answer": "Shaolin",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "AMERICAN AUTHORS",
+        "value": 2000,
+        "question": "This 1895 graduate of the University of Nebraska was both managing editor of the school paper & literary editor of her yearbook",
+        "answer": "Willa Cather",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "ART & ARTISTS",
+        "value": 2000,
+        "question": "The violence of the works in this early 20th century art style made critic Louis Vauxcelles call the painters \"wild beasts\"",
+        "answer": "Fauvism",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "ENDS IN \"IR\"",
+        "value": 2000,
+        "question": "This word can refer to a pirate in the Mediterranean Sea from the 16th to 19th century",
+        "answer": "a corsair",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "EXTREMELY RANDOM CALCULATIONS",
+        "value": 2000,
+        "question": "Forbes' annual wealthiest Americans minus Fortune's annual biggest U.S. companies by revenue",
+        "answer": "-100",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "MR. STEVE MARTIN",
+        "value": 2000,
+        "question": "After Steve asks Lily Tomlin why she thinks she'll come back from the dead in this 1984 film, Lily replies, \"Because I'm rich\"",
+        "answer": "All of Me",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "19th CENTURY AMERICANS",
+    "clue": "In 1896, 15 years after a famous showdown, this man was accused of fixing a championship boxing match",
+    "answer": "Wyatt Earp"
+  },
+  "gameId": "9043",
+  "gameDate": "Wednesday, February 21, 2024"
+}

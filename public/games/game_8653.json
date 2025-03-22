@@ -1,0 +1,574 @@
+{
+  "title": "Show #8958 - Wednesday, October 25, 2023",
+  "jeopardyRound": {
+    "categories": [
+      "PRODUCE",
+      "DISNEY PARK SONGS",
+      "WATER UNDER THE BRIDGE",
+      "BOOK 'EM, DAN-O",
+      "ON THE \"ROAD\" AGAIN",
+      "BETTER ASK FOR DIRECTIONS"
+    ],
+    "clues": [
+      {
+        "category": "PRODUCE",
+        "value": 200,
+        "question": "Big on vitamins A & C, this leafy vegetable also has a lot of fiber & acts as a mild laxative; look out, sailor man!",
+        "answer": "spinach",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "DISNEY PARK SONGS",
+        "value": 200,
+        "question": "\"Yo ho, yo ho...\"",
+        "answer": "Pirates of the Caribbean",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "WATER UNDER THE BRIDGE",
+        "value": 200,
+        "question": "Under the Brooklyn Bridge",
+        "answer": "the East River",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "BOOK 'EM, DAN-O",
+        "value": 200,
+        "question": "In 1977, he wrote \"The Camera Never Blinks: Adventures of a TV Journalist\"",
+        "answer": "Dan Rather",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "ON THE \"ROAD\" AGAIN",
+        "value": 200,
+        "question": "In 1804 a steam carriage was first put onto one of these; it could haul 70 men & 10 tons of iron for 10 miles",
+        "answer": "railroad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "BETTER ASK FOR DIRECTIONS",
+        "value": 200,
+        "question": "Tropical cyclones in the southern hemisphere rotate in this timely direction",
+        "answer": "clockwise",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 400,
+        "question": "In 2008 a pair of Brits were out of their gourd, growing a 1,457-lb. one of these; smashing!",
+        "answer": "a pumpkin",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "DISNEY PARK SONGS",
+        "value": 400,
+        "question": "\"It's a world of laughter, a world of tears...\"",
+        "answer": "It's a Small World",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "WATER UNDER THE BRIDGE",
+        "value": 400,
+        "question": "Beneath the Bay Bridge in Maryland: This bay",
+        "answer": "the Chesapeake",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "BOOK 'EM, DAN-O",
+        "value": 400,
+        "question": "From 1704 to 1713 he produced his own periodical, \"The Review\"; \"Robinson Crusoe\" washed ashore in 1719",
+        "answer": "Defoe",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "ON THE \"ROAD\" AGAIN",
+        "value": 400,
+        "question": "Swift American seen here",
+        "answer": "the roadrunner",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "BETTER ASK FOR DIRECTIONS",
+        "value": 400,
+        "question": "Direction that also means to swallow liquid hastily",
+        "answer": "down",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 600,
+        "question": "Dr. Thomas Welch is credited with making the first unfermented juice from this fruit",
+        "answer": "a grape",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "DISNEY PARK SONGS",
+        "value": 600,
+        "question": "\"Grim, grinning ghosts come out to socialize...\"",
+        "answer": "the Haunted Mansion",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "WATER UNDER THE BRIDGE",
+        "value": 600,
+        "question": "Under the Petofi Bridge in Budapest: This river",
+        "answer": "the Danube",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "BOOK 'EM, DAN-O",
+        "value": 600,
+        "question": "\"Standing Firm\" & \"Worth Fighting For\" are two books by this ex-vice president",
+        "answer": "(Dan) Quayle",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "ON THE \"ROAD\" AGAIN",
+        "value": 600,
+        "question": "In this hit Lil Nas X mentions his \"cowboy hat from Gucci\"",
+        "answer": "\"Old Town Road\"",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "BETTER ASK FOR DIRECTIONS",
+        "value": 600,
+        "question": "Title direction for Arthur Sullivan's \"Christian Soldiers\"",
+        "answer": "onward",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 800,
+        "question": "When life gives you the Meyer type of this tree, expect plenty of fruit year-round",
+        "answer": "a lemon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "DISNEY PARK SONGS",
+        "value": 800,
+        "question": "\"A Heffalump or Woozle is very confusel...\"",
+        "answer": "Winnie the Pooh",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "WATER UNDER THE BRIDGE",
+        "value": 800,
+        "question": "Beneath the Rialto Bridge in Venice: This busy waterway",
+        "answer": "the Grand Canal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "BOOK 'EM, DAN-O",
+        "value": 800,
+        "question": "When he made the 2005 \"Time\" 100 list, his book was described as \"the novel that ate the world\"",
+        "answer": "Dan Brown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "ON THE \"ROAD\" AGAIN",
+        "value": 800,
+        "question": "Twin brothers Leigh & Leslie Keno are famous as appraisers on this PBS program",
+        "answer": "Antiques Roadshow",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "BETTER ASK FOR DIRECTIONS",
+        "value": 800,
+        "question": "New York's single-word motto excelsior means \"ever\" this direction",
+        "answer": "upward",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 1000,
+        "question": "The name of this cylindrical vegetable means \"little squashes\" in Italian",
+        "answer": "zucchini",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "DISNEY PARK SONGS",
+        "value": 1000,
+        "question": "\"The bear band bears will play now in the good ol' key of G...\"",
+        "answer": "the Country Bear Jamboree",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "WATER UNDER THE BRIDGE",
+        "value": 1000,
+        "question": "Beneath the Vasco da Gama Bridge in Lisbon:This River",
+        "answer": "the Tagus",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "BOOK 'EM, DAN-O",
+        "value": 1000,
+        "question": "Lemony Snicket should know this novelist penned \"Adverbs\" & \"Watch Your Mouth\"",
+        "answer": "Daniel Handler",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ON THE \"ROAD\" AGAIN",
+        "value": 1000,
+        "question": "AKA \"Mad Max 2\"",
+        "answer": "The Road Warrior",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "BETTER ASK FOR DIRECTIONS",
+        "value": 1000,
+        "question": "In the army, it's an order to move the troops forward, or for a soldier to move up in rank",
+        "answer": "advance",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "PRODUCE",
+      "ALSO ON THE MONOPOLY BOARD",
+      "FILL IN THE BLANK CANVAS",
+      "SHE BLINDED ME WITH SCIENCE",
+      "WASN'T THAT AN '80s THING?",
+      "SEE \"NN\""
+    ],
+    "clues": [
+      {
+        "category": "PRODUCE",
+        "value": 400,
+        "question": "Not only did he produce \"Citizen Kane\", he co-wrote, starred in & directed the film, too--talk about a best boy",
+        "answer": "Welles",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "ALSO ON THE MONOPOLY BOARD",
+        "value": 400,
+        "question": "Alliterative slang for crying",
+        "answer": "the waterworks",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BLANK CANVAS",
+        "value": 400,
+        "question": "An iconic 1930 image: \"____ Gothic\"",
+        "answer": "American",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "SHE BLINDED ME WITH SCIENCE",
+        "value": 400,
+        "question": "Alice Ball was 23 & a college instructor in Hawaii in 1915 when she developed the first successful treatment for this, also known as Hansen's disease",
+        "answer": "leprosy",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "WASN'T THAT AN '80s THING?",
+        "value": 400,
+        "question": "A man... a woman in distress... ladder climbing... a giant ape... this video game that debuted in 1981 had it all!",
+        "answer": "Donkey Kong",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "SEE \"NN\"",
+        "value": 400,
+        "question": "We hope your dog doesn't suffer ennui when boarded in one of these establishments",
+        "answer": "a kennel",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 800,
+        "question": "In addition to exec producing \"Michael Clayton\", he got an Oscar nomination for Best Lead Actor",
+        "answer": "George Clooney",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "ALSO ON THE MONOPOLY BOARD",
+        "value": 800,
+        "question": "Morgan Freeman's first regular TV gig",
+        "answer": "The Electric Company",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BLANK CANVAS",
+        "value": 800,
+        "question": "From 1912, more mechanical than nude: \"Nude Descending a ____, No. 2\"",
+        "answer": "Staircase",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "SHE BLINDED ME WITH SCIENCE",
+        "value": 800,
+        "question": "Nobel laureate Gertrude Elion helped develop drugs to treat herpes, gout & this, cancer of the bone marrow",
+        "answer": "leukemia",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "WASN'T THAT AN '80s THING?",
+        "value": 800,
+        "question": "The Wayfarer style of this brand of sunglasses was an '80s fave",
+        "answer": "Ray-Bans",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "SEE \"NN\"",
+        "value": 800,
+        "question": "Get thee to this synonym for a convent",
+        "answer": "nunnery",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 1200,
+        "question": "This mega producer & creator of \"Scandal\" declared, \"You can waste your lives drawing lines or you can live your life crossing them\"",
+        "answer": "(Shonda) Rhimes",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "ALSO ON THE MONOPOLY BOARD",
+        "value": 1200,
+        "question": "In baseball, this \"punitive\" measure began in 1997, & for the Yankees it was over $4.4 million",
+        "answer": "a luxury tax",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BLANK CANVAS",
+        "value": 1200,
+        "question": "A group portrait by Rembrandt:  \"The ____ ____ (The Company of Captain Frans Banning Cocq)\"",
+        "answer": "The Night Watch",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "SHE BLINDED ME WITH SCIENCE",
+        "value": 1200,
+        "question": "Rosalind Franklin's X-ray photograph of this helped prove it to be a double-helix polymer",
+        "answer": "DNA",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "WASN'T THAT AN '80s THING?",
+        "value": 1200,
+        "question": "\"Say You, Say Me\" is on his album \"Dancing On The Ceiling\"",
+        "answer": "Lionel Richie",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "SEE \"NN\"",
+        "value": 1200,
+        "question": "Manually sifting for gold in a river",
+        "answer": "panning",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 1600,
+        "question": "As a producer, he was smart enough to hire himself to direct \"A Beautiful Mind\"; imagine that!",
+        "answer": "Ron Howard",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "ALSO ON THE MONOPOLY BOARD",
+        "value": 1600,
+        "question": "The president lives on it",
+        "answer": "Pennsylvania Avenue",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BLANK CANVAS",
+        "value": 1600,
+        "question": "Picasso cubed it: \"Les Demoiselles d'____\"",
+        "answer": "Avignon",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "SHE BLINDED ME WITH SCIENCE",
+        "value": 1600,
+        "question": "Dorothy Hodgkin's Nobel Prize in Chemistry was for her work on this vitamin, whose deficiency causes pernicious anemia",
+        "answer": "B12",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "WASN'T THAT AN '80s THING?",
+        "value": 1600,
+        "question": "He was elected governor of Massachusetts in 1982 & 1986 & then it was on to the presidency--well, not quite",
+        "answer": "Dukakis",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "SEE \"NN\"",
+        "value": 1600,
+        "question": "A chronological record of the events of successive years",
+        "answer": "an annal",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "PRODUCE",
+        "value": 2000,
+        "question": "\"Top Gun\" & \"CSI\" are just two of the projects of this last of Hollywood's mega producers",
+        "answer": "Jerry Bruckheimer",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "ALSO ON THE MONOPOLY BOARD",
+        "value": 2000,
+        "question": "A Latvian street?",
+        "answer": "Baltic Avenue",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "FILL IN THE BLANK CANVAS",
+        "value": 2000,
+        "question": "Francisco Goya: \"The 3rd of ____, 1808\"",
+        "answer": "May",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "SHE BLINDED ME WITH SCIENCE",
+        "value": 2000,
+        "question": "Called the first female M.D. in modern times, she helped found the London School of Medicine for Women in 1875",
+        "answer": "Dr. Elizabeth Blackwell",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "WASN'T THAT AN '80s THING?",
+        "value": 2000,
+        "question": "This stainless-steel car with gull-wing doors debuted in 1981; fewer than 10,000 were made",
+        "answer": "a DeLorean",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "SEE \"NN\"",
+        "value": 2000,
+        "question": "Gould, Miller or Ford",
+        "answer": "Glenn",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "HISTORIC LETTERS",
+    "clue": "A letter from him begins, \"On the thirty-third day after I had left Cadiz, I reached the Indian Ocean\"",
+    "answer": "(Christopher) Columbus"
+  },
+  "gameId": "8958",
+  "gameDate": "Wednesday, October 25, 2023"
+}

@@ -1,0 +1,574 @@
+{
+  "title": "Show #8994 - Thursday, December 14, 2023",
+  "jeopardyRound": {
+    "categories": [
+      "IN THE FOOTSTEPS OF HISTORY",
+      "TENNIS-Y WILLIAMS",
+      "LITERATURE",
+      "STATE OF THE COLLEGE",
+      "IT'S ALL RELATIVE",
+      "A PROVERBIAL MESS"
+    ],
+    "clues": [
+      {
+        "category": "IN THE FOOTSTEPS OF HISTORY",
+        "value": 200,
+        "question": "Trace Jesus' steps in this city as he walked down the Via Dolorosa toward Golgotha",
+        "answer": "Jerusalem",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TENNIS-Y WILLIAMS",
+        "value": 200,
+        "question": "Venus & Serena grew up in this huge city's suburb of Compton, better known for rappers than groundstrokers",
+        "answer": "L.A.",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 200,
+        "question": "Homer begins this epic poem by telling us it's about the anger of Achilles",
+        "answer": "the Iliad",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "STATE OF THE COLLEGE",
+        "value": 200,
+        "question": "Weber State is near a \"Great\" lake in this state",
+        "answer": "Utah",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "IT'S ALL RELATIVE",
+        "value": 200,
+        "question": "It's a pendular timepiece with a case as tall as or taller than a person",
+        "answer": "a grandfather clock",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "A PROVERBIAL MESS",
+        "value": 200,
+        "question": "Son father like like",
+        "answer": "like father like son",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "IN THE FOOTSTEPS OF HISTORY",
+        "value": 400,
+        "question": "A tour of his infamous trail of murder starts at the Aldgate East tube station",
+        "answer": "Jack the Ripper",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TENNIS-Y WILLIAMS",
+        "value": 400,
+        "question": "Venus took the 2000 & 2001 singles titles at this British Grand Slam event",
+        "answer": "Wimbledon",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 400,
+        "question": "Louis de Pointe du Lac, not Lestat, is the title undead being queried in this novel",
+        "answer": "Interview with the Vampire",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "STATE OF THE COLLEGE",
+        "value": 400,
+        "question": "It's the state of Wayne State University, attended by Jack White, Lily Tomlin & Steven Dorfman",
+        "answer": "Michigan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "IT'S ALL RELATIVE",
+        "value": 400,
+        "question": "In 1917 he founded Boys Town in Omaha, open to boys of all races & religions",
+        "answer": "Father Flanagan",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "A PROVERBIAL MESS",
+        "value": 400,
+        "question": "Words louder than actions speak",
+        "answer": "actions speak louder than words",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "IN THE FOOTSTEPS OF HISTORY",
+        "value": 600,
+        "question": "Starting at the Boston Common & ending at the Bunker Hill Monument is this 2-word path",
+        "answer": "the Freedom Trail",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TENNIS-Y WILLIAMS",
+        "value": 600,
+        "question": "In 2001 the Williams sisters got \"animated\" on the court in the \"Tennis the Menace\" episode of this Fox series",
+        "answer": "The Simpsons",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 600,
+        "question": "For telling the truth about a town's contaminated water supply in an Ibsen play, Dr. Thomas Stockmann becomes this title foe",
+        "answer": "An Enemy of the People",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "STATE OF THE COLLEGE",
+        "value": 600,
+        "question": "Muncie in this state is home to Ball State University",
+        "answer": "Indiana",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "IT'S ALL RELATIVE",
+        "value": 600,
+        "question": "Seen riding a flying gander, this character is usually traced back to a 1697 book by Charles Perrault",
+        "answer": "Mother Goose",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "A PROVERBIAL MESS",
+        "value": 600,
+        "question": "From a blood stone you get can't",
+        "answer": "you can't get blood from a stone",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "IN THE FOOTSTEPS OF HISTORY",
+        "value": 800,
+        "question": "Hike in the footsteps of settlers & Native Americans on the Natchez Trace, starting in Natchez in this state",
+        "answer": "Mississippi",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TENNIS-Y WILLIAMS",
+        "value": 800,
+        "question": "In 2003 Serena completed a \"Serena Slam\", beating Venus 7-6, 3-6, 6-4 at this event in Melbourne",
+        "answer": "the Australian Open",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 800,
+        "question": "\"A drowsy numbness pains my sense, as though of hemlock I had drunk\" is a line from his \"Ode to a Nightingale\"",
+        "answer": "Keats",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "STATE OF THE COLLEGE",
+        "value": 800,
+        "question": "Tufts is a centerpiece of Medford in this state",
+        "answer": "Massachusetts",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "IT'S ALL RELATIVE",
+        "value": 800,
+        "question": "Covered in hair from head to foot, this member of \"The Addams Family\" spoke in a language all his own",
+        "answer": "Cousin Itt",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "A PROVERBIAL MESS",
+        "value": 800,
+        "question": "Bright on the always side look",
+        "answer": "always look on the bright side",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "IN THE FOOTSTEPS OF HISTORY",
+        "value": 1000,
+        "question": "Retracing this 1930s journey will take you thousands of miles from Ruijin to Yan'an",
+        "answer": "the Long March",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "TENNIS-Y WILLIAMS",
+        "value": 1000,
+        "question": "The way this dad of Venus & Serena managed their careers brought some criticism, but turned out pretty well",
+        "answer": "(King) Richard Williams",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "LITERATURE",
+        "value": 1000,
+        "question": "In this 1948 Shirley Jackson short story, a village selects a sacrificial stoning victim to ensure a good harvest",
+        "answer": "\"The Lottery\"",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "STATE OF THE COLLEGE",
+        "value": 1000,
+        "question": "The Campbell Fighting Camels are from near the Cape Fear River in this state",
+        "answer": "North Carolina",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "IT'S ALL RELATIVE",
+        "value": 1000,
+        "question": "This first novel by Theodore Dreiser tells of a young woman's rise to become a successful Broadway actress",
+        "answer": "Sister Carrie",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "A PROVERBIAL MESS",
+        "value": 1000,
+        "question": "Never better than late",
+        "answer": "better late than never",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "BROWNIAN NOTIONS",
+      "SCENES FROM AN ITALIAN RESTAURANT",
+      "THE SEA'S BOUNTY",
+      "A MATTER OF \"LIFE\" OR \"DEATH\"",
+      "HELL",
+      "HIGH WATER"
+    ],
+    "clues": [
+      {
+        "category": "BROWNIAN NOTIONS",
+        "value": 400,
+        "question": "He soulfully sang it's a \"man's world, but it wouldn't be nothing, nothing without a woman or a girl\"",
+        "answer": "James Brown",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "SCENES FROM AN ITALIAN RESTAURANT",
+        "value": 400,
+        "question": "Before she was a pretty woman, this actress mopped the floor of the title joint in \"Mystic Pizza\"",
+        "answer": "Julia Roberts",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "THE SEA'S BOUNTY",
+        "value": 400,
+        "question": "They're seen here accompanying shrimp & lacking their distinctive shells",
+        "answer": "scallops",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "A MATTER OF \"LIFE\" OR \"DEATH\"",
+        "value": 400,
+        "question": "Bread, as the mainstay of the human diet, is known as this",
+        "answer": "the staff of life",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "HELL",
+        "value": 400,
+        "question": "In Norse mythology, Hel, daughter of this troublesome god, ruled Niflheim, where sinners were tormented",
+        "answer": "Loki",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HIGH WATER",
+        "value": 400,
+        "question": "After floods in 1966, UNESCO made efforts to save this Italian city & its treasures, like the Biblioteca Marciana",
+        "answer": "Venice",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "BROWNIAN NOTIONS",
+        "value": 800,
+        "question": "Referring to the nickname \"Governor Moonbeam\", he says, \"I've earned that moniker\"",
+        "answer": "Jerry Brown",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "SCENES FROM AN ITALIAN RESTAURANT",
+        "value": 800,
+        "question": "Later movies in the \"Rocky\" oeuvre include scenes in the restaurant Mr. Balboa opened & named for her",
+        "answer": "Adrian",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "THE SEA'S BOUNTY",
+        "value": 800,
+        "question": "In a Japanese restaurant, kani is this crustacean & kani-kamaboko is fake this crustacean",
+        "answer": "crab",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "A MATTER OF \"LIFE\" OR \"DEATH\"",
+        "value": 800,
+        "question": "A source of rescue in a crisis; phone a friend is one example",
+        "answer": "a lifeline",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "HELL",
+        "value": 800,
+        "question": "Delacroix depicted this Roman poet guiding Dante across the River Styx",
+        "answer": "Virgil",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HIGH WATER",
+        "value": 800,
+        "question": "The Zuiderzee Flood of 1287 killed 50,000 but also connected this then-village to the sea, & the rest is Dutch history",
+        "answer": "Amsterdam",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "BROWNIAN NOTIONS",
+        "value": 1200,
+        "question": "He said he knew \"slave-holders\" would not give up their slaves \"till they felt a big stick about their heads\"",
+        "answer": "John Brown",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "SCENES FROM AN ITALIAN RESTAURANT",
+        "value": 1200,
+        "question": "Danny Aiello awkwardly proposes to Cher in an Italian restaurant in this 1987 film",
+        "answer": "Moonstruck",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "THE SEA'S BOUNTY",
+        "value": 1200,
+        "question": "Boquerones, which are these, are a favorite on tapas in Spain; they've fallen out of favor on American pizzas",
+        "answer": "anchovies",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "A MATTER OF \"LIFE\" OR \"DEATH\"",
+        "value": 1200,
+        "question": "Alliterative term used to publicize a circus performer who puts himself at great risk",
+        "answer": "death-defying",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "HELL",
+        "value": 1200,
+        "question": "Milton used this word for the capital of Hell; now it means wild confusion",
+        "answer": "Pandemonium",
+        "isDailyDouble": true,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HIGH WATER",
+        "value": 1200,
+        "question": "In 1887, 1931 & 1938 northern China was devastated by flooding of the Huang He, this colorful river",
+        "answer": "Yellow",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "BROWNIAN NOTIONS",
+        "value": 1600,
+        "question": "Before he became U.K. prime minister, he said economic & \"environmental objectives now... reinforce each other\"",
+        "answer": "Gordon Brown",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "SCENES FROM AN ITALIAN RESTAURANT",
+        "value": 1600,
+        "question": "Mookie throws a trash can through the window of Sal's Famous Pizzeria in Brooklyn in this 1989 film",
+        "answer": "Do the Right Thing",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "THE SEA'S BOUNTY",
+        "value": 1600,
+        "question": "The Dover type of this fish isn't confined to British waters; it's found in the Mediterranean",
+        "answer": "sole",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "A MATTER OF \"LIFE\" OR \"DEATH\"",
+        "value": 1600,
+        "question": "Though they sound like they sit on the beach, they're the senior British army regiment & first saw action in the 1600s",
+        "answer": "the Life Guards",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "HELL",
+        "value": 1600,
+        "question": "This French existentialist's play \"No Exit\" posits that hell is other people",
+        "answer": "Sartre",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HIGH WATER",
+        "value": 1600,
+        "question": "A dam collapse in this state led to the deadly 1889 Johnstown Flood",
+        "answer": "Pennsylvania",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "BROWNIAN NOTIONS",
+        "value": 2000,
+        "question": "She ran Vanity Fair & the Daily Beast but said, \"I didn't see myself as an editor. I wanted to be a playwright\"",
+        "answer": "Tina Brown",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "SCENES FROM AN ITALIAN RESTAURANT",
+        "value": 2000,
+        "question": "In the final scene of this film, Secondo makes a frittata for Brother Primo in the Paradise restaurant",
+        "answer": "Big Night",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "THE SEA'S BOUNTY",
+        "value": 2000,
+        "question": "This shellfish of the family Mytilidae needs its beard removed, a little steaming & yum",
+        "answer": "a mussel",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "A MATTER OF \"LIFE\" OR \"DEATH\"",
+        "value": 2000,
+        "question": "One of the Arabian Nights begins with a proud king who's not so proud when this heavenly being appears to him",
+        "answer": "the Angel of Death",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HELL",
+        "value": 2000,
+        "question": "In Greek mythology the gods consigned their enemies to this region under Hades",
+        "answer": "Tartarus",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "HIGH WATER",
+        "value": 2000,
+        "question": "2010-11 floods in Australia were exacerbated by this Pacific Ocean weather phenomenon with a feminine name",
+        "answer": "La Niña",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "BUSINESS",
+    "clue": "Of the Big 4 U.S. airlines, the 4 that each have over 15% of the domestic market, it's the youngest",
+    "answer": "Southwest"
+  },
+  "gameId": "8994",
+  "gameDate": "Thursday, December 14, 2023"
+}
