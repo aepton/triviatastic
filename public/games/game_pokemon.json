@@ -1,0 +1,574 @@
+{
+    "title": "Pokemon by Imogen",
+    "jeopardyRound": {
+      "categories": [
+        "Pokemon facts",
+        "SEAN SONG",
+        "CITY WALK",
+        "SLOGANEERING",
+        "ROOM",
+        "\"BOARD\""
+      ],
+      "clues": [
+        {
+          "category": "Pokemon facts",
+          "value": 200,
+          "question": "Is Pokemon real or not?",
+          "answer": "No",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "category": "SEAN SONG",
+          "value": 200,
+          "question": "What are the bad guys' names?",
+          "answer": "(Sean) Combs",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "category": "CITY WALK",
+          "value": 200,
+          "question": "In the 1980s this city passed Chicago as the USA's second most populous",
+          "answer": "Los Angeles",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "category": "SLOGANEERING",
+          "value": 200,
+          "question": "\"Ask any mermaid you happen to see, 'What's the best tuna?'\", this brand",
+          "answer": "Chicken of the Sea",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "category": "ROOM",
+          "value": 200,
+          "question": "Many people have become familiar with Shape, Ski & Savoy, which are these, in doctors' waiting rooms",
+          "answer": "magazines",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 4
+        },
+        {
+          "category": "\"BOARD\"",
+          "value": 200,
+          "question": "In 2003 Roy E. Disney left it after being on it since 1967",
+          "answer": "the Disney board of directors",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 5
+        },
+        {
+          "category": "Pokemon facts",
+          "value": 400,
+          "question": "What are the bad guys' names?",
+          "answer": "Jesse and James",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "category": "SEAN SONG",
+          "value": 400,
+          "question": "Once married to Madonna",
+          "answer": "Sean Penn",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "category": "CITY WALK",
+          "value": 400,
+          "question": "This London borough is the G in GMT, squire",
+          "answer": "Greenwich",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "category": "SLOGANEERING",
+          "value": 400,
+          "question": "A fast food chain: \"If it doesn't get all over the place, it doesn't belong in your face\"",
+          "answer": "Carl's Jr.",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "category": "ROOM",
+          "value": 400,
+          "question": "(Cheryl of the Clue Crew reports from the Briefing Room at the White House.)  The White House briefing room floor covers a swimming pool that was installed for this man in 1933",
+          "answer": "FDR",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 4
+        },
+        {
+          "category": "\"BOARD\"",
+          "value": 400,
+          "question": "It's where Bart Simpson is often found in the opening of \"The Simpsons\"",
+          "answer": "his skateboard (or the blackboard)",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 5
+        },
+        {
+          "category": "Pokemon facts",
+          "value": 600,
+          "question": "Why are the bad guys trying to steal Pikachu?",
+          "answer": "Because he has the goodest power.",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "category": "SEAN SONG",
+          "value": 600,
+          "question": "He won an Oscar for \"The Untouchables\"",
+          "answer": "(Sean) Connery",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "category": "CITY WALK",
+          "value": 600,
+          "question": "Thomas Alsgaard won the 15-kilometer cross-country ski event at the 1998 Winter Olympics in this Japanese city",
+          "answer": "Nagano",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "category": "SLOGANEERING",
+          "value": 600,
+          "question": "\"Pardon me, but do you have any\" of this fancy mustard?",
+          "answer": "Grey Poupon",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 3
+        },
+        {
+          "category": "ROOM",
+          "value": 600,
+          "question": "The Titanic had 3 rooms for this--only men were allowed there, as women weren't supposed to do it in public",
+          "answer": "smoking",
+          "isDailyDouble": true,
+          "row": 2,
+          "column": 4
+        },
+        {
+          "category": "\"BOARD\"",
+          "value": 600,
+          "question": "At this time we'd like to do this for our first-class passengers & those traveling with small children",
+          "answer": "pre-board",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 5
+        },
+        {
+          "category": "Pokemon facts",
+          "value": 800,
+          "question": "How come Pikachu gets the amazing power and the bad guys want to steal him?",
+          "answer": "Because he has a famous big thunderbolt.",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 0
+        },
+        {
+          "category": "SEAN SONG",
+          "value": 800,
+          "question": "Yoko's boy",
+          "answer": "Sean Lennon",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 1
+        },
+        {
+          "category": "CITY WALK",
+          "value": 800,
+          "question": "The Dalai Lama's former residence, the Potala Palace, overlooks this city",
+          "answer": "Lhasa",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 2
+        },
+        {
+          "category": "SLOGANEERING",
+          "value": 800,
+          "question": "\"Kiss a little longer\" with this gum",
+          "answer": "Big Red",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 3
+        },
+        {
+          "category": "ROOM",
+          "value": 800,
+          "question": "Officially released in 1975, much-bootlegged tapes of Dylan & The Band were named for this space",
+          "answer": "the basement",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 4
+        },
+        {
+          "category": "\"BOARD\"",
+          "value": 800,
+          "question": "A structural material named for its small wood fragments pressed together & bonded",
+          "answer": "particle board",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 5
+        },
+        {
+          "category": "THE OLD TESTAMENT",
+          "value": 1000,
+          "question": "In Genesis, Joseph is imprisoned after accusations by the wife of this Egyptian",
+          "answer": "Potiphar",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 0
+        },
+        {
+          "category": "SEAN SONG",
+          "value": 1000,
+          "question": "Android hottie in \"Blade Runner\"",
+          "answer": "Sean Young",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 1
+        },
+        {
+          "category": "CITY WALK",
+          "value": 1000,
+          "question": "Founded by Ram Das, this city in Punjab state is home to the Golden Temple, the center of Sikh faith",
+          "answer": "Amritsar",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 2
+        },
+        {
+          "category": "SLOGANEERING",
+          "value": 1000,
+          "question": "The slogan of this Johnson & Johnson product was \"Have you had your sprinkle today?\"",
+          "answer": "Shower to Shower",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 3
+        },
+        {
+          "category": "ROOM",
+          "value": 1000,
+          "question": "Decorating experts, & the film \"The Big Lebowski\", advise that the right one of these really ties a room together",
+          "answer": "a rug",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 4
+        },
+        {
+          "category": "\"BOARD\"",
+          "value": 1000,
+          "question": "(Jimmy of the Clue Crew reads from the Cirque du Soleil.)  When used by acrobats, this structure isn't called a seesaw, but this",
+          "answer": "a teeterboard",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 5
+        }
+      ]
+    },
+    "doubleJeopardyRound": {
+      "categories": [
+        "WORLD HISTORY",
+        "SPIRITED CINEMA",
+        "TRANSPORTATION",
+        "FISH, BIRD OR MAMMAL",
+        "PRUFROCKIAN PONDERINGS",
+        "YOU GET AN \"A\"!"
+      ],
+      "clues": [
+        {
+          "category": "WORLD HISTORY",
+          "value": 400,
+          "question": "Toledo military academy class of 1910 grad who went on to become a dictator",
+          "answer": "Francisco Franco",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "category": "SPIRITED CINEMA",
+          "value": 400,
+          "question": "Nicole Kidman finds a photo book containing a postmortem image of her current housekeeper in this chiller",
+          "answer": "The Others",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 400,
+          "question": "After turning the key, it's the final action with which you start a Yamaha YZ426F 4-stroke motorcycle",
+          "answer": "kick",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "category": "FISH, BIRD OR MAMMAL",
+          "value": 400,
+          "question": "The tapir",
+          "answer": "a mammal",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "category": "PRUFROCKIAN PONDERINGS",
+          "value": 400,
+          "question": "\"And how should I begin?\" Hmmm, T.S., why not with this alphabetically first country, whose Internet code is .af",
+          "answer": "Afghanistan",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 4
+        },
+        {
+          "category": "YOU GET AN \"A\"!",
+          "value": 400,
+          "question": "This U.S. state's name comes from an Aleut word meaning \"Great Land\"",
+          "answer": "Alaska",
+          "isDailyDouble": false,
+          "row": 0,
+          "column": 5
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 800,
+          "question": "Mindon, as emperor of this country, set up a new capital in 1857 at Mandalay",
+          "answer": "Burma",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "category": "SPIRITED CINEMA",
+          "value": 800,
+          "question": "This actor played a medium hired to investigate the Everest of haunted houses in \"Legend of Hell House\"",
+          "answer": "Roddy McDowall",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 800,
+          "question": "The Champlain & St. Lawrence RR opened in 1836 powered by this, but soon became Canada's first powered by steam",
+          "answer": "horses",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "category": "FISH, BIRD OR MAMMAL",
+          "value": 800,
+          "question": "The lamprey",
+          "answer": "a fish",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "category": "PRUFROCKIAN PONDERINGS",
+          "value": 800,
+          "question": "\"Do I dare disturb the universe?\", maybe like this cosmic explosion theory first proposed in the 1920s",
+          "answer": "the Big Bang",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 4
+        },
+        {
+          "category": "YOU GET AN \"A\"!",
+          "value": 800,
+          "question": "(Jeff Probst, host of Survivor, reads the clue.)  This river got its name after a Spanish explorer reported that he had been attacked by female warriors there",
+          "answer": "the Amazon",
+          "isDailyDouble": false,
+          "row": 1,
+          "column": 5
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 1200,
+          "question": "His 5 classics were canonized during the Han Dynasty",
+          "answer": "Confucius",
+          "isDailyDouble": true,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "category": "SPIRITED CINEMA",
+          "value": 1200,
+          "question": "David's haunted by the decomposing corpse of his friend Jack after being attacked on the British moors in this 1981 film",
+          "answer": "An American Werewolf in London",
+          "isDailyDouble": true,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 1200,
+          "question": "This word can refer to the vessel seen here, the type of missile it carries or a much more low-tech weapon",
+          "answer": "Trident",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "category": "FISH, BIRD OR MAMMAL",
+          "value": 1200,
+          "question": "The coelacanth",
+          "answer": "a fish",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 3
+        },
+        {
+          "category": "PRUFROCKIAN PONDERINGS",
+          "value": 1200,
+          "question": "\"So how should I presume?\" Not with this argumentative fallacy attacking the person & not the facts",
+          "answer": "ad hominem",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 4
+        },
+        {
+          "category": "YOU GET AN \"A\"!",
+          "value": 1200,
+          "question": "This basic unit of measure of electric current is named for a French physicist who studied voltage",
+          "answer": "the ampere",
+          "isDailyDouble": false,
+          "row": 2,
+          "column": 5
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 1600,
+          "question": "Edmund \"Crouchback\" founded this branch of the Plantagenets that didn't get on well with the Yorks",
+          "answer": "the Lancasters",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 0
+        },
+        {
+          "category": "SPIRITED CINEMA",
+          "value": 1600,
+          "question": "In \"The Gift\" this Aussie actress plays a psychic who gets some much needed help from her former client",
+          "answer": "Cate Blanchett",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 1
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 1600,
+          "question": "The U.S. company Trek makes Lance Armstrong's bikes from a composite of this often-compounded element",
+          "answer": "carbon",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 2
+        },
+        {
+          "category": "FISH, BIRD OR MAMMAL",
+          "value": 1600,
+          "question": "The ptarmigan",
+          "answer": "a bird",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 3
+        },
+        {
+          "category": "PRUFROCKIAN PONDERINGS",
+          "value": 1600,
+          "question": "\"In the room the women come and go talking of Michelangelo\", but do they know this statue was the only 1 he signed?",
+          "answer": "the Pietà",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 4
+        },
+        {
+          "category": "YOU GET AN \"A\"!",
+          "value": 1600,
+          "question": "To increase a jet plane's thrust, turn on these that feed fuel into the hot exhaust gases",
+          "answer": "the afterburner",
+          "isDailyDouble": false,
+          "row": 3,
+          "column": 5
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 2000,
+          "question": "In 1825 the Decembrists attempted a coup in this country--didn't work",
+          "answer": "Russia",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 0
+        },
+        {
+          "category": "SPIRITED CINEMA",
+          "value": 2000,
+          "question": "Rex Harrison is a curmudgeonly sea captain's ghost haunting Gene Tierney's cottage in this 1947 classic",
+          "answer": "The Ghost and Mrs. Muir",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 1
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 2000,
+          "question": "In 1980 you could haul brie in the Renault sold in the U.S. under this half-French name",
+          "answer": "Le Car",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 2
+        },
+        {
+          "category": "FISH, BIRD OR MAMMAL",
+          "value": 2000,
+          "question": "The colobus",
+          "answer": "a mammal",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 3
+        },
+        {
+          "category": "PRUFROCKIAN PONDERINGS",
+          "value": 2000,
+          "question": "\"Do I dare to eat a peach?\", & if so, perhaps this kind that sounds like William Sydney Porter's alias",
+          "answer": "an O'Henry",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 4
+        },
+        {
+          "category": "YOU GET AN \"A\"!",
+          "value": 2000,
+          "question": "There's a cathedral of Notre Dame in this large Belgian port city that's also known for its diamonds",
+          "answer": "Antwerp",
+          "isDailyDouble": false,
+          "row": 4,
+          "column": 5
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "COMIC BOOKS",
+      "clue": "In 2002 the Library of Congress had William B. Jones, Jr. speak on this 1941-1971 comic book series in its collection",
+      "answer": "Classic Comics (or Classics Illustrated)"
+    },
+    "gameId": "4596",
+    "gameDate": "Monday, September 6, 2004"
+  }
