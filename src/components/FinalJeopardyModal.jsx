@@ -1,13 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import './Modal.css';
+import './FinalJeopardyModal.css';
 
 function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpdate }) {
   const [playerAnswers, setPlayerAnswers] = useState({});
   const [playerWagers, setPlayerWagers] = useState({});
+  const [showClue, setShowClue] = useState(false);
   const [showAnswers, setShowAnswers] = useState(false);
   const [correctGuessers, setCorrectGuessers] = useState({});
   const [showFinalScores, setShowFinalScores] = useState(false);
-  const [hasSubmissions, setHasSubmissions] = useState({});
+  const [hasWagerSubmissions, setHasWagerSubmissions] = useState({});
+  const [hasAnswerSubmissions, setHasAnswerSubmissions] = useState({});
   
   useEffect(() => {
     // Initialize state for each user, but only when component first mounts
@@ -15,59 +18,73 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
     const initialAnswers = {};
     const initialWagers = {};
     const initialCorrect = {};
-    const initialSubmissions = {};
+    const initialWagerSubmissions = {};
+    const initialAnswerSubmissions = {};
     
     users.forEach(user => {
       // Preserve existing values if they exist, otherwise initialize to empty
       initialAnswers[user.name] = playerAnswers[user.name] || "";
       initialWagers[user.name] = playerWagers[user.name] || "";
       initialCorrect[user.name] = correctGuessers[user.name] !== undefined ? correctGuessers[user.name] : null;
-      initialSubmissions[user.name] = hasSubmissions[user.name] || false;
+      initialWagerSubmissions[user.name] = hasWagerSubmissions[user.name] || false;
+      initialAnswerSubmissions[user.name] = hasAnswerSubmissions[user.name] || false;
     });
     
     setPlayerAnswers(initialAnswers);
     setPlayerWagers(initialWagers);
     setCorrectGuessers(initialCorrect);
-    setHasSubmissions(initialSubmissions);
+    setHasWagerSubmissions(initialWagerSubmissions);
+    setHasAnswerSubmissions(initialAnswerSubmissions);
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   
-  // Poll for submitted answers regularly if not showing answers yet
+  // Poll for submitted wagers and answers regularly
   useEffect(() => {
-    // Only fetch if we're not already showing answers
-    if (!showAnswers) {
-      fetchSavedAnswers();
-      
-      const interval = setInterval(() => {
-        fetchSavedAnswers();
-      }, 3000); // Check every 3 seconds
-      
-      return () => clearInterval(interval);
-    }
-  }, [showAnswers, users]);
+    fetchSavedResponses();
+    
+    const interval = setInterval(() => {
+      fetchSavedResponses();
+    }, 3000); // Check every 3 seconds
+    
+    return () => clearInterval(interval);
+  }, [showClue, showAnswers, users]);
   
-  // Check if all players have submitted and auto-reveal if they have
+  // Check if all players have submitted wagers and auto-reveal clue if they have
   useEffect(() => {
-    // Check if all users have submitted
-    const allSubmitted = users.length > 0 && users.every(user => hasSubmissions[user.name]);
+    // Check if all users have submitted wagers
+    const allWagersSubmitted = users.length > 0 && users.every(user => hasWagerSubmissions[user.name]);
     
     // Determine if current user is game creator (first user in the list)
     const isCreator = users.length > 0 && users.indexOf(users.find(user => user.name === users[0].name)) === 0;
     
-    // If everyone has submitted and answers aren't shown yet
-    if (allSubmitted && !showAnswers && isCreator) {
+    // If everyone has submitted wagers and clue isn't shown yet
+    if (allWagersSubmitted && !showClue && isCreator) {
+      setShowClue(true);
+    }
+  }, [hasWagerSubmissions, users, showClue]);
+  
+  // Check if all players have submitted answers and auto-reveal answer if they have
+  useEffect(() => {
+    // Check if all users have submitted answers
+    const allAnswersSubmitted = users.length > 0 && users.every(user => hasAnswerSubmissions[user.name]);
+    
+    // Determine if current user is game creator (first user in the list)
+    const isCreator = users.length > 0 && users.indexOf(users.find(user => user.name === users[0].name)) === 0;
+    
+    // If everyone has submitted answers, clue is shown, but answers aren't shown yet
+    if (allAnswersSubmitted && showClue && !showAnswers && isCreator) {
       handleReveal();
     }
-  }, [hasSubmissions, users, showAnswers]);
+  }, [hasAnswerSubmissions, users, showClue, showAnswers]);
   
-  const fetchSavedAnswers = async () => {
+  const fetchSavedResponses = async () => {
     // Check if current user is game creator (first user in the list)
     const isCreator = users.length > 0 && users.indexOf(users.find(user => user.name === users[0].name)) === 0;
     
     // Get the current user's name - assuming the first user in users array
     const currentUserName = users[0]?.name;
     
-    // Fetch saved answers for each user
+    // Fetch saved wagers and answers for each user
     for (const user of users) {
       try {
         const response = await fetch(`https://faas-sfo3-7872a1dd.doserverless.co/api/v1/web/fn-47dddde9-70be-4ccc-a992-b68c3887ccb9/default/reader?gameIdentifier=${encodeURIComponent(`${user.gameId}-wager-${user.name}`)}`);
@@ -86,8 +103,8 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
             );
             
           const shouldUpdateWager = 
-            // Only update if not already showing answers (don't override after reveal)
-            !showAnswers && (
+            // Only update if not already showing clue (don't override after clue reveal)
+            !showClue && (
               isCreator || // Creator always gets updates
               user.name !== currentUserName || // Always update other players' data
               (user.name === currentUserName && !playerWagers[user.name]) // Only update joiner's own data if empty
@@ -108,16 +125,23 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
             }));
           }
           
-          // Mark user as having submitted if they have both answer and wager
-          if (data.answer && data.wager) {
-            setHasSubmissions(prev => ({
+          // Track wager and answer submissions separately
+          if (data.wager) {
+            setHasWagerSubmissions(prev => ({
+              ...prev,
+              [user.name]: true
+            }));
+          }
+          
+          if (data.answer) {
+            setHasAnswerSubmissions(prev => ({
               ...prev,
               [user.name]: true
             }));
           }
         }
       } catch (error) {
-        console.error(`Error fetching answer for ${user.name}:`, error);
+        console.error(`Error fetching response for ${user.name}:`, error);
       }
     }
   };
@@ -138,7 +162,41 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
     }));
   };
   
-  const handleSave = async (userName) => {
+  const handleSaveWager = async (userName) => {
+    try {
+      // Get gameId from any user (they all should have the same gameId)
+      const gameId = users[0]?.gameId;
+      if (!gameId) return;
+      
+      const response = await fetch('https://faas-sfo3-7872a1dd.doserverless.co/api/v1/web/fn-47dddde9-70be-4ccc-a992-b68c3887ccb9/default/saver', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          gameIdentifier: `${gameId}-wager-${userName}`,
+          gameState: {
+            wager: playerWagers[userName] || "0",
+            lastUpdated: new Date().toISOString()
+          }
+        })
+      });
+      
+      if (!response.ok) {
+        throw new Error('Failed to save wager');
+      }
+      
+      // Mark this user as having submitted a wager
+      setHasWagerSubmissions(prev => ({
+        ...prev,
+        [userName]: true
+      }));
+    } catch (error) {
+      console.error('Error saving wager:', error);
+    }
+  };
+  
+  const handleSaveAnswer = async (userName) => {
     try {
       // Get gameId from any user (they all should have the same gameId)
       const gameId = users[0]?.gameId;
@@ -163,8 +221,8 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
         throw new Error('Failed to save answer');
       }
       
-      // Mark this user as having submitted
-      setHasSubmissions(prev => ({
+      // Mark this user as having submitted an answer
+      setHasAnswerSubmissions(prev => ({
         ...prev,
         [userName]: true
       }));
@@ -285,11 +343,84 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
     );
   }
   
+  // Render the Final Jeopardy stage with only category and wager collection
+  if (!showClue) {
+    return (
+      <div className="modal-overlay">
+        <div className="modal-content final-jeopardy-modal">
+          <h2>Final Jeopardy</h2>
+          <h3 className="final-jeopardy-category">Category: {category}</h3>
+          
+          <div className="player-answers">
+            {users.map(user => (
+              <div key={user.name} className="player-answer-row">
+                <div className="player-input-group">
+                  <div className="player-name">
+                    {user.name}
+                    {hasWagerSubmissions[user.name] && <span className="submitted-indicator"> (Wager Submitted)</span>}
+                  </div>
+                  
+                  <input
+                    type="password"
+                    value={playerWagers[user.name] || ""}
+                    onChange={(e) => handleWagerChange(user.name, e.target.value)}
+                    placeholder="Wager"
+                    readOnly={hasWagerSubmissions[user.name]}
+                    data-1p-ignore="true"
+                  />
+                  
+                  {/* Add an empty placeholder input to maintain layout consistency */}
+                  <input
+                    type="password"
+                    value=""
+                    readOnly
+                    style={{ visibility: 'hidden' }}
+                  />
+                  
+                  {!hasWagerSubmissions[user.name] && (
+                    <button
+                      className="save-btn"
+                      onClick={() => handleSaveWager(user.name)}
+                      disabled={!playerWagers[user.name]}
+                    >
+                      Submit Wager
+                    </button>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+          
+          {/* Waiting message when some players haven't submitted wagers yet */}
+          {users.some(user => !hasWagerSubmissions[user.name]) && (
+            <div className="waiting-message">
+              <p>Waiting for all players to submit their wagers</p>
+            </div>
+          )}
+          
+          {/* Only creator can force proceed */}
+          {users.indexOf(users[0]) === 0 && (
+            <div className="modal-actions">
+              <button 
+                onClick={() => setShowClue(true)} 
+                className="btn-primary"
+                disabled={users.some(user => !hasWagerSubmissions[user.name])}
+              >
+                Show Clue
+              </button>
+            </div>
+          )}
+        </div>
+      </div>
+    );
+  }
+  
+  // Render the Final Jeopardy clue and answer collection
   return (
     <div className="modal-overlay">
       <div className="modal-content final-jeopardy-modal">
         <h2>Final Jeopardy</h2>
-        <h3>Category: {category}</h3>
+        <h3 className="final-jeopardy-category">Category: {category}</h3>
         
         <div className="final-clue">
           <p>{clue}</p>
@@ -303,81 +434,95 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
         )}
         
         <div className="player-answers">
-          {users.map(user => {
-            // Determine if this user is the game creator
-            const isCreator = users.indexOf(user) === 0;
-            
-            return (
-              <div key={user.name} className="player-answer-row">
+          {users.map(user => (
+            <div key={user.name} className="player-answer-row">              
+              <div className="player-input-group">
                 <div className="player-name">
                   {user.name}
-                  {hasSubmissions[user.name] && !showAnswers && <span className="submitted-indicator"> (Submitted)</span>}
+                  {hasAnswerSubmissions[user.name] && !showAnswers && <span className="submitted-indicator"> (Answer Submitted)</span>}
                 </div>
+
+                {/* Show both wager and answer fields */}
+                <input
+                  type={showAnswers ? "text" : "password"}
+                  value={playerAnswers[user.name] || ""}
+                  onChange={(e) => handleAnswerChange(user.name, e.target.value)}
+                  placeholder="Answer"
+                  readOnly={showAnswers || hasAnswerSubmissions[user.name]}
+                  data-1p-ignore="true"
+                />
                 
-                <div className="player-input-group">
-                  <input
-                    type={showAnswers ? "text" : "password"}
-                    value={playerAnswers[user.name] || ""}
-                    onChange={(e) => handleAnswerChange(user.name, e.target.value)}
-                    placeholder="Answer"
-                    readOnly={showAnswers}
-                    data-1p-ignore="true"
-                  />
-                  
-                  <input
-                    type={showAnswers ? "text" : "password"}
-                    value={playerWagers[user.name] || ""}
-                    onChange={(e) => handleWagerChange(user.name, e.target.value)}
-                    placeholder="Wager"
-                    readOnly={showAnswers}
-                    data-1p-ignore="true"
-                  />
-                  
-                  {!showAnswers && (
-                    <button
-                      className="save-btn"
-                      onClick={() => handleSave(user.name)}
+                <input
+                  type={showAnswers ? "text" : "password"}
+                  value={playerWagers[user.name] || ""}
+                  readOnly={true}
+                  data-1p-ignore="true"
+                />
+                
+                {!showAnswers && !hasAnswerSubmissions[user.name] && (
+                  <button
+                    className="save-btn"
+                    onClick={() => handleSaveAnswer(user.name)}
+                    disabled={!playerAnswers[user.name]}
+                  >
+                    Submit Answer
+                  </button>
+                )}
+                
+                {showAnswers && (
+                  <div className="guess-toggles">
+                    <button 
+                      type="button"
+                      className={`toggle-btn ${correctGuessers[user.name] === true ? 'correct-active' : ''}`}
+                      onClick={(e) => {
+                        e.preventDefault();
+                        toggleUserGuess(user.name, true);
+                      }}
                     >
-                      Submit
+                      ✓
                     </button>
-                  )}
-                  
-                  {showAnswers && (
-                    <div className="guess-toggles">
-                      <button 
-                        type="button"
-                        className={`toggle-btn ${correctGuessers[user.name] === true ? 'correct-active' : ''}`}
-                        onClick={(e) => {
-                          e.preventDefault();
-                          toggleUserGuess(user.name, true);
-                        }}
-                      >
-                        ✓
-                      </button>
-                      <button 
-                        type="button"
-                        className={`toggle-btn ${correctGuessers[user.name] === false ? 'incorrect-active' : ''}`}
-                        onClick={(e) => {
-                          e.preventDefault();
-                          toggleUserGuess(user.name, false);
-                        }}
-                      >
-                        ✗
-                      </button>
-                    </div>
-                  )}
-                </div>
+                    <button 
+                      type="button"
+                      className={`toggle-btn ${correctGuessers[user.name] === false ? 'incorrect-active' : ''}`}
+                      onClick={(e) => {
+                        e.preventDefault();
+                        toggleUserGuess(user.name, false);
+                      }}
+                    >
+                      ✗
+                    </button>
+                  </div>
+                )}
               </div>
-            );
-          })}
+            </div>
+          ))}
         </div>
         
-        <div className="modal-actions">          
-          <button onClick={() => {
-            setShowFinalScores(true);
-          }} className="btn-secondary">
-            Final
-          </button>
+        {/* Waiting message when some players haven't submitted answers yet */}
+        {!showAnswers && users.some(user => !hasAnswerSubmissions[user.name]) && (
+          <div className="waiting-message">
+            <p>Waiting for all players to submit their answers...</p>
+          </div>
+        )}
+        
+        <div className="modal-actions">
+          {/* Show reveal button for creator if not all answers are submitted */}
+          {!showAnswers && users.indexOf(users[0]) === 0 && (
+            <button 
+              onClick={handleReveal} 
+              className="btn-primary"
+              disabled={users.some(user => !hasAnswerSubmissions[user.name])}
+            >
+              Reveal Answer
+            </button>
+          )}
+          
+          {/* Show final scores button once answers are revealed */}
+          {showAnswers && (
+            <button onClick={() => setShowFinalScores(true)} className="btn-secondary">
+              Show Final Scores
+            </button>
+          )}
         </div>
       </div>
     </div>

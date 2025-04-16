@@ -1,0 +1,45 @@
+.final-jeopardy-modal input[type="password"] {
+  font-family: sans-serif;
+  letter-spacing: 0.125em;
+  text-security: disc;
+  -webkit-text-security: disc;
+}
+
+/* Ensure consistent input sizing regardless of type */
+.final-jeopardy-modal input[type="password"],
+.final-jeopardy-modal input[type="text"] {
+  width: 150px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Label for input fields - not visible but maintains spacing */
+.final-jeopardy-modal .input-label {
+  width: 60px;
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #666;
+  text-align: right;
+  margin-right: 0.5rem;
+}
+
+/* Keep same row structure in all phases */
+.final-jeopardy-modal .player-input-group {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+/* Ensure consistent placement of player name in both phases */
+.final-jeopardy-modal .player-name {
+  min-width: 120px;
+  margin-right: 0.5rem;
+}
+
+/* Keep consistent spacing for action buttons */
+.final-jeopardy-modal .save-btn,
+.final-jeopardy-modal .guess-toggles {
+  min-width: 120px;
+}
