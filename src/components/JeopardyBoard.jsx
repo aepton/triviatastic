@@ -46,7 +46,9 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
           newTileStates[tileId] = {
             isFlipped: false,
             isAnswerShown: false,
-            isBlank: false
+            isBlank: false,
+            correctGuessers: [],
+            incorrectGuessers: []
           };
         } else {
           // Preserve existing state if it exists
@@ -57,6 +59,47 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
     
     setTileStates(newTileStates);
   }, [categories]);
+
+  // Calculate scores based on correctGuessers and incorrectGuessers in tile states
+  const calculateScoresFromTileStates = () => {
+    // Start with all users having 0 score
+    const userScores = {};
+    users.forEach(user => {
+      userScores[user.name] = 0;
+    });
+
+    // Calculate scores from all tile states
+    Object.keys(tileStates).forEach(tileId => {
+      const state = tileStates[tileId];
+      const [catIndex, qIndex] = tileId.split('-').map(Number);
+      
+      // Skip if the category or question index is invalid
+      if (isNaN(catIndex) || isNaN(qIndex) || !categories[catIndex]) return;
+      
+      // Get the question value
+      const questionValue = categories[catIndex]?.questions[qIndex]?.value || 0;
+      
+      // Add points for correct guessers
+      state.correctGuessers?.forEach(userId => {
+        if (userScores.hasOwnProperty(userId)) {
+          userScores[userId] += questionValue;
+        }
+      });
+      
+      // Subtract points for incorrect guessers
+      state.incorrectGuessers?.forEach(userId => {
+        if (userScores.hasOwnProperty(userId)) {
+          userScores[userId] -= questionValue;
+        }
+      });
+    });
+    
+    // Convert back to users array
+    return users.map(user => ({
+      ...user,
+      score: userScores[user.name] || 0
+    }));
+  };
 
   // Expose methods to parent components via ref
   useImperativeHandle(ref, () => ({
@@ -74,6 +117,9 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
         lastUpdated: new Date().toISOString()
       };
     },
+    calculateScores: () => {
+      return calculateScoresFromTileStates();
+    },
     resetTileStates: () => {
       // Create fresh tile states for all current categories
       const newTileStates = {};
@@ -84,7 +130,9 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
           newTileStates[tileId] = {
             isFlipped: false,
             isAnswerShown: false,
-            isBlank: false
+            isBlank: false,
+            correctGuessers: [],
+            incorrectGuessers: []
           };
         });
       });
@@ -101,21 +149,34 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
         setUsers(state.users);
       }
       
-      // Properly merge tile states, preserving local interaction state but taking remote data
+      // Properly merge tile states, always taking remote data to ensure viewers stay in sync
       if (state.tileStates) {
         setTileStates(prevTileStates => {
           const newTileStates = {...prevTileStates};
           
-          // Update all tiles from remote state, but only sync "isBlank" property for guessed tiles
+          // Update all tiles from remote state, always syncing all properties
           Object.keys(state.tileStates).forEach(tileId => {
             // If this is a new tile that didn't exist before, create it
             if (!newTileStates[tileId]) {
               newTileStates[tileId] = state.tileStates[tileId];
             } else {
-              // For existing tiles, we only want to sync the isBlank property
-              // This ensures we don't overwrite local interaction state
-              if (state.tileStates[tileId].isBlank) {
-                newTileStates[tileId].isBlank = state.tileStates[tileId].isBlank;
+              // For existing tiles, sync all properties to ensure viewers stay in sync
+              newTileStates[tileId].isFlipped = state.tileStates[tileId].isFlipped;
+              newTileStates[tileId].isAnswerShown = state.tileStates[tileId].isAnswerShown;
+              newTileStates[tileId].isBlank = state.tileStates[tileId].isBlank;
+              newTileStates[tileId].showModal = state.tileStates[tileId].showModal;
+              
+              // Also sync the question object if it was modified to include modal state
+              if (state.tileStates[tileId].question) {
+                newTileStates[tileId].question = state.tileStates[tileId].question;
+              }
+              
+              // Also sync the guessers information
+              if (state.tileStates[tileId].correctGuessers) {
+                newTileStates[tileId].correctGuessers = state.tileStates[tileId].correctGuessers;
+              }
+              if (state.tileStates[tileId].incorrectGuessers) {
+                newTileStates[tileId].incorrectGuessers = state.tileStates[tileId].incorrectGuessers;
               }
             }
           });
@@ -153,13 +214,23 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
     setUsers(newUsers);
   };
 
-  const handleScoreUpdate = (updatedUsers) => {
-    setUsers(updatedUsers);
+  const handleScoreUpdate = () => {
+    // Calculate the scores from tile states
+    const calculatedScores = calculateScoresFromTileStates();
+    console.log('Calculated scores:', calculatedScores);
+    
+    // Update the local state with a new array reference to trigger re-renders
+    setUsers([...calculatedScores]);
     
     // Signal a state change to trigger save
     if (props.onStateChange) {
-      props.onStateChange(updatedUsers);
+      console.log('Triggering onStateChange with calculated scores:', calculatedScores);
+      props.onStateChange(calculatedScores);
     }
+    
+    // Force a lastUpdated change to ensure components re-render
+    setLastUpdated(new Date().toISOString());
+    console.log('Last updated:', new Date().toISOString());
   };
 
   const handleResetUsers = () => {
@@ -173,13 +244,68 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
   const handleTileStateChange = (categoryIndex, questionIndex, newState) => {
     const tileId = `${categoryIndex}-${questionIndex}`;
     
-    setTileStates(prevStates => ({
-      ...prevStates,
-      [tileId]: newState
-    }));
+    setTileStates(prevStates => {
+      const updatedStates = {
+        ...prevStates,
+        [tileId]: newState
+      };
+      
+      // Calculate scores based on updated tile states
+      const calculatedScores = calculateScoresFromUpdatedTileStates(updatedStates);
+      console.log('New calculated scores:', calculatedScores);
+      
+      // Update users with new scores
+      setUsers([...calculatedScores]);
+      
+      // Trigger state change to save immediately after any tile state change
+      if (isGameCreator && props.onStateChange) {
+        console.log('Triggering immediate save after tile state change');
+        setTimeout(() => props.onStateChange(calculatedScores), 0);
+      }
+      
+      return updatedStates;
+    });
+  };
+  
+  // Calculate scores based on passed-in tile states (not using component state)
+  const calculateScoresFromUpdatedTileStates = (updatedTileStates) => {
+    // Start with all users having 0 score
+    const userScores = {};
+    users.forEach(user => {
+      userScores[user.name] = 0;
+    });
+
+    // Calculate scores from all tile states
+    Object.keys(updatedTileStates).forEach(tileId => {
+      const state = updatedTileStates[tileId];
+      const [catIndex, qIndex] = tileId.split('-').map(Number);
+      
+      // Skip if the category or question index is invalid
+      if (isNaN(catIndex) || isNaN(qIndex) || !categories[catIndex]) return;
+      
+      // Get the question value
+      const questionValue = categories[catIndex]?.questions[qIndex]?.value || 0;
+      
+      // Add points for correct guessers
+      state.correctGuessers?.forEach(userId => {
+        if (userScores.hasOwnProperty(userId)) {
+          userScores[userId] += questionValue;
+        }
+      });
+      
+      // Subtract points for incorrect guessers
+      state.incorrectGuessers?.forEach(userId => {
+        if (userScores.hasOwnProperty(userId)) {
+          userScores[userId] -= questionValue;
+        }
+      });
+    });
     
-    // No longer trigger save on tile state changes
-    // Only the handleScoreUpdate function will trigger saves
+    // Convert back to users array
+    return users.map(user => ({
+      ...user,
+      score: userScores[user.name] || 0
+    }));
   };
 
   return (

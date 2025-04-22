@@ -3,11 +3,13 @@
   cursor: pointer;
   perspective: 1000px;
   position: relative;
+  height: 120px; /* Fixed height for all tiles */
+  min-width: 180px; /* Minimum width to prevent squishing */
 }
 
 .tile-front, .tile-back {
   width: 100%;
-  height: 100%;
+  height: 100%; /* Full height */
   border-radius: 5px;
   display: flex;
   flex-direction: column;
@@ -16,10 +18,8 @@
   padding: 15px;
   text-align: center;
   backface-visibility: hidden;
-  position: absolute;
-  top: 0;
-  left: 0;
   transition: transform 0.6s ease-out;
+  overflow: hidden; /* Prevent content from expanding the tile */
 }
 
 .tile-front {
@@ -27,6 +27,12 @@
   color: #FFCC00;
   border: 3px solid black;
   transform: rotateY(0deg);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
 }
 
 .tile-back {
@@ -34,6 +40,13 @@
   color: white;
   border: 3px solid black;
   transform: rotateY(180deg);
+  min-height: 100%;
+  height: auto;
+  position: relative;
+}
+
+.tile.flipped {
+  height: 120px; /* Keep consistent height */
 }
 
 .tile.flipped .tile-front {
@@ -52,6 +65,11 @@
 .tile-question, .tile-answer {
   font-size: 1rem;
   margin-bottom: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Show max 3 lines */
+  -webkit-box-orient: vertical;
 }
 
 .tile-answer {
@@ -65,17 +83,49 @@
   margin-top: 10px;
 }
 
-/* This ensures tiles have a fixed aspect ratio */
-.tile::before {
-  content: '';
-  display: block;
-  padding-top: 75%;
+/* Remove aspect ratio handling since we're using fixed height */
+
+/* For blanked tiles, maintain the same fixed height */
+.tile.flipped.blank {
+  height: 120px;
 }
 
-.tile-front, .tile-back {
+.tile.flipped.blank .tile-back {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
+}
+
+/* Styles for guessing indicators */
+.tile-guessers {
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: center;
+}
+
+.guesser-tag {
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-size: 0.7rem;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.correct-guesser {
+  background-color: rgba(0, 255, 0, 0.3);
+  color: #ffffff;
+  border: 1px solid #00aa00;
+}
+
+.incorrect-guesser {
+  background-color: rgba(255, 0, 0, 0.3);
+  color: #ffffff;
+  border: 1px solid #aa0000;
 }

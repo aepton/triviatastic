@@ -187,10 +187,19 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
       }
       
       // Mark this user as having submitted a wager
-      setHasWagerSubmissions(prev => ({
-        ...prev,
-        [userName]: true
-      }));
+      setHasWagerSubmissions(prev => {
+        const newValue = {
+          ...prev,
+          [userName]: true
+        };
+        
+        // Save game state after wager submission is registered
+        if (onScoreUpdate) {
+          setTimeout(() => onScoreUpdate(users), 0);
+        }
+        
+        return newValue;
+      });
     } catch (error) {
       console.error('Error saving wager:', error);
     }
@@ -222,10 +231,19 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
       }
       
       // Mark this user as having submitted an answer
-      setHasAnswerSubmissions(prev => ({
-        ...prev,
-        [userName]: true
-      }));
+      setHasAnswerSubmissions(prev => {
+        const newValue = {
+          ...prev,
+          [userName]: true
+        };
+        
+        // Save game state after answer submission is registered
+        if (onScoreUpdate) {
+          setTimeout(() => onScoreUpdate(users), 0);
+        }
+        
+        return newValue;
+      });
     } catch (error) {
       console.error('Error saving answer:', error);
     }
@@ -233,6 +251,11 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
   
   const handleReveal = () => {
     setShowAnswers(true);
+    
+    // Save state when answer is revealed
+    if (onScoreUpdate) {
+      setTimeout(() => onScoreUpdate(users), 0);
+    }
   };
   
   const toggleUserGuess = (userName, isCorrect) => {
@@ -250,8 +273,12 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
       [userName]: newCorrectValue
     }));
     
-    // Calculate score changes
-    const userToUpdate = users.find(user => user.name === userName);
+    // For Final Jeopardy, we still calculate scores directly because of wagers
+    // We'll get the current scores from the regular board first
+    let currentUsers = [...users];
+    
+    // Calculate score changes for this user based on their final jeopardy performance
+    const userToUpdate = currentUsers.find(user => user.name === userName);
     if (userToUpdate) {
       const wager = parseInt(playerWagers[userName] || 0, 10);
       let scoreChange = 0;
@@ -272,7 +299,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
       // Only update scores if there's a change
       if (scoreChange !== 0) {
         // Create updated users array with the new score
-        const updatedUsers = users.map(user => {
+        const updatedUsers = currentUsers.map(user => {
           if (user.name === userName) {
             return {
               ...user,
@@ -282,7 +309,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
           return user;
         });
         
-        // Update parent components with new scores
+        // Update parent components with new scores (this triggers state save)
         onScoreUpdate(updatedUsers);
         
         // Log after updating scores to see if anything changed
@@ -402,7 +429,13 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
           {users.indexOf(users[0]) === 0 && (
             <div className="modal-actions">
               <button 
-                onClick={() => setShowClue(true)} 
+                onClick={() => {
+                  setShowClue(true);
+                  // Save state when moving to the clue screen
+                  if (onScoreUpdate) {
+                    setTimeout(() => onScoreUpdate(users), 0);
+                  }
+                }} 
                 className="btn-primary"
                 disabled={users.some(user => !hasWagerSubmissions[user.name])}
               >
@@ -519,7 +552,16 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
           
           {/* Show final scores button once answers are revealed */}
           {showAnswers && (
-            <button onClick={() => setShowFinalScores(true)} className="btn-secondary">
+            <button 
+              onClick={() => {
+                setShowFinalScores(true);
+                // Save game state when moving to final scores screen
+                if (onScoreUpdate) {
+                  setTimeout(() => onScoreUpdate(users), 0);
+                }
+              }} 
+              className="btn-secondary"
+            >
               Show Final Scores
             </button>
           )}

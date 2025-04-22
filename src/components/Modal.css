@@ -11,6 +11,10 @@
   z-index: 1000;
 }
 
+.jeopardy-modal-bg {
+  background-color: #0000AF;
+}
+
 .modal-content {
   background-color: #fff;
   padding: 2rem;
@@ -19,10 +23,123 @@
   max-width: 500px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   color: #333;
+  position: relative;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+@media (max-width: 600px) {
+  .modal-content {
+    padding: 1.5rem;
+    width: 95%;
+  }
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 16px;
+  z-index: 100;
+}
+
+.viewer-mode-indicator {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  color: #333;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.modal-content.full-screen {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0000AF;
+  color: white;
 }
 
 .guessing-modal {
   max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+/* New Jeopardy modal styles */
+.jeopardy-clue-screen,
+.jeopardy-answer-screen,
+.jeopardy-scoring-screen {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.jeopardy-clue {
+  font-size: 2rem;
+  margin: 2rem 0;
+  padding: 1rem;
+  max-width: 800px;
+  color: white;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.jeopardy-answer {
+  font-size: 2rem;
+  margin: 2rem 0;
+  padding: 1rem;
+  max-width: 800px;
+  color: #FFCC00;
+  font-weight: bold;
+}
+
+.jeopardy-value {
+  font-size: 1.5rem;
+  color: #FFCC00;
+  font-weight: bold;
+  margin-top: 2rem;
+}
+
+.clue-answer-summary {
+  background-color: #000080;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  width: 90%;
+  max-width: 800px;
+}
+
+.clue-answer-summary .clue {
+  margin-bottom: 0.5rem;
+  color: white;
+}
+
+.clue-answer-summary .answer {
+  color: #FFCC00;
 }
 
 .final-jeopardy-modal,
@@ -193,6 +310,27 @@
   border-color: #dc3545;
 }
 
+/* Viewer mode styles for player guesses */
+.players-list.view-only .player-guess-row {
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+}
+
+.guess-status .correct {
+  color: #198754;
+  font-weight: bold;
+}
+
+.guess-status .incorrect {
+  color: #dc3545;
+  font-weight: bold;
+}
+
+.guess-status .neutral {
+  color: #6c757d;
+  font-style: italic;
+}
+
 /* Final Jeopardy specific styles */
 .final-clue {
   background-color: #0000AF;
@@ -306,4 +444,36 @@
 
 .waiting-message {
   text-align: center;
+}
+
+/* Styles for question display in guessing modal */
+.question-display {
+  margin: 1rem 0 1.5rem;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.clue-section {
+  background-color: #0000AF;
+  color: white;
+  padding: 1rem;
+  border-radius: 4px 4px 0 0;
+}
+
+.answer-section {
+  background-color: #f8f8f8;
+  padding: 1rem;
+  border-radius: 0 0 4px 4px;
+  border-left: 4px solid #198754;
+}
+
+.clue-section h3, .answer-section h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.clue-section p, .answer-section p {
+  margin: 0;
+  font-size: 1.1rem;
 }

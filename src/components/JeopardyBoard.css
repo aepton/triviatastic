@@ -20,6 +20,15 @@
   transition: background-color 0.2s;
 }
 
+@media (max-width: 600px) {
+  .reset-users-btn {
+    bottom: 10px;
+    left: 10px;
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+}
+
 .reset-users-btn:hover {
   background-color: #00008b;
 }
@@ -67,32 +76,39 @@
 .jeopardy-board {
   display: flex;
   justify-content: center;
-  max-width: 100%;
   margin: 0 auto;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  padding: 20px 0;
+  max-width: 100%;
 }
 
 .categories-container {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(6, 200px); /* Fixed column width */
   gap: 15px;
-  width: 100%;
+  min-width: min-content; /* Ensure grid takes necessary space */
   align-items: stretch;
 }
 
-@media (max-width: 1000px) {
+/* Responsive adjustments */
+@media (max-width: 1300px) {
   .categories-container {
-    grid-template-columns: repeat(3, 1fr);
+    /* Maintain fixed column width but allow horizontal scroll */
+    grid-template-columns: repeat(6, 200px);
+  }
+  
+  .jeopardy-board {
+    justify-content: flex-start; /* Align content to left for better scrolling */
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
-@media (max-width: 600px) {
-  .categories-container {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 400px) {
-  .categories-container {
-    grid-template-columns: 1fr;
+/* Add vertical scrolling container around the board for very small screens */
+@media (max-height: 800px) {
+  .jeopardy-container {
+    max-height: 80vh;
+    overflow-y: auto;
   }
 }

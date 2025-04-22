@@ -104,14 +104,12 @@ function App() {
       // Initial load of remote state
       fetchGameState(gameIdentifier);
       
-      // Set up polling interval for fetching updates (every 2 seconds)
-      // The shorter interval helps ensure round changes are seen more quickly
+      // Set up polling interval for fetching updates (every 1 second for more responsive updates)
+      // The shorter interval helps ensure all game state changes are quickly reflected for viewers
       const syncInterval = setInterval(() => {
-        // Stop fetching game state if we're in final jeopardy
-        if (round !== 'finalJeopardy') {
-          fetchGameState(gameIdentifier);
-        }
-      }, 2000);
+        // Always fetch game state, even in final jeopardy, to ensure complete sync
+        fetchGameState(gameIdentifier);
+      }, 1000);
       
       // Clean up interval when component unmounts or identifier changes
       return () => clearInterval(syncInterval);
@@ -202,6 +200,11 @@ function App() {
       }
     }
     setRound(newRound);
+    
+    // Update board with the new round's data before allowing interactions
+    if (archiveData) {
+      loadBoardWithArchiveData(archiveData, newRound);
+    }
     
     // Save state when toggling rounds so joiners will also see the round change
     if (isGameCreator) {
@@ -336,7 +339,9 @@ function App() {
               newTileStates[tileId] = {
                 isFlipped: false,
                 isAnswerShown: false,
-                isBlank: false
+                isBlank: false,
+                correctGuessers: [],
+                incorrectGuessers: []
               };
             });
           });
@@ -419,11 +424,8 @@ function App() {
         }
         
         // Always load the full state with categories and tile states
-        // This ensures joiners see the correct categories when they join
-        // Don't load state if we're in final jeopardy to prevent wiping input values
-        if (gameState.round !== 'finalJeopardy' || !showFinalJeopardyModal) {
-          jeopardyBoardRef.current.loadState(gameState);
-        }
+        // This ensures joiners stay in sync with the creator for all game changes
+        jeopardyBoardRef.current.loadState(gameState);
         
         console.log(`Game state loaded for ${identifier}, last updated: ${gameState.lastUpdated}`, gameState);
       }
@@ -432,32 +434,44 @@ function App() {
     }
   };
   
-  // Handle game state changes (only called when points are awarded after guesses)
+  // Handle game state changes (called when tile states change or after Final Jeopardy)
   const handleGameStateChange = (updatedUsers) => {
-    // Update App-level users state with the latest scores
+    // If we received updated users from Final Jeopardy, use those
+    // Otherwise, recalculate scores from tile states
+    let newUsers;
+    
     if (updatedUsers && updatedUsers.length > 0) {
-      setUsers(updatedUsers);
+      // Use the scores provided by Final Jeopardy
+      newUsers = updatedUsers;
+    } else if (jeopardyBoardRef.current && typeof jeopardyBoardRef.current.calculateScores === 'function') {
+      // Calculate scores from tile states for regular questions
+      newUsers = jeopardyBoardRef.current.calculateScores();
+    } else {
+      return; // No way to update scores
+    }
+    
+    // Update App-level users state with the latest scores
+    setUsers(newUsers);
+    
+    // Update JeopardyBoard users state to ensure scoreboard is updated
+    if (jeopardyBoardRef.current && typeof jeopardyBoardRef.current.setUsers === 'function') {
+      jeopardyBoardRef.current.setUsers(newUsers);
+    }
+    
+    // Only save game state if this client is the game creator
+    if (isGameCreator) {
+      console.log('Game creator saving state after score update');
+      // Explicitly pass the round to avoid React's asynchronicity issues
       
-      // Update JeopardyBoard users state to ensure scoreboard is updated
-      if (jeopardyBoardRef.current && typeof jeopardyBoardRef.current.setUsers === 'function') {
-        jeopardyBoardRef.current.setUsers(updatedUsers);
-      }
-      
-      // Only save game state if this client is the game creator
-      if (isGameCreator) {
-        console.log('Game creator saving state after score update');
-        // Explicitly pass the round to avoid React's asynchronicity issues
-        
-        // For Final Jeopardy, only update the users without refreshing the full state
-        if (round === 'finalJeopardy') {
-          // Just update users without a full state reload to preserve input values
-          saveCurrentGameState(updatedUsers, round, showFinalJeopardyModal);
-        } else {
-          saveCurrentGameState(updatedUsers, round);
-        }
+      // For Final Jeopardy, only update the users without refreshing the full state
+      if (round === 'finalJeopardy') {
+        // Just update users without a full state reload to preserve input values
+        saveCurrentGameState(newUsers, round, showFinalJeopardyModal);
       } else {
-        console.log('Game joiner not saving state after score update');
+        saveCurrentGameState(newUsers, round);
       }
+    } else {
+      console.log('Game joiner not saving state after score update');
     }
   };
 
