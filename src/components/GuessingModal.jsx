@@ -9,7 +9,10 @@ function GuessingModal({
   correctGuessers: initialCorrectGuessers = [], 
   incorrectGuessers: initialIncorrectGuessers = [],
   question, // Add the question prop
-  isGameCreator = false  // Add isGameCreator prop
+  isGameCreator = false,  // Add isGameCreator prop
+  categoryIndex,        // Add categoryIndex for tile state updates
+  questionIndex,        // Add questionIndex for tile state updates
+  onTileStateChange     // Add function to update tile state directly
 }) {
   const [step, setStep] = useState('clue'); // 'clue', 'answer', 'scoring'
   const [correctGuessers, setCorrectGuessers] = useState(initialCorrectGuessers);
@@ -22,6 +25,21 @@ function GuessingModal({
       setStep(question.modalStep);
     }
   }, [question]);
+  
+  // Deep sync for viewers when question changes
+  useEffect(() => {
+    // For remote state syncing, make sure we update when the question object changes
+    // This is especially important when switching rounds
+    if (!isGameCreator && question) {
+      // If we have a modalStep in the question, use it
+      if (question.modalStep) {
+        setStep(question.modalStep);
+      } else {
+        // Default to clue state if no modalStep is set
+        setStep('clue');
+      }
+    }
+  }, [question, isGameCreator]);
 
   const toggleUserGuess = (userId, guessStatus) => {
     let newCorrect, newIncorrect;
@@ -86,23 +104,42 @@ function GuessingModal({
     }
   };
 
+  // Helper function to update tile state with the modal step
+  const updateTileWithModalStep = (modalStep) => {
+    if (isGameCreator && onTileStateChange && categoryIndex !== undefined && questionIndex !== undefined) {
+      // Update the tile state with the new modal step
+      onTileStateChange(categoryIndex, questionIndex, {
+        showModal: true,
+        question: {
+          ...question,
+          modalStep: modalStep
+        }
+      });
+      
+      // Save game state to sync with viewers
+      if (onScoreUpdate) {
+        setTimeout(() => onScoreUpdate(), 0);
+      }
+    }
+  };
+  
   const showAnswer = () => {
     setStep('answer');
-    // Trigger a state save when phase changes to answer
-    if (isGameCreator && onScoreUpdate) {
-      // We need to save the step to the question object to sync with viewers
+    
+    // Update the question modalStep and sync with viewers
+    if (isGameCreator && question) {
       question.modalStep = 'answer';
-      setTimeout(() => onScoreUpdate(), 0);
+      updateTileWithModalStep('answer');
     }
   };
 
   const showScoring = () => {
     setStep('scoring');
-    // Trigger a state save when phase changes to scoring
-    if (isGameCreator && onScoreUpdate) {
-      // We need to save the step to the question object to sync with viewers
+    
+    // Update the question modalStep and sync with viewers
+    if (isGameCreator && question) {
       question.modalStep = 'scoring';
-      setTimeout(() => onScoreUpdate(), 0);
+      updateTileWithModalStep('scoring');
     }
   };
 

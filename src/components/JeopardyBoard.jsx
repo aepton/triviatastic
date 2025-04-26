@@ -79,17 +79,20 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
       // Get the question value
       const questionValue = categories[catIndex]?.questions[qIndex]?.value || 0;
       
+      // Ensure question value is a number, not a string
+      const numericValue = typeof questionValue === 'string' ? parseInt(questionValue, 10) : questionValue;
+      
       // Add points for correct guessers
       state.correctGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] += questionValue;
+          userScores[userId] += numericValue;
         }
       });
       
       // Subtract points for incorrect guessers
       state.incorrectGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] -= questionValue;
+          userScores[userId] -= numericValue;
         }
       });
     });
@@ -120,7 +123,7 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
     calculateScores: () => {
       return calculateScoresFromTileStates();
     },
-    resetTileStates: () => {
+    resetTileStates: (preservedUsers = null) => {
       // Create fresh tile states for all current categories
       const newTileStates = {};
       
@@ -138,13 +141,20 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
       });
       
       setTileStates(newTileStates);
+      
+      // If we have users with preserved scores, update them
+      if (preservedUsers && preservedUsers.length > 0) {
+        setUsers(preservedUsers);
+      }
     },
     loadState: (state) => {
       if (!state) return;
       
+      // Always update categories first
       if (state.categories) setCategories(state.categories);
       
       // Always update users when they're available in the state
+      // This ensures scores are maintained when changing rounds
       if (state.users && state.users.length > 0) {
         setUsers(state.users);
       }
@@ -286,17 +296,20 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
       // Get the question value
       const questionValue = categories[catIndex]?.questions[qIndex]?.value || 0;
       
+      // Ensure question value is a number, not a string
+      const numericValue = typeof questionValue === 'string' ? parseInt(questionValue, 10) : questionValue;
+      
       // Add points for correct guessers
       state.correctGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] += questionValue;
+          userScores[userId] += numericValue;
         }
       });
       
       // Subtract points for incorrect guessers
       state.incorrectGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] -= questionValue;
+          userScores[userId] -= numericValue;
         }
       });
     });

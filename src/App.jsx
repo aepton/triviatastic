@@ -184,22 +184,36 @@ function App() {
 
   const toggleRound = () => {
     let newRound;
+    
+    // Store current users with scores before resetting tile states
+    let currentUsers = [];
+    if (jeopardyBoardRef.current) {
+      currentUsers = jeopardyBoardRef.current.calculateScores();
+    }
+    
     if (round === 'jeopardy') {
       newRound = 'doubleJeopardy';
       // Reset tile states when switching to double jeopardy
       if (jeopardyBoardRef.current) {
-        jeopardyBoardRef.current.resetTileStates();
+        jeopardyBoardRef.current.resetTileStates(currentUsers);
       }
     } else if (round === 'doubleJeopardy') {
       newRound = 'finalJeopardy';
+      // Make sure users' scores are preserved when going to Final Jeopardy
+      console.log("Transitioning to Final Jeopardy with preserved scores:", currentUsers);
     } else {
       newRound = 'jeopardy';
       // Also reset tile states when switching back to jeopardy round
       if (jeopardyBoardRef.current) {
-        jeopardyBoardRef.current.resetTileStates();
+        jeopardyBoardRef.current.resetTileStates(currentUsers);
       }
     }
     setRound(newRound);
+    
+    // Update users state with preserved scores
+    if (currentUsers.length > 0) {
+      setUsers(currentUsers);
+    }
     
     // Update board with the new round's data before allowing interactions
     if (archiveData) {
@@ -208,8 +222,8 @@ function App() {
     
     // Save state when toggling rounds so joiners will also see the round change
     if (isGameCreator) {
-      // Pass the new round value explicitly to avoid React's async state issues
-      saveCurrentGameState(null, newRound);
+      // Pass the new round value and preserved users explicitly to avoid React's async state issues
+      saveCurrentGameState(currentUsers, newRound);
     }
   };
   

@@ -168,6 +168,23 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
       const gameId = users[0]?.gameId;
       if (!gameId) return;
       
+      // Find the user to check their current score
+      const user = users.find(u => u.name === userName);
+      if (!user) return;
+      
+      // Parse wager and validate against current score - allow up to $1000 even if score is lower
+      const wagerAmount = parseInt(playerWagers[userName] || "0", 10);
+      const maxWager = Math.max(user.score, 1000);
+      if (wagerAmount > maxWager) {
+        alert(`Wager of $${wagerAmount} exceeds your maximum wager of $${maxWager}. Please enter a valid amount.`);
+        return;
+      }
+      
+      console.log(`Saving wager for ${userName}:`, {
+        score: user.score,
+        wager: wagerAmount
+      });
+      
       const response = await fetch('https://faas-sfo3-7872a1dd.doserverless.co/api/v1/web/fn-47dddde9-70be-4ccc-a992-b68c3887ccb9/default/saver', {
         method: 'POST',
         headers: {
@@ -176,7 +193,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
         body: JSON.stringify({
           gameIdentifier: `${gameId}-wager-${userName}`,
           gameState: {
-            wager: playerWagers[userName] || "0",
+            wager: wagerAmount.toString(),
             lastUpdated: new Date().toISOString()
           }
         })
@@ -274,8 +291,8 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
     }));
     
     // For Final Jeopardy, we still calculate scores directly because of wagers
-    // We'll get the current scores from the regular board first
-    let currentUsers = [...users];
+    // We'll get the current scores from the passed users prop to ensure we preserve scores from Double Jeopardy
+    let currentUsers = JSON.parse(JSON.stringify(users)); // Deep clone to avoid reference issues
     
     // Calculate score changes for this user based on their final jeopardy performance
     const userToUpdate = currentUsers.find(user => user.name === userName);
@@ -309,15 +326,16 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
           return user;
         });
         
+        console.log(`Updating score for ${userName}:`, {
+          originalScore: userToUpdate.score,
+          wager,
+          scoreChange,
+          isCorrect: newCorrectValue,
+          newScore: userToUpdate.score + scoreChange
+        });
+        
         // Update parent components with new scores (this triggers state save)
         onScoreUpdate(updatedUsers);
-        
-        // Log after updating scores to see if anything changed
-        console.log(`After score update for ${userName}`, {
-          answer: playerAnswers[userName],
-          wager: playerWagers[userName],
-          scoreChange
-        });
       }
     }
   };
@@ -383,7 +401,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
               <div key={user.name} className="player-answer-row">
                 <div className="player-input-group">
                   <div className="player-name">
-                    {user.name}
+                    {user.name} - Current Score: ${user.score}
                     {hasWagerSubmissions[user.name] && <span className="submitted-indicator"> (Wager Submitted)</span>}
                   </div>
                   
@@ -408,10 +426,14 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
                     <button
                       className="save-btn"
                       onClick={() => handleSaveWager(user.name)}
-                      disabled={!playerWagers[user.name]}
+                      disabled={!playerWagers[user.name] || parseInt(playerWagers[user.name], 10) > Math.max(user.score, 1000)}
                     >
                       Submit Wager
                     </button>
+                  )}
+                  
+                  {!hasWagerSubmissions[user.name] && parseInt(playerWagers[user.name], 10) > Math.max(user.score, 1000) && (
+                    <div className="wager-error">Cannot wager more than ${Math.max(user.score, 1000)}</div>
                   )}
                 </div>
               </div>
@@ -471,7 +493,7 @@ function FinalJeopardyModal({ category, clue, answer, users, onClose, onScoreUpd
             <div key={user.name} className="player-answer-row">              
               <div className="player-input-group">
                 <div className="player-name">
-                  {user.name}
+                  {user.name} - Current Score: ${user.score}
                   {hasAnswerSubmissions[user.name] && !showAnswers && <span className="submitted-indicator"> (Answer Submitted)</span>}
                 </div>
 

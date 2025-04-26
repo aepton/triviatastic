@@ -26,15 +26,15 @@ function Tile({
   
   // Sync local modal state with tile state for viewers
   useEffect(() => {
+    // Always reflect the remote state for viewers
     if (!isGameCreator) {
-      // Always reflect the remote state for viewers
       if (showModal && !showGuessingModal) {
         setShowGuessingModal(true);
       } else if (!showModal && showGuessingModal) {
         setShowGuessingModal(false);
       }
     }
-  }, [showModal, isGameCreator, showGuessingModal]);
+  }, [showModal, isGameCreator, showGuessingModal, categoryIndex, questionIndex]);
 
   const updateTileState = (newState) => {
     onTileStateChange(categoryIndex, questionIndex, {
@@ -77,6 +77,7 @@ function Tile({
     if (correctUsers.length > 0 || incorrectUsers.length > 0) {
       // Store both the blank state and the guessers in the tile state
       updateTileState({ 
+        isFlipped: true,
         isBlank: true,
         correctGuessers: correctUsers,
         incorrectGuessers: incorrectUsers,
@@ -96,6 +97,8 @@ function Tile({
       // If modal was closed without clicking "Update Scores", just close it
       // without changing any response data
       updateTileState({
+        isFlipped: true,
+        isBlank: true,
         showModal: false, // Close modal for viewers too
         // Reset the modal step when closing
         question: {
@@ -163,6 +166,9 @@ function Tile({
           incorrectGuessers={incorrectGuessers || []}
           question={question}
           isGameCreator={isGameCreator}
+          categoryIndex={categoryIndex}
+          questionIndex={questionIndex}
+          onTileStateChange={onTileStateChange}
         />
       )}
     </>
