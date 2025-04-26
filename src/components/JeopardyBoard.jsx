@@ -42,17 +42,26 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
     categories.forEach((category, categoryIndex) => {
       category.questions.forEach((question, questionIndex) => {
         const tileId = `${categoryIndex}-${questionIndex}`;
+        
+        // Get the question value and ensure it's a number
+        const questionValue = question.value || 0;
+        const numericValue = typeof questionValue === 'string' ? parseInt(questionValue, 10) : questionValue;
+        
         if (!tileStates[tileId]) {
           newTileStates[tileId] = {
             isFlipped: false,
             isAnswerShown: false,
             isBlank: false,
             correctGuessers: [],
-            incorrectGuessers: []
+            incorrectGuessers: [],
+            originalValue: numericValue // Store the original value
           };
         } else {
-          // Preserve existing state if it exists
-          newTileStates[tileId] = tileStates[tileId];
+          // Preserve existing state if it exists, including originalValue
+          newTileStates[tileId] = {
+            ...tileStates[tileId],
+            originalValue: tileStates[tileId].originalValue || numericValue // Keep existing originalValue or set if missing
+          };
         }
       });
     });
@@ -82,17 +91,25 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
       // Ensure question value is a number, not a string
       const numericValue = typeof questionValue === 'string' ? parseInt(questionValue, 10) : questionValue;
       
+      // Store the value in the tile state to preserve it across round changes
+      if (!state.originalValue) {
+        state.originalValue = numericValue;
+      }
+      
+      // Use the stored original value for scoring
+      const valueToUse = state.originalValue || numericValue;
+      
       // Add points for correct guessers
       state.correctGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] += numericValue;
+          userScores[userId] += valueToUse;
         }
       });
       
       // Subtract points for incorrect guessers
       state.incorrectGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] -= numericValue;
+          userScores[userId] -= valueToUse;
         }
       });
     });
@@ -130,12 +147,18 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
       categories.forEach((category, categoryIndex) => {
         category.questions.forEach((question, questionIndex) => {
           const tileId = `${categoryIndex}-${questionIndex}`;
+          // Get the question value and ensure it's a number
+          const questionValue = question.value || 0;
+          const numericValue = typeof questionValue === 'string' ? parseInt(questionValue, 10) : questionValue;
+          
+          // Create new tile state with the original value stored
           newTileStates[tileId] = {
             isFlipped: false,
             isAnswerShown: false,
             isBlank: false,
             correctGuessers: [],
-            incorrectGuessers: []
+            incorrectGuessers: [],
+            originalValue: numericValue // Store the original value when reset
           };
         });
       });
@@ -175,6 +198,21 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
               newTileStates[tileId].isAnswerShown = state.tileStates[tileId].isAnswerShown;
               newTileStates[tileId].isBlank = state.tileStates[tileId].isBlank;
               newTileStates[tileId].showModal = state.tileStates[tileId].showModal;
+              
+              // Preserve originalValue when syncing tile states
+              if (state.tileStates[tileId].originalValue) {
+                newTileStates[tileId].originalValue = state.tileStates[tileId].originalValue;
+              } else if (newTileStates[tileId].originalValue) {
+                // Keep existing originalValue if it's not in the remote state
+              } else {
+                // If neither has originalValue, try to set it from the current question value
+                const [catIndex, qIndex] = tileId.split('-').map(Number);
+                if (!isNaN(catIndex) && !isNaN(qIndex) && categories[catIndex]?.questions[qIndex]) {
+                  const questionValue = categories[catIndex].questions[qIndex].value || 0;
+                  newTileStates[tileId].originalValue = typeof questionValue === 'string' ? 
+                    parseInt(questionValue, 10) : questionValue;
+                }
+              }
               
               // Also sync the question object if it was modified to include modal state
               if (state.tileStates[tileId].question) {
@@ -299,17 +337,25 @@ const JeopardyBoard = forwardRef(({ isGameCreator = false, ...props }, ref) => {
       // Ensure question value is a number, not a string
       const numericValue = typeof questionValue === 'string' ? parseInt(questionValue, 10) : questionValue;
       
+      // Store the value in the tile state to preserve it across round changes
+      if (!state.originalValue) {
+        state.originalValue = numericValue;
+      }
+      
+      // Use the stored original value for scoring
+      const valueToUse = state.originalValue || numericValue;
+      
       // Add points for correct guessers
       state.correctGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] += numericValue;
+          userScores[userId] += valueToUse;
         }
       });
       
       // Subtract points for incorrect guessers
       state.incorrectGuessers?.forEach(userId => {
         if (userScores.hasOwnProperty(userId)) {
-          userScores[userId] -= numericValue;
+          userScores[userId] -= valueToUse;
         }
       });
     });
