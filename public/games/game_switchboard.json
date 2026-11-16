@@ -1,0 +1,572 @@
+{
+  "title": "Switchboard Jeopardy!",
+  "jeopardyRound": {
+    "categories": [
+      "TXT HISTORY",
+      "IMHO",
+      "DEMOCRATIC PRESIDENTS",
+      "DONKEY BUSINESS",
+      "HELLO, OPERATOR",
+      "CALL ME, MAYBE"
+    ],
+    "clues": [
+      {
+        "category": "TXT HISTORY",
+        "value": 200,
+        "question": "The first SMS, sent in December 1992 from a computer to a phone, read these two words",
+        "answer": "Merry Christmas",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "TXT HISTORY",
+        "value": 400,
+        "question": "SMS stands for this",
+        "answer": "Short Message Service",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "TXT HISTORY",
+        "value": 600,
+        "question": "The predictive-texting system T9 got its name from this phrase",
+        "answer": "Text on 9 keys",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "TXT HISTORY",
+        "value": 800,
+        "question": "Twitter's original 140-character limit was set to fit, with room for a username, inside a text of this length",
+        "answer": "160 characters",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "TXT HISTORY",
+        "value": 1000,
+        "question": "Engineer Friedhelm Hillebrand settled on the 160-character limit after testing sample messages on this machine",
+        "answer": "A typewriter",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "IMHO",
+        "value": 200,
+        "question": "In textspeak, it's what you type when you'll be right back",
+        "answer": "BRB",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "IMHO",
+        "value": 400,
+        "question": "FOMO stands for this",
+        "answer": "Fear of missing out",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "IMHO",
+        "value": 600,
+        "question": "This 3-letter abbreviation is the opposite of 'online'",
+        "answer": "IRL (in real life)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "IMHO",
+        "value": 800,
+        "question": "Pager users sent this 3-digit number, the letter count of each word, to say 'I love you'",
+        "answer": "143",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "IMHO",
+        "value": 1000,
+        "question": "Its first known use was in a 1917 letter to Winston Churchill from a British admiral",
+        "answer": "OMG",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "DEMOCRATIC PRESIDENTS",
+        "value": 200,
+        "question": "The first Democratic president, he's on the $20 bill",
+        "answer": "Andrew Jackson",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATIC PRESIDENTS",
+        "value": 400,
+        "question": "He's the only president elected four times",
+        "answer": "Franklin D. Roosevelt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATIC PRESIDENTS",
+        "value": 600,
+        "question": "He's the only U.S. president to have earned a PhD",
+        "answer": "Woodrow Wilson",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATIC PRESIDENTS",
+        "value": 800,
+        "question": "This Democrat was the first president to serve two nonconsecutive terms",
+        "answer": "Grover Cleveland",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "DEMOCRATIC PRESIDENTS",
+        "value": 1000,
+        "question": "A famous 1948 Chicago Tribune headline wrongly declared that this Republican had defeated Truman",
+        "answer": "Thomas Dewey",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "DONKEY BUSINESS",
+        "value": 200,
+        "question": "The Democratic Party's animal mascot",
+        "answer": "The donkey",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "DONKEY BUSINESS",
+        "value": 400,
+        "question": "This cartoonist popularized the Democratic donkey in Harper's Weekly in the 1870s",
+        "answer": "Thomas Nast",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "DONKEY BUSINESS",
+        "value": 600,
+        "question": "The modern Democratic Party is usually dated to this year, when Andrew Jackson won the White House",
+        "answer": "1828",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "DONKEY BUSINESS",
+        "value": 800,
+        "question": "This New York City Democratic machine, once run by Boss Tweed, was symbolized by a tiger",
+        "answer": "Tammany Hall",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "DONKEY BUSINESS",
+        "value": 1000,
+        "question": "A Democrat so loyal he'd vote for this animal if it were on the party ticket earned this colorful nickname",
+        "answer": "Yellow dog (Democrat)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "HELLO, OPERATOR",
+        "value": 200,
+        "question": "Early operators greeted callers with this two-word question",
+        "answer": "Number, please?",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "HELLO, OPERATOR",
+        "value": 400,
+        "question": "Hired in Boston in 1878, she's considered the first woman telephone operator",
+        "answer": "Emma Nutt",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "HELLO, OPERATOR",
+        "value": 600,
+        "question": "The first commercial telephone switchboard opened in 1878 in this Connecticut city",
+        "answer": "New Haven",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "HELLO, OPERATOR",
+        "value": 800,
+        "question": "American women who ran switchboards for the Army in WWI France were nicknamed this",
+        "answer": "The Hello Girls",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "HELLO, OPERATOR",
+        "value": 1000,
+        "question": "This Kansas City undertaker invented the automatic exchange, convinced an operator was routing his calls to a rival",
+        "answer": "Almon Strowger",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "CALL ME, MAYBE",
+        "value": 200,
+        "question": "Tommy Tutone got Jenny's number: this",
+        "answer": "867-5309",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "CALL ME, MAYBE",
+        "value": 400,
+        "question": "Glenn Miller's 1940 hit was named for the Hotel Pennsylvania's phone number",
+        "answer": "Pennsylvania 6-5000",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "CALL ME, MAYBE",
+        "value": 600,
+        "question": "Elizabeth Taylor won an Oscar for this 1960 film named for a Manhattan telephone exchange",
+        "answer": "BUtterfield 8",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "CALL ME, MAYBE",
+        "value": 800,
+        "question": "The Marvelettes asked the operator to connect them to this number",
+        "answer": "Beechwood 4-5789",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "CALL ME, MAYBE",
+        "value": 1000,
+        "question": "Jim Croce's 1972 song asking an operator for help placing a call",
+        "answer": "Operator (That's Not the Way It Feels)",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "doubleJeopardyRound": {
+    "categories": [
+      "MESSAGE RECEIVED",
+      "EMOJI-NAL",
+      "CONVENTIONAL WISDOM",
+      "PARTY PEOPLE",
+      "ONE RINGY-DINGY",
+      "THE OTHER SWITCHBOARDS"
+    ],
+    "clues": [
+      {
+        "category": "MESSAGE RECEIVED",
+        "value": 400,
+        "question": "Picture texts are sent via MMS, which stands for this",
+        "answer": "Multimedia Messaging Service",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 0
+      },
+      {
+        "category": "MESSAGE RECEIVED",
+        "value": 800,
+        "question": "Apple launched this service in 2011, giving the world blue bubbles",
+        "answer": "iMessage",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 0
+      },
+      {
+        "category": "MESSAGE RECEIVED",
+        "value": 1200,
+        "question": "Apple finally adopted this successor to SMS, initials RCS, in 2024",
+        "answer": "Rich Communication Services",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 0
+      },
+      {
+        "category": "MESSAGE RECEIVED",
+        "value": 1600,
+        "question": "The GSM mobile standard's initials originally stood for 'Groupe Spécial' this",
+        "answer": "Mobile",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 0
+      },
+      {
+        "category": "MESSAGE RECEIVED",
+        "value": 2000,
+        "question": "Business texts sent from ordinary 10-digit numbers go over this, abbreviated 10DLC",
+        "answer": "10-digit long code",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 0
+      },
+      {
+        "category": "EMOJI-NAL",
+        "value": 400,
+        "question": "World Emoji Day falls on this date, the one shown on the calendar emoji",
+        "answer": "July 17",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 1
+      },
+      {
+        "category": "EMOJI-NAL",
+        "value": 800,
+        "question": "Despite the resemblance, 'emoji' has nothing to do with 'emotion'; it's Japanese for picture plus this",
+        "answer": "Character",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 1
+      },
+      {
+        "category": "EMOJI-NAL",
+        "value": 1200,
+        "question": "In 2015 this emoji became Oxford Dictionaries' Word of the Year",
+        "answer": "Face with Tears of Joy",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 1
+      },
+      {
+        "category": "EMOJI-NAL",
+        "value": 1600,
+        "question": "Shigetaka Kurita designed an early, influential emoji set in 1999 for this Japanese mobile carrier",
+        "answer": "NTT Docomo",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 1
+      },
+      {
+        "category": "EMOJI-NAL",
+        "value": 2000,
+        "question": "In 1982, Scott Fahlman proposed :-) to mark jokes on a message board at this university",
+        "answer": "Carnegie Mellon",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 1
+      },
+      {
+        "category": "CONVENTIONAL WISDOM",
+        "value": 400,
+        "question": "In 2008, Obama accepted the nomination in the stadium of this NFL team",
+        "answer": "Denver Broncos",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 2
+      },
+      {
+        "category": "CONVENTIONAL WISDOM",
+        "value": 800,
+        "question": "Obama's 2004 keynote at the convention in this city put him on the national map",
+        "answer": "Boston",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 2
+      },
+      {
+        "category": "CONVENTIONAL WISDOM",
+        "value": 1200,
+        "question": "At the 1896 convention, William Jennings Bryan warned that mankind must not be crucified upon one of these",
+        "answer": "A cross of gold",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 2
+      },
+      {
+        "category": "CONVENTIONAL WISDOM",
+        "value": 1600,
+        "question": "In 1932 FDR became the first nominee to accept in person, pledging a 'new' one of these",
+        "answer": "Deal",
+        "isDailyDouble": true,
+        "row": 3,
+        "column": 2
+      },
+      {
+        "category": "CONVENTIONAL WISDOM",
+        "value": 2000,
+        "question": "The 1924 convention at Madison Square Garden took this record number of ballots to pick a nominee",
+        "answer": "103",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 2
+      },
+      {
+        "category": "PARTY PEOPLE",
+        "value": 400,
+        "question": "In 2007 she became the first woman Speaker of the House",
+        "answer": "Nancy Pelosi",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 3
+      },
+      {
+        "category": "PARTY PEOPLE",
+        "value": 800,
+        "question": "In 1984 this New York congresswoman became the first woman on a major-party presidential ticket",
+        "answer": "Geraldine Ferraro",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 3
+      },
+      {
+        "category": "PARTY PEOPLE",
+        "value": 1200,
+        "question": "Her 1972 presidential campaign slogan was 'Unbought and Unbossed'",
+        "answer": "Shirley Chisholm",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 3
+      },
+      {
+        "category": "PARTY PEOPLE",
+        "value": 1600,
+        "question": "FDR's Secretary of Labor, she was the first woman in a presidential Cabinet",
+        "answer": "Frances Perkins",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 3
+      },
+      {
+        "category": "PARTY PEOPLE",
+        "value": 2000,
+        "question": "This Massachusetts Speaker of the House is known for saying 'All politics is local'",
+        "answer": "Tip O'Neill",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 3
+      },
+      {
+        "category": "ONE RINGY-DINGY",
+        "value": 400,
+        "question": "Lily Tomlin's snorting phone-company operator on 'Laugh-In'",
+        "answer": "Ernestine",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 4
+      },
+      {
+        "category": "ONE RINGY-DINGY",
+        "value": 800,
+        "question": "Callers once asked for the operator by this name, as in the 1901 song 'Hello, ___, Give Me Heaven'",
+        "answer": "Central",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 4
+      },
+      {
+        "category": "ONE RINGY-DINGY",
+        "value": 1200,
+        "question": "Judy Holliday starred as an answering-service operator in this musical",
+        "answer": "Bells Are Ringing",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 4
+      },
+      {
+        "category": "ONE RINGY-DINGY",
+        "value": 1600,
+        "question": "In 1983 this Maine village became the last place in the U.S. to give up hand-cranked phones",
+        "answer": "Bryant Pond",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 4
+      },
+      {
+        "category": "ONE RINGY-DINGY",
+        "value": 2000,
+        "question": "Strowger's company promised a phone that was 'girl-less, cuss-less, out-of-order-less' and this",
+        "answer": "Wait-less",
+        "isDailyDouble": true,
+        "row": 4,
+        "column": 4
+      },
+      {
+        "category": "THE OTHER SWITCHBOARDS",
+        "value": 400,
+        "question": "Nick Lowe sang about this operator on his 1979 album 'Labour of Lust'",
+        "answer": "Switchboard Susan",
+        "isDailyDouble": false,
+        "row": 0,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER SWITCHBOARDS",
+        "value": 800,
+        "question": "In a theater, the switchboard traditionally controls this",
+        "answer": "The lighting",
+        "isDailyDouble": false,
+        "row": 1,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER SWITCHBOARDS",
+        "value": 1200,
+        "question": "A company's in-house phone switchboard goes by this 3-letter acronym",
+        "answer": "PBX (private branch exchange)",
+        "isDailyDouble": false,
+        "row": 2,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER SWITCHBOARDS",
+        "value": 1600,
+        "question": "Founded in London in 1974, the Switchboard helpline serves this community",
+        "answer": "LGBTQ+ (lesbian and gay) community",
+        "isDailyDouble": false,
+        "row": 3,
+        "column": 5
+      },
+      {
+        "category": "THE OTHER SWITCHBOARDS",
+        "value": 2000,
+        "question": "The front panel of cables on WWII's Enigma machine, a tiny switchboard that scrambled letters, was called this",
+        "answer": "The plugboard",
+        "isDailyDouble": false,
+        "row": 4,
+        "column": 5
+      }
+    ]
+  },
+  "finalJeopardy": {
+    "category": "THE DNC",
+    "clue": "The Democratic National Committee, the longest-running party committee in the U.S., was founded in this year, 20 years after the party itself",
+    "answer": "1848"
+  }
+}
